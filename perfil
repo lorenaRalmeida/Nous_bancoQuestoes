@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nous · Meu Perfil</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+  <style>
+    :root{
+      --roxo-claro:#A83CCA;--roxo-medio:#B340D7;--roxo-vibrante:#9334B1;
+      --roxo-forte:#73298A;--roxo-intenso:#3E164B;
+      --roxo:#73298A;--roxo-escuro:#3E164B;--roxo-bg:#F0DDF7;
+      --fundo:#F7EEFB;--card:#FFFFFF;--texto:#2A0F35;
+      --muted:#6B4A7A;--linha:#E0C9EC;
+      --sombra:0 18px 45px rgba(115,41,138,.15);
+      --sidebar-bg:#3E164B;--hero-bg:#73298A;
+      --navbar-bg:#FFFFFF;--navbar-border:#E0C9EC;--navbar-height:72px;
+    }
+    body.dark{
+      --roxo-claro:#7A3FA8;--roxo-medio:#560072;--roxo-vibrante:#3D005C;
+      --roxo-forte:#2A0048;--roxo-intenso:#1A002E;
+      --roxo:#9F6BD9;--roxo-escuro:#7A3FA8;--roxo-bg:#3D005C;
+      --fundo:#000000;--card:#2A0048;--texto:#F0E6FF;
+      --muted:#B49CD1;--linha:#560072;
+      --sombra:0 18px 45px rgba(86,0,114,.35);
+      --sidebar-bg:#2A0048;--hero-bg:#560072;
+      --navbar-bg:#1A002E;--navbar-border:#2A0048;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    html,body{height:100%;overflow:hidden}
+    body{font-family:Inter,Arial,sans-serif;background:var(--fundo);color:var(--texto);transition:.3s;display:flex;flex-direction:column}
+
+    /* ============ NAVBAR FIXA ============ */
+    .navbar{height:var(--navbar-height);background:var(--navbar-bg);border-bottom:1px solid var(--navbar-border);display:flex;align-items:center;justify-content:space-between;padding:0 28px;flex-shrink:0;z-index:200;gap:20px;transition:background .3s,border-color .3s}
+    .navbar-logo{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--texto);flex-shrink:0}
+    .navbar-logo-icon{width:40px;height:40px;border-radius:10px;background:linear-gradient(135deg,var(--roxo-forte),var(--roxo-vibrante));display:grid;place-items:center;color:#fff;font-size:20px;box-shadow:0 4px 12px rgba(115,41,138,.25)}
+    .navbar-logo-text{display:flex;flex-direction:column;line-height:1.1}
+    .navbar-logo-text strong{font-size:18px;font-weight:800;letter-spacing:-.3px}
+    .navbar-logo-text span{font-size:9px;color:var(--muted);font-weight:500}
+    .navbar-nav{display:flex;align-items:center;gap:4px;flex:1;justify-content:center}
+    .navbar-nav a{text-decoration:none;color:var(--texto);font-size:14px;font-weight:500;padding:10px 16px;border-radius:8px;transition:.2s;cursor:pointer}
+    .navbar-nav a:hover{background:var(--roxo-bg);color:var(--roxo)}
+    .navbar-nav a.active{background:#DDE7FB;color:#1A3A8F;font-weight:600}
+    body.dark .navbar-nav a.active{background:#3D005C;color:#C9A3F5}
+    .navbar-actions{display:flex;align-items:center;gap:12px;flex-shrink:0}
+    .navbar-actions .nav-link{text-decoration:none;color:var(--texto);font-size:14px;font-weight:500;padding:10px 14px;border-radius:8px;cursor:pointer}
+    .navbar-actions .nav-link:hover{background:var(--roxo-bg);color:var(--roxo)}
+    .navbar-actions .btn-cadastrar{text-decoration:none;background:#1A73E8;color:#fff;font-size:14px;font-weight:600;padding:11px 22px;border-radius:8px;cursor:pointer;box-shadow:0 4px 12px rgba(26,115,232,.3)}
+    .navbar-actions .btn-cadastrar:hover{background:#1557B0;transform:translateY(-1px)}
+    .navbar-actions .globe-btn{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;color:var(--texto);font-size:18px;cursor:pointer;border:none;background:transparent}
+    .navbar-actions .globe-btn:hover{background:var(--roxo-bg);color:var(--roxo)}
+
+    /* ============ LAYOUT ============ */
+    .main-wrapper{display:flex;flex:1;overflow:hidden}
+
+    .sidebar{background:var(--sidebar-bg);color:white;width:210px;padding:28px 18px;display:flex;flex-direction:column;flex-shrink:0;overflow-y:auto;transition:background .3s}
+    .sidebar-brand{display:flex;flex-direction:column;align-items:center;gap:14px;padding:10px 9px 32px;text-align:center}
+    .sidebar-brand-icon{width:70px;height:70px;border-radius:18px;background:rgba(255,255,255,.15);display:grid;place-items:center;font-size:32px}
+    .sidebar-brand strong{font-size:18px;letter-spacing:-.5px}
+    .sidebar-brand span{display:block;font-size:10px;opacity:.7;margin-top:4px}
+    .menu{display:flex;flex-direction:column;gap:7px}
+    .menu a{color:rgba(255,255,255,.75);text-decoration:none;padding:12px 13px;border-radius:11px;display:flex;align-items:center;gap:12px;font-size:12px;transition:.2s;cursor:pointer}
+    .menu a i{width:17px;text-align:center;font-size:12px}
+    .menu a:hover,.menu a.active{background:rgba(255,255,255,.18);color:white}
+    .logout{margin-top:auto}
+
+    .content{flex:1;padding:25px 28px 28px;background:var(--card);overflow-y:auto;transition:background .3s}
+    .content-brand{display:flex;align-items:center;gap:18px;margin-bottom:28px;padding-bottom:22px;border-bottom:2px solid var(--linha);position:relative;transition:border-color .3s}
+    .content-brand::before{content:"";position:absolute;bottom:-2px;left:0;width:120px;height:2px;background:linear-gradient(90deg,var(--roxo),transparent)}
+    .content-brand h1{font-size:56px;font-weight:900;letter-spacing:-3px;line-height:1;background:linear-gradient(135deg,var(--roxo-forte),var(--roxo-vibrante) 50%,var(--roxo-claro));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+    body.dark .content-brand h1{background:linear-gradient(135deg,#C9A3F5,#9F6BD9 50%,#7A3FA8);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+    .content-brand .brand-tagline{font-size:13px;color:var(--muted);font-weight:500;letter-spacing:2px;text-transform:uppercase;padding-left:6px;border-left:2px solid var(--linha);padding-top:4px;padding-bottom:4px;margin-top:8px}
+
+    /* ============ CONTEÚDO DO PERFIL ============ */
+    .profile-header-card{
+      background:var(--fundo);
+      border:1px solid var(--linha);
+      border-radius:24px;
+      padding:32px;
+      display:flex;
+      align-items:center;
+      gap:28px;
+      margin-bottom:28px;
+      position:relative;
+      overflow:hidden;
+    }
+    .profile-header-card::before{
+      content:"";position:absolute;top:0;left:0;right:0;height:100px;
+      background:linear-gradient(135deg,var(--roxo-forte),var(--roxo-vibrante));z-index:0;
+    }
+    .profile-avatar-wrap{position:relative;z-index:1}
+    .profile-avatar{
+      width:120px;height:120px;border-radius:50%;
+      background:linear-gradient(135deg,var(--muted),var(--roxo-intenso));
+      border:5px solid var(--card);
+      display:grid;place-items:center;
+      font-size:42px;color:#fff;
+      box-shadow:0 8px 24px rgba(115,41,138,.3);
+    }
+    .profile-avatar-badge{
+      position:absolute;bottom:4px;right:4px;
+      width:34px;height:34px;border-radius:50%;
+      background:var(--muted);border:3px solid var(--card);
+      display:grid;place-items:center;color:#fff;font-size:14px;
+    }
+    .profile-info{position:relative;z-index:1;margin-top:40px;flex:1}
+    .profile-info h2{font-size:26px;font-weight:800;color:var(--texto);letter-spacing:-.6px;margin-bottom:4px}
+    .profile-info .profile-email{font-size:14px;color:var(--muted);margin-bottom:12px}
+    .profile-tags{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+    .profile-tag{
+      background:var(--card);border:1px solid var(--linha);
+      padding:6px 14px;border-radius:20px;font-size:11px;font-weight:600;color:var(--muted);
+      display:flex;align-items:center;gap:6px;
+    }
+    .btn-edit-profile{
+      background:var(--card);border:1.5px solid var(--linha);color:var(--texto);
+      padding:10px 22px;border-radius:10px;font-size:13px;font-weight:600;
+      cursor:pointer;display:inline-flex;align-items:center;gap:8px;transition:.2s;font-family:inherit;
+    }
+    .btn-edit-profile:hover{border-color:var(--roxo);color:var(--roxo)}
+
+    .profile-stats{
+      display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:32px;
+    }
+    .stat-card{
+      background:var(--fundo);border:1px solid var(--linha);border-radius:16px;
+      padding:20px;text-align:center;transition:.2s;
+    }
+    .stat-card:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(115,41,138,.1);border-color:var(--roxo-claro)}
+    .stat-card i{font-size:22px;color:var(--muted);margin-bottom:10px;display:block}
+    .stat-card strong{display:block;font-size:24px;font-weight:800;color:var(--texto);margin-bottom:2px}
+    .stat-card span{font-size:11px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.5px}
+
+    /* ===== ABAS INTERNAS (Questões Favoritas) ===== */
+    .profile-tabs{
+      display:flex;gap:6px;background:var(--fundo);
+      border:1px solid var(--linha);padding:6px;border-radius:14px;
+      margin-bottom:24px;flex-wrap:wrap;
+    }
+    .profile-tab{
+      flex:1;border:0;background:transparent;color:var(--muted);
+      font-size:13px;font-weight:600;padding:12px 18px;border-radius:10px;
+      cursor:pointer;transition:.2s;font-family:inherit;
+      display:flex;align-items:center;justify-content:center;gap:8px;white-space:nowrap;
+    }
+    .profile-tab:hover{color:var(--roxo)}
+    .profile-tab.active{
+      background:var(--card);color:var(--roxo);
+      box-shadow:0 2px 8px rgba(115,41,138,.15);
+    }
+
+    /* ===== EMPTY STATE PARA AS QUESTÕES ===== */
+    .empty-favorites{
+      text-align:center;padding:60px 30px;
+      border:2px dashed var(--linha);border-radius:20px;
+      display:flex;flex-direction:column;align-items:center;
+      background:var(--fundo);
+    }
+    .empty-favorites .icon{
+      width:80px;height:80px;border-radius:50%;
+      background:var(--roxo-bg);display:grid;place-items:center;
+      font-size:34px;color:var(--roxo);margin-bottom:18px;
+    }
+    body.dark .empty-favorites .icon{background:#3D005C;color:#C9A3F5}
+    .empty-favorites h3{font-size:18px;font-weight:800;color:var(--texto);margin-bottom:8px}
+    .empty-favorites p{font-size:13px;color:var(--muted);max-width:380px;line-height:1.6;margin-bottom:20px}
+    .empty-favorites button{
+      border:0;background:var(--roxo);color:#fff;padding:12px 28px;
+      border-radius:24px;font-size:13px;font-weight:600;cursor:pointer;
+      font-family:inherit;transition:.2s;box-shadow:0 6px 16px rgba(115,41,138,.25);
+    }
+    .empty-favorites button:hover{background:var(--roxo-escuro);transform:translateY(-2px)}
+
+    /* ===== HISTÓRICO ===== */
+    .history-section{
+      margin-top:32px;
+      padding-top:24px;
+      border-top:1px solid var(--linha);
+    }
+    .empty-history{
+      text-align:center;padding:50px 30px;
+      border:2px dashed var(--linha);border-radius:20px;
+      display:flex;flex-direction:column;align-items:center;
+      background:var(--fundo);
+    }
+    .empty-history .icon{
+      width:80px;height:80px;border-radius:50%;
+      background:var(--roxo-bg);display:grid;place-items:center;
+      font-size:34px;color:var(--roxo);margin-bottom:18px;
+    }
+    body.dark .empty-history .icon{background:#3D005C;color:#C9A3F5}
+    .empty-history h3{font-size:18px;font-weight:800;color:var(--texto);margin-bottom:8px}
+    .empty-history p{font-size:13px;color:var(--muted);max-width:380px;line-height:1.6}
+
+    /* FOOTER */
+    .footer{margin-top:20px;padding-top:12px;border-top:1px solid var(--linha);display:flex;justify-content:space-between;color:var(--muted);font-size:8px}
+    .theme-btn{position:fixed;right:18px;bottom:18px;width:40px;height:40px;border:0;border-radius:50%;background:var(--roxo);color:#fff;box-shadow:0 8px 24px rgba(50,30,90,.25);cursor:pointer;z-index:100;transition:background .3s}
+    body.dark .theme-btn{background:#560072}
+
+    /* RESPONSIVO */
+    @media(max-width:1100px){
+      .navbar-nav a{font-size:13px;padding:8px 12px}
+      .profile-stats{grid-template-columns:repeat(2,1fr)}
+    }
+    @media(max-width:950px){
+      .navbar-nav{display:none}
+      .sidebar{width:75px;padding:20px 10px}
+      .sidebar-brand{padding:0 0 30px}
+      .sidebar-brand-icon{width:55px;height:55px;font-size:26px;border-radius:16px}
+      .sidebar-brand strong,.menu span{display:none}
+      .menu a{justify-content:center;padding:13px 8px}
+      .menu a i{width:auto;font-size:14px}
+      .content-brand h1{font-size:42px}
+      .profile-header-card{flex-direction:column;text-align:center}
+      .profile-info{margin-top:16px}
+      .profile-tags{justify-content:center}
+    }
+    @media(max-width:520px){
+      html,body{overflow:auto}
+      .main-wrapper{flex-direction:column}
+      .sidebar{position:fixed;z-index:20;bottom:0;left:0;right:0;width:100%;height:67px;padding:8px;flex-direction:row;}
+      .sidebar-brand,.logout{display:none}
+      .menu{width:100%;flex-direction:row;justify-content:space-around}
+      .content{padding:18px 15px 85px}
+      .content-brand h1{font-size:32px}
+      .profile-stats{grid-template-columns:1fr 1fr;gap:10px}
+      .profile-tabs{flex-direction:column}
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ============ NAVBAR FIXA ============ -->
+  <nav class="navbar">
+    <a class="navbar-logo">
+      <div class="navbar-logo-icon"><i class="fa-solid fa-graduation-cap"></i></div>
+      <div class="navbar-logo-text">
+        <strong>Nous</strong>
+        <span>portal de estudos</span>
+      </div>
+    </a>
+
+    <div class="navbar-nav">
+      <a>Início</a>
+      <a>Progresso</a>
+      <a>Tarefas</a>
+      <a>Matérias</a>
+      <a>Agenda</a>
+      <a>Avisos</a>
+      <a class="active">Perfil</a>
+    </div>
+
+    <div class="navbar-actions">
+      <a class="nav-link">Turmas</a>
+      <a class="nav-link">Entrar</a>
+      <a class="btn-cadastrar">Cadastrar</a>
+      <button class="globe-btn"><i class="fa-solid fa-globe"></i></button>
+    </div>
+  </nav>
+
+  <!-- ============ CORPO PRINCIPAL ============ -->
+  <div class="main-wrapper">
+
+    <aside class="sidebar">
+      <div class="sidebar-brand">
+        <div class="sidebar-brand-icon"></div>
+        <div>
+          <strong>Nous</strong>
+          <span>portal de estudos</span>
+        </div>
+      </div>
+      <nav class="menu">
+        <a><i class="fa-solid fa-house"></i><span>Início</span></a>
+        <a><i class="fa-solid fa-chart-column"></i><span>Progresso</span></a>
+        <a><i class="fa-solid fa-pen-to-square"></i><span>Tarefas</span></a>
+        <a><i class="fa-solid fa-book"></i><span>Matérias</span></a>
+        <a><i class="fa-solid fa-calendar-days"></i><span>Agenda</span></a>
+        <a><i class="fa-solid fa-bell"></i><span>Avisos</span></a>
+        <a class="active"><i class="fa-solid fa-user"></i><span>Perfil</span></a>
+      </nav>
+      <nav class="menu logout">
+        <a><i class="fa-solid fa-right-from-bracket"></i><span>Sair</span></a>
+      </nav>
+    </aside>
+
+    <main class="content">
+      <div class="content-brand">
+        <h1>Nous</h1>
+        <span class="brand-tagline">portal de estudos</span>
+      </div>
+
+      <!-- ===== CABEÇALHO DO PERFIL ===== -->
+      <div class="profile-header-card">
+        <div class="profile-avatar-wrap">
+          <div class="profile-avatar"><i class="fa-solid fa-user"></i></div>
+          <div class="profile-avatar-badge"><i class="fa-solid fa-circle-notch"></i></div>
+        </div>
+        <div class="profile-info">
+          <h2>Seu Nome Aqui</h2>
+          <p class="profile-email"><i class="fa-regular fa-envelope" style="margin-right:6px"></i>seu.email@exemplo.com</p>
+          <div class="profile-tags">
+            <span class="profile-tag"><i class="fa-solid fa-graduation-cap"></i> Foco: A definir</span>
+            <span class="profile-tag"><i class="fa-solid fa-fire"></i> 0 dias seguidos</span>
+          </div>
+          <button class="btn-edit-profile"><i class="fa-solid fa-pen"></i> Completar perfil</button>
+        </div>
+      </div>
+
+      <!-- ===== ESTATÍSTICAS ===== -->
+      <div class="profile-stats">
+        <div class="stat-card">
+          <i class="fa-regular fa-heart"></i>
+          <strong>0</strong>
+          <span>Questões favoritas</span>
+        </div>
+        <div class="stat-card">
+          <i class="fa-solid fa-check-double"></i>
+          <strong>0</strong>
+          <span>Questões resolvidas</span>
+        </div>
+        <div class="stat-card">
+          <i class="fa-regular fa-clock"></i>
+          <strong>0h</strong>
+          <span>Horas de estudo</span>
+        </div>
+        <div class="stat-card">
+          <i class="fa-solid fa-trophy"></i>
+          <strong>0%</strong>
+          <span>Taxa de acerto</span>
+        </div>
+      </div>
+
+      <!-- ===== QUESTÕES FAVORITAS ===== -->
+      <div class="section-title" style="margin-bottom:16px">
+        <h2><i class="fa-regular fa-heart" style="color:var(--muted);margin-right:8px"></i> Questões Favoritas</h2>
+        <a style="color:var(--muted);cursor:default;">Gerenciar</a>
+      </div>
+
+      <div class="profile-tabs">
+        <button class="profile-tab active"><i class="fa-solid fa-list"></i> Todas</button>
+        <button class="profile-tab"><i class="fa-solid fa-square-root-variable"></i> Matemática</button>
+        <button class="profile-tab"><i class="fa-solid fa-dna"></i> Biologia</button>
+        <button class="profile-tab"><i class="fa-solid fa-globe"></i> História</button>
+      </div>
+
+      <div class="empty-favorites">
+        <div class="icon"><i class="fa-regular fa-heart"></i></div>
+        <h3>Nenhuma questão favoritada</h3>
+        <p>Quando você encontrar uma questão interessante durante seus estudos, clique no coração para salvá-la aqui.</p>
+        <button>Explorar questões</button>
+      </div>
+
+      <!-- ===== HISTÓRICO ===== -->
+      <div class="history-section">
+        <div class="section-title" style="margin-bottom:16px">
+          <h2><i class="fa-solid fa-clock-rotate-left" style="color:var(--muted);margin-right:8px"></i> Histórico de Atividades</h2>
+          <a style="color:var(--muted);cursor:default;">Filtrar</a>
+        </div>
+
+        <div class="empty-history">
+          <div class="icon"><i class="fa-solid fa-timeline"></i></div>
+          <h3>Nenhuma atividade recente</h3>
+          <p>Seu histórico de estudos aparecerá aqui. Comece a resolver questões e fazer simulados para acompanhar sua evolução ao longo do tempo.</p>
+        </div>
+      </div>
+
+      <footer class="footer">
+        <span>Nous · seu espaço para estudar</span>
+        <span>v3.0 · 2026</span>
+      </footer>
+    </main>
+  </div>
+  <button class="theme-btn"><i class="fa-solid fa-moon"></i></button>
+</body>
+</html>
