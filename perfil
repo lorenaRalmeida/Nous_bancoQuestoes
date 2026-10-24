@@ -176,6 +176,27 @@
     }
     .empty-favorites button:hover{background:var(--roxo-escuro);transform:translateY(-2px)}
 
+    /* ===== HISTÓRICO ===== */
+    .history-section{
+      margin-top:32px;
+      padding-top:24px;
+      border-top:1px solid var(--linha);
+    }
+    .empty-history{
+      text-align:center;padding:50px 30px;
+      border:2px dashed var(--linha);border-radius:20px;
+      display:flex;flex-direction:column;align-items:center;
+      background:var(--fundo);
+    }
+    .empty-history .icon{
+      width:80px;height:80px;border-radius:50%;
+      background:var(--roxo-bg);display:grid;place-items:center;
+      font-size:34px;color:var(--roxo);margin-bottom:18px;
+    }
+    body.dark .empty-history .icon{background:#3D005C;color:#C9A3F5}
+    .empty-history h3{font-size:18px;font-weight:800;color:var(--texto);margin-bottom:8px}
+    .empty-history p{font-size:13px;color:var(--muted);max-width:380px;line-height:1.6}
+
     /* FOOTER */
     .footer{margin-top:20px;padding-top:12px;border-top:1px solid var(--linha);display:flex;justify-content:space-between;color:var(--muted);font-size:8px}
     .theme-btn{position:fixed;right:18px;bottom:18px;width:40px;height:40px;border:0;border-radius:50%;background:var(--roxo);color:#fff;box-shadow:0 8px 24px rgba(50,30,90,.25);cursor:pointer;z-index:100;transition:background .3s}
@@ -214,6 +235,7 @@
 </head>
 <body>
 
+  <!-- ============ NAVBAR FIXA ============ -->
   <nav class="navbar">
     <a class="navbar-logo">
       <div class="navbar-logo-icon"><i class="fa-solid fa-graduation-cap"></i></div>
@@ -241,6 +263,7 @@
     </div>
   </nav>
 
+  <!-- ============ CORPO PRINCIPAL ============ -->
   <div class="main-wrapper">
 
     <aside class="sidebar">
@@ -271,6 +294,7 @@
         <span class="brand-tagline">portal de estudos</span>
       </div>
 
+      <!-- ===== CABEÇALHO DO PERFIL ===== -->
       <div class="profile-header-card">
         <div class="profile-avatar-wrap">
           <div class="profile-avatar"><i class="fa-solid fa-user"></i></div>
@@ -287,6 +311,7 @@
         </div>
       </div>
 
+      <!-- ===== ESTATÍSTICAS ===== -->
       <div class="profile-stats">
         <div class="stat-card">
           <i class="fa-regular fa-heart"></i>
@@ -310,25 +335,17 @@
         </div>
       </div>
 
+      <!-- ===== QUESTÕES FAVORITAS ===== -->
       <div class="section-title" style="margin-bottom:16px">
         <h2><i class="fa-regular fa-heart" style="color:var(--muted);margin-right:8px"></i> Questões Favoritas</h2>
         <a style="color:var(--muted);cursor:default;">Gerenciar</a>
       </div>
 
-      <!-- Abas Internas -->
       <div class="profile-tabs">
-        <button class="profile-tab active">
-          <i class="fa-solid fa-list"></i> Todas
-        </button>
-        <button class="profile-tab">
-          <i class="fa-solid fa-square-root-variable"></i> Matemática
-        </button>
-        <button class="profile-tab">
-          <i class="fa-solid fa-dna"></i> Biologia
-        </button>
-        <button class="profile-tab">
-          <i class="fa-solid fa-globe"></i> História
-        </button>
+        <button class="profile-tab active"><i class="fa-solid fa-list"></i> Todas</button>
+        <button class="profile-tab"><i class="fa-solid fa-square-root-variable"></i> Matemática</button>
+        <button class="profile-tab"><i class="fa-solid fa-dna"></i> Biologia</button>
+        <button class="profile-tab"><i class="fa-solid fa-globe"></i> História</button>
       </div>
 
       <div class="empty-favorites">
@@ -336,6 +353,20 @@
         <h3>Nenhuma questão favoritada</h3>
         <p>Quando você encontrar uma questão interessante durante seus estudos, clique no coração para salvá-la aqui.</p>
         <button>Explorar questões</button>
+      </div>
+
+      <!-- ===== HISTÓRICO ===== -->
+      <div class="history-section">
+        <div class="section-title" style="margin-bottom:16px">
+          <h2><i class="fa-solid fa-clock-rotate-left" style="color:var(--muted);margin-right:8px"></i> Histórico de Atividades</h2>
+          <a style="color:var(--muted);cursor:default;">Filtrar</a>
+        </div>
+
+        <div class="empty-history">
+          <div class="icon"><i class="fa-solid fa-timeline"></i></div>
+          <h3>Nenhuma atividade recente</h3>
+          <p>Seu histórico de estudos aparecerá aqui. Comece a resolver questões e fazer simulados para acompanhar sua evolução ao longo do tempo.</p>
+        </div>
       </div>
 
       <footer class="footer">
