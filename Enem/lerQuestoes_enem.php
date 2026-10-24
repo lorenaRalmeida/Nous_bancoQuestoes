@@ -1,6 +1,6 @@
 <?php
-$materia = $_POST("materia");
-$ano = $_POST("ano");
+$materia = $_POST["materia"]??"";
+$ano = $_POST["ano"]??"";
 $pastas = __DIR__."/q_enem_json";
 $arquivos = glob($pastas."/*/questions/*/details.json");
 $questoes = [];
@@ -14,10 +14,21 @@ foreach($arquivos as $a){
 }
 
 // filtros de questões
-$questoesFilter=[];
-$questoesFilter=array_filter(
-function ($questoes) use ($materia,$ano){
-
-}
+$qfiltradas = array_filter(
+    $questoes,
+    function ($questao) use ($materia,$ano) {
+        if($materia=="" && $ano==""){
+            return true;
+        }else if($materia!="" && $ano!=""){
+            return
+                $questao["discipline"] == $materia &&
+                $questao["year"] == $ano;
+        }else if($materia!=""){
+            return $questao["discipline"] == $materia;
+        }else{
+            return $questao["year"] == $ano;
+        }
+    }
 );
+echo count($qfiltradas);
 ?>
