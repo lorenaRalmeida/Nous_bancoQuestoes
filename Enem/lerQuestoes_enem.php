@@ -30,5 +30,11 @@ $qfiltradas = array_filter(
         }
     }
 );
-echo count($qfiltradas);
+
+header("Content-Type: application/json; charset=UTF-8");
+echo json_encode(
+    array_values($qfiltradas),
+    JSON_UNESCAPED_UNICODE
+);
+exit;
 ?>

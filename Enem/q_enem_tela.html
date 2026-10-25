@@ -5,13 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Banco de Questões ENEM</title>
+    <script src="q_enem_inTela.js" defer></script>
 </head>
 <body>
 
     <h1>Banco de Questões ENEM</h1>
     <p>Selecione a área do conhecimento e o ano da prova.</p>
 
-    <form action="lerQuestoes_enem.php" method="POST">
+    <form id="formSelect">
 
         <label for="materia">Área do conhecimento:</label>
         <select name="materia" id="materia">
@@ -50,5 +51,10 @@
 
     </form>
 
+    <p id="mensagem"></p>
+
+    <main id="listaQuestoes">
+
+    </main>
 </body>
 </html>
