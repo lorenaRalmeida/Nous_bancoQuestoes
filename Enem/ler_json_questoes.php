@@ -98,8 +98,9 @@ foreach($arquivos as $a){
 let $i=1;
 foreach($qfiltradas as $questao){
 ?><div class="cartao">
-    <h2><?php $i ?></h2>
-    <h3><?php $questao['title']?></h3>
+    <h2><?php echo $i; ?></h2>
+    <h3><?php echo $questao['title'];?></h3>
+    
 </div>
 }
 ?>
