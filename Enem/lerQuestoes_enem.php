@@ -1,8 +1,8 @@
 <?php
-require_once __DIR__."/ler_json_questoes.php";
-$materia = $_POST["materia"] ?? "";
-$ano = $_POST["ano"] ?? "";
-
+$materia = $_POST["materia"]??"";
+$ano = $_POST["ano"]??"";
+require_once  __DIR__ ."/ler_json_questoes.php";
+console.log($questoes);
 // filtros de questões
 $qfiltradas = array_filter(
     $questoes,

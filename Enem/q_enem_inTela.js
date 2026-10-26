@@ -90,6 +90,10 @@ class BancoQuestoesUI {
                     img_alt.src = alternativa.file;
                     botao.appendChild(img_alt);
                 }
+                botao.dataset.letra = alternativa.letter;
+                botao.addEventListener("click", =>{
+
+                });
                 cartao.appendChild(botao);
             });
                 
