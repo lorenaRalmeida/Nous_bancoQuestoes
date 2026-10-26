@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nous · Acesso</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="auth-body">
+
+  <div class="auth-wrapper">
+    <div class="auth-container">
+      
+      <div class="auth-banner">
+        <h2>Bem-vindo ao futuro dos seus estudos.</h2>
+        <p>O Nous centraliza sua rotina, acompanha seu progresso e te ajuda a alcançar a aprovação.</p>
+        <div class="auth-banner-features">
+          <div class="auth-banner-feature"><i class="fa-solid fa-check"></i> Mais de 10.000 questões</div>
+          <div class="auth-banner-feature"><i class="fa-solid fa-check"></i> Simulados no formato oficial</div>
+          <div class="auth-banner-feature"><i class="fa-solid fa-check"></i> Estatísticas em tempo real</div>
+        </div>
+      </div>
+
+      <div class="auth-form-side">
+        
+        <!-- TELA DE LOGIN -->
+        <div id="login-box">
+          <div class="auth-header">
+            <h1>Entrar na conta</h1>
+            <p>Ainda não tem conta? <a onclick="toggleAuth()">Cadastre-se grátis</a></p>
+          </div>
+          <!-- Ao preencher e enviar, vai para o index.html -->
+          <form action="index.html">
+            <div class="form-group">
+              <label>E-mail</label>
+              <div class="form-input-wrap">
+                <i class="fa-regular fa-envelope"></i>
+                <input type="email" placeholder="seu@email.com" required>
+              </div>
+            </div>
+            <div class="form-group">
+              <label>Senha</label>
+              <div class="form-input-wrap">
+                <i class="fa-solid fa-lock"></i>
+                <input type="password" placeholder="Sua senha" required>
+              </div>
+            </div>
+            <button type="submit" class="btn-submit">Entrar <i class="fa-solid fa-arrow-right"></i></button>
+          </form>
+          <div class="auth-divider">OU</div>
+          <button class="btn-social"><i class="fa-brands fa-google" style="color:#DB4437"></i> Continuar com Google</button>
+        </div>
+
+        <!-- TELA DE CADASTRO (Começa oculta) -->
+        <div id="register-box" style="display: none;">
+          <div class="auth-header">
+            <h1>Criar conta</h1>
+            <p>Já tem uma conta? <a onclick="toggleAuth()">Faça login</a></p>
+          </div>
+          <!-- Ao preencher e enviar, vai para o index.html -->
+          <form action="index.html">
+            <div class="form-group">
+              <label>Nome completo</label>
+              <div class="form-input-wrap">
+                <i class="fa-regular fa-user"></i>
+                <input type="text" placeholder="Seu nome" required>
+              </div>
+            </div>
+            <div class="form-group">
+              <label>E-mail</label>
+              <div class="form-input-wrap">
+                <i class="fa-regular fa-envelope"></i>
+                <input type="email" placeholder="seu@email.com" required>
+              </div>
+            </div>
+            <div class="form-group">
+              <label>Senha</label>
+              <div class="form-input-wrap">
+                <i class="fa-solid fa-lock"></i>
+                <input type="password" placeholder="Crie uma senha" required>
+              </div>
+            </div>
+            <button type="submit" class="btn-submit">Criar minha conta <i class="fa-solid fa-check"></i></button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+    
+    <a href="index.html" class="back-to-home"><i class="fa-solid fa-arrow-left"></i> Voltar para o início</a>
+  </div>
+
+  <script>
+    // Lógica para alternar entre Login e Cadastro
+    function toggleAuth() {
+      const login = document.getElementById('login-box');
+      const register = document.getElementById('register-box');
+      if (login.style.display === 'none') {
+        login.style.display = 'block';
+        register.style.display = 'none';
+      } else {
+        login.style.display = 'none';
+        register.style.display = 'block';
+      }
+    }
+
+    // Verifica se o usuário veio do botão "Cadastrar" (URL com #cadastro)
+    window.onload = function() {
+      if (window.location.hash === '#cadastro') {
+        // Força a abertura da tela de cadastro
+        document.getElementById('login-box').style.display = 'none';
+        document.getElementById('register-box').style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>
