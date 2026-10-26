@@ -1,17 +1,7 @@
 <?php
-$materia = $_POST["materia"]??"";
-$ano = $_POST["ano"]??"";
-$pastas = __DIR__."/q_enem_json";
-$arquivos = glob($pastas."/*/questions/*/details.json");
-$questoes = [];
-foreach($arquivos as $a){
-    $q_text = file_get_contents($a);
-    $q_json = json_decode($q_text,true);
-
-    if(is_array($q_json)){
-        $questoes[] = $q_json;
-    }
-}
+require_once __DIR__."/ler_json_questoes.php";
+$materia = $_POST["materia"] ?? "";
+$ano = $_POST["ano"] ?? "";
 
 // filtros de questões
 $qfiltradas = array_filter(

@@ -53,6 +53,7 @@ class BancoQuestoesUI {
 
             const info = document.createElement("h3");
             info.textContent = questao.title || "Sumiu";
+            cartao.appendChild(info);
             
             console.log(questao.title, questao.context);
             const enunciado = questao.context || "";
@@ -74,6 +75,24 @@ class BancoQuestoesUI {
                 }
             });
 
+            const int_alternativa = document.createElement("p");
+            int_alternativa.textContent = questao.alternativesIntroduction;
+            cartao.appendChild(int_alternativa);
+
+            const alternativas = questao.alternatives;
+
+            alternativas.forEach((alternativa) => {
+                const botao = document.createElement("button");
+                botao.textContent = `${alternativa.letter}) ${alternativa.text || ""}`;
+                if(alternativa.file != null){
+                    const img_alt = document.createElement("img");
+                    img_alt.alt=`imagem da alternativa ${alternativa.letter}`;
+                    img_alt.src = alternativa.file;
+                    botao.appendChild(img_alt);
+                }
+                cartao.appendChild(botao);
+            });
+                
             this.lista.appendChild(cartao);
         });
     }
