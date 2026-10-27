@@ -10,10 +10,10 @@
   --sidebar-bg:#3E164B;--hero-bg:#73298A;
   --navbar-bg:#FFFFFF;--navbar-border:#E0C9EC;--navbar-height:72px;
 
-  /* NOVAS CORES INDIGO */
-  --indigo-primario: #4F46E5; 
-  --indigo-hover: #4338CA;
-  --indigo-fundo: #EEF2FF;
+  /* CORES INDIGO */
+  --indigo-primario: #4A155F; 
+  --indigo-hover: #2E0B3B;
+  --indigo-fundo: #F0DDF7;
 }
 body.dark{
   --roxo-claro:#7A3FA8;--roxo-medio:#560072;--roxo-vibrante:#3D005C;
@@ -26,10 +26,9 @@ body.dark{
   --sidebar-bg:#140A1E;--hero-bg:#560072;
   --navbar-bg:#140A1E;--navbar-border:#3D005C;
 
-  /* INDIGO NO MODO ESCURO */
-  --indigo-primario: #6366F1;
-  --indigo-hover: #4F46E5;
-  --indigo-fundo: #312E81;
+  --indigo-primario: #5C2078;
+  --indigo-hover: #3A1250;
+  --indigo-fundo: #3D005C;
 }
 
 *{box-sizing:border-box;margin:0;padding:0}
@@ -58,9 +57,28 @@ body{font-family:'Inter',Arial,sans-serif;background:var(--fundo);color:var(--te
   gap: 20px; 
 }
 
-.navbar-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--texto); cursor: pointer; height: 100%; }
-.logo-icon { width: 40px; height: 40px; background: var(--roxo-forte); border-radius: 8px; display: grid; place-items: center; color: #fff; }
-.navbar-logo strong { font-size: 20px; font-weight: 900; color: var(--roxo); }
+/* ================= LOGO NA NAVBAR ================= */
+.navbar-logo { 
+  display: flex; 
+  align-items: center; 
+  gap: 10px; 
+  height: 100%; 
+  cursor: default; /* Sem clique */
+}
+
+.logo-img {
+  height: 45px; /* Tamanho ajustado */
+  width: auto;
+  object-fit: contain;
+  mix-blend-mode: multiply; /* Remove o quadrado branco no modo claro */
+}
+
+body.dark .logo-img {
+  mix-blend-mode: normal;
+  background: #fff; /* Fundo branco no modo escuro para a logo aparecer */
+  padding: 4px 10px;
+  border-radius: 8px;
+}
 
 /* Links do Menu Central */
 .navbar-nav { display: flex; align-items: center; gap: 8px; flex: 1; justify-content: center; }
@@ -76,7 +94,7 @@ body{font-family:'Inter',Arial,sans-serif;background:var(--fundo);color:var(--te
 }
 .navbar-nav a:hover { background: var(--fundo); color: var(--indigo-primario); }
 
-/* O INDIGO DO PRINT PARA O ITEM ATIVO */
+/* ITEM ATIVO DO MENU */
 .navbar-nav a.active { 
   background: var(--indigo-fundo); 
   color: var(--indigo-primario); 
@@ -84,7 +102,7 @@ body{font-family:'Inter',Arial,sans-serif;background:var(--fundo);color:var(--te
 }
 body.dark .navbar-nav a.active {
   background: var(--indigo-fundo);
-  color: #A5B4FC;
+  color: #C9A3F5;
 }
 
 /* Botões da Direita */
@@ -92,7 +110,7 @@ body.dark .navbar-nav a.active {
 .nav-link { text-decoration: none; color: var(--texto); font-size: 15px; font-weight: 500; cursor: pointer; transition: .2s; }
 .nav-link:hover { color: var(--indigo-primario); }
 
-/* BOTÃO CADASTRAR EM ROXO INDIGO */
+/* BOTÃO CADASTRAR */
 .btn-cadastrar { 
   text-decoration: none; 
   background: var(--indigo-primario); 
@@ -103,7 +121,7 @@ body.dark .navbar-nav a.active {
   border-radius: 8px; 
   cursor: pointer; 
   transition: .2s; 
-  box-shadow: 0 4px 12px rgba(79,70,229,.2); 
+  box-shadow: 0 4px 12px rgba(74,21,95,.2); 
 }
 .btn-cadastrar:hover { 
   background: var(--indigo-hover); 
@@ -182,38 +200,69 @@ body.dark .navbar-nav a.active {
   align-items: center;
   justify-content: center;
   height: 100vh;
-
-  /* Imagem de fundo da internet */
   background-image: url("https://wallpaperaccess.com/full/8351146.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-
-  /* Mantém o fundo atrás do conteúdo */
   position: relative;
   isolation: isolate;
 }
 
-/* Camada escura sobre a imagem */
 .auth-body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.40);
+  background: rgba(0, 0, 0, 0.70); 
   z-index: -1;
 }
 
 .auth-wrapper { position: relative; display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; padding: 20px; }
 .auth-container { display: grid; grid-template-columns: 1fr 1fr; width: min(1000px, 100%); background: var(--card); border-radius: 24px; overflow: hidden; box-shadow: var(--sombra); border: none; }
-.auth-banner { background: var(--hero-bg); padding: 50px 40px; display: flex; flex-direction: column; justify-content: center; position: relative; overflow: hidden; color: #fff; }
-.auth-banner::before { content: ""; position: absolute; width: 300px; height: 300px; border-radius: 50%; top: -100px; right: -100px; background: rgba(255,255,255,.1); }
-.auth-banner::after { content: ""; position: absolute; width: 200px; height: 200px; border-radius: 50%; bottom: -50px; left: -50px; background: rgba(255,255,255,.1); }
-.auth-banner h2 { font-size: 32px; font-weight: 800; margin-bottom: 16px; line-height: 1.2; z-index: 1; letter-spacing: -0.8px; }
+
+/* ================= BLOCO ROXO DO LOGIN ================= */
+.auth-banner { 
+  background: #2E0B3B; /* Roxo escuro */
+  padding: 50px 40px; 
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center; 
+  position: relative; /* Necessário para posicionar a logo */
+  overflow: hidden; 
+  color: #fff; 
+}
+body.dark .auth-banner {
+  background: #1A0523; 
+}
+
+.auth-banner::before { content: ""; position: absolute; width: 300px; height: 300px; border-radius: 50%; top: -100px; right: -100px; background: rgba(255,255,255,.05); }
+.auth-banner::after { content: ""; position: absolute; width: 200px; height: 200px; border-radius: 50%; bottom: -50px; left: -50px; background: rgba(255,255,255,.05); }
+
+/* ================= LOGO NO BLOCO ROXO ================= */
+.banner-logo {
+  position: absolute;
+  top: 35px;
+  left: 35px;
+  background: #ffffff; /* Fundo branco para a logo escura aparecer */
+  padding: 6px 12px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  cursor: default; /* Tira o clique */
+}
+
+.logo-img-banner {
+  height: 35px; /* Tamanho ajustado */
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.auth-banner h2 { font-size: 32px; font-weight: 800; margin-bottom: 16px; line-height: 1.2; z-index: 1; letter-spacing: -0.8px; margin-top: 40px; /* Empurra o texto um pouco para baixo por causa da logo */ }
 .auth-banner p { font-size: 15px; opacity: .9; line-height: 1.6; z-index: 1; margin-bottom: 32px; }
 .auth-banner-features { z-index: 1; display: flex; flex-direction: column; gap: 16px; }
 .auth-banner-feature { display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; }
-.auth-banner-feature i { width: 32px; height: 32px; border-radius: 50%; background: rgba(255,255,255,.2); display: grid; place-items: center; font-size: 14px; }
+.auth-banner-feature i { width: 32px; height: 32px; border-radius: 50%; background: rgba(255,255,255,.1); display: grid; place-items: center; font-size: 14px; }
+
 .auth-form-side { padding: 50px 48px; background: var(--card); display: flex; flex-direction: column; justify-content: center; }
 .auth-header { margin-bottom: 32px; text-align: center; }
 .auth-header h1 { font-size: 28px; font-weight: 900; color: var(--texto); margin-bottom: 8px; letter-spacing: -0.6px; }
@@ -224,9 +273,11 @@ body.dark .navbar-nav a.active {
 .form-input-wrap { position: relative; display: flex; align-items: center; }
 .form-input-wrap i { position: absolute; left: 16px; color: var(--muted); font-size: 16px; transition: .2s; }
 .form-input-wrap input { width: 100%; height: 52px; background: var(--fundo); border: 1.5px solid var(--linha); border-radius: 12px; padding: 0 16px 0 44px; font-size: 14px; font-family: inherit; color: var(--texto); transition: .2s; }
-.form-input-wrap input:focus { outline: none; border-color: var(--indigo-primario); background: var(--card); box-shadow: 0 0 0 4px rgba(79,70,229,.1); }
+.form-input-wrap input:focus { outline: none; border-color: var(--indigo-primario); background: var(--card); box-shadow: 0 0 0 4px rgba(74,21,95,.1); }
+
 .btn-submit { width: 100%; height: 54px; border: 0; background: var(--indigo-primario); color: #fff; border-radius: 12px; font-size: 15px; font-weight: 700; cursor: pointer; transition: .2s; margin-bottom: 24px; display: flex; align-items: center; justify-content: center; gap: 8px; }
 .btn-submit:hover { background: var(--indigo-hover); transform: translateY(-2px); box-shadow: var(--sombra-hover); }
+
 .auth-divider { display: flex; align-items: center; gap: 16px; margin-bottom: 24px; color: var(--muted); font-size: 12px; font-weight: 600; }
 .auth-divider::before, .auth-divider::after { content: ""; flex: 1; height: 1px; background: var(--linha); }
 .btn-social { width: 100%; height: 50px; background: var(--fundo); border: 1.5px solid var(--linha); border-radius: 12px; display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 14px; font-weight: 600; color: var(--texto); cursor: pointer; transition: .2s; }
@@ -248,4 +299,121 @@ body.dark .navbar-nav a.active {
   .content { padding: 20px; }
   .auth-container { grid-template-columns: 1fr; }
   .auth-banner { display: none; }
+}
+
+/* ============== NOUS: LOGOTIPOS TRANSPARENTES E TEMAS ============== */
+/* As quatro versões preservam a logo enviada e não possuem fundo. */
+.logo-img,
+.logo-img-banner {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  mix-blend-mode: normal;
+  background: transparent;
+}
+.logo-img { height: 45px; }
+body.dark .logo-img {
+  mix-blend-mode: normal;
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+}
+.logo-for-dark { display: none; }
+body.dark .logo-for-light { display: none; }
+body.dark .logo-for-dark { display: block; }
+
+/* Sem a caixinha branca da logo na lateral roxa do login. */
+.banner-logo {
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
+  z-index: 2;
+}
+.logo-img-banner { height: 48px; filter: drop-shadow(0 2px 5px rgba(0,0,0,.12)); }
+body.dark .logo-img-banner { filter: drop-shadow(0 0 8px rgba(190,126,240,.27)); }
+
+/* ============== BANNER DA PÁGINA INICIAL ============== */
+/* Imagem escolhida pelo usuário, com degradê roxo para preservar a leitura. */
+.hero {
+  background-color: #48205E;
+  background-image:
+    linear-gradient(90deg, rgba(46,11,59,.93) 0%, rgba(53,16,72,.78) 51%, rgba(53,16,72,.35) 100%),
+    url("https://wallpaperaccess.com/full/8351146.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+body.dark .hero {
+  background-image:
+    linear-gradient(90deg, rgba(20,5,30,.91) 0%, rgba(25,7,43,.76) 50%, rgba(28,9,47,.40) 100%),
+    url("https://wallpaperaccess.com/full/8351146.jpg");
+}
+.hero h1, .hero p, .hero small {
+  position: relative;
+  z-index: 1;
+  text-shadow: 0 2px 8px rgba(0,0,0,.32);
+}
+
+/* Botão de alternar tema na tela de acesso. */
+.auth-theme-btn {
+  position: absolute;
+  top: 18px;
+  right: 22px;
+  z-index: 5;
+  border: 1px solid rgba(255,255,255,.36);
+  background: rgba(30,8,46,.62);
+  color: #fff;
+  border-radius: 999px;
+  width: 42px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background .2s, transform .2s;
+}
+.auth-theme-btn:hover { background: #632984; transform: translateY(-1px); }
+.globe-btn:focus-visible, .auth-theme-btn:focus-visible,
+.nav-item:focus-visible, a:focus-visible, button:focus-visible {
+  outline: 3px solid #B774E6;
+  outline-offset: 3px;
+}
+@media (max-width: 768px) {
+  .navbar { padding: 0 14px; gap: 8px; }
+  .navbar-actions { gap: 10px; }
+  .navbar-actions .nav-link { display: none; }
+  .btn-cadastrar { padding: 9px 12px; font-size: 12px; }
+  .logo-img { height: 36px; }
+  .banner-logo { top: 25px; left: 25px; }
+  .hero { padding: 25px; background-position: 58% center; }
+  .hero h1 { font-size: 21px; }
+  .auth-body { min-height: 100vh; height: auto; overflow-y: auto; }
+  .auth-wrapper { min-height: 100vh; height: auto; padding: 76px 18px 25px; }
+  .auth-form-side { padding: 40px 28px; }
+  .back-to-home { color: #fff; text-shadow: 0 1px 4px #000; }
+}
+@media (max-width: 480px) {
+  .explore-cards { grid-template-columns: 1fr; }
+  .stats-grid { grid-template-columns: 1fr; }
+  .navbar-actions { gap: 4px; }
+  .navbar-logo .logo-img { height: 30px; }
+  .sidebar { width: 64px; }
+  .content { padding: 18px 14px; }
+}
+
+/* Identidade visível também na tela de login em celulares. */
+.auth-mobile-logo { display: none; }
+@media (max-width: 768px) {
+  .auth-mobile-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 22px;
+  }
+  .auth-mobile-logo .logo-img { height: 54px; }
+  .auth-mobile-logo .logo-for-dark { display: none; }
+  body.dark .auth-mobile-logo .logo-for-light { display: none; }
+  body.dark .auth-mobile-logo .logo-for-dark { display: block; }
 }
