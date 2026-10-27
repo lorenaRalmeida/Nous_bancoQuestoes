@@ -1,5 +1,7 @@
 <?php
-if ($_SERVER["REQUEST_METHOD"] === "GET") {
+$qfiltradas=[];
+$busca = isset($_GET["materia"]) || isset($_GET["ano"]);
+if ($busca) {
     $pastas = __DIR__."/q_enem_json";
     $arquivos = glob($pastas."/*/questions/*/details.json");
     $questoes = [];
@@ -39,6 +41,62 @@ foreach($arquivos as $a){
         }
     }
 );
+}
+
+function enunciado(string $enunciado): string
+{
+    $partes = preg_split(
+        '/(!\[.*?\]\(.*?\))/',
+        $enunciado,
+        -1,
+        PREG_SPLIT_DELIM_CAPTURE | PREG_SPLIT_NO_EMPTY
+    );
+    $html = "";
+    foreach ($partes as $parte) {
+        if (preg_match('/!\[(.*?)\]\((.*?)\)/', $parte, $resultado)) {
+            $alt = htmlspecialchars($resultado[1], ENT_QUOTES, 'UTF-8');
+            $src = htmlspecialchars($resultado[2], ENT_QUOTES, 'UTF-8');
+            $html .= '<img src="' . $src . '" alt="' . $alt . '">' . "<br>";
+        } else {
+            $texto = htmlspecialchars($parte, ENT_QUOTES, 'UTF-8');
+            $html .= "<p>{$texto}</p>\n";
+        }
+    }
+
+    return $html;
+}
+
+
+function alternativas(array $alternativas): string
+{
+    $html = "";
+
+    foreach ($alternativas as $alternativa) {
+        $letra = htmlspecialchars($alternativa["letter"] ?? "", ENT_QUOTES, 'UTF-8');
+        $texto = htmlspecialchars($alternativa["text"] ?? "", ENT_QUOTES, 'UTF-8');
+        $file  = $alternativa["file"] ?? null;
+
+        $html .= '<button type="submit" name="letra" value="' . $letra . '">';
+        $html .= "{$letra}) {$texto}";
+
+        if ($file !== null) {
+            $src = htmlspecialchars($file, ENT_QUOTES, 'UTF-8');
+            $html .= '<img src="' . $src . '" alt="imagem da alternativa ' . $letra . '">';
+        }
+
+        $html .= "</button> <br>";
+    }
+
+    return $html;
+}
+
+function conferir($letraEscolhida, $letraCorreta)
+{
+    if ($letraEscolhida == $letraCorreta) {
+        return "Resposta correta! A alternativa certa é a " . $letraCorreta . ".";
+    } else {
+        return "Resposta incorreta. A alternativa correta era a " . $letraCorreta . ".";
+    }
 }
 ?>
 
@@ -89,19 +147,45 @@ foreach($arquivos as $a){
 
         <br><br>
 
+        <a href="ler_json_questoes.php">Limpar filtros</a>
+
+        <br><br>
+
         <button type="submit">Buscar questões</button>
 
     </form>
 
     <main id="listaQuestoes">
 <?php
-let $i=1;
+$i=1;
 foreach($qfiltradas as $questao){
-?><div class="cartao">
+    $id = $questao["id"];   // NOVO: guarda o id para usar abaixo
+?><div class="cartao" id="<?= $id ?>">
     <h2><?php echo $i; ?></h2>
     <h3><?php echo $questao['title'];?></h3>
-    
+    <p><?= enunciado($questao["context"] ?? "");?></p>
+    <?= $questao['alternativesIntroduction'];?>
+    <br>
+
+    <!-- NOVO: formulário da questão.
+         method="post" envia a letra clicada para o PHP.
+         action="#id" mantém a URL atual (com os filtros) e volta para esta questão. -->
+    <form method="post" action="#<?= $id ?>">
+        <!-- campo escondido: diz ao PHP qual questão está sendo respondida -->
+        <input type="hidden" name="id" value="<?= $id ?>">
+        <?= alternativas($questao["alternatives"]);?>
+    </form>
+
+    <?php
+    // NOVO: mostra a mensagem só na questão que foi respondida
+    if (isset($_POST["id"]) && isset($_POST["letra"]) && $_POST["id"] == $id) {
+        echo "<p>" . conferir($_POST["letra"], $questao["correctAlternative"]) . "</p>";
+    }
+    ?>
+
 </div>
+<?php
+$i++;
 }
 ?>
     </main>
