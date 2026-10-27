@@ -4,20 +4,24 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Nous · Acesso</title>
-  
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-  
   <link rel="stylesheet" href="style.css">
 </head>
 <body class="auth-body">
-
+  <script>
+    try { if (localStorage.getItem('nous-theme') === 'dark') document.body.classList.add('dark'); } catch (_) {}
+  </script>
   <div class="auth-wrapper">
     <div class="auth-container">
-      
       <div class="auth-banner">
+        <!-- Logo transparente, com tonalidade adaptada ao tema. -->
+        <div class="banner-logo">
+          <img src="logo-nous-banner-claro.png" alt="Logo Nous" class="logo-img-banner logo-for-light">
+          <img src="logo-nous-banner-escuro.png" alt="Logo Nous" class="logo-img-banner logo-for-dark">
+        </div>
         <h2>Bem-vindo ao futuro dos seus estudos.</h2>
         <p>O Nous centraliza sua rotina, acompanha seu progresso e te ajuda a alcançar a aprovação.</p>
         <div class="auth-banner-features">
@@ -28,96 +32,87 @@
       </div>
 
       <div class="auth-form-side">
-        
+        <!-- Em celulares, o banner é ocultado; a logo continua visível aqui. -->
+        <div class="auth-mobile-logo" aria-label="Nous">
+          <img src="logo-nous-claro.png" alt="Logo Nous" class="logo-img logo-for-light">
+          <img src="logo-nous-escuro.png" alt="Logo Nous" class="logo-img logo-for-dark">
+        </div>
         <!-- TELA DE LOGIN -->
         <div id="login-box">
           <div class="auth-header">
             <h1>Entrar na conta</h1>
             <p>Ainda não tem conta? <a onclick="toggleAuth()">Cadastre-se grátis</a></p>
           </div>
-          <!-- Ao preencher e enviar, vai para o index.html -->
           <form action="index.html">
             <div class="form-group">
-              <label>E-mail</label>
-              <div class="form-input-wrap">
-                <i class="fa-regular fa-envelope"></i>
-                <input type="email" placeholder="seu@email.com" required>
-              </div>
+              <label for="login-email">E-mail</label>
+              <div class="form-input-wrap"><i class="fa-regular fa-envelope"></i><input id="login-email" type="email" placeholder="seu@email.com" autocomplete="email" required></div>
             </div>
             <div class="form-group">
-              <label>Senha</label>
-              <div class="form-input-wrap">
-                <i class="fa-solid fa-lock"></i>
-                <input type="password" placeholder="Sua senha" required>
-              </div>
+              <label for="login-password">Senha</label>
+              <div class="form-input-wrap"><i class="fa-solid fa-lock"></i><input id="login-password" type="password" placeholder="Sua senha" autocomplete="current-password" required></div>
             </div>
             <button type="submit" class="btn-submit">Entrar <i class="fa-solid fa-arrow-right"></i></button>
           </form>
           <div class="auth-divider">OU</div>
-          <button class="btn-social"><i class="fa-brands fa-google" style="color:#DB4437"></i> Continuar com Google</button>
+          <button class="btn-social" type="button"><i class="fa-brands fa-google" style="color:#DB4437"></i> Continuar com Google</button>
         </div>
 
-        <!-- TELA DE CADASTRO (Começa oculta) -->
+        <!-- TELA DE CADASTRO -->
         <div id="register-box" style="display: none;">
           <div class="auth-header">
             <h1>Criar conta</h1>
             <p>Já tem uma conta? <a onclick="toggleAuth()">Faça login</a></p>
           </div>
-          <!-- Ao preencher e enviar, vai para o index.html -->
           <form action="index.html">
             <div class="form-group">
-              <label>Nome completo</label>
-              <div class="form-input-wrap">
-                <i class="fa-regular fa-user"></i>
-                <input type="text" placeholder="Seu nome" required>
-              </div>
+              <label for="register-name">Nome completo</label>
+              <div class="form-input-wrap"><i class="fa-regular fa-user"></i><input id="register-name" type="text" placeholder="Seu nome" autocomplete="name" required></div>
             </div>
             <div class="form-group">
-              <label>E-mail</label>
-              <div class="form-input-wrap">
-                <i class="fa-regular fa-envelope"></i>
-                <input type="email" placeholder="seu@email.com" required>
-              </div>
+              <label for="register-email">E-mail</label>
+              <div class="form-input-wrap"><i class="fa-regular fa-envelope"></i><input id="register-email" type="email" placeholder="seu@email.com" autocomplete="email" required></div>
             </div>
             <div class="form-group">
-              <label>Senha</label>
-              <div class="form-input-wrap">
-                <i class="fa-solid fa-lock"></i>
-                <input type="password" placeholder="Crie uma senha" required>
-              </div>
+              <label for="register-password">Senha</label>
+              <div class="form-input-wrap"><i class="fa-solid fa-lock"></i><input id="register-password" type="password" placeholder="Crie uma senha" autocomplete="new-password" required></div>
             </div>
             <button type="submit" class="btn-submit">Criar minha conta <i class="fa-solid fa-check"></i></button>
           </form>
         </div>
-
       </div>
     </div>
-    
     <a href="index.html" class="back-to-home"><i class="fa-solid fa-arrow-left"></i> Voltar para o início</a>
+    <button class="auth-theme-btn" type="button" onclick="toggleTheme()" aria-label="Alternar tema" title="Alternar tema"><i class="fa-solid fa-moon" aria-hidden="true"></i></button>
   </div>
 
   <script>
-    // Lógica para alternar entre Login e Cadastro
+    function updateThemeIcon() {
+      const icon = document.querySelector('.auth-theme-btn i');
+      const button = document.querySelector('.auth-theme-btn');
+      const dark = document.body.classList.contains('dark');
+      icon.className = dark ? 'fa-solid fa-sun' : 'fa-solid fa-moon';
+      button.title = dark ? 'Ativar tema claro' : 'Ativar tema escuro';
+      button.setAttribute('aria-label', button.title);
+    }
+    function toggleTheme() {
+      const dark = document.body.classList.toggle('dark');
+      try { localStorage.setItem('nous-theme', dark ? 'dark' : 'light'); } catch (_) {}
+      updateThemeIcon();
+    }
     function toggleAuth() {
       const login = document.getElementById('login-box');
       const register = document.getElementById('register-box');
-      if (login.style.display === 'none') {
-        login.style.display = 'block';
-        register.style.display = 'none';
-      } else {
-        login.style.display = 'none';
-        register.style.display = 'block';
-      }
+      const cadastro = login.style.display !== 'none';
+      login.style.display = cadastro ? 'none' : 'block';
+      register.style.display = cadastro ? 'block' : 'none';
+      history.replaceState(null, '', cadastro ? '#cadastro' : location.pathname);
     }
-
-    // Verifica se o usuário veio do botão "Cadastrar" (URL com #cadastro)
-    window.onload = function() {
-      if (window.location.hash === '#cadastro') {
-        // Força a abertura da tela de cadastro
-        document.getElementById('login-box').style.display = 'none';
-        document.getElementById('register-box').style.display = 'block';
-      }
+    if (window.location.hash === '#cadastro') {
+      document.getElementById('login-box').style.display = 'none';
+      document.getElementById('register-box').style.display = 'block';
     }
+    updateThemeIcon();
   </script>
 </body>
 </html>
