@@ -140,14 +140,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['acao']) && $_POST['aca
               <label>E-mail</label>
               <div class="form-input-wrap">
                 <i class="fa-regular fa-envelope"></i>
-                <input type="email" name="email" placeholder="seu@email.com" required>
+                <input type="email" name="email" placeholder="seu@email.com" autocomplete="off" required>
               </div>
             </div>
             <div class="form-group">
               <label>Senha</label>
               <div class="form-input-wrap">
                 <i class="fa-solid fa-lock"></i>
-                <input type="password" name="senha" placeholder="Sua senha" required>
+                <input type="password" name="senha" placeholder="Sua senha" autocomplete="off" required>
               </div>
             </div>
             <button type="submit" class="btn-submit">Entrar <i class="fa-solid fa-arrow-right"></i></button>
@@ -197,7 +197,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['acao']) && $_POST['aca
       </div>
     </div>
     
-    <a href="index.php" class="back-to-home"><i class="fa-solid fa-arrow-left"></i> Voltar para o início</a>
   </div>
 
   <script>
@@ -214,6 +213,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['acao']) && $_POST['aca
     }
 
     window.onload = function() {
+      // Se o usuário veio do botão Sair, limpa os inputs de login para facilitar a troca
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.has('logout')) {
+        const emailInput = document.querySelector('#login-box input[name="email"]');
+        const senhaInput = document.querySelector('#login-box input[name="senha"]');
+        if (emailInput) emailInput.value = '';
+        if (senhaInput) senhaInput.value = '';
+      }
+
       if (window.location.hash === '#cadastro') {
         document.getElementById('login-box').style.display = 'none';
         document.getElementById('register-box').style.display = 'block';

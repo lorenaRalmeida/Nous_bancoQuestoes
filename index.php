@@ -1,12 +1,12 @@
 <?php
-// 1. Inicia a sessão e verifica se o usuário está logado
+// inicia a sessão e verifica se o usuário está logado
 session_start();
 if (!isset($_SESSION['usuario_id'])) {
     header("Location: login.php");
     exit;
 }
 
-// 2. Conecta ao banco para buscar os dados reais do usuário logado
+// conecta ao banco para buscar os dados reais do usuário logado
 include('conexao.php');
 
 $id_usuario = $_SESSION['usuario_id'];
@@ -17,11 +17,11 @@ $stmt->execute();
 $resultado = $stmt->get_result();
 $usuario = $resultado->fetch_assoc();
 
-// Dados padrão caso ocorra algum imprevisto
+// dados geral pra caso ocorra algum erro
 $nome_usuario = $usuario['nome'] ?? 'Estudante';
 $email_usuario = $usuario['email'] ?? 'estudante@exemplo.com';
 
-// Gera as iniciais para o avatar (ex: Maria Silva -> MS)
+// gera as iniciais para o avatar
 $partes = explode(' ', trim($nome_usuario));
 $iniciais = strtoupper(substr($partes[0], 0, 1) . (isset($partes[1]) ? substr(end($partes), 0, 1) : ''));
 ?>
@@ -88,7 +88,7 @@ $iniciais = strtoupper(substr($partes[0], 0, 1) . (isset($partes[1]) ? substr(en
         <section id="section-home" class="page-section active">
           <div class="page-header">
             <div class="page-title">
-              <h1>Olá, <?php echo htmlspecialchars(explode(' ', $nome_usuario)[0]); ?>! 👋</h1>
+              <h1>Oii, <?php echo htmlspecialchars(explode(' ', $nome_usuario)[0]); ?>!</h1>
               <p>Seja bem-vindo ao seu novo portal de estudos.</p>
             </div>
           </div>
