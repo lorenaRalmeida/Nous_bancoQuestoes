@@ -223,7 +223,7 @@ $areas = [
                         <label for="ano">Ano da prova</label>
                         <select name="ano" id="ano">
                             <option value="">Todos os anos</option>
-                            <?php for ($a = 2026; $a >= 2026; $a--) { ?>
+                            <?php for ($a = 2023; $a >= 2009; $a--) { ?>
                                 <option value="<?= $a ?>" <?= $ano == $a ? "selected" : "" ?>><?= $a ?></option>
                             <?php } ?>
                         </select>
