@@ -1,0 +1,46 @@
+{
+    "title": "Questão 67 - FUVEST 2026",
+    "index": 67,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A espectrometria de massas, utilizada para a identificação das \nproteínas no estudo apresentado no texto, é uma técnica que \npermite determinar com precisão a massa molecular de \nmoléculas carregadas. A determinação da massa exata da \nmolécula é feita a partir do conhecimento da sua carga e da \nrazão massa/carga (m/z), parâmetro que influencia no \nmovimento das espécies, permitindo sua determinação. Caso \na carga das moléculas seja unitária, a razão m/z é \nnumericamente igual à massa da espécie a ser identificada. \nCaso a carga seja 2, a razão m/z detectada é metade da \nmassa da molécula. \nA imagem a seguir representa, na forma de um gráfico, o \nresultado de uma análise por espectrometria de massas de \numa amostra pura contendo apenas uma espécie intacta com \nfórmula \nmolecular \n[C44H69NO12Ca]2+ \ne \nmassa \nexata, \nconsiderando \nos \nisótopos \nmais \nabundantes, \nde \n843,444 g/mol, detectada como m/z 421,722. \n\nA presença de outros sinais além do sinal de m/z 421,722, \nmesmo em uma amostra pura não contendo nenhuma outra \nespécie além do [C44H69NO12Ca]2+, deve-se\n\n![](imagem_1.png)\n\n![](imagem_2.jpeg)",
+    "files": [
+        "imagem_1.png",
+        "imagem_2.jpeg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à presença de outros isótopos menos abundantes e mais \npesados de átomos presentes na molécula.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "às espécies com cargas unitárias que possuem massa \nmaior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à presença de outros isótopos mais abundantes e mais \npesados de átomos presentes na molécula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à carga do cálcio, que faz com que a espécie detectada \ntenha mais de uma massa molecular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "à presença de outros isótopos menos abundantes e mais \nleves de átomos presentes na molécula. \n \n \n \nTexto para as questões de 68 a 70 \n \nThink for a minute about the \nlittle bumps on your tongue. You \nprobably saw a diagram of those \ntaste bud arrangements once in \na biology textbook — sweet \nsensors at the tip, salty on either \nside, sour behind them, bitter in \nthe back. \nBut the idea that specific \ntastes are confined to certain \nareas of the tongue is a myth that \n“persists \nin \nthe \ncollective \nconsciousness, despite decades \nof \nresearch \ndebunking \nit”, \naccording to a review published this month in The New \nEngland Journal of Medicine. Also wrong: the notion that taste \nis limited to the mouth. \nThe old diagram, which has been used in many textbooks \nover the years, originated in a study published by David Hanig, \na German scientist, in 1901. But the scientist was not \nsuggesting that various tastes are segregated on the tongue. \nHe was actually measuring the sensitivity of different areas, \nsaid Paul Breslin, a researcher at Monell Chemical Senses \nCenter in Philadelphia. “What he found was that you could \ndetect things at a lower concentration in one part relative to \nanother,” Dr. Breslin said. The tip of the tongue, for example, is \ndense with sweet sensors but contains the others as well. \nThe map’s mistakes are easy to confirm. If you place a \nlemon wedge at the tip of your tongue, it will taste sour, and if \nyou put a bit of honey toward the side, it will be sweet. \nThe perception of taste is a remarkably complex process, \nstarting from that first encounter with the tongue. Taste cells \nhave a variety of sensors that signal the brain when they \nencounter nutrients or toxins. For some tastes, tiny pores in cell \nmembranes let taste chemicals in. \nSuch taste receptors aren’t limited to the tongue; they are \nalso found in the gastrointestinal tract, liver, pancreas, fat cells, \nbrain, muscle cells, thyroid and lungs. We don’t generally think \nof these organs as tasting anything, but they use the receptors \nto pick up the presence of various molecules and metabolize \nthem, said Diego Bohórquez, a self-described gut-brain \nneuroscientist at Duke University. For example, when the gut \nnotices sugar in food, it tells the brain to alert other organs to \nget ready for digestion. \nNew York Times. May 29, 2024. Adaptado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

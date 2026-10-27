@@ -1,0 +1,50 @@
+{
+    "title": "Questão 5 - FUVEST 2026",
+    "index": 5,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A difusão de descobertas científicas complexas em \nlinguagens mais acessíveis e lúdicas é uma forma de expor a \nimportância da ciência. Um recente trabalho da Universidade \nde Würzburg, na Alemanha, que descreveu uma nova ligação \ntripla entre átomos de B (Boro) e C (Carbono), foi apresentado \ncomo se os autores estivessem jogando uma espécie de \n“bingo das ligações químicas”, conforme a figura a seguir: \n\n“No bingo das ligações químicas, os pesquisadores \nconseguiram completar a lacuna entre o Boro e o Carbono.” \n \nDisponível em https://www.tecmundo.com.br/ciencia/. Adaptado. \n \nAdaptando essa ideia, foi feito um jogo para identificar os tipos \nde ligações entre os elementos Na, K, Ca, C,, Br e I. Assinale \na alternativa que representa a melhor marcação do tipo de \nligação formada por esses átomos, seguindo a legenda: \n \n – ligação iônica; \n – ligação covalente; \nΔ – ligação metálica.\n\n![](imagem_1.png)\n\n![](imagem_2.png)\n\n![](imagem_3.png)\n\n![](imagem_4.png)\n\n![](imagem_5.png)\n\n![](imagem_6.png)",
+    "files": [
+        "imagem_1.png",
+        "imagem_2.png",
+        "imagem_3.png",
+        "imagem_4.png",
+        "imagem_5.png",
+        "imagem_6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Figura C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Figura A \n \nFigura D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Figura B \n \nFigura E",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

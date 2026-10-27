@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - FUVEST 2026",
+    "index": 7,
+    "year": 2026,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Considere a equação trigonométrica \n \n𝑠𝑒𝑛𝜋\n2 + 𝑠𝑒𝑛 𝑥= 𝑠𝑒𝑛 (2𝑥) −cos 𝜋 \n \npara 𝑥∈ℝ, 0 ≤𝑥< 2𝜋. \n \nUm estudante resolveu essa equação da seguinte maneira: \n \n𝑠𝑒𝑛𝜋\n2 + 𝑠𝑒𝑛 𝑥= 𝑠𝑒𝑛 (2𝑥) −cos 𝜋 \n1 + 𝑠𝑒𝑛 𝑥= 𝑠𝑒𝑛 (2𝑥) + 1 \n𝑠𝑒𝑛 𝑥= 𝑠𝑒𝑛 (2𝑥) \n𝑠𝑒𝑛 𝑥= 2𝑠𝑒𝑛 𝑥 \n2𝑠𝑒𝑛 𝑥−𝑠𝑒𝑛 𝑥= 0 \n𝑠𝑒𝑛 𝑥= 0 \n𝑥= 0 𝑜𝑢 𝑥= 𝜋 \n \nA resolução apresentada pelo estudante está errada, pois ele",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "considerou que cos 𝜋 vale 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "não considerou as infinitas voltas no ciclo trigonométrico \npara a resposta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "considerou que sen\nగ\nଶ vale 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "não utilizou corretamente o seno da soma de dois arcos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "apresentou duas respostas e não apenas uma.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

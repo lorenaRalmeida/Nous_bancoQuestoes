@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - FUVEST 2026",
+    "index": 31,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O processo de corrosão do aço é favorecido em ambientes \númidos e ácidos. Para evitar a corrosão de superfícies de aço \né comum utilizar óleos para impedir o contato da umidade do \nar com a superfície. Nos casos em que o uso de óleo não é \nconveniente, é possível criar uma camada de NaOH(s) na \nsuperfície \ndo \nmetal \naplicando \numa \nsolução \naquosa \nrelativamente concentrada desta base sobre a ferramenta e \ndeixando a solução secar por completo. Esse tipo de \ntratamento com hidróxido de sódio é efetivo em ambientes \ncom elevada acidez pois, caso a água entre em contato com \na superfície tratada, ela",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "será repelida pela camada hidrofóbica de hidróxido de \nsódio, evitando o contato direto da água com o metal e sua \noxidação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "solubilizará o hidróxido de sódio, que neutralizará o ácido \npresente na água que poderia induzir o processo de \noxidação na superfície do metal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "será oxidada pelo hidróxido de sódio, gerando sua forma \nreduzida que, em contato com a superfície do metal, \nimpede o processo de corrosão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "gerará um acúmulo de água na superfície hidrofílica da \ncamada \nde \nhidróxido \nde \nsódio, \nimpedindo \nsua \nsolubilização e a consequente formação de ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reagirá diretamente com o sódio do hidróxido de sódio, já \nque este atuará como metal de sacrifício, sofrendo \noxidação e protegendo a superfície metálica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

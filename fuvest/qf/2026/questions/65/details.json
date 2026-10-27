@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - FUVEST 2026",
+    "index": 65,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A vacina contra a dengue co-desenvolvida pelo Brasil, a \nQdenga, começou a ser oferecida pelo SUS em 2024. \nIndivíduos imunocompetentes recebem vírus atenuados ao \nserem vacinados, adquirindo imunidade sem ficar doentes. \nPessoas \ncom \nimunodeficiências, \nindivíduos \ncom \nHIV \nsintomático, gestantes e lactantes não podem ser vacinadas. \nNo entanto, estas pessoas podem ser beneficiadas com a \nvacinação da população, pois\n\n![](imagem_1.jpeg)",
+    "files": [
+        "imagem_1.jpeg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pessoas não-vacinadas adquirem imunidade por contato \ncom vacinados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mosquitos transmissores da dengue morrem ao picar \npessoas vacinadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vírus atenuados alteram o material genético dos vírus \nselvagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as chances de epidemias diminuem quando a cobertura \nvacinal é alta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "pessoas vacinadas liberam anticorpos contra o vírus no \nambiente. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTexto para as questões 66 e 67 \n \n \nResearchers investigated the quantities of thousands of \nmuscle proteins and found a possible new explanation for \nmuscle memory. A study showed for the first time that muscles \n\"remember\" training at the protein level. It is often thought that \nthe effects of exercise are short-lived, and a break from the \ngym can cause stress over muscle loss. However, the research \nhas shown that this stress is partly unnecessary, as the effects \nof resistance training persist in muscles for up to two months \nand the gains are fast when training is started again. But what \nmechanisms and changes at the cellular and molecular levels \nexplain muscle memory? In the study, ten weeks of resistance \ntraining was followed by a break of the same length and then \nfollowed by another ten weeks of resistance training. Using the \nproteomics method, it was possible to study the quantities of \nover \n3,000 \nmuscle \nproteins \nusing \nadvanced \nmass \nspectrometry equipment. The study found two types of change \nprofiles in muscle proteins. Some proteins changed as a result \nof training, returned to their pre-training state during the break, \nand changed again during the new training period similarly to \nthe first training period. These included proteins related to \naerobic metabolism. Another group of proteins changed as a \nresult of training and remained changed during the break and \nafter the new training period. Among these proteins were \nseveral calcium-binding proteins, such as calpain-2, whose \ngene has recently been identified to retain a memory trace \neven after a training break. \"At the level of the number of \nmuscle nuclei and the memory traces of genes, that is, \nepigenetics, long-term responses that persist even after a \nbreak and possibly explain 'muscle memory' have previously \nbeen observed,\" says a researcher. \"Now, for the first time, we \nhave shown that muscles 'remember' previous resistance \ntraining at the protein level for at least two and a half months.\" \nDisponível em https://jyu.fi/en/news/. 14 April 2025. Adaptado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

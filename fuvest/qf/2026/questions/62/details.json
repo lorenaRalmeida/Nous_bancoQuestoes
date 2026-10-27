@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - FUVEST 2026",
+    "index": 62,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Essa reação de geração de oxigênio",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "é endotérmica, pois se inicia somente em altas \ntemperaturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "é uma reação de oxirredução na qual o cloro é oxidado e \no oxigênio é reduzido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "deve possuir uma baixa energia de ativação para ser \nativada nas baixas temperaturas das altitudes elevadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "deve ser exotérmica o suficiente para manter a \ntemperatura alta após iniciada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "é uma reação de oxirredução na qual o sódio é reduzido e \no oxigênio é oxidado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

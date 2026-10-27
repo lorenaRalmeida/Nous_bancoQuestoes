@@ -1,0 +1,46 @@
+{
+    "title": "Questão 15 - FUVEST 2026",
+    "index": 15,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Segundo o texto, a uberização é um processo que\n\n![](imagem_1.png)\n\n![](imagem_2.png)",
+    "files": [
+        "imagem_1.png",
+        "imagem_2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "surgiu com o uso das plataformas digitais como elemento \nmediador que estimulou relações de trabalho cooperativo \nentre multidões de desempregados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "intensificou a informalidade e a flexibilidade nas relações \nde trabalho por conta dos recursos técnicos das \nplataformas, que acirraram a exploração capitalista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "libertou o trabalhador do atraso das leis trabalhistas, que \nimpediam o empreendedor de construir novos arranjos \nprodutivos que aumentassem sua renda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "partiu da regulação das plataformas digitais para instituir \numa nova forma de gerenciamento da força de trabalho \nbaseada na eliminação de direitos sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "acentuou a exploração capitalista, já que o aumento da \nrenda do trabalhador não foi compatível com os custos das \natividades profissionais realizadas por meio de aplicativos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

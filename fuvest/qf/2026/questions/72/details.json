@@ -1,0 +1,46 @@
+{
+    "title": "Questão 72 - FUVEST 2026",
+    "index": 72,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Park, E. et al. “Pour-over coffee: Mixing by a water jet impinging on a \ngranular bed with avalanche dynamics”. Phys. Fluids 37, 043332 (2025). \nAdaptado. \n \nUm artigo recentemente publicado na revista Physics of Fluids \ninvestigou de que modo fatores como a altura e a velocidade da \nágua despejada na preparação de café filtrado (parte (a) da \nfigura) influenciam no sabor da bebida pronta. \nUm dos parâmetros importantes é a velocidade do jato de \nágua ao atingir a lâmina de água que já está no filtro. Uma das \nconclusões do estudo é que velocidades acima de 2 m/s \nlevam a uma melhor mistura do pó de café com a água. \nA parte (b) da figura esquematiza a situação descrita, em que \nH é a altura da lâmina de água e D a altura de despejo da \nágua do bule, medidas que têm a base do filtro como \nreferência. \nAssumindo que seja desprezível a velocidade do jato quando \na água começa a ser despejada no bico do bule, para uma \naltura H = 8 cm, qual a altura mínima D de despejo para que \na velocidade do jato, ao atingir a água, seja de, pelo menos, \n2 m/s?\n\n![](imagem_1.jpeg)\n\n![](imagem_2.jpeg)",
+    "files": [
+        "imagem_1.jpeg",
+        "imagem_2.jpeg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8,2 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "28 cm \n \nNote e adote: \nDensidade (massa específica) da água: d = 1000 kg/m3 \nAceleração da gravidade: g = 10 m/s2",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

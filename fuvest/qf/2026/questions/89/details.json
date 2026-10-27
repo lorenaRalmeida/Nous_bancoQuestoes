@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - FUVEST 2026",
+    "index": 89,
+    "year": 2026,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A família de Neide fazia questão de conservar o pomposo \nsobrenome, “Paranhos”, herdado dos tempos da escravatura. \nA manutenção do nome dos descendentes dos antigos \ncolonizadores, cuja família era tradicional na cidade, para o \nclã descendente de africanos escravizados, ganhara um \nsentido de enfrentamento aos brancos “Paranhos”. Para além \nde ser um destino histórico, era uma velada reivindicação de \numa fortuna familiar dos brancos, que em grande parte era de \npertença dos negros “Paranhos”. \nConceição Evaristo. Canção para ninar menino grande. \n \nNo excerto, o uso do mesmo nome por uma família branca e \numa família negra indica",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a ascensão social dos “Paranhos” negros após o fim da \nescravidão, \nalcançada \npor \nmeio \ndos \nprogramas \ngovernamentais de ajuda a ex-escravizados, e a \ndecadência dos “Paranhos” brancos trazida pela crise do \ncafé.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o racismo expresso nas ações e decisões das instituições \npolíticas monárquicas, provenientes do período colonial, e \na manutenção da dominação socioeconômica dos \n“Paranhos” negros pelos “Paranhos” brancos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a persistência de um vínculo desigual entre as famílias, \noriundo do período da escravidão, e um esforço dos \n“Paranhos” negros de afirmar sua participação no \nenriquecimento dos “Paranhos” brancos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o esforço de construção de uma ordem social harmoniosa, \ndesenvolvida \ndurante \na \nPrimeira \nRepública, \ne \na \npersistência de ressentimentos e rivalidades pessoais \nentre os “Paranhos” brancos e os “Paranhos” negros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a dependência financeira dos “Paranhos” negros em \nrelação aos “Paranhos” brancos, provocada por sua \ncondição de escravizados, e a valorização da mistura \nracial como característica de formação do povo brasileiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

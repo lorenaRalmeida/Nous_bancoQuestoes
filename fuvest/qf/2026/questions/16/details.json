@@ -1,0 +1,46 @@
+{
+    "title": "Questão 16 - FUVEST 2026",
+    "index": 16,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A expressão just-in-time, destacada no texto, refere-se, no \ncontexto da discussão, a uma modalidade de trabalho\n\n![](imagem_1.png)\n\n![](imagem_2.png)",
+    "files": [
+        "imagem_1.png",
+        "imagem_2.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "com escala fixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "filantrópico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "híbrido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sob proteção legal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sob demanda.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

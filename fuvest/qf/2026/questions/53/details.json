@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - FUVEST 2026",
+    "index": 53,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A anexação, definida como a incorporação unilateral de \nterritório de outro Estado, é proibida pela Carta das Nações \nUnidas e pelo direito internacional geral, que enfatizam a \nproibição do uso da força e o respeito à integridade territorial \ndos Estados (Carta da ONU, 1945). \n\nDisponível em https://www.parlamentomercosur.org. Adaptado. \n \nPartindo da carta da ONU e do mapa, é possível indicar que \nse refere\n\n![](imagem_1.png)",
+    "files": [
+        "imagem_1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à invasão das tropas venezuelanas à área que pertence a \nfronteira norte do Brasil, contrariando o Acordo de \nGenebra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à retomada de áreas da região de Essequibo, pelo \nSuriname, que foram invadidas pelo exército venezuelano \nna crescente tensão com a Guiana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à anexação da região do rio Orinoco, rico em reservas \nminerais, pela Venezuela, conforme preconiza o Acordo de \nGenebra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aos novos limites definidos para o território da Venezuela \nem acordos com o Mercosul em conformidade com o \nProtocolo Porto de Espanha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "à anexação da região de Essequibo pela Venezuela, \ncontrariando a Arbitragem de 1904 que determinou que a \nárea deveria ficar sob jurisdição da Guiana.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

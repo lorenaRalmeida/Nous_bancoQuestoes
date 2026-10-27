@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - FUVEST 2026",
+    "index": 20,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O indígena sofre menos sob a República do que sob a \ndominação espanhola? Não existem mais corregimientos nem \nencomiendas, mas persistem os trabalhos forçados e os \nrecrutamentos. O sofrimento que lhe provocamos basta para \ndescarregar sobre nós a execração dos seres humanos. Nós \no conservamos na ignorância e na servidão, o envilecemos no \nquartel, o embrutecemos com o álcool, o lançamos a \ndestroçar-se nas guerras civis e, de tempos em tempos, \norganizamos caçadas e matanças. \nManuel González Prada. “Nuestros índios”. In: Ideas en torno de \nLatinoamérica. México: UNAM, 1986. Adaptado. \n \nO excerto, extraído de um texto publicado no início do \nséculo XX pelo peruano Manuel González Prada,\n\n![](imagem_1.jpeg)",
+    "files": [
+        "imagem_1.jpeg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "identifica mudanças na condição dos indígenas após a \nemancipação política, mas afirma a persistência de sua \nexploração no trabalho e de sua marginalização social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "valoriza a ativa participação dos indígenas no processo de \nemancipação política, mas admite a dificuldade política de \nincorporá-los à nova ordem social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reconhece os crimes contra os indígenas cometidos \ndurante a colonização espanhola, mas enfatiza a melhoria \nnas relações sociais e na condição indígena sob a \nRepública.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "defende a persistência da exclusão social dos indígenas \nna República, mas a justifica em função das heranças \nrecebidas do período de colonização espanhola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "critica a obrigatoriedade do alistamento militar dos \nindígenas, mas insiste na importância de sua participação \ne de seu envolvimento na construção da República.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

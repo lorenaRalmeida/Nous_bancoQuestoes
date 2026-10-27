@@ -1,0 +1,45 @@
+{
+    "title": "Questão 79 - FUVEST 2026",
+    "index": 79,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Conforme o texto, a experiência conduzida por David Rhoades, \nna floresta experimental da Universidade de Washington, \ntornou-se marcante para a botânica, por revelar a\n\n![](imagem_1.png)",
+    "files": [
+        "imagem_1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dependência das árvores de inimigos naturais para a \nmanutenção do equilíbrio das florestas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alteração \nda \ncomposição \ndas \nfolhas, \ncapaz \nde \ncomprometer a sobrevivência de insetos herbívoros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "variabilidade das lagartas como fator decisivo para a \nresiliência dos ecossistemas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "influência determinante da fertilidade do solo na \nrecuperação da vegetação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "oscilação natural das populações de pragas como causa \nda regeneração florestal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

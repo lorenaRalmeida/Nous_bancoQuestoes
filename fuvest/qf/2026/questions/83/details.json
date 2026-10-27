@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - FUVEST 2026",
+    "index": 83,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A porcentagem em massa de fosfato (PO43-) numa amostra do \nvidro fertilizante é de 19%. A velocidade de dissolução desse \nvidro em água é constante e independente da massa inicial, \nsendo igual a 7,3 mg/h. Em um teste de dissolução, adicionou-\nse excesso dessa amostra de vidro fertilizante a 1 L de água \ne mediu-se a concentração de íons fosfato ao longo do tempo. \nA concentração de fosfato em mol/L obtida após 100 h de \nexperimento foi\n\n![](imagem_1.jpeg)",
+    "files": [
+        "imagem_1.jpeg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,46 × 10-3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "7,68 × 10-3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "139 × 10-3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "365 × 10-3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "730 × 10-3 \n \nNote e adote: \nMassa molar do fosfato = 95 g/mol",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

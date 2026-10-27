@@ -1,0 +1,46 @@
+{
+    "title": "Questão 73 - FUVEST 2026",
+    "index": 73,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma definição possível de equilíbrio mecânico estável é a \nseguinte: \n“Se um corpo está em uma posição de equilíbrio mecânico e, \nao sofrer pequenos deslocamentos em torno dessa posição, \nsua tendência for retornar à posição original de equilíbrio, \ndizemos que o equilíbrio é estável.” \nAs imagens a seguir mostram uma colher em diferentes \nsituações de equilíbrio mecânico em cima de uma xícara. \n\nCom \nbase \nna \ndefinição \napresentada \ne \nnos \nseus \nconhecimentos, quais imagens ilustram situações em que a \ncolher está em equilíbrio estável em relação a pequenos \ndeslocamentos nas direções indicadas pelas setas?\n\n![](imagem_1.jpeg)\n\n![](imagem_2.jpeg)",
+    "files": [
+        "imagem_1.jpeg",
+        "imagem_2.jpeg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 e 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 e 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 e 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 e 3",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

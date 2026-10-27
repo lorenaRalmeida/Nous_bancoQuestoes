@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - FUVEST 2026",
+    "index": 85,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura a seguir representa nichos ecológicos de duas \nespécies que utilizam um dado recurso ambiental em comum \ne de forma semelhante. \n \nÉ correto afirmar que a área N representa\n\n![](imagem_1.png)",
+    "files": [
+        "imagem_1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma região de sobreposição de nichos, na qual pode \nocorrer competição intraespecífica e interespecífica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "uma área fictícia, já que, por definição, nicho é algo \nexclusivo de uma espécie e não pode se sobrepor a outro \nnicho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o conceito de habitat, que corresponde ao local em que \nduas ou mais espécies distintas coabitam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o próprio recurso compartilhado pelas duas espécies de \nforma simétrica e equilibrada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o surgimento de um outro nicho, no qual os organismos ali \npresentes podem evoluir, originando uma nova espécie.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

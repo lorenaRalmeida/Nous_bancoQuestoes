@@ -1,0 +1,45 @@
+{
+    "title": "Questão 78 - FUVEST 2026",
+    "index": 78,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A bióloga Lynn Margulis publicou um polêmico artigo em 1967 \npropondo que algumas organelas das células eucarióticas \npoderiam ser o resultado de eventos de endossimbiose, no \nqual bactérias passaram a viver em simbiose dentro de células \neucarióticas até serem completamente incorporadas a elas. A \nhipótese de Margulis sofreu muita oposição, até que \nevidências experimentais mostraram que algumas organelas \nde fato possuíam muitas similaridades com bactérias. Entre as \nevidências de endossimbiose, podemos citar:\n\n![](imagem_1.png)",
+    "files": [
+        "imagem_1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As membranas duplas dos núcleos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os ribossomos aderidos ao retículo endoplasmático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A parede celular das células vegetais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O formato do complexo de Golgi.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O genoma circular das mitocôndrias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

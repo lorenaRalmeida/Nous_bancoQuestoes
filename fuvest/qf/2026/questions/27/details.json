@@ -1,0 +1,46 @@
+{
+    "title": "Questão 27 - FUVEST 2026",
+    "index": 27,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A África Oriental utiliza recursos geotérmicos para gerar cerca \nde 630 MW por ano. O Quênia é o líder africano em usinas \ngeotérmicas em operação, totalizando mais de 40% da \nprodução total de eletricidade do país. \n \nMapa do potencial geotérmico da África \n\nDisponível em https://doi.org/10.1186/s40517-022-00219-1. Adaptado. \n \nAssinale a alternativa correta sobre o processo geológico e \nsua consequência no terreno que explica a exploração de \nenergia geotérmica no Quênia, respectivamente:\n\n![](imagem_1.png)\n\n![](imagem_2.jpeg)",
+    "files": [
+        "imagem_1.png",
+        "imagem_2.jpeg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Movimento transcorrente; morros testemunhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Intemperismo químico; formação de relevos de cuesta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Movimento divergente de placas; rift valley.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Processos erosivos contínuos; formação de cânions.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Movimento convergente; cadeias montanhosas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

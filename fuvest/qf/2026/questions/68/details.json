@@ -1,0 +1,46 @@
+{
+    "title": "Questão 68 - FUVEST 2026",
+    "index": 68,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Sobre os receptores gustativos e sua distribuição corporal, o \ntexto sugere que\n\n![](imagem_1.png)\n\n![](imagem_2.jpeg)",
+    "files": [
+        "imagem_1.png",
+        "imagem_2.jpeg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "certas áreas da língua identificam gostos específicos, \ncomo doce na ponta e azedo no fundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o comportamento alimentar é moldado por padrões fixados \nna infância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a percepção gustativa reforça o prazer estético associado \naos hábitos nutricionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a detecção de sabores envolve rede integrada de órgãos \nque colaboram com o sistema nervoso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a função dos sensores extraorais restringe-se à regulação \nda glicemia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 86 - FUVEST 2026",
+    "index": 86,
+    "year": 2026,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A rega e o zelo geraram uma infinidade de seres que \ndescobria nos dedos ao mexer na terra: minhocas, besouros \nverdes, bichos-de-conta. \nDjaimilia Pereira de Almeida. A visão das plantas. \n \nNa obra A visão das plantas (2021) são descritas \ncaracterísticas dos animais e das plantas no jardim cuidado \npor Celestino. Nesta frase, são citados animais que pertencem \na diferentes grupos de invertebrados, como as minhocas \n(anelídeos), os besouros (insetos) e os bichos-de-conta \n(crustáceos), também conhecidos como tatuzinhos de jardim. \nAssinale a alternativa que apresenta corretamente a \ninformação sobre o sistema respiratório destes grupos.\n\n![](imagem_1.png)",
+    "files": [
+        "imagem_1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os besouros e os bichos-de-conta apresentam respiração \ntraqueal, sendo a umidade do solo importante em ambos \nos casos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As minhocas apresentam respiração cutânea e os \nbesouros apresentam respiração traqueal, sendo a \numidade do solo importante em ambos os casos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Os besouros apresentam respiração traqueal e os bichos-\nde-conta apresentam respiração pulmonar, e a umidade \ndo solo não é importante na respiração destes animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As minhocas, os besouros e os bichos-de-conta \napresentam respiração branquial, sendo a umidade do \nsolo importante na respiração dos três animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As minhocas, os besouros e os bichos-de-conta \napresentam respiração pulmonar, e a umidade do solo não \né importante na respiração dos três animais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 87 - FUVEST 2026",
+    "index": 87,
+    "year": 2026,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "As plantas viam o jardineiro como as plantas vêem. Não se \nsentiam agradecidas. Tratavam o seu regador à semelhança \nda chuva que caía sobre elas nas noites de Outono. \nFlorescerem não era o seu meio de meterem conversa com o \njardineiro, mas uma forma de acentuarem a sua indiferença à \ndeclaração de amor que ele cultivava a cada hora. \nTanto lhes fazia serem cuidadas por um assassino, se \neram sujas as mãos que as amparavam ou o que viera antes \ndo amor que ele lhes dedicava. \nSeguiam‑no com o seu olhar sem julgamento, alheias a \nque, todas as manhãs, Celestino acordava por elas. Vigiavam \nos seus passos, pressentiam a sua presença, alegravam‑se \nde o ver, conheciam as suas rotinas. Sem que por um instante \nlhe sentissem a falta, ou se afligissem com as suas ausências \nocasionais. \nDjaimilia Pereira de Almeida. A visão das plantas. \n \nConsiderando o trecho citado, depreende-se que o “olhar sem \njulgamento”\n\n![](imagem_1.png)",
+    "files": [
+        "imagem_1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expressa a piedade do jardim diante da condição de \nCelestino, que se encontra próximo da morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "expressa o terror das plantas por serem cuidadas por um \ncriminoso que carrega atos extremos de violência \npraticados em seu passado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "evidencia que a natureza está alheia às ações e \nsentimentos humanos, existindo à revelia da humanidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "é a retribuição ao cuidado cotidiano que as plantas \nrecebem, reconhecendo que Celestino se redimiu de seu \npassado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evidencia a integração do jardineiro com o jardim, na \nmedida em que dependem naturalmente um do outro para \nsobreviverem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

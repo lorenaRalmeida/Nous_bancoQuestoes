@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - FUVEST 2026",
+    "index": 51,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No Afeganistão, em vinte anos de guerra, morreram mais \nde 157 mil pessoas; no Iraque, de 2003 até hoje, dez anos \ndepois de as tropas americanas se retirarem do país, foram \nmortas entre 308 e 600 mil; e no Paquistão, o aliado dos \nEstados Unidos na Guerra ao Terror, 70 mil. \nAs violações de direitos humanos por militares americanos, \ncomo os abusos e a tortura de prisioneiros, muitas vezes \ninocentes, na prisão de Abu Ghraib, no Iraque, e na base de \nGuantánamo, em Cuba, geraram ainda mais ressentimento \nnas populações desses países. \nA Guerra ao Terror provocou mais radicalização religiosa, \nconflitos internos, forçou milhões de pessoas a abandonar \nsuas casas e a fugir para outros países, aumentando ainda \nmais o preconceito em relação a muçulmanos e árabes. Dizem \nque o mundo nunca mais foi o mesmo depois do Onze de \nSetembro. \nSimone Duarte. O vento mudou de direção: o Onze de Setembro que o \nmundo não viu. São Paulo: Fósforo, 2021. \n \nO excerto traz informações sobre a atuação militar norte-\namericana na Ásia após os atentados terroristas de 11 de \nsetembro de 2001 e afirma que essas investidas militares",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "provocaram novos confrontos locais e mundiais e \nacirraram perseguições de caráter étnico e religioso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "definiram uma nova ordem internacional e promoveram o \nbilateralismo que hoje caracteriza as relações entre as \nduas superpotências.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "consolidaram a hegemonia das organizações e alianças \nmilitares ocidentais nas áreas de conflito étnico e religioso \ndo Oriente Médio e do Sul asiático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "contribuíram para o estabelecimento da paz no mundo \nárabe, ao custo de terem provocado mais de quinhentas \nmil mortes em países asiáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "erradicaram as organizações terroristas responsáveis \npelos atentados, embora tenham recorrido a práticas \ncontrárias aos princípios humanitários defendidos pela \nONU.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

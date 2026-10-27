@@ -1,0 +1,46 @@
+{
+    "title": "Questão 22 - FUVEST 2026",
+    "index": 22,
+    "year": 2026,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Disponível em https://cartum.folha.uol.com.br/charges/. \n \nEm termos da interação entre os recursos verbais e imagéticos \nna charge, é correto afirmar:\n\n![](imagem_1.jpeg)\n\n![](imagem_2.png)",
+    "files": [
+        "imagem_1.jpeg",
+        "imagem_2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A \nrepresentação \nimagética \ndos \nindígenas \ncomo \nmiseráveis é hiperbólica, reforçando o sentido da pergunta \n“Por que mais terras?”, o que evidencia uma atitude autoral \nfavorável ao marco temporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A distribuição espacial do casal e da família indígena \npersonifica a polarização política, o que fica demarcado \npela oposição “nós” contra “eles” na fala da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A expressão “mais terras”, em contraste com o espaço \nocupado pela família indígena, busca mostrar que já há \nsoluções alternativas para a delimitação de terras para os \npovos originários no tecido urbano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ocorre uma quebra de expectativa entre a representação \nda família indígena e a expressão “perfeitamente \nintegrados”, o que colabora para o teor crítico da charge \nem relação ao marco temporal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A postura do casal, em relação aos indígenas, sinaliza \nempatia e mostra o seu interesse na derrubada do marco \ntemporal, que tem levado indígenas à pobreza nas \nmetrópoles brasileiras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

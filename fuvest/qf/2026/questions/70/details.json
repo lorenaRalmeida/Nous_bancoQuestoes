@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - FUVEST 2026",
+    "index": 70,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nós sentimos o sabor dos alimentos com o cérebro! \nEsta afirmação à primeira vista nos parece estranha. No \nentanto, assim como ocorre em todos os sentidos do sistema \nsensorial, no caso do paladar, a percepção consciente do \nsabor só acontece quando sinais específicos chegam ao \ncérebro. Assinale a alternativa que apresenta corretamente a \ninformação descrita neste processo.\n\n![](imagem_1.png)",
+    "files": [
+        "imagem_1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os componentes químicos dos alimentos interagem com \nproteínas receptoras nas células gustativas, e um potencial \nde ação é transmitido ao cérebro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Os componentes químicos dos alimentos são convertidos \nem uma corrente elétrica que estimula o músculo da \nlíngua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "No processo de transdução sensorial do paladar, os \ncomponentes químicos dos alimentos são convertidos em \num impulso hormonal que ativa as glândulas salivares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os \ncomponentes \nquímicos \ndos \nalimentos \nativam, \ndiretamente, os neurônios responsáveis por transmitir os \nsinais gustativos ao cérebro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A primeira etapa da transdução de sinal no paladar ocorre \nquando os receptores gustativos são ativados por \nhormônios digestivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

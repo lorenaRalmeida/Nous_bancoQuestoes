@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - FUVEST 2026",
+    "index": 77,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em qual comprimento de onda sonora ocorre a melhor \nresposta auditiva do paciente nesse exame?\n\n![](imagem_1.png)",
+    "files": [
+        "imagem_1.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,36 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,25 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "23,5 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "34 cm",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "80 cm \n \nNote e adote: \nConsidere a velocidade do som no ar como vs = 340 m/s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

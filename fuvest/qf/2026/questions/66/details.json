@@ -1,0 +1,45 @@
+{
+    "title": "Questão 66 - FUVEST 2026",
+    "index": 66,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Segundo o texto, os experimentos demonstram que\n\n![](imagem_1.jpeg)",
+    "files": [
+        "imagem_1.jpeg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a prática de esportes ativa genes através da mudança do \ncódigo genético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as quantidades de proteínas musculares apresentam \nmudanças após a atividade física.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a epigenética refuta a hipótese da ação da memória \nmuscular após treinos leves.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as proteínas relacionadas ao metabolismo aeróbico ativam \nmudanças irreversíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os métodos da proteômica dificultam a caracterização das \nproteínas e suas interações.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

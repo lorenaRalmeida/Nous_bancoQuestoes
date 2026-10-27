@@ -1,0 +1,45 @@
+{
+    "title": "Questão 30 - FUVEST 2026",
+    "index": 30,
+    "year": 2026,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Brasil é o líder mundial em reciclagem de alumínio, atingindo \nnúmeros próximos a 99% de latas recicladas no ano de 2021. \nEssas latas, já utilizadas para refrigerantes, cervejas, \nenergéticos, agora começam a trazer também água mineral \nem seu interior. \nConsidere que uma empresa deseja envasar 350 mL de água \nem uma lata de alumínio de formato cilíndrico e que, por \nrazões práticas como manuseio e custo do material, o \ndiâmetro da base dessa lata deve ter entre 5 cm e 8 cm. \nQual será, aproximadamente, em centímetros, a menor altura \npossível da lata?\n\n![](imagem_1.jpeg)",
+    "files": [
+        "imagem_1.jpeg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "13",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "28",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

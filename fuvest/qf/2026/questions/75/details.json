@@ -1,0 +1,50 @@
+{
+    "title": "Questão 75 - FUVEST 2026",
+    "index": 75,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma criança brinca com uma bolinha, deixando-a cair em \ndireção ao chão, onde ela quica e retorna praticamente à \naltura de origem. Qual dos gráficos a seguir melhor representa \ncomo a altura da bolinha varia com o tempo?\n\n![](imagem_1.png)\n\n![](imagem_2.png)\n\n![](imagem_3.png)\n\n![](imagem_4.png)\n\n![](imagem_5.png)\n\n![](imagem_6.png)",
+    "files": [
+        "imagem_1.png",
+        "imagem_2.png",
+        "imagem_3.png",
+        "imagem_4.png",
+        "imagem_5.png",
+        "imagem_6.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Figura A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Figura B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Figura C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Figura D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Figura E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

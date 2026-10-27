@@ -1,0 +1,565 @@
+{
+    "title": "FUVEST 2026",
+    "year": 2026,
+    "disciplines": [
+        {
+            "label": "Ciências Humanas e suas Tecnologias",
+            "value": "ciencias-humanas"
+        },
+        {
+            "label": "Ciências da Natureza e suas Tecnologias",
+            "value": "ciencias-natureza"
+        },
+        {
+            "label": "Linguagens, Códigos e suas Tecnologias",
+            "value": "linguagens"
+        },
+        {
+            "label": "Matemática e suas Tecnologias",
+            "value": "matematica"
+        }
+    ],
+    "languages": [],
+    "questions": [
+        {
+            "title": "Questão 1 - FUVEST 2026",
+            "index": 1,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 2 - FUVEST 2026",
+            "index": 2,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 3 - FUVEST 2026",
+            "index": 3,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 4 - FUVEST 2026",
+            "index": 4,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 5 - FUVEST 2026",
+            "index": 5,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 6 - FUVEST 2026",
+            "index": 6,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 7 - FUVEST 2026",
+            "index": 7,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 8 - FUVEST 2026",
+            "index": 8,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 9 - FUVEST 2026",
+            "index": 9,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 10 - FUVEST 2026",
+            "index": 10,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 11 - FUVEST 2026",
+            "index": 11,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 12 - FUVEST 2026",
+            "index": 12,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 13 - FUVEST 2026",
+            "index": 13,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 14 - FUVEST 2026",
+            "index": 14,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 15 - FUVEST 2026",
+            "index": 15,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 16 - FUVEST 2026",
+            "index": 16,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 17 - FUVEST 2026",
+            "index": 17,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 18 - FUVEST 2026",
+            "index": 18,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 19 - FUVEST 2026",
+            "index": 19,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 20 - FUVEST 2026",
+            "index": 20,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 21 - FUVEST 2026",
+            "index": 21,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 22 - FUVEST 2026",
+            "index": 22,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 23 - FUVEST 2026",
+            "index": 23,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 24 - FUVEST 2026",
+            "index": 24,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 25 - FUVEST 2026",
+            "index": 25,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 26 - FUVEST 2026",
+            "index": 26,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 27 - FUVEST 2026",
+            "index": 27,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 28 - FUVEST 2026",
+            "index": 28,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 29 - FUVEST 2026",
+            "index": 29,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 30 - FUVEST 2026",
+            "index": 30,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 31 - FUVEST 2026",
+            "index": 31,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 32 - FUVEST 2026",
+            "index": 32,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 33 - FUVEST 2026",
+            "index": 33,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 34 - FUVEST 2026",
+            "index": 34,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 35 - FUVEST 2026",
+            "index": 35,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 36 - FUVEST 2026",
+            "index": 36,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 37 - FUVEST 2026",
+            "index": 37,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 38 - FUVEST 2026",
+            "index": 38,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 39 - FUVEST 2026",
+            "index": 39,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 40 - FUVEST 2026",
+            "index": 40,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 41 - FUVEST 2026",
+            "index": 41,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 42 - FUVEST 2026",
+            "index": 42,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 43 - FUVEST 2026",
+            "index": 43,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 44 - FUVEST 2026",
+            "index": 44,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 45 - FUVEST 2026",
+            "index": 45,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 46 - FUVEST 2026",
+            "index": 46,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 47 - FUVEST 2026",
+            "index": 47,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 48 - FUVEST 2026",
+            "index": 48,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 49 - FUVEST 2026",
+            "index": 49,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 50 - FUVEST 2026",
+            "index": 50,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 51 - FUVEST 2026",
+            "index": 51,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 52 - FUVEST 2026",
+            "index": 52,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 53 - FUVEST 2026",
+            "index": 53,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 54 - FUVEST 2026",
+            "index": 54,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 55 - FUVEST 2026",
+            "index": 55,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 56 - FUVEST 2026",
+            "index": 56,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 57 - FUVEST 2026",
+            "index": 57,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 58 - FUVEST 2026",
+            "index": 58,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 59 - FUVEST 2026",
+            "index": 59,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 60 - FUVEST 2026",
+            "index": 60,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 61 - FUVEST 2026",
+            "index": 61,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 62 - FUVEST 2026",
+            "index": 62,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 63 - FUVEST 2026",
+            "index": 63,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 64 - FUVEST 2026",
+            "index": 64,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 65 - FUVEST 2026",
+            "index": 65,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 66 - FUVEST 2026",
+            "index": 66,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 67 - FUVEST 2026",
+            "index": 67,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 68 - FUVEST 2026",
+            "index": 68,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 69 - FUVEST 2026",
+            "index": 69,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 70 - FUVEST 2026",
+            "index": 70,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 71 - FUVEST 2026",
+            "index": 71,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 72 - FUVEST 2026",
+            "index": 72,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 73 - FUVEST 2026",
+            "index": 73,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 74 - FUVEST 2026",
+            "index": 74,
+            "discipline": "matematica",
+            "language": null
+        },
+        {
+            "title": "Questão 75 - FUVEST 2026",
+            "index": 75,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 76 - FUVEST 2026",
+            "index": 76,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 77 - FUVEST 2026",
+            "index": 77,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 78 - FUVEST 2026",
+            "index": 78,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 79 - FUVEST 2026",
+            "index": 79,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 80 - FUVEST 2026",
+            "index": 80,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 81 - FUVEST 2026",
+            "index": 81,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 82 - FUVEST 2026",
+            "index": 82,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 83 - FUVEST 2026",
+            "index": 83,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 84 - FUVEST 2026",
+            "index": 84,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 85 - FUVEST 2026",
+            "index": 85,
+            "discipline": "ciencias-natureza",
+            "language": null
+        },
+        {
+            "title": "Questão 86 - FUVEST 2026",
+            "index": 86,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 87 - FUVEST 2026",
+            "index": 87,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 88 - FUVEST 2026",
+            "index": 88,
+            "discipline": "ciencias-humanas",
+            "language": null
+        },
+        {
+            "title": "Questão 89 - FUVEST 2026",
+            "index": 89,
+            "discipline": "linguagens",
+            "language": null
+        },
+        {
+            "title": "Questão 90 - FUVEST 2026",
+            "index": 90,
+            "discipline": "linguagens",
+            "language": null
+        }
+    ]
+}

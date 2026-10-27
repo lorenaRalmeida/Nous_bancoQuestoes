@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - FUVEST 2026",
+    "index": 56,
+    "year": 2026,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Aristóteles produziu aquela que é considerada a primeira \nclassificação dos organismos vivos, no mundo ocidental. Nela, \nconsiderou principalmente a existência de características \ncompartilhadas para dividir os seres vivos em distintas \ncategorias. Atualmente, a classificação dos seres vivos pauta-se \nno paradigma da Escola Filogenética (cladística). Tal escola\n\n![](imagem_1.jpeg)",
+    "files": [
+        "imagem_1.jpeg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "também realiza a análise de características compartilhadas \nentre os diferentes grupos de organismos, buscando \nidentificar ancestrais comuns e relações de parentesco entre \neles.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "busca as diferenças entre os grupos de seres vivos, \nagrupando-os exclusivamente com base nessas diferenças, \ndesconsiderando características compartilhadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "abandona os princípios aristotélicos e adota ideias que \npropõem que os seres vivos evoluem com o passar do tempo, \ntornando-se sempre melhores que as gerações anteriores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "determina que os seres vivos se adaptam às condições do \nmeio em que vivem e produzem descendentes portadores \ndessas adaptações, de forma sucessiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "considera que características compartilhadas surgem \napenas por convergência adaptativa, ou seja, organismos de \nlinhagens diferentes, em um mesmo ambiente, podem \ndesenvolver características comuns.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

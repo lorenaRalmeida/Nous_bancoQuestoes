@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - FUVEST 2026",
+    "index": 44,
+    "year": 2026,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Paul Cézanne. A montanha de Sainte-Victoire, 1904. \n \nAssim também o gênio de Cézanne consiste em fazer com \nque as deformações de perspectiva, pela disposição de \nconjunto do quadro, deixem de ser visíveis por si mesmas na \nvisão global e contribuam apenas, como ocorre na visão \nnatural, para dar impressão de uma ordem nascente, de um \nobjeto que surge a se aglomerar sob o olhar. (...) O desenho \ndeve então resultar da cor, se se quer que o mundo seja \nrestituído em sua espessura, pois é uma massa sem lacunas, \num organismo de cores, através das quais a fuga da \nperspectiva, os contornos, as retas, as curvas instalam-se \ncomo linhas de força, pois é vibrando que a órbita do espaço \nse constitui. \nMerleau-Ponty. A dúvida de Cézanne. \n \nMerleau-Ponty, filósofo francês do século XX, dedicou um \nespaço importante em sua filosofia à reflexão sobre a pintura \ne, em particular, à obra de Paul Cézanne. \nCom base na proposição do filósofo e na observação da tela \ndo artista, é correto afirmar que cabe à expressão por meio da \npintura\n\n![](imagem_1.jpeg)",
+    "files": [
+        "imagem_1.jpeg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "encontrar uma forma de representação pictórica que se \nsobreponha ao mundo visível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "retratar a realidade, explicitando suas deformações de \nperspectivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fazer aparecer a espessura do mundo, especialmente pela \nênfase à cor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "deixar o mundo se revelar, sem o recurso técnico a \nqualquer mediação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "destacar a cor sobre o desenho, para fazer aparecer as \nperspectivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
