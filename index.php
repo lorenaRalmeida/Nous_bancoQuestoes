@@ -1,12 +1,12 @@
 <?php
-// inicia a sessão e verifica se o usuário está logado
+// bloqueio para apenas usuarios logados poder acessar o site
 session_start();
 if (!isset($_SESSION['usuario_id'])) {
     header("Location: login.php");
     exit;
 }
 
-// conecta ao banco para buscar os dados reais do usuário logado
+// conecta ao banco para buscar os dados do usuário logado
 include('conexao.php');
 
 $id_usuario = $_SESSION['usuario_id'];
@@ -25,6 +25,20 @@ $email_usuario = $usuario['email'] ?? 'estudante@exemplo.com';
 $partes = explode(' ', trim($nome_usuario));
 $iniciais = strtoupper(substr($partes[0], 0, 1) . (isset($partes[1]) ? substr(end($partes), 0, 1) : ''));
 $primeiro_nome = $partes[0] ?? 'Estudante';
+
+// busca os compromissos da agenda do usuário logado
+$sql_agenda = "SELECT * FROM compromissos WHERE usuario_id = ? ORDER BY data_compromisso ASC";
+$stmt_agenda = $conn->prepare($sql_agenda);
+$stmt_agenda->bind_param("i", $id_usuario);
+$stmt_agenda->execute();
+$resultado_agenda = $stmt_agenda->get_result();
+
+// busca as tarefas do usuário logado
+$sql_tarefas = "SELECT * FROM tarefas WHERE usuario_id = ? ORDER BY id DESC";
+$stmt_tarefas = $conn->prepare($sql_tarefas);
+$stmt_tarefas->bind_param("i", $id_usuario);
+$stmt_tarefas->execute();
+$resultado_tarefas = $stmt_tarefas->get_result();
 ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -40,7 +54,7 @@ $primeiro_nome = $partes[0] ?? 'Estudante';
 </head>
 <body>
   <script>
-    // Mantém o mesmo tema ao navegar entre o portal e o login.
+    // mantém o mesmo tema ao navegar entre o portal e o login.
     try {
       if (localStorage.getItem('nous-theme') === 'dark') {
         document.body.classList.add('dark');
@@ -49,7 +63,7 @@ $primeiro_nome = $partes[0] ?? 'Estudante';
   </script>
 
   <div id="dashboard-screen">
-    <!-- NAVBAR -->
+    <!-- navbar -->
     <nav class="navbar" aria-label="Menu superior">
       <a href="#home" class="navbar-logo" aria-label="Nous" data-target="home">
         <img src="logo-nous-claro.png" alt="Logo Nous" class="logo-img logo-for-light">
@@ -93,11 +107,11 @@ $primeiro_nome = $partes[0] ?? 'Estudante';
 
       <main class="content">
 
-        <!-- INÍCIO -->
+        <!-- início -->
         <section id="section-home" class="page-section active">
           <div class="page-header">
             <div class="page-title">
-              <h1>Olá, <?php echo htmlspecialchars($primeiro_nome); ?>! 👋</h1>
+              <h1>Oii, <?php echo htmlspecialchars($primeiro_nome); ?>!!</h1>
               <p>Seja bem-vindo ao seu novo portal de estudos.</p>
             </div>
           </div>
@@ -149,7 +163,7 @@ $primeiro_nome = $partes[0] ?? 'Estudante';
           </div>
         </section>
 
-        <!-- PROGRESSO -->
+        <!-- progresso -->
         <section id="section-progresso" class="page-section">
           <div class="page-header">
             <div class="page-title">
@@ -186,23 +200,52 @@ $primeiro_nome = $partes[0] ?? 'Estudante';
           </div>
         </section>
 
-        <!-- TAREFAS -->
+        <!-- tarefas -->
         <section id="section-tarefas" class="page-section">
           <div class="page-header">
             <div class="page-title">
               <h1><i class="fa-solid fa-pen-to-square"></i> Tarefas</h1>
+              <p>Gerencie suas atividades diárias e metas de estudo.</p>
             </div>
           </div>
 
-          <div class="empty-state">
-            <div class="icon-wrap"><i class="fa-regular fa-clipboard"></i></div>
-            <h3>Nenhuma tarefa pendente</h3>
-            <p>Crie sua primeira tarefa.</p>
-            <button class="btn-primary">Criar tarefa</button>
+          <!-- formulário para adicionar tarefa -->
+          <div class="card-form" style="background: var(--bg-card, #fff); padding: 20px; border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <h3 style="margin-bottom: 15px; font-size: 1.1rem; color: var(--text-main);">Nova Tarefa</h3>
+            <form action="salvar_tarefa.php" method="POST" style="display: flex; gap: 15px; flex-wrap: wrap;">
+              <div style="flex: 1; min-width: 250px;">
+                <input type="text" name="titulo" required placeholder="Ex: Realizar 10 questões de Matemática" style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem;">
+              </div>
+              <div>
+                <button type="submit" class="btn-primary" style="background: #4f46e5; color: white; border: none; padding: 11px 20px; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 0.95rem; height: 100%;"><i class="fa-solid fa-plus"></i> Adicionar Tarefa</button>
+              </div>
+            </form>
+          </div>
+
+          <!-- listagem dinâmica de tarefas -->
+          <div class="tarefas-list">
+            <?php if ($resultado_tarefas->num_rows > 0): ?>
+              <div style="display: grid; gap: 12px;">
+                <?php while($tarefa = $resultado_tarefas->fetch_assoc()): ?>
+                  <div style="background: var(--bg-card, #fff); padding: 16px 20px; border-radius: 10px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 4px rgba(0,0,0,0.03); border-left: 4px solid #10b981;">
+                    <div>
+                      <h4 style="margin: 0; font-size: 1rem; color: var(--text-main);"><?php echo htmlspecialchars($tarefa['titulo']); ?></h4>
+                    </div>
+                    <a href="excluir_tarefa.php?id=<?php echo $tarefa['id']; ?>" onclick="return confirm('Deseja concluir/excluir esta tarefa?');" style="color: #ef4444; font-size: 0.9rem; text-decoration: none;"><i class="fa-solid fa-check"></i> Concluir</a>
+                  </div>
+                <?php endwhile; ?>
+              </div>
+            <?php else: ?>
+              <div class="empty-state">
+                <div class="icon-wrap"><i class="fa-regular fa-clipboard"></i></div>
+                <h3>Nenhuma tarefa pendente</h3>
+                <p>Crie sua primeira tarefa acima!</p>
+              </div>
+            <?php endif; ?>
           </div>
         </section>
 
-        <!-- MATÉRIAS -->
+        <!-- matérias -->
         <section id="section-materias" class="page-section">
           <div class="page-header">
             <div class="page-title">
@@ -218,22 +261,58 @@ $primeiro_nome = $partes[0] ?? 'Estudante';
           </div>
         </section>
 
-        <!-- AGENDA -->
+        <!-- agenda -->
         <section id="section-agenda" class="page-section">
           <div class="page-header">
             <div class="page-title">
-              <h1><i class="fa-solid fa-calendar-days"></i> Agenda</h1>
+              <h1><i class="fa-solid fa-calendar-days"></i> Minha Agenda</h1>
+              <p>Organize seus simulados, provas e metas de estudo por data.</p>
             </div>
           </div>
 
-          <div class="empty-state">
-            <div class="icon-wrap"><i class="fa-regular fa-calendar-xmark"></i></div>
-            <h3>Nenhum evento agendado</h3>
-            <p>Sua agenda está vazia.</p>
+          <!-- formulário para adicionar compromisso -->
+          <div class="card-form" style="background: var(--bg-card, #fff); padding: 20px; border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <h3 style="margin-bottom: 15px; font-size: 1.1rem; color: var(--text-main);">Adicionar Novo Compromisso</h3>
+            <form action="salvar_agenda.php" method="POST" style="display: flex; gap: 15px; flex-wrap: wrap;">
+              <div style="flex: 2; min-width: 200px;">
+                <label style="display: block; font-size: 0.85rem; margin-bottom: 5px; color: var(--text-muted);">Título do Evento (ex: Simulado do ENEM)</label>
+                <input type="text" name="titulo" required placeholder="O que você vai fazer?" style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem;">
+              </div>
+              <div style="flex: 1; min-width: 150px;">
+                <label style="display: block; font-size: 0.85rem; margin-bottom: 5px; color: var(--text-muted);">Data</label>
+                <input type="date" name="data_compromisso" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem;">
+              </div>
+              <div style="display: flex; align-items: flex-end;">
+                <button type="submit" style="background: #4f46e5; color: white; border: none; padding: 11px 20px; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 0.95rem;"><i class="fa-solid fa-plus"></i> Adicionar</button>
+              </div>
+            </form>
+          </div>
+
+          <!-- listagem dinâmica de compromissos -->
+          <div class="agenda-list">
+            <?php if ($resultado_agenda->num_rows > 0): ?>
+              <div style="display: grid; gap: 12px;">
+                <?php while($evento = $resultado_agenda->fetch_assoc()): ?>
+                  <div style="background: var(--bg-card, #fff); padding: 16px 20px; border-radius: 10px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 4px rgba(0,0,0,0.03); border-left: 4px solid #4f46e5;">
+                    <div>
+                      <h4 style="margin: 0 0 5px 0; font-size: 1rem; color: var(--text-main);"><?php echo htmlspecialchars($evento['titulo']); ?></h4>
+                      <span style="font-size: 0.85rem; color: var(--text-muted);"><i class="fa-regular fa-calendar"></i> <?php echo date('d/m/Y', strtotime($evento['data_compromisso'])); ?></span>
+                    </div>
+                    <a href="excluir_agenda.php?id=<?php echo $evento['id']; ?>" onclick="return confirm('Tem certeza que deseja excluir este compromisso?');" style="color: #ef4444; font-size: 0.9rem; text-decoration: none;"><i class="fa-solid fa-trash-can"></i> Excluir</a>
+                  </div>
+                <?php endwhile; ?>
+              </div>
+            <?php else: ?>
+              <div class="empty-state">
+                <div class="icon-wrap"><i class="fa-regular fa-calendar-xmark"></i></div>
+                <h3>Nenhum evento agendado</h3>
+                <p>Sua agenda está vazia. Adicione sua primeira meta acima!</p>
+              </div>
+            <?php endif; ?>
           </div>
         </section>
 
-        <!-- AVISOS -->
+        <!-- avisos -->
         <section id="section-avisos" class="page-section">
           <div class="page-header">
             <div class="page-title">
@@ -248,7 +327,7 @@ $primeiro_nome = $partes[0] ?? 'Estudante';
           </div>
         </section>
 
-        <!-- PERFIL -->
+        <!-- perfil -->
         <section id="section-perfil" class="page-section">
           <div class="page-header">
             <div class="page-title">
@@ -266,7 +345,7 @@ $primeiro_nome = $partes[0] ?? 'Estudante';
           </div>
         </section>
 
-        <!-- TURMAS -->
+        <!-- turmas -->
         <section id="section-turmas" class="page-section">
           <div class="page-header">
             <div class="page-title">
