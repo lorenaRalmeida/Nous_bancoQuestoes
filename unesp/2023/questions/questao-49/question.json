@@ -1,0 +1,100 @@
+{
+  "title": "Questão 49 - UNESP 2023 - 1ª fase",
+  "index": 49,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Examine a imagem.\n(www.terra.com.br. Adaptado.)\nOs sistemas meteorológicos da Alta da Bolívia e do Vórtice\nCiclônico em Altos Níveis (VCAN) são importantes para a formação da Zona de Convergência do Atlântico Sul (ZCAS).\nA ZCAS tem como característica",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a forte nebulosidade, resultado do encontro de massas\nde ar quentes e úmidas da Amazônia e do Atlântico Sul.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a baixa umidade, resultado de movimentos verticais descendentes de ar frio no centro de um cavado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a formação dos anticiclones, resultado da interação entre\nos ventos alíseos de nordeste e uma frente polar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a formação de frente fria, resultado do avanço de uma\nmassa de ar frio sob uma massa de ar quente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a formação dos ciclones tropicais, resultado dos movimentos turbilhonares do ar ao redor de um centro de baixa pressão.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a imagem.\n(www.terra.com.br. Adaptado.)\nOs sistemas meteorológicos da Alta da Bolívia e do Vórtice\nCiclônico em Altos Níveis (VCAN) são importantes para a for-\nmação da Zona de Convergência do Atlântico Sul (ZCAS).\nA ZCAS tem como característica\n(A) a forte nebulosidade, resultado do encontro de massas\nde ar quentes e úmidas da Amazônia e do Atlântico Sul.\n(B) a baixa umidade, resultado de movimentos verticais des-\ncendentes de ar frio no centro de um cavado.\n(C) a formação dos anticiclones, resultado da interação entre\nos ventos alíseos de nordeste e uma frente polar.\n(D) a formação de frente fria, resultado do avanço de uma\nmassa de ar frio sob uma massa de ar quente.\n(E) a formação dos ciclones tropicais, resultado dos movi-\nmentos turbilhonares do ar ao redor de um centro de bai-\nxa pressão.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

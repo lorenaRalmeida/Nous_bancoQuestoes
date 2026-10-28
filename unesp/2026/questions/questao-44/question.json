@@ -1,0 +1,100 @@
+{
+  "title": "Questão 44 - UNESP 2026 - 1ª fase",
+  "index": 44,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Examine a charge do cartunista Adão Iturrusgarai.\n(https://umbrasil.com)\nA charge ironiza",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o cálculo do Índice de Desenvolvimento Humano Ajustado à Desigualdade, revelador do grau de concentração\nde renda entre as pessoas de um país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o neocolonialismo como expressão de dominação econômica, sujeitando países agroexportadores à importação\nde bens industrializados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a desigual Divisão Internacional do Trabalho, enfatizando\na especialização produtiva dos países por meio do valor\nagregado dos produtos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a ordem mundial bipolar entre distintos modelos de produção, reforçando desigualdades entre países desenvolvidos e países subdesenvolvidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o monopólio industrial como indutor de novos mercados,\ncondição para que países subdesenvolvidos tenham\nacesso a bens de consumo duráveis.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a charge do cartunista Adão Iturrusgarai.\n(https://umbrasil.com)\nA charge ironiza\n(A) o cálculo do Índice de Desenvolvimento Humano Ajusta-\ndo à Desigualdade, revelador do grau de concentração\nde renda entre as pessoas de um país.\n(B) o neocolonialismo como expressão de dominação econô-\nmica, sujeitando países agroexportadores à importação\nde bens industrializados.\n(C) a desigual Divisão Internacional do Trabalho, enfatizando\na especialização produtiva dos países por meio do valor\nagregado dos produtos.\n(D) a ordem mundial bipolar entre distintos modelos de pro-\ndução, reforçando desigualdades entre países desenvol-\nvidos e países subdesenvolvidos.\n(E) o monopólio industrial como indutor de novos mercados,\ncondição para que países subdesenvolvidos tenham\nacesso a bens de consumo duráveis.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            387.3927,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

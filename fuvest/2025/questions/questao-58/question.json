@@ -1,0 +1,88 @@
+{
+  "title": "Questão 58 - FUVEST 2025 - 1ª fase",
+  "index": 58,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "A toxicidade do Pb e o risco de sua ingestão ganharam\nnotoriedade na mídia devido à presença desse elemento em\ncopos térmicos amplamente comercializados. A exposição ao\nPb, no entanto, pode ocorrer também por fontes naturais,\ncomo a ingestão de água em contato prolongado com\nminérios como a anglesita, rico em PbSO (Kps = 1,0 × 10ꟷ8).\n4\nSabendo que a legislação estabelece a concentração máxima\nde Pb de 0,01 mg/L para água potável, assinale a alternativa\ncorreta em relação à ingestão de água que tenha contato\nprolongado com a anglesita.\n\nNote e adote:\nMassa molar (g/mol): Pb = 207",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Não é segura, pois a concentração de Pb na água será de\n2,07×101 mg/L, maior que o valor permitido.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "É segura, pois a concentração de Pb na água será de\n1×10ꟷ4 mg/L, menor que o valor permitido.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Não é segura, pois a concentração de Pb na água será de\n1×10ꟷ8 mg/L, menor que o valor permitido.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "É segura, pois a concentração de Pb na água será de\n1×10ꟷ2 mg/L, igual ao valor permitido.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "É segura, pois a concentração de Pb na água será de\n2,07×10ꟷ6 mg/L, maior que o valor permitido.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA toxicidade do Pb e o risco de sua ingestão ganharam\nnotoriedade na mídia devido à presença desse elemento em\ncopos térmicos amplamente comercializados. A exposição ao\nPb, no entanto, pode ocorrer também por fontes naturais,\ncomo a ingestão de água em contato prolongado com\nminérios como a anglesita, rico em PbSO (Kps = 1,0 × 10ꟷ8).\n4\nSabendo que a legislação estabelece a concentração máxima\nde Pb de 0,01 mg/L para água potável, assinale a alternativa\ncorreta em relação à ingestão de água que tenha contato\nprolongado com a anglesita.\n(A) Não é segura, pois a concentração de Pb na água será de\n2,07×101 mg/L, maior que o valor permitido.\n(B) É segura, pois a concentração de Pb na água será de\n1×10ꟷ4 mg/L, menor que o valor permitido.\n(C) Não é segura, pois a concentração de Pb na água será de\n1×10ꟷ8 mg/L, menor que o valor permitido.\n(D) É segura, pois a concentração de Pb na água será de\n1×10ꟷ2 mg/L, igual ao valor permitido.\n(E) É segura, pois a concentração de Pb na água será de\n2,07×10ꟷ6 mg/L, maior que o valor permitido.\nNote e adote:\nMassa molar (g/mol): Pb = 207\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            373.3147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Solubilidade e concentração de chumbo",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Questão 1 - UNICAMP 2023 - 1ª fase",
+  "index": 1,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Texto 1\n(MARZ, Marília. Folha de São Paulo, 4 jun. 2022, p. A2.)\nTexto 2\nCracolândia vive 30 anos de eterno retorno\nRepressão à droga não faz mais do que dispersar usuários; especialistas cobram articulação de políticas\nEla surgiu na Santa Efigênia, nos cruzamentos da rua dos Gusmões com as pequenas ruas dos Protestantes e do Triunfo, logo\natrás da Estação Ferroviária da Luz, no centro de São Paulo. E há\nquase 30 anos, migra de um quarteirão para outro, em modo\nconstante, se esparramando pelos bairros vizinhos.\nA itinerância da maior cena aberta de uso de crack e outras drogas do país, batizada de cracolândia nos anos 1990, é fruto ora\nde um jogo de esconde-esconde, a partir do mando do crime\norganizado, ora do empurra-empurra das operações policiais\nque incidem sobre ela, onde quer que esteja.\n(Adaptado de MENA, Fernanda, Cracolândia vive 30 anos de eterno retorno. Folha de\nSão Paulo, 4 jun. 2022, p. B4.)\nIndique a alternativa que apresenta palavras ou termos do Texto 2 diretamente relacionados a elementos representados na\ncharge (Texto 1).",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“articulação de políticas” e “esconde-esconde”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“empurra-empurra” e “eterno retorno”",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "“itinerância” e “crime organizado”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“repressão à droga” e “bairros vizinhos”",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\n(MARZ, Marília. Folha de São Paulo, 4 jun. 2022, p. A2.)\nTexto 2\nCracolândia vive 30 anos de eterno retorno\nRepressão à droga não faz mais do que dispersar usuários; especia-\nlistas cobram articulação de políticas\nEla surgiu na Santa Efigênia, nos cruzamentos da rua dos Gus-\nmões com as pequenas ruas dos Protestantes e do Triunfo, logo\natrás da Estação Ferroviária da Luz, no centro de São Paulo. E há\nquase 30 anos, migra de um quarteirão para outro, em modo\nconstante, se esparramando pelos bairros vizinhos.\nA itinerância da maior cena aberta de uso de crack e outras dro-\ngas do país, batizada de cracolândia nos anos 1990, é fruto ora\nde um jogo de esconde-esconde, a partir do mando do crime\norganizado, ora do empurra-empurra das operações policiais\nque incidem sobre ela, onde quer que esteja.\n(Adaptado de MENA, Fernanda, Cracolândia vive 30 anos de eterno retorno. Folha de\nSão Paulo, 4 jun. 2022, p. B4.)\nIndique a alternativa que apresenta palavras ou termos do Tex-\nto 2 diretamente relacionados a elementos representados na\ncharge (Texto 1).\na) “articulação de políticas” e “esconde-esconde”\nb) “empurra-empurra” e “eterno retorno”\nc) “itinerância” e “crime organizado”\nd) “repressão à droga” e “bairros vizinhos”",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            676.5751
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

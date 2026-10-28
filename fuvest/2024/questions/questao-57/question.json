@@ -1,0 +1,100 @@
+{
+  "title": "Questão 57 - FUVEST 2024 - 1ª fase",
+  "index": 57,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "A foto a seguir mostra um circuito com três resistores (𝑅 , 𝑅\n(cid:2869) (cid:2870)\ne 𝑅 ) conectados em uma protoboard (base de contatos).\n(cid:2871)\nNesse tipo de placa, os cinco furos de uma mesma linha\n(indicados pelos retângulos amarelos) estão em curto,\nformando os nós do circuito. Os cabos vermelho e preto, por\nsua vez, estão conectados aos terminais de uma fonte\ncontínua de 5V.\nSe 𝑅 = 150 kΩ e 𝑅 = 𝑅 = 100 kΩ, a corrente elétrica que\n(cid:2869) (cid:2870) (cid:2871)\npassa pelo resistor 𝑅 será de:\n(cid:2869)\nμ",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "12,5 A\nμ",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "14,3 A\nμ",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "25,0 A\nμ",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "37,5 A\nμ",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "50,0 A",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A foto a seguir mostra um circuito com três resistores (𝑅 , 𝑅\n(cid:2869) (cid:2870)\ne 𝑅 ) conectados em uma protoboard (base de contatos).\n(cid:2871)\nNesse tipo de placa, os cinco furos de uma mesma linha\n(indicados pelos retângulos amarelos) estão em curto,\nformando os nós do circuito. Os cabos vermelho e preto, por\nsua vez, estão conectados aos terminais de uma fonte\ncontínua de 5V.\nSe 𝑅 = 150 kΩ e 𝑅 = 𝑅 = 100 kΩ, a corrente elétrica que\n(cid:2869) (cid:2870) (cid:2871)\npassa pelo resistor 𝑅 será de:\n(cid:2869)\nμ\n(A) 12,5 A\nμ\n(B) 14,3 A\nμ\n(C) 25,0 A\nμ\n(D) 37,5 A\nμ\n(E) 50,0 A",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            297.5,
+            217.3746,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Circuitos e associação de resistores",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

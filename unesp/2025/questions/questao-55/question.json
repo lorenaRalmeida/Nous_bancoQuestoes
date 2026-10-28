@@ -1,0 +1,98 @@
+{
+  "title": "Questão 55 - UNESP 2025 - 1ª fase",
+  "index": 55,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "O primeiro grande modelo de teoria psicológica da linguagem que temos na modernidade é o Livro III do Ensaio\nacerca do entendimento humano, de John Locke. Pela primeira vez na modernidade, temos um livro inteiro dedicado\nao processo de significação linguística. O argumento lockeano é: a necessidade que temos de entrar em acordo, de nos\nentendermos, leva à necessidade de criarem-se signos sensíveis capazes de comunicar nossos pensamentos, nossas\nideias. Se fôssemos dotados de alguma faculdade que possibilitasse o acesso direto e imediato às ideias nas mentes de\noutros homens, não seria necessária a linguagem.\n(Lúcio Lourenço Prado. Filosofia da linguagem, 2012. Adaptado.)\nO argumento lockeano mencionado tem implicações no\nâmbito",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "crítico, visto que examina os limites do senso comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "epistêmico, uma vez que defende a impossibilidade de\nevidência científica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "religioso, dado que estabelece um caminho para acessar\no divino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "metafísico, pois considera um novo elemento para a\ncompreensão do ser.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "político, já que torna possível o pacto social civilizatório.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O primeiro grande modelo de teoria psicológica da lin-\nguagem que temos na modernidade é o Livro III do Ensaio\nacerca do entendimento humano, de John Locke. Pela pri-\nmeira vez na modernidade, temos um livro inteiro dedicado\nao processo de significação linguística. O argumento lockea-\nno é: a necessidade que temos de entrar em acordo, de nos\nentendermos, leva à necessidade de criarem-se signos sen-\nsíveis capazes de comunicar nossos pensamentos, nossas\nideias. Se fôssemos dotados de alguma faculdade que possi-\nbilitasse o acesso direto e imediato às ideias nas mentes de\noutros homens, não seria necessária a linguagem.\n(Lúcio Lourenço Prado. Filosofia da linguagem, 2012. Adaptado.)\nO argumento lockeano mencionado tem implicações no\nâmbito\n(A) crítico, visto que examina os limites do senso comum.\n(B) epistêmico, uma vez que defende a impossibilidade de\nevidência científica.\n(C) religioso, dado que estabelece um caminho para acessar\no divino.\n(D) metafísico, pois considera um novo elemento para a\ncompreensão do ser.\n(E) político, já que torna possível o pacto social civilizatório.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

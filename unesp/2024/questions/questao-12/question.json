@@ -1,0 +1,108 @@
+{
+  "title": "Questão 12 - UNESP 2024 - 1ª fase",
+  "index": 12,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões de 10 a 12, leia a fábula árabe\n“Um cachorro e um abutre”, cuja autoria é desconhecida.\nCerta feita, um cachorro roubou um naco de carne de\num abatedouro e correu em direção ao rio, em cujas águas\nviu o reflexo do naco de carne, bem maior do que o naco\nque carregava. Largou-o então, e um abutre desceu e agarrou a carne, enquanto o cachorro corria atrás do naco maior,\nmas nada encontrou. Retornou para pegar a carne que antes\ncarregava, mas também não a encontrou. Pensou então: “A\nilusão me fez perder o bom senso, e acabei sem aquilo que\neu já tinha por ir atrás daquilo que eu não alcançaria.”\n(Mamede Jarouche (org.). Fábulas árabes:\ndo período pré-islâmico ao século XVII, 2021.)\n\nNo trecho “em cujas águas viu o reflexo do naco de carne”,\no termo sublinhado pertence à mesma classe gramatical daquele sublinhado em",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“mas também não a encontrou”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "“um cachorro roubou um naco de carne”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“enquanto o cachorro corria atrás do naco maior”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“Largou-o então”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“Retornou para pegar a carne”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No trecho “em cujas águas viu o reflexo do naco de carne”,\no termo sublinhado pertence à mesma classe gramatical da-\nquele sublinhado em\n(A) “mas também não a encontrou”.\n(B) “um cachorro roubou um naco de carne”.\n(C) “enquanto o cachorro corria atrás do naco maior”.\n(D) “Largou-o então”.\n(E) “Retornou para pegar a carne”.",
+    "sharedContext": "Para responder às questões de 10 a 12, leia a fábula árabe\n“Um cachorro e um abutre”, cuja autoria é desconhecida.\nCerta feita, um cachorro roubou um naco de carne de\num abatedouro e correu em direção ao rio, em cujas águas\nviu o reflexo do naco de carne, bem maior do que o naco\nque carregava. Largou-o então, e um abutre desceu e agarrou a carne, enquanto o cachorro corria atrás do naco maior,\nmas nada encontrou. Retornou para pegar a carne que antes\ncarregava, mas também não a encontrou. Pensou então: “A\nilusão me fez perder o bom senso, e acabei sem aquilo que\neu já tinha por ir atrás daquilo que eu não alcançaria.”\n(Mamede Jarouche (org.). Fábulas árabes:\ndo período pré-islâmico ao século XVII, 2021.)",
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            219.15329999999994
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            562.3815999999999,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

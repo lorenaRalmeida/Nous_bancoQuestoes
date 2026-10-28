@@ -1,0 +1,90 @@
+{
+  "title": "Questão 17 - FUVEST 2023 - 1ª fase",
+  "index": 17,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Poluentes orgânicos persistentes (POPs) são compostos que\npersistem no ambiente por longos períodos, ou seja, são\npouco degradados naturalmente, magnificam-se ao longo da\nteia trófica e provocam efeitos adversos à saúde e ao meio\nambiente. Entre eles estão alguns compostos orgânicos\nclorados utilizados como pesticidas e isolantes de chamas.\nUma das características dos POPs é que são pouco\nhidrossolúveis, com elevada tendência de interagir com\nlipídeos. Uma forma padronizada de se medir essa tendência\né pelo cálculo do coeficiente de partição octanol-água (K ).\nOW\nEsse coeficiente representa a razão entre a concentração de\num composto na fase de n-octanol e sua concentração na fase\naquosa (K = C /C ) após a mistura e separação das fases.\nOW O W\nCom base nessas informações, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Por possuírem K muito baixo, os POPs não se\nOW\nsolubilizam nem na água nem no octanol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O K não pode ser determinado para os POPs, pois\nOW\noctanol e água são completamente miscíveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Uma vez que os POPs se magnificam ao longo da teia\ntrófica, sua concentração é maior em produtores\nprimários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os compostos clorados são pouco solúveis em água, de\nforma que o NaCl pode ser considerado um POP.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "POPs possuem K elevado, solubilizando-se mais\nOW\nfacilmente na fase orgânica por serem substâncias\nlipossolúveis.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Poluentes orgânicos persistentes (POPs) são compostos que\npersistem no ambiente por longos períodos, ou seja, são\npouco degradados naturalmente, magnificam-se ao longo da\nteia trófica e provocam efeitos adversos à saúde e ao meio\nambiente. Entre eles estão alguns compostos orgânicos\nclorados utilizados como pesticidas e isolantes de chamas.\nUma das características dos POPs é que são pouco\nhidrossolúveis, com elevada tendência de interagir com\nlipídeos. Uma forma padronizada de se medir essa tendência\né pelo cálculo do coeficiente de partição octanol-água (K ).\nOW\nEsse coeficiente representa a razão entre a concentração de\num composto na fase de n-octanol e sua concentração na fase\naquosa (K = C /C ) após a mistura e separação das fases.\nOW O W\nCom base nessas informações, assinale a alternativa correta.\n(A) Por possuírem K muito baixo, os POPs não se\nOW\nsolubilizam nem na água nem no octanol.\n(B) O K não pode ser determinado para os POPs, pois\nOW\noctanol e água são completamente miscíveis.\n(C) Uma vez que os POPs se magnificam ao longo da teia\ntrófica, sua concentração é maior em produtores\nprimários.\n(D) Os compostos clorados são pouco solúveis em água, de\nforma que o NaCl pode ser considerado um POP.\n(E) POPs possuem K elevado, solubilizando-se mais\nOW\nfacilmente na fase orgânica por serem substâncias\nlipossolúveis.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            28,
+            164.6947,
+            297.5,
+            533.8746
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Partição e persistência de poluentes orgânicos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

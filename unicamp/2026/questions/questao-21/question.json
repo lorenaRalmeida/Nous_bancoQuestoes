@@ -1,0 +1,104 @@
+{
+  "title": "Questão 21 - UNICAMP 2026 - 1ª fase",
+  "index": 21,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A segunda edição do estudo Gestão do Território, elaborado\npelo Instituto Brasileiro de Geografia e Estatística (IBGE) em\n2024, mostra, no universo dos 5.570 municípios do país, quais\nsão os Centros de Gestão, isto é, os núcleos responsáveis pelo\npapel de comando na rede urbana brasileira. Em 2024, apenas\n39,1% dos municípios do Brasil se qualificavam como Centros\nde Gestão do Território (2.176 municípios).\n(Adaptado de IBGE, Gestão do território: 2024. In: IBGE, Rio de Janeiro, 2025.)\nUm indicador de centralidade na gestão do território é o número de assalariados externos ao Município da sede da empresa.\n(IBGE, Cadastro Central de Empresas: 2012/2021. In: IBGE, Rio de Janeiro, p. 7, 2025.)\nCom base no gráfico anterior, e em seus conhecimentos sobre\na rede urbana brasileira, é correto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Rio de Janeiro, capital, amplia sua centralidade como centro\nde gestão empresarial do território nacional, conservando\nsua histórica função industrial e de administração pública.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Barueri apresenta tendência de crescimento do assalariado\nexterno, contribuindo para manter a Região Metropolitana\nde São Paulo no topo da hierarquia urbana.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Brasília apresenta tendência de queda de seus assalariados\nexternos, demonstrando a dificuldade da capital do país\npara permanecer como centro de gestão pública do território na atualidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Itajaí apresenta destaque por sua função industrial, perdendo força na centralidade da gestão empresarial do território\npor ser uma cidade de médio porte na Região Metropolitana\nda Foz do Rio Itajaí.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A segunda edição do estudo Gestão do Território, elaborado\npelo Instituto Brasileiro de Geografia e Estatística (IBGE) em\n2024, mostra, no universo dos 5.570 municípios do país, quais\nsão os Centros de Gestão, isto é, os núcleos responsáveis pelo\npapel de comando na rede urbana brasileira. Em 2024, apenas\n39,1% dos municípios do Brasil se qualificavam como Centros\nde Gestão do Território (2.176 municípios).\n(Adaptado de IBGE, Gestão do território: 2024. In: IBGE, Rio de Janeiro, 2025.)\nUm indicador de centralidade na gestão do território é o núme-\nro de assalariados externos ao Município da sede da empresa.\n(IBGE, Cadastro Central de Empresas: 2012/2021. In: IBGE, Rio de Janeiro, p. 7, 2025.)\nCom base no gráfico anterior, e em seus conhecimentos sobre\na rede urbana brasileira, é correto afirmar que\na) Rio de Janeiro, capital, amplia sua centralidade como centro\nde gestão empresarial do território nacional, conservando\nsua histórica função industrial e de administração pública.\nb) Barueri apresenta tendência de crescimento do assalariado\nexterno, contribuindo para manter a Região Metropolitana\nde São Paulo no topo da hierarquia urbana.\nc) Brasília apresenta tendência de queda de seus assalariados\nexternos, demonstrando a dificuldade da capital do país\npara permanecer como centro de gestão pública do territó-\nrio na atualidade.\nd) Itajaí apresenta destaque por sua função industrial, perden-\ndo força na centralidade da gestão empresarial do território\npor ser uma cidade de médio porte na Região Metropolitana\nda Foz do Rio Itajaí.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            727.6299,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            40,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

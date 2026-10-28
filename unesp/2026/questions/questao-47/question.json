@@ -1,0 +1,102 @@
+{
+  "title": "Questão 47 - UNESP 2026 - 1ª fase",
+  "index": 47,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Maquiando os transgênicos\nMostarda mais palatável que alface? Indústria\nalimentícia usa técnica premiada com o Nobel para tornar\nalimentos mais atrativos e tentar quebrar resistência\nde parte dos consumidores\nO primeiro protótipo tem previsão de lançamento no mercado ainda em 2025: uma folha de mostarda geneticamente\nmodificada para remover sua picância. A proposta foi originalmente desenvolvida pela startup de tecnologia agrícola\nPairwise, que firmou um acordo exclusivo de licenciamento\nde produto com a multinacional alemã Bayer para desenvolver e comercializar o vegetal. As modificações foram feitas\na partir de uma técnica capaz de alterar com alta precisão o\nDNA de animais, plantas e microrganismos, a mesma que,\nem 2020, rendeu às pesquisadoras Emmanuelle Charpentier\ne Jennifer A. Doudna o Prêmio Nobel de Química.\n(Raoni Schroeder. https://cienciahoje.org.br, maio de 2025. Adaptado.)\nSob os pontos de vista da geografia e da biologia, a produção\nde gêneros agrícolas transgênicos promove, respectivamente,",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a redefinição do conceito de espaço rural e a validade da\nteoria da evolução das espécies na contemporaneidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o desenvolvimento de novas relações de trabalho no\ncampo e a redução dos impactos antrópicos sobre os\nespaços naturais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a ineficácia da modernização do campo diante da mão de\nobra não qualificada e a adaptação de espécies nativas\nem novos ambientes de cultivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a incorporação de saberes tradicionais nas áreas agrícolas e a interrupção de ciclos biogeoquímicos associados\nà vida vegetal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a dificuldade no acesso de pequenos agricultores às sementes produzidas em laboratório e a descaracterização\nde mecanismos naturais de defesa contra predadores.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Maquiando os transgênicos\nMostarda mais palatável que alface? Indústria\nalimentícia usa técnica premiada com o Nobel para tornar\nalimentos mais atrativos e tentar quebrar resistência\nde parte dos consumidores\nO primeiro protótipo tem previsão de lançamento no mer-\ncado ainda em 2025: uma folha de mostarda geneticamente\nmodificada para remover sua picância. A proposta foi origi-\nnalmente desenvolvida pela startup de tecnologia agrícola\nPairwise, que firmou um acordo exclusivo de licenciamento\nde produto com a multinacional alemã Bayer para desenvol-\nver e comercializar o vegetal. As modificações foram feitas\na partir de uma técnica capaz de alterar com alta precisão o\nDNA de animais, plantas e microrganismos, a mesma que,\nem 2020, rendeu às pesquisadoras Emmanuelle Charpentier\ne Jennifer A. Doudna o Prêmio Nobel de Química.\n(Raoni Schroeder. https://cienciahoje.org.br, maio de 2025. Adaptado.)\nSob os pontos de vista da geografia e da biologia, a produção\nde gêneros agrícolas transgênicos promove, respectivamente,\n(A) a redefinição do conceito de espaço rural e a validade da\nteoria da evolução das espécies na contemporaneidade.\n(B) o desenvolvimento de novas relações de trabalho no\ncampo e a redução dos impactos antrópicos sobre os\nespaços naturais.\n(C) a ineficácia da modernização do campo diante da mão de\nobra não qualificada e a adaptação de espécies nativas\nem novos ambientes de cultivo.\n(D) a incorporação de saberes tradicionais nas áreas agríco-\nlas e a interrupção de ciclos biogeoquímicos associados\nà vida vegetal.\n(E) a dificuldade no acesso de pequenos agricultores às se-\nmentes produzidas em laboratório e a descaracterização\nde mecanismos naturais de defesa contra predadores.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

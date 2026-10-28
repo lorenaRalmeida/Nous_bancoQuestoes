@@ -1,0 +1,84 @@
+{
+  "title": "Questão 16 - UNICAMP 2024 - 1ª fase",
+  "index": 16,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Muitos fotógrafos no século XIX registraram obras de engenharia. O francês Édouard Baldus (1813-1889) atuou, primeiro\ncomo pintor e depois como fotógrafo, no inventário de monumentos arquitetônicos da Comissão dos Monumentos Históricos (1851) na França. Suas fotografias sobre esses monumentos\nrenderam-lhe fama de fotógrafo de arquitetura. Sob encomenda, Baldus editou um álbum para a Companhia dos Caminhos\nFérreos do Norte (1855) e registrou estações, instalações ferroviárias, portos e cidades, ao longo desta via entre Paris e a cidade de Boulogne-sur-Mer. A rainha Vitória ganhou um exemplar\ndessa publicação.\n(Adaptado de: OLIVEIRA, E. R. Vistas fotográficas das ferrovias: a produção de registros\nde obra pública no Brasil do século XIX. Hist cienc saude-Manguinhos [Internet], 25(3),\np. 695-723, 2018.)\nTendo em vista seus conhecimentos sobre mundo contemporâneo e considerando o texto, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Na Europa do século XIX, a difusão social das fotografias das\nobras públicas se dava por meio de jornais impressos com\nbaixa circulação social e restrita aos estudiosos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "No século XIX, a dissociação entre as fotografias de obras\npúblicas e a vida política europeia expressa a desvalorização\nda técnica e do conhecimento científico positivista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A fotografia teve vários usos e funções no século XIX, entre\neles, o de compor inventários arquitetônicos e retratar obras\nde engenharia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "O álbum fotográfico dado à rainha Vitória era um gesto diplomático que mostrava o descontentamento francês com\na política inglesa.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Muitos fotógrafos no século XIX registraram obras de enge-\nnharia. O francês Édouard Baldus (1813-1889) atuou, primeiro\ncomo pintor e depois como fotógrafo, no inventário de monu-\nmentos arquitetônicos da Comissão dos Monumentos Históri-\ncos (1851) na França. Suas fotografias sobre esses monumentos\nrenderam-lhe fama de fotógrafo de arquitetura. Sob encomen-\nda, Baldus editou um álbum para a Companhia dos Caminhos\nFérreos do Norte (1855) e registrou estações, instalações ferro-\nviárias, portos e cidades, ao longo desta via entre Paris e a cida-\nde de Boulogne-sur-Mer. A rainha Vitória ganhou um exemplar\ndessa publicação.\n(Adaptado de: OLIVEIRA, E. R. Vistas fotográficas das ferrovias: a produção de registros\nde obra pública no Brasil do século XIX. Hist cienc saude-Manguinhos [Internet], 25(3),\np. 695-723, 2018.)\nTendo em vista seus conhecimentos sobre mundo contemporâ-\nneo e considerando o texto, assinale a alternativa correta.\na) Na Europa do século XIX, a difusão social das fotografias das\nobras públicas se dava por meio de jornais impressos com\nbaixa circulação social e restrita aos estudiosos.\nb) No século XIX, a dissociação entre as fotografias de obras\npúblicas e a vida política europeia expressa a desvalorização\nda técnica e do conhecimento científico positivista.\nc) A fotografia teve vários usos e funções no século XIX, entre\neles, o de compor inventários arquitetônicos e retratar obras\nde engenharia.\nd) O álbum fotográfico dado à rainha Vitória era um gesto di-\nplomático que mostrava o descontentamento francês com\na política inglesa.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            469.3153
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

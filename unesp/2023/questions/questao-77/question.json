@@ -1,0 +1,111 @@
+{
+  "title": "Questão 77 - UNESP 2023 - 1ª fase",
+  "index": 77,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Em um dia de treinamento, dois amigos, Alberto e Bernardo,\ndecidem dar voltas consecutivas em um circuito de 1 000 m\nde comprimento, partindo simultaneamente de um mesmo\nponto, porém movendo-se em sentidos opostos. Alberto caminha no sentido horário e Bernardo corre no sentido anti-\n-horário com velocidade três vezes maior do que a de Alberto.\nOs dois mantêm suas velocidades escalares constantes.\nApós o início desse treinamento, no instante em que ocorrer\no terceiro encontro entre os dois, Alberto e Bernardo terão\npercorrido, respectivamente,",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "250 m e 750 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 250 m e 3 750 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1 000 m e 3 000 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "750 m e 2 250 m.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "500 m e 1 500 m.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em um dia de treinamento, dois amigos, Alberto e Bernardo,\ndecidem dar voltas consecutivas em um circuito de 1 000 m\nde comprimento, partindo simultaneamente de um mesmo\nponto, porém movendo-se em sentidos opostos. Alberto ca-\nminha no sentido horário e Bernardo corre no sentido anti-\n-horário com velocidade três vezes maior do que a de Alberto.\nOs dois mantêm suas velocidades escalares constantes.\nApós o início desse treinamento, no instante em que ocorrer\no terceiro encontro entre os dois, Alberto e Bernardo terão\npercorrido, respectivamente,\n(A) 250 m e 750 m.\n(B) 1 250 m e 3 750 m.\n(C) 1 000 m e 3 000 m.\n(D) 750 m e 2 250 m.\n(E) 500 m e 1 500 m.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 28,
+        "bbox": [
+          52.954,
+          132.438,
+          271.026,
+          358.90749999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

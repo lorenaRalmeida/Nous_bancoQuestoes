@@ -1,0 +1,90 @@
+{
+  "title": "Questão 89 - FUVEST 2024 - 1ª fase",
+  "index": 89,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "“O preconceito linguístico é tanto mais poderoso porque, em\ngrande medida, ele é ‘invisível’, no sentido de que quase\nninguém fala dele, com exceção dos raros cientistas sociais\nque se dedicam a estudá-lo. Pouquíssimas pessoas\nreconhecem a existência do preconceito linguístico, quem\ndirá a sua gravidade como um sério problema social.”\nBAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições\nLoyola, São Paulo, 1999.\nCom base na leitura do texto, é possível depreender que o\npreconceito linguístico, apesar de nocivo para a sociedade,\nmuitas vezes é despercebido. Nesse sentido, assinale a\nalternativa que apresenta um exemplo de preconceito\nlinguístico.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A língua falada é um instrumento de sobrevivência em\nsociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A língua varia tão rapidamente quanto as mudanças que\nocorrem na sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Existem muitas maneiras de se expressar a mesma ideia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os habitantes de uma cidade grande não possuem\nsotaque na língua falada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Todo falante nativo de uma língua a conhece plenamente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“O preconceito linguístico é tanto mais poderoso porque, em\ngrande medida, ele é ‘invisível’, no sentido de que quase\nninguém fala dele, com exceção dos raros cientistas sociais\nque se dedicam a estudá-lo. Pouquíssimas pessoas\nreconhecem a existência do preconceito linguístico, quem\ndirá a sua gravidade como um sério problema social.”\nBAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições\nLoyola, São Paulo, 1999.\nCom base na leitura do texto, é possível depreender que o\npreconceito linguístico, apesar de nocivo para a sociedade,\nmuitas vezes é despercebido. Nesse sentido, assinale a\nalternativa que apresenta um exemplo de preconceito\nlinguístico.\n(A) A língua falada é um instrumento de sobrevivência em\nsociedade.\n(B) A língua varia tão rapidamente quanto as mudanças que\nocorrem na sociedade.\n(C) Existem muitas maneiras de se expressar a mesma ideia.\n(D) Os habitantes de uma cidade grande não possuem\nsotaque na língua falada.\n(E) Todo falante nativo de uma língua a conhece plenamente.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 34,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            347.3347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Preconceito linguístico",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

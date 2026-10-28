@@ -1,0 +1,98 @@
+{
+  "title": "Questão 16 - FUVEST 2024 - 1ª fase",
+  "index": 16,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "A partir da leitura de Dois irmãos, com o foco na questão da\npaternidade de Nael, narrador do romance, pode-se afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Nenhum dos dois irmãos assumiu a paternidade de Nael,\nnem Nael os reconheceu como pais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Nael é filho de Rochiram, de quem ganha a casa no fundo\ndo terreno para escrever suas memórias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Nael gostaria que Yaqub fosse seu pai, pelos projetos e\nvisão de mundo que compartilhava com ele.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A cena final do romance, na qual Omar e Nael se\nencontram, confirma a paternidade de Omar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Embora não quisesse ter tido filhos, Halim é o pai de Nael,\nOmar e Yaqub.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A partir da leitura de Dois irmãos, com o foco na questão da\npaternidade de Nael, narrador do romance, pode-se afirmar:\n(A) Nenhum dos dois irmãos assumiu a paternidade de Nael,\nnem Nael os reconheceu como pais.\n(B) Nael é filho de Rochiram, de quem ganha a casa no fundo\ndo terreno para escrever suas memórias.\n(C) Nael gostaria que Yaqub fosse seu pai, pelos projetos e\nvisão de mundo que compartilhava com ele.\n(D) A cena final do romance, na qual Omar e Nael se\nencontram, confirma a paternidade de Omar.\n(E) Embora não quisesse ter tido filhos, Halim é o pai de Nael,\nOmar e Yaqub.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            297.5,
+            616.4347,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Narrador e paternidade em Dois irmãos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Questão 38 - UNESP 2025 - 1ª fase",
+  "index": 38,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Leia o excerto para responder às questões 37 e 38.\nO ponto central do governo colonial era a questão de\ncomo extrair riqueza das colônias para o benefício das potências europeias ocupantes. Para esse fim, na virada do século, a administração colonial britânica começou a construir\numa linha ferroviária que ligaria várias partes de suas três\ncolônias que se tornariam a Nigéria. As mulheres foram amplamente excluídas da força de trabalho assalariada.\nA introdução de relações capitalistas na forma de trabalho assalariado era uma novidade na economia e teve fundamentais repercussões, particularmente na definição de\ntrabalho.\nAlém do acesso ao dinheiro, o que o trabalho assalariado significava para os homens, havia efeitos mais sutis, mas\nigualmente profundos. Como os homens recebiam um salário, seu trabalho adquiria valor de troca, enquanto o trabalho\ndas mulheres retinha apenas seu valor de uso, desvalorizando o trabalho que se associava às mulheres.\nO trabalho das mulheres tornou-se invisível. Na realidade, os salários de fome pagos aos homens pelo governo colonial eram insuficientes para manter a família, e o trabalho\ndas mulheres continuava tão necessário quanto sempre para\na sobrevivência da comunidade.\n( A invenção das mulheres:\nconstruindo um sentido africano para os discursos ocidentais\nde gênero, 2021. Adaptado.)\n\nUma importante transformação na dinâmica de funcionamento da sociedade nigeriana, destacada pelo excerto, é",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o fim da vida comunitária no continente africano, ante a\nperspectiva de maior crescimento econômico e social do\ncontinente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a valorização do equilíbrio entre gêneros, proporcionada\npelo reconhecimento dos papéis diversos desempenhados por homens e mulheres na sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a manifestação de um espírito de solidariedade entre as\nmulheres, provocado pela necessidade de resistir à proibição colonial do trabalho feminino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o reconhecimento social da importância do trabalho feminino, como base do funcionamento e da estabilidade do\ncotidiano familiar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a reestruturação das relações entre gêneros, com a consolidação de uma hierarquia capaz de reforçar a dimensão patriarcal da sociedade.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma importante transformação na dinâmica de funciona-\nmento da sociedade nigeriana, destacada pelo excerto, é\n(A) o fim da vida comunitária no continente africano, ante a\nperspectiva de maior crescimento econômico e social do\ncontinente.\n(B) a valorização do equilíbrio entre gêneros, proporcionada\npelo reconhecimento dos papéis diversos desempenha-\ndos por homens e mulheres na sociedade.\n(C) a manifestação de um espírito de solidariedade entre as\nmulheres, provocado pela necessidade de resistir à proi-\nbição colonial do trabalho feminino.\n(D) o reconhecimento social da importância do trabalho femi-\nnino, como base do funcionamento e da estabilidade do\ncotidiano familiar.\n(E) a reestruturação das relações entre gêneros, com a con-\nsolidação de uma hierarquia capaz de reforçar a dimen-\nsão patriarcal da sociedade.",
+    "sharedContext": "Leia o excerto para responder às questões 37 e 38.\nO ponto central do governo colonial era a questão de\ncomo extrair riqueza das colônias para o benefício das potências europeias ocupantes. Para esse fim, na virada do século, a administração colonial britânica começou a construir\numa linha ferroviária que ligaria várias partes de suas três\ncolônias que se tornariam a Nigéria. As mulheres foram amplamente excluídas da força de trabalho assalariada.\nA introdução de relações capitalistas na forma de trabalho assalariado era uma novidade na economia e teve fundamentais repercussões, particularmente na definição de\ntrabalho.\nAlém do acesso ao dinheiro, o que o trabalho assalariado significava para os homens, havia efeitos mais sutis, mas\nigualmente profundos. Como os homens recebiam um salário, seu trabalho adquiria valor de troca, enquanto o trabalho\ndas mulheres retinha apenas seu valor de uso, desvalorizando o trabalho que se associava às mulheres.\nO trabalho das mulheres tornou-se invisível. Na realidade, os salários de fome pagos aos homens pelo governo colonial eram insuficientes para manter a família, e o trabalho\ndas mulheres continuava tão necessário quanto sempre para\na sobrevivência da comunidade.\n( A invenção das mulheres:\nconstruindo um sentido africano para os discursos ocidentais\nde gênero, 2021. Adaptado.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            377.4053
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            310.3061
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 13,
+        "bbox": [
+          402.965,
+          316.98299999999995,
+          479.629,
+          339.96479999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

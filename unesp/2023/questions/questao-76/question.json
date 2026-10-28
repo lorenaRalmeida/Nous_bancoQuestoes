@@ -1,0 +1,122 @@
+{
+  "title": "Questão 76 - UNESP 2023 - 1ª fase",
+  "index": 76,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "O termopar é um sensor de temperatura constituído por dois\nfios metálicos distintos, 1 e 2, unidos em uma das extremidades pela chamada junção de medida, e conectados na outra\nextremidade a um voltímetro, conforme a figura.\nComo esses fios são constituídos de metais diferentes, o voltímetro indica uma diferença de potencial que depende da\ntemperatura lida pela junção de medida. Essa diferença de\npotencial é interpretada e determina a temperatura lida pelo\ntermopar.\nOs termopares são classificados com letras, dependendo dos\nmetais utilizados em sua confecção. O gráfico mostra como\nvaria a diferença de potencial (U), lida pelo voltímetro, em\nfunção da temperatura (θ), indicada por três tipos de termopares, E, K e N. Nesse gráfico, a sensibilidade do termopar,\nmedida em mV/ºC, está associada à inclinação da reta tangente à curva, em determinado ponto.\nDe acordo com o gráfico,",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "para uma mesma temperatura, a diferença de potencial\nlida pelo voltímetro é menor para o termopar do tipo E do\nque para o termopar do tipo K.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o termopar do tipo E apresenta uma sensibilidade menor do que o termopar do tipo K para qualquer faixa de\ntemperatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "para uma mesma diferença de potencial lida pelo voltímetro, o termopar do tipo N indica uma temperatura maior\ndo que o termopar do tipo E.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "na faixa de 600 ºC a 1 200 ºC, a sensibilidade do termopar do tipo K é maior do que a sensibilidade do termopar\ndo tipo N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "dos três tipos de termopares, o do tipo N é o que apresenta maior sensibilidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O termopar é um sensor de temperatura constituído por dois\nfios metálicos distintos, 1 e 2, unidos em uma das extremida-\ndes pela chamada junção de medida, e conectados na outra\nextremidade a um voltímetro, conforme a figura.\nComo esses fios são constituídos de metais diferentes, o vol-\ntímetro indica uma diferença de potencial que depende da\ntemperatura lida pela junção de medida. Essa diferença de\npotencial é interpretada e determina a temperatura lida pelo\ntermopar.\nOs termopares são classificados com letras, dependendo dos\nmetais utilizados em sua confecção. O gráfico mostra como\nvaria a diferença de potencial (U), lida pelo voltímetro, em\nfunção da temperatura (θ), indicada por três tipos de termo-\npares, E, K e N. Nesse gráfico, a sensibilidade do termopar,\nmedida em mV/ºC, está associada à inclinação da reta tan-\ngente à curva, em determinado ponto.\nDe acordo com o gráfico,\n(A) para uma mesma temperatura, a diferença de potencial\nlida pelo voltímetro é menor para o termopar do tipo E do\nque para o termopar do tipo K.\n(B) o termopar do tipo E apresenta uma sensibilidade me-\nnor do que o termopar do tipo K para qualquer faixa de\ntemperatura.\n(C) para uma mesma diferença de potencial lida pelo voltíme-\ntro, o termopar do tipo N indica uma temperatura maior\ndo que o termopar do tipo E.\n(D) na faixa de 600 ºC a 1 200 ºC, a sensibilidade do termo-\npar do tipo K é maior do que a sensibilidade do termopar\ndo tipo N.\n(E) dos três tipos de termopares, o do tipo N é o que apre-\nsenta maior sensibilidade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 27,
+        "bbox": [
+          306.9018,
+          96.12099999999998,
+          558.3116,
+          196.99169999999992
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 27,
+        "bbox": [
+          304,
+          354.92479999999995,
+          565.4898000000001,
+          514.8028999999999
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

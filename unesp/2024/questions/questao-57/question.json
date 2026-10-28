@@ -1,0 +1,102 @@
+{
+  "title": "Questão 57 - UNESP 2024 - 1ª fase",
+  "index": 57,
+  "year": 2024,
+  "discipline": "Artes",
+  "language": null,
+  "context": "Analise a reprodução da obra Latas de Sopa Campbell, de\nAndy Warhol, produzida em 1962, e leia o excerto do livro\nArte Pop, de David McCarthy.\nTexto 1\n(https://origins.osu.edu)\nTexto 2\nAs declarações de artistas pop sugerem que eles estavam não só familiarizados, mas à vontade no mundo da\nprodução e do consumo do pós-guerra. Embora o tema de\nsua arte reconhecesse diretamente a rápida disseminação de\nbens comerciais disponíveis em quantidades crescentes ao\nlongo da década de 1950, o estilo dessa arte adotava o desenho chamativo da propaganda. O status da arte pop como\nproduto é inseparável de seu apelo por consumo.\n(Arte Pop, 2002. Adaptado.)\nNo período pós-Segunda Guerra, a estreita relação entre o\nmovimento Pop Art e a estética da propaganda deve-se à",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "alta dos valores das obras junto aos colecionadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "influência dos patrocinadores entre os artistas estadunidenses.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "recusa das técnicas artesanais na produção artística.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ruptura artística com os parâmetros econômicos desse\nperíodo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "transformação da arte provocada pela lógica capitalista.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a reprodução da obra Latas de Sopa Campbell, de\nAndy Warhol, produzida em 1962, e leia o excerto do livro\nArte Pop, de David McCarthy.\nTexto 1\n(https://origins.osu.edu)\nTexto 2\nAs declarações de artistas pop sugerem que eles es-\ntavam não só familiarizados, mas à vontade no mundo da\nprodução e do consumo do pós-guerra. Embora o tema de\nsua arte reconhecesse diretamente a rápida disseminação de\nbens comerciais disponíveis em quantidades crescentes ao\nlongo da década de 1950, o estilo dessa arte adotava o de-\nsenho chamativo da propaganda. O status da arte pop como\nproduto é inseparável de seu apelo por consumo.\n(Arte Pop, 2002. Adaptado.)\nNo período pós-Segunda Guerra, a estreita relação entre o\nmovimento Pop Art e a estética da propaganda deve-se à\n(A) alta dos valores das obras junto aos colecionadores.\n(B) influência dos patrocinadores entre os artistas estaduni-\ndenses.\n(C) recusa das técnicas artesanais na produção artística.\n(D) ruptura artística com os parâmetros econômicos desse\nperíodo.\n(E) transformação da arte provocada pela lógica capitalista.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Artes",
+      "relatedDisciplines": [
+        "Filosofia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

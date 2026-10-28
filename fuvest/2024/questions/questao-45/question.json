@@ -1,0 +1,98 @@
+{
+  "title": "Questão 45 - FUVEST 2024 - 1ª fase",
+  "index": 45,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“Em uma onda sem precedentes de medo, confusão e pânico,\nhoje quase 13 milhões de ações mudaram de mãos na Bolsa\nde Valores de Nova York. Corretores atordoados\natravessaram um mar de papel segurando ordens de\ninvestidores assustados para ‘vender a qualquer preço’.”\n“Wall Street cai”. The Guardian (Londres), 24/10/1929, p.1.\n“O mercado esteve ontem numa situação de verdadeiro\npânico. Em São Paulo pedem-se a moratória e a emissão de\npapel-moeda. O presidente da República receberá hoje uma\ncomissão do comércio de Santos.”\n“A crise do café”. Correio da Manhã (Rio de Janeiro), 29/10/1929, p.1.\nOs excertos, extraídos de matérias jornalísticas publicadas à\népoca, relatam reações ante a Crise de 1929. Essa crise",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "atingiu as atividades agrícolas, incentivou a mecanização\ndo processo produtivo e a absorção dos trabalhadores\npelo setor industrial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "afetou as bases do liberalismo econômico, obrigando a\nintervenção do Estado por meio de regulações e\ninvestimentos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "impulsionou a indústria do entretenimento, responsável\npor forjar comportamentos que se opunham ao\npessimismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "favoreceu a substituição do dólar pela libra esterlina\nenquanto moeda empregada no comércio internacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "contribuiu para o desenvolvimento industrial com a\nsubstituição de importações e a ampliação do crédito para\ninvestimentos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Em uma onda sem precedentes de medo, confusão e pânico,\nhoje quase 13 milhões de ações mudaram de mãos na Bolsa\nde Valores de Nova York. Corretores atordoados\natravessaram um mar de papel segurando ordens de\ninvestidores assustados para ‘vender a qualquer preço’.”\n“Wall Street cai”. The Guardian (Londres), 24/10/1929, p.1.\n“O mercado esteve ontem numa situação de verdadeiro\npânico. Em São Paulo pedem-se a moratória e a emissão de\npapel-moeda. O presidente da República receberá hoje uma\ncomissão do comércio de Santos.”\n“A crise do café”. Correio da Manhã (Rio de Janeiro), 29/10/1929, p.1.\nOs excertos, extraídos de matérias jornalísticas publicadas à\népoca, relatam reações ante a Crise de 1929. Essa crise\n(A) atingiu as atividades agrícolas, incentivou a mecanização\ndo processo produtivo e a absorção dos trabalhadores\npelo setor industrial.\n(B) afetou as bases do liberalismo econômico, obrigando a\nintervenção do Estado por meio de regulações e\ninvestimentos.\n(C) impulsionou a indústria do entretenimento, responsável\npor forjar comportamentos que se opunham ao\npessimismo.\n(D) favoreceu a substituição do dólar pela libra esterlina\nenquanto moeda empregada no comércio internacional.\n(E) contribuiu para o desenvolvimento industrial com a\nsubstituição de importações e a ampliação do crédito para\ninvestimentos.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            297.5,
+            415.73470000000003,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Crise de 1929 e economia cafeeira",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

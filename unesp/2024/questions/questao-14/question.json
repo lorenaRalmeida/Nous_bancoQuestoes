@@ -1,0 +1,98 @@
+{
+  "title": "Questão 14 - UNESP 2024 - 1ª fase",
+  "index": 14,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia o soneto do poeta português Manuel Maria Barbosa\ndu Bocage, para responder às questões de 13 a 16.\nOlha, Marília, as flautas dos pastores,\nQue bem que soam, como estão cadentes!\nOlha o Tejo a sorrir-se! Olha: não sentes\nOs Zéfiros 1 brincar por entre as flores?\nVê como ali, beijando-se, os Amores\nIncitam nossos ósculos 2 ardentes!\nEi-las de planta em planta as inocentes,\nAs vagas borboletas de mil cores!\nNaquele arbusto o rouxinol suspira;\nOra nas folhas a abelhinha para.\nOra nos ares, sussurrando, gira.\nQue alegre campo! Que manhã tão clara!\nMas ah!, tudo o que vês, se eu não te vira,\nMais tristeza que a noite me causara.\n(Manuel Maria Barbosa du Bocage. Poemas escolhidos, 1974.)\n1 Zéfiro: vento que sopra do ocidente.\n2 ósculo: beijo.\n\nNo soneto, a capacidade de transfigurar a paisagem retratada é atribuída pelo eu lírico",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aos Amores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à noite.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a Marília.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "à tristeza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aos pastores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No soneto, a capacidade de transfigurar a paisagem retrata-\nda é atribuída pelo eu lírico\n(A) aos Amores.\n(B) à noite.\n(C) a Marília.\n(D) à tristeza.\n(E) aos pastores.",
+    "sharedContext": "Leia o soneto do poeta português Manuel Maria Barbosa\ndu Bocage, para responder às questões de 13 a 16.\nOlha, Marília, as flautas dos pastores,\nQue bem que soam, como estão cadentes!\nOlha o Tejo a sorrir-se! Olha: não sentes\nOs Zéfiros 1 brincar por entre as flores?\nVê como ali, beijando-se, os Amores\nIncitam nossos ósculos 2 ardentes!\nEi-las de planta em planta as inocentes,\nAs vagas borboletas de mil cores!\nNaquele arbusto o rouxinol suspira;\nOra nas folhas a abelhinha para.\nOra nos ares, sussurrando, gira.\nQue alegre campo! Que manhã tão clara!\nMas ah!, tudo o que vês, se eu não te vira,\nMais tristeza que a noite me causara.\n(Manuel Maria Barbosa du Bocage. Poemas escolhidos, 1974.)\n1 Zéfiro: vento que sopra do ocidente.\n2 ósculo: beijo.",
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            342.7596
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            498.4525,
+            291,
+            654.1455
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

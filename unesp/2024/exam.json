@@ -1,0 +1,935 @@
+{
+  "board": "UNESP",
+  "year": 2024,
+  "phase": 1,
+  "version": "1",
+  "source": "unesp-2024-fase1-prova.pdf",
+  "sha256": "cf44ff8db40e2c8f1d62c408860749409ecf6eef9ed10a57b00d6cedb2d586a3",
+  "instructions": "veStIBULaR 2024\n001. PRova de CoNheCImeNtoS GeRaIS\nConfira seus dados impressos neste caderno.\nA ssine com caneta de tinta preta a Folha de Respostas apenas no local indicado.\nE sta prova contém 90 questões objetivas.\nQ uando for permitido abrir o caderno, verifique se está completo ou se apresenta imperfeições. Caso haja algum pro-\nblema, informe ao fiscal da sala para a devida substituição.\nPara cada questão, o candidato deverá assinalar apenas uma alternativa na Folha de Respostas, utilizando caneta de\ntinta preta.\nE ncontra-se neste caderno a Classificação Periódica, que poderá ser útil para a resolução de questões.\nEsta prova terá duração total de 5h e o candidato somente poderá sair do prédio depois de transcorridas 3h, contadas\na partir do início da prova.\nO s últimos três candidatos deverão se retirar juntos da sala.\nA o final da prova, antes de sair da sala, entregue ao fiscal a Folha de Respostas e o Caderno de Questões.\n(Questões 01 – 90)\nNome do candidato\nRG Inscrição Prédio Sala Carteira\nConfidencial até o momento da aplicação.",
+  "questions": [
+    {
+      "index": 1,
+      "file": "questions/questao-1/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 2,
+      "file": "questions/questao-2/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 3,
+      "file": "questions/questao-3/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 4,
+      "file": "questions/questao-4/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 5,
+      "file": "questions/questao-5/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 6,
+      "file": "questions/questao-6/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 7,
+      "file": "questions/questao-7/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 8,
+      "file": "questions/questao-8/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 9,
+      "file": "questions/questao-9/question.json",
+      "correctAlternative": "E",
+      "discipline": "História"
+    },
+    {
+      "index": 10,
+      "file": "questions/questao-10/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 11,
+      "file": "questions/questao-11/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 12,
+      "file": "questions/questao-12/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 13,
+      "file": "questions/questao-13/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 14,
+      "file": "questions/questao-14/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 15,
+      "file": "questions/questao-15/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 16,
+      "file": "questions/questao-16/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 17,
+      "file": "questions/questao-17/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 18,
+      "file": "questions/questao-18/question.json",
+      "correctAlternative": "E",
+      "discipline": "Português"
+    },
+    {
+      "index": 19,
+      "file": "questions/questao-19/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 20,
+      "file": "questions/questao-20/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 21,
+      "file": "questions/questao-21/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 22,
+      "file": "questions/questao-22/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 23,
+      "file": "questions/questao-23/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 24,
+      "file": "questions/questao-24/question.json",
+      "correctAlternative": "B",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 25,
+      "file": "questions/questao-25/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 26,
+      "file": "questions/questao-26/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 27,
+      "file": "questions/questao-27/question.json",
+      "correctAlternative": "E",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 28,
+      "file": "questions/questao-28/question.json",
+      "correctAlternative": "E",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 29,
+      "file": "questions/questao-29/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 30,
+      "file": "questions/questao-30/question.json",
+      "correctAlternative": "B",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 31,
+      "file": "questions/questao-31/question.json",
+      "correctAlternative": "A",
+      "discipline": "História"
+    },
+    {
+      "index": 32,
+      "file": "questions/questao-32/question.json",
+      "correctAlternative": "A",
+      "discipline": "História"
+    },
+    {
+      "index": 33,
+      "file": "questions/questao-33/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 34,
+      "file": "questions/questao-34/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 35,
+      "file": "questions/questao-35/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 36,
+      "file": "questions/questao-36/question.json",
+      "correctAlternative": "E",
+      "discipline": "História"
+    },
+    {
+      "index": 37,
+      "file": "questions/questao-37/question.json",
+      "correctAlternative": "A",
+      "discipline": "História"
+    },
+    {
+      "index": 38,
+      "file": "questions/questao-38/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 39,
+      "file": "questions/questao-39/question.json",
+      "correctAlternative": "E",
+      "discipline": "História"
+    },
+    {
+      "index": 40,
+      "file": "questions/questao-40/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 41,
+      "file": "questions/questao-41/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 42,
+      "file": "questions/questao-42/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 43,
+      "file": "questions/questao-43/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 44,
+      "file": "questions/questao-44/question.json",
+      "correctAlternative": "C",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 45,
+      "file": "questions/questao-45/question.json",
+      "correctAlternative": "E",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 46,
+      "file": "questions/questao-46/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 47,
+      "file": "questions/questao-47/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 48,
+      "file": "questions/questao-48/question.json",
+      "correctAlternative": "E",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 49,
+      "file": "questions/questao-49/question.json",
+      "correctAlternative": "C",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 50,
+      "file": "questions/questao-50/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 51,
+      "file": "questions/questao-51/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 52,
+      "file": "questions/questao-52/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 53,
+      "file": "questions/questao-53/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 54,
+      "file": "questions/questao-54/question.json",
+      "correctAlternative": "E",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 55,
+      "file": "questions/questao-55/question.json",
+      "correctAlternative": "B",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 56,
+      "file": "questions/questao-56/question.json",
+      "correctAlternative": "D",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 57,
+      "file": "questions/questao-57/question.json",
+      "correctAlternative": "E",
+      "discipline": "Artes"
+    },
+    {
+      "index": 58,
+      "file": "questions/questao-58/question.json",
+      "correctAlternative": "C",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 59,
+      "file": "questions/questao-59/question.json",
+      "correctAlternative": "C",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 60,
+      "file": "questions/questao-60/question.json",
+      "correctAlternative": "A",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 61,
+      "file": "questions/questao-61/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 62,
+      "file": "questions/questao-62/question.json",
+      "correctAlternative": "A",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 63,
+      "file": "questions/questao-63/question.json",
+      "correctAlternative": "E",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 64,
+      "file": "questions/questao-64/question.json",
+      "correctAlternative": "D",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 65,
+      "file": "questions/questao-65/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 66,
+      "file": "questions/questao-66/question.json",
+      "correctAlternative": "D",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 67,
+      "file": "questions/questao-67/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 68,
+      "file": "questions/questao-68/question.json",
+      "correctAlternative": "E",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 69,
+      "file": "questions/questao-69/question.json",
+      "correctAlternative": "A",
+      "discipline": "Química"
+    },
+    {
+      "index": 70,
+      "file": "questions/questao-70/question.json",
+      "correctAlternative": "E",
+      "discipline": "Química"
+    },
+    {
+      "index": 71,
+      "file": "questions/questao-71/question.json",
+      "correctAlternative": "D",
+      "discipline": "Química"
+    },
+    {
+      "index": 72,
+      "file": "questions/questao-72/question.json",
+      "correctAlternative": "C",
+      "discipline": "Química"
+    },
+    {
+      "index": 73,
+      "file": "questions/questao-73/question.json",
+      "correctAlternative": "A",
+      "discipline": "Química"
+    },
+    {
+      "index": 74,
+      "file": "questions/questao-74/question.json",
+      "correctAlternative": "E",
+      "discipline": "Química"
+    },
+    {
+      "index": 75,
+      "file": "questions/questao-75/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 76,
+      "file": "questions/questao-76/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 77,
+      "file": "questions/questao-77/question.json",
+      "correctAlternative": "C",
+      "discipline": "Física"
+    },
+    {
+      "index": 78,
+      "file": "questions/questao-78/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 79,
+      "file": "questions/questao-79/question.json",
+      "correctAlternative": "C",
+      "discipline": "Física"
+    },
+    {
+      "index": 80,
+      "file": "questions/questao-80/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 81,
+      "file": "questions/questao-81/question.json",
+      "correctAlternative": "A",
+      "discipline": "Física"
+    },
+    {
+      "index": 82,
+      "file": "questions/questao-82/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 83,
+      "file": "questions/questao-83/question.json",
+      "correctAlternative": "E",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 84,
+      "file": "questions/questao-84/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 85,
+      "file": "questions/questao-85/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 86,
+      "file": "questions/questao-86/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 87,
+      "file": "questions/questao-87/question.json",
+      "correctAlternative": "E",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 88,
+      "file": "questions/questao-88/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 89,
+      "file": "questions/questao-89/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 90,
+      "file": "questions/questao-90/question.json",
+      "correctAlternative": "D",
+      "discipline": "Matemática"
+    }
+  ],
+  "questionCount": 90,
+  "sharedContexts": [
+    {
+      "targets": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lines": [
+        "Para responder às questões de 01 a 05, leia a crônica “Des-",
+        "pedida”, de Carlos Drummond de Andrade (1902-1987), pu-",
+        "blicada originalmente no Jornal do Brasil em 05.06.1971, e",
+        "a resposta de Edson Arantes do Nascimento (1940-2022), o",
+        "Pelé, publicada no mesmo jornal em 29.06.1971.",
+        "Pelé despede-se em julho da Seleção Brasileira. Decidiu,",
+        "está decidido. Querem que ele continue, mas sua educação",
+        "esportiva se dilata em educação moral, e Pelé dá muito apre-",
+        "ço à sua palavra. Se atender aos apelos, ficará bem com todo",
+        "o mundo e mal consigo. Pelé não quer brigar com Pelé. Não",
+        "abandonará de todo o futebol, pois continuará jogando pelo",
+        "seu clube. Não vejo contradição nisto. Faz como um grande",
+        "proprietário de terras, que trocasse a fazenda pela miniatura",
+        "de um sítio: continua a ter águas, plantas, criação, a mesma",
+        "luminosidade das horas — menos a imensidão, que acaba",
+        "cansando. Ou como o leitor de muitos livros, que passasse",
+        "a ler um só que contém o resumo de tudo. Pelé quer cultivar",
+        "sua vida a seu gosto, ele que a vivia tanto ao gosto dos ou-",
+        "tros. Sua municipalização voluntária me encanta. Não é só",
+        "pelo ato de sabedoria, que é sair antes que exijam a nossa",
+        "saída. Uma atitude destas indica mais cautela do que des-",
+        "prendimento. É pelo ato de escolha — de escolher o mais",
+        "simples, envolvendo renúncia e gentileza. As massas brasi-",
+        "leiras e internacionais não poderão chamá-lo de ingrato, pois",
+        "continuarão a vê-lo, aqui e no estrangeiro, em seu jogo de",
+        "astúcia e arte. Mas ele passará a jogar como particular, um",
+        "famoso incógnito, que não aspira às glórias de um quarto",
+        "campeonato mundial. E com isso, dará lugar a outro, ou a",
+        "outros, que por mais que caprichassem ficavam sempre um",
+        "tanto encobertos pela sombra de Pelé — a sombra de que",
+        "espontaneamente se desfaz. Bela jogada, a sua: a de não",
+        "jogar como campeão, sendo campeoníssimo.",
+        "(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)",
+        "Estou comovido. Entre tantas coisas que dizem a meu",
+        "respeito, generosas ou menos boas, suas palavras tiveram",
+        "a rara virtude de se lembrarem do homem, da pessoa huma-",
+        "na que quero ser, demonstrando compreensão e carinho por",
+        "essa condição fundamental. Recortei sua crônica, não por-",
+        "que fala de mim, mas porque traduz, no primor de seu estilo,",
+        "um apoio que me incentiva e me conforta.",
+        "(Pelé apud Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)"
+      ],
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            572.1612
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        7,
+        8
+      ],
+      "lines": [
+        "Para responder às questões 07 e 08, leia a letra da canção",
+        "“Foi um rio que passou em minha vida”, de Paulinho da Viola,",
+        "gravada em 1970.",
+        "Se um dia",
+        "Meu coração for consultado",
+        "Para saber se andou errado",
+        "Será difícil negar",
+        "Meu coração tem mania de amor",
+        "Amor não é fácil de achar",
+        "A marca dos meus desenganos ficou, ficou",
+        "Só um amor pode apagar",
+        "Porém",
+        "Há um caso diferente",
+        "Que marcou um breve tempo",
+        "Meu coração para sempre",
+        "Era dia de carnaval",
+        "Eu carregava uma tristeza",
+        "Não pensava em novo amor",
+        "Quando alguém que não me lembro anunciou",
+        "Portela 1, Portela",
+        "O samba trazendo alvorada",
+        "Meu coração conquistou",
+        "Ah, minha Portela",
+        "Quando vi você passar",
+        "Senti meu coração apressado",
+        "Todo o meu corpo tomado",
+        "Minha alegria a voltar",
+        "Não posso definir aquele azul",
+        "Não era do céu",
+        "Nem era do mar",
+        "Foi um rio que passou em minha vida",
+        "E meu coração se deixou levar",
+        "(www.paulinhodaviola.com.br)",
+        "1 Grêmio Recreativo Escola de Samba Portela (ou simplesmente",
+        "Portela): escola de samba brasileira da cidade do Rio de Janeiro que",
+        "adota como símbolo a águia e as cores azul e branco."
+      ],
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            559.5155
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        10,
+        11,
+        12
+      ],
+      "lines": [
+        "Para responder às questões de 10 a 12, leia a fábula árabe",
+        "“Um cachorro e um abutre”, cuja autoria é desconhecida.",
+        "Certa feita, um cachorro roubou um naco de carne de",
+        "um abatedouro e correu em direção ao rio, em cujas águas",
+        "viu o reflexo do naco de carne, bem maior do que o naco",
+        "que carregava. Largou-o então, e um abutre desceu e agar-",
+        "rou a carne, enquanto o cachorro corria atrás do naco maior,",
+        "mas nada encontrou. Retornou para pegar a carne que antes",
+        "carregava, mas também não a encontrou. Pensou então: “A",
+        "ilusão me fez perder o bom senso, e acabei sem aquilo que",
+        "eu já tinha por ir atrás daquilo que eu não alcançaria.”",
+        "(Mamede Jarouche (org.). Fábulas árabes:",
+        "do período pré-islâmico ao século XVII, 2021.)"
+      ],
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            219.15329999999994
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "lines": [
+        "Leia o soneto do poeta português Manuel Maria Barbosa",
+        "du Bocage, para responder às questões de 13 a 16.",
+        "Olha, Marília, as flautas dos pastores,",
+        "Que bem que soam, como estão cadentes!",
+        "Olha o Tejo a sorrir-se! Olha: não sentes",
+        "Os Zéfiros 1 brincar por entre as flores?",
+        "Vê como ali, beijando-se, os Amores",
+        "Incitam nossos ósculos 2 ardentes!",
+        "Ei-las de planta em planta as inocentes,",
+        "As vagas borboletas de mil cores!",
+        "Naquele arbusto o rouxinol suspira;",
+        "Ora nas folhas a abelhinha para.",
+        "Ora nos ares, sussurrando, gira.",
+        "Que alegre campo! Que manhã tão clara!",
+        "Mas ah!, tudo o que vês, se eu não te vira,",
+        "Mais tristeza que a noite me causara.",
+        "(Manuel Maria Barbosa du Bocage. Poemas escolhidos, 1974.)",
+        "1 Zéfiro: vento que sopra do ocidente.",
+        "2 ósculo: beijo."
+      ],
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            342.7596
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        18,
+        19,
+        20
+      ],
+      "lines": [
+        "Para responder às questões de 18 a 20, leia a crônica de Luis",
+        "Fernando Verissimo.",
+        "Esta ideia para um conto de terror é tão terrível que, logo",
+        "depois de tê-la, me arrependi. Mas já estava tida, não adian-",
+        "tava mais. Você, leitor, no entanto, tem uma escolha. Pode",
+        "parar aqui, e se poupar, ou ler até o fim e provavelmente nun-",
+        "ca mais dormir. Vejo que decidiu continuar. Muito bem, vamos",
+        "em frente. Talvez, posta no papel, a ideia perca um pouco do",
+        "seu poder de susto. Mas não posso garantir nada. É assim:",
+        "Um casal de velhos mora sozinho numa casa. Já criaram",
+        "os filhos, os netos já estão grandes, só lhes resta implicar",
+        "um com o outro. Retomam com novo fervor uma discussão",
+        "antiga. Ela diz que ele ronca quando dorme, ele diz que é",
+        "mentira.",
+        "— Ronca.",
+        "— Não ronco.",
+        "— Ele diz que não ronca — comenta ela, impaciente,",
+        "como se falasse com uma terceira pessoa.",
+        "Mas não existe outra pessoa na casa. Os filhos raramen-",
+        "te visitam. Os netos, nunca. A empregada vem de manhã,",
+        "faz o almoço, deixa o jantar feito e sai cedo. Ficam os dois",
+        "sozinhos.",
+        "— Eu devia gravar os seus roncos, pra você se conven-",
+        "cer — diz ela. E em seguida tem a ideia infeliz. — É o que eu",
+        "vou fazer! Esta noite, quando você dormir, vou ligar o grava-",
+        "dor e gravar os seus roncos.",
+        "— Humrfm — diz o velho.",
+        "Você, leitor, já deve estar sentindo o que vai acontecer.",
+        "Pare de ler, leitor. Eu não posso parar de escrever. As ideias",
+        "não podem ser desperdiçadas, mesmo que nos custem ami-",
+        "gos, a vida ou o sono. Imagine se Shakespeare tivesse se",
+        "horrorizado com suas próprias ideias e deixado de escrevê-",
+        "-las, por puro comedimento. Não que eu queira me comparar",
+        "a Shakespeare. Shakespeare era bem mais magro. Tenho",
+        "que exercer este ofício, esta danação. Você, no entanto, não",
+        "é obrigado a me acompanhar, leitor. Vá passear, vá tomar sol.",
+        "Uma das maneiras de controlar a demência solta no mundo",
+        "é deixar os escritores falando sozinhos, exercendo sozinhos",
+        "a sua profissão malsã, o seu vício solitário. Você ainda está",
+        "lendo. Você é pior do que eu, leitor. Você tinha escolha.",
+        "Sozinhos. Os velhos sozinhos na casa. Os dois vão para",
+        "a cama. Quando o velho dorme, a velha liga o gravador. Mas",
+        "em poucos minutos a velha também dorme. O gravador fica",
+        "ligado, gravando. Pouco depois a fita acaba.",
+        "Na manhã seguinte, certa do seu triunfo, a velha roda a",
+        "fita. Ouvem-se alguns minutos de silêncio. Depois, alguém",
+        "roncando.",
+        "— Rará! — diz a velha, feliz.",
+        "Pouco depois ouve-se o ronco de outra pessoa. A velha",
+        "também ronca!",
+        "— Rará! — diz o velho, vingativo.",
+        "E em seguida, por cima do contraponto de roncos, ouve-",
+        "-se um sussurro. Uma voz sussurrando, leitor. Uma voz in-",
+        "definida. Pode ser de homem, de mulher ou de criança. A",
+        "princípio — por causa dos roncos — não se distingue o que",
+        "ela diz. Mas aos poucos as palavras vão ficando claras. São",
+        "duas vozes. É um diálogo sussurrado.",
+        "“Estão prontos?”",
+        "“Não, acho que ainda não…”",
+        "“Então vamos voltar amanhã…”",
+        "(Luis Fernando Verissimo. O suicida e o computador, 1992.)"
+      ],
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "lines": [
+        "Leia o texto e examine o gráfico para responder às questões",
+        "de 21 a 26.",
+        "The first Game Developers Conference, in 1988, attracted",
+        "25 participants and took place in a programmer’s sitting room",
+        "in California. This 2023 summit, which began on March 20",
+        "in a giant exhibition centre in San Francisco, demonstrates",
+        "how the industry has grown. Some 3.2 billion people now",
+        "play, thanks largely to the spread of the smartphone. Women",
+        "are now almost as likely as men to call themselves gamers.",
+        "Gaming is catching on among all age groups. In Britain, for",
+        "instance, half of those aged 55-64 play video games, though",
+        "for less time than the young. Worldwide there are now more",
+        "console owners aged 35-44 than 16-24.",
+        "The bigger the audience, the bigger the market.",
+        "Consumers will spend 185 billion dollars on games in 2023,",
+        "more than half on mobile games. That is about five times",
+        "the value of the cinema box office, and two-thirds more",
+        "than the video-streaming business. As gaming continues to",
+        "grow, it is beginning to rival television as the world’s favourite",
+        "entertainment medium.",
+        "(https://view.e.economist.com, 20.03.2023. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            654.7321
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        27,
+        28,
+        29
+      ],
+      "lines": [
+        "Leia a tira de Bill Amend para responder às questões de",
+        "27 a 29.",
+        "(www.pressthebuttons.com)"
+      ],
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            198.9269999999999,
+            291,
+            505.3907
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "sequenceComplete": true,
+    "alternativesComplete": true,
+    "answerCount": 90,
+    "cancelled": [],
+    "disciplinesAssigned": 90,
+    "localFilesPresent": true
+  },
+  "graphicAlternatives": [
+    {
+      "index": 82,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "disciplineCounts": {
+    "Artes": 1,
+    "Biologia": 9,
+    "Filosofia": 4,
+    "Física": 8,
+    "Geografia": 11,
+    "História": 14,
+    "Inglês": 10,
+    "Matemática": 7,
+    "Português": 18,
+    "Química": 7,
+    "Sociologia": 1
+  }
+}

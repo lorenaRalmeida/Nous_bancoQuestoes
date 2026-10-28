@@ -1,0 +1,94 @@
+{
+  "title": "Questão 43 - UNICAMP 2024 - 1ª fase",
+  "index": 43,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Sabe-se que o uso indiscriminado e irregular de anabolizantes\ngera consequências negativas significativas à saúde humana,\ntais como: tremores, acne severa, hipertensão arterial sistêmica,\ntumores no fígado e pâncreas, distúrbios de coagulação, distúrbios testiculares e menstruais, insônia, entre outros.\n(Adaptado de: https://bvsms.saude.gov.br/anabolizantes/. Acesso em 12/4/2023.)\nAssinale a alternativa que preenche corretamente as lacunas no\nexcerto a seguir.\nA testosterona desempenha importante função no desenvolvimento de tecidos e órgãos do sistema reprodutor masculino,\ncomo (i) ___________ e testículos, além de atuar na promoção\nde características sexuais secundárias, como aumento de massa\nmuscular, crescimento dos pelos corporais, espessamento das\npregas vocais e (ii) ____________. Esse hormônio anabolizante\né sintetizado em várias etapas a partir (iii) __________ e é convertido para metabólitos inativos no (iv) __________.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(i) próstata; (ii) maturação dos ossos; (iii) do colesterol; (iv)\nfígado.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "(i) vesícula seminal; (ii) maturação dos ossos; (iii) da creatina;\n(iv) fígado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(i) próstata; (ii) produção de esperma; (iii) da creatina; (iv)\npâncreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(i) vesícula seminal; (ii) produção de esperma; (iii) do colesterol; (iv) pâncreas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Sabe-se que o uso indiscriminado e irregular de anabolizantes\ngera consequências negativas significativas à saúde humana,\ntais como: tremores, acne severa, hipertensão arterial sistêmica,\ntumores no fígado e pâncreas, distúrbios de coagulação, distúr-\nbios testiculares e menstruais, insônia, entre outros.\n(Adaptado de: https://bvsms.saude.gov.br/anabolizantes/. Acesso em 12/4/2023.)\nAssinale a alternativa que preenche corretamente as lacunas no\nexcerto a seguir.\nA testosterona desempenha importante função no desenvol-\nvimento de tecidos e órgãos do sistema reprodutor masculino,\ncomo (i) ___________ e testículos, além de atuar na promoção\nde características sexuais secundárias, como aumento de massa\nmuscular, crescimento dos pelos corporais, espessamento das\npregas vocais e (ii) ____________. Esse hormônio anabolizante\né sintetizado em várias etapas a partir (iii) __________ e é con-\nvertido para metabólitos inativos no (iv) __________.\na) (i) próstata; (ii) maturação dos ossos; (iii) do colesterol; (iv)\nfígado.\nb) (i) vesícula seminal; (ii) maturação dos ossos; (iii) da creatina;\n(iv) fígado.\nc) (i) próstata; (ii) produção de esperma; (iii) da creatina; (iv)\npâncreas.\nd) (i) vesícula seminal; (ii) produção de esperma; (iii) do coles-\nterol; (iv) pâncreas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            516.2441,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            40,
+            291,
+            121.96069999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

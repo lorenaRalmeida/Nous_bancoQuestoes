@@ -1,0 +1,108 @@
+{
+  "title": "Questão 15 - UNESP 2026 - 1ª fase",
+  "index": 15,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões de 13 a 17, leia o início do ensaio “Bom dia, senhor Courbet!” do crítico de arte Jorge Coli\n(1947- ).\nGustave Courbet (1819-1877) e sua obra revelam uma\nrelação intrincada entre aquilo que é subjetivo e aquilo que é\ncoletivo; entre aquilo que é biografia individual e aquilo que\né pintura propriamente dita. Não se trata de uma obra, à primeira vista, sedutora. Ao contrário, ela elimina o fascínio mais\nimediato — o fascínio das belas cores, por exemplo; o fascínio\ndos temas, torturados ou felizes. Contraditória com o modo\nde ser do artista — que era truculento, tagarela, escandaloso,\nbarulhento —, essa obra é grave e silenciosa. Ela exige recolhimento, meditação, ela exige a frequentação persistente,\nela exige o olhar prolongado. Os quadros de Courbet dão a\nimpressão de conterem elementos destinados a afugentar o\nolhar superficial e mesmo, algumas vezes, a horrorizá-lo.\nMas essa obra e seu autor, de modo cúmplice, promoveram o desgarramento dos vínculos que submetiam os artistas\na valores que estavam constituídos fora deles. Até Courbet,\nos artistas dependiam de um universo ético que estavam\nencarregados de veicular — por exemplo, Jacques-Louis\nDavid (1748-1825) celebra a Revolução Francesa, ou celebra\no Império napoleônico; Eugène Delacroix (1798-1863) tratará\nde temas que envolvem a liberdade política. O que nós assistimos com a arte de Courbet é ao seu afastamento desses\ncritérios externos que possuem valores já constituídos, e ao\nestabelecimento, para o artista, de um lugar que é independente e que lhe é próprio: este lugar é o da marginalidade.\nCourbet circunscreve pela primeira vez o campo da marginalidade, e o define como um território de eleição, um território\nprivilegiado em relação ao dos outros homens.\nO artista marginal é aquele que não deve mais nada\nnem ao mundo, nem a ninguém — a não ser a si próprio.\nAo mesmo tempo independente e consciente da elevação de\nsua tarefa artística, é obrigado, para manter-se à altura de si\nmesmo, a estabelecer os seus próprios valores. Isto é, ele é\nobrigado a construir uma ética para si.\n(https://artepensamento.ims.com.br, 1992. Adaptado.)\n\nPara Jorge Coli, “artista marginal” seria sinônimo de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "artista obsessivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "artista inconstante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "artista autônomo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "artista abstrato.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "artista mesquinho.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Para Jorge Coli, “artista marginal” seria sinônimo de\n(A) artista obsessivo.\n(B) artista inconstante.\n(C) artista autônomo.\n(D) artista abstrato.\n(E) artista mesquinho.",
+    "sharedContext": "Para responder às questões de 13 a 17, leia o início do ensaio “Bom dia, senhor Courbet!” do crítico de arte Jorge Coli\n(1947- ).\nGustave Courbet (1819-1877) e sua obra revelam uma\nrelação intrincada entre aquilo que é subjetivo e aquilo que é\ncoletivo; entre aquilo que é biografia individual e aquilo que\né pintura propriamente dita. Não se trata de uma obra, à primeira vista, sedutora. Ao contrário, ela elimina o fascínio mais\nimediato — o fascínio das belas cores, por exemplo; o fascínio\ndos temas, torturados ou felizes. Contraditória com o modo\nde ser do artista — que era truculento, tagarela, escandaloso,\nbarulhento —, essa obra é grave e silenciosa. Ela exige recolhimento, meditação, ela exige a frequentação persistente,\nela exige o olhar prolongado. Os quadros de Courbet dão a\nimpressão de conterem elementos destinados a afugentar o\nolhar superficial e mesmo, algumas vezes, a horrorizá-lo.\nMas essa obra e seu autor, de modo cúmplice, promoveram o desgarramento dos vínculos que submetiam os artistas\na valores que estavam constituídos fora deles. Até Courbet,\nos artistas dependiam de um universo ético que estavam\nencarregados de veicular — por exemplo, Jacques-Louis\nDavid (1748-1825) celebra a Revolução Francesa, ou celebra\no Império napoleônico; Eugène Delacroix (1798-1863) tratará\nde temas que envolvem a liberdade política. O que nós assistimos com a arte de Courbet é ao seu afastamento desses\ncritérios externos que possuem valores já constituídos, e ao\nestabelecimento, para o artista, de um lugar que é independente e que lhe é próprio: este lugar é o da marginalidade.\nCourbet circunscreve pela primeira vez o campo da marginalidade, e o define como um território de eleição, um território\nprivilegiado em relação ao dos outros homens.\nO artista marginal é aquele que não deve mais nada\nnem ao mundo, nem a ninguém — a não ser a si próprio.\nAo mesmo tempo independente e consciente da elevação de\nsua tarefa artística, é obrigado, para manter-se à altura de si\nmesmo, a estabelecer os seus próprios valores. Isto é, ele é\nobrigado a construir uma ética para si.\n(https://artepensamento.ims.com.br, 1992. Adaptado.)",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            526.8226
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            385.1407,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

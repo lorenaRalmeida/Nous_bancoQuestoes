@@ -1,0 +1,183 @@
+{
+  "title": "Questão 35 - UNICAMP 2026 - 1ª fase",
+  "index": 35,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A bactéria Citrobacter rodentium é um patógeno que causa\naumento da profundidade das glândulas intestinais em camundongos devido à inflamação do cólon. Em um experimento, camundongos livres de germes tiveram seus intestinos colonizados\npela microbiota de três populações humanas geograficamente\ndistintas: Estados Unidos (EUA), Ilhas Fiji (FIJI) ou Guatemala\n(GUAT). Com a colonização bem-sucedida, dois grupos foram\nestudados: controle (apenas microbiota) e infectado (microbiota\ne C. rodentium). Após 14 dias, a profundidade das glândulas\nintestinais desses animais foi avaliada, conforme figura a seguir:\n350\n300\n250\n200\n150\n100\n0\nEUA FIJI GUAT\n(Adaptado de PORRAS, A. e colaboradores. Cell Reports, Cambridge, v. 36, p. 109457,\njul. 2021.)\nConsiderando as informações apresentadas, é correto afirmar\nque as diferenças geográficas na composição da microbiota intestinal podem",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png",
+    "figura-vetorial-09.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "impactar a sensibilidade às infecções entéricas, sendo as populações dos EUA e de FIJI as mais suscetíveis.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "auxiliar a digestão no trato gastrointestinal, sendo a população da GUAT a mais beneficiada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "impactar a sensibilidade às infecções entéricas, sendo a população da GUAT a mais suscetível.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "auxiliar a digestão no trato gastrointestinal, sendo as populações dos EUA e de FIJI as mais beneficiadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A bactéria Citrobacter rodentium é um patógeno que causa\naumento da profundidade das glândulas intestinais em camun-\ndongos devido à inflamação do cólon. Em um experimento, ca-\nmundongos livres de germes tiveram seus intestinos colonizados\npela microbiota de três populações humanas geograficamente\ndistintas: Estados Unidos (EUA), Ilhas Fiji (FIJI) ou Guatemala\n(GUAT). Com a colonização bem-sucedida, dois grupos foram\nestudados: controle (apenas microbiota) e infectado (microbiota\ne C. rodentium). Após 14 dias, a profundidade das glândulas\nintestinais desses animais foi avaliada, conforme figura a seguir:\n350\n300\n250\n200\n150\n100\n0\nEUA FIJI GUAT\n(Adaptado de PORRAS, A. e colaboradores. Cell Reports, Cambridge, v. 36, p. 109457,\njul. 2021.)\nConsiderando as informações apresentadas, é correto afirmar\nque as diferenças geográficas na composição da microbiota in-\ntestinal podem\na) impactar a sensibilidade às infecções entéricas, sendo as po-\npulações dos EUA e de FIJI as mais suscetíveis.\nb) auxiliar a digestão no trato gastrointestinal, sendo a popula-\nção da GUAT a mais beneficiada.\nc) impactar a sensibilidade às infecções entéricas, sendo a po-\npulação da GUAT a mais suscetível.\nd) auxiliar a digestão no trato gastrointestinal, sendo as popu-\nlações dos EUA e de FIJI as mais beneficiadas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            47.30740000000003,
+            291,
+            609.8081999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 15,
+        "bbox": [
+          207.43534707839999,
+          191.285736488,
+          242.54084147319998,
+          218.43772006192
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 15,
+        "bbox": [
+          207.9429073252,
+          209.1343988328,
+          242.52736642239998,
+          236.45547645632007
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 15,
+        "bbox": [
+          182.75155989944,
+          230.43193298159997,
+          219.29415664184,
+          324.66519091522014
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 15,
+        "bbox": [
+          120.4337997904,
+          233.20396658159996,
+          156.98121918255998,
+          328.82323697236745
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 15,
+        "bbox": [
+          245.17844427952,
+          308.8190371168,
+          281.72104102192,
+          360.0853119676168
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 15,
+        "bbox": [
+          214.23395937535997,
+          314.2087944464,
+          250.35812032975997,
+          358.5449811391664
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 15,
+        "bbox": [
+          89.45631283199998,
+          317.1351379168,
+          125.85125138615999,
+          362.2410259391664
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 15,
+        "bbox": [
+          151.8677836452,
+          322.2167375112,
+          188.26224939055996,
+          368.5552564743664
+        ]
+      },
+      {
+        "file": "figura-vetorial-09.png",
+        "page": 15,
+        "bbox": [
+          74.11839536,
+          371.4974888464,
+          98.95755965847039,
+          401.35774924752
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

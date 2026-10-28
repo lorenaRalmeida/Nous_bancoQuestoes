@@ -1,0 +1,102 @@
+{
+  "title": "Questão 64 - UNESP 2024 - 1ª fase",
+  "index": 64,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Leia um trecho da história em quadrinhos “Asterios Polyp”, de\nDavid Mazzucchelli.\n(Asterios Polyp, 2011. Adaptado.)\nO pensamento resulta da atividade neurológica do cérebro.\nA enorme maioria dos neurônios que formam o cérebro não\né renovada ao longo da vida porque esses neurônios",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "são desprovidos de centríolos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mantêm todos os genes inibidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "são incapazes de formar microtúbulos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "permanecem na fase G0 da interfase.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "sofrem apoptose celular.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia um trecho da história em quadrinhos “Asterios Polyp”, de\nDavid Mazzucchelli.\n(Asterios Polyp, 2011. Adaptado.)\nO pensamento resulta da atividade neurológica do cérebro.\nA enorme maioria dos neurônios que formam o cérebro não\né renovada ao longo da vida porque esses neurônios\n(A) são desprovidos de centríolos.\n(B) mantêm todos os genes inibidos.\n(C) são incapazes de formar microtúbulos.\n(D) permanecem na fase G0 da interfase.\n(E) sofrem apoptose celular.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Questão 60 - UNESP 2024 - 1ª fase",
+  "index": 60,
+  "year": 2024,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Um imperativo adequado ao novo tipo de agir humano e\nvoltado para o novo tipo de sujeito atuante deveria ser mais\nou menos assim: “Aja de modo a que os efeitos da sua ação\nsejam compatíveis com a permanência de uma autêntica vida\nhumana sobre a Terra”; ou, expresso negativamente: “Aja de\nmodo a que os efeitos da sua ação não sejam destrutivos\npara a possibilidade futura de uma tal vida; ou, simplesmente:\n“Não ponha em perigo as condições necessárias para a conservação indefinida da humanidade sobre a Terra”. O atual\nimperativo humano se estende em direção a um previsível\nfuturo concreto, que constitui a dimensão inacabada de nossa responsabilidade.\n(Hans Jonas. O princípio responsabilidade, 2006. Adaptado.)\nConsiderando o excerto e as atuais questões ambientais,\nHans Jonas defende",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o estabelecimento de uma ética normativa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o planejamento de uma nova conferência mundial sobre\no tema.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a fundamentação das decisões individuais isoladas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a manutenção dos impactos humanos na natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a constituição de um órgão intergovernamental.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um imperativo adequado ao novo tipo de agir humano e\nvoltado para o novo tipo de sujeito atuante deveria ser mais\nou menos assim: “Aja de modo a que os efeitos da sua ação\nsejam compatíveis com a permanência de uma autêntica vida\nhumana sobre a Terra”; ou, expresso negativamente: “Aja de\nmodo a que os efeitos da sua ação não sejam destrutivos\npara a possibilidade futura de uma tal vida; ou, simplesmente:\n“Não ponha em perigo as condições necessárias para a con-\nservação indefinida da humanidade sobre a Terra”. O atual\nimperativo humano se estende em direção a um previsível\nfuturo concreto, que constitui a dimensão inacabada de nos-\nsa responsabilidade.\n(Hans Jonas. O princípio responsabilidade, 2006. Adaptado.)\nConsiderando o excerto e as atuais questões ambientais,\nHans Jonas defende\n(A) o estabelecimento de uma ética normativa.\n(B) o planejamento de uma nova conferência mundial sobre\no tema.\n(C) a fundamentação das decisões individuais isoladas.\n(D) a manutenção dos impactos humanos na natureza.\n(E) a constituição de um órgão intergovernamental.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            371.8966
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Questão 7 - UNESP 2026 - 1ª fase",
+  "index": 7,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões de 07 a 11, leia o primeiro poema\nda seção intitulada “Homenagem a Ricardo Reis”, da poeta\nportuguesa Sophia de Mello Breyner Andresen (1919-2004),\npublicado originalmente em 1972 no livro Dual.\nNão creias, Lídia, que nenhum estio1\nPor nós perdido possa regressar\nOferecendo a flor\nQue adiamos colher.\nCada dia te é dado uma só vez\nE no redondo círculo da noite\nNão existe piedade\nPara aquele que hesita.\nMais tarde será tarde e já é tarde.\nO tempo apaga tudo menos esse\nLongo indelével rasto2\nQue o não-vivido deixa.\nNão creias na demora em que te medes.\nJamais se detém Kronos3 cujo passo\nVai sempre mais à frente\nDo que o teu próprio passo.\n(Sophia de Mello Breyner Andresen. Coral e outros poemas, 2018.)\n1 estio: verão.\n2 rasto: rastro.\n3 Kronos: do grego khrónos, “tempo”. Na mitologia grega, titã do tempo.\n\nLogo na estrofe inicial do poema, o eu lírico ressalta o caráter",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "desumano do mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "insondável da vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "irreversível do tempo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "enigmático do mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "imprevisível do tempo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Logo na estrofe inicial do poema, o eu lírico ressalta o caráter\n(A) desumano do mundo.\n(B) insondável da vida.\n(C) irreversível do tempo.\n(D) enigmático do mundo.\n(E) imprevisível do tempo.",
+    "sharedContext": "Para responder às questões de 07 a 11, leia o primeiro poema\nda seção intitulada “Homenagem a Ricardo Reis”, da poeta\nportuguesa Sophia de Mello Breyner Andresen (1919-2004),\npublicado originalmente em 1972 no livro Dual.\nNão creias, Lídia, que nenhum estio1\nPor nós perdido possa regressar\nOferecendo a flor\nQue adiamos colher.\nCada dia te é dado uma só vez\nE no redondo círculo da noite\nNão existe piedade\nPara aquele que hesita.\nMais tarde será tarde e já é tarde.\nO tempo apaga tudo menos esse\nLongo indelével rasto2\nQue o não-vivido deixa.\nNão creias na demora em que te medes.\nJamais se detém Kronos3 cujo passo\nVai sempre mais à frente\nDo que o teu próprio passo.\n(Sophia de Mello Breyner Andresen. Coral e outros poemas, 2018.)\n1 estio: verão.\n2 rasto: rastro.\n3 Kronos: do grego khrónos, “tempo”. Na mitologia grega, titã do tempo.",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            391.22839999999997,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            380,
+            568,
+            394.0326
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            394.0326,
+            568,
+            557.568
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

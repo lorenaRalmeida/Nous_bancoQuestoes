@@ -1,0 +1,84 @@
+{
+  "title": "Questão 44 - UNICAMP 2024 - 1ª fase",
+  "index": 44,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Os lisossomos são organelas centrais que desempenham funções importantes para a homeostase celular.\nAssinale a alternativa que descreve corretamente a função dos\nlisossomos representada na figura a seguir.\n(Adaptado de: YANG, C.; WANG, X. Journal of Cell Biology, Nova Iorque, v. 220,\np.e202102001, mai. 2021.)",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Heterofagia por pinocitose, o que permite à célula degradar\nfragmentos de microrganismos, fragmentos esses importantes na apresentação de antígenos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Autofagia, que permite à célula empacotar, modificar e exportar proteínas sintetizadas no lúmen das cisternas do retículo endoplasmático.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Autofagia, que permite à célula eliminar porções envelhecidas ou danificadas do citoplasma, incluindo organelas e\nmoléculas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Heterofagia por fagocitose, o que permite à célula capturar\nmacromoléculas, utilizando-as nas diferentes vias biossintéticas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os lisossomos são organelas centrais que desempenham fun-\nções importantes para a homeostase celular.\nAssinale a alternativa que descreve corretamente a função dos\nlisossomos representada na figura a seguir.\n(Adaptado de: YANG, C.; WANG, X. Journal of Cell Biology, Nova Iorque, v. 220,\np.e202102001, mai. 2021.)\na) Heterofagia por pinocitose, o que permite à célula degradar\nfragmentos de microrganismos, fragmentos esses importan-\ntes na apresentação de antígenos.\nb) Autofagia, que permite à célula empacotar, modificar e ex-\nportar proteínas sintetizadas no lúmen das cisternas do retí-\nculo endoplasmático.\nc) Autofagia, que permite à célula eliminar porções envelhe-\ncidas ou danificadas do citoplasma, incluindo organelas e\nmoléculas.\nd) Heterofagia por fagocitose, o que permite à célula capturar\nmacromoléculas, utilizando-as nas diferentes vias biossinté-\nticas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            121.96069999999997,
+            291,
+            589.0615
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

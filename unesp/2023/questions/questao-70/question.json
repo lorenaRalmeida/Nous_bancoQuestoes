@@ -1,0 +1,92 @@
+{
+  "title": "Questão 70 - UNESP 2023 - 1ª fase",
+  "index": 70,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "(www.aviacaocomercial.net)\nPara se calibrar o pneu do carro num posto de serviços,\na recomendação é colocar cerca 30 PSI, sigla em inglês para\na unidade de pressão “libra-força por polegada quadrada”.\nPara o pneu de um avião, que é preenchido com nitrogênio\npuro em vez de ar, a regulagem recomendada é cerca de\n200 PSI à temperatura ambiente de 300 K. No entanto, no\nmomento do pouso, essa pressão interna pode aumentar\nsignificativamente, como consequência do calor gerado pelo\nimpacto e atrito com o solo e pela ação dos freios, com a\ntemperatura podendo atingir 1 200 K.\n(www.uol.com.br. Adaptado.)\nSupondo que o volume do pneu não se altere, a pressão interna de nitrogênio no pneu durante o pouso pode atingir o\nvalor de",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 000 PSI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "300 PSI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "600 PSI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "500 PSI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "800 PSI.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "(www.aviacaocomercial.net)\nPara se calibrar o pneu do carro num posto de serviços,\na recomendação é colocar cerca 30 PSI, sigla em inglês para\na unidade de pressão “libra-força por polegada quadrada”.\nPara o pneu de um avião, que é preenchido com nitrogênio\npuro em vez de ar, a regulagem recomendada é cerca de\n200 PSI à temperatura ambiente de 300 K. No entanto, no\nmomento do pouso, essa pressão interna pode aumentar\nsignificativamente, como consequência do calor gerado pelo\nimpacto e atrito com o solo e pela ação dos freios, com a\ntemperatura podendo atingir 1 200 K.\n(www.uol.com.br. Adaptado.)\nSupondo que o volume do pneu não se altere, a pressão in-\nterna de nitrogênio no pneu durante o pouso pode atingir o\nvalor de\n(A) 1 000 PSI.\n(B) 300 PSI.\n(C) 600 PSI.\n(D) 500 PSI.\n(E) 800 PSI.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            477.8506
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

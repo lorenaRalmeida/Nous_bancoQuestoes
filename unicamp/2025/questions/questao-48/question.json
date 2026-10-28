@@ -1,0 +1,87 @@
+{
+  "title": "Questão 48 - UNICAMP 2025 - 1ª fase",
+  "index": 48,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Márcia vai sortear um número entre 1 e 2025. Qual a probabilidade de o número sorteado ser múltiplo de 3 ou de 7?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "868/2025",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "289/2025",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "675/2025",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "951/2025",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Márcia vai sortear um número entre 1 e 2025. Qual a probabili-\ndade de o número sorteado ser múltiplo de 3 ou de 7?\na) .\nb) .\nc) .\nd) .",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            476.211,
+            568,
+            670.0771
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

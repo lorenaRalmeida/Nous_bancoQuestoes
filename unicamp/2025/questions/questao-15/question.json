@@ -1,0 +1,95 @@
+{
+  "title": "Questão 15 - UNICAMP 2025 - 1ª fase",
+  "index": 15,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto a seguir.\nPolice under fire after threat to arrest\n‘openly Jewish’ man near pro-Palestinian\nprotest\nScotland Yard criticised after suggesting Gideon Falter’s presence was\n‘provocative’ and he was ‘antagonising’ protesters\n(https://www.telegraph.co.uk/news/2024/04/19/. Acesso em 20/04/2024.)\nDepreende-se, da leitura desse texto, que",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a polícia sofreu ameaças depois de prender um cidadão judeu que estaria provocando participantes de um protesto\npró-Palestina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "em um protesto pró-Palestina, a ação da polícia foi criticada,\npois os policiais teriam cogitado prender Gideon Falter, que\nestaria confrontando manifestantes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a Scotland Yard criticou a ação do cidadão Gideon Falter,\nque estaria provocando participantes de um protesto pró-\n-Palestina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "em um protesto pró-Palestina, a Scotland Yard criticou a insinuação de que a polícia teria ameaçado prender um cidadão que estaria confrontando manifestantes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o texto a seguir.\nPolice under fire after threat to arrest\n‘openly Jewish’ man near pro-Palestinian\nprotest\nScotland Yard criticised after suggesting Gideon Falter’s presence was\n‘provocative’ and he was ‘antagonising’ protesters\n(https://www.telegraph.co.uk/news/2024/04/19/. Acesso em 20/04/2024.)\nDepreende-se, da leitura desse texto, que\na) a polícia sofreu ameaças depois de prender um cidadão ju-\ndeu que estaria provocando participantes de um protesto\npró-Palestina.\nb) em um protesto pró-Palestina, a ação da polícia foi criticada,\npois os policiais teriam cogitado prender Gideon Falter, que\nestaria confrontando manifestantes.\nc) a Scotland Yard criticou a ação do cidadão Gideon Falter,\nque estaria provocando participantes de um protesto pró-\n-Palestina.\nd) em um protesto pró-Palestina, a Scotland Yard criticou a in-\nsinuação de que a polícia teria ameaçado prender um cida-\ndão que estaria confrontando manifestantes.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            389.0537
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 7,
+        "bbox": [
+          304,
+          78.8288,
+          568,
+          164.17380000000003
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

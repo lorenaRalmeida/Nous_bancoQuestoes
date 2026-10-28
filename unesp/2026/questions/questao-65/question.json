@@ -1,0 +1,101 @@
+{
+  "title": "Questão 65 - UNESP 2026 - 1ª fase",
+  "index": 65,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Considere que uma mulher tenha se casado com um homem\nque seja meio-irmão da meia-irmã dela. O casal formado não\ntem grau de parentesco consanguíneo e gerou uma filha. O\nheredograma ilustra o grau de parentesco desses indivíduos.\nSe as moléculas de DNA mitocondrial das pessoas do heredograma fossem comparadas umas às outras, os indivíduos\nque apresentariam moléculas idênticas entre si correspondem a:",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3, 4, 5 e 8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2, 7 e 9.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1, 5 e 8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2, 5, 6 e 7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1, 6, 7 e 9.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considere que uma mulher tenha se casado com um homem\nque seja meio-irmão da meia-irmã dela. O casal formado não\ntem grau de parentesco consanguíneo e gerou uma filha. O\nheredograma ilustra o grau de parentesco desses indivíduos.\nSe as moléculas de DNA mitocondrial das pessoas do here-\ndograma fossem comparadas umas às outras, os indivíduos\nque apresentariam moléculas idênticas entre si correspon-\ndem a:\n(A) 3, 4, 5 e 8.\n(B) 2, 7 e 9.\n(C) 1, 5 e 8.\n(D) 2, 5, 6 e 7.\n(E) 1, 6, 7 e 9.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            393.3041
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 27,
+        "bbox": [
+          326.0239,
+          96.85450000000003,
+          539.761025,
+          231.93369999999993
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Questão 61 - UNICAMP 2024 - 1ª fase",
+  "index": 61,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "João e Maria estão passeando pela floresta. Para não se perderem no caminho, levaram consigo uma sacola com 100 pedrinhas, sendo 60 pedrinhas brancas e 40 pedrinhas pretas. A\ncada 5 passos eles retiram aleatoriamente uma pedrinha da sacola e jogam-na no chão para marcar o caminho.\nQuando eles pararam para fazer um lanche, notaram que já tinham sido jogadas 35 pedrinhas brancas e 25 pedrinhas pretas.\nQual a probabilidade de as próximas duas pedrinhas jogadas\nserem brancas?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7/13.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5/13.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "11/52.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "7/52.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "João e Maria estão passeando pela floresta. Para não se per-\nderem no caminho, levaram consigo uma sacola com 100 pe-\ndrinhas, sendo 60 pedrinhas brancas e 40 pedrinhas pretas. A\ncada 5 passos eles retiram aleatoriamente uma pedrinha da sa-\ncola e jogam-na no chão para marcar o caminho.\nQuando eles pararam para fazer um lanche, notaram que já ti-\nnham sido jogadas 35 pedrinhas brancas e 25 pedrinhas pretas.\nQual a probabilidade de as próximas duas pedrinhas jogadas\nserem brancas?\na) 7/13. c) 11/52.\nb) 5/13. d) 7/52.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            124.48569999999995,
+            568,
+            319.1997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

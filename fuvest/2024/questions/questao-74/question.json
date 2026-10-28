@@ -1,0 +1,100 @@
+{
+  "title": "Questão 74 - FUVEST 2024 - 1ª fase",
+  "index": 74,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Apesar de a África ser considerada o berço das civilizações e\nexistirem indícios de conhecimentos elementares de Química\nno sul do continente cerca de 100.000 anos atrás, os\nconhecimentos químicos ensinados são eurocentristas.\nEntretanto, uma das grandes contribuições para o estudo de\nreatividade química é atribuída ao químico egípcio Ahmed\nHassan Zewail, agraciado com o prêmio Nobel em 1999 por\nseus estudos de reações químicas usando uma técnica\nconhecida como espectroscopia de femtossegundos. Essa\ntécnica possibilita identificar espécies com tempo de vida\ncurto utilizando pulsos de laser com duração de 10−15 s.\nEssa contribuição é relevante para o estudo de reações\nquímicas, pois",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "todos os processos químicos são extremamente rápidos e\nnão podem ser estudados por técnicas que não sejam em\nfemtossegundos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as reações químicas podem passar por espécies instáveis\ne com pouco tempo de vida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o tempo existente para analisar os produtos de uma\nreação depende apenas da quantidade de produtos\nformada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "permite entender como reagentes específicos se\ncomportam frente a processos reacionais que são\nextremamente lentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "apenas com uma técnica tão rápida é possível analisar o\ngrau de pureza dos reagentes isolados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Apesar de a África ser considerada o berço das civilizações e\nexistirem indícios de conhecimentos elementares de Química\nno sul do continente cerca de 100.000 anos atrás, os\nconhecimentos químicos ensinados são eurocentristas.\nEntretanto, uma das grandes contribuições para o estudo de\nreatividade química é atribuída ao químico egípcio Ahmed\nHassan Zewail, agraciado com o prêmio Nobel em 1999 por\nseus estudos de reações químicas usando uma técnica\nconhecida como espectroscopia de femtossegundos. Essa\ntécnica possibilita identificar espécies com tempo de vida\ncurto utilizando pulsos de laser com duração de 10−15 s.\nEssa contribuição é relevante para o estudo de reações\nquímicas, pois\n(A) todos os processos químicos são extremamente rápidos e\nnão podem ser estudados por técnicas que não sejam em\nfemtossegundos.\n(B) as reações químicas podem passar por espécies instáveis\ne com pouco tempo de vida.\n(C) o tempo existente para analisar os produtos de uma\nreação depende apenas da quantidade de produtos\nformada.\n(D) permite entender como reagentes específicos se\ncomportam frente a processos reacionais que são\nextremamente lentos.\n(E) apenas com uma técnica tão rápida é possível analisar o\ngrau de pureza dos reagentes isolados.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            297.5,
+            366.1147,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Cinética química e espectroscopia ultrarrápida",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

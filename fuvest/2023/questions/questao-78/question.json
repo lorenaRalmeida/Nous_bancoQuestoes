@@ -1,0 +1,100 @@
+{
+  "title": "Questão 78 - FUVEST 2023 - 1ª fase",
+  "index": 78,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "O telescópio espacial James Webb, lançado em dezembro de\n2021, move-se nas proximidades de um ponto especial\nchamado ponto de Lagrange, sobre o qual um objeto orbita o\nSol com o mesmo período de translação que a Terra. O\nesquema a seguir, fora de escala, representa o Sol, a Terra e o\ntelescópio Webb, com as respectivas massas e distâncias\nindicadas.\nA força resultante necessária para manter um objeto de\nmassa 𝑚 em uma órbita circular de raio 𝑅 com velocidade\nangular 𝜔 é 𝐹 =𝑚𝜔(cid:2870)𝑅. Sendo 𝐹 e 𝐹 as intensidades das\n(cid:3021) (cid:3024)\nforças gravitacionais resultantes sobre a Terra e sobre o\ntelescópio, respectivamente, assinale a alternativa que\ndescreve a razão 𝐹 /𝐹 entre essas forças.\n(cid:3024) (cid:3021)\n\nNote e adote:\nDespreze os efeitos gravitacionais da Lua e suponha que 𝑚 seja\n(cid:3024)\ndesprezível frente às outras massas e que as órbitas sejam perfeitamente\ncirculares. Suponha ainda que o telescópio se situe exatamente sobre o\nponto de Lagrange.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(cid:3007)(cid:3272)\n=\n(cid:3040)(cid:3272)(cid:3019)(cid:3269)\n(cid:3007)(cid:3269) (cid:3040)(cid:3269)(cid:3019)(cid:3272)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(cid:3007)(cid:3272)\n=\n((cid:3040)(cid:3269)(cid:2878)(cid:3040)(cid:3268))(cid:3019)(cid:3272)\n(cid:3007)(cid:3269) (cid:3040)(cid:3269)(cid:3019)(cid:3269)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(cid:3007)(cid:3272)\n=\n(cid:3040)(cid:3272)(cid:3019)(cid:3272)\n(cid:3007)(cid:3269) (cid:3040)(cid:3269)(cid:3019)(cid:3269)",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "(cid:3007)(cid:3272)\n=\n(cid:3040)(cid:3272) ((cid:3019)(cid:3272)(cid:2879)(cid:3019)(cid:3269) )\n(cid:3007)(cid:3269) (cid:3040)(cid:3269)(cid:3019)(cid:3269)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "(cid:3007)(cid:3272)\n=\n(cid:3040)(cid:3269) ((cid:3019)(cid:3272)(cid:2879)(cid:3019)(cid:3269) )\n(cid:3007)(cid:3269) (cid:3040)(cid:3272)(cid:3019)(cid:3269)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O telescópio espacial James Webb, lançado em dezembro de\n2021, move-se nas proximidades de um ponto especial\nchamado ponto de Lagrange, sobre o qual um objeto orbita o\nSol com o mesmo período de translação que a Terra. O\nesquema a seguir, fora de escala, representa o Sol, a Terra e o\ntelescópio Webb, com as respectivas massas e distâncias\nindicadas.\nA força resultante necessária para manter um objeto de\nmassa 𝑚 em uma órbita circular de raio 𝑅 com velocidade\nangular 𝜔 é 𝐹 =𝑚𝜔(cid:2870)𝑅. Sendo 𝐹 e 𝐹 as intensidades das\n(cid:3021) (cid:3024)\nforças gravitacionais resultantes sobre a Terra e sobre o\ntelescópio, respectivamente, assinale a alternativa que\ndescreve a razão 𝐹 /𝐹 entre essas forças.\n(cid:3024) (cid:3021)\n(A)\n(cid:3007)(cid:3272)\n=\n(cid:3040)(cid:3272)(cid:3019)(cid:3269)\n(cid:3007)(cid:3269) (cid:3040)(cid:3269)(cid:3019)(cid:3272)\n(B)\n(cid:3007)(cid:3272)\n=\n((cid:3040)(cid:3269)(cid:2878)(cid:3040)(cid:3268))(cid:3019)(cid:3272)\n(cid:3007)(cid:3269) (cid:3040)(cid:3269)(cid:3019)(cid:3269)\n(C)\n(cid:3007)(cid:3272)\n=\n(cid:3040)(cid:3272)(cid:3019)(cid:3272)\n(cid:3007)(cid:3269) (cid:3040)(cid:3269)(cid:3019)(cid:3269)\n(D)\n(cid:3007)(cid:3272)\n=\n(cid:3040)(cid:3272) ((cid:3019)(cid:3272)(cid:2879)(cid:3019)(cid:3269) )\n(cid:3007)(cid:3269) (cid:3040)(cid:3269)(cid:3019)(cid:3269)\n(E)\n(cid:3007)(cid:3272)\n=\n(cid:3040)(cid:3269) ((cid:3019)(cid:3272)(cid:2879)(cid:3019)(cid:3269) )\n(cid:3007)(cid:3269) (cid:3040)(cid:3272)(cid:3019)(cid:3269)\nNote e adote:\nDespreze os efeitos gravitacionais da Lua e suponha que 𝑚 seja\n(cid:3024)\ndesprezível frente às outras massas e que as órbitas sejam perfeitamente\ncirculares. Suponha ainda que o telescópio se situe exatamente sobre o\nponto de Lagrange.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            297.5,
+            633.6547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            494.3347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Gravitação e ponto de Lagrange",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

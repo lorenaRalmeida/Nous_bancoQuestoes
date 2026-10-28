@@ -1,0 +1,107 @@
+{
+  "title": "Questão 21 - UNICAMP 2024 - 1ª fase",
+  "index": 21,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Texto comum às questões 20 e 21:\nTexto 1\nA OMS (Organização Mundial de Saúde) recomenda que a ingestão de açúcares livres esteja abaixo de 5% da ingestão total\nde energia diária para o nosso organismo. Como alternativa aos\naçúcares livres, tem-se intensificado o uso de adoçantes não\nnutritivos, como, por exemplo, sacarina, sucralose, stevia e aspartame. A própria OMS atualmente recomenda que adoçantes\nnão sejam utilizados para controlar a massa corporal, pois não\noferecem benefício na redução da gordura corporal. Uma bebida muito consumida no cotidiano, o refrigerante, apresenta\nesses dois aspectos para os quais a OMS chama atenção: os\ncomuns têm cerca de 11 g de açúcar por 100 mL e os diets\ncontêm adoçantes não nutritivos.\n\nA resposta glicêmica é a curva da concentração de glicose, em\nfunção do tempo, no sangue. Ela é utilizada como uma forma\nde classificar os alimentos\ncom base em seu potencial\nde elevar a glicose (açúcar)\nno sangue. Pesquisadores da\nUniversidade Johns Hopkins\n(EUA) testaram os efeitos de\nquatro adoçantes na resposta glicêmica de indivíduos\nsaudáveis. Cada grupo foi\nexposto a uma condição,\nconforme a figura ao lado,\nacompanhando-se a resposta glicêmica. Com base nas\ninformações da figura e do\ntexto 1, pode-se concluir\nque a preocupação da OMS\nquanto ao uso de adoçantes\nnão nutritivos",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "precisaria ser complementada com um alerta sobre um risco\naumentado de diabetes tipo 2, pois os adoçantes provocam\no aparecimento de glicose no sangue.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "não precisaria ser complementada com um alerta sobre um\nrisco aumentado de diabetes tipo 2, pois os adoçantes não\nprovocaram o aumento de glicose no sangue.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "não precisaria ser complementada com um alerta sobre\num risco aumentado de diabetes tipo 2, pois apenas dois\nadoçantes não provocaram o aparecimento de glicose no\nsangue.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "precisaria ser complementada com um alerta sobre um risco\naumentado de diabetes tipo 2, pois dois adoçantes provocaram um aumento de glicose no sangue.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A resposta glicêmica é a curva da concentração de glicose, em\nfunção do tempo, no sangue. Ela é utilizada como uma forma\nde classificar os alimentos\ncom base em seu potencial\nde elevar a glicose (açúcar)\nno sangue. Pesquisadores da\nUniversidade Johns Hopkins\n(EUA) testaram os efeitos de\nquatro adoçantes na respos-\nta glicêmica de indivíduos\nsaudáveis. Cada grupo foi\nexposto a uma condição,\nconforme a figura ao lado,\nacompanhando-se a respos-\nta glicêmica. Com base nas\ninformações da figura e do\ntexto 1, pode-se concluir\nque a preocupação da OMS\nquanto ao uso de adoçantes\nnão nutritivos\na) precisaria ser complementada com um alerta sobre um risco\naumentado de diabetes tipo 2, pois os adoçantes provocam\no aparecimento de glicose no sangue.\nb) não precisaria ser complementada com um alerta sobre um\nrisco aumentado de diabetes tipo 2, pois os adoçantes não\nprovocaram o aumento de glicose no sangue.\nc) não precisaria ser complementada com um alerta sobre\num risco aumentado de diabetes tipo 2, pois apenas dois\nadoçantes não provocaram o aparecimento de glicose no\nsangue.\nd) precisaria ser complementada com um alerta sobre um risco\naumentado de diabetes tipo 2, pois dois adoçantes provoca-\nram um aumento de glicose no sangue.",
+    "sharedContext": "Texto comum às questões 20 e 21:\nTexto 1\nA OMS (Organização Mundial de Saúde) recomenda que a ingestão de açúcares livres esteja abaixo de 5% da ingestão total\nde energia diária para o nosso organismo. Como alternativa aos\naçúcares livres, tem-se intensificado o uso de adoçantes não\nnutritivos, como, por exemplo, sacarina, sucralose, stevia e aspartame. A própria OMS atualmente recomenda que adoçantes\nnão sejam utilizados para controlar a massa corporal, pois não\noferecem benefício na redução da gordura corporal. Uma bebida muito consumida no cotidiano, o refrigerante, apresenta\nesses dois aspectos para os quais a OMS chama atenção: os\ncomuns têm cerca de 11 g de açúcar por 100 mL e os diets\ncontêm adoçantes não nutritivos.",
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            232.30110000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            758.1326,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            40,
+            568,
+            646.5071
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

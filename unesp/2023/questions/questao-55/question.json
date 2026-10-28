@@ -1,0 +1,100 @@
+{
+  "title": "Questão 55 - UNESP 2023 - 1ª fase",
+  "index": 55,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Human beings are relentlessly capable of reflecting on\nthemselves. We might do something out of habit, but then we\ncan begin to reflect on the habit. We can habitually think things,\nand then reflect on what we are thinking. We can ask ourselves\n(or sometimes we get asked by other people) whether we\nknow what we are talking about. To answer that we need to\nreflect on our own positions, our own understanding of what\nwe are saying, our own sources of authority. Cosmologists\nhave to pause from solving mathematical equations with\nthe letter t in them, and ask what is meant, for instance, by\nthe flow of time or the direction of time or the beginning of\ntime. But at that point, whether they recognize it or not, they\nbecome philosophers.\n(Simon Blackburn.\nThink: A compelling introduction to philosophy, 1999. Adaptado.)\nNo texto, o autor explicita a presença da atitude filosófica a\npartir",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do estudo da relevância das sensações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da identificação de regras da argumentação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da avaliação da moralidade dos indivíduos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da análise de formas de governo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "do questionamento das bases do conhecimento.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Human beings are relentlessly capable of reflecting on\nthemselves. We might do something out of habit, but then we\ncan begin to reflect on the habit. We can habitually think things,\nand then reflect on what we are thinking. We can ask ourselves\n(or sometimes we get asked by other people) whether we\nknow what we are talking about. To answer that we need to\nreflect on our own positions, our own understanding of what\nwe are saying, our own sources of authority. Cosmologists\nhave to pause from solving mathematical equations with\nthe letter t in them, and ask what is meant, for instance, by\nthe flow of time or the direction of time or the beginning of\ntime. But at that point, whether they recognize it or not, they\nbecome philosophers.\n(Simon Blackburn.\nThink: A compelling introduction to philosophy, 1999. Adaptado.)\nNo texto, o autor explicita a presença da atitude filosófica a\npartir\n(A) do estudo da relevância das sensações.\n(B) da identificação de regras da argumentação.\n(C) da avaliação da moralidade dos indivíduos.\n(D) da análise de formas de governo.\n(E) do questionamento das bases do conhecimento.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            22,
+            291,
+            26.109199999999987
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Inglês"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 4 - FUVEST 2025 - 1ª fase",
+  "index": 4,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "“E assim como o branco e os mamelucos se aproveitaram não\nraro das veredas dos índios, há motivo para pensar que estes,\npor sua vez, foram, em muitos casos, simples sucessores dos\nanimais selvagens, do tapir especialmente, cujos carreiros ao\nlongo dos rios e riachos, ou em direção a nascentes de águas,\nse adaptavam perfeitamente às necessidades e hábitos\ndaquelas populações.”\nHOLANDA, Sergio Buarque de. Caminhos e fronteiras. Rio de Janeiro: José\nOlympio, 1975. p.35.\nDe acordo com o excerto, a ocupação territorial da América\nportuguesa pelos colonizadores foi inicialmente marcada",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pela construção de caminhos que os afastassem dos\ncursos dos rios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pela desconsideração das rotas de deslocamento abertas\npelos animais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pela utilização de picadas abertas pelas comunidades\nindígenas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "pelo emprego de tropas de muares, responsáveis por abrir\ntrilhas nas matas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "pela exploração do transporte fluvial e marítimo por meio\nde pirogas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“E assim como o branco e os mamelucos se aproveitaram não\nraro das veredas dos índios, há motivo para pensar que estes,\npor sua vez, foram, em muitos casos, simples sucessores dos\nanimais selvagens, do tapir especialmente, cujos carreiros ao\nlongo dos rios e riachos, ou em direção a nascentes de águas,\nse adaptavam perfeitamente às necessidades e hábitos\ndaquelas populações.”\nHOLANDA, Sergio Buarque de. Caminhos e fronteiras. Rio de Janeiro: José\nOlympio, 1975. p.35.\nDe acordo com o excerto, a ocupação territorial da América\nportuguesa pelos colonizadores foi inicialmente marcada\n(A) pela construção de caminhos que os afastassem dos\ncursos dos rios.\n(B) pela desconsideração das rotas de deslocamento abertas\npelos animais.\n(C) pela utilização de picadas abertas pelas comunidades\nindígenas.\n(D) pelo emprego de tropas de muares, responsáveis por abrir\ntrilhas nas matas.\n(E) pela exploração do transporte fluvial e marítimo por meio\nde pirogas.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            297.5,
+            466.79470000000003,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Ocupação da América portuguesa e saberes indígenas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

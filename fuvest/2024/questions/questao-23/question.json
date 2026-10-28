@@ -1,0 +1,98 @@
+{
+  "title": "Questão 23 - FUVEST 2024 - 1ª fase",
+  "index": 23,
+  "year": 2024,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "“Quero dizer, numa palavra, que, levando em conta todas as\ncoisas que nascem, devemos verificar se em cada caso é bem\nassim que nasce cada um dos seres, isto é, se os contrários\nnão nascem senão dos seus próprios contrários, em toda\nparte onde existe tal relação: entre o belo, por exemplo, e o\nfeio, que é, penso, o seu contrário; entre o justo e o injusto; e\nassim milhares de outros casos. (...)\nExemplo: quando uma coisa se torna maior, não é necessário\nque ela anteriormente tenha sido menor, para em seguida se\ntornar maior?”\nPlatão, Fédon, p.79.\nNo trecho transcrito do texto Fédon, Platão propõe uma\ncompreensão filosófica própria sobre a relação existente\nentre os opostos. Com base nela, dentre as inferências\npossíveis, aquela que descreve a articulação principal entre\ndois termos que se opõem é:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Entre os opostos, é possível inferir uma relação principal\nde complementariedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Entre os opostos, é possível inferir uma relação principal\nde alternância.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Entre os opostos, é possível inferir uma relação principal\nde exclusão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Entre os opostos, é possível inferir uma relação principal\nde anulação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Entre os opostos, é possível inferir uma relação principal\nde geração.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Quero dizer, numa palavra, que, levando em conta todas as\ncoisas que nascem, devemos verificar se em cada caso é bem\nassim que nasce cada um dos seres, isto é, se os contrários\nnão nascem senão dos seus próprios contrários, em toda\nparte onde existe tal relação: entre o belo, por exemplo, e o\nfeio, que é, penso, o seu contrário; entre o justo e o injusto; e\nassim milhares de outros casos. (...)\nExemplo: quando uma coisa se torna maior, não é necessário\nque ela anteriormente tenha sido menor, para em seguida se\ntornar maior?”\nPlatão, Fédon, p.79.\nNo trecho transcrito do texto Fédon, Platão propõe uma\ncompreensão filosófica própria sobre a relação existente\nentre os opostos. Com base nela, dentre as inferências\npossíveis, aquela que descreve a articulação principal entre\ndois termos que se opõem é:\n(A) Entre os opostos, é possível inferir uma relação principal\nde complementariedade.\n(B) Entre os opostos, é possível inferir uma relação principal\nde alternância.\n(C) Entre os opostos, é possível inferir uma relação principal\nde exclusão.\n(D) Entre os opostos, é possível inferir uma relação principal\nde anulação.\n(E) Entre os opostos, é possível inferir uma relação principal\nde geração.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            297.5,
+            396.17470000000003,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "topic": "Relação entre opostos no Fédon de Platão",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

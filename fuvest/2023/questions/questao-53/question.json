@@ -1,0 +1,100 @@
+{
+  "title": "Questão 53 - FUVEST 2023 - 1ª fase",
+  "index": 53,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O mapa do continente africano a seguir reproduz as fronteiras\nétnicas anteriores ao processo de colonização europeu (linhas\npretas) e as fronteiras dos Estados Nacionais africanos, que\nsurgiram após a emancipação no século XX (linhas vermelhas):\nDisponível em https://www.nber.org/papers/w18275/. Adaptado.\nCom base na leitura do mapa, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A diversidade étnica observada na região sul africana foi\nobjeto de cobiça do tráfico transatlântico de escravizados\npara as Américas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O Chifre da África foi uma área marcada por guerras\ntravadas entre diferentes grupos étnicos, as quais\nimpediram a construção de unidades políticas nacionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A porção norte da África teve menor diversidade étnica,\ncom o predomínio de população branca, religião islâmica\ne língua árabe.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Após o processo de emancipação, a quantidade de Estados\nNacionais africanos ultrapassou numericamente as\nconfigurações territoriais anteriores à colonização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "As fronteiras dos Estados Nacionais africanos foram\ntraçadas a partir de solidariedades étnicas, e não por\ncritérios geopolíticos decorrentes da colonização.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O mapa do continente africano a seguir reproduz as fronteiras\nétnicas anteriores ao processo de colonização europeu (linhas\npretas) e as fronteiras dos Estados Nacionais africanos, que\nsurgiram após a emancipação no século XX (linhas vermelhas):\nDisponível em https://www.nber.org/papers/w18275/. Adaptado.\nCom base na leitura do mapa, assinale a alternativa correta.\n(A) A diversidade étnica observada na região sul africana foi\nobjeto de cobiça do tráfico transatlântico de escravizados\npara as Américas.\n(B) O Chifre da África foi uma área marcada por guerras\ntravadas entre diferentes grupos étnicos, as quais\nimpediram a construção de unidades políticas nacionais.\n(C) A porção norte da África teve menor diversidade étnica,\ncom o predomínio de população branca, religião islâmica\ne língua árabe.\n(D) Após o processo de emancipação, a quantidade de Estados\nNacionais africanos ultrapassou numericamente as\nconfigurações territoriais anteriores à colonização.\n(E) As fronteiras dos Estados Nacionais africanos foram\ntraçadas a partir de solidariedades étnicas, e não por\ncritérios geopolíticos decorrentes da colonização.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            297.5,
+            320.4547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            172.91470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Fronteiras coloniais e grupos étnicos africanos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

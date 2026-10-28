@@ -1,0 +1,100 @@
+{
+  "title": "Questão 54 - UNESP 2025 - 1ª fase",
+  "index": 54,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "No dia 9 de março de 2024, o Instituto Brasileiro de Geografia e Estatística (IBGE) lançou uma nova versão do mapa-\n-múndi, deixando as redes sociais em alvoroço. O motivo da\nsurpresa é que, diferentemente dos mapas que estamos habituados a ver nos livros escolares ou até em rápidas buscas\nno Google, a nova versão traz o Brasil no centro do mundo.\n(https://guiadoestudante.abril.com.br. Adaptado.)\nPaíses-membros do G20\n(https://atlasescolar.ibge.gov.br)\nA surpresa com o mapa apresentado é explicada por ele\ncontrariar",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a convenção cartográfica, conjunto de regras que busca\ngarantir a neutralidade de um mapa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o etnocentrismo, doutrina socioespacial que defende\nsimetria entre diferentes países em um mapa-múndi.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o eurocentrismo, visão de mundo que institui a Europa\nenquanto parte central e superior do mapa-múndi.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a orientação espacial, relação que usa a latitude e a longitude para oferecer precisão na construção de um mapa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o regionalismo, exercício que define regiões segundo critérios sociais para a diagramação de um mapa-múndi.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No dia 9 de março de 2024, o Instituto Brasileiro de Geo-\ngrafia e Estatística (IBGE) lançou uma nova versão do mapa-\n-múndi, deixando as redes sociais em alvoroço. O motivo da\nsurpresa é que, diferentemente dos mapas que estamos ha-\nbituados a ver nos livros escolares ou até em rápidas buscas\nno Google, a nova versão traz o Brasil no centro do mundo.\n(https://guiadoestudante.abril.com.br. Adaptado.)\nPaíses-membros do G20\n(https://atlasescolar.ibge.gov.br)\nA surpresa com o mapa apresentado é explicada por ele\ncontrariar\n(A) a convenção cartográfica, conjunto de regras que busca\ngarantir a neutralidade de um mapa.\n(B) o etnocentrismo, doutrina socioespacial que defende\nsimetria entre diferentes países em um mapa-múndi.\n(C) o eurocentrismo, visão de mundo que institui a Europa\nenquanto parte central e superior do mapa-múndi.\n(D) a orientação espacial, relação que usa a latitude e a lon-\ngitude para oferecer precisão na construção de um mapa.\n(E) o regionalismo, exercício que define regiões segundo cri-\ntérios sociais para a diagramação de um mapa-múndi.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

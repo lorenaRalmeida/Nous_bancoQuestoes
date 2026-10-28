@@ -1,0 +1,90 @@
+{
+  "title": "Questão 61 - UNESP 2026 - 1ª fase",
+  "index": 61,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Através da leitura, a alma que se esconde na combinação das letras do alfabeto (como um código genético) pode\nentão passar do livro para o leitor e habitá-lo, evoluindo. É\numa mistura semelhante à que se dá com o genoma. Em vez\nde uma fusão de dois gametas para criar um novo ser, há\nduas almas que se fundem para criar um novo ser.\n(Afonso Cruz. O vício dos livros, 2024.)\nNo excerto, a expressão “um código genético” pode ser substituída, mantendo-se o mesmo significado, por:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“na relação entre um anticódon e uma proteína”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“na relação entre um códon e um anticódon”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“na relação entre um genoma e um anticódon”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“na relação entre um códon e um aminoácido”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "“na relação entre um gameta e um aminoácido”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Através da leitura, a alma que se esconde na combina-\nção das letras do alfabeto (como um código genético) pode\nentão passar do livro para o leitor e habitá-lo, evoluindo. É\numa mistura semelhante à que se dá com o genoma. Em vez\nde uma fusão de dois gametas para criar um novo ser, há\nduas almas que se fundem para criar um novo ser.\n(Afonso Cruz. O vício dos livros, 2024.)\nNo excerto, a expressão “um código genético” pode ser subs-\ntituída, mantendo-se o mesmo significado, por:\n(A) “na relação entre um anticódon e uma proteína”.\n(B) “na relação entre um códon e um anticódon”.\n(C) “na relação entre um genoma e um anticódon”.\n(D) “na relação entre um códon e um aminoácido”.\n(E) “na relação entre um gameta e um aminoácido”.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            286.47929999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

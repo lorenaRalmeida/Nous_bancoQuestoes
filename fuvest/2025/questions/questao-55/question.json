@@ -1,0 +1,88 @@
+{
+  "title": "Questão 55 - FUVEST 2025 - 1ª fase",
+  "index": 55,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Dentre os animais invertebrados, alguns grupos apresentam o\nsistema circulatório fechado, enquanto outros apresentam o\nsistema circulatório aberto, o que leva a diferenças em\nprocessos fisiológicos.\nNos invertebrados, o sistema circulatório",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fechado apresenta uma menor pressão do sangue /\nhemolinfa em relação ao sistema circulatório aberto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aberto apresenta o coração dividido em quatro cavidades:\ndois átrios e dois ventrículos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fechado permite maior eficiência no transporte de\noxigênio em relação ao sistema circulatório aberto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "aberto facilita a distribuição dos nutrientes aos tecidos em\nrelação ao sistema circulatório fechado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fechado mistura mais facilmente os gases respiratórios:\noxigênio e dióxido de carbono.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nDentre os animais invertebrados, alguns grupos apresentam o\nsistema circulatório fechado, enquanto outros apresentam o\nsistema circulatório aberto, o que leva a diferenças em\nprocessos fisiológicos.\nNos invertebrados, o sistema circulatório\n(A) fechado apresenta uma menor pressão do sangue /\nhemolinfa em relação ao sistema circulatório aberto.\n(B) aberto apresenta o coração dividido em quatro cavidades:\ndois átrios e dois ventrículos.\n(C) fechado permite maior eficiência no transporte de\noxigênio em relação ao sistema circulatório aberto.\n(D) aberto facilita a distribuição dos nutrientes aos tecidos em\nrelação ao sistema circulatório fechado.\n(E) fechado mistura mais facilmente os gases respiratórios:\noxigênio e dióxido de carbono.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            482.2146,
+            297.5,
+            715.6147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Sistemas circulatórios de invertebrados",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

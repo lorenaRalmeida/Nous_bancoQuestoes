@@ -1,0 +1,101 @@
+{
+  "title": "Questão 50 - UNESP 2023 - 1ª fase",
+  "index": 50,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise as imagens da instalação de geotêxteis, feitos com\nfibra de tronco de bananeira.\nDia da instalação\n30 dias após a instalação\n(www.researchgate.net)\nConsiderando as imagens, observa-se que a instalação de\ngeotêxteis tem como objetivo",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a construção de terraços, pois permite aplainar superfícies inclinadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a correção da acidez do solo, pois mantém a vegetação\nperene.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a obstrução da laterização, pois promove intensa lixiviação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a recuperação de áreas degradadas, pois diminui os\nprocessos erosivos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "a interrupção da ação de microrganismos, pois o material\nutilizado é biodegradável.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise as imagens da instalação de geotêxteis, feitos com\nfibra de tronco de bananeira.\nDia da instalação\n30 dias após a instalação\n(www.researchgate.net)\nConsiderando as imagens, observa-se que a instalação de\ngeotêxteis tem como objetivo\n(A) a construção de terraços, pois permite aplainar superfí-\ncies inclinadas.\n(B) a correção da acidez do solo, pois mantém a vegetação\nperene.\n(C) a obstrução da laterização, pois promove intensa lixiviação.\n(D) a recuperação de áreas degradadas, pois diminui os\nprocessos erosivos.\n(E) a interrupção da ação de microrganismos, pois o material\nutilizado é biodegradável.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

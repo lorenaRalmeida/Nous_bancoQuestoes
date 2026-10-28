@@ -1,0 +1,127 @@
+{
+  "title": "Questão 86 - UNESP 2026 - 1ª fase",
+  "index": 86,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Para monitorar a presença de certa praga em uma\nlavoura de café ao longo dos 12 meses de um ano, os\nagrônomos modelaram a função quadrática f(x), dada por f(x) = −(80/49)x² + (1280/49)x − 1200/49, em que x varia de 1 até 12.\nNessa função, f(x) indica a porcentagem da lavoura que possui a presença da praga e x indica o mês do ano em que foi\nfeito o monitoramento da área, sendo x = 1 o início do mês de\njaneiro, x = 2 o início do mês de fevereiro, e assim sucessivamente até x = 12, que representa o início do mês de dezembro. Por exemplo, como f(2) = 1040/49 ≈ 21,2, sabe-se que a\npraga estava disseminada por cerca de 21,2% da lavoura no\ninício de fevereiro.\nAvaliando-se o comportamento dessa função no intervalo em\nque x ∈ [1, 12], a menor porcentagem da lavoura que esteve\nlivre da praga foi de",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "20% e ocorreu no início do mês de agosto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "0% e ocorreu no início do mês de janeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "40% e ocorreu no meio do mês de julho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "50% e ocorreu no final do mês de julho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "80% e ocorreu no início do mês de agosto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Para monitorar a presença de certa praga em uma\nlavoura de café ao longo dos 12 meses de um ano, os\nagrônomos modelaram a função quadrática f(x), dada por\n, em que x varia de 1 até 12.\nNessa função, f(x) indica a porcentagem da lavoura que pos-\nsui a presença da praga e x indica o mês do ano em que foi\nfeito o monitoramento da área, sendo x = 1 o início do mês de\njaneiro, x = 2 o início do mês de fevereiro, e assim sucessiva-\nmente até x = 12, que representa o início do mês de dezem-\nbro. Por exemplo, como , sabe-se que a\npraga estava disseminada por cerca de 21,2% da lavoura no\ninício de fevereiro.\nAvaliando-se o comportamento dessa função no intervalo em\nque x ∈ [1, 12], a menor porcentagem da lavoura que esteve\nlivre da praga foi de\n(A) 20% e ocorreu no início do mês de agosto.\n(B) 0% e ocorreu no início do mês de janeiro.\n(C) 40% e ocorreu no meio do mês de julho.\n(D) 50% e ocorreu no final do mês de julho.\n(E) 80% e ocorreu no início do mês de agosto.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 36,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 37,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 36,
+        "bbox": [
+          304,
+          77.77330000000006,
+          439.0826,
+          114.15139999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 36,
+        "bbox": [
+          408.2396,
+          167.65099999999995,
+          497.604,
+          203.9665
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

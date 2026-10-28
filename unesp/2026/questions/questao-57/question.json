@@ -1,0 +1,98 @@
+{
+  "title": "Questão 57 - UNESP 2026 - 1ª fase",
+  "index": 57,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Se antes a informação era um produto comercializado\npelas grandes instituições e emissoras, agora é também feita\npelos indivíduos. Cada usuário das redes sociais se configura\ncomo um grande emissor; cada indivíduo se torna uma mídia\npoderosa. No entanto, repete-se a fórmula na qual a relevância das informações está vinculada não ao seu potencial\nemancipatório, mas à audiência que é capaz de gerar (entendida como o número de compartilhamentos, seguidores,\ntempo de permanência). Enquanto não se desenvolver uma\ncultura crítica do uso dos meios em benefício da libertação\nhumana, os meios digitais se parecerão, cada vez mais, com\nos meios de comunicação de massa. A massificação se torna\nremassificação.\n(Patricio Dugnani. “Meios de Comunicação de\nMassa e Meios Digitais: remassificação e internetilização”.\nIn: Anagramas Rumbos y Sentidos de la Comunicación, 2024. Adaptado.)\nO excerto revela que a comunicação contemporânea mantém traços centrais dos conceitos de indústria cultural, teorizados pela Escola de Frankfurt, que podem ser identificados\na partir da",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reprodução da alienação em favor de interesses\nhegemônicos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "neutralização da função ideológica dos dispositivos\nmidiáticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "consolidação de uma esfera pública digital voltada à\nemancipação do indivíduo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "valorização da linguagem digital como forma de autonomia simbólica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reconfiguração estética das mídias voltada à legitimação\ndemocrática.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Se antes a informação era um produto comercializado\npelas grandes instituições e emissoras, agora é também feita\npelos indivíduos. Cada usuário das redes sociais se configura\ncomo um grande emissor; cada indivíduo se torna uma mídia\npoderosa. No entanto, repete-se a fórmula na qual a rele-\nvância das informações está vinculada não ao seu potencial\nemancipatório, mas à audiência que é capaz de gerar (en-\ntendida como o número de compartilhamentos, seguidores,\ntempo de permanência). Enquanto não se desenvolver uma\ncultura crítica do uso dos meios em benefício da libertação\nhumana, os meios digitais se parecerão, cada vez mais, com\nos meios de comunicação de massa. A massificação se torna\nremassificação.\n(Patricio Dugnani. “Meios de Comunicação de\nMassa e Meios Digitais: remassificação e internetilização”.\nIn: Anagramas Rumbos y Sentidos de la Comunicación, 2024. Adaptado.)\nO excerto revela que a comunicação contemporânea man-\ntém traços centrais dos conceitos de indústria cultural, teori-\nzados pela Escola de Frankfurt, que podem ser identificados\na partir da\n(A) reprodução da alienação em favor de interesses\nhegemônicos.\n(B) neutralização da função ideológica dos dispositivos\nmidiáticos.\n(C) consolidação de uma esfera pública digital voltada à\nemancipação do indivíduo.\n(D) valorização da linguagem digital como forma de autono-\nmia simbólica.\n(E) reconfiguração estética das mídias voltada à legitimação\ndemocrática.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

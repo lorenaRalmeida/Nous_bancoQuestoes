@@ -1,0 +1,103 @@
+{
+  "title": "Questão 69 - UNESP 2024 - 1ª fase",
+  "index": 69,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "O exame de diagnóstico por imagem denominado PET-Scan\n(sigla em inglês para Tomografia por Emissão de Pósitrons)\nutiliza como emissor de pósitrons o radionuclídeo 18F. Ao\nemitir um pósitron, esse radionuclídeo transforma-se no isótopo 18O, cujo número de prótons e número de nêutrons são,\nrespectivamente, iguais a",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "8 e 10.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "9 e 10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "8 e 9.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "10 e 8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "10 e 9.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O exame de diagnóstico por imagem denominado PET-Scan\n(sigla em inglês para Tomografia por Emissão de Pósitrons)\nutiliza como emissor de pósitrons o radionuclídeo 18F. Ao\nemitir um pósitron, esse radionuclídeo transforma-se no isó-\ntopo 18O, cujo número de prótons e número de nêutrons são,\nrespectivamente, iguais a\n(A) 8 e 10.\n(B) 9 e 10.\n(C) 8 e 9.\n(D) 10 e 8.\n(E) 10 e 9.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            261.14070000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          167.1171,
+          72.70119999999997,
+          201.6231,
+          102.32089999999994
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

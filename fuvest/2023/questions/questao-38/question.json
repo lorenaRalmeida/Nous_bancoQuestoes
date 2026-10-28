@@ -1,0 +1,98 @@
+{
+  "title": "Questão 38 - FUVEST 2023 - 1ª fase",
+  "index": 38,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 38 E 39\nO QUINTO IMPÉRIO\nTriste de quem vive em casa,\nContente com o seu lar,\nSem que um sonho, no erguer de asa,\nFaça até mais rubra a brasa\nDa lareira a abandonar!\nTriste de quem é feliz!\nVive porque a vida dura.\nNada na alma lhe diz\nMais que a lição da raiz —\nTer por vida a sepultura.\nEras sobre eras se somem\nNo tempo que em eras vem.\nSer descontente é ser homem.\nQue as forças cegas se domem\nPela visão que a alma tem!\nE assim, passados os quatro\nTempos do ser que sonhou,\nA terra será teatro\nDo dia claro, que no atro\nDa erma noite começou.\nGrécia, Roma, Cristandade,\nEuropa — os quatro se vão\nPara onde vai toda idade.\nQuem vem viver a verdade\nQue morreu D. Sebastião?\nFernando Pessoa. Mensagem.\n\nDe acordo com o texto, a ideia de felicidade, também nuclear\nem outros poemas de Mensagem,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "alimenta as aspirações humanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "compreende-se como superação da morte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "identifica-se com o destino heroico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "compõe a mediocridade cotidiana.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "situa-se como finalidade da existência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "De acordo com o texto, a ideia de felicidade, também nuclear\nem outros poemas de Mensagem,\n(A) alimenta as aspirações humanas.\n(B) compreende-se como superação da morte.\n(C) identifica-se com o destino heroico.\n(D) compõe a mediocridade cotidiana.\n(E) situa-se como finalidade da existência.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 38 E 39\nO QUINTO IMPÉRIO\nTriste de quem vive em casa,\nContente com o seu lar,\nSem que um sonho, no erguer de asa,\nFaça até mais rubra a brasa\nDa lareira a abandonar!\nTriste de quem é feliz!\nVive porque a vida dura.\nNada na alma lhe diz\nMais que a lição da raiz —\nTer por vida a sepultura.\nEras sobre eras se somem\nNo tempo que em eras vem.\nSer descontente é ser homem.\nQue as forças cegas se domem\nPela visão que a alma tem!\nE assim, passados os quatro\nTempos do ser que sonhou,\nA terra será teatro\nDo dia claro, que no atro\nDa erma noite começou.\nGrécia, Roma, Cristandade,\nEuropa — os quatro se vão\nPara onde vai toda idade.\nQuem vem viver a verdade\nQue morreu D. Sebastião?\nFernando Pessoa. Mensagem.",
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            297.5,
+            37.76999999999987,
+            567,
+            440.0347
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            297.5,
+            440.0347,
+            567,
+            572.2147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Interpretação do poema O Quinto Império",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

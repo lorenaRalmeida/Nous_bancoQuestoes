@@ -1,0 +1,98 @@
+{
+  "title": "Questão 34 - UNESP 2024 - 1ª fase",
+  "index": 34,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "O espaço urbano é onde proliferavam a pobreza e certa\nautonomia dos desqualificados sociais, bastante incômoda\npara as autoridades. Era justamente este o espaço social\ndas mulheres pobres, livres, forras e escravizadas. Circulavam pelas fontes públicas, tanques, lavadouros, pontes,\nruas e praças da cidade, onde era jogado o lixo das casas\ne o mato crescia a ponto de ocultar escravizados fugidos:\no seu espaço social era justamente o ponto de interseção\nonde se alternavam e se sobrepunham as áreas de convívio\ndas vizinhanças e dos forasteiros; a do fisco municipal e a\ndo pequeno comércio clandestino; as margens da escravidão e do trabalho livre, o espaço do trabalho doméstico e o\nde sua extensão ou comercialização pelas ruas…\n(Maria Odila Leite da Silva Dias. “Mulheres sem história”.\nIn: Revista de História, 1983. Adaptado.)\nAo tratar de São Paulo do século XVIII, o excerto estabelece um paralelo entre a condição das mulheres no espaço\nurbano e",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a situação de abandono das crianças pobres da colônia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a constituição de um padrão ideal de família burguesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o prevalecimento dos interesses políticos da metrópole.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a área de indefinição social, política ou econômica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "os setores da sociedade defensores de propostas\nidentitárias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O espaço urbano é onde proliferavam a pobreza e certa\nautonomia dos desqualificados sociais, bastante incômoda\npara as autoridades. Era justamente este o espaço social\ndas mulheres pobres, livres, forras e escravizadas. Circu-\nlavam pelas fontes públicas, tanques, lavadouros, pontes,\nruas e praças da cidade, onde era jogado o lixo das casas\ne o mato crescia a ponto de ocultar escravizados fugidos:\no seu espaço social era justamente o ponto de interseção\nonde se alternavam e se sobrepunham as áreas de convívio\ndas vizinhanças e dos forasteiros; a do fisco municipal e a\ndo pequeno comércio clandestino; as margens da escravi-\ndão e do trabalho livre, o espaço do trabalho doméstico e o\nde sua extensão ou comercialização pelas ruas…\n(Maria Odila Leite da Silva Dias. “Mulheres sem história”.\nIn: Revista de História, 1983. Adaptado.)\nAo tratar de São Paulo do século XVIII, o excerto estabe-\nlece um paralelo entre a condição das mulheres no espaço\nurbano e\n(A) a situação de abandono das crianças pobres da colônia.\n(B) a constituição de um padrão ideal de família burguesa.\n(C) o prevalecimento dos interesses políticos da metrópole.\n(D) a área de indefinição social, política ou econômica.\n(E) os setores da sociedade defensores de propostas\nidentitárias.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 47 - UNESP 2024 - 1ª fase",
+  "index": 47,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "No Sertão Nordestino, oligarquias representam um dos polos\nna desigual estrutura social, econômica e política da região.\nDurante o século XX, a oligarquia nordestina beneficiou-se",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da transposição do rio São Francisco, obra que objetivou desviar parte das águas desse rio para rios intermitentes com maior capacidade de abastecimento\nhídrico de áreas rurais e urbanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da indústria da seca, expressão que designa a relação\nentre a realidade de fome e miséria da população durante as longas estiagens e os recursos destinados a obras\npara melhorias na qualidade de vida local.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "da remarcação de fronteiras estaduais, estratégia empregada para melhorar os resultados de investimentos federais realizados na promoção de serviços de tratamento\nde água e esgoto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da implantação do Projeto Grande Carajás, empreendimento privado que objetivou dinamizar a economia nordestina com maciços investimentos em infraestruturas\nprodutivas agrícolas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da transferência da capital federal para Brasília, decisão\nque atrelou o uso de mão de obra e de empresas nordestinas para reaquecer o setor de produção de matérias-\n-primas da região Nordeste.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No Sertão Nordestino, oligarquias representam um dos polos\nna desigual estrutura social, econômica e política da região.\nDurante o século XX, a oligarquia nordestina beneficiou-se\n(A) da transposição do rio São Francisco, obra que obje-\ntivou desviar parte das águas desse rio para rios in-\ntermitentes com maior capacidade de abastecimento\nhídrico de áreas rurais e urbanas.\n(B) da indústria da seca, expressão que designa a relação\nentre a realidade de fome e miséria da população duran-\nte as longas estiagens e os recursos destinados a obras\npara melhorias na qualidade de vida local.\n(C) da remarcação de fronteiras estaduais, estratégia empre-\ngada para melhorar os resultados de investimentos fede-\nrais realizados na promoção de serviços de tratamento\nde água e esgoto.\n(D) da implantação do Projeto Grande Carajás, empreendi-\nmento privado que objetivou dinamizar a economia nor-\ndestina com maciços investimentos em infraestruturas\nprodutivas agrícolas.\n(E) da transferência da capital federal para Brasília, decisão\nque atrelou o uso de mão de obra e de empresas nordes-\ntinas para reaquecer o setor de produção de matérias-\n-primas da região Nordeste.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

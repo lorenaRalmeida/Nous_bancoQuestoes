@@ -1,0 +1,88 @@
+{
+  "title": "Questão 8 - FUVEST 2025 - 1ª fase",
+  "index": 8,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "“Eu não venero a criação mais do que o Criador, mas venero a\ncriatura criada como eu sou, adotando a criação de maneira\nlivre e espontânea, de modo que Ele possa elevar nossa\nnatureza e nos tornar partícipes de Sua natureza divina. Sendo\nassim, eu me atrevo a fazer uma imagem do Deus invisível não\ncomo invisível, mas como tendo se tornado visível por nossa\ncausa, tornando-se carne e sangue. Eu não faço uma imagem\nda divindade imortal. Eu pinto a carne visível de Deus, pois é\nimpossível representar o espírito e ainda mais Deus, que dá\nvida ao espírito.”\nJohn Damascene. On holy images. Disponível em\nhttps://www.gutenberg.org/files/49917/ (Adaptado).\nNessa citação, João Damasceno (675-749), monge e teólogo\ncristão do período medieval, dirige-se contra o movimento\niconoclasta ao",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "colocar a criatura no mesmo nível do Criador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "reduzir a divindade a seus elementos materiais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "identificar a imagem visível com a natureza divina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "negar o dogma da divindade de Jesus Cristo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "justificar a veneração de imagens sagradas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“Eu não venero a criação mais do que o Criador, mas venero a\ncriatura criada como eu sou, adotando a criação de maneira\nlivre e espontânea, de modo que Ele possa elevar nossa\nnatureza e nos tornar partícipes de Sua natureza divina. Sendo\nassim, eu me atrevo a fazer uma imagem do Deus invisível não\ncomo invisível, mas como tendo se tornado visível por nossa\ncausa, tornando-se carne e sangue. Eu não faço uma imagem\nda divindade imortal. Eu pinto a carne visível de Deus, pois é\nimpossível representar o espírito e ainda mais Deus, que dá\nvida ao espírito.”\nJohn Damascene. On holy images. Disponível em\nhttps://www.gutenberg.org/files/49917/ (Adaptado).\nNessa citação, João Damasceno (675-749), monge e teólogo\ncristão do período medieval, dirige-se contra o movimento\niconoclasta ao\n(A) colocar a criatura no mesmo nível do Criador.\n(B) reduzir a divindade a seus elementos materiais.\n(C) identificar a imagem visível com a natureza divina.\n(D) negar o dogma da divindade de Jesus Cristo.\n(E) justificar a veneração de imagens sagradas.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            338.1547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Iconoclastia e cristianismo medieval",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

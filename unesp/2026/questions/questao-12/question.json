@@ -1,0 +1,100 @@
+{
+  "title": "Questão 12 - UNESP 2026 - 1ª fase",
+  "index": 12,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Examine o post publicado pela comunidade “The Language\nNerds” em sua conta no Facebook em 01.09.2019.\nIf you laugh, you probably have no friends\nEstereótipo é uma generalização simplificada e preconcebida, que reduz a complexidade de indivíduos a características\npadronizadas, com base em ideias repetidas sobre determinado grupo. O post explora o estereótipo de que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pessoas muito arrogantes não têm amigos, já que são capazes de usar materiais químico-físicos fora do contexto\nlaboratorial para demonstrar superioridade intelectual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pessoas muito inteligentes não têm amigos, já que são\ncapazes de compreender um tipo de humor restrito a\nquem domina o conhecimento físico de reflexão luminosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pessoas ardilosas não têm amigos, já que são capazes\nde construir armadilhas no ambiente escolar a partir de\nseu conhecimento químico de composto orgânico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pessoas muito inteligentes não têm amigos, já que são capazes de compreender um tipo de humor restrito a quem\ndomina o conhecimento químico de estrutura molecular.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "pessoas ardilosas não têm amigos, já que são capazes\nde construir armadilhas no ambiente escolar a partir de\nseu conhecimento físico de comportamento dos fluidos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine o post publicado pela comunidade “The Language\nNerds” em sua conta no Facebook em 01.09.2019.\nIf you laugh, you probably have no friends\nEstereótipo é uma generalização simplificada e preconcebi-\nda, que reduz a complexidade de indivíduos a características\npadronizadas, com base em ideias repetidas sobre determi-\nnado grupo. O post explora o estereótipo de que\n(A) pessoas muito arrogantes não têm amigos, já que são ca-\npazes de usar materiais químico-físicos fora do contexto\nlaboratorial para demonstrar superioridade intelectual.\n(B) pessoas muito inteligentes não têm amigos, já que são\ncapazes de compreender um tipo de humor restrito a\nquem domina o conhecimento físico de reflexão luminosa.\n(C) pessoas ardilosas não têm amigos, já que são capazes\nde construir armadilhas no ambiente escolar a partir de\nseu conhecimento químico de composto orgânico.\n(D) pessoas muito inteligentes não têm amigos, já que são ca-\npazes de compreender um tipo de humor restrito a quem\ndomina o conhecimento químico de estrutura molecular.\n(E) pessoas ardilosas não têm amigos, já que são capazes\nde construir armadilhas no ambiente escolar a partir de\nseu conhecimento físico de comportamento dos fluidos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

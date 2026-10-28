@@ -1,0 +1,108 @@
+{
+  "title": "Questão 36 - UNESP 2025 - 1ª fase",
+  "index": 36,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Leia o excerto para responder às questões 35 e 36.\nNunca é demais repetir: a nação brasileira não existia\nantes da Independência, embora algumas características e\nacontecimentos da história colonial ajudem a explicar seu\nsurgimento. Mas esse surgimento não se fez de repente, em\nalgum momento abrupto entre 1820, 1821 ou 1822, embora tenha sido entre esses anos que essa nação começou a\nadquirir contornos como uma comunidade política com sua\nalteridade decisiva: uma nação não portuguesa. Mais precisamente, o que surgiu naqueles anos foram as condições\nseguras para o nascimento dessa nova nação, e esse é um\ndos sentidos que tornam a Independência uma revolução política. Mas nada havia nesse nascimento que garantisse que\no bebê teria vida longa.\n(João Paulo Pimenta. Formação da nação brasileira, 2024.)\n\nA associação entre a “comunidade política” brasileira e o sentimento de nacionalidade brasileira fortaleceu-se no",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Primeiro Reinado, com o funcionamento harmonioso e\nequipotente dos três poderes instituídos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Segundo Reinado, com a participação do país em uma\nguerra prolongada na região sul do continente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "período colonial, com a imposição do poder português\nsobre as rebeliões de escravizados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Período Regencial, com a derrota das forças republicanas pelos partidos monárquicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "início da Primeira República, com a resistência das oligarquias locais ao imperialismo inglês.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A associação entre a “comunidade política” brasileira e o sen-\ntimento de nacionalidade brasileira fortaleceu-se no\n(A) Primeiro Reinado, com o funcionamento harmonioso e\nequipotente dos três poderes instituídos.\n(B) Segundo Reinado, com a participação do país em uma\nguerra prolongada na região sul do continente.\n(C) período colonial, com a imposição do poder português\nsobre as rebeliões de escravizados.\n(D) Período Regencial, com a derrota das forças republica-\nnas pelos partidos monárquicos.\n(E) início da Primeira República, com a resistência das oli-\ngarquias locais ao imperialismo inglês.",
+    "sharedContext": "Leia o excerto para responder às questões 35 e 36.\nNunca é demais repetir: a nação brasileira não existia\nantes da Independência, embora algumas características e\nacontecimentos da história colonial ajudem a explicar seu\nsurgimento. Mas esse surgimento não se fez de repente, em\nalgum momento abrupto entre 1820, 1821 ou 1822, embora tenha sido entre esses anos que essa nação começou a\nadquirir contornos como uma comunidade política com sua\nalteridade decisiva: uma nação não portuguesa. Mais precisamente, o que surgiu naqueles anos foram as condições\nseguras para o nascimento dessa nova nação, e esse é um\ndos sentidos que tornam a Independência uma revolução política. Mas nada havia nesse nascimento que garantisse que\no bebê teria vida longa.\n(João Paulo Pimenta. Formação da nação brasileira, 2024.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            245.15329999999994
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            455.9328,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            22,
+            568,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

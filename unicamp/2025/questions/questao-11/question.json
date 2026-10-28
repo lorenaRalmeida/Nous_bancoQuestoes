@@ -1,0 +1,82 @@
+{
+  "title": "Questão 11 - UNICAMP 2025 - 1ª fase",
+  "index": 11,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "O projeto internacional DUNE (Deep Underground Neutrino\nExperiment) é um gigantesco experimento idealizado para o\nestudo de neutrinos. Para a detecção da luz emitida quando\nos neutrinos atravessam enormes tanques de argônio líquido,\nfoi projetado na Unicamp um dispositivo chamado Arapuca,\ncuja função é aumentar a área de coleta da luz, confinando-\n-a no interior de uma caixa que contém os sensores. Antes de\nentrar na Arapuca, a luz emitida, de comprimento de onda\nλ = 128 nm, incide num material que tem por finalidade modificar\n1\no comprimento de onda da radiação, de modo que, ao emergir\ndesse material, o novo comprimento de onda da luz passe a ser\nλ = 350 nm. Considere que, nessa etapa do experimento, am-\n2\nbos os feixes luminosos de comprimentos de onda λ e λ\n1 2\npropagam-se no mesmo meio. Sendo f a frequência e v a ve-\n1 1\nlocidade da luz no comprimento de onda λ, e f a frequência\n1 2\ne v a velocidade da luz no comprimento de onda λ, pode-se\n2 2\nafirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a frequência f é maior que a frequência f; a velocidade v\n2 1 2\né igual à velocidade v.\n1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a frequência f é menor que a frequência f; a velocidade v\n2 1 2\né igual à velocidade v.\n1",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a frequência f é igual à frequência f; a velocidade v é\n2 1 2\nmaior que a velocidade v.\n1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a frequência f é igual à frequência f; a velocidade v é me-\n2 1 2\nnor que a velocidade v.\n1",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O projeto internacional DUNE (Deep Underground Neutrino\nExperiment) é um gigantesco experimento idealizado para o\nestudo de neutrinos. Para a detecção da luz emitida quando\nos neutrinos atravessam enormes tanques de argônio líquido,\nfoi projetado na Unicamp um dispositivo chamado Arapuca,\ncuja função é aumentar a área de coleta da luz, confinando-\n-a no interior de uma caixa que contém os sensores. Antes de\nentrar na Arapuca, a luz emitida, de comprimento de onda\nλ = 128 nm, incide num material que tem por finalidade modificar\n1\no comprimento de onda da radiação, de modo que, ao emergir\ndesse material, o novo comprimento de onda da luz passe a ser\nλ = 350 nm. Considere que, nessa etapa do experimento, am-\n2\nbos os feixes luminosos de comprimentos de onda λ e λ\n1 2\npropagam-se no mesmo meio. Sendo f a frequência e v a ve-\n1 1\nlocidade da luz no comprimento de onda λ, e f a frequência\n1 2\ne v a velocidade da luz no comprimento de onda λ, pode-se\n2 2\nafirmar que\na) a frequência f é maior que a frequência f; a velocidade v\n2 1 2\né igual à velocidade v.\n1\nb) a frequência f é menor que a frequência f; a velocidade v\n2 1 2\né igual à velocidade v.\n1\nc) a frequência f é igual à frequência f; a velocidade v é\n2 1 2\nmaior que a velocidade v.\n1\nd) a frequência f é igual à frequência f; a velocidade v é me-\n2 1 2\nnor que a velocidade v.\n1",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            419.1208
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

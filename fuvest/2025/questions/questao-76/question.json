@@ -1,0 +1,103 @@
+{
+  "title": "Questão 76 - FUVEST 2025 - 1ª fase",
+  "index": 76,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Considere um cilindro C de altura h > 0 e cujo raio das circunferências, do topo e da base, é r > 0; um cilindro C₁ cujo raio é igual ao de C e altura igual a h/2; e um cilindro C₂ com altura h e raio igual a r/2.\n\nSendo V, V₁ e V₂ os volumes e A, A₁ e A₂ as áreas laterais dos cilindros C, C₁ e C₂, respectivamente, é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "V = V₁ + V₂ e A = A₁ + A₂",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "V = V₁ + V₂ e A = A₁ + 2A₂",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "V = V₁ + 2V₂ e A = A₁ + 2A₂",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "V = V₁ + 2V₂ e A = A₁ + A₂",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "V = 2V₁ + 2V₂ e A = 2A₁ + 2A₂",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nConsidere um cilindro 𝐶 de altura ℎ(cid:3408)0 e cujo raio das\ncircunferências, do topo e da base, é 𝑟(cid:3408)0; um cilindro 𝐶\n(cid:2869)\n(cid:3035)\ncujo raio é igual ao de 𝐶 e altura igual a ; e um cilindro 𝐶\n(cid:2870)\n(cid:2870)\n(cid:3045)\ncom altura ℎ e raio igual a .\n(cid:2870)\nSendo 𝑉, 𝑉 e 𝑉 os volumes e 𝐴, 𝐴 e 𝐴 as áreas laterais dos\n(cid:2869) (cid:2870) (cid:2869) (cid:2870)\ncilindros 𝐶, 𝐶 e 𝐶 , respectivamente, é correto afirmar:\n(cid:2869) (cid:2870)\n(A) 𝑉 (cid:3404)𝑉 (cid:3397)𝑉 e 𝐴(cid:3404)𝐴 (cid:3397)𝐴\n(cid:2869) (cid:2870) (cid:2869) (cid:2870)\n(B) 𝑉 (cid:3404)𝑉 (cid:3397)𝑉 e 𝐴(cid:3404)𝐴 (cid:3397)2𝐴\n(cid:2869) (cid:2870) (cid:2869) (cid:2870)\n(C) 𝑉 (cid:3404)𝑉 (cid:3397)2𝑉 e 𝐴(cid:3404)𝐴 (cid:3397)2𝐴\n(cid:2869) (cid:2870) (cid:2869) (cid:2870)\n(D) 𝑉 (cid:3404)𝑉 (cid:3397)2𝑉 e 𝐴(cid:3404)𝐴 (cid:3397)𝐴\n(cid:2869) (cid:2870) (cid:2869) (cid:2870)\n(E) 𝑉 (cid:3404)2𝑉 (cid:3397)2𝑉 e 𝐴(cid:3404)2𝐴 (cid:3397)2𝐴\n(cid:2869) (cid:2870) (cid:2869) (cid:2870)\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            297.5,
+            503.7547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Volume e área lateral de cilindros",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

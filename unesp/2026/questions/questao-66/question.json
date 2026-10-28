@@ -1,0 +1,100 @@
+{
+  "title": "Questão 66 - UNESP 2026 - 1ª fase",
+  "index": 66,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A Comissão Nacional de Incorporação de Tecnologias no\nSistema Único de Saúde (Conitec) aprovou o uso da camada\nfina de tecido que envolve imediatamente o feto durante a\ngravidez, geralmente descartada após o parto, como curativo biológico para tratar queimaduras. Quando aplicado sobre\nferidas após queimaduras, esse tecido forma uma barreira\ncontra bactérias e apresenta componentes que aceleram a\ncicatrização e aliviam a dor.\n(www.estadao.com.br, 22.05.2025. Adaptado.)\nO tecido aprovado para o tratamento de queimaduras compõe",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a placenta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o âmnio.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o cório.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o alantoide.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o saco vitelínico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A Comissão Nacional de Incorporação de Tecnologias no\nSistema Único de Saúde (Conitec) aprovou o uso da camada\nfina de tecido que envolve imediatamente o feto durante a\ngravidez, geralmente descartada após o parto, como curati-\nvo biológico para tratar queimaduras. Quando aplicado sobre\nferidas após queimaduras, esse tecido forma uma barreira\ncontra bactérias e apresenta componentes que aceleram a\ncicatrização e aliviam a dor.\n(www.estadao.com.br, 22.05.2025. Adaptado.)\nO tecido aprovado para o tratamento de queimaduras compõe\n(A) a placenta.\n(B) o âmnio.\n(C) o cório.\n(D) o alantoide.\n(E) o saco vitelínico.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            393.3041,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "board": "UNICAMP",
+  "totalQuestions": 288,
+  "source": "PDFs fornecidos pelo usuário; processamento local, sem consultas à internet.",
+  "years": [
+    {
+      "year": 2023,
+      "questions": 72,
+      "version": "Q e Z",
+      "answers": 72,
+      "cancelled": [],
+      "imageReferences": 44
+    },
+    {
+      "year": 2024,
+      "questions": 72,
+      "version": "Q e Y",
+      "answers": 72,
+      "cancelled": [],
+      "imageReferences": 52
+    },
+    {
+      "year": 2025,
+      "questions": 72,
+      "version": "Q e Z",
+      "answers": 71,
+      "cancelled": [
+        53
+      ],
+      "imageReferences": 60
+    },
+    {
+      "year": 2026,
+      "questions": 72,
+      "version": "Q e X",
+      "answers": 72,
+      "cancelled": [],
+      "imageReferences": 75
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Questão 76 - FUVEST 2023 - 1ª fase",
+  "index": 76,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Os lagartos do gênero Basiliscus têm a capacidade incomum\nde correr sobre a água. Essa espécie possui uma membrana\nentre os dedos que aumenta a área superficial de suas patas\ntraseiras. Com uma combinação de forças verticais de suporte\ne forças horizontais propulsivas geradas pelo movimento de\nsuas patas na água, o lagarto consegue obter impulso\nresultante para cima e para frente, conforme figura a seguir.\nIsso garante uma estabilidade dinâmica na superfície da água,\nem corridas que podem chegar a dezenas de metros,\ndependendo do peso e da idade do animal.\nDisponível em https://wonderopolis.org/.\nSobre esse movimento, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A componente vertical da reação à força gerada pelas\npatadas na água compensa o peso do animal, fazendo com\nque ele não afunde.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "O mecanismo de flutuação do lagarto advém de um\nequilíbrio hidrostático, que pode ser explicado pelo\nprincípio de Arquimedes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Por ser um meio viscoso, a água possui um atrito\ndesprezível, facilitando a flutuação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A alta salinidade da água é uma condição necessária para\nque ocorra um equilíbrio entre as forças envolvidas no\nmovimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A tensão superficial da água, por si só, é suficiente para\nimpedir que o animal afunde.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Os lagartos do gênero Basiliscus têm a capacidade incomum\nde correr sobre a água. Essa espécie possui uma membrana\nentre os dedos que aumenta a área superficial de suas patas\ntraseiras. Com uma combinação de forças verticais de suporte\ne forças horizontais propulsivas geradas pelo movimento de\nsuas patas na água, o lagarto consegue obter impulso\nresultante para cima e para frente, conforme figura a seguir.\nIsso garante uma estabilidade dinâmica na superfície da água,\nem corridas que podem chegar a dezenas de metros,\ndependendo do peso e da idade do animal.\nDisponível em https://wonderopolis.org/.\nSobre esse movimento, é correto afirmar:\n(A) A componente vertical da reação à força gerada pelas\npatadas na água compensa o peso do animal, fazendo com\nque ele não afunde.\n(B) O mecanismo de flutuação do lagarto advém de um\nequilíbrio hidrostático, que pode ser explicado pelo\nprincípio de Arquimedes.\n(C) Por ser um meio viscoso, a água possui um atrito\ndesprezível, facilitando a flutuação.\n(D) A alta salinidade da água é uma condição necessária para\nque ocorra um equilíbrio entre as forças envolvidas no\nmovimento.\n(E) A tensão superficial da água, por si só, é suficiente para\nimpedir que o animal afunde.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            28,
+            421.5547,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            240.53470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Movimento e forças na locomoção de lagartos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

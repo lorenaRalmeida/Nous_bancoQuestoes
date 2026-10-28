@@ -1,0 +1,100 @@
+{
+  "title": "Questão 20 - UNESP 2026 - 1ª fase",
+  "index": 20,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Examine a tirinha do cartunista americano Bill Watterson\n(1958- ).\n(Bill Watterson. Calvin e Haroldo: e foi assim que tudo começou, 2007.)\nPara obter seu efeito de humor, a tirinha explora o fenômeno\nlinguístico denominado",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "sinonímia: duas palavras que têm significados muito\npróximos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "homonímia: duas palavras idênticas na grafia e na sonoridade que têm significados diferentes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "onomatopeia: palavra ou conjunto de palavras que representa um ruído ou som natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "antonímia: duas palavras que têm significados opostos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "paronímia: duas palavras parecidas na grafia e na sonoridade que têm significados diferentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a tirinha do cartunista americano Bill Watterson\n(1958- ).\n(Bill Watterson. Calvin e Haroldo: e foi assim que tudo começou, 2007.)\nPara obter seu efeito de humor, a tirinha explora o fenômeno\nlinguístico denominado\n(A) sinonímia: duas palavras que têm significados muito\npróximos.\n(B) homonímia: duas palavras idênticas na grafia e na sono-\nridade que têm significados diferentes.\n(C) onomatopeia: palavra ou conjunto de palavras que repre-\nsenta um ruído ou som natural.\n(D) antonímia: duas palavras que têm significados opostos.\n(E) paronímia: duas palavras parecidas na grafia e na sono-\nridade que têm significados diferentes.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            22,
+            568,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

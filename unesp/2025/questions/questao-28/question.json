@@ -1,0 +1,132 @@
+{
+  "title": "Questão 28 - UNESP 2025 - 1ª fase",
+  "index": 28,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia a tirinha de Alex Hallatt para responder às questões\n27 e 28.\n(www.alexhallatt.com. Adaptado.)\n\nAccording to the comic strip, the characters that agree to\nstock up chocolate as essential food to protect them from\nclimate change are\n\nNo segundo quadrinho, a fala do urso “I’ve never had\nchocolate go off” indica que o personagem consome",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "chocolate em pequenas quantidades, pois é calórico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "todo chocolate de que dispõe, antes de ele se estragar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "muito chocolate, mesmo sem gostar tanto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "chocolate com prazo de validade vencido.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "chocolate estragado, pois acha que não faz mal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No segundo quadrinho, a fala do urso “I’ve never had\nchocolate go off” indica que o personagem consome\n(A) chocolate em pequenas quantidades, pois é calórico.\n(B) todo chocolate de que dispõe, antes de ele se estragar.\n(C) muito chocolate, mesmo sem gostar tanto.\n(D) chocolate com prazo de validade vencido.\n(E) chocolate estragado, pois acha que não faz mal.",
+    "sharedContext": "Leia a tirinha de Alex Hallatt para responder às questões\n27 e 28.\n(www.alexhallatt.com. Adaptado.)\n\nAccording to the comic strip, the characters that agree to\nstock up chocolate as essential food to protect them from\nclimate change are",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            342.9913
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            342.9913,
+            568,
+            406.1252999999999
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            517.7709,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 10,
+        "bbox": [
+          304,
+          342.9913,
+          350.6235,
+          366.0079
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

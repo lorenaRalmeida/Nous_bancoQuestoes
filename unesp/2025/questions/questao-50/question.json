@@ -1,0 +1,100 @@
+{
+  "title": "Questão 50 - UNESP 2025 - 1ª fase",
+  "index": 50,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Praia de Carro Quebrado, Alagoas\n(www.guiadasemana.com.br)\nResultado de um processo de abrasão marinha, a feição do\nrelevo retratada denomina-se",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "depressão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "dobra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "falésia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "coxilha.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "colina.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Praia de Carro Quebrado, Alagoas\n(www.guiadasemana.com.br)\nResultado de um processo de abrasão marinha, a feição do\nrelevo retratada denomina-se\n(A) depressão.\n(B) dobra.\n(C) falésia.\n(D) coxilha.\n(E) colina.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            451.64459999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 61 - UNESP 2024 - 1ª fase",
+  "index": 61,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O mês de maio é dedicado à conscientização e combate\nà doença celíaca, uma condição autoimune que afeta cerca\nde 1% da população mundial. Mas, apesar de sua prevalência, a doença celíaca ainda é pouco conhecida e pouco diagnosticada dentre muitos casos, o que pode levar a complicações de saúde. A doença celíaca ocorre quando o sistema\nimunológico reage de forma anormal ao glúten, uma proteína\npresente em muitos alimentos. Isso pode causar inflamação\ne danos no revestimento do intestino delgado, prejudicando a\nabsorção de nutrientes. Os sintomas podem incluir dor abdominal, diarreia, inchaço e perda de peso.\n(https://fbg.org.br, maio de 2023. Adaptado.)\nO tratamento efetivo contra a doença celíaca exige a interrupção do consumo de alimentos que contenham",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "frutas cítricas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "farinha de trigo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "leite de vaca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "carne bovina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ovos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O mês de maio é dedicado à conscientização e combate\nà doença celíaca, uma condição autoimune que afeta cerca\nde 1% da população mundial. Mas, apesar de sua prevalên-\ncia, a doença celíaca ainda é pouco conhecida e pouco diag-\nnosticada dentre muitos casos, o que pode levar a complica-\nções de saúde. A doença celíaca ocorre quando o sistema\nimunológico reage de forma anormal ao glúten, uma proteína\npresente em muitos alimentos. Isso pode causar inflamação\ne danos no revestimento do intestino delgado, prejudicando a\nabsorção de nutrientes. Os sintomas podem incluir dor abdo-\nminal, diarreia, inchaço e perda de peso.\n(https://fbg.org.br, maio de 2023. Adaptado.)\nO tratamento efetivo contra a doença celíaca exige a interrup-\nção do consumo de alimentos que contenham\n(A) frutas cítricas.\n(B) farinha de trigo.\n(C) leite de vaca.\n(D) carne bovina.\n(E) ovos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            371.8966,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

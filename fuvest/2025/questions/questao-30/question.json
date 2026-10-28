@@ -1,0 +1,100 @@
+{
+  "title": "Questão 30 - FUVEST 2025 - 1ª fase",
+  "index": 30,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A imagem a seguir ilustra o aparecimento de uma barreira que\npromoveu separação de uma população de rinocerontes e\nconsequente redução no tamanho das populações resultantes.\nDisponível em https://kids.frontiersin.org/articles/10.3389/ (Adaptado).\nÉ correto afirmar que, nas populações fragmentadas, ocorre",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "maior variabilidade genética.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "maior risco de aparecimento de doenças genéticas\nrecessivas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "menor frequência de mutações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "seleção natural dos indivíduos com características\ngenéticas dominantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "favorecimento da mistura entre elas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA imagem a seguir ilustra o aparecimento de uma barreira que\npromoveu separação de uma população de rinocerontes e\nconsequente redução no tamanho das populações resultantes.\nDisponível em https://kids.frontiersin.org/articles/10.3389/ (Adaptado).\nÉ correto afirmar que, nas populações fragmentadas, ocorre\n(A) maior variabilidade genética.\n(B) maior risco de aparecimento de doenças genéticas\nrecessivas.\n(C) menor frequência de mutações.\n(D) seleção natural dos indivíduos com características\ngenéticas dominantes.\n(E) favorecimento da mistura entre elas.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            297.5,
+            410.6347,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Fragmentação de populações e variabilidade genética",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

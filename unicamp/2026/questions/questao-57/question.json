@@ -1,0 +1,94 @@
+{
+  "title": "Questão 57 - UNICAMP 2026 - 1ª fase",
+  "index": 57,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "O texto a seguir é um trabalho da artista Santarosa Barreto\napresentado na exposição Histórias das mulheres: artistas depois de 2000, realizada no MASP em 2019.\n(BARRETO, S. A luta. Ikrek Edições, 2019 (reimpressão 2024).)\nNesse texto, observamos ocorrências de “que” com diferentes\nvalores, entre eles o",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "explicativo, com o objetivo de listar justificativas que tentam\nsuprimir, em favor de outros, uma dimensão pessoal da luta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "comparativo, com o objetivo de equiparar a luta motivada\npor convicções próprias e a luta instigada por quem está no\npoder.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "condicional, com o objetivo de caracterizar a luta como uma\ncondição para combater aqueles que a querem controlar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "causal, com o objetivo de reiterar as situações que levam\nalguém a desistir de promover a luta como forma de resistência individual.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O texto a seguir é um trabalho da artista Santarosa Barreto\napresentado na exposição Histórias das mulheres: artistas de-\npois de 2000, realizada no MASP em 2019.\n(BARRETO, S. A luta. Ikrek Edições, 2019 (reimpressão 2024).)\nNesse texto, observamos ocorrências de “que” com diferentes\nvalores, entre eles o\na) explicativo, com o objetivo de listar justificativas que tentam\nsuprimir, em favor de outros, uma dimensão pessoal da luta.\nb) comparativo, com o objetivo de equiparar a luta motivada\npor convicções próprias e a luta instigada por quem está no\npoder.\nc) condicional, com o objetivo de caracterizar a luta como uma\ncondição para combater aqueles que a querem controlar.\nd) causal, com o objetivo de reiterar as situações que levam\nalguém a desistir de promover a luta como forma de resis-\ntência individual.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            140.59500000000003,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.49270000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 27 - UNESP 2025 - 1ª fase",
+  "index": 27,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia a tirinha de Alex Hallatt para responder às questões\n27 e 28.\n(www.alexhallatt.com. Adaptado.)\n\nAccording to the comic strip, the characters that agree to\nstock up chocolate as essential food to protect them from\nclimate change are",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "both penguins and the bear.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "the bear and the penguin on the left.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "just the two penguins.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "the rabbit, the bear and both penguins.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "the penguin on the right and the bear.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "According to the comic strip, the characters that agree to\nstock up chocolate as essential food to protect them from\nclimate change are\n(A) both penguins and the bear.\n(B) the bear and the penguin on the left.\n(C) just the two penguins.\n(D) the rabbit, the bear and both penguins.\n(E) the penguin on the right and the bear.",
+    "sharedContext": "Leia a tirinha de Alex Hallatt para responder às questões\n27 e 28.\n(www.alexhallatt.com. Adaptado.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            342.9913
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            342.9913,
+            568,
+            517.7709
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

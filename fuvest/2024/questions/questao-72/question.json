@@ -1,0 +1,120 @@
+{
+  "title": "Questão 72 - FUVEST 2024 - 1ª fase",
+  "index": 72,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Um protótipo de máquina térmica caseira baseia-se num\nmotor de quatro etapas e pode ser construído com o auxílio\nde uma bomba de bicicleta, uma pequena câmara de pneu e\num aquecedor térmico. Na primeira etapa, o gás da câmara\nde pneu é comprimido adiabaticamente. Na segunda etapa, o\ngás é aquecido isovolumetricamente. Na terceira etapa, o gás\nsofre uma expansão adiabática e, finalmente, na quarta\netapa, um resfriamento isovolumétrico.\nAssinale a alternativa que melhor representa o diagrama\ncorrespondente a essa máquina térmica no plano\npressão (𝑝) 𝑥 volume (𝑉).\nNote e adote:\nDespreze efeitos de dilatação ou contração da câmara do pneu.",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Um protótipo de máquina térmica caseira baseia-se num\nmotor de quatro etapas e pode ser construído com o auxílio\nde uma bomba de bicicleta, uma pequena câmara de pneu e\num aquecedor térmico. Na primeira etapa, o gás da câmara\nde pneu é comprimido adiabaticamente. Na segunda etapa, o\ngás é aquecido isovolumetricamente. Na terceira etapa, o gás\nsofre uma expansão adiabática e, finalmente, na quarta\netapa, um resfriamento isovolumétrico.\nAssinale a alternativa que melhor representa o diagrama\ncorrespondente a essa máquina térmica no plano\npressão (𝑝) 𝑥 volume (𝑉).\nNote e adote:\nDespreze efeitos de dilatação ou contração da câmara do pneu.\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png"
+      ]
+    },
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Ciclos termodinâmicos e diagrama p-V",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

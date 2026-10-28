@@ -1,0 +1,99 @@
+{
+  "title": "Questão 60 - UNICAMP 2024 - 1ª fase",
+  "index": 60,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Terminado o almoço, Ana foi à cozinha para a escolha das sobremesas. A garota estava decidida a pegar dois itens. Seu pai,\npreocupado com a alimentação dela, instruiu-a da seguinte forma: \"Escolha o que quiser, mas, se você pegar algum pirulito,\npegue também alguma fruta\". Na cozinha, tinha 5 frutas diferentes, 3 pirulitos diferentes e 2 pedaços de bolos de sabores\ndiferentes. De quantas formas Ana poderia escolher seus dois\nitens?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "34.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "36.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "45.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "47.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Terminado o almoço, Ana foi à cozinha para a escolha das so-\nbremesas. A garota estava decidida a pegar dois itens. Seu pai,\npreocupado com a alimentação dela, instruiu-a da seguinte for-\nma: \"Escolha o que quiser, mas, se você pegar algum pirulito,\npegue também alguma fruta\". Na cozinha, tinha 5 frutas dife-\nrentes, 3 pirulitos diferentes e 2 pedaços de bolos de sabores\ndiferentes. De quantas formas Ana poderia escolher seus dois\nitens?\na) 34. c) 45.\nb) 36. d) 47.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            713.3237,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            40,
+            568,
+            124.48569999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

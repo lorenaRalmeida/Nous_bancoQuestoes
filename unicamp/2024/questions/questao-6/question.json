@@ -1,0 +1,94 @@
+{
+  "title": "Questão 6 - UNICAMP 2024 - 1ª fase",
+  "index": 6,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "je ne parle pas bien*\nje ne parle pas bien\nje ne parle pas bien\nje ne parle pas bien\neu tenho uma língua solta\nque não me deixa esquecer\nque cada palavra minha\né resquício da colonização\ncada verbo que aprendi conjugar\nfoi ensinado com a missão\nde me afastar de quem veio antes\nnossas escolas não nos ensinam\na dar voos\n[...]\nreinvenção\nnossa revolução surge e urge\ndas nossas bocas\ndas falas aprendidas\nque são ensinadas\ne muitas não compreendidas\nsalve, a cada gíria\nje ne parle pas bien\n[...]\no que era pra ser arma de colonizador\nestá virando revide de ex colonizado\nestamos aprendendo as suas línguas\ne descolonizando os pensamento\n* Je ne parle pas bien, do francês, significa “Eu não falo direito”.\nPodemos afirmar que o uso repetido do verso Je ne parle pas\nbien no poema slam de Luz Ribeiro",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "expressa a necessidade de repetir muitas vezes uma mesma\nsentença como forma de resistir ao esquecimento de uma\nlíngua.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "enfatiza a ideia de que a língua francesa do colonizador ainda não foi aprendida e precisa ser repetida várias vezes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "é uma constatação de que, na posição de ex-colônia, não\nconseguimos aprender línguas estrangeiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "indica um posicionamento de resistência por meio de uma\ncrítica à aprendizagem forçada da língua do colonizador.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "je ne parle pas bien*\nje ne parle pas bien\nje ne parle pas bien\nje ne parle pas bien\neu tenho uma língua solta\nque não me deixa esquecer\nque cada palavra minha\né resquício da colonização\ncada verbo que aprendi conjugar\nfoi ensinado com a missão\nde me afastar de quem veio antes\nnossas escolas não nos ensinam\na dar voos\n[...]\nreinvenção\nnossa revolução surge e urge\ndas nossas bocas\ndas falas aprendidas\nque são ensinadas\ne muitas não compreendidas\nsalve, a cada gíria\nje ne parle pas bien\n[...]\no que era pra ser arma de colonizador\nestá virando revide de ex colonizado\nestamos aprendendo as suas línguas\ne descolonizando os pensamento\n* Je ne parle pas bien, do francês, significa “Eu não falo direi-\nto”.\nPodemos afirmar que o uso repetido do verso Je ne parle pas\nbien no poema slam de Luz Ribeiro\na) expressa a necessidade de repetir muitas vezes uma mesma\nsentença como forma de resistir ao esquecimento de uma\nlíngua.\nb) enfatiza a ideia de que a língua francesa do colonizador ain-\nda não foi aprendida e precisa ser repetida várias vezes.\nc) é uma constatação de que, na posição de ex-colônia, não\nconseguimos aprender línguas estrangeiras.\nd) indica um posicionamento de resistência por meio de uma\ncrítica à aprendizagem forçada da língua do colonizador.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            727.1276,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            40,
+            568,
+            553.1764000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

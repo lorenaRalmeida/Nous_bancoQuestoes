@@ -1,0 +1,95 @@
+{
+  "title": "Questão 3 - UNICAMP 2024 - 1ª fase",
+  "index": 3,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Texto 1\nVivemos no limiar de uma transição, em que a automação ocupará cada vez mais espaços na sociedade. Neste novo cenário,\nhá um componente atuando com desenvoltura entre nós. Suas\nações e decisões, invisíveis e muitas vezes autônomas, estão\ncada vez mais presentes no dia a dia da vida contemporânea.\nSeu comportamento, no entanto, é opaco e pouco compreendido. Trata-se dos algoritmos. São eles que, muitas vezes, decidem se você é contratado ou demitido, se você vai ter acesso a\num benefício social, se seu visto de imigração vai ser concedido\nou negado, quais notícias você vai ver nas redes sociais, qual o\nmelhor trajeto do trabalho para casa ou qual o parceiro mais\napropriado para um relacionamento.\n(Adaptado de: MENDONÇA, R.F.; FIGUEIRAS, F.; ALMEIDA, V. Algoritmos controlam sociedade e tomam decisões de vida ou morte. Folha de S. Paulo, 7 abr. 2021.)\nTexto 2\n(Quadrinhos com o personagem laranja e amarelo, que representa um algoritmo, da série criada por André Dahmer. Disponível em: https://diplomatique.org.br/novas-tirinhas-\n-de-andre-dahmer-transformam-algoritmo-em-personagem-intrometido/. Acesso em\n28/07/2023.)\nA partir do texto 1, é possível afirmar que o texto 2 explora o\nfato de que os algoritmos",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "definem o que é melhor ou mais apropriado para cada pessoa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "são opacos porque aleatoriamente expõem às pessoas produtos para compra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "se servem dos nossos dados para nos oferecer continuamente produtos a serem consumidos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "controlam a vida humana para aperfeiçoar as nossas tomadas de decisão.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\nVivemos no limiar de uma transição, em que a automação ocu-\npará cada vez mais espaços na sociedade. Neste novo cenário,\nhá um componente atuando com desenvoltura entre nós. Suas\nações e decisões, invisíveis e muitas vezes autônomas, estão\ncada vez mais presentes no dia a dia da vida contemporânea.\nSeu comportamento, no entanto, é opaco e pouco compreen-\ndido. Trata-se dos algoritmos. São eles que, muitas vezes, deci-\ndem se você é contratado ou demitido, se você vai ter acesso a\num benefício social, se seu visto de imigração vai ser concedido\nou negado, quais notícias você vai ver nas redes sociais, qual o\nmelhor trajeto do trabalho para casa ou qual o parceiro mais\napropriado para um relacionamento.\n(Adaptado de: MENDONÇA, R.F.; FIGUEIRAS, F.; ALMEIDA, V. Algoritmos controlam socie-\ndade e tomam decisões de vida ou morte. Folha de S. Paulo, 7 abr. 2021.)\nTexto 2\n(Quadrinhos com o personagem laranja e amarelo, que representa um algoritmo, da sé-\nrie criada por André Dahmer. Disponível em: https://diplomatique.org.br/novas-tirinhas-\n-de-andre-dahmer-transformam-algoritmo-em-personagem-intrometido/. Acesso em\n28/07/2023.)\nA partir do texto 1, é possível afirmar que o texto 2 explora o\nfato de que os algoritmos\na) definem o que é melhor ou mais apropriado para cada pes-\nsoa.\nb) são opacos porque aleatoriamente expõem às pessoas pro-\ndutos para compra.\nc) se servem dos nossos dados para nos oferecer continua-\nmente produtos a serem consumidos.\nd) controlam a vida humana para aperfeiçoar as nossas toma-\ndas de decisão.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            576.8238,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            40,
+            568,
+            371.59229999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

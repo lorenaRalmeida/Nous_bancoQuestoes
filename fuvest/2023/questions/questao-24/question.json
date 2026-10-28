@@ -1,0 +1,103 @@
+{
+  "title": "Questão 24 - FUVEST 2023 - 1ª fase",
+  "index": 24,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "André e Bianca possuem automóveis que podem ser\nabastecidos com etanol, gasolina ou uma mistura dos dois\ncombustíveis. Em um mesmo posto de combustível, André\nabasteceu seu carro com 18 litros da bomba de etanol e 32\nlitros da bomba de gasolina; já Bianca abasteceu seu carro\ncom 30 litros da bomba de etanol e 20 litros da bomba de\ngasolina. Sabendo que o valor total pago por André foi 10%\nmaior do que o pago por Bianca, a razão entre os preços, por\nlitro, de etanol e de gasolina é:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2⁄3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "7⁄10",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3⁄4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "4⁄5",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "André e Bianca possuem automóveis que podem ser\nabastecidos com etanol, gasolina ou uma mistura dos dois\ncombustíveis. Em um mesmo posto de combustível, André\nabasteceu seu carro com 18 litros da bomba de etanol e 32\nlitros da bomba de gasolina; já Bianca abasteceu seu carro\ncom 30 litros da bomba de etanol e 20 litros da bomba de\ngasolina. Sabendo que o valor total pago por André foi 10%\nmaior do que o pago por Bianca, a razão entre os preços, por\nlitro, de etanol e de gasolina é:\n(A) 5/8\n(B) 2⁄3\n(C) 7⁄10\n(D) 3⁄4\n(E) 4⁄5",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            297.5,
+            579.8347,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.07470000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Sistema de equações e preço de combustíveis",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

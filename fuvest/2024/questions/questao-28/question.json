@@ -1,0 +1,101 @@
+{
+  "title": "Questão 28 - FUVEST 2024 - 1ª fase",
+  "index": 28,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "A temperatura ideal para uso de um forno a lenha para\npreparo de pizzas pode ser inferida pela observação da\ncoloração das paredes internas do forno. Abaixo da\ntemperatura ideal, um material particulado preto proveniente\nda queima da lenha pode ser visto recobrindo as paredes\ninternas. Quando a temperatura ideal é atingida, esse\nmaterial particulado não é mais observado e a superfície mais\nclara do interior do forno pode ser vista, como apresentado\nnas fotos.\nForno abaixo da temperatura ideal.\nForno na temperatura ideal.\nA coloração da superfície interior do forno permite inferir a\ntemperatura ideal, pois",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a fuligem advinda do processo de combustão incompleta\nda lenha deposita-se nas paredes e, com o aumento da\ntemperatura, reage com o oxigênio do ar e produz gás\ncarbônico, permitindo ver a cor mais clara da parede\ninterna do forno.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a coloração preta é originada pela fuligem da combustão\ncompleta da lenha, o que causa o aumento da\ntemperatura até que a parede do forno se torne\nincandescente, revelando sua cor mais clara.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a coloração preta é observada por conta da baixa\nquantidade de luz gerada pelas chamas da lenha em\ncombustão a baixas temperaturas e essa quantidade de\nluz aumenta à medida que a temperatura se torna\nelevada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o material particulado se funde, escorrendo pelas paredes\ndo forno quando a temperatura ideal é atingida, revelando\na coloração mais clara do interior do forno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a alta quantidade de gás carbônico produzida em baixas\ntemperaturas forma uma névoa que não permite a\npassagem de luz, o que torna o interior escuro.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A temperatura ideal para uso de um forno a lenha para\npreparo de pizzas pode ser inferida pela observação da\ncoloração das paredes internas do forno. Abaixo da\ntemperatura ideal, um material particulado preto proveniente\nda queima da lenha pode ser visto recobrindo as paredes\ninternas. Quando a temperatura ideal é atingida, esse\nmaterial particulado não é mais observado e a superfície mais\nclara do interior do forno pode ser vista, como apresentado\nnas fotos.\nForno abaixo da temperatura ideal.\nForno na temperatura ideal.\nA coloração da superfície interior do forno permite inferir a\ntemperatura ideal, pois\n(A) a fuligem advinda do processo de combustão incompleta\nda lenha deposita-se nas paredes e, com o aumento da\ntemperatura, reage com o oxigênio do ar e produz gás\ncarbônico, permitindo ver a cor mais clara da parede\ninterna do forno.\n(B) a coloração preta é originada pela fuligem da combustão\ncompleta da lenha, o que causa o aumento da\ntemperatura até que a parede do forno se torne\nincandescente, revelando sua cor mais clara.\n(C) a coloração preta é observada por conta da baixa\nquantidade de luz gerada pelas chamas da lenha em\ncombustão a baixas temperaturas e essa quantidade de\nluz aumenta à medida que a temperatura se torna\nelevada.\n(D) o material particulado se funde, escorrendo pelas paredes\ndo forno quando a temperatura ideal é atingida, revelando\na coloração mais clara do interior do forno.\n(E) a alta quantidade de gás carbônico produzida em baixas\ntemperaturas forma uma névoa que não permite a\npassagem de luz, o que torna o interior escuro.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Combustão incompleta e oxidação da fuligem",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

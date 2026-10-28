@@ -1,0 +1,88 @@
+{
+  "title": "Questão 57 - UNESP 2025 - 1ª fase",
+  "index": 57,
+  "year": 2025,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "“Arquitetura hostil” refere-se a estratégias de design urbano que utilizam elementos para restringir certos comportamentos nos espaços públicos, dificultando o acesso e a\npresença de pessoas, especialmente pessoas em situação\nde rua. [...] Segundo o historiador especializado em arquitetura Iain Borden, [...] a emergência deste estilo de arquitetura\nhostil data da década de 1990, nas gestões de um desenho\nurbano que sugere, segundo suas palavras, “que só somos\ncidadãos se estamos trabalhando ou consumindo bens diretamente”.\n(Juliana Sayuri. www.nexojornal.com.br, 28.12.2023.)\nO excerto retrata um fenômeno social brasileiro que representa",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a reformulação de mecanismos de democratização do\nespaço público.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a manutenção da cultura de estranhamento e de segregação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o fortalecimento do viés tradicional do exercício da cidadania.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o desafio de políticas públicas para a garantia de emprego formal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a anulação da oportunidade de socialização entre indivíduos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Arquitetura hostil” refere-se a estratégias de design ur-\nbano que utilizam elementos para restringir certos compor-\ntamentos nos espaços públicos, dificultando o acesso e a\npresença de pessoas, especialmente pessoas em situação\nde rua. [...] Segundo o historiador especializado em arquite-\ntura Iain Borden, [...] a emergência deste estilo de arquitetura\nhostil data da década de 1990, nas gestões de um desenho\nurbano que sugere, segundo suas palavras, “que só somos\ncidadãos se estamos trabalhando ou consumindo bens dire-\ntamente”.\n(Juliana Sayuri. www.nexojornal.com.br, 28.12.2023.)\nO excerto retrata um fenômeno social brasileiro que repre-\nsenta\n(A) a reformulação de mecanismos de democratização do\nespaço público.\n(B) a manutenção da cultura de estranhamento e de segre-\ngação.\n(C) o fortalecimento do viés tradicional do exercício da cida-\ndania.\n(D) o desafio de políticas públicas para a garantia de em-\nprego formal.\n(E) a anulação da oportunidade de socialização entre indi-\nvíduos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            391.64459999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 70 - UNICAMP 2023 - 1ª fase",
+  "index": 70,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "COVID AND SMELL LOSS: SOME ANSWERS EMERGE\nResearchers are making headway in understanding\nhow coronavirus causes loss of smell. Several potential\ntreatments to tackle the condition are undergoing clinical\ntrials, including steroids and blood plasma. Recently, a study\nsurveyed 616,318 people in the United States who have\nhad COVID-19. It found that, compared with those who\nhad been infected with the original virus, people who had\ncontracted the Alpha variant were 50% as likely to have\nchemosensory disruption. This probability fell to 44% for\nthe Delta variant, and to 17% for Omicron. However, a\nsignificant portion of people infected early in the pandemic\nstill experience chemosensory effects. A 2021 study followed\n100 people who had had mild cases of COVID-19 and 100\npeople who repeatedly tested negative. More than a year\nafter their infections, 46% of those who had had COVID-19\nstill had smell problems; by contrast, just 10% of the control\ngroup had developed some smell loss, but for other reasons.\nFurthermore, 7% of those who had been infected still had\ntotal smell loss, or ‘anosmia’, at the end of the year. Given\nthat more than 500 million cases of COVID-19 have been\nconfirmed worldwide, tens of millions of people probably\nhave lingering smell problems.\n(Adaptado de: https://www.nature.com/articles/d41586-022-01589-z. Acesso em\n22/06/2022.)\nSegundo o texto,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o percentual de pessoas infectadas pelo coronavírus a apresentarem problemas de olfato vem aumentando à medida\nque o vírus evolui.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "esteroides e plasma sanguíneo são tipos de tratamentos eficazes contra a perda de olfato após infecção por coronavírus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a perda total de olfato, chamada de “anosmia”, ainda estava presente, em 2021, em 7% das pessoas infectadas por\ncoronavírus no começo da pandemia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "problemas olfativos provavelmente persistem em 500 milhões de pessoas que foram infectadas pelo coronavírus.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "COVID AND SMELL LOSS: SOME ANSWERS EMERGE\nResearchers are making headway in understanding\nhow coronavirus causes loss of smell. Several potential\ntreatments to tackle the condition are undergoing clinical\ntrials, including steroids and blood plasma. Recently, a study\nsurveyed 616,318 people in the United States who have\nhad COVID-19. It found that, compared with those who\nhad been infected with the original virus, people who had\ncontracted the Alpha variant were 50% as likely to have\nchemosensory disruption. This probability fell to 44% for\nthe Delta variant, and to 17% for Omicron. However, a\nsignificant portion of people infected early in the pandemic\nstill experience chemosensory effects. A 2021 study followed\n100 people who had had mild cases of COVID-19 and 100\npeople who repeatedly tested negative. More than a year\nafter their infections, 46% of those who had had COVID-19\nstill had smell problems; by contrast, just 10% of the control\ngroup had developed some smell loss, but for other reasons.\nFurthermore, 7% of those who had been infected still had\ntotal smell loss, or ‘anosmia’, at the end of the year. Given\nthat more than 500 million cases of COVID-19 have been\nconfirmed worldwide, tens of millions of people probably\nhave lingering smell problems.\n(Adaptado de: https://www.nature.com/articles/d41586-022-01589-z. Acesso em\n22/06/2022.)\nSegundo o texto,\na) o percentual de pessoas infectadas pelo coronavírus a apre-\nsentarem problemas de olfato vem aumentando à medida\nque o vírus evolui.\nb) esteroides e plasma sanguíneo são tipos de tratamentos efi-\ncazes contra a perda de olfato após infecção por coronavírus.\nc) a perda total de olfato, chamada de “anosmia”, ainda es-\ntava presente, em 2021, em 7% das pessoas infectadas por\ncoronavírus no começo da pandemia.\nd) problemas olfativos provavelmente persistem em 500 mi-\nlhões de pessoas que foram infectadas pelo coronavírus.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            380.0694,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            40,
+            291,
+            200.60310000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

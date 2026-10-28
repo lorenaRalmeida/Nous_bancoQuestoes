@@ -1,0 +1,90 @@
+{
+  "title": "Questão 2 - FUVEST 2023 - 1ª fase",
+  "index": 2,
+  "year": 2023,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "“O voto feminino no Brasil completou 90 anos. Desde que\na professora Celina Guimarães se alistou para votar em\nMossoró, em 1927, e Alzira Soriano, primeira mulher eleita\npara um cargo público no país, assumiu a Prefeitura de Lajes,\nem 1929, ambos municípios do Rio Grande do Norte, muita\ncoisa mudou. Em que pesem os avanços legais, o cenário\nnacional segue desfavorável, e a participação das mulheres na\npolítica ainda é irrisória considerando-se o perfil demográfico\nbrasileiro. Mulheres somam 52% dos votantes, mas\nrepresentam apenas 15% dos parlamentares do Congresso. A\nmaioria da população feminina é negra, ao contrário da\nparlamentar, que é majoritariamente não negra. Indígena,\napenas uma. Verdade que o percentual de participação\nfeminina na Câmara e no Senado cresceu na comparação com\nlegislaturas anteriores. Ainda assim, é pouco. Na prática, a\npolítica no Brasil é feita por homens brancos. Dados da União\nInterparlamentar, que reúne países ligados à ONU, colocam o\nBrasil na posição 145º do ranking Mulheres nos Parlamentos\nNacionais. Numa nação onde em 2021 quatro mulheres foram\nvítimas de feminicídio por dia, e os casos de estupro voltaram\na crescer, já passou da hora de usar a via democrática para\ntentar mudar esse cenário. É necessário que as mulheres\nassumam o protagonismo nesse pleito, reivindiquem cabeças\nde chapas majoritárias e exijam transparência na distribuição\ndos recursos do fundo partidário. Claro que não há garantias\nde transformação, mas pode ser uma bela oportunidade de\nao menos dar uma sacolejada no jogo e incluir em pauta a\ndiscussão de alguns problemas reais do Brasil”.\nROSA, Ana Cristina. “Com mulheres na cabeça”. Folha de S. Paulo.\n27.02.2022. Adaptado.\nÉ correto afirmar que o cenário nacional ao qual se refere a\nautora do texto",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dispôs equitativamente as legislaturas, ainda que sem\nafetar a participação das mulheres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sofreu um expressivo retrocesso quanto à participação das\nmulheres na política.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "alterou-se ao longo da história do Brasil, porém não\nconsolidou significativamente a atuação das mulheres na\npolítica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "adequou-se ao perfil demográfico brasileiro, embora sem\nalçar o país a boas posições nos rankings de mulheres na\npolítica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estruturou-se por meio de vias democráticas, visto que\npossibilitou a discussão de problemas relacionados a\nfundos partidários.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“O voto feminino no Brasil completou 90 anos. Desde que\na professora Celina Guimarães se alistou para votar em\nMossoró, em 1927, e Alzira Soriano, primeira mulher eleita\npara um cargo público no país, assumiu a Prefeitura de Lajes,\nem 1929, ambos municípios do Rio Grande do Norte, muita\ncoisa mudou. Em que pesem os avanços legais, o cenário\nnacional segue desfavorável, e a participação das mulheres na\npolítica ainda é irrisória considerando-se o perfil demográfico\nbrasileiro. Mulheres somam 52% dos votantes, mas\nrepresentam apenas 15% dos parlamentares do Congresso. A\nmaioria da população feminina é negra, ao contrário da\nparlamentar, que é majoritariamente não negra. Indígena,\napenas uma. Verdade que o percentual de participação\nfeminina na Câmara e no Senado cresceu na comparação com\nlegislaturas anteriores. Ainda assim, é pouco. Na prática, a\npolítica no Brasil é feita por homens brancos. Dados da União\nInterparlamentar, que reúne países ligados à ONU, colocam o\nBrasil na posição 145º do ranking Mulheres nos Parlamentos\nNacionais. Numa nação onde em 2021 quatro mulheres foram\nvítimas de feminicídio por dia, e os casos de estupro voltaram\na crescer, já passou da hora de usar a via democrática para\ntentar mudar esse cenário. É necessário que as mulheres\nassumam o protagonismo nesse pleito, reivindiquem cabeças\nde chapas majoritárias e exijam transparência na distribuição\ndos recursos do fundo partidário. Claro que não há garantias\nde transformação, mas pode ser uma bela oportunidade de\nao menos dar uma sacolejada no jogo e incluir em pauta a\ndiscussão de alguns problemas reais do Brasil”.\nROSA, Ana Cristina. “Com mulheres na cabeça”. Folha de S. Paulo.\n27.02.2022. Adaptado.\nÉ correto afirmar que o cenário nacional ao qual se refere a\nautora do texto\n(A) dispôs equitativamente as legislaturas, ainda que sem\nafetar a participação das mulheres.\n(B) sofreu um expressivo retrocesso quanto à participação das\nmulheres na política.\n(C) alterou-se ao longo da história do Brasil, porém não\nconsolidou significativamente a atuação das mulheres na\npolítica.\n(D) adequou-se ao perfil demográfico brasileiro, embora sem\nalçar o país a boas posições nos rankings de mulheres na\npolítica.\n(E) estruturou-se por meio de vias democráticas, visto que\npossibilitou a discussão de problemas relacionados a\nfundos partidários.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 2,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            649.7347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "topic": "Representatividade política das mulheres",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

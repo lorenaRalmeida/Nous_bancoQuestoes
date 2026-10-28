@@ -1,0 +1,98 @@
+{
+  "title": "Questão 65 - UNESP 2025 - 1ª fase",
+  "index": 65,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Haenyeos (mulheres do mar em coreano) são as famosas mergulhadoras da Ilha de Jeju, no sul da Coreia do Sul.\nEstas mulheres, hoje com idade entre 65 e 90 anos, seguem\na antiga tradição de coletar frutos do mar, atingindo profundidades de até 12 metros apenas com o ar dos pulmões. Esse\ntrabalho é uma das formas de sustentar as famílias dessas\nmulheres que são reconhecidas pela Unesco como Patrimônio Cultural Imaterial da Humanidade.\n(www.comes.com.br. Adaptado.)\nAntes de mergulhar, as Haenyeos devem os músculos intercostais e o diafragma para encher os pulmões com\nar. Durante o mergulho, o valor do pH sanguíneo e,\nao retornarem à superfície, o promove o aumento\nda frequência respiratória das Haenyeos.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "contrair – aumenta – cerebelo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "relaxar – diminui – cerebelo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "relaxar – aumenta – bulbo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "relaxar – aumenta – cerebelo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "contrair – diminui – bulbo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Haenyeos (mulheres do mar em coreano) são as famo-\nsas mergulhadoras da Ilha de Jeju, no sul da Coreia do Sul.\nEstas mulheres, hoje com idade entre 65 e 90 anos, seguem\na antiga tradição de coletar frutos do mar, atingindo profundi-\ndades de até 12 metros apenas com o ar dos pulmões. Esse\ntrabalho é uma das formas de sustentar as famílias dessas\nmulheres que são reconhecidas pela Unesco como Patrimô-\nnio Cultural Imaterial da Humanidade.\n(www.comes.com.br. Adaptado.)\nAntes de mergulhar, as Haenyeos devem os mús-\nculos intercostais e o diafragma para encher os pulmões com\nar. Durante o mergulho, o valor do pH sanguíneo e,\nao retornarem à superfície, o promove o aumento\nda frequência respiratória das Haenyeos.\nAs lacunas do texto são preenchidas, respectivamente, por:\n(A) contrair – aumenta – cerebelo.\n(B) relaxar – diminui – cerebelo.\n(C) relaxar – aumenta – bulbo.\n(D) relaxar – aumenta – cerebelo.\n(E) contrair – diminui – bulbo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            439.64459999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

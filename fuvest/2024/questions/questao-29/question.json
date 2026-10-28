@@ -1,0 +1,98 @@
+{
+  "title": "Questão 29 - FUVEST 2024 - 1ª fase",
+  "index": 29,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Fogareiros abastecidos com pequenos botijões de gás são\nequipamentos corriqueiros em trilhas e escaladas de duração\nprolongada para possibilitar o cozimento de alimentos. Em\ngeral, esses botijões são abastecidos com propano, isobutano\nou n-butano. A tabela mostra a temperatura de ebulição e o\ncalor liberado na combustão desses três gases, à pressão\natmosférica.\nCalor liberadona\nTemperatura de\ncombustão\nebulição\n(kcal/m3 de substância\n(°C)\nna fase gasosa)\nPropano −42 5065\nIsobutano −12 8211\nn-Butano −1 8411\nCom base nessas informações, qual seria o gás mais indicado\npara a utilização em um ambiente com temperatura típica de\n−6 °C, considerando a viabilidade e o consumo de gás\nnecessário para o preparo de alimentos?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Propano, por estar líquido em −6 °C e, dentre as\nsubstâncias líquidas nessa temperatura, sua combustão\nfornecer mais calor por volume de gás.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Isobutano, por estar gasoso em −6 °C e, dentre as\nsubstâncias gasosas nessa temperatura, sua combustão\nfornecer mais calor por volume de gás.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "n-Butano, por estar gasoso em −6 °C e, dentre as\nsubstâncias gasosas nessa temperatura, sua combustão\nfornecer mais calor por volume de gás.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "n-Butano, por estar líquido em −6 °C e, dentre as\nsubstâncias gasosas nessa temperatura, sua combustão\nfornecer menos calor por volume de gás.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Isobutano, por estar gasoso em −6 °C e, dentre as\nsubstâncias gasosas nessa temperatura, sua combustão\nfornecer menos calor por volume de gás.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Fogareiros abastecidos com pequenos botijões de gás são\nequipamentos corriqueiros em trilhas e escaladas de duração\nprolongada para possibilitar o cozimento de alimentos. Em\ngeral, esses botijões são abastecidos com propano, isobutano\nou n-butano. A tabela mostra a temperatura de ebulição e o\ncalor liberado na combustão desses três gases, à pressão\natmosférica.\nCalor liberadona\nTemperatura de\ncombustão\nebulição\n(kcal/m3 de substância\n(°C)\nna fase gasosa)\nPropano −42 5065\nIsobutano −12 8211\nn-Butano −1 8411\nCom base nessas informações, qual seria o gás mais indicado\npara a utilização em um ambiente com temperatura típica de\n−6 °C, considerando a viabilidade e o consumo de gás\nnecessário para o preparo de alimentos?\n(A) Propano, por estar líquido em −6 °C e, dentre as\nsubstâncias líquidas nessa temperatura, sua combustão\nfornecer mais calor por volume de gás.\n(B) Isobutano, por estar gasoso em −6 °C e, dentre as\nsubstâncias gasosas nessa temperatura, sua combustão\nfornecer mais calor por volume de gás.\n(C) n-Butano, por estar gasoso em −6 °C e, dentre as\nsubstâncias gasosas nessa temperatura, sua combustão\nfornecer mais calor por volume de gás.\n(D) n-Butano, por estar líquido em −6 °C e, dentre as\nsubstâncias gasosas nessa temperatura, sua combustão\nfornecer menos calor por volume de gás.\n(E) Isobutano, por estar gasoso em −6 °C e, dentre as\nsubstâncias gasosas nessa temperatura, sua combustão\nfornecer menos calor por volume de gás.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Propriedades de gases combustíveis",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

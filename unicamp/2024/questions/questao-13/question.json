@@ -1,0 +1,94 @@
+{
+  "title": "Questão 13 - UNICAMP 2024 - 1ª fase",
+  "index": 13,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Estudos, publicados na Nature Geoscience e na revista Science,\napontam para a queda acentuada das temperaturas na Europa\ne na Ásia a partir do ano de 536, gerando a chamada “Pequena Idade do Gelo da Antiguidade Tardia”. As mudanças nas\ntemperaturas podem ter sido causadas por erupções vulcânicas, cujos efeitos foram reforçados pelas correntes oceânicas,\npela expansão do gelo e pela coincidência de um mínimo solar\n(século VI). A conjugação desses fatores teria gerado mudanças\nefetivas na história, já que a agricultura e a pastagem teriam\nsido diretamente atingidas. Exemplos dessas relações entre o\nclima e a história humana podem ser encontrados na Antiguidade, como a invasão da Europa por vários povos das estepes,\na queda do segundo império persa, a entrada dos turcos na\nAnatólia, o início da expansão árabe, entre outros.\n(Adaptado de: CRIADO, M.l Á. “Uma pequena ‘idade do gelo’ pode ter mudado a história\nda Antiguidade (...)”. El País, fev, 2016.)\nCom base em seus conhecimentos sobre a Antiguidade e tendo\nem vista o excerto anterior, é correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a história do planeta Terra e a história humana são indissociáveis; eventos do século VI são bons exemplos disso:\nmudanças nos ecossistemas teriam gerado peste, fome e\nescassez, levando aos deslocamentos de povos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a “Pequena Idade do Gelo da Antiguidade Tardia”, assim\ncomo as mudanças climáticas dos séculos XX e XXI, foram\nprovocadas, em especial, pela ação humana e também pelas\nmudanças nas paisagens dos campos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os efeitos das mudanças climáticas no passado eram locais;\nos eventos históricos citados se desconectavam das mudanças nos ecossistemas encontrados na Europa e na Ásia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os estudos sobre as mudanças nas temperaturas no século VI apresentam uma visão sobre o passado, destacando\ncomo grupamentos humanos controlavam as mudanças na\nnatureza.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Estudos, publicados na Nature Geoscience e na revista Science,\napontam para a queda acentuada das temperaturas na Europa\ne na Ásia a partir do ano de 536, gerando a chamada “Peque-\nna Idade do Gelo da Antiguidade Tardia”. As mudanças nas\ntemperaturas podem ter sido causadas por erupções vulcâni-\ncas, cujos efeitos foram reforçados pelas correntes oceânicas,\npela expansão do gelo e pela coincidência de um mínimo solar\n(século VI). A conjugação desses fatores teria gerado mudanças\nefetivas na história, já que a agricultura e a pastagem teriam\nsido diretamente atingidas. Exemplos dessas relações entre o\nclima e a história humana podem ser encontrados na Antigui-\ndade, como a invasão da Europa por vários povos das estepes,\na queda do segundo império persa, a entrada dos turcos na\nAnatólia, o início da expansão árabe, entre outros.\n(Adaptado de: CRIADO, M.l Á. “Uma pequena ‘idade do gelo’ pode ter mudado a história\nda Antiguidade (...)”. El País, fev, 2016.)\nCom base em seus conhecimentos sobre a Antiguidade e tendo\nem vista o excerto anterior, é correto afirmar que\na) a história do planeta Terra e a história humana são indis-\nsociáveis; eventos do século VI são bons exemplos disso:\nmudanças nos ecossistemas teriam gerado peste, fome e\nescassez, levando aos deslocamentos de povos.\nb) a “Pequena Idade do Gelo da Antiguidade Tardia”, assim\ncomo as mudanças climáticas dos séculos XX e XXI, foram\nprovocadas, em especial, pela ação humana e também pelas\nmudanças nas paisagens dos campos.\nc) os efeitos das mudanças climáticas no passado eram locais;\nos eventos históricos citados se desconectavam das mudan-\nças nos ecossistemas encontrados na Europa e na Ásia.\nd) os estudos sobre as mudanças nas temperaturas no sécu-\nlo VI apresentam uma visão sobre o passado, destacando\ncomo grupamentos humanos controlavam as mudanças na\nnatureza.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            387.2016,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            40,
+            291,
+            111.6567
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Questão 31 - UNICAMP 2026 - 1ª fase",
+  "index": 31,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Em 1937, um golpe de Estado instaurou o Estado Novo no Brasil, um regime autoritário. Diferentes leituras do golpe de Vargas foram publicadas no jornal The New York Times, ilustrando\no impacto difuso daquele evento na imprensa. De um lado, escrevendo da Argentina, o chefe dos correspondentes na América Latina, John White, afirmou o caráter “pseudo-fascista” do\nmovimento, registrando a atuação dos censores sobre o trabalho dos correspondentes internacionais que atuavam no Brasil.\nWhite destacava o apoio alemão ao novo regime brasileiro e\nos desafios de centralizar o poder nas mãos de Getúlio Vargas.\nDe outro lado, Frank Garcia, correspondente do The New York\nTimes, que atuava então no Brasil, comentou:\nEu posso dizer que, embora tenha havido censura, eu não tive\ndificuldades em enviar matérias ao The New York Times. Elas foram telegrafadas sem nenhum problema. Essa nova Constituição configura o Estado um tanto fascista, mas não inteiramente. É mais democrático que fascista. Na verdade, é nacionalista.\n(Adaptado de LINS, L.F.T. de S. Notícias de falsos vendavais: o golpe do Estado Novo de\n1937 e o discurso de junho de 1940 nos jornais estadunidenses. História: Debates e\nTendências, vol. 19, n. 2, p. 332-351, 2019.)\nSobre a repercussão internacional do Golpe do Estado Novo no\nexterior, podemos afirmar que havia",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "percepção unânime do pleno alinhamento ideológico do\nBrasil com governos fascistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "condenação ao fascismo e sugestão de sanções econômicas\nem razão do apoio alemão a Vargas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "controvérsias e ambiguidades na caracterização ideológica\ndo novo governo Vargas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "estratégias de resistência à censura imposta aos jornalistas\nque atuavam no Brasil.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em 1937, um golpe de Estado instaurou o Estado Novo no Bra-\nsil, um regime autoritário. Diferentes leituras do golpe de Var-\ngas foram publicadas no jornal The New York Times, ilustrando\no impacto difuso daquele evento na imprensa. De um lado, es-\ncrevendo da Argentina, o chefe dos correspondentes na Amé-\nrica Latina, John White, afirmou o caráter “pseudo-fascista” do\nmovimento, registrando a atuação dos censores sobre o traba-\nlho dos correspondentes internacionais que atuavam no Brasil.\nWhite destacava o apoio alemão ao novo regime brasileiro e\nos desafios de centralizar o poder nas mãos de Getúlio Vargas.\nDe outro lado, Frank Garcia, correspondente do The New York\nTimes, que atuava então no Brasil, comentou:\nEu posso dizer que, embora tenha havido censura, eu não tive\ndificuldades em enviar matérias ao The New York Times. Elas fo-\nram telegrafadas sem nenhum problema. Essa nova Constitui-\nção configura o Estado um tanto fascista, mas não inteiramen-\nte. É mais democrático que fascista. Na verdade, é nacionalista.\n(Adaptado de LINS, L.F.T. de S. Notícias de falsos vendavais: o golpe do Estado Novo de\n1937 e o discurso de junho de 1940 nos jornais estadunidenses. História: Debates e\nTendências, vol. 19, n. 2, p. 332-351, 2019.)\nSobre a repercussão internacional do Golpe do Estado Novo no\nexterior, podemos afirmar que havia\na) percepção unânime do pleno alinhamento ideológico do\nBrasil com governos fascistas.\nb) condenação ao fascismo e sugestão de sanções econômicas\nem razão do apoio alemão a Vargas.\nc) controvérsias e ambiguidades na caracterização ideológica\ndo novo governo Vargas.\nd) estratégias de resistência à censura imposta aos jornalistas\nque atuavam no Brasil.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            219.80319999999995,
+            291,
+            647.8348
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

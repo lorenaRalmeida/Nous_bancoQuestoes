@@ -1,0 +1,98 @@
+{
+  "title": "Questão 8 - UNESP 2024 - 1ª fase",
+  "index": 8,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões 07 e 08, leia a letra da canção\n“Foi um rio que passou em minha vida”, de Paulinho da Viola,\ngravada em 1970.\nSe um dia\nMeu coração for consultado\nPara saber se andou errado\nSerá difícil negar\nMeu coração tem mania de amor\nAmor não é fácil de achar\nA marca dos meus desenganos ficou, ficou\nSó um amor pode apagar\nPorém\nHá um caso diferente\nQue marcou um breve tempo\nMeu coração para sempre\nEra dia de carnaval\nEu carregava uma tristeza\nNão pensava em novo amor\nQuando alguém que não me lembro anunciou\nPortela 1, Portela\nO samba trazendo alvorada\nMeu coração conquistou\nAh, minha Portela\nQuando vi você passar\nSenti meu coração apressado\nTodo o meu corpo tomado\nMinha alegria a voltar\nNão posso definir aquele azul\nNão era do céu\nNem era do mar\nFoi um rio que passou em minha vida\nE meu coração se deixou levar\n(www.paulinhodaviola.com.br)\n1 Grêmio Recreativo Escola de Samba Portela (ou simplesmente\nPortela): escola de samba brasileira da cidade do Rio de Janeiro que\nadota como símbolo a águia e as cores azul e branco.\n\nConsiderando o contexto em que se insere, está reescrito em\nordem direta o seguinte verso da canção:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“Meu coração conquistou” (2a estrofe) → conquistou meu\ncoração",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "“Meu coração for consultado” (1a estrofe) → for consultado meu coração",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“Só um amor pode apagar” (1a estrofe) → pode apagar\nsó um amor",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“Há um caso diferente” (2a estrofe) → um caso diferente\nhá",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“Senti meu coração apressado” (3a estrofe) → meu coração senti apressado",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considerando o contexto em que se insere, está reescrito em\nordem direta o seguinte verso da canção:\n(A) “Meu coração conquistou” (2a estrofe) → conquistou meu\ncoração\n(B) “Meu coração for consultado” (1a estrofe) → for consulta-\ndo meu coração\n(C) “Só um amor pode apagar” (1a estrofe) → pode apagar\nsó um amor\n(D) “Há um caso diferente” (2a estrofe) → um caso diferente\nhá\n(E) “Senti meu coração apressado” (3a estrofe) → meu cora-\nção senti apressado",
+    "sharedContext": "Para responder às questões 07 e 08, leia a letra da canção\n“Foi um rio que passou em minha vida”, de Paulinho da Viola,\ngravada em 1970.\nSe um dia\nMeu coração for consultado\nPara saber se andou errado\nSerá difícil negar\nMeu coração tem mania de amor\nAmor não é fácil de achar\nA marca dos meus desenganos ficou, ficou\nSó um amor pode apagar\nPorém\nHá um caso diferente\nQue marcou um breve tempo\nMeu coração para sempre\nEra dia de carnaval\nEu carregava uma tristeza\nNão pensava em novo amor\nQuando alguém que não me lembro anunciou\nPortela 1, Portela\nO samba trazendo alvorada\nMeu coração conquistou\nAh, minha Portela\nQuando vi você passar\nSenti meu coração apressado\nTodo o meu corpo tomado\nMinha alegria a voltar\nNão posso definir aquele azul\nNão era do céu\nNem era do mar\nFoi um rio que passou em minha vida\nE meu coração se deixou levar\n(www.paulinhodaviola.com.br)\n1 Grêmio Recreativo Escola de Samba Portela (ou simplesmente\nPortela): escola de samba brasileira da cidade do Rio de Janeiro que\nadota como símbolo a águia e as cores azul e branco.",
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            559.5155
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            253.14070000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

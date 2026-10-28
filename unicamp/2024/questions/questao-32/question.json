@@ -1,0 +1,94 @@
+{
+  "title": "Questão 32 - UNICAMP 2024 - 1ª fase",
+  "index": 32,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Por se situar em uma região limítrofe entre diferentes placas\ntectônicas, a Turquia tem histórico de terremotos de grande\nmagnitude e poder destrutivo. Em 1939, um terremoto de\nmagnitude 7,8 provocou a morte de cerca de 30.000 pessoas.\nEm fevereiro de 2023, registrou-se um terremoto de magnitude\n7,8 às 4h17 (horário local) e, nove horas depois, registrou-se\nnovo abalo sísmico, dessa vez de magnitude 7,6, o que levou\n50.000 pessoas à morte.\nA figura a seguir mostra a localização do sistema de falhas da\nplaca da Anatólia e indica as áreas atingidas pelos respectivos\nterremotos.\n(How the February 2023 Türkiye Earthquakes Ruptured and Produced Damaging Shaking.\nDisponível em: https://www.seismosoc.org/news/how-the-february-2023-turkiye-earthquakes-ruptured-and-produced-damaging-shaking/. Acesso em 12/06/2023.)\nOs tremores de 1939 e de 2023 foram gerados, respectivamente, pelo deslocamento entre a Placa da Anatólia e as placas",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Euroasiática e Arábica; o sentido de deslocamento das placas forma falhas transcorrentes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Indiana e Africana; o sentido de deslocamento forma falhas\nnormais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Arábica e Euroasiática; o sentido de deslocamento das placas forma falhas normais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Africana e Indiana; o sentido de deslocamento forma falhas\ntranscorrentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Por se situar em uma região limítrofe entre diferentes placas\ntectônicas, a Turquia tem histórico de terremotos de grande\nmagnitude e poder destrutivo. Em 1939, um terremoto de\nmagnitude 7,8 provocou a morte de cerca de 30.000 pessoas.\nEm fevereiro de 2023, registrou-se um terremoto de magnitude\n7,8 às 4h17 (horário local) e, nove horas depois, registrou-se\nnovo abalo sísmico, dessa vez de magnitude 7,6, o que levou\n50.000 pessoas à morte.\nA figura a seguir mostra a localização do sistema de falhas da\nplaca da Anatólia e indica as áreas atingidas pelos respectivos\nterremotos.\n(How the February 2023 Türkiye Earthquakes Ruptured and Produced Damaging Shaking.\nDisponível em: https://www.seismosoc.org/news/how-the-february-2023-turkiye-earth-\nquakes-ruptured-and-produced-damaging-shaking/. Acesso em 12/06/2023.)\nOs tremores de 1939 e de 2023 foram gerados, respectivamen-\nte, pelo deslocamento entre a Placa da Anatólia e as placas\na) Euroasiática e Arábica; o sentido de deslocamento das pla-\ncas forma falhas transcorrentes.\nb) Indiana e Africana; o sentido de deslocamento forma falhas\nnormais.\nc) Arábica e Euroasiática; o sentido de deslocamento das pla-\ncas forma falhas normais.\nd) Africana e Indiana; o sentido de deslocamento forma falhas\ntranscorrentes.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            289.61109999999996,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            40,
+            568,
+            92.29139999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

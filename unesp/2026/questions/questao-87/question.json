@@ -1,0 +1,149 @@
+{
+  "title": "Questão 87 - UNESP 2026 - 1ª fase",
+  "index": 87,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A figura indica o pentágono UNESP, formado pelo quadrado\nUNSP e pelo triângulo equilátero NES, que compartilham o\nlado NS, de medida igual a 4 cm. Sabe-se, ainda, que a circunferência indicada na figura possui centro N e tangencia SE no ponto T.\nAdotando π/(4 + √3) = 0,548, da região do pentágono UNESP,\naquela que está ocupada pelo setor circular de centro N,\nindicado na figura em azul, corresponde a",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "68,5%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "66,5%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "70,5%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "72,5%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "74,5%.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura indica o pentágono UNESP, formado pelo quadrado\nUNSP e pelo triângulo equilátero NES, que compartilham o\nlado , de medida igual a 4 cm. Sabe-se, ainda, que a cir-\ncunferência indicada na figura possui centro N e tangencia\nno ponto T.\nAdotando , da região do pentágono UNESP,\naquela que está ocupada pelo setor circular de centro N,\nindicado na figura em azul, corresponde a\n(A) 68,5%.\n(B) 66,5%.\n(C) 70,5%.\n(D) 72,5%.\n(E) 74,5%.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 37,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 37,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 37,
+        "bbox": [
+          48.3511,
+          65.27919999999995,
+          76.3681,
+          90.79819999999995
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 37,
+        "bbox": [
+          270.188,
+          79.96389999999997,
+          291,
+          105.4828
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 37,
+        "bbox": [
+          82.35000000000001,
+          113.71100000000001,
+          242.58489999999998,
+          269.98699999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 37,
+        "bbox": [
+          71.09809999999999,
+          264.847,
+          148.45159999999998,
+          300.42470000000003
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

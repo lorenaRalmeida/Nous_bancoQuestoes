@@ -1,0 +1,92 @@
+{
+  "title": "Questão 2 - UNICAMP 2023 - 1ª fase",
+  "index": 2,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Papo Preto: Vamos falar sobre transfeminismo?\nNeste episódio do podcast Papo Preto, o apresentador Yago Rodrigues e a cinegrafista Débora Oliveira recebem Jarda Maria,\nque se tornou símbolo da luta pelos direitos das transexuais em\nRecife após ingressar na Universidade Federal de Pernambuco.\nEla fala sobre os desafios de ocupar e se manter no ambiente\nacadêmico e da importância de compreender o que é o transfeminismo.\nJarda explica que o conceito de transfeminismo ou feminismo\ntrans surge nos EUA quando foi percebido que as pautas discutidas no feminismo não abarcavam a situação das mulheres\ntrans e travestis. Ela diz que há muita cobrança em cima da\ncomunidade de transexuais e travestis sobre os motivos e as\ncausas da violência que sofrem todos os dias, mas as respostas\ndevem partir da sociedade, que deve praticar a não violência e\ndar exemplos.\n“Nós já estamos preocupadas em pensar esses meios de sobrevivência, que as pessoas que movimentam a transfobia pensem\nos movimentos de enfrentamento. A transfobia e a travestifobia\nsão problemáticas cisgêneras e não nossa. Nós somos vítimas\ndesse processo”, afirma Jarda.\n(PAPO PRETO 69: Vamos falar sobre transfeminismo? [Locução de] Yago Rodrigues.\nS. I. Ecoa Produções, 09/03/2020. Podcast. Disponível em https://uol.com.br/ecoa/videos/2022/03/09/papo-preto-69-vamos-falar-sobre-transfeminism0.htm. Acesso em\n20/10/2022.)\nSobre as ocorrências do item trans no texto, podemos afirmar\nque",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "introduzem termos como transfeminismo e transfobia, que\nservem para conceituar tipos de violência contra mulheres\ntrans.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o seu emprego em transfeminismo indica que a pauta feminista já se estende às mulheres trans, mas ainda exclui as\ntravestis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "é empregado como antônimo do prefixo cis- para indicar\nque a transfobia e a travestifobia devem preocupar apenas\nas pessoas cisgêneras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "remete a transexuais e travestis no termo feminismo trans,\nque é sinônimo de transfeminismo e abrange grupos não\nincluídos na pauta feminista.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Papo Preto: Vamos falar sobre transfeminismo?\nNeste episódio do podcast Papo Preto, o apresentador Yago Ro-\ndrigues e a cinegrafista Débora Oliveira recebem Jarda Maria,\nque se tornou símbolo da luta pelos direitos das transexuais em\nRecife após ingressar na Universidade Federal de Pernambuco.\nEla fala sobre os desafios de ocupar e se manter no ambiente\nacadêmico e da importância de compreender o que é o trans-\nfeminismo.\nJarda explica que o conceito de transfeminismo ou feminismo\ntrans surge nos EUA quando foi percebido que as pautas dis-\ncutidas no feminismo não abarcavam a situação das mulheres\ntrans e travestis. Ela diz que há muita cobrança em cima da\ncomunidade de transexuais e travestis sobre os motivos e as\ncausas da violência que sofrem todos os dias, mas as respostas\ndevem partir da sociedade, que deve praticar a não violência e\ndar exemplos.\n“Nós já estamos preocupadas em pensar esses meios de sobre-\nvivência, que as pessoas que movimentam a transfobia pensem\nos movimentos de enfrentamento. A transfobia e a travestifobia\nsão problemáticas cisgêneras e não nossa. Nós somos vítimas\ndesse processo”, afirma Jarda.\n(PAPO PRETO 69: Vamos falar sobre transfeminismo? [Locução de] Yago Rodrigues.\nS. I. Ecoa Produções, 09/03/2020. Podcast. Disponível em https://uol.com.br/ecoa/vi-\ndeos/2022/03/09/papo-preto-69-vamos-falar-sobre-transfeminism0.htm. Acesso em\n20/10/2022.)\nSobre as ocorrências do item trans no texto, podemos afirmar\nque\na) introduzem termos como transfeminismo e transfobia, que\nservem para conceituar tipos de violência contra mulheres\ntrans.\nb) o seu emprego em transfeminismo indica que a pauta fe-\nminista já se estende às mulheres trans, mas ainda exclui as\ntravestis.\nc) é empregado como antônimo do prefixo cis- para indicar\nque a transfobia e a travestifobia devem preocupar apenas\nas pessoas cisgêneras.\nd) remete a transexuais e travestis no termo feminismo trans,\nque é sinônimo de transfeminismo e abrange grupos não\nincluídos na pauta feminista.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            676.5751,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            40,
+            568,
+            503.3764
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 61 - FUVEST 2023 - 1ª fase",
+  "index": 61,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A figura a seguir mostra indivíduos de uma espécie de erva\ndaninha ao longo de um trajeto de aproximadamente 100 km,\ndesde uma área urbanizada (na porção inferior esquerda, em\ntons de rosa) até uma área de floresta (na porção superior\ndireita, em tons de verde). Essas áreas urbanizadas e de\nfloresta estão separadas por uma linha tracejada branca. As\nervas daninhas amarelas são aquelas que produzem um\ncomposto que age como defesa química contra a herbivoria.\nAs ervas daninhas azuis não produzem esse composto.\nSANTANGELO et al. 2022. “Global urban environmental change drives\nadaptation in white clover”. Science, 375 (6586): 1275-1281. Adaptado.\nCom base nas informações fornecidas, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Há menor herbivoria sobre essa população em áreas\nurbanas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Há uma abundância maior de insetos herbívoros em áreas\nurbanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Essa espécie de erva daninha não consegue sobreviver em\náreas de florestas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Há competição interespecífica entre os indivíduos que\nproduzem ou não o composto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A produção ou não do composto corresponde a duas\nespécies diferentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A figura a seguir mostra indivíduos de uma espécie de erva\ndaninha ao longo de um trajeto de aproximadamente 100 km,\ndesde uma área urbanizada (na porção inferior esquerda, em\ntons de rosa) até uma área de floresta (na porção superior\ndireita, em tons de verde). Essas áreas urbanizadas e de\nfloresta estão separadas por uma linha tracejada branca. As\nervas daninhas amarelas são aquelas que produzem um\ncomposto que age como defesa química contra a herbivoria.\nAs ervas daninhas azuis não produzem esse composto.\nSANTANGELO et al. 2022. “Global urban environmental change drives\nadaptation in white clover”. Science, 375 (6586): 1275-1281. Adaptado.\nCom base nas informações fornecidas, é correto afirmar:\n(A) Há menor herbivoria sobre essa população em áreas\nurbanas.\n(B) Há uma abundância maior de insetos herbívoros em áreas\nurbanas.\n(C) Essa espécie de erva daninha não consegue sobreviver em\náreas de florestas.\n(D) Há competição interespecífica entre os indivíduos que\nproduzem ou não o composto.\n(E) A produção ou não do composto corresponde a duas\nespécies diferentes.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            28,
+            188.0947,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Adaptação e seleção em ervas daninhas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

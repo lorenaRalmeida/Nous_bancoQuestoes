@@ -1,0 +1,100 @@
+{
+  "title": "Questão 80 - UNESP 2024 - 1ª fase",
+  "index": 80,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "A icterícia, condição bastante comum em recém-nascidos, é caracterizada pela cor amarela da da pele. Esse problema relaciona-se à dificuldade do fígado para metabolizar\na bilirrubina, um pigmento gerado pelo metabolismo das células vermelhas do sangue. A principal terapia em uso para\nicterícia é a fototerapia, com a exposição do recém-nascido a\numa fonte luminosa.\nDevido às propriedades da bilirrubina e da pele, a luz\nmais efetiva para esse tratamento é a com comprimentos de\nonda predominantemente entre 425 nm e 475 nm, no espectro da cor azul. Luzes de outras cores, como a verde, têm espectro de emissão fora do espectro de absorção da molécula\nde bilirrubina. Já a luz ultravioleta emitida pelas lâmpadas de\nfototerapia é praticamente absorvida em sua totalidade pelo\nvidro da lâmpada e pela cobertura da unidade de fototerapia.\n(Scientia Medica, v. 15, abril/junho de 2005. Adaptado.)\nA figura mostra a curva de absorção da bilirrubina em função\ndo comprimento de onda da luz.\n(www.sarda.org.ar. Adaptado.)\nAdotando-se c = 3 × 108 m/s, sabendo que 1 nm = 10– 9 m e\nde acordo com as informações do texto e da figura, tem-se\nque",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as cores com frequências entre 0,425 Hz e 0,475 Hz\nsão mais efetivas no tratamento de fototerapia para a\nicterícia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as cores com comprimentos de onda maiores do que os\nda cor verde são as mais absorvidas pela bilirrubina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a luz ultravioleta, por ter frequência menor do que a luz\nazul, não é efetiva no tratamento da icterícia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a cor com frequência aproximada de 6,5 × 1014 Hz é a\nmais efetiva no tratamento da icterícia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "cores de frequências maiores do que a da cor verde não\nsão absorvidas pela molécula da bilirrubina.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A icterícia, condição bastante comum em recém-nasci-\ndos, é caracterizada pela cor amarela da da pele. Esse pro-\nblema relaciona-se à dificuldade do fígado para metabolizar\na bilirrubina, um pigmento gerado pelo metabolismo das cé-\nlulas vermelhas do sangue. A principal terapia em uso para\nicterícia é a fototerapia, com a exposição do recém-nascido a\numa fonte luminosa.\nDevido às propriedades da bilirrubina e da pele, a luz\nmais efetiva para esse tratamento é a com comprimentos de\nonda predominantemente entre 425 nm e 475 nm, no espec-\ntro da cor azul. Luzes de outras cores, como a verde, têm es-\npectro de emissão fora do espectro de absorção da molécula\nde bilirrubina. Já a luz ultravioleta emitida pelas lâmpadas de\nfototerapia é praticamente absorvida em sua totalidade pelo\nvidro da lâmpada e pela cobertura da unidade de fototerapia.\n(Scientia Medica, v. 15, abril/junho de 2005. Adaptado.)\nA figura mostra a curva de absorção da bilirrubina em função\ndo comprimento de onda da luz.\n(www.sarda.org.ar. Adaptado.)\nAdotando-se c = 3 × 108 m/s, sabendo que 1 nm = 10– 9 m e\nde acordo com as informações do texto e da figura, tem-se\nque\n(A) as cores com frequências entre 0,425 Hz e 0,475 Hz\nsão mais efetivas no tratamento de fototerapia para a\nicterícia.\n(B) as cores com comprimentos de onda maiores do que os\nda cor verde são as mais absorvidas pela bilirrubina.\n(C) a luz ultravioleta, por ter frequência menor do que a luz\nazul, não é efetiva no tratamento da icterícia.\n(D) a cor com frequência aproximada de 6,5 × 1014 Hz é a\nmais efetiva no tratamento da icterícia.\n(E) cores de frequências maiores do que a da cor verde não\nsão absorvidas pela molécula da bilirrubina.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

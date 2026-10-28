@@ -1,0 +1,102 @@
+{
+  "title": "Questão 28 - FUVEST 2023 - 1ª fase",
+  "index": 28,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O gráfico mostra a variação no número de folhas de uma\nespécie de árvore ao longo do ano, bem como a variação da\ntemperatura mínima e da pluviosidade no local em que há\npresença dessa planta.\nCom base na variação no número de folhas, essa planta é\ncaracterística de clima I_ , e tal variação está relacionada a\n_ II _.\nAs lacunas I e II são corretamente preenchidas por\nI II",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "tropical temperaturas mínimas altas e muita\nchuva nos meses mais frios",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "temperado temperaturas mínimas baixas e pouca\nchuva nos meses mais quentes",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "tropical temperaturas mínimas altas e pouca\nchuva nos meses mais quentes",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "temperado temperaturas mínimas baixas e pouca\nchuva nos meses mais frios",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "equatorial temperaturas mínimas baixas e muita\nchuva nos meses mais quentes",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O gráfico mostra a variação no número de folhas de uma\nespécie de árvore ao longo do ano, bem como a variação da\ntemperatura mínima e da pluviosidade no local em que há\npresença dessa planta.\nCom base na variação no número de folhas, essa planta é\ncaracterística de clima I_ , e tal variação está relacionada a\n_ II _.\nAs lacunas I e II são corretamente preenchidas por\nI II\n(A) tropical temperaturas mínimas altas e muita\nchuva nos meses mais frios\n(B) temperado temperaturas mínimas baixas e pouca\nchuva nos meses mais quentes\n(C) tropical temperaturas mínimas altas e pouca\nchuva nos meses mais quentes\n(D) temperado temperaturas mínimas baixas e pouca\nchuva nos meses mais frios\n(E) equatorial temperaturas mínimas baixas e muita\nchuva nos meses mais quentes",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            297.5,
+            524.4547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            281.6947
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Sazonalidade climática e perda de folhas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

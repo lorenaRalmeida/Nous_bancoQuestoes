@@ -1,0 +1,97 @@
+{
+  "title": "Questão 60 - UNICAMP 2023 - 1ª fase",
+  "index": 60,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Observe abaixo duas pinturas históricas oitocentistas que se\ntornaram cânones visuais da História do Brasil, e que são acionadas, por exemplo, nas comemorações do Bicentenário da Independência.\n(Primeira Missa do Brasil, Victor Meirelles, 1861.)\n(Independência ou Morte, Pedro Américo, 1888.)\nA partir de seus conhecimentos, assinale a alternativa correta a\nrespeito da produção do passado histórico.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "As duas telas encenam dois fatos históricos fundamentais\nda memória nacional: o descobrimento do Brasil e a fundação da nação independente. Inseridas no panteão histórico\nnacional, elas valorizam a história global e a Europa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Prática do ideário nacionalista oitocentista, a celebração, na\npintura histórica, dos fatos nacionais estava associada à produção – do ponto de vista dos trabalhadores retratados na\ntela – de uma visão de passado da nação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Celebrar eventos do passado foi estratégico para as identidades coloniais criadas no século XIX. Assim, pertencer a\numa nação significava herdar um passado de valorização da\ndiversidade étnica e igualdade social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Estas pinturas inseriam-se em políticas de memória que\nconstruíam e traduziam valores fundamentais das identidades nacionais. Elas ensinavam sobre as origens da nação e\nestabeleciam referências identitárias para os cidadãos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Observe abaixo duas pinturas históricas oitocentistas que se\ntornaram cânones visuais da História do Brasil, e que são acio-\nnadas, por exemplo, nas comemorações do Bicentenário da In-\ndependência.\n(Primeira Missa do Brasil, Victor Meirelles, 1861.)\n(Independência ou Morte, Pedro Américo, 1888.)\nA partir de seus conhecimentos, assinale a alternativa correta a\nrespeito da produção do passado histórico.\na) As duas telas encenam dois fatos históricos fundamentais\nda memória nacional: o descobrimento do Brasil e a funda-\nção da nação independente. Inseridas no panteão histórico\nnacional, elas valorizam a história global e a Europa.\nb) Prática do ideário nacionalista oitocentista, a celebração, na\npintura histórica, dos fatos nacionais estava associada à pro-\ndução – do ponto de vista dos trabalhadores retratados na\ntela – de uma visão de passado da nação.\nc) Celebrar eventos do passado foi estratégico para as iden-\ntidades coloniais criadas no século XIX. Assim, pertencer a\numa nação significava herdar um passado de valorização da\ndiversidade étnica e igualdade social.\nd) Estas pinturas inseriam-se em políticas de memória que\nconstruíam e traduziam valores fundamentais das identida-\ndes nacionais. Elas ensinavam sobre as origens da nação e\nestabeleciam referências identitárias para os cidadãos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            208.19529999999997,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            40,
+            568,
+            184.19529999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Questão 56 - UNESP 2025 - 1ª fase",
+  "index": 56,
+  "year": 2025,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Projeção de mortes por excesso de calor, segundo medidas\nde adaptação climática\n(www.letrasambientais.org.br, 19.11.2023.)\nChamamos de racismo ambiental as injustiças sociais\ne ambientais que recaem de forma implacável sobre grupos\nétnicos vulnerabilizados e sobre outras comunidades, discriminadas por sua “raça”, origem ou cor. O racismo ambiental\nnão se configura apenas por meio de ações que tenham uma\nintenção racista, mas igualmente por meio de ações que tenham impacto racial, não obstante a intenção que lhes tenha\ndado origem.\n(Tania Pacheco. https://racismoambiental.net.br, 2007. Adaptado.)\nO gráfico e o conceito apresentados no excerto dialogam\nsobre o impacto ambiental resultante",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da ausência de organizações ambientais internacionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da escassez de políticas de acesso a oportunidades de\nbem-estar social.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "do negacionismo científico expresso por grupos minoritários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da supressão dos investimentos em campanhas de conscientização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "do baixo lucro de empresas de economia verde.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Projeção de mortes por excesso de calor, segundo medidas\nde adaptação climática\n(www.letrasambientais.org.br, 19.11.2023.)\nChamamos de racismo ambiental as injustiças sociais\ne ambientais que recaem de forma implacável sobre grupos\nétnicos vulnerabilizados e sobre outras comunidades, discri-\nminadas por sua “raça”, origem ou cor. O racismo ambiental\nnão se configura apenas por meio de ações que tenham uma\nintenção racista, mas igualmente por meio de ações que te-\nnham impacto racial, não obstante a intenção que lhes tenha\ndado origem.\n(Tania Pacheco. https://racismoambiental.net.br, 2007. Adaptado.)\nO gráfico e o conceito apresentados no excerto dialogam\nsobre o impacto ambiental resultante\n(A) da ausência de organizações ambientais internacionais.\n(B) da escassez de políticas de acesso a oportunidades de\nbem-estar social.\n(C) do negacionismo científico expresso por grupos minori-\ntários.\n(D) da supressão dos investimentos em campanhas de cons-\ncientização.\n(E) do baixo lucro de empresas de economia verde.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 21,
+        "bbox": [
+          32.654999,
+          72.918,
+          291,
+          237.58140000000003
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

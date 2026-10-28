@@ -1,0 +1,39 @@
+{
+  "board": "UNESP",
+  "totalQuestions": 360,
+  "source": "PDFs fornecidos pelo usuário; processamento local, sem consultas à internet.",
+  "years": [
+    {
+      "year": 2023,
+      "questions": 90,
+      "version": "1",
+      "answers": 90,
+      "cancelled": [],
+      "imageReferences": 129
+    },
+    {
+      "year": 2024,
+      "questions": 90,
+      "version": "1",
+      "answers": 90,
+      "cancelled": [],
+      "imageReferences": 132
+    },
+    {
+      "year": 2025,
+      "questions": 90,
+      "version": "1",
+      "answers": 90,
+      "cancelled": [],
+      "imageReferences": 221
+    },
+    {
+      "year": 2026,
+      "questions": 90,
+      "version": "1",
+      "answers": 90,
+      "cancelled": [],
+      "imageReferences": 250
+    }
+  ]
+}

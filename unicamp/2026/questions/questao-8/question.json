@@ -1,0 +1,92 @@
+{
+  "title": "Questão 8 - UNICAMP 2026 - 1ª fase",
+  "index": 8,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "A uniformidade da temperatura em um ambiente refrigerado\ndepende, além do bom funcionamento do aparelho de ar condicionado, de uma instalação adequada, visando a uma transferência de calor eficiente. Isso pode ser verificado pelo instalador\nutilizando um termômetro de infravermelho para inspecionar\ndiferentes áreas do recinto. Analise as afirmativas 1, 2, 3 e 4\nsobre os mecanismos de transferência de calor: condução, convecção e radiação.\n1) A transferência de calor por condução térmica pode ocorrer\ntanto no vácuo quanto em um meio material.\n2) A taxa de condução de calor em uma barra não depende da\ndiferença entre as temperaturas de suas extremidades.\n3) A convecção consiste no transporte de energia térmica de\numa região para outra por meio do deslocamento de uma\nmassa de fluido.\n4) A transferência de calor por radiação térmica pode ocorrer\ntanto no vácuo quanto em um meio material.\nAs afirmativas corretas são:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 e 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3 e 4.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A uniformidade da temperatura em um ambiente refrigerado\ndepende, além do bom funcionamento do aparelho de ar con-\ndicionado, de uma instalação adequada, visando a uma transfe-\nrência de calor eficiente. Isso pode ser verificado pelo instalador\nutilizando um termômetro de infravermelho para inspecionar\ndiferentes áreas do recinto. Analise as afirmativas 1, 2, 3 e 4\nsobre os mecanismos de transferência de calor: condução, con-\nvecção e radiação.\n1) A transferência de calor por condução térmica pode ocorrer\ntanto no vácuo quanto em um meio material.\n2) A taxa de condução de calor em uma barra não depende da\ndiferença entre as temperaturas de suas extremidades.\n3) A convecção consiste no transporte de energia térmica de\numa região para outra por meio do deslocamento de uma\nmassa de fluido.\n4) A transferência de calor por radiação térmica pode ocorrer\ntanto no vácuo quanto em um meio material.\nAs afirmativas corretas são:\na) 1 e 2. c) 2 e 3.\nb) 1 e 4. d) 3 e 4.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            499.0141,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

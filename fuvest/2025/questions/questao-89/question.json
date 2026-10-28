@@ -1,0 +1,100 @@
+{
+  "title": "Questão 89 - FUVEST 2025 - 1ª fase",
+  "index": 89,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“Aconteceu num debate, num país europeu. Da\nassistência alguém me lançou a seguinte pergunta:\n- Para si, o que é ser africano?\nFalava-se, inevitavelmente, de identidade versus\nglobalização. Respondi com uma pergunta:\n- E para si, o que é ser europeu?\nO homem gaguejou. Não sabia responder. Mas o\ninteressante é que, para ele, a questão da identidade se\ncolocava naturalmente para os africanos. Não para os\neuropeus. Ele nunca tinha colocado a questão no espelho.\nRecordo o episódio porque me parece que ele toca uma\nquestão central: quando se fala de África, de qual África\nestamos falando? Terá o continente africano uma essência\nfacilmente capturável? Haverá uma substância exótica que os\ncaçadores de identidades possam recolher como sendo a\nalma africana?”\nCOUTO, Mia. “Um retrato sem moldura”. In: HERNANDEZ, Leila Leite. A\nÁfrica na sala de aula: visita à história contemporânea. São Paulo: Selo\nNegro, 2008. p.11.\nAo relatar e comentar o episódio, o escritor moçambicano Mia\nCouto apresenta a África como",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uma construção histórica proporcionada pela ação\nhumanitária dos colonizadores europeus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "um resultado natural da luta dos povos do continente\ncontra a dominação estrangeira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uma região historicamente afetada por graves problemas\ndemográficos e sanitários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um continente definido a partir de critérios políticos e\ngeográficos deterministas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "um mosaico composto por relações econômicas, políticas\ne culturais instáveis.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“Aconteceu num debate, num país europeu. Da\nassistência alguém me lançou a seguinte pergunta:\n- Para si, o que é ser africano?\nFalava-se, inevitavelmente, de identidade versus\nglobalização. Respondi com uma pergunta:\n- E para si, o que é ser europeu?\nO homem gaguejou. Não sabia responder. Mas o\ninteressante é que, para ele, a questão da identidade se\ncolocava naturalmente para os africanos. Não para os\neuropeus. Ele nunca tinha colocado a questão no espelho.\nRecordo o episódio porque me parece que ele toca uma\nquestão central: quando se fala de África, de qual África\nestamos falando? Terá o continente africano uma essência\nfacilmente capturável? Haverá uma substância exótica que os\ncaçadores de identidades possam recolher como sendo a\nalma africana?”\nCOUTO, Mia. “Um retrato sem moldura”. In: HERNANDEZ, Leila Leite. A\nÁfrica na sala de aula: visita à história contemporânea. São Paulo: Selo\nNegro, 2008. p.11.\nAo relatar e comentar o episódio, o escritor moçambicano Mia\nCouto apresenta a África como\n(A) uma construção histórica proporcionada pela ação\nhumanitária dos colonizadores europeus.\n(B) um resultado natural da luta dos povos do continente\ncontra a dominação estrangeira.\n(C) uma região historicamente afetada por graves problemas\ndemográficos e sanitários.\n(D) um continente definido a partir de critérios políticos e\ngeográficos deterministas.\n(E) um mosaico composto por relações econômicas, políticas\ne culturais instáveis.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            28,
+            653.8147,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            324.5947
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Diversidade regional e identidades africanas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

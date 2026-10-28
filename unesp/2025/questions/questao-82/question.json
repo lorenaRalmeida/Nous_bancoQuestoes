@@ -1,0 +1,122 @@
+{
+  "title": "Questão 82 - UNESP 2025 - 1ª fase",
+  "index": 82,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Uma situação comum em residências antigas é a incompatibilidade entre os cabos elétricos instalados e a demanda\natual de energia elétrica. Nessas residências, dispositivos de\nproteção podem interromper o circuito quando vários eletrodomésticos são ligados simultaneamente. A figura mostra a\nplanta da cozinha e da lavanderia de uma residência antiga,\nem que a instalação elétrica é protegida por um disjuntor de\n30 A.\nNesses locais, já estão em funcionamento uma televisão\n(TV) e uma máquina de lavar roupas (ML). Também constam\ndessa instalação um forno de micro-ondas (MO), um liquidificador (LI) e um ferro de passar (FP). As potências desses\neletrodomésticos estão indicadas na tabela.\nEletrodoméstico Potência (W)\nTelevisão 220\nMicro-ondas 880\nLiquidificador 550\nMáquina de lavar 880\nFerro de passar 1 430\nO disjuntor interromperá a corrente elétrica se, simultaneamente com a televisão e com a máquina de lavar,",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "for ligado o forno de micro-ondas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "forem ligados o forno de micro-ondas e o liquidificador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "forem ligados o forno de micro-ondas e o ferro de passar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "for ligado o ferro de passar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "forem ligados o liquidificador e o ferro de passar.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma situação comum em residências antigas é a incompa-\ntibilidade entre os cabos elétricos instalados e a demanda\natual de energia elétrica. Nessas residências, dispositivos de\nproteção podem interromper o circuito quando vários eletro-\ndomésticos são ligados simultaneamente. A figura mostra a\nplanta da cozinha e da lavanderia de uma residência antiga,\nem que a instalação elétrica é protegida por um disjuntor de\n30 A.\nNesses locais, já estão em funcionamento uma televisão\n(TV) e uma máquina de lavar roupas (ML). Também constam\ndessa instalação um forno de micro-ondas (MO), um liquidi-\nficador (LI) e um ferro de passar (FP). As potências desses\neletrodomésticos estão indicadas na tabela.\nEletrodoméstico Potência (W)\nTelevisão 220\nMicro-ondas 880\nLiquidificador 550\nMáquina de lavar 880\nFerro de passar 1 430\nO disjuntor interromperá a corrente elétrica se, simultanea-\nmente com a televisão e com a máquina de lavar,\n(A) for ligado o forno de micro-ondas.\n(B) forem ligados o forno de micro-ondas e o liquidificador.\n(C) forem ligados o forno de micro-ondas e o ferro de passar.\n(D) for ligado o ferro de passar.\n(E) forem ligados o liquidificador e o ferro de passar.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 29,
+        "bbox": [
+          30,
+          144.55190000000005,
+          288.5431,
+          269.0291000000001
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 29,
+        "bbox": [
+          73.511,
+          328.99399999999997,
+          251.055998,
+          434.49199999999996
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

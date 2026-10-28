@@ -1,0 +1,88 @@
+{
+  "title": "Questão 51 - UNESP 2025 - 1ª fase",
+  "index": 51,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Os territórios quilombolas figuram na lista de áreas com\nmenor desmatamento do Brasil, segundo um levantamento\ndivulgado em 2023 pelo MapBiomas. No período de 1985 a\n2022, a perda de vegetação nativa nesses territórios foi de\n4,7%, enquanto áreas privadas registraram um índice de\n25%.\n(www.cartacapital.com.br. Adaptado.)\nOs valores de desmatamento apresentados expressam",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o desinteresse pelo uso e ocupação de territórios não\nintegrados à economia nacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a desigualdade na coleta de dados sobre as transformações socioespaciais em áreas nativas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o compromisso de reintegração das comunidades tradicionais ao espaço produtivo brasileiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a particularidade da relação sociedade-natureza em uma\ndada comunidade tradicional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "a carência de legislação para definir o que são territórios\nquilombolas e quem pode ocupá-los.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os territórios quilombolas figuram na lista de áreas com\nmenor desmatamento do Brasil, segundo um levantamento\ndivulgado em 2023 pelo MapBiomas. No período de 1985 a\n2022, a perda de vegetação nativa nesses territórios foi de\n4,7%, enquanto áreas privadas registraram um índice de\n25%.\n(www.cartacapital.com.br. Adaptado.)\nOs valores de desmatamento apresentados expressam\n(A) o desinteresse pelo uso e ocupação de territórios não\nintegrados à economia nacional.\n(B) a desigualdade na coleta de dados sobre as transforma-\nções socioespaciais em áreas nativas.\n(C) o compromisso de reintegração das comunidades tradi-\ncionais ao espaço produtivo brasileiro.\n(D) a particularidade da relação sociedade-natureza em uma\ndada comunidade tradicional.\n(E) a carência de legislação para definir o que são territórios\nquilombolas e quem pode ocupá-los.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            331.64459999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

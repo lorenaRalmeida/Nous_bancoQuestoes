@@ -1,0 +1,98 @@
+{
+  "title": "Questão 35 - UNESP 2024 - 1ª fase",
+  "index": 35,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "O que o Carnaval [na Idade Moderna] significava para o\npovo que participava dele? Num sentido, a pergunta é desnecessária. O Carnaval era um feriado, uma brincadeira, um\nfim em si mesmo, dispensando qualquer explicação ou justificativa. Era uma ocasião de êxtase e liberação. [...] Por que o\npovo usava máscaras com narigões, por que atiravam ovos?\n[...]\nHavia três temas principais no Carnaval, reais e simbólicos: comida, sexo e violência.\n(Peter Burke. Cultura popular na Idade Moderna, 1989.)\n“O Carnaval sempre foi um ato político, ele está longe de\nser uma festa da alienação [...]”, diz o historiador e professor\nLuiz Antonio Simas.\n[...]\n“O Carnaval quebra um padrão de normatividade que é\nregra durante todo o ano. É nesse momento que os grupos\nmais vulneráveis se sentem mais livres para exercer toda a\nsua diversidade”, diz Simas.\n(Isabela Palhares. “Carnaval pós-restrições da pandemia é apoteose da\nfolia, dizem historiadores”. www.folha.uol.com.br, 20.02.2023.)\nOs excertos abordam o significado do Carnaval em dois\nperíodos históricos bastante distintos e",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "coincidem, ao indicar contradições da festa: a alegria da\nmanifestação dos prazeres individuais e a tristeza diante\nda extrema violência do evento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "coincidem, ao identificar duas dimensões da festa: uma\nmais imediata, a do prazer, e outra mais profunda, a de\ntransformação comportamental.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "divergem, ao caracterizar a festa na Idade Moderna\ncomo ação política e a festa nos dias de hoje como puro\ndivertimento e lazer.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "coincidem, ao mencionar os problemas da festa: um de\nordem pública, a explicitação do sexo, e um de ordem\nprivada, a carência alimentar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "divergem, ao expor a autenticidade e espontaneidade da\nfesta na Idade Moderna e o artificialismo e convencionalismo da festa nos dias de hoje.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O que o Carnaval [na Idade Moderna] significava para o\npovo que participava dele? Num sentido, a pergunta é des-\nnecessária. O Carnaval era um feriado, uma brincadeira, um\nfim em si mesmo, dispensando qualquer explicação ou justifi-\ncativa. Era uma ocasião de êxtase e liberação. [...] Por que o\npovo usava máscaras com narigões, por que atiravam ovos?\n[...]\nHavia três temas principais no Carnaval, reais e simbóli-\ncos: comida, sexo e violência.\n(Peter Burke. Cultura popular na Idade Moderna, 1989.)\n“O Carnaval sempre foi um ato político, ele está longe de\nser uma festa da alienação [...]”, diz o historiador e professor\nLuiz Antonio Simas.\n[...]\n“O Carnaval quebra um padrão de normatividade que é\nregra durante todo o ano. É nesse momento que os grupos\nmais vulneráveis se sentem mais livres para exercer toda a\nsua diversidade”, diz Simas.\n(Isabela Palhares. “Carnaval pós-restrições da pandemia é apoteose da\nfolia, dizem historiadores”. www.folha.uol.com.br, 20.02.2023.)\nOs excertos abordam o significado do Carnaval em dois\nperíodos históricos bastante distintos e\n(A) coincidem, ao indicar contradições da festa: a alegria da\nmanifestação dos prazeres individuais e a tristeza diante\nda extrema violência do evento.\n(B) coincidem, ao identificar duas dimensões da festa: uma\nmais imediata, a do prazer, e outra mais profunda, a de\ntransformação comportamental.\n(C) divergem, ao caracterizar a festa na Idade Moderna\ncomo ação política e a festa nos dias de hoje como puro\ndivertimento e lazer.\n(D) coincidem, ao mencionar os problemas da festa: um de\nordem pública, a explicitação do sexo, e um de ordem\nprivada, a carência alimentar.\n(E) divergem, ao expor a autenticidade e espontaneidade da\nfesta na Idade Moderna e o artificialismo e convenciona-\nlismo da festa nos dias de hoje.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

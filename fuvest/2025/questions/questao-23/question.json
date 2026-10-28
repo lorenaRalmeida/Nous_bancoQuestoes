@@ -1,0 +1,100 @@
+{
+  "title": "Questão 23 - FUVEST 2025 - 1ª fase",
+  "index": 23,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Considere o texto a seguir.\nThe Event Horizon Telescope Collaboration.\n“Com observações feitas pela primeira vez em luz\npolarizada, a nova imagem do buraco negro que se esconde\nno coração da Via Láctea revelou um campo magnético com\numa estrutura muito semelhante à de outro buraco negro\nsituado no centro da galáxia M87, sugerindo que campos\nmagnéticos intensos podem ser comuns a todos os buracos\nnegros.\nA luz é uma onda eletromagnética que nos permite ver\nobjetos. Por vezes, os campos elétrico e magnético associados\nà onda oscilam em direções preferenciais, definindo o que\nchamamos de luz polarizada. Apesar de estarmos rodeados\npor luz polarizada, aos olhos humanos essa luz é indistinguível\nda luz dita ‘normal’. No plasma que rodeia estes buracos\nnegros, as partículas que giram em torno das linhas de campo\nmagnético conferem-lhe um padrão de polarização com\norientação na direção perpendicular ao campo magnético do\nburaco negro, o que permite aos astrônomos ver com muitos\ndetalhes o que se passa nas regiões dos buracos negros e\nmapear as suas linhas de campo magnético.”\n“Astrônomos descobrem campos magnéticos em espiral nas bordas de\nburaco negro da Via Láctea”, Jornal da USP 29/03/2024. Disponível em\nhttps://jornal.usp.br/ciencias/ (Adaptado).\nCom base no texto e em seus conhecimentos, é correto\nafirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A medida do padrão de polarização da luz mencionada no\ntexto permite somente o mapeamento das linhas de\ncampos magnéticos na direção paralela à direção da\npolarização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O olho humano pode discriminar as diferentes direções da\nluz polarizada dos buracos negros, mapeando suas linhas\nde campo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Campos magnéticos como os mencionados no texto são\ncriados apenas por cargas elétricas em repouso no plasma\nque rodeia os buracos negros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O plasma é formado por partículas eletricamente\ncarregadas, dado que essas partículas exibem um\nmovimento circular perpendicular à direção do campo\nmagnético.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "O processo de mapeamento das linhas de campo\nmagnético mencionado no texto pode ser realizado por\nmeio da detecção de qualquer tipo de onda\neletromagnética gerada em buracos negros.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nConsidere o texto a seguir.\nThe Event Horizon Telescope Collaboration.\n“Com observações feitas pela primeira vez em luz\npolarizada, a nova imagem do buraco negro que se esconde\nno coração da Via Láctea revelou um campo magnético com\numa estrutura muito semelhante à de outro buraco negro\nsituado no centro da galáxia M87, sugerindo que campos\nmagnéticos intensos podem ser comuns a todos os buracos\nnegros.\nA luz é uma onda eletromagnética que nos permite ver\nobjetos. Por vezes, os campos elétrico e magnético associados\nà onda oscilam em direções preferenciais, definindo o que\nchamamos de luz polarizada. Apesar de estarmos rodeados\npor luz polarizada, aos olhos humanos essa luz é indistinguível\nda luz dita ‘normal’. No plasma que rodeia estes buracos\nnegros, as partículas que giram em torno das linhas de campo\nmagnético conferem-lhe um padrão de polarização com\norientação na direção perpendicular ao campo magnético do\nburaco negro, o que permite aos astrônomos ver com muitos\ndetalhes o que se passa nas regiões dos buracos negros e\nmapear as suas linhas de campo magnético.”\n“Astrônomos descobrem campos magnéticos em espiral nas bordas de\nburaco negro da Via Láctea”, Jornal da USP 29/03/2024. Disponível em\nhttps://jornal.usp.br/ciencias/ (Adaptado).\nCom base no texto e em seus conhecimentos, é correto\nafirmar:\n(A) A medida do padrão de polarização da luz mencionada no\ntexto permite somente o mapeamento das linhas de\ncampos magnéticos na direção paralela à direção da\npolarização.\n(B) O olho humano pode discriminar as diferentes direções da\nluz polarizada dos buracos negros, mapeando suas linhas\nde campo.\n(C) Campos magnéticos como os mencionados no texto são\ncriados apenas por cargas elétricas em repouso no plasma\nque rodeia os buracos negros.\n(D) O plasma é formado por partículas eletricamente\ncarregadas, dado que essas partículas exibem um\nmovimento circular perpendicular à direção do campo\nmagnético.\n(E) O processo de mapeamento das linhas de campo\nmagnético mencionado no texto pode ser realizado por\nmeio da detecção de qualquer tipo de onda\neletromagnética gerada em buracos negros.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Polarização e ondas eletromagnéticas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

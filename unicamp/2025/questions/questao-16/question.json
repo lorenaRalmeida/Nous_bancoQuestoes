@@ -1,0 +1,94 @@
+{
+  "title": "Questão 16 - UNICAMP 2025 - 1ª fase",
+  "index": 16,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "A imagem a seguir apresenta a transcrição de um diálogo em\num vídeo publicado no Instagram.\n(Adaptado de https://www.instagram.com/dhar.mann. Acesso em 12/04/2024.)\nNo diálogo, a principal característica da reformulação da fala da\nmédica é a inserção de",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "expressões que utilizam verbos frasais para recontextualizar\no tratamento da paciente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "abreviações de substantivos, através das quais a médica amplia as informações do caso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "gírias que utilizam diversas classes de palavras para especificar melhor o diagnóstico da paciente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "vocábulos marcados pela oralidade, através dos quais a médica atualiza os procedimentos futuros.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A imagem a seguir apresenta a transcrição de um diálogo em\num vídeo publicado no Instagram.\n(Adaptado de https://www.instagram.com/dhar.mann. Acesso em 12/04/2024.)\nNo diálogo, a principal característica da reformulação da fala da\nmédica é a inserção de\na) expressões que utilizam verbos frasais para recontextualizar\no tratamento da paciente.\nb) abreviações de substantivos, através das quais a médica am-\nplia as informações do caso.\nc) gírias que utilizam diversas classes de palavras para especifi-\ncar melhor o diagnóstico da paciente.\nd) vocábulos marcados pela oralidade, através dos quais a mé-\ndica atualiza os procedimentos futuros.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            389.0537,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            40,
+            291,
+            225.5299
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

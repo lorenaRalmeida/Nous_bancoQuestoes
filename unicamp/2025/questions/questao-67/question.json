@@ -1,0 +1,92 @@
+{
+  "title": "Questão 67 - UNICAMP 2025 - 1ª fase",
+  "index": 67,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Em mulheres, ocorre a compactação e a inativação de um cromossomo X, formando uma estrutura pequena e densa, chamada de corpúsculo de Barr. Sabe-se que a inativação de um\ndos cromossomos X em embriões humanos é um processo fundamental para sua viabilidade.\n(Adaptado de https://agencia.fapesp.br/inativacao-do-cromossomo-x-ocorre-mais-cedo-\n-em-humanos. Acesso em 02/04/2024.)\nAssinale a alternativa que preenche corretamente as lacunas no\nexcerto a seguir.\nEm humanos, o sexo é determinado pela presença dos cromossomos sexuais X e Y, que são considerados parcialmente (i)\n_________. A inativação de um cromossomo X é um processo\naleatório e foi demonstrado que os (ii) _________ no corpúsculo de Barr são inativos, o que significa que eles não serão\n(iii) _________. A inativação do cromossomo X é um processo\nde controle epigenético, que molda o funcionamento do (iv)\n_________ sem alterá-lo, e iguala a atividade gênica das mulheres à dos homens.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(i) homólogos; (ii) alelos; (iii) traduzidos; (iv) código genético.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(i) autossomos; (ii) genes; (iii) transcritos; (iv) código genético.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(i) homólogos; (ii) genes; (iii) transcritos; (iv) genoma.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "(i) autossomos; (ii) alelos; (iii) traduzidos; (iv) genoma.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em mulheres, ocorre a compactação e a inativação de um cro-\nmossomo X, formando uma estrutura pequena e densa, cha-\nmada de corpúsculo de Barr. Sabe-se que a inativação de um\ndos cromossomos X em embriões humanos é um processo fun-\ndamental para sua viabilidade.\n(Adaptado de https://agencia.fapesp.br/inativacao-do-cromossomo-x-ocorre-mais-cedo-\n-em-humanos. Acesso em 02/04/2024.)\nAssinale a alternativa que preenche corretamente as lacunas no\nexcerto a seguir.\nEm humanos, o sexo é determinado pela presença dos cro-\nmossomos sexuais X e Y, que são considerados parcialmente (i)\n_________. A inativação de um cromossomo X é um processo\naleatório e foi demonstrado que os (ii) _________ no corpús-\nculo de Barr são inativos, o que significa que eles não serão\n(iii) _________. A inativação do cromossomo X é um processo\nde controle epigenético, que molda o funcionamento do (iv)\n_________ sem alterá-lo, e iguala a atividade gênica das mulhe-\nres à dos homens.\na) (i) homólogos; (ii) alelos; (iii) traduzidos; (iv) código gené-\ntico.\nb) (i) autossomos; (ii) genes; (iii) transcritos; (iv) código gené-\ntico.\nc) (i) homólogos; (ii) genes; (iii) transcritos; (iv) genoma.\nd) (i) autossomos; (ii) alelos; (iii) traduzidos; (iv) genoma.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            530.2285999999999,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            40,
+            568,
+            134.3338
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Questão 52 - UNICAMP 2025 - 1ª fase",
+  "index": 52,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Ana está treinando as habilidades matemáticas de seu irmão mais novo. Ela escolheu dois números reais x, y e avisou\npara seu irmão que os números satisfazem às desigualdades\n| x – 2 | ≤ 2 e | y – 3 | ≤ 1. O que o irmão de Ana pode concluir\ncorretamente sobre esses números?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "x² + y² ≤ 1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "x + y ≥ 10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "x + y ≤ 8.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "x² + y² ≥ 36.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Ana está treinando as habilidades matemáticas de seu ir-\nmão mais novo. Ela escolheu dois números reais x, y e avisou\npara seu irmão que os números satisfazem às desigualdades\n| x – 2 | ≤ 2 e | y – 3 | ≤ 1. O que o irmão de Ana pode concluir\ncorretamente sobre esses números?\na) x2 + y2 ≤ 1.\nb) x + y ≥ 10.\nc) x + y ≤ 8.\nd) x2 + y2 ≥ 36.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            237.5358
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

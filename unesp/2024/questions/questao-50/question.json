@@ -1,0 +1,188 @@
+{
+  "title": "Questão 50 - UNESP 2024 - 1ª fase",
+  "index": 50,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise o gráfico.\n(http://educacao.globo.com. Adaptado.)\nAs variações na temperatura e na umidade estão relacionadas ao tipo e à intensidade do intemperismo, determinantes\npara a formação dos solos. A partir do gráfico e com fundamento na ciência dos solos, tem-se que,",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "em climas áridos, os solos possuem pedaços da rocha\nmatriz.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "em climas úmidos, os solos possuem camada menor de\nargila.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "em climas frios, os solos são ricos em matéria orgânica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "em climas tropicais, os solos são pouco permeáveis à\nágua.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "em climas secos, os solos possuem baixa porcentagem\nde minerais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o gráfico.\n(http://educacao.globo.com. Adaptado.)\nAs variações na temperatura e na umidade estão relaciona-\ndas ao tipo e à intensidade do intemperismo, determinantes\npara a formação dos solos. A partir do gráfico e com funda-\nmento na ciência dos solos, tem-se que,\n(A) em climas áridos, os solos possuem pedaços da rocha\nmatriz.\n(B) em climas úmidos, os solos possuem camada menor de\nargila.\n(C) em climas frios, os solos são ricos em matéria orgânica.\n(D) em climas tropicais, os solos são pouco permeáveis à\nágua.\n(E) em climas secos, os solos possuem baixa porcentagem\nde minerais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 19,
+        "bbox": [
+          30,
+          60.178999999999974,
+          291,
+          221.51019999999994
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 19,
+        "bbox": [
+          30,
+          225.24,
+          134.96269999999998,
+          254.82269999999994
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 19,
+        "bbox": [
+          130.184006,
+          225.24,
+          162.834,
+          251.74897199999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 19,
+        "bbox": [
+          153.76500000000001,
+          225.82489999999996,
+          234.19650000000001,
+          256.1314
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 19,
+        "bbox": [
+          248.461,
+          225.90980000000002,
+          291,
+          254.82269999999994
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 19,
+        "bbox": [
+          30,
+          250.02699999999993,
+          139.2731,
+          289.63800000000003
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 19,
+        "bbox": [
+          130.184006,
+          250.02699999999993,
+          162.834,
+          276.5359719999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 19,
+        "bbox": [
+          153.7546,
+          251.5965,
+          237.70319999999998,
+          281.81809999999996
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

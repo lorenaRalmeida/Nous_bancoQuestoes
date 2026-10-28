@@ -1,0 +1,100 @@
+{
+  "title": "Questão 56 - FUVEST 2024 - 1ª fase",
+  "index": 56,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Um tema de grande interesse na química é a ativação seletiva\nde ligações C-H. Essa ativação permite a substituição de H\nnessas ligações por outros átomos, como O ou N. A relevância\ndesse tema pode ser verificada em um estudo recentemente\npublicado no prestigioso periódico Science, que conta com\numa egressa da USP dentre seus autores.\nA baixa diferença de eletronegatividade entre C e H é um dos\nmotivos que dificulta a ativação da ligação C-H, pois torna a\nligação pouco polar e diminui sua reatividade.\nConsiderando apenas a eletronegatividade, representada no\ngráfico, qual das alternativas apresenta uma ligação ainda\nmenos reativa do que a ligação C-H?\n\nNote e adote:\nNúmero atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15,\nS = 16, Cl = 17.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "C-N",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "C-F",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "S-O",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "P-H",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "P-Cl",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Um tema de grande interesse na química é a ativação seletiva\nde ligações C-H. Essa ativação permite a substituição de H\nnessas ligações por outros átomos, como O ou N. A relevância\ndesse tema pode ser verificada em um estudo recentemente\npublicado no prestigioso periódico Science, que conta com\numa egressa da USP dentre seus autores.\nA baixa diferença de eletronegatividade entre C e H é um dos\nmotivos que dificulta a ativação da ligação C-H, pois torna a\nligação pouco polar e diminui sua reatividade.\nConsiderando apenas a eletronegatividade, representada no\ngráfico, qual das alternativas apresenta uma ligação ainda\nmenos reativa do que a ligação C-H?\n(A) C-N\n(B) C-F\n(C) S-O\n(D) P-H\n(E) P-Cl\nNote e adote:\nNúmero atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15,\nS = 16, Cl = 17.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            28,
+            485.7547,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            217.3746
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Eletronegatividade e reatividade de ligações",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

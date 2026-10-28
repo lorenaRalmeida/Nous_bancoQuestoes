@@ -1,0 +1,92 @@
+{
+  "title": "Questão 22 - UNICAMP 2024 - 1ª fase",
+  "index": 22,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Um refrigerante comum é uma formulação de vários ingredientes: açúcar (11 g por 100 mL), água (88 g por 100 mL) – componentes majoritários –, além de acidulantes, antioxidantes,\nconservantes, adoçantes e CO (componentes em pequenas\n2\nquantidades). O acidulante tem como finalidade regular a doçura do açúcar, realçar o paladar e reduzir o pH do refrigerante,\nque deve estar entre 2,7 e 3,5. Assim, para se usar uma pequena massa de acidulante que proporcione a redução do pH para\no valor desejado, a massa molar do acidulante deve ser",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pequena e seu pKa deve estar abaixo da faixa de pH do\nrefrigerante.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "pequena e seu pKa deve estar acima da faixa de pH do refrigerante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "grande e seu pKa deve estar abaixo da faixa de pH do refrigerante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "grande e seu pKa deve estar acima da faixa de pH do refrigerante.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um refrigerante comum é uma formulação de vários ingredien-\ntes: açúcar (11 g por 100 mL), água (88 g por 100 mL) – com-\nponentes majoritários –, além de acidulantes, antioxidantes,\nconservantes, adoçantes e CO (componentes em pequenas\n2\nquantidades). O acidulante tem como finalidade regular a do-\nçura do açúcar, realçar o paladar e reduzir o pH do refrigerante,\nque deve estar entre 2,7 e 3,5. Assim, para se usar uma peque-\nna massa de acidulante que proporcione a redução do pH para\no valor desejado, a massa molar do acidulante deve ser\na) pequena e seu pKa deve estar abaixo da faixa de pH do\nrefrigerante.\nb) pequena e seu pKa deve estar acima da faixa de pH do re-\nfrigerante.\nc) grande e seu pKa deve estar abaixo da faixa de pH do refri-\ngerante.\nd) grande e seu pKa deve estar acima da faixa de pH do refri-\ngerante.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            646.5071,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            40,
+            291,
+            154.46460000000002
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

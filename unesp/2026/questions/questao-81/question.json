@@ -1,0 +1,111 @@
+{
+  "title": "Questão 81 - UNESP 2026 - 1ª fase",
+  "index": 81,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "O uso de janelas eletrocrômicas em edifícios é considerado\numa das mais promissoras formas de economia de energia\nem ambientes fechados. Nessas janelas, a intensidade da\nluz do Sol que é transmitida para o interior das edificações\npode ser controlada, permitindo o ajuste da luminosidade e\nda temperatura nos ambientes internos. O eletrocromismo\nconsiste na mudança das propriedades ópticas de determinado material por meio da aplicação de um estímulo elétrico\nexterno sobre ele.\n(https://www.explainthatstuff.com. Adaptado.)\nConsidere que, quando uma tensão constante de 4 V é aplicada entre as faces de uma janela eletrocrômica, estabelece-\n-se um campo elétrico uniforme no meio que separa essas\nfaces, e que íons de lítio, cada um com uma carga positiva de\n1,6 × 10–19 C, migram através desse meio, movendo-se de um\neletrodo mais próximo da face interna para outro mais próximo\nda face externa da janela. Esse movimento dos íons altera a\ncoloração do meio existente entre os eletrodos, aumentando\na opacidade da janela. Sendo d = 5 mm a distância entre os\neletrodos, a intensidade da força elétrica que atua sobre cada\níon de lítio quando eles se movem nessa janela é de",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,56 × 10–16 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "6,40 × 10–19 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,28 × 10–16 N.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "4,00 × 102 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "8,00 × 102 N.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O uso de janelas eletrocrômicas em edifícios é considerado\numa das mais promissoras formas de economia de energia\nem ambientes fechados. Nessas janelas, a intensidade da\nluz do Sol que é transmitida para o interior das edificações\npode ser controlada, permitindo o ajuste da luminosidade e\nda temperatura nos ambientes internos. O eletrocromismo\nconsiste na mudança das propriedades ópticas de determi-\nnado material por meio da aplicação de um estímulo elétrico\nexterno sobre ele.\n(https://www.explainthatstuff.com. Adaptado.)\nConsidere que, quando uma tensão constante de 4 V é apli-\ncada entre as faces de uma janela eletrocrômica, estabelece-\n-se um campo elétrico uniforme no meio que separa essas\nfaces, e que íons de lítio, cada um com uma carga positiva de\n1,6 × 10–19 C, migram através desse meio, movendo-se de um\neletrodo mais próximo da face interna para outro mais próximo\nda face externa da janela. Esse movimento dos íons altera a\ncoloração do meio existente entre os eletrodos, aumentando\na opacidade da janela. Sendo d = 5 mm a distância entre os\neletrodos, a intensidade da força elétrica que atua sobre cada\níon de lítio quando eles se movem nessa janela é de\n(A) 2,56 × 10–16 N.\n(B) 6,40 × 10–19 N.\n(C) 1,28 × 10–16 N.\n(D) 4,00 × 102 N.\n(E) 8,00 × 102 N.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 34,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 34,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 34,
+        "bbox": [
+          30,
+          156.16099999999994,
+          291,
+          323.3169999999999
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Questão 89 - FUVEST 2023 - 1ª fase",
+  "index": 89,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Considere a região do plano cartesiano\n\nA = {(x, y) ∈ ℝ² : |x| + |y| ≤ 1},\n\nesboçada na figura.\n\nDado B = {(x, y) ∈ ℝ² : (x + 1)² + y² ≥ 1}, a área da região A ∩ B é:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2 − π/4",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2 − π/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4 + π/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4 − π/4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2 + π/2",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Considere a região do plano cartesiano\n𝐴 = (cid:4668)(𝑥,𝑦) ∈ ℝ(cid:2870):|𝑥|+|𝑦| ≤ 1(cid:4669)\nesboçada na figura.\nDado 𝐵 =(cid:4668)(𝑥,𝑦)∈ℝ(cid:2870):(𝑥+1)(cid:2870)+𝑦(cid:2870) ≥1(cid:4669), a área da região\n𝐴∩𝐵 é:\n(cid:3095)\n(A) 2−\n(cid:2872)\n(cid:3095)\n(B) 2−\n(cid:2870)\n(cid:3095)\n(C) 4+\n(cid:2870)\n(cid:3095)\n(D) 4−\n(cid:2872)\n(cid:3095)\n(E) 2+\n(cid:2870)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            430.79470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Geometria analítica e área de interseção",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

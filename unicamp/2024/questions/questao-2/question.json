@@ -1,0 +1,102 @@
+{
+  "title": "Questão 2 - UNICAMP 2024 - 1ª fase",
+  "index": 2,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "O texto a seguir será usado para responder às questões 1 e 2.\n\n‘Nevou’ no Rio\nEm pleno verão, o fenômeno que vem chamando atenção nas\nruas do Rio é conhecido como “nevada carioca”, ou apenas\n“nevou”. Trata-se da mania de descolorir, platinando os cabelos\naté os fios ficarem completamente brancos, que tomou conta\ndas cabeças dos jovens de Norte a Sul e virou a febre do momento. A onda começou às vésperas do Natal, ganhou força\nno réveillon e entrou em janeiro lotando os salões. Nascida nas\ncomunidades e nos subúrbios, a tendência ultrapassou fronteiras geográficas e sociais da cidade, principalmente depois de\nganhar as redes e de ter conquistado artistas e atletas. Cabeleireiros e donos de salão apostam que o modismo resiste com\nforça até os dias de folia.\n(Adaptado de: https://oglobo.globo.com/rio/noticia/2023/01/nevou-no-rio-mania-de-\n-descolorir-o-cabelo-ate-ficar-quase-branco-vira-moda-entre-os-cariocas.ghtml. Acesso\nem 22/06/2023.)\nAssinale a alternativa em que todas as palavras listadas têm um\nmesmo referente dentro do texto.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fenômeno – onda – tendência – modismo",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "mania – onda – febre – força",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fenômeno – momento – mania – febre",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "modismo – tendência – força – momento",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Assinale a alternativa em que todas as palavras listadas têm um\nmesmo referente dentro do texto.\na) fenômeno – onda – tendência – modismo\nb) mania – onda – febre – força\nc) fenômeno – momento – mania – febre\nd) modismo – tendência – força – momento",
+    "sharedContext": "O texto a seguir será usado para responder às questões 1 e 2.\n\n‘Nevou’ no Rio\nEm pleno verão, o fenômeno que vem chamando atenção nas\nruas do Rio é conhecido como “nevada carioca”, ou apenas\n“nevou”. Trata-se da mania de descolorir, platinando os cabelos\naté os fios ficarem completamente brancos, que tomou conta\ndas cabeças dos jovens de Norte a Sul e virou a febre do momento. A onda começou às vésperas do Natal, ganhou força\nno réveillon e entrou em janeiro lotando os salões. Nascida nas\ncomunidades e nos subúrbios, a tendência ultrapassou fronteiras geográficas e sociais da cidade, principalmente depois de\nganhar as redes e de ter conquistado artistas e atletas. Cabeleireiros e donos de salão apostam que o modismo resiste com\nforça até os dias de folia.\n(Adaptado de: https://oglobo.globo.com/rio/noticia/2023/01/nevou-no-rio-mania-de-\n-descolorir-o-cabelo-ate-ficar-quase-branco-vira-moda-entre-os-cariocas.ghtml. Acesso\nem 22/06/2023.)\nNo texto, o verbo nevar apresenta sentido",
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            77.83169999999996
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            77.83169999999996,
+            291,
+            319.909
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            418.35769999999997,
+            291,
+            576.8238
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

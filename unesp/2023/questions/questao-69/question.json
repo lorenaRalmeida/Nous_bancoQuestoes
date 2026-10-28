@@ -1,0 +1,98 @@
+{
+  "title": "Questão 69 - UNESP 2023 - 1ª fase",
+  "index": 69,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "A “barrilha leve”, carbonato de sódio (Na CO ), é um produto\n2 3\nde grande uso industrial, sendo também utilizado no tratamento da água de piscinas. A obtenção da barrilha leve envolve o processo Solvay, no qual dióxido de carbono gasoso\n(CO ) é borbulhado em uma solução aquosa que contém\n2\namônia (NH ) e cloreto de sódio (NaCl), de acordo com a\n3\nreação:\nCO (g) + NH (aq) + Na+ (aq) + Cl – (aq) + H O (l)\n2 3 2\nNH + (aq) + HCO – (aq) + Na+ (aq) + Cl – (aq)\n4 3\nA solução iônica resultante desse processo é resfriada de\nmodo que apenas o bicarbonato de sódio, NaHCO (s), forma\n3\num precipitado, e os demais íons permanecem em solução.\nO NaHCO (s) é separado da mistura por filtração e submeti-\n3\ndo a aquecimento, decompondo-se e originando o carbonato\nde sódio, Na CO (s).\n2 3\nEm princípio, como resultado do processo Solvay, seria possível obter várias substâncias iônicas por precipitação. Entretanto, nessa etapa, somente o bicarbonato de sódio sólido,\nNaHCO (s), se separa como precipitado. Isso ocorre porque,\n3\ndentre as demais substâncias possíveis de serem formadas\nno processo Solvay, o NaHCO (s) é a substância iônica que\n3\napresenta a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "menor temperatura de fusão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "menor pressão de vapor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "maior temperatura de ebulição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "menor solubilidade em água.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "maior densidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A “barrilha leve”, carbonato de sódio (Na CO ), é um produto\n2 3\nde grande uso industrial, sendo também utilizado no trata-\nmento da água de piscinas. A obtenção da barrilha leve en-\nvolve o processo Solvay, no qual dióxido de carbono gasoso\n(CO ) é borbulhado em uma solução aquosa que contém\n2\namônia (NH ) e cloreto de sódio (NaCl), de acordo com a\n3\nreação:\nCO (g) + NH (aq) + Na+ (aq) + Cl – (aq) + H O (l)\n2 3 2\nNH + (aq) + HCO – (aq) + Na+ (aq) + Cl – (aq)\n4 3\nA solução iônica resultante desse processo é resfriada de\nmodo que apenas o bicarbonato de sódio, NaHCO (s), forma\n3\num precipitado, e os demais íons permanecem em solução.\nO NaHCO (s) é separado da mistura por filtração e submeti-\n3\ndo a aquecimento, decompondo-se e originando o carbonato\nde sódio, Na CO (s).\n2 3\nEm princípio, como resultado do processo Solvay, seria pos-\nsível obter várias substâncias iônicas por precipitação. Entre-\ntanto, nessa etapa, somente o bicarbonato de sódio sólido,\nNaHCO (s), se separa como precipitado. Isso ocorre porque,\n3\ndentre as demais substâncias possíveis de serem formadas\nno processo Solvay, o NaHCO (s) é a substância iônica que\n3\napresenta a\n(A) menor temperatura de fusão.\n(B) menor pressão de vapor.\n(C) maior temperatura de ebulição.\n(D) menor solubilidade em água.\n(E) maior densidade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            28.943899999999985,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

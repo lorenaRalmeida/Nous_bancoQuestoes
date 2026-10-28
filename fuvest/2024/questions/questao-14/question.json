@@ -1,0 +1,90 @@
+{
+  "title": "Questão 14 - FUVEST 2024 - 1ª fase",
+  "index": 14,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Na série ficcional Wandinha, o poder da visão é transmitido entre\nas bruxas, conforme o modelo genealógico hipotético a seguir:\nConsiderando a genealogia apresentada, o poder da visão tem\nherança",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "autossômica dominante, porque se apresenta somente\nem mulheres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "autossômica recessiva, sendo todos os homens\nhomozigóticos dominantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ligada ao X recessiva, e os filhos homens inativam esse\ncromossomo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ligada ao X recessiva, porque aparece em todas as\ngerações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ligada ao X dominante, sendo letal para fetos masculinos\ncom o alelo dominante.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Na série ficcional Wandinha, o poder da visão é transmitido entre\nas bruxas, conforme o modelo genealógico hipotético a seguir:\nConsiderando a genealogia apresentada, o poder da visão tem\nherança\n(A) autossômica dominante, porque se apresenta somente\nem mulheres.\n(B) autossômica recessiva, sendo todos os homens\nhomozigóticos dominantes.\n(C) ligada ao X recessiva, e os filhos homens inativam esse\ncromossomo.\n(D) ligada ao X recessiva, porque aparece em todas as\ngerações.\n(E) ligada ao X dominante, sendo letal para fetos masculinos\ncom o alelo dominante.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            468.35470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Heredograma e padrões de herança",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

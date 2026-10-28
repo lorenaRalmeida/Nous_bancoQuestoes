@@ -1,0 +1,100 @@
+{
+  "title": "Questão 70 - UNESP 2024 - 1ª fase",
+  "index": 70,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Um produto químico sob forma de aerossol, empregado para\nlubrificar e soltar peças travadas, apresenta em sua embalagem os seguintes símbolos (pictogramas):\n(https://echa.europa.eu)\nEsses símbolos indicam que o produto deve ser armazenado\nem local",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aquecido, longe do fogo, e utilizado em ambiente ventilado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fresco, longe do fogo, e utilizado em ambiente fechado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fresco, perto do fogo, e utilizado em ambiente ventilado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aquecido, perto de fontes de calor, e utilizado em ambiente fechado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fresco, longe do fogo, e utilizado em ambiente ventilado.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um produto químico sob forma de aerossol, empregado para\nlubrificar e soltar peças travadas, apresenta em sua embala-\ngem os seguintes símbolos (pictogramas):\n(https://echa.europa.eu)\nEsses símbolos indicam que o produto deve ser armazenado\nem local\n(A) aquecido, longe do fogo, e utilizado em ambiente venti-\nlado.\n(B) fresco, longe do fogo, e utilizado em ambiente fechado.\n(C) fresco, perto do fogo, e utilizado em ambiente ventilado.\n(D) aquecido, perto de fontes de calor, e utilizado em am-\nbiente fechado.\n(E) fresco, longe do fogo, e utilizado em ambiente ventilado.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            261.14070000000004,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 21 - FUVEST 2025 - 1ª fase",
+  "index": 21,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um\nprocesso de intercalação iônica, no qual íons Li+ penetram e\nse acomodam entre camadas de grafite no ânodo da bateria.\nA quantidade de energia armazenada é diretamente\nproporcional ao número de íons Li+ intercalados no ânodo,\nque, entre outros aspectos, é limitado pelo espaço disponível\npara a sua alocação. Uma recente inovação tecnológica em\nbaterias é a substituição de Li por Na, formando baterias íon-\nsódio (íon-Na). O mecanismo de funcionamento se baseia no\nprocesso de intercalação, com a vantagem de que o Na é mais\nabundante do que o Li no planeta.\nConsiderando que a única diferença entre baterias de mesma\nmassa e volume seja o íon utilizado (Na+ ou Li+) e que a\ndensidade de energia é a quantidade de energia armazenada\nna bateria por unidade de massa e volume, é correto afirmar\nque a densidade de energia de uma bateria íon-Na é\n\nNote e adote:\nDistribuição eletrônica: Li = 1s2, 2s1; Na = 1s2, 2s2, 2p6, 3s1.\nMassa atômica (u): Li = 7; Na = 23.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "maior do que de uma bateria íon-Li, pois o Na+ tem maior\nmassa e menor raio iônico do que o Li+.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "menor do que de uma bateria íon-Li, pois o Na+ tem maior\nmassa e maior raio iônico do que o Li+.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "maior do que de uma bateria íon-Li, pois o Na+ tem menor\nmassa e maior raio iônico do que o Li+.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "menor do que de uma bateria íon-Li, pois o Na+ tem menor\nmassa e menor raio iônico do que o Li+.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "igual à de uma bateria íon-Li, pois ambos os íons são\nmonovalentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nBaterias íon-lítio (íon-Li) armazenam energia por meio de um\nprocesso de intercalação iônica, no qual íons Li+ penetram e\nse acomodam entre camadas de grafite no ânodo da bateria.\nA quantidade de energia armazenada é diretamente\nproporcional ao número de íons Li+ intercalados no ânodo,\nque, entre outros aspectos, é limitado pelo espaço disponível\npara a sua alocação. Uma recente inovação tecnológica em\nbaterias é a substituição de Li por Na, formando baterias íon-\nsódio (íon-Na). O mecanismo de funcionamento se baseia no\nprocesso de intercalação, com a vantagem de que o Na é mais\nabundante do que o Li no planeta.\nConsiderando que a única diferença entre baterias de mesma\nmassa e volume seja o íon utilizado (Na+ ou Li+) e que a\ndensidade de energia é a quantidade de energia armazenada\nna bateria por unidade de massa e volume, é correto afirmar\nque a densidade de energia de uma bateria íon-Na é\n(A) maior do que de uma bateria íon-Li, pois o Na+ tem maior\nmassa e menor raio iônico do que o Li+.\n(B) menor do que de uma bateria íon-Li, pois o Na+ tem maior\nmassa e maior raio iônico do que o Li+.\n(C) maior do que de uma bateria íon-Li, pois o Na+ tem menor\nmassa e maior raio iônico do que o Li+.\n(D) menor do que de uma bateria íon-Li, pois o Na+ tem menor\nmassa e menor raio iônico do que o Li+.\n(E) igual à de uma bateria íon-Li, pois ambos os íons são\nmonovalentes.\nNote e adote:\nDistribuição eletrônica: Li = 1s2, 2s1; Na = 1s2, 2s2, 2p6, 3s1.\nMassa atômica (u): Li = 7; Na = 23.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Estrutura atômica e densidade energética de baterias",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

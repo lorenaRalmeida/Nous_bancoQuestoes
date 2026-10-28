@@ -1,0 +1,106 @@
+{
+  "title": "Questão 90 - UNESP 2024 - 1ª fase",
+  "index": 90,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "O ChatGPT é uma ferramenta computacional de inteligência\nartificial que, entre outras aplicações, pode tentar resolver\nalguns problemas matemáticos. O problema matemático a\nseguir foi submetido ao ChatGPT.\n(https://chat.openai.com. Adaptado.)\nA ferramenta apresentou como solução do problema o número 13246, o que não está correto. Considerando que essa\nsolução incorreta tenha relação com uma leitura imprecisa\ndo texto pelo ChatGPT, tal imprecisão deve-se ao fato de a\nferramenta ter ignorado",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a condição de que os algarismos sejam distintos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a forma imperativa do verbo “escrever”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o trecho “sem usar o zero”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o trecho “da direita para a esquerda”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "o trecho “da esquerda para a direita”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O ChatGPT é uma ferramenta computacional de inteligência\nartificial que, entre outras aplicações, pode tentar resolver\nalguns problemas matemáticos. O problema matemático a\nseguir foi submetido ao ChatGPT.\n(https://chat.openai.com. Adaptado.)\nA ferramenta apresentou como solução do problema o nú-\nmero 13246, o que não está correto. Considerando que essa\nsolução incorreta tenha relação com uma leitura imprecisa\ndo texto pelo ChatGPT, tal imprecisão deve-se ao fato de a\nferramenta ter ignorado\n(A) a condição de que os algarismos sejam distintos.\n(B) a forma imperativa do verbo “escrever”.\n(C) o trecho “sem usar o zero”.\n(D) o trecho “da direita para a esquerda”.\n(E) o trecho “da esquerda para a direita”.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 34,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 34,
+        "bbox": [
+          334.521,
+          97.02699999999993,
+          531.92902,
+          278.85200999999995
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

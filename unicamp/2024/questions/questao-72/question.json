@@ -1,0 +1,95 @@
+{
+  "title": "Questão 72 - UNICAMP 2024 - 1ª fase",
+  "index": 72,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "No trecho a seguir, observa-se o uso de uma variedade linguística de inglês conhecida como African American Vernacular\nEnglish (AAVE). Ainda que tão diversa e sofisticada quanto\nquaisquer outras variedades, a AAVE ainda é estigmatizada por\nter características linguísticas diferentes daquelas que marcam a\nvariedade de prestígio, isto é, a padrão.\n“– Listen, God love everything you love – and a mess of\nstuff you don't. (…) It always making little surprises and\nspringing them on us when us least expect. (…) Man corrupt\neverything (…) He try to make you think he everywhere (…),\nyou think he God. But he ain't. (…) I start to wonder why\nus suffer. Why us black. It didn’t take long to realize I didn’t\nhardly know nothing.”\n(Adaptado de: WALKER, Alice. The Color Purple. London: The Orion Publishing Group,\n1983.)\nAssinale a alternativa que preenche corretamente as lacunas no\ntrecho a seguir:\nÉ correto dizer que o excerto apresenta aspectos linguísticos\n– que diferem dos observados na variedade padrão – como (i)\n_________, e que sua temática central é a (ii) ________.",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(i) a repetição do verbo de ligação; (ii) corrupção e o sofrimento inerentes ao homem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(i) a possibilidade de dupla negação; (ii) previsibilidade da\nvontade de Deus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(i) a concordância verbal não padrão; (ii) ilusão do homem\nquanto à sua superioridade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "(i) a omissão de sujeito em orações; (ii) ganância do homem\nem se sobrepor a Deus.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No trecho a seguir, observa-se o uso de uma variedade linguís-\ntica de inglês conhecida como African American Vernacular\nEnglish (AAVE). Ainda que tão diversa e sofisticada quanto\nquaisquer outras variedades, a AAVE ainda é estigmatizada por\nter características linguísticas diferentes daquelas que marcam a\nvariedade de prestígio, isto é, a padrão.\n“– Listen, God love everything you love – and a mess of\nstuff you don't. (…) It always making little surprises and\nspringing them on us when us least expect. (…) Man corrupt\neverything (…) He try to make you think he everywhere (…),\nyou think he God. But he ain't. (…) I start to wonder why\nus suffer. Why us black. It didn’t take long to realize I didn’t\nhardly know nothing.”\n(Adaptado de: WALKER, Alice. The Color Purple. London: The Orion Publishing Group,\n1983.)\nAssinale a alternativa que preenche corretamente as lacunas no\ntrecho a seguir:\nÉ correto dizer que o excerto apresenta aspectos linguísticos\n– que diferem dos observados na variedade padrão – como (i)\n_________, e que sua temática central é a (ii) ________.\na) (i) a repetição do verbo de ligação; (ii) corrupção e o sofri-\nmento inerentes ao homem.\nb) (i) a possibilidade de dupla negação; (ii) previsibilidade da\nvontade de Deus.\nc) (i) a concordância verbal não padrão; (ii) ilusão do homem\nquanto à sua superioridade.\nd) (i) a omissão de sujeito em orações; (ii) ganância do homem\nem se sobrepor a Deus.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            394.67269999999996,
+            568,
+            807
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 21,
+        "bbox": [
+          304,
+          485.506,
+          568,
+          611.671
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

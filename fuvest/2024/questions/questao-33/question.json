@@ -1,0 +1,103 @@
+{
+  "title": "Questão 33 - FUVEST 2024 - 1ª fase",
+  "index": 33,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Uma empresa farmacêutica produz certo medicamento, o\nqual é formado por quatro componentes, conforme indicado\nna tabela I. O custo do grama de cada um dos componentes\ndesse medicamento também é apresentado nessa tabela.\nTabela I\nComposição do Quantidade Custo\nmedicamento (em mg) (em R$/g)\nComponente A 200 700\nComponente B 70 500\nComponente C 130 300\nComponente D 100 120\nPara a produção do próximo lote do medicamento, a empresa\nterá um gasto diferente para fabricá-lo, pois os custos de\nalguns componentes sofreram alterações, conforme mostra a\ntabela II.\nTabela II\nComposição do Variação no\nmedicamento custo (em %)\nComponente A + 7\nComponente B − 5\nComponente C 0\nComponente D + 10\nQual é o aumento, em reais, no custo do medicamento?\n\nNote e adote:\nConsidere que os outros custos de\nprodução permaneceram inalterados.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "9,25",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "12,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "12,75",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "36,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "86,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Uma empresa farmacêutica produz certo medicamento, o\nqual é formado por quatro componentes, conforme indicado\nna tabela I. O custo do grama de cada um dos componentes\ndesse medicamento também é apresentado nessa tabela.\nTabela I\nComposição do Quantidade Custo\nmedicamento (em mg) (em R$/g)\nComponente A 200 700\nComponente B 70 500\nComponente C 130 300\nComponente D 100 120\nPara a produção do próximo lote do medicamento, a empresa\nterá um gasto diferente para fabricá-lo, pois os custos de\nalguns componentes sofreram alterações, conforme mostra a\ntabela II.\nTabela II\nComposição do Variação no\nmedicamento custo (em %)\nComponente A + 7\nComponente B − 5\nComponente C 0\nComponente D + 10\nQual é o aumento, em reais, no custo do medicamento?\n(A) 9,25 Note e adote:\n(B) 12,00\nConsidere que os outros custos de\n(C) 12,75 produção permaneceram inalterados.\n(D) 36,00\n(E) 86,00",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            297.5,
+            184.3746,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Cálculo percentual de custos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

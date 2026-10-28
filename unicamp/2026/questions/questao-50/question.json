@@ -1,0 +1,102 @@
+{
+  "title": "Questão 50 - UNICAMP 2026 - 1ª fase",
+  "index": 50,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A figura a seguir mostra um quadrado ABCD de lado medindo x. O ponto médio do lado AB está representado por\nM. Os pontos P e Q, pertencentes ao lado CD, são tais que\nPD = QC. O ângulo PMQ, representado por θ na figura, é tal que\ncos(θ) = 2⁄3.\nA M B\nθ\nD P Q C\nA área do triângulo PMQ é",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "√5 · x² / 5",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "√3 · x² / 2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "√2 · x² / 2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "√3 · x² / 4",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura a seguir mostra um quadrado ABCD de lado me-\ndindo x. O ponto médio do lado AB está representado por\nM. Os pontos P e Q, pertencentes ao lado CD, são tais que\nPD = QC. O ângulo PMQ, representado por θ na figura, é tal que\ncos(θ) = 2⁄3.\nA M B\nθ\nD P Q C\nA área do triângulo PMQ é\na) 5 x 2 . c) 2 x 2 .\n5 2\n√ √\nb) 3 x 2 . d) 3 x 2 .\n2 4\n√ √",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            338.89599999999996,
+            291,
+            716.2982
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 19,
+        "bbox": [
+          79.08770000000001,
+          430.6107,
+          237.6817,
+          589.3797999999999
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

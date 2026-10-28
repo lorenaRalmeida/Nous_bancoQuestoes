@@ -1,0 +1,90 @@
+{
+  "title": "Questão 44 - FUVEST 2023 - 1ª fase",
+  "index": 44,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "“Migna terra tê parmeras\nChe ganta inzima o sabiá.\nAs aves che stó aqui,\nTambê tuttos sabi gorgeá.\n(...)\nOs rio lá sô maise grandi\nDus rio di tuttas naçó;\nI os matto si perdi di vista,\nNu meio da imensidó.”\nBANANÉRE, Juó. “Migna terra”. La Divina Increnca. São Paulo: Irmãos\nMarrano Editora, 1924.\nAssinale a alternativa que melhor expressa as relações entre\no poema e a inserção social de imigrantes italianos no Brasil.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O poema traça uma analogia entre a paisagem natural da\nItália e do Brasil, sob os olhos de um imigrante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A referência à oralidade era um reconhecimento à\ncontribuição desta comunidade para a nova literatura\nbrasileira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O poema tematiza a revolta dos imigrantes camponeses\nitalianos ao chegarem nas fazendas de café.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O caráter lírico presente no poema indica a emotividade e\no desejo de aceitação por parte dos imigrantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A linguagem adotada no poema expressava uma maneira\ncaricata de representar o idioma daquela comunidade.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Migna terra tê parmeras\nChe ganta inzima o sabiá.\nAs aves che stó aqui,\nTambê tuttos sabi gorgeá.\n(...)\nOs rio lá sô maise grandi\nDus rio di tuttas naçó;\nI os matto si perdi di vista,\nNu meio da imensidó.”\nBANANÉRE, Juó. “Migna terra”. La Divina Increnca. São Paulo: Irmãos\nMarrano Editora, 1924.\nAssinale a alternativa que melhor expressa as relações entre\no poema e a inserção social de imigrantes italianos no Brasil.\n(A) O poema traça uma analogia entre a paisagem natural da\nItália e do Brasil, sob os olhos de um imigrante.\n(B) A referência à oralidade era um reconhecimento à\ncontribuição desta comunidade para a nova literatura\nbrasileira.\n(C) O poema tematiza a revolta dos imigrantes camponeses\nitalianos ao chegarem nas fazendas de café.\n(D) O caráter lírico presente no poema indica a emotividade e\no desejo de aceitação por parte dos imigrantes.\n(E) A linguagem adotada no poema expressava uma maneira\ncaricata de representar o idioma daquela comunidade.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            28,
+            121.0747,
+            297.5,
+            512.2746
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "topic": "Representação linguística de imigrantes italianos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

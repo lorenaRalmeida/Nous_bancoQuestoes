@@ -1,0 +1,82 @@
+{
+  "title": "Questão 26 - UNICAMP 2025 - 1ª fase",
+  "index": 26,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Em meados de fevereiro de 1765, Juana Antonia Gomiciaga,\npor intermédio do “procurador de pobres”, Diego Toribio de la\nCueva, se apresentou ao Cabildo de Santiago. Ela confiava que\no foro de justiça local pudesse dar solução ao seu pedido principal: obter o reconhecimento de sua liberdade, que, de acordo\ncom sua versão, havia sido concedida verbalmente por sua senhora, Francisca Josefa Gomiciaga, em fevereiro de 1751. Nas\npalavras do procurador, a liberdade havia sido concedida devido à “piedade e compaixão”. Contudo, essa alforria verbal, ao\nlongo do tempo, foi desconsiderada pelas senhoras de Juana, o\nque motivou a escrava Juana Antonia a recorrer à arena judicial.\n(Traduzido e adaptado de GONZALEZ, A. F. G. Los matices de la resistencia: Trayectorias\nvitales de mujeres esclavizadas ante la justicia eclesiástica de Santiago. Chile, siglos XVII\ny XVIII. Autoctonía (Santiago), 8(1), p. 88-127, janeiro de 2024.)\nTendo em vista seus conhecimentos sobre América espanhola\ne considerando as informações, presentes no excerto, sobre o\ncaso de Juana Antônia Gomiciaga, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "As ações judiciais resultaram em um questionamento da sociedade escravocrata; por conta delas, foi decretado o fim\ndo sistema de escravidão africana no século XVIII.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A resistência à escravidão indígena era marcada pelo enfrentamento físico e, no caso da resistência africana à escravidão, predominava a postura passiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Embora houvesse demandas jurídicas dos escravizados, o\nImpério era inflexível quanto a essas negociações na Justiça,\ncomo demonstrado no excerto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os estudos sobre a escravidão têm demonstrado que muitos escravizados, entre várias estratégias, articulavam a luta\npela liberdade na Justiça.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em meados de fevereiro de 1765, Juana Antonia Gomiciaga,\npor intermédio do “procurador de pobres”, Diego Toribio de la\nCueva, se apresentou ao Cabildo de Santiago. Ela confiava que\no foro de justiça local pudesse dar solução ao seu pedido prin-\ncipal: obter o reconhecimento de sua liberdade, que, de acordo\ncom sua versão, havia sido concedida verbalmente por sua se-\nnhora, Francisca Josefa Gomiciaga, em fevereiro de 1751. Nas\npalavras do procurador, a liberdade havia sido concedida devi-\ndo à “piedade e compaixão”. Contudo, essa alforria verbal, ao\nlongo do tempo, foi desconsiderada pelas senhoras de Juana, o\nque motivou a escrava Juana Antonia a recorrer à arena judicial.\n(Traduzido e adaptado de GONZALEZ, A. F. G. Los matices de la resistencia: Trayectorias\nvitales de mujeres esclavizadas ante la justicia eclesiástica de Santiago. Chile, siglos XVII\ny XVIII. Autoctonía (Santiago), 8(1), p. 88-127, janeiro de 2024.)\nTendo em vista seus conhecimentos sobre América espanhola\ne considerando as informações, presentes no excerto, sobre o\ncaso de Juana Antônia Gomiciaga, assinale a alternativa correta.\na) As ações judiciais resultaram em um questionamento da so-\nciedade escravocrata; por conta delas, foi decretado o fim\ndo sistema de escravidão africana no século XVIII.\nb) A resistência à escravidão indígena era marcada pelo enfren-\ntamento físico e, no caso da resistência africana à escravi-\ndão, predominava a postura passiva.\nc) Embora houvesse demandas jurídicas dos escravizados, o\nImpério era inflexível quanto a essas negociações na Justiça,\ncomo demonstrado no excerto.\nd) Os estudos sobre a escravidão têm demonstrado que mui-\ntos escravizados, entre várias estratégias, articulavam a luta\npela liberdade na Justiça.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            271.078,
+            291,
+            686.2308
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Questão 54 - UNICAMP 2024 - 1ª fase",
+  "index": 54,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Sr. Gauss tem uma pizzaria, chamada π-zzaria, que vende dois\ntipos de pizzas circulares: uma individual, de diâmetro d; e uma\nde 20 cm de diâmetro, partida em quatro pedaços iguais.\nConsiderando que o preço de uma pizza é proporcional à sua\nárea, qual precisa ser o valor de d para que quatro pizzas individuais custem o mesmo que a pizza mencionada, de quatro\npedaços?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "6 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "8 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "10 cm.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "12 cm.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Sr. Gauss tem uma pizzaria, chamada π-zzaria, que vende dois\ntipos de pizzas circulares: uma individual, de diâmetro d; e uma\nde 20 cm de diâmetro, partida em quatro pedaços iguais.\nConsiderando que o preço de uma pizza é proporcional à sua\nárea, qual precisa ser o valor de d para que quatro pizzas indi-\nviduais custem o mesmo que a pizza mencionada, de quatro\npedaços?\na) 6 cm. c) 10 cm.\nb) 8 cm. d) 12 cm.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            281.2653,
+            568,
+            447.51
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

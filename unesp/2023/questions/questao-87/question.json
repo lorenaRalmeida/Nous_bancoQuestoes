@@ -1,0 +1,113 @@
+{
+  "title": "Questão 87 - UNESP 2023 - 1ª fase",
+  "index": 87,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Observe a figura, formada por um triângulo PQR inscrito\nem uma circunferência de diâmetro PR = 10 m, em que\nPQ = 6 m. Uma partícula se move sobre a linha contínua,\niniciando seu movimento em P, passando por Q, depois\npor R e, finalmente, voltando a P, como mostram as setas\nsobre a trajetória.\nA partícula parte de P com velocidade inicial de 8 m/s, e o\nmódulo de sua velocidade aumenta uniformemente ao longo\nda trajetória, até chegar novamente em P, com velocidade\nde 10 m/s. Adotando p = 3, o módulo da aceleração escalar\ndessa partícula ao longo de todo seu percurso é de:",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "36/89 m/s²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3/25 m/s²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2/11 m/s²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "18/29 m/s²",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "1/11 m/s²",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Observe a figura, formada por um triângulo PQR inscrito\nem uma circunferência de diâmetro PR = 10 m, em que\nPQ = 6 m. Uma partícula se move sobre a linha contínua,\niniciando seu movimento em P, passando por Q, depois\npor R e, finalmente, voltando a P, como mostram as setas\nsobre a trajetória.\nA partícula parte de P com velocidade inicial de 8 m/s, e o\nmódulo de sua velocidade aumenta uniformemente ao longo\nda trajetória, até chegar novamente em P, com velocidade\nde 10 m/s. Adotando p = 3, o módulo da aceleração escalar\ndessa partícula ao longo de todo seu percurso é de:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 33,
+        "bbox": [
+          90.4552,
+          122.08500000000004,
+          235.00639999999999,
+          257.6702
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

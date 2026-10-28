@@ -1,0 +1,362 @@
+{
+  "title": "Questão 26 - UNESP 2025 - 1ª fase",
+  "index": 26,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto e examine os gráficos para responder às questões de 21 a 26.\nIf you’re a chocoholic you may have noticed that your\nhabit has lately become more expensive. The price of cocoa\nbegan creeping up in the second half of 2022. Since then\nit has doubled, reaching an all-time high in January 2024.\nThat steep rise spells trouble for the chocolate business and\nsweet-toothed consumers alike.\nGraph 1\nGraph 2\nClimate patterns are partly to blame for rising costs. Cocoa\nis mostly produced by small farmers in West Africa. Ghana\nand Ivory Coast grow about 60% of the world’s crop.\nLast season, in 2023, the El Niño weather pattern led to\nunseasonably high temperatures and rainfall that ravaged\ncrops. Total rainfall in Ivory Coast’s cocoa-growing areas\nin 2023 was the highest in 20 years, according to Gro\nIntelligence, a data firm.\nThis year El Niño has brought severe drought to the cocoa\nfarms, reducing production further. ING, a bank, estimates\nthat this year the gap between global production and\nconsumption will be at its widest since at least 2014. Extreme\nweather patterns have hit other commodities, too. Droughts\nin Thailand and India are affecting rice plantations. Torrential\nrain in Brazil, the world’s biggest sugar exporter, has affected\nits exports. Besides, other price pressures are specific to the\ncocoa industry. Swollen-shoot virus and black-pod disease —\nkillers of cocoa trees — spread across Ghana and Ivory Coast\nduring heavy rainfall last year. Tropical Research Services,\na research company, estimates that by the end of 2023 the\nswollen-shoot virus had infected around 20% of Ivory Coast’s\ncocoa trees.\n(www.economist.com, 28.02.2024. Adaptado.)\n\nNo trecho do terceiro parágrafo “Besides, other price pressures\nare specific to the cocoa industry”, o termo sublinhado pode\nser substituído, sem alteração de sentido, por:",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png",
+    "figura-vetorial-09.png",
+    "figura-vetorial-10.png",
+    "figura-vetorial-11.png",
+    "figura-vetorial-12.png",
+    "figura-vetorial-13.png",
+    "figura-vetorial-14.png",
+    "figura-vetorial-15.png",
+    "figura-vetorial-16.png",
+    "figura-vetorial-17.png",
+    "figura-vetorial-18.png",
+    "figura-vetorial-19.png",
+    "figura-vetorial-20.png",
+    "figura-vetorial-21.png",
+    "figura-vetorial-22.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Unlikely.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Whereas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Therefore.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Although.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Also.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No trecho do terceiro parágrafo “Besides, other price pressures\nare specific to the cocoa industry”, o termo sublinhado pode\nser substituído, sem alteração de sentido, por:\n(A) Unlikely.\n(B) Whereas.\n(C) Therefore.\n(D) Although.\n(E) Also.",
+    "sharedContext": "Leia o texto e examine os gráficos para responder às questões de 21 a 26.\nIf you’re a chocoholic you may have noticed that your\nhabit has lately become more expensive. The price of cocoa\nbegan creeping up in the second half of 2022. Since then\nit has doubled, reaching an all-time high in January 2024.\nThat steep rise spells trouble for the chocolate business and\nsweet-toothed consumers alike.\nGraph 1\nGraph 2\nClimate patterns are partly to blame for rising costs. Cocoa\nis mostly produced by small farmers in West Africa. Ghana\nand Ivory Coast grow about 60% of the world’s crop.\nLast season, in 2023, the El Niño weather pattern led to\nunseasonably high temperatures and rainfall that ravaged\ncrops. Total rainfall in Ivory Coast’s cocoa-growing areas\nin 2023 was the highest in 20 years, according to Gro\nIntelligence, a data firm.\nThis year El Niño has brought severe drought to the cocoa\nfarms, reducing production further. ING, a bank, estimates\nthat this year the gap between global production and\nconsumption will be at its widest since at least 2014. Extreme\nweather patterns have hit other commodities, too. Droughts\nin Thailand and India are affecting rice plantations. Torrential\nrain in Brazil, the world’s biggest sugar exporter, has affected\nits exports. Besides, other price pressures are specific to the\ncocoa industry. Swollen-shoot virus and black-pod disease —\nkillers of cocoa trees — spread across Ghana and Ivory Coast\nduring heavy rainfall last year. Tropical Research Services,\na research company, estimates that by the end of 2023 the\nswollen-shoot virus had infected around 20% of Ivory Coast’s\ncocoa trees.\n(www.economist.com, 28.02.2024. Adaptado.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            302.7726999999999,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            22,
+            568,
+            312.80679999999995
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            365.0856,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            22,
+            568,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 9,
+        "bbox": [
+          30,
+          408.287006,
+          90.8601,
+          447.35429999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 9,
+        "bbox": [
+          67.7926,
+          450.3616,
+          170.783,
+          478.18399999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 9,
+        "bbox": [
+          68.0775,
+          469.6824,
+          258.0555,
+          491.4274
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 9,
+        "bbox": [
+          68.0775,
+          487.6896,
+          258.01149999999996,
+          588.3786
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 9,
+        "bbox": [
+          68.0775,
+          589.7516,
+          257.99350000000004,
+          621.7382
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 9,
+        "bbox": [
+          72.3278,
+          641.4354,
+          230.1571,
+          669.2576
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 9,
+        "bbox": [
+          117.714,
+          672.757,
+          235.114,
+          698.1469989999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 9,
+        "bbox": [
+          72.705,
+          675.6963,
+          128.35649999999998,
+          699.2047
+        ]
+      },
+      {
+        "file": "figura-vetorial-09.png",
+        "page": 9,
+        "bbox": [
+          117.714,
+          688.21,
+          165.513004,
+          713.599999
+        ]
+      },
+      {
+        "file": "figura-vetorial-10.png",
+        "page": 9,
+        "bbox": [
+          72.3837,
+          690.7534,
+          111.6385,
+          712.6744
+        ]
+      },
+      {
+        "file": "figura-vetorial-11.png",
+        "page": 9,
+        "bbox": [
+          117.714,
+          703.564,
+          154.938007,
+          728.953999
+        ]
+      },
+      {
+        "file": "figura-vetorial-12.png",
+        "page": 9,
+        "bbox": [
+          72.5917,
+          705.9069999999999,
+          117.8653,
+          727.7273
+        ]
+      },
+      {
+        "file": "figura-vetorial-13.png",
+        "page": 9,
+        "bbox": [
+          117.714,
+          718.625,
+          147.737003,
+          744.014999
+        ]
+      },
+      {
+        "file": "figura-vetorial-14.png",
+        "page": 9,
+        "bbox": [
+          72.35719999999999,
+          720.8667,
+          124.7599,
+          742.7877
+        ]
+      },
+      {
+        "file": "figura-vetorial-15.png",
+        "page": 9,
+        "bbox": [
+          117.714,
+          734.371,
+          147.13699689999999,
+          759.760999
+        ]
+      },
+      {
+        "file": "figura-vetorial-16.png",
+        "page": 9,
+        "bbox": [
+          72.5679,
+          736.0205,
+          112.9626,
+          759.4317
+        ]
+      },
+      {
+        "file": "figura-vetorial-17.png",
+        "page": 9,
+        "bbox": [
+          117.714,
+          749.302,
+          144.13699689999999,
+          774.691999
+        ]
+      },
+      {
+        "file": "figura-vetorial-18.png",
+        "page": 9,
+        "bbox": [
+          72.5438,
+          751.0772999999999,
+          107.4000029,
+          772.8974
+        ]
+      },
+      {
+        "file": "figura-vetorial-19.png",
+        "page": 9,
+        "bbox": [
+          117.714,
+          764.656,
+          142.63699689999999,
+          790.0459989999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-20.png",
+        "page": 9,
+        "bbox": [
+          72.705,
+          766.1341,
+          122.3143,
+          787.9544
+        ]
+      },
+      {
+        "file": "figura-vetorial-21.png",
+        "page": 9,
+        "bbox": [
+          117.714,
+          779.75,
+          164.237003,
+          805.139999
+        ]
+      },
+      {
+        "file": "figura-vetorial-22.png",
+        "page": 9,
+        "bbox": [
+          72.3452,
+          781.0896,
+          108.07610000000001,
+          803.0156
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

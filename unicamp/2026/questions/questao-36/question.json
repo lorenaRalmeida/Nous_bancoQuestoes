@@ -1,0 +1,92 @@
+{
+  "title": "Questão 36 - UNICAMP 2026 - 1ª fase",
+  "index": 36,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Um agricultor realizou a remoção de um anel da casca de ramos caulinares, prática conhecida como anelamento, para aumentar o tamanho dos frutos em seu pomar. Ele observou dois\ngrupos de plantas após algumas semanas. As plantas do grupo 1 tinham uma região claramente anelada nos ramos e seus\nfrutos eram maiores, se comparadas às plantas do grupo 2. Já\nas plantas do grupo 2 perderam as folhas e foram claramente\nprejudicadas pelo anelamento. Ao retornar no ano seguinte, o\nanelamento era quase imperceptível nas plantas do grupo 1.\nConsiderando as informações apresentadas e os seus conhecimentos em biologia vegetal, é correto afirmar que o anelamento eliminou os vasos do\naludnâlg\nad\nedadidnuforP\n)mµ(\nlanitsetni\nControle\nInfectado",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "xilema e limitou o transporte de água para as folhas, comprometendo a atividade do câmbio vascular nas plantas do\ngrupo 1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "floema e restringiu o transporte dos produtos da fotossíntese para as folhas, sem comprometer a atividade do câmbio\nvascular nas plantas do grupo 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "xilema e limitou o transporte de água para as raízes, comprometendo a atividade do câmbio vascular nas plantas do\ngrupo 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "floema e restringiu o transporte dos produtos da fotossíntese para as raízes, sem comprometer a atividade do câmbio\nvascular nas plantas do grupo 1.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um agricultor realizou a remoção de um anel da casca de ra-\nmos caulinares, prática conhecida como anelamento, para au-\nmentar o tamanho dos frutos em seu pomar. Ele observou dois\ngrupos de plantas após algumas semanas. As plantas do gru-\npo 1 tinham uma região claramente anelada nos ramos e seus\nfrutos eram maiores, se comparadas às plantas do grupo 2. Já\nas plantas do grupo 2 perderam as folhas e foram claramente\nprejudicadas pelo anelamento. Ao retornar no ano seguinte, o\nanelamento era quase imperceptível nas plantas do grupo 1.\nConsiderando as informações apresentadas e os seus conheci-\nmentos em biologia vegetal, é correto afirmar que o anelamen-\nto eliminou os vasos do\naludnâlg\nad\nedadidnuforP\n)mµ(\nlanitsetni\nControle\nInfectado\na) xilema e limitou o transporte de água para as folhas, com-\nprometendo a atividade do câmbio vascular nas plantas do\ngrupo 1.\nb) floema e restringiu o transporte dos produtos da fotossínte-\nse para as folhas, sem comprometer a atividade do câmbio\nvascular nas plantas do grupo 2.\nc) xilema e limitou o transporte de água para as raízes, com-\nprometendo a atividade do câmbio vascular nas plantas do\ngrupo 2.\nd) floema e restringiu o transporte dos produtos da fotossínte-\nse para as raízes, sem comprometer a atividade do câmbio\nvascular nas plantas do grupo 1.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            609.8081999999999,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            40,
+            568,
+            236.9339
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

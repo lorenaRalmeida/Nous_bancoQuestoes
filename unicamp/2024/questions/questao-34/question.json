@@ -1,0 +1,92 @@
+{
+  "title": "Questão 34 - UNICAMP 2024 - 1ª fase",
+  "index": 34,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Texto comum às questões 34, 35, 36 e 37.\nUma das etapas mais difíceis de um voo espacial tripulado é a\nreentrada na atmosfera terrestre. Ao reencontrar as camadas\nmais altas da atmosfera, a nave sofre forte desaceleração e sua\ntemperatura externa atinge milhares de graus Celsius. Caso a\nreentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo\nrisco de ela ser lançada de volta ao espaço.\n\nLogo ao reentrar na atmosfera terrestre, uma cápsula espacial\npassa a descrever, durante certo tempo, um movimento retilíneo uniformemente variado em que ela é freada com aceleração a = −5,0 m/s². Se no início dessa etapa (t =0) do movimento a velocidade da cápsula é v =7000 m/s, qual é a\n0\ndistância percorrida até o tempo t =200 s?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1300 km.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "1400 km.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1500 km.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4900 km.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Logo ao reentrar na atmosfera terrestre, uma cápsula espacial\npassa a descrever, durante certo tempo, um movimento retilí-\nneo uniformemente variado em que ela é freada com acelera-\nção a(cid:31)(cid:30)5,0 m/s2. Se no início dessa etapa (t =0) do mo-\nvimento a velocidade da cápsula é v =7000 m/s, qual é a\n0\ndistância percorrida até o tempo t =200 s?\na) 1300 km. c) 1500 km.\nb) 1400 km. d) 4900 km.",
+    "sharedContext": "Texto comum às questões 34, 35, 36 e 37.\nUma das etapas mais difíceis de um voo espacial tripulado é a\nreentrada na atmosfera terrestre. Ao reencontrar as camadas\nmais altas da atmosfera, a nave sofre forte desaceleração e sua\ntemperatura externa atinge milhares de graus Celsius. Caso a\nreentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo\nrisco de ela ser lançada de volta ao espaço.",
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            70.64890000000003,
+            291,
+            181.25670000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            181.25670000000002,
+            291,
+            343.1683
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

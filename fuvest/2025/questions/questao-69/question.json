@@ -1,0 +1,125 @@
+{
+  "title": "Questão 69 - FUVEST 2025 - 1ª fase",
+  "index": 69,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "No plano cartesiano Oxy, o gráfico que melhor representa a função f(x) = |x² + 5x − 6| − 5x + 6 é dado por",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nNo plano cartesiano 𝑂𝑥𝑦, o gráfico que melhor representa a\nfunção 𝑓(cid:4666)𝑥(cid:4667)(cid:3404)|𝑥(cid:2870)(cid:3397)5𝑥(cid:3398)6|(cid:3398)5𝑥(cid:3397)6 é dado por\n(A)\n(B)\n(C)\n(D)\n(E)\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png"
+      ]
+    },
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Gráfico de função com módulo",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

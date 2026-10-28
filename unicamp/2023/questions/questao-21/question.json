@@ -1,0 +1,82 @@
+{
+  "title": "Questão 21 - UNICAMP 2023 - 1ª fase",
+  "index": 21,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "No ano de 2020, iniciou-se um conflito interno na Etiópia, com\ncomplexas implicações humanitárias, econômicas e geopolíticas, adicionando novas tensões à frágil estabilidade política na\nregião do Chifre da África.\n(Adaptado de YARED, Tegbaru. Institute for Security Studies – ISS. Acesso em 09/06/2022.)\nAs causas do atual conflito na Etiópia resultam",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da instabilidade das instituições estatais gerada pelo processo de colonização europeia no século XVIII.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "do conflito bélico com a Eritreia em razão da disputa pela\nsaída para o Mar Mediterrâneo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da tentativa de secessão da região do Tigré em função dos\nconflitos étnico-religiosos e políticos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "da participação de interesses estrangeiros na gestão dos recursos naturais etíopes, a exemplo do petróleo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No ano de 2020, iniciou-se um conflito interno na Etiópia, com\ncomplexas implicações humanitárias, econômicas e geopolíti-\ncas, adicionando novas tensões à frágil estabilidade política na\nregião do Chifre da África.\n(Adaptado de YARED, Tegbaru. Institute for Security Studies – ISS. Acesso em 09/06/2022.)\nAs causas do atual conflito na Etiópia resultam\na) da instabilidade das instituições estatais gerada pelo proces-\nso de colonização europeia no século XVIII.\nb) do conflito bélico com a Eritreia em razão da disputa pela\nsaída para o Mar Mediterrâneo.\nc) da tentativa de secessão da região do Tigré em função dos\nconflitos étnico-religiosos e políticos.\nd) da participação de interesses estrangeiros na gestão dos re-\ncursos naturais etíopes, a exemplo do petróleo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            308.0901
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 60 - UNICAMP 2026 - 1ª fase",
+  "index": 60,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Em seu ensaio “A vida não é útil”, Ailton Krenak elege Carlos\nDrummond de Andrade como um de seus “escudos”. Ele cita\na última estrofe de “O Homem; as Viagens”, poema publicado\nem As impurezas do Branco (1973). Reproduzimos, a seguir, a\nprimeira e a segunda estrofe desse poema:\n“O Homem; as Viagens\nO homem, bicho da Terra tão pequeno\nchateia-se na Terra\nlugar de muita miséria e pouca diversão,\nfaz um foguete, uma cápsula, um módulo\ntoca para a Lua\ndesce cauteloso na Lua\npisa na Lua\nplanta bandeirola na Lua\nexperimenta a Lua\ncoloniza a Lua\nciviliza a Lua\nhumaniza a Lua.\nLua humanizada: tão igual à Terra.\nO homem chateia-se na Lua.\nVamos para Marte – ordena a suas máquinas.\nElas obedecem, o homem desce em Marte\npisa em Marte\nexperimenta\ncoloniza\nciviliza\nhumaniza Marte com engenho e arte.\nMarte humanizado, que lugar quadrado.\n(...)”.\n(ANDRADE, C. D. O Homem; As viagens, As impurezas do Branco. In: Poesia Completa.\nRio de Janeiro, Editora Nova Aguilar, p. 718, 2002.)\n(KRENAK, A. A vida não é útil. Pesquisa e organização de Rita Carelli. São Paulo: Companhia das Letras, 2020.)\nEm relação às reflexões de Ailton Krenak, é correto afirmar que\nesse trecho do poema",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "responsabiliza a ciência e tecnologia, desgastadas em seus\nvalores, pela corrosão das relações nas sociedades contemporâneas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mostra que os Homens, guiados pela ideia de progresso,\nnão adotam uma postura consciente em relação ao seu espaço.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "evidencia que a Terra, desgastada em seus valores, foi superada pelos elementos da conquista espacial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "identifica a aniquilação das sociedades contemporâneas nos\nprogramas de governos persuadidos pelo progresso.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em seu ensaio “A vida não é útil”, Ailton Krenak elege Carlos\nDrummond de Andrade como um de seus “escudos”. Ele cita\na última estrofe de “O Homem; as Viagens”, poema publicado\nem As impurezas do Branco (1973). Reproduzimos, a seguir, a\nprimeira e a segunda estrofe desse poema:\n“O Homem; as Viagens\nO homem, bicho da Terra tão pequeno\nchateia-se na Terra\nlugar de muita miséria e pouca diversão,\nfaz um foguete, uma cápsula, um módulo\ntoca para a Lua\ndesce cauteloso na Lua\npisa na Lua\nplanta bandeirola na Lua\nexperimenta a Lua\ncoloniza a Lua\nciviliza a Lua\nhumaniza a Lua.\nLua humanizada: tão igual à Terra.\nO homem chateia-se na Lua.\nVamos para Marte – ordena a suas máquinas.\nElas obedecem, o homem desce em Marte\npisa em Marte\nexperimenta\ncoloniza\nciviliza\nhumaniza Marte com engenho e arte.\nMarte humanizado, que lugar quadrado.\n(...)”.\n(ANDRADE, C. D. O Homem; As viagens, As impurezas do Branco. In: Poesia Completa.\nRio de Janeiro, Editora Nova Aguilar, p. 718, 2002.)\n(KRENAK, A. A vida não é útil. Pesquisa e organização de Rita Carelli. São Paulo: Com-\npanhia das Letras, 2020.)\nEm relação às reflexões de Ailton Krenak, é correto afirmar que\nesse trecho do poema\na) responsabiliza a ciência e tecnologia, desgastadas em seus\nvalores, pela corrosão das relações nas sociedades contem-\nporâneas.\nb) mostra que os Homens, guiados pela ideia de progresso,\nnão adotam uma postura consciente em relação ao seu es-\npaço.\nc) evidencia que a Terra, desgastada em seus valores, foi supe-\nrada pelos elementos da conquista espacial.\nd) identifica a aniquilação das sociedades contemporâneas nos\nprogramas de governos persuadidos pelo progresso.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            259.73389999999995,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            40,
+            291,
+            117.32600000000002
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Filosofia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

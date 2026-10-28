@@ -1,0 +1,82 @@
+{
+  "title": "Questão 26 - UNICAMP 2026 - 1ª fase",
+  "index": 26,
+  "year": 2026,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Leia os textos 1 e 2.\nTexto 1\n\"Para Rosa Luxemburgo, uma sociedade socialista terá necessariamente que ser democrática (e vice-versa), o que significa que\nsó poderá resultar da participação efetiva das massas populares.\n[...] ela rejeita premonitoriamente a estratégia dos partidos de\nesquerda que chegarão ao poder no decorrer do século XX:\nprimeiro toma-se o poder, depois muda-se o mundo. Para ela,\na tomada do poder e a instituição da democracia (equivalente\naqui à mudança do mundo) não são duas etapas separadas no\ntempo, mas duas faces da mesma moeda”.\n(Comentário de Isabel Loureiro ao texto “A Revolução Russa (1918)” de Rosa Luxemburgo. LUXEMBURGO, R. Textos Escolhidos. Editora Expressão Popular, p. 101-2, 2009.\nOrg. Isabel Loureiro.)\nTexto 2\n\"Sem eleições gerais, sem liberdade ilimitada de imprensa e de\nreunião, sem livre debate de opiniões, a vida se definha em\nqualquer instituição pública, torna-se uma vida aparente em\nque só a burocracia subsiste como o único elemento ativo. [...]\nSomente massas esclarecidas, autônomas, politicamente formadas poderão exercer o poder nos novos organismos de base,\nos conselhos; em outras palavras, realizar o socialismo democrático\".\n(LUXEMBURGO, R. Textos Escolhidos. A Revolução Russa (1918). Editora Expressão Popular, Org. Isabel Loureiro, p. 114-131, 2009.)\nConsiderando os textos, assinale a alternativa que corresponde\nao pensamento de Rosa Luxemburgo.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Para afastar o socialismo da ameaça da burocracia, às vezes\né necessário restringir a liberdade de imprensa, o debate público e as eleições gerais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A instituição da democracia é uma etapa posterior à tomada\ndo poder político e equivale à mudança do mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A democracia socialista não difere da democracia representativa: ambas se baseiam na soberania popular dos conselhos, mas tendem à burocracia partidária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Democracia e socialismo são sinônimos, pois os conselhos\npopulares deveriam possibilitar a participação ativa das massas na condução do poder político e econômico.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia os textos 1 e 2.\nTexto 1\n\"Para Rosa Luxemburgo, uma sociedade socialista terá necessa-\nriamente que ser democrática (e vice-versa), o que significa que\nsó poderá resultar da participação efetiva das massas populares.\n[...] ela rejeita premonitoriamente a estratégia dos partidos de\nesquerda que chegarão ao poder no decorrer do século XX:\nprimeiro toma-se o poder, depois muda-se o mundo. Para ela,\na tomada do poder e a instituição da democracia (equivalente\naqui à mudança do mundo) não são duas etapas separadas no\ntempo, mas duas faces da mesma moeda”.\n(Comentário de Isabel Loureiro ao texto “A Revolução Russa (1918)” de Rosa Luxem-\nburgo. LUXEMBURGO, R. Textos Escolhidos. Editora Expressão Popular, p. 101-2, 2009.\nOrg. Isabel Loureiro.)\nTexto 2\n\"Sem eleições gerais, sem liberdade ilimitada de imprensa e de\nreunião, sem livre debate de opiniões, a vida se definha em\nqualquer instituição pública, torna-se uma vida aparente em\nque só a burocracia subsiste como o único elemento ativo. [...]\nSomente massas esclarecidas, autônomas, politicamente for-\nmadas poderão exercer o poder nos novos organismos de base,\nos conselhos; em outras palavras, realizar o socialismo demo-\ncrático\".\n(LUXEMBURGO, R. Textos Escolhidos. A Revolução Russa (1918). Editora Expressão Po-\npular, Org. Isabel Loureiro, p. 114-131, 2009.)\nConsiderando os textos, assinale a alternativa que corresponde\nao pensamento de Rosa Luxemburgo.\na) Para afastar o socialismo da ameaça da burocracia, às vezes\né necessário restringir a liberdade de imprensa, o debate pú-\nblico e as eleições gerais.\nb) A instituição da democracia é uma etapa posterior à tomada\ndo poder político e equivale à mudança do mundo.\nc) A democracia socialista não difere da democracia represen-\ntativa: ambas se baseiam na soberania popular dos conse-\nlhos, mas tendem à burocracia partidária.\nd) Democracia e socialismo são sinônimos, pois os conselhos\npopulares deveriam possibilitar a participação ativa das mas-\nsas na condução do poder político e econômico.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            163.05989999999997,
+            568,
+            683.9339
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

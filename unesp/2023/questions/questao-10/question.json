@@ -1,0 +1,110 @@
+{
+  "title": "Questão 10 - UNESP 2023 - 1ª fase",
+  "index": 10,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Leia o soneto “Descreve o que era naquele tempo a cidade da Bahia”, do poeta Gregório de Matos (1636-1696), para\nresponder às questões de 09 a 12.\nA cada canto um grande conselheiro,\nQue nos quer governar cabana e vinha;\nNão sabem governar sua cozinha,\nE podem governar o mundo inteiro.\nEm cada porta um bem frequente olheiro,\nQue a vida do vizinho e da vizinha\nPesquisa, escuta, espreita e esquadrinha,\nPara o levar à praça e ao terreiro.\nMuitos mulatos desavergonhados,\nTrazidos sob os pés os homens nobres¹,\nPosta nas palmas toda a picardia,\nEstupendas usuras nos mercados,\nTodos os que não furtam muito pobres:\nE eis aqui a cidade da Bahia.\n(Gregório de Matos. Poemas escolhidos, 2010.)\n1 Trazidos sob os pés os homens nobres: na visão de Gregório de\nMatos, os mulatos em ascensão subjugam com esperteza os verdadeiros “homens nobres”.\n\nNo soneto, o eu lírico enraíza na cidade da Bahia a figuração\ntradicional do desconcerto do mundo. No quadro da economia colonial, esse desconcerto do mundo mostra-se associado a um momento crítico da produção",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do açúcar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "da borracha.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "do ouro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "do café.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "do algodão.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No soneto, o eu lírico enraíza na cidade da Bahia a figuração\ntradicional do desconcerto do mundo. No quadro da econo-\nmia colonial, esse desconcerto do mundo mostra-se associa-\ndo a um momento crítico da produção\n(A) do açúcar.\n(B) da borracha.\n(C) do ouro.\n(D) do café.\n(E) do algodão.",
+    "sharedContext": "Leia o soneto “Descreve o que era naquele tempo a cidade da Bahia”, do poeta Gregório de Matos (1636-1696), para\nresponder às questões de 09 a 12.\nA cada canto um grande conselheiro,\nQue nos quer governar cabana e vinha;\nNão sabem governar sua cozinha,\nE podem governar o mundo inteiro.\nEm cada porta um bem frequente olheiro,\nQue a vida do vizinho e da vizinha\nPesquisa, escuta, espreita e esquadrinha,\nPara o levar à praça e ao terreiro.\nMuitos mulatos desavergonhados,\nTrazidos sob os pés os homens nobres¹,\nPosta nas palmas toda a picardia,\nEstupendas usuras nos mercados,\nTodos os que não furtam muito pobres:\nE eis aqui a cidade da Bahia.\n(Gregório de Matos. Poemas escolhidos, 2010.)\n1 Trazidos sob os pés os homens nobres: na visão de Gregório de\nMatos, os mulatos em ascensão subjugam com esperteza os verdadeiros “homens nobres”.",
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            363.925
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            526.7045,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

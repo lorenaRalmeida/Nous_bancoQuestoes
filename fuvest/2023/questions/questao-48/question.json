@@ -1,0 +1,101 @@
+{
+  "title": "Questão 48 - FUVEST 2023 - 1ª fase",
+  "index": 48,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Fotografia do Comício da Central do Brasil, 13 de março de\n1964 (sem autoria).\n“Comício da Central do Brasil. Declarações do presidente João Goulart\nincomodaram a direita e os militares”. Folha de S. Paulo/uol/ 27 nov. 2013.\nFotografia tirada por Domício Pinheiro, Comício da Central\ndo Brasil, 13 de março de 1964.\nSCHWARCZ, Lilia e STARLING, Heloísa. Brasil: uma biografia. São Paulo:\nCompanhia das Letras, 2015.\nAs fotografias registram cenas do comício realizado pelo\ngoverno João Goulart no Rio de Janeiro, em março de 1964.\nConsiderando a leitura das imagens, é correto afirmar:",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O período do governo de João Goulart foi marcado pela\napatia da sociedade civil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A presença ostensiva das Forças Armadas impediu a\nrealização do Comício.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O cartaz assinado por metalúrgicos defendia a família, a\nreligião e a propriedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os manifestantes expressaram apoio aos avanços nas\nReformas de Base anunciados no Comício.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Os manifestantes reclamavam a intervenção militar para\nconter políticas do governo João Goulart.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Fotografia do Comício da Central do Brasil, 13 de março de\n1964 (sem autoria).\n“Comício da Central do Brasil. Declarações do presidente João Goulart\nincomodaram a direita e os militares”. Folha de S. Paulo/uol/ 27 nov. 2013.\nFotografia tirada por Domício Pinheiro, Comício da Central\ndo Brasil, 13 de março de 1964.\nSCHWARCZ, Lilia e STARLING, Heloísa. Brasil: uma biografia. São Paulo:\nCompanhia das Letras, 2015.\nAs fotografias registram cenas do comício realizado pelo\ngoverno João Goulart no Rio de Janeiro, em março de 1964.\nConsiderando a leitura das imagens, é correto afirmar:\n(A) O período do governo de João Goulart foi marcado pela\napatia da sociedade civil.\n(B) A presença ostensiva das Forças Armadas impediu a\nrealização do Comício.\n(C) O cartaz assinado por metalúrgicos defendia a família, a\nreligião e a propriedade.\n(D) Os manifestantes expressaram apoio aos avanços nas\nReformas de Base anunciados no Comício.\n(E) Os manifestantes reclamavam a intervenção militar para\nconter políticas do governo João Goulart.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            28,
+            40.07470000000001,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.07470000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Governo João Goulart e crise de 1964",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

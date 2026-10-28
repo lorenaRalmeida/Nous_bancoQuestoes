@@ -1,0 +1,98 @@
+{
+  "title": "Questão 36 - UNESP 2026 - 1ª fase",
+  "index": 36,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise o excerto do romance Esaú e Jacó, de Machado de\nAssis, publicado originalmente em 1904.\n— Mas o que é que há? perguntou Aires.\n— A república está proclamada.\n— Já há governo?\n— Penso que já; mas diga-me V. Ex.a: ouviu alguém\nacusar-me jamais de atacar o governo? Ninguém. Entretanto... Uma fatalidade! Venha em meu socorro. Excelentíssimo.\nAjude-me a sair deste embaraço. A tabuleta está pronta, o\nnome todo pintado. — “Confeitaria do Império”, a tinta é viva\ne bonita. O pintor teima em que lhe pague o trabalho, para\nentão fazer outro. Eu, se a obra não estivesse acabada, mudava de título, por mais que me custasse, mas hei de perder\no dinheiro que gastei? V. Ex.a crê que, se ficar “Império”, venham quebrar-me as vidraças?\n— Isso não sei.\n— Realmente, não há motivo; é o nome da casa, nome\nde trinta anos, ninguém a conhece de outro modo.\n— Mas pode por “Confeitaria da República”...\n— Lembrou-me isso, em caminho, mas também me lembrou que, se daqui a um ou dous meses, houver nova reviravolta, fico no ponto em que estou hoje, e perco outra vez\no dinheiro.\n(Machado de Assis. Obra completa, 1986.)\nO excerto mostra um diálogo do proprietário de uma confeitaria com outro personagem, o Conselheiro Aires. No diálogo, o\ndono da confeitaria expressa",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "sua oposição à alta dos preços, resultante da inflação e\nda desvalorização da moeda dos últimos anos do Império.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sua preocupação com as reações políticas do povo, derivada das violentas rebeliões populares republicanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "seu desconforto com a mudança de regime político,\napresentada como prejudicial às suas preocupações\nmonetárias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "seu alheamento em relação ao debate político, restrito\nà época aos partidos políticos e aos membros do parlamento nacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sua insatisfação com a Proclamação da República,\njustificada por sua histórica adesão política ao modelo\nmonárquico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o excerto do romance Esaú e Jacó, de Machado de\nAssis, publicado originalmente em 1904.\n— Mas o que é que há? perguntou Aires.\n— A república está proclamada.\n— Já há governo?\n— Penso que já; mas diga-me V. Ex.a: ouviu alguém\nacusar-me jamais de atacar o governo? Ninguém. Entretan-\nto... Uma fatalidade! Venha em meu socorro. Excelentíssimo.\nAjude-me a sair deste embaraço. A tabuleta está pronta, o\nnome todo pintado. — “Confeitaria do Império”, a tinta é viva\ne bonita. O pintor teima em que lhe pague o trabalho, para\nentão fazer outro. Eu, se a obra não estivesse acabada, mu-\ndava de título, por mais que me custasse, mas hei de perder\no dinheiro que gastei? V. Ex.a crê que, se ficar “Império”, ve-\nnham quebrar-me as vidraças?\n— Isso não sei.\n— Realmente, não há motivo; é o nome da casa, nome\nde trinta anos, ninguém a conhece de outro modo.\n— Mas pode por “Confeitaria da República”...\n— Lembrou-me isso, em caminho, mas também me lem-\nbrou que, se daqui a um ou dous meses, houver nova revi-\nravolta, fico no ponto em que estou hoje, e perco outra vez\no dinheiro.\n(Machado de Assis. Obra completa, 1986.)\nO excerto mostra um diálogo do proprietário de uma confeita-\nria com outro personagem, o Conselheiro Aires. No diálogo, o\ndono da confeitaria expressa\n(A) sua oposição à alta dos preços, resultante da inflação e\nda desvalorização da moeda dos últimos anos do Império.\n(B) sua preocupação com as reações políticas do povo, deri-\nvada das violentas rebeliões populares republicanas.\n(C) seu desconforto com a mudança de regime político,\napresentada como prejudicial às suas preocupações\nmonetárias.\n(D) seu alheamento em relação ao debate político, restrito\nà época aos partidos políticos e aos membros do parla-\nmento nacional.\n(E) sua insatisfação com a Proclamação da República,\njustificada por sua histórica adesão política ao modelo\nmonárquico.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

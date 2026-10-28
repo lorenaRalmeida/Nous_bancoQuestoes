@@ -1,0 +1,92 @@
+{
+  "title": "Questão 58 - UNICAMP 2023 - 1ª fase",
+  "index": 58,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "As estimativas sobre a população de Palmares no século XVII\noscilam entre 5 e 20 mil pessoas. A crônica abaixo, de 1678,\ndescreve o território palmarino:\nReconhecem-se todos obedientes a um que se chama “o Ganga\nZumba”, que quer dizer “Senhor Grande”. A este tem por seu\nrei e senhor todos os mais, assim naturais dos Palmares como\nvindos de fora. Habita na sua cidade real que chamam o Macaco. Esta é a metrópole entre as mais cidades e povoações. Está\nfortificada toda em cerco de pau a pique, com torneiras abertas\npara ataque e defesa. E pela parte de fora toda se semeia de\nestrepes de ferro e buracos no chão. Ocupa esta cidade dilatado espaço, forma-se mais de 1500 casas. A segunda cidade\nchama-se Sirbupira; nesta habita o irmão do rei que se chama\n“o Zona”. É fortificada toda de madeira e pedras, compreende\nmais de oitocentas casas. Das mais cidades e povoações darei\nnotícia quando lhe referir as ruínas.\n(Adaptado de: ANTT, Manuscrito da Livraria, cod. 1185, fls. 149-55v. In: LARA, Silvia;\nFACHIN, Phablo (org.). Guerra contra Palmares: o manuscrito de 1678. São Paulo: Chão\nEditora, 2021, p. 9 – 49.)\nSobre a organização do espaço palmarino, é correto afirmar\nque",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os negros que fugiram para Palmares ocuparam os espaços\nurbanos das vilas coloniais na Serra da Barriga; essas vilas\ntinham sido abandonadas por Portugal durante as guerras\nde expulsão, de Pernambuco, dos holandeses.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o que se convencionou chamar de quilombo de Palmares\nera uma rede de povoações fortificadas, formadas por centenas de casas e interligadas por meio de um sistema político influenciado por lógicas culturais africanas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "as povoações que constituíam Palmares se originaram da\nestrutura urbanística construída por Nassau nas serras de\nPernambuco e Alagoas, a partir da racionalidade holandesa\nna época da luta pelo domínio do açúcar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a maioria da população negra que vivia nos mocambos\nde Palmares no século XVII era crioula, ou seja, nascida no\nBrasil, e combinava a influência da organização política de\nAngola e das redes urbanas litorâneas e europeias de Pernambuco.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As estimativas sobre a população de Palmares no século XVII\noscilam entre 5 e 20 mil pessoas. A crônica abaixo, de 1678,\ndescreve o território palmarino:\nReconhecem-se todos obedientes a um que se chama “o Ganga\nZumba”, que quer dizer “Senhor Grande”. A este tem por seu\nrei e senhor todos os mais, assim naturais dos Palmares como\nvindos de fora. Habita na sua cidade real que chamam o Maca-\nco. Esta é a metrópole entre as mais cidades e povoações. Está\nfortificada toda em cerco de pau a pique, com torneiras abertas\npara ataque e defesa. E pela parte de fora toda se semeia de\nestrepes de ferro e buracos no chão. Ocupa esta cidade dila-\ntado espaço, forma-se mais de 1500 casas. A segunda cidade\nchama-se Sirbupira; nesta habita o irmão do rei que se chama\n“o Zona”. É fortificada toda de madeira e pedras, compreende\nmais de oitocentas casas. Das mais cidades e povoações darei\nnotícia quando lhe referir as ruínas.\n(Adaptado de: ANTT, Manuscrito da Livraria, cod. 1185, fls. 149-55v. In: LARA, Silvia;\nFACHIN, Phablo (org.). Guerra contra Palmares: o manuscrito de 1678. São Paulo: Chão\nEditora, 2021, p. 9 – 49.)\nSobre a organização do espaço palmarino, é correto afirmar\nque\na) os negros que fugiram para Palmares ocuparam os espaços\nurbanos das vilas coloniais na Serra da Barriga; essas vilas\ntinham sido abandonadas por Portugal durante as guerras\nde expulsão, de Pernambuco, dos holandeses.\nb) o que se convencionou chamar de quilombo de Palmares\nera uma rede de povoações fortificadas, formadas por cen-\ntenas de casas e interligadas por meio de um sistema políti-\nco influenciado por lógicas culturais africanas.\nc) as povoações que constituíam Palmares se originaram da\nestrutura urbanística construída por Nassau nas serras de\nPernambuco e Alagoas, a partir da racionalidade holandesa\nna época da luta pelo domínio do açúcar.\nd) a maioria da população negra que vivia nos mocambos\nde Palmares no século XVII era crioula, ou seja, nascida no\nBrasil, e combinava a influência da organização política de\nAngola e das redes urbanas litorâneas e europeias de Per-\nnambuco.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            662.0019,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            40,
+            568,
+            456.4111
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

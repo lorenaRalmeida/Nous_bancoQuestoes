@@ -1,0 +1,117 @@
+{
+  "title": "Questão 6 - UNICAMP 2025 - 1ª fase",
+  "index": 6,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Leia o texto e observe a figura a seguir para responder às\nquestões 5 e 6.\nOs meses de abril e maio de 2024 foram marcados tanto pela\nocorrência de ondas de calor, que elevaram acima da média as\ntemperaturas em estados das regiões Centro-Oeste, Sudeste e\nparte do Sul, quanto pela ocorrência de precipitações intensas e\nconcentradas, que desencadearam alagamentos, inundações e\nmovimentos gravitacionais de massa no Rio Grande do Sul. Essas regiões são marcadamente urbanizadas, abrigando grande\ncontingente da população brasileira que vive em cidades, agora\nsujeitas à incidência de eventos extremos.\nFrente a esse cenário, são imprescindíveis, no enfrentamento\ndos problemas a curto, médio e longo prazos, as ações de planejamento territorial.\n(Elaboração COMVEST (2024), baseado nas seguintes fontes: https://noticias.uol.com.br/\ncotidiano/ultimas-noticias/2024/04/30/calor-espantoso-onda-nao-da-tregua-e-sp-pode-\n-bater-recorde-historico.htm/;https://www.marinha.mil.br/chm/dados-do-smm-cartas-\n-sinoticas/cartas-sinoticas. Acesso em 10/05/2024.)\n\nNo contexto dos eventos extremos ligados às inundações, aos\nalagamentos e aos movimentos gravitacionais de massa nas\ngrandes cidades e metrópoles brasileiras, é possível afirmar que\nsão necessárias iniciativas de planejamento territorial com programas e metas de abrangência nacional. Tais iniciativas devem\nenvolver, portanto, uma ação",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "normativa, de responsabilidade do ente municipal que define e custeia as estratégias para enfrentar fenômenos urgentes; deve também se apoiar na Política Nacional de Proteção\ne Defesa Civil e nos indivíduos que se voluntariam.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sistêmica, de responsabilidade dos três entes federativos,\nação esta que dê conta de enfrentar os graves problemas urbano-ambientais do país; a participação popular e o cumprimento da função social da cidade são instrumentos importantes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "pragmática, de responsabilidade dos entes estaduais e\nDistrito Federal; para a gestão metropolitana, esses entes\ncontratam equipes técnico-científicas de organizações não\ngovernamentais, conforme previsto no Estatuto da Cidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "setorial, de responsabilidade do ente federal; esse ente, conforme estabelecido no Estatuto da Metrópole, prevê um orçamento destinado a possíveis deslocamentos massivos da\npopulação metropolitana a áreas rurais em curto prazo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No contexto dos eventos extremos ligados às inundações, aos\nalagamentos e aos movimentos gravitacionais de massa nas\ngrandes cidades e metrópoles brasileiras, é possível afirmar que\nsão necessárias iniciativas de planejamento territorial com pro-\ngramas e metas de abrangência nacional. Tais iniciativas devem\nenvolver, portanto, uma ação\na) normativa, de responsabilidade do ente municipal que defi-\nne e custeia as estratégias para enfrentar fenômenos urgen-\ntes; deve também se apoiar na Política Nacional de Proteção\ne Defesa Civil e nos indivíduos que se voluntariam.\nb) sistêmica, de responsabilidade dos três entes federativos,\nação esta que dê conta de enfrentar os graves problemas ur-\nbano-ambientais do país; a participação popular e o cumpri-\nmento da função social da cidade são instrumentos importantes.\nc) pragmática, de responsabilidade dos entes estaduais e\nDistrito Federal; para a gestão metropolitana, esses entes\ncontratam equipes técnico-científicas de organizações não\ngovernamentais, conforme previsto no Estatuto da Cidade.\nd) setorial, de responsabilidade do ente federal; esse ente, con-\nforme estabelecido no Estatuto da Metrópole, prevê um or-\nçamento destinado a possíveis deslocamentos massivos da\npopulação metropolitana a áreas rurais em curto prazo.",
+    "sharedContext": "Leia o texto e observe a figura a seguir para responder às\nquestões 5 e 6.\nOs meses de abril e maio de 2024 foram marcados tanto pela\nocorrência de ondas de calor, que elevaram acima da média as\ntemperaturas em estados das regiões Centro-Oeste, Sudeste e\nparte do Sul, quanto pela ocorrência de precipitações intensas e\nconcentradas, que desencadearam alagamentos, inundações e\nmovimentos gravitacionais de massa no Rio Grande do Sul. Essas regiões são marcadamente urbanizadas, abrigando grande\ncontingente da população brasileira que vive em cidades, agora\nsujeitas à incidência de eventos extremos.\nFrente a esse cenário, são imprescindíveis, no enfrentamento\ndos problemas a curto, médio e longo prazos, as ações de planejamento territorial.\n(Elaboração COMVEST (2024), baseado nas seguintes fontes: https://noticias.uol.com.br/\ncotidiano/ultimas-noticias/2024/04/30/calor-espantoso-onda-nao-da-tregua-e-sp-pode-\n-bater-recorde-historico.htm/;https://www.marinha.mil.br/chm/dados-do-smm-cartas-\n-sinoticas/cartas-sinoticas. Acesso em 10/05/2024.)",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            618.5558,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            40,
+            568,
+            454.2913
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            758.5575,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            40,
+            291,
+            339.4111
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

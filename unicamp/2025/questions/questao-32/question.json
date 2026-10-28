@@ -1,0 +1,92 @@
+{
+  "title": "Questão 32 - UNICAMP 2025 - 1ª fase",
+  "index": 32,
+  "year": 2025,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Texto 1\nNo final do século XIX, a escritora Charlotte Perkins Gilman observava a necessidade de reformas urbanas e habitacionais que\ncombinassem a privacidade da família com a vida em coletivo.\nEla defendia que grandes cidades fossem equipadas com conjuntos amplos de apartamentos que contariam com cozinhas\ncomuns e com pessoas contratadas coletivamente pelas famílias\npara serviços domésticos. A atenção às crianças seria garantida\npor cuidadores profissionais e professores dentro das creches.\n(Adaptado de GILMAN, C.P. Mulheres e economia. In: DAFLON, V.; SORJ, B. Clássicas do\npensamento social. Rio de Janeiro: Rosa dos Tempos, p.129-130, 2021.)\nTexto 2\nQuase um século depois, em 1996, o então presidente dos EUA\nBill Clinton implementou reformas nas políticas de proteção social daquele país. Entre as mudanças, o Estado deixou de prover\nauxílio financeiro a mães pobres que criam os filhos sozinhas e\nessa responsabilidade passou para o pai biológico da criança.\nEssa reforma acentuou um vínculo social entre mulheres e homens, vínculo este que elas não necessariamente gostariam de\nmanter. A reforma as tornou sobretudo dependentes economicamente deles.\n(Adaptado de COOPER, M. Family values: between neoliberalism and the new social\nconservatism. New York: Zone Books, p. 67-68, 2017.)\nConsiderando os textos 1 e 2, é correto afirmar que os efeitos,\npara as relações sociais, das reformas neles descritas",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "são convergentes, pois fortalecem a importância, para a\nvida moderna, dos lares individualizados e das famílias biológicas. As reformas indicam a prevalência de ambos em\nrelação ao Estado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "são divergentes, pois apenas a reforma descrita no texto 2\nfortalece a autonomia das mães, por ampliar a responsabilidade dos pais biológicos e por desresponsabilizar o Estado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "são convergentes, pois facilitam o desenvolvimento da privacidade das famílias e ampliam a autonomia individual. Essas reformas favorecem o desenvolvimento da vida coletiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "são divergentes, pois apenas a reforma descrita no texto 1\ndesvincula, da responsabilidade das famílias e das mulheres, as tarefas de cuidado e de reprodução social da vida,\nvinculando-as também ao Estado.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\nNo final do século XIX, a escritora Charlotte Perkins Gilman ob-\nservava a necessidade de reformas urbanas e habitacionais que\ncombinassem a privacidade da família com a vida em coletivo.\nEla defendia que grandes cidades fossem equipadas com con-\njuntos amplos de apartamentos que contariam com cozinhas\ncomuns e com pessoas contratadas coletivamente pelas famílias\npara serviços domésticos. A atenção às crianças seria garantida\npor cuidadores profissionais e professores dentro das creches.\n(Adaptado de GILMAN, C.P. Mulheres e economia. In: DAFLON, V.; SORJ, B. Clássicas do\npensamento social. Rio de Janeiro: Rosa dos Tempos, p.129-130, 2021.)\nTexto 2\nQuase um século depois, em 1996, o então presidente dos EUA\nBill Clinton implementou reformas nas políticas de proteção so-\ncial daquele país. Entre as mudanças, o Estado deixou de prover\nauxílio financeiro a mães pobres que criam os filhos sozinhas e\nessa responsabilidade passou para o pai biológico da criança.\nEssa reforma acentuou um vínculo social entre mulheres e ho-\nmens, vínculo este que elas não necessariamente gostariam de\nmanter. A reforma as tornou sobretudo dependentes economi-\ncamente deles.\n(Adaptado de COOPER, M. Family values: between neoliberalism and the new social\nconservatism. New York: Zone Books, p. 67-68, 2017.)\nConsiderando os textos 1 e 2, é correto afirmar que os efeitos,\npara as relações sociais, das reformas neles descritas\na) são convergentes, pois fortalecem a importância, para a\nvida moderna, dos lares individualizados e das famílias bio-\nlógicas. As reformas indicam a prevalência de ambos em\nrelação ao Estado.\nb) são divergentes, pois apenas a reforma descrita no texto 2\nfortalece a autonomia das mães, por ampliar a responsabili-\ndade dos pais biológicos e por desresponsabilizar o Estado.\nc) são convergentes, pois facilitam o desenvolvimento da pri-\nvacidade das famílias e ampliam a autonomia individual. Es-\nsas reformas favorecem o desenvolvimento da vida coletiva.\nd) são divergentes, pois apenas a reforma descrita no texto 1\ndesvincula, da responsabilidade das famílias e das mulhe-\nres, as tarefas de cuidado e de reprodução social da vida,\nvinculando-as também ao Estado.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            727.6348,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            40,
+            291,
+            502.08029999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

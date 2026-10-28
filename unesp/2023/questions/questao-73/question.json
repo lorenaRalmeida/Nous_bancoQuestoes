@@ -1,0 +1,111 @@
+{
+  "title": "Questão 73 - UNESP 2023 - 1ª fase",
+  "index": 73,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Quando cianeto de hidrogênio, um gás extremamente tóxico,\né borbulhado em água, ocorre a produção de uma solução\naquosa de ácido cianídrico, que se ioniza conforme a equação:\nHCN (aq) H+ (aq) + CN– (aq)\nUma solução aquosa 0,2 mol/L de ácido cianídrico apresenta\npH = 5 na temperatura de 25 ºC. A partir desse dado, pode-se\nestimar o valor da constante K desse ácido nessa temperaa\ntura. Esse valor é, aproximadamente,",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 × 10–10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2 × 10–1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "5 × 10–10.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2 × 10–5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5 × 10–1.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Quando cianeto de hidrogênio, um gás extremamente tóxico,\né borbulhado em água, ocorre a produção de uma solução\naquosa de ácido cianídrico, que se ioniza conforme a equa-\nção:\nHCN (aq) H+ (aq) + CN– (aq)\nUma solução aquosa 0,2 mol/L de ácido cianídrico apresenta\npH = 5 na temperatura de 25 ºC. A partir desse dado, pode-se\nestimar o valor da constante K desse ácido nessa tempera-\na\ntura. Esse valor é, aproximadamente,\n(A) 1 × 10–10.\n(B) 2 × 10–1.\n(C) 5 × 10–10.\n(D) 2 × 10–5.\n(E) 5 × 10–1.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            310.40059999999994,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          396.2764,
+          379.0308,
+          432.88669999999996,
+          400.14799999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

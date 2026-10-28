@@ -1,0 +1,100 @@
+{
+  "title": "Questão 32 - UNESP 2024 - 1ª fase",
+  "index": 32,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Examine o meme, publicado pelo perfil “[b]rasilien” no Tumblr.\n(https://b-rasil.tumblr.com. Adaptado.)\nO meme corresponde a uma espécie de metáfora da história\ndo Brasil e, mais precisamente, da",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dinâmica da colonização do Brasil por Portugal, baseada\nna exploração e no exclusivo metropolitano do comércio\ncolonial.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "subserviência portuguesa ante os interesses britânicos,\nque impediam um relacionamento comercial harmonioso\nentre colônia e metrópole.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "persistência do domínio político português sobre o Brasil,\nque prosseguiu mesmo depois da independência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "relação de cumplicidade entre portugueses e brasileiros,\nconstruída a partir dos séculos de convivência entre os\ndois povos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "corrida do ouro nas Minas Gerais, que atraiu para a\nregião milhares de exploradores da metrópole e das\ndemais áreas da colônia.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine o meme, publicado pelo perfil “[b]rasilien” no Tumblr.\n(https://b-rasil.tumblr.com. Adaptado.)\nO meme corresponde a uma espécie de metáfora da história\ndo Brasil e, mais precisamente, da\n(A) dinâmica da colonização do Brasil por Portugal, baseada\nna exploração e no exclusivo metropolitano do comércio\ncolonial.\n(B) subserviência portuguesa ante os interesses britânicos,\nque impediam um relacionamento comercial harmonioso\nentre colônia e metrópole.\n(C) persistência do domínio político português sobre o Brasil,\nque prosseguiu mesmo depois da independência.\n(D) relação de cumplicidade entre portugueses e brasileiros,\nconstruída a partir dos séculos de convivência entre os\ndois povos.\n(E) corrida do ouro nas Minas Gerais, que atraiu para a\nregião milhares de exploradores da metrópole e das\ndemais áreas da colônia.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

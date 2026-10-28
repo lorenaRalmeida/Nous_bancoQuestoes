@@ -1,0 +1,82 @@
+{
+  "title": "Questão 8 - UNICAMP 2024 - 1ª fase",
+  "index": 8,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia o trecho da reportagem:\n“Mulher espancada após boatos em rede social morre no Guarujá, SP\n(...)\nA dona de casa Fabiane Maria de Jesus, de 33 anos, morreu na\nmanhã desta segunda-feira (5), dois dias após ter sido espancada por dezenas de moradores do Guarujá, no litoral de São\nPaulo. Segundo a família, ela foi agredida a partir de um boato\ngerado por uma página em uma rede social (...)”\n(G1, Santos, 05/05/2014. Disponível em: https://g1.globo.com/sp/santos-regiao/noticia/2014/05/mulher-espancada-apos-boatos-em-rede-social-morre-em-guaruja-sp.html.\nAcessado em 04/07/2023.)\nAssinale o trecho de um dos contos a seguir – extraídos de EVA-\nRISTO, Conceição. Olhos d’Água. Rio de Janeiro: Pallas; Fundação Biblioteca Nacional, 2016 –, trecho este que relaciona o\nacontecimento da reportagem ao texto de ficção:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“Os mais velhos, acumulados de tanto sofrimento, olhavam\npara trás e do passado nada reconheciam no presente. Suas\nlutas, seu fazer e saber, tudo parecia ter se perdido no tempo (...) Deram de clamar pela morte. E a todo instante eles\npartiam” (p. 112).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas\neram tantas lágrimas, que eu me perguntei se minha mãe\ntinha olhos ou rios caudalosos sobre a face. E só então compreendi. Minha mãe trazia, serenamente em si, águas correntezas (...). Águas de Mamãe Oxum!” (p. 18-19).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“Os assaltantes desceram rápido. Maria olhou saudosa e\ndesesperada para o primeiro. (...) Alguém gritou que aquela\nputa safada lá da frente conhecia os assaltantes (...). A primeira voz, a que acordou a coragem de todos, (...) levantou\ne se encaminhou em direção à Maria (...)” (p. 41-42).",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "“Nos últimos tempos na favela, os tiroteios aconteciam com\nfrequência e a qualquer hora. Os componentes dos grupos\nrivais brigavam para garantir seus espaços e freguesias. Havia ainda o confronto constante com os policiais que invadiam a área” (p. 76).",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o trecho da reportagem:\n“Mulher espancada após boatos em rede social morre no Gua-\nrujá, SP\n(...)\nA dona de casa Fabiane Maria de Jesus, de 33 anos, morreu na\nmanhã desta segunda-feira (5), dois dias após ter sido espan-\ncada por dezenas de moradores do Guarujá, no litoral de São\nPaulo. Segundo a família, ela foi agredida a partir de um boato\ngerado por uma página em uma rede social (...)”\n(G1, Santos, 05/05/2014. Disponível em: https://g1.globo.com/sp/santos-regiao/noti-\ncia/2014/05/mulher-espancada-apos-boatos-em-rede-social-morre-em-guaruja-sp.html.\nAcessado em 04/07/2023.)\nAssinale o trecho de um dos contos a seguir – extraídos de EVA-\nRISTO, Conceição. Olhos d’Água. Rio de Janeiro: Pallas; Fun-\ndação Biblioteca Nacional, 2016 –, trecho este que relaciona o\nacontecimento da reportagem ao texto de ficção:\na) “Os mais velhos, acumulados de tanto sofrimento, olhavam\npara trás e do passado nada reconheciam no presente. Suas\nlutas, seu fazer e saber, tudo parecia ter se perdido no tem-\npo (...) Deram de clamar pela morte. E a todo instante eles\npartiam” (p. 112).\nb) “Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas\neram tantas lágrimas, que eu me perguntei se minha mãe\ntinha olhos ou rios caudalosos sobre a face. E só então com-\npreendi. Minha mãe trazia, serenamente em si, águas cor-\nrentezas (...). Águas de Mamãe Oxum!” (p. 18-19).\nc) “Os assaltantes desceram rápido. Maria olhou saudosa e\ndesesperada para o primeiro. (...) Alguém gritou que aquela\nputa safada lá da frente conhecia os assaltantes (...). A pri-\nmeira voz, a que acordou a coragem de todos, (...) levantou\ne se encaminhou em direção à Maria (...)” (p. 41-42).\nd) “Nos últimos tempos na favela, os tiroteios aconteciam com\nfrequência e a qualquer hora. Os componentes dos grupos\nrivais brigavam para garantir seus espaços e freguesias. Ha-\nvia ainda o confronto constante com os policiais que inva-\ndiam a área” (p. 76).",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            160.5874,
+            291,
+            698.7827
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

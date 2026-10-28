@@ -1,0 +1,98 @@
+{
+  "title": "Questão 78 - UNESP 2026 - 1ª fase",
+  "index": 78,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "Considere que, em uma viagem de 2 h de duração, um veículo que usa gasolina como combustível e transporta apenas\nseu motorista de 70 kg, mova-se com velocidade escalar média de 50 km/h, percorrendo, em média, 10 km com 1 litro de\ngasolina. Admita que, nessa viagem, apenas 1% da energia\nliberada na combustão completa da gasolina seja utilizada\npara mover o motorista do veículo.\nConsiderando que a energia de combustão da gasolina é\n4 × 107 J/kg, que a densidade da gasolina é de 0,7 kg/L\ne adotando g = 10 m/s2, se toda a energia utilizada para\nmover o motorista desse veículo fosse integralmente transformada em energia potencial gravitacional desse motorista,\na altura atingida por ele, em relação ao solo, seria de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 200 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "6 300 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4 900 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4 000 m.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "700 m.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considere que, em uma viagem de 2 h de duração, um veí-\nculo que usa gasolina como combustível e transporta apenas\nseu motorista de 70 kg, mova-se com velocidade escalar mé-\ndia de 50 km/h, percorrendo, em média, 10 km com 1 litro de\ngasolina. Admita que, nessa viagem, apenas 1% da energia\nliberada na combustão completa da gasolina seja utilizada\npara mover o motorista do veículo.\nConsiderando que a energia de combustão da gasolina é\n4 × 107 J/kg, que a densidade da gasolina é de 0,7 kg/L\ne adotando g = 10 m/s2, se toda a energia utilizada para\nmover o motorista desse veículo fosse integralmente trans-\nformada em energia potencial gravitacional desse motorista,\na altura atingida por ele, em relação ao solo, seria de\n(A) 1 200 m.\n(B) 6 300 m.\n(C) 4 900 m.\n(D) 4 000 m.\n(E) 700 m.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

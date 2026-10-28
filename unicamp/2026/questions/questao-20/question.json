@@ -1,0 +1,84 @@
+{
+  "title": "Questão 20 - UNICAMP 2026 - 1ª fase",
+  "index": 20,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O mapa a seguir apresenta frações do território brasileiro transformadas a partir da década de 1970 pela implementação de\npolíticas de desenvolvimento. Três áreas limítrofes do Estado da\nBahia, que até então não eram modernizadas, foram incorporadas a diferentes circuitos espaciais produtivos globalizados.\nCircuitos produtivos do agronegócio no estado da Bahia\n(Elaboração: COMVEST 2025.)\nConsiderando o texto e o mapa dos circuitos produtivos do\nagronegócio no Estado da Bahia, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A especialização produtiva regional favoreceu o uso intensivo de inovações técnico-científicas, promovendo seletividade espacial da modernização, o que gerou impactos nos\nmosaicos produtivos tradicionais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Os enclaves de modernização regional promoveram a difusão de uma produção diversificada setorialmente, o que garantiu o espraiamento das inovações técnico-científicas para\nas demais localidades da região.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A especialização produtiva regional permitiu a cooperação\ndas inovações técnico-científicas com os mosaicos produtivos tradicionais, o que restringiu maior conectividade espacial entre os estados limítrofes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os enclaves de modernização regional viabilizaram a dilatação das inovações técnico-científicas para setores produtivos\nnão especializados, o que acarretou a eliminação da seletividade espacial produzida pela especialização.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O mapa a seguir apresenta frações do território brasileiro trans-\nformadas a partir da década de 1970 pela implementação de\npolíticas de desenvolvimento. Três áreas limítrofes do Estado da\nBahia, que até então não eram modernizadas, foram incorpo-\nradas a diferentes circuitos espaciais produtivos globalizados.\nCircuitos produtivos do agronegócio no estado da Bahia\n(Elaboração: COMVEST 2025.)\nConsiderando o texto e o mapa dos circuitos produtivos do\nagronegócio no Estado da Bahia, assinale a alternativa correta.\na) A especialização produtiva regional favoreceu o uso inten-\nsivo de inovações técnico-científicas, promovendo seletivi-\ndade espacial da modernização, o que gerou impactos nos\nmosaicos produtivos tradicionais.\nb) Os enclaves de modernização regional promoveram a difu-\nsão de uma produção diversificada setorialmente, o que ga-\nrantiu o espraiamento das inovações técnico-científicas para\nas demais localidades da região.\nc) A especialização produtiva regional permitiu a cooperação\ndas inovações técnico-científicas com os mosaicos produti-\nvos tradicionais, o que restringiu maior conectividade espa-\ncial entre os estados limítrofes.\nd) Os enclaves de modernização regional viabilizaram a dilata-\nção das inovações técnico-científicas para setores produtivos\nnão especializados, o que acarretou a eliminação da seletivi-\ndade espacial produzida pela especialização.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            727.6299
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

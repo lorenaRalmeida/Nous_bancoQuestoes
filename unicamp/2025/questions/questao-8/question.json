@@ -1,0 +1,97 @@
+{
+  "title": "Questão 8 - UNICAMP 2025 - 1ª fase",
+  "index": 8,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Mudanças climáticas têm influenciado correntes de ar na alta\natmosfera. Em particular, na região do Atlântico Norte, onde\nventos fortes geralmente sopram de oeste para leste, os tempos de voos têm sofrido alterações. Em uma viagem de Baltimore (EUA) a Londres (Reino Unido), o tempo total de voo é\nigual a oito horas quando não há vento em toda a trajetória.\nConsidere agora uma viagem subdividida em três trechos (A,\nB e C), conforme a figura a seguir. No trecho B, na direção de\noeste para leste, há vento com velocidade constante de módulo\n→\nv = 250 km/h, em relação ao solo.\nvento,solo\nA B C\n|V | = 0 |V | = 250 km/h |V | = 0\nvento, solo vento, solo vento, solo\nθ\nOESTE LESTE\nBaltimore Londres\n2000 km\nSendo, nos três trechos, o módulo da velocidade média do\n→\navião em relação ao vento v = 750 km/h, podemos\navião,vento\nafirmar que",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o módulo da velocidade média do avião em relação ao solo\n→\nno trecho B é v = 500 km/h, e o tempo de viagem no\navião,solo\nmesmo trecho é ∆t = 4,0 h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o módulo da velocidade média do avião em relação ao solo\n→\nno trecho B é v = 500 km/h, e o tempo de viagem no\navião,solo\nmesmo trecho é ∆t = 2,0 h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o módulo da velocidade média do avião em relação ao solo\n→\nno trecho B é v = 1000 km/h, e o tempo de viagem\navião,solo\nno mesmo trecho é ∆t = 4,0 h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o módulo da velocidade média do avião em relação ao solo\n→\nno trecho B é v = 1000 km/h, e o tempo de viagem\navião,solo\nno mesmo trecho é ∆t = 2,0 h.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Mudanças climáticas têm influenciado correntes de ar na alta\natmosfera. Em particular, na região do Atlântico Norte, onde\nventos fortes geralmente sopram de oeste para leste, os tem-\npos de voos têm sofrido alterações. Em uma viagem de Balti-\nmore (EUA) a Londres (Reino Unido), o tempo total de voo é\nigual a oito horas quando não há vento em toda a trajetória.\nConsidere agora uma viagem subdividida em três trechos (A,\nB e C), conforme a figura a seguir. No trecho B, na direção de\noeste para leste, há vento com velocidade constante de módulo\n\nv = 250 km/h, em relação ao solo.\nvento,solo\nA B C\n|V | = 0 |V | = 250 km/h |V | = 0\nvento, solo vento, solo vento, solo\n\nOESTE LESTE\nBaltimore Londres\n2000 km\nSendo, nos três trechos, o módulo da velocidade média do\n\navião em relação ao vento v = 750 km/h, podemos\navião,vento\nafirmar que\na) o módulo da velocidade média do avião em relação ao solo\n\nno trecho B é v = 500 km/h, e o tempo de viagem no\navião,solo\nmesmo trecho é ∆t = 4,0 h.\nb) o módulo da velocidade média do avião em relação ao solo\n\nno trecho B é v = 500 km/h, e o tempo de viagem no\navião,solo\nmesmo trecho é ∆t = 2,0 h.\nc) o módulo da velocidade média do avião em relação ao solo\n\nno trecho B é v = 1000 km/h, e o tempo de viagem\navião,solo\nno mesmo trecho é ∆t = 4,0 h.\nd) o módulo da velocidade média do avião em relação ao solo\n\nno trecho B é v = 1000 km/h, e o tempo de viagem\navião,solo\nno mesmo trecho é ∆t = 2,0 h.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            194.16840000000002,
+            568,
+            695.3614
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 5,
+        "bbox": [
+          375.755,
+          341.769,
+          477.4887,
+          447.1588
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

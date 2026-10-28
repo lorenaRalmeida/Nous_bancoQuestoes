@@ -1,0 +1,98 @@
+{
+  "title": "Questão 87 - FUVEST 2024 - 1ª fase",
+  "index": 87,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“Colombo não reconhece a diversidade das línguas e, por isso,\nquando se vê diante de uma língua estrangeira, só há dois\ncomportamentos possíveis, e complementares: reconhecer\nque é uma língua, e recusar-se a aceitar que seja diferente, ou\nentão reconhecer a diferença e recusar-se a admitir que seja\numa língua... Os índios que encontra logo no início, a 12 de\noutubro de 1492, provocam uma reação do segundo tipo; ao\nvê-los, promete: ‘Se Deus assim o quiser, no momento da\npartida levarei seis deles a Vossas Altezas, para que aprendam\na falar’ (...).”\nTODOROV, Tzvetán. A conquista da América: a questão do outro. São Paulo:\nMartins Fontes, 1993. p.29-30.\nAo tratar das reações iniciais de Colombo ao chegar à\nAmérica, o excerto indica que o navegador",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reconheceu a necessidade de tradução mútua entre as\nlínguas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "considerou as línguas indígenas como expressão de outras\nculturas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "interpretou as diferenças linguísticas como estratégia de\nresistência dos nativos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mostrou-se disposto a estudar e compreender as línguas\ndos indígenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "entendeu o ensino do castelhano aos indígenas como\nforma de civilização.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Colombo não reconhece a diversidade das línguas e, por isso,\nquando se vê diante de uma língua estrangeira, só há dois\ncomportamentos possíveis, e complementares: reconhecer\nque é uma língua, e recusar-se a aceitar que seja diferente, ou\nentão reconhecer a diferença e recusar-se a admitir que seja\numa língua... Os índios que encontra logo no início, a 12 de\noutubro de 1492, provocam uma reação do segundo tipo; ao\nvê-los, promete: ‘Se Deus assim o quiser, no momento da\npartida levarei seis deles a Vossas Altezas, para que aprendam\na falar’ (...).”\nTODOROV, Tzvetán. A conquista da América: a questão do outro. São Paulo:\nMartins Fontes, 1993. p.29-30.\nAo tratar das reações iniciais de Colombo ao chegar à\nAmérica, o excerto indica que o navegador\n(A) reconheceu a necessidade de tradução mútua entre as\nlínguas.\n(B) considerou as línguas indígenas como expressão de outras\nculturas.\n(C) interpretou as diferenças linguísticas como estratégia de\nresistência dos nativos.\n(D) mostrou-se disposto a estudar e compreender as línguas\ndos indígenas.\n(E) entendeu o ensino do castelhano aos indígenas como\nforma de civilização.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            28,
+            459.6547,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Conquista da América e alteridade",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

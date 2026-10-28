@@ -1,0 +1,100 @@
+{
+  "title": "Questão 67 - UNESP 2026 - 1ª fase",
+  "index": 67,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Na década de 1940, os Estados Unidos da América\ntinham especial interesse pela borracha brasileira. Ciente\ndisso, o governo brasileiro firma um acordo com os estadunidenses: eles investem no Brasil e o governo brasileiro\nse encarrega de arregimentar nova mão de obra nos seringais, a fim de extrair o látex, matéria-prima na fabricação\nda borracha.\n(https://imazon.org.br. Adaptado.)\nAo se referir a uma negociação entre o Brasil e os Estados\nUnidos, relativa à extração do látex, o excerto evidencia que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a extração do látex no Brasil cresceu durante o Estado\nNovo para atender às necessidades dos Estados Unidos.\nO látex é um líquido leitoso produzido por células laticíferas e apresenta compostos orgânicos que protegem a\nplanta contra o ataque de herbívoros.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a borracha exportada para os Estados Unidos promoveu\nforte crescimento econômico brasileiro no governo Juscelino Kubitschek. O látex é a seiva bruta composta por\nágua e substâncias inorgânicas retiradas do solo pelas\nraízes e transportada pelos vasos xilemáticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o Brasil consolidou durante o governo de Juscelino\nKubitschek sua condição de maior exportador mundial\nde borracha. O látex é uma secreção leitosa orgânica produzida pelas células meristemáticas formadoras\ndos vasos condutores presentes no súber que reveste\no tronco da planta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o extrativismo do látex durante o Estado Novo reduziu\nos investimentos governamentais na produção agrícola e\nindustrial brasileira. O látex é um composto orgânico, fluido, esbranquiçado e produzido no parênquima amilífero\nlocalizado abaixo da casca do caule.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a floresta tropical brasileira foi devastada durante o Estado Novo para permitir a exploração do látex e das drogas do sertão. O látex é a seiva elaborada composta por\nágua e moléculas orgânicas resultantes da fotossíntese e\ntransportada pelos vasos floemáticos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na década de 1940, os Estados Unidos da América\ntinham especial interesse pela borracha brasileira. Ciente\ndisso, o governo brasileiro firma um acordo com os esta-\ndunidenses: eles investem no Brasil e o governo brasileiro\nse encarrega de arregimentar nova mão de obra nos serin-\ngais, a fim de extrair o látex, matéria-prima na fabricação\nda borracha.\n(https://imazon.org.br. Adaptado.)\nAo se referir a uma negociação entre o Brasil e os Estados\nUnidos, relativa à extração do látex, o excerto evidencia que\n(A) a extração do látex no Brasil cresceu durante o Estado\nNovo para atender às necessidades dos Estados Unidos.\nO látex é um líquido leitoso produzido por células laticí-\nferas e apresenta compostos orgânicos que protegem a\nplanta contra o ataque de herbívoros.\n(B) a borracha exportada para os Estados Unidos promoveu\nforte crescimento econômico brasileiro no governo Jus-\ncelino Kubitschek. O látex é a seiva bruta composta por\nágua e substâncias inorgânicas retiradas do solo pelas\nraízes e transportada pelos vasos xilemáticos.\n(C) o Brasil consolidou durante o governo de Juscelino\nKubitschek sua condição de maior exportador mundial\nde borracha. O látex é uma secreção leitosa orgâni-\nca produzida pelas células meristemáticas formadoras\ndos vasos condutores presentes no súber que reveste\no tronco da planta.\n(D) o extrativismo do látex durante o Estado Novo reduziu\nos investimentos governamentais na produção agrícola e\nindustrial brasileira. O látex é um composto orgânico, flui-\ndo, esbranquiçado e produzido no parênquima amilífero\nlocalizado abaixo da casca do caule.\n(E) a floresta tropical brasileira foi devastada durante o Es-\ntado Novo para permitir a exploração do látex e das dro-\ngas do sertão. O látex é a seiva elaborada composta por\nágua e moléculas orgânicas resultantes da fotossíntese e\ntransportada pelos vasos floemáticos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

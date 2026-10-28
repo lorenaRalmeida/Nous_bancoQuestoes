@@ -1,0 +1,111 @@
+{
+  "title": "Questão 73 - UNESP 2026 - 1ª fase",
+  "index": 73,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Há no comércio diferentes tipos de velas de aniversário que\nproduzem faíscas enquanto estão acesas. Entre essas velas\nhá as que contêm magnésio metálico em pó, e a produção de\nfaíscas resulta da reação química representada no diagrama.\nEssa reação química é",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "exotérmica, na qual o magnésio perde elétrons e, portanto, atua como oxidante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "endotérmica, na qual o magnésio perde elétrons e, portanto, atua como redutor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "exotérmica, na qual o magnésio ganha elétrons e, portanto, atua como redutor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "endotérmica, na qual o magnésio ganha elétrons e, portanto, atua como oxidante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "exotérmica, na qual o magnésio perde elétrons e, portanto, atua como redutor.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Há no comércio diferentes tipos de velas de aniversário que\nproduzem faíscas enquanto estão acesas. Entre essas velas\nhá as que contêm magnésio metálico em pó, e a produção de\nfaíscas resulta da reação química representada no diagrama.\nEssa reação química é\n(A) exotérmica, na qual o magnésio perde elétrons e, portan-\nto, atua como oxidante.\n(B) endotérmica, na qual o magnésio perde elétrons e, por-\ntanto, atua como redutor.\n(C) exotérmica, na qual o magnésio ganha elétrons e, portan-\nto, atua como redutor.\n(D) endotérmica, na qual o magnésio ganha elétrons e, por-\ntanto, atua como oxidante.\n(E) exotérmica, na qual o magnésio perde elétrons e, portan-\nto, atua como redutor.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            407.5785,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 30,
+        "bbox": [
+          59.68899999999999,
+          476.10119999999995,
+          265.025,
+          624.9331
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

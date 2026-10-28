@@ -1,0 +1,92 @@
+{
+  "title": "Questão 27 - UNICAMP 2026 - 1ª fase",
+  "index": 27,
+  "year": 2026,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Os textos 1 e 2 apresentam a compreensão de Marco Túlio Cícero (106 − 43 a.C), magistrado e Cônsul da República Romana,\nsobre o tema da justiça.\nTexto 1\n“Convém recorrer aos fundamentos da justiça que propus no\ncomeço: primeiro, a ninguém prejudicar, depois, servir à utilidade comum”.\n(CÍCERO, Marco Túlio. Dos deveres. UFJF, p. 1-31, 2021.)\nTexto 2\n“Único, com efeito, é o direito a partir do qual a sociedade dos\nhomens foi congregada, e una a lei que o constituiu, lei que é a\nreta razão ao obrigar e proibir. Quem a ignora é injusto, esteja\nela escrita em algum lugar ou em nenhum. Se a justiça é obediência às leis escritas e às instituições dos povos, e se (como dizem aqueles mesmos aos quais me referi) todas as coisas devem\nser medidas pela utilidade, negligenciará as leis e as destruirá,\nse o puder, aquele que assim julgá-lo vantajoso para si; do que\nse segue que absolutamente não há justiça, se esta não é fundada na natureza, e a que se constitui por causa da utilidade é\ndeteriorada por essa utilidade”.\n(CÍCERO, Marco Túlio. Sobre as leis. UFJF, p. 1-46, 2021.)\nConsiderando os textos, escolha a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A justiça consiste na obediência às leis escritas e às instituições dos povos: deve servir à utilidade comum e não à\nutilidade daquilo que é vantajoso para si.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A utilidade comum é o fundamento da justiça de uma República e, para serem justos, os cidadãos devem agir conforme\na reta razão, com a qual a natureza lhes dotou.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A reta razão, enquanto lei natural, é a base da justiça. A\ninjustiça ocorre quando a utilidade deixa de ser a medida de\ntodas as coisas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Se a justiça é agir conforme a reta razão e a utilidade é um\ndos fundamentos da justiça, agir com vistas aquilo que é\nvantajoso para si é justo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os textos 1 e 2 apresentam a compreensão de Marco Túlio Cí-\ncero (106 − 43 a.C), magistrado e Cônsul da República Romana,\nsobre o tema da justiça.\nTexto 1\n“Convém recorrer aos fundamentos da justiça que propus no\ncomeço: primeiro, a ninguém prejudicar, depois, servir à utili-\ndade comum”.\n(CÍCERO, Marco Túlio. Dos deveres. UFJF, p. 1-31, 2021.)\nTexto 2\n“Único, com efeito, é o direito a partir do qual a sociedade dos\nhomens foi congregada, e una a lei que o constituiu, lei que é a\nreta razão ao obrigar e proibir. Quem a ignora é injusto, esteja\nela escrita em algum lugar ou em nenhum. Se a justiça é obedi-\nência às leis escritas e às instituições dos povos, e se (como di-\nzem aqueles mesmos aos quais me referi) todas as coisas devem\nser medidas pela utilidade, negligenciará as leis e as destruirá,\nse o puder, aquele que assim julgá-lo vantajoso para si; do que\nse segue que absolutamente não há justiça, se esta não é fun-\ndada na natureza, e a que se constitui por causa da utilidade é\ndeteriorada por essa utilidade”.\n(CÍCERO, Marco Túlio. Sobre as leis. UFJF, p. 1-46, 2021.)\nConsiderando os textos, escolha a alternativa correta.\na) A justiça consiste na obediência às leis escritas e às insti-\ntuições dos povos: deve servir à utilidade comum e não à\nutilidade daquilo que é vantajoso para si.\nb) A utilidade comum é o fundamento da justiça de uma Repú-\nblica e, para serem justos, os cidadãos devem agir conforme\na reta razão, com a qual a natureza lhes dotou.\nc) A reta razão, enquanto lei natural, é a base da justiça. A\ninjustiça ocorre quando a utilidade deixa de ser a medida de\ntodas as coisas.\nd) Se a justiça é agir conforme a reta razão e a utilidade é um\ndos fundamentos da justiça, agir com vistas aquilo que é\nvantajoso para si é justo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            683.9339,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            40,
+            291,
+            404.5449
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

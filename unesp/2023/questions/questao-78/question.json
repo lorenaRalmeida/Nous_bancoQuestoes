@@ -1,0 +1,111 @@
+{
+  "title": "Questão 78 - UNESP 2023 - 1ª fase",
+  "index": 78,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Funcionários de um mercado utilizam um dinamômetro funcionando como uma balança. Esse instrumento é constituído\npor uma mola ideal vertical e por um prato horizontal de massa 200 g, preso, em repouso, na extremidade inferior dessa\nmola por cabos de massas desprezíveis.\nAo utilizar esse dinamômetro, um funcionário deixa um pacote de café cair verticalmente, a partir do repouso, no centro do\nprato, de uma altura de 45 cm em relação a ele, conforme a\nfigura. O pacote colide inelasticamente com o prato, e o conjunto começa a oscilar na direção vertical, apresentando uma\nvelocidade de 2 m/s imediatamente após a colisão.\nConsiderando que o conjunto constituído pelo prato e pelo\npacote de café seja isolado de forças externas nessa colisão,\nque g seja igual a 10 m/s2 e desprezando a resistência do ar,\na massa do pacote de café é de",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "300 g.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "500 g.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "600 g.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "200 g.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "400 g.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Funcionários de um mercado utilizam um dinamômetro fun-\ncionando como uma balança. Esse instrumento é constituído\npor uma mola ideal vertical e por um prato horizontal de mas-\nsa 200 g, preso, em repouso, na extremidade inferior dessa\nmola por cabos de massas desprezíveis.\nAo utilizar esse dinamômetro, um funcionário deixa um paco-\nte de café cair verticalmente, a partir do repouso, no centro do\nprato, de uma altura de 45 cm em relação a ele, conforme a\nfigura. O pacote colide inelasticamente com o prato, e o con-\njunto começa a oscilar na direção vertical, apresentando uma\nvelocidade de 2 m/s imediatamente após a colisão.\nConsiderando que o conjunto constituído pelo prato e pelo\npacote de café seja isolado de forças externas nessa colisão,\nque g seja igual a 10 m/s2 e desprezando a resistência do ar,\na massa do pacote de café é de\n(A) 300 g.\n(B) 500 g.\n(C) 600 g.\n(D) 200 g.\n(E) 400 g.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 28,
+        "bbox": [
+          372.4289,
+          187.38210000000004,
+          494.40840000000003,
+          359.30989999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

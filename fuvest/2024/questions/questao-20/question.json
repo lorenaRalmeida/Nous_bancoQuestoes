@@ -1,0 +1,90 @@
+{
+  "title": "Questão 20 - FUVEST 2024 - 1ª fase",
+  "index": 20,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O gráfico a seguir ilustra o perfil de digestão de quatro\nsubstâncias no organismo humano, de acordo com a variação\ndo pH.\nA análise dos dados permite concluir que a(s)",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "digestão da substância I é feita por amilases presentes no\nduodeno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "digestão da substância II é feita por lipases presentes da\nboca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "substância III é um amido digerido por amilases presentes\nboca.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "substância IV é uma proteína digerida pela bile no\nestômago.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "substâncias I, II e III são digeridas, respectivamente, na\nboca, no estômago e no duodeno.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O gráfico a seguir ilustra o perfil de digestão de quatro\nsubstâncias no organismo humano, de acordo com a variação\ndo pH.\nA análise dos dados permite concluir que a(s)\n(A) digestão da substância I é feita por amilases presentes no\nduodeno.\n(B) digestão da substância II é feita por lipases presentes da\nboca.\n(C) substância III é um amido digerido por amilases presentes\nboca.\n(D) substância IV é uma proteína digerida pela bile no\nestômago.\n(E) substâncias I, II e III são digeridas, respectivamente, na\nboca, no estômago e no duodeno.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            433.97470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Digestão e atividade enzimática por pH",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 23 - UNICAMP 2023 - 1ª fase",
+  "index": 23,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Subsidência é um tipo de colapso em uma superfície, caracterizado por deformação quase vertical do terreno ou pela reacomodação dos materiais em subsuperfície. Os solos muito argilosos estão entre os materiais mais suscetíveis à subsidência.\nNa cidade de Maceió (AL), esse fenômeno tem afetado diversos\nbairros da cidade.\n(Adaptado de Serviço Geológico do Brasil (CPRM), Estudos sobre a instabilidade do terreno nos bairros Pinheiro, Mutange e Bebedouro, Maceió (AL). Ação Emergencial no\nBairro Pinheiro. Volume I. RELATÓRIO SÍNTESE DOS RESULTADOS Nº 1. Brasília: CPRM,\n2019; Adaptado de Edward A. Keller; Robert H. Blodgett. Riegos naturales: processos de\nla Tierra como riegos, desastres y catástrofes. Madrid: Pearson Educación, 2004. p. 141.)\nA partir do texto e da figura anterior, é correto afirmar que a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "água se infiltra sem grandes dificuldades em solos muito\nargilosos, por isso o processo de expansão das argilas é permanente, tornando a área ideal para o desenvolvimento de\ncultivos permanentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "subsidência em solos muito argilosos é um processo reversível, pois ocorre apenas nos períodos secos quando o solo\nse contrai na ausência de água. A reversão acontece nos\nperíodos úmidos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "mecanização das lavouras e a construção de edificações\npodem ocorrer sem restrições em áreas em que ocorrem a\ncontração e expansão das argilas decorrentes da variação da\numidade do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "subsidência em solos muito argilosos é um processo irreversível, pois uma vez que a superfície é rebaixada, o processo\nreverso de soerguimento não acontece por conta da força\ngravitacional.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Subsidência é um tipo de colapso em uma superfície, caracte-\nrizado por deformação quase vertical do terreno ou pela rea-\ncomodação dos materiais em subsuperfície. Os solos muito ar-\ngilosos estão entre os materiais mais suscetíveis à subsidência.\nNa cidade de Maceió (AL), esse fenômeno tem afetado diversos\nbairros da cidade.\n(Adaptado de Serviço Geológico do Brasil (CPRM), Estudos sobre a instabilidade do ter-\nreno nos bairros Pinheiro, Mutange e Bebedouro, Maceió (AL). Ação Emergencial no\nBairro Pinheiro. Volume I. RELATÓRIO SÍNTESE DOS RESULTADOS Nº 1. Brasília: CPRM,\n2019; Adaptado de Edward A. Keller; Robert H. Blodgett. Riegos naturales: processos de\nla Tierra como riegos, desastres y catástrofes. Madrid: Pearson Educación, 2004. p. 141.)\nA partir do texto e da figura anterior, é correto afirmar que a\na) água se infiltra sem grandes dificuldades em solos muito\nargilosos, por isso o processo de expansão das argilas é per-\nmanente, tornando a área ideal para o desenvolvimento de\ncultivos permanentes.\nb) subsidência em solos muito argilosos é um processo rever-\nsível, pois ocorre apenas nos períodos secos quando o solo\nse contrai na ausência de água. A reversão acontece nos\nperíodos úmidos.\nc) mecanização das lavouras e a construção de edificações\npodem ocorrer sem restrições em áreas em que ocorrem a\ncontração e expansão das argilas decorrentes da variação da\numidade do solo.\nd) subsidência em solos muito argilosos é um processo irrever-\nsível, pois uma vez que a superfície é rebaixada, o processo\nreverso de soerguimento não acontece por conta da força\ngravitacional.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            712.6176,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            40,
+            568,
+            598.9092
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

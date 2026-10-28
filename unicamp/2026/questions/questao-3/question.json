@@ -1,0 +1,94 @@
+{
+  "title": "Questão 3 - UNICAMP 2026 - 1ª fase",
+  "index": 3,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia a tirinha a seguir.\n(Adaptado de https://toonut.com. Acesso em 15/05/2025.)\nA tirinha, em seu sentido geral, faz uma crítica à",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "injustiça de um personagem receber menos moedas do que\no outro, na Wall St.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "diferença de status financeiro entre as pessoas que transitam pela Wall St.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "atitude das pessoas que circulam na Wall St. para as quais\nlidar com dinheiro é um jogo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "postura das pessoas que circulam na Wall St. que ignoram\nproblemas e necessidades sociais.\nA\nordauQ\nB\nordauQ\nC\nordauQ",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia a tirinha a seguir.\n(Adaptado de https://toonut.com. Acesso em 15/05/2025.)\nA tirinha, em seu sentido geral, faz uma crítica à\na) injustiça de um personagem receber menos moedas do que\no outro, na Wall St.\nb) diferença de status financeiro entre as pessoas que transi-\ntam pela Wall St.\nc) atitude das pessoas que circulam na Wall St. para as quais\nlidar com dinheiro é um jogo.\nd) postura das pessoas que circulam na Wall St. que ignoram\nproblemas e necessidades sociais.\nA\nordauQ\nB\nordauQ\nC\nordauQ",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            522.5433,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

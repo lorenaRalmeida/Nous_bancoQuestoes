@@ -1,0 +1,101 @@
+{
+  "title": "Questão 46 - UNESP 2024 - 1ª fase",
+  "index": 46,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Há uma comunidade de fanáticos por geografia que cresce rapidamente em torno de um jogo. A premissa é simples:\no jogador que observa a tela de seu computador ou celular é\nconduzido a algum canto do planeta, por meio de imagens,\ne tem de adivinhar, o mais rápido possível, que lugar, exatamente, é apresentado. Quanto mais próximo for seu palpite\ndo lugar mostrado na imagem, maior o número de pontos\nrecebido.\n(www.folha.uol.com.br, 12.07.2022. Adaptado.)\n(www.youtube.com/@republicacoisadenerd)\nSob o ponto de vista geográfico, os jogadores mencionados\nno excerto operacionalizam conhecimentos relacionados",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ao cálculo da densidade demográfica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aos múltiplos fusos horários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à organização político-administrativa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "às diferenças socioespaciais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "à observação da unificação técnica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Há uma comunidade de fanáticos por geografia que cres-\nce rapidamente em torno de um jogo. A premissa é simples:\no jogador que observa a tela de seu computador ou celular é\nconduzido a algum canto do planeta, por meio de imagens,\ne tem de adivinhar, o mais rápido possível, que lugar, exata-\nmente, é apresentado. Quanto mais próximo for seu palpite\ndo lugar mostrado na imagem, maior o número de pontos\nrecebido.\n(www.folha.uol.com.br, 12.07.2022. Adaptado.)\n(www.youtube.com/@republicacoisadenerd)\nSob o ponto de vista geográfico, os jogadores mencionados\nno excerto operacionalizam conhecimentos relacionados\n(A) ao cálculo da densidade demográfica.\n(B) aos múltiplos fusos horários.\n(C) à organização político-administrativa.\n(D) às diferenças socioespaciais.\n(E) à observação da unificação técnica.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

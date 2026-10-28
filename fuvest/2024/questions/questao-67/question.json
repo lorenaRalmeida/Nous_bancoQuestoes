@@ -1,0 +1,98 @@
+{
+  "title": "Questão 67 - FUVEST 2024 - 1ª fase",
+  "index": 67,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "O SOBREVIVENTE\nImpossível compor um poema a essa altura da evolução\n[da humanidade.\nImpossível escrever um poema – uma linha que seja – de\n[verdadeira poesia.\nO último trovador morreu em 1914.\nTinha um nome de que ninguém se lembra mais.\nHá máquinas terrivelmente complicadas para as\n[necessidades mais simples.\nSe quer fumar um charuto aperte um botão.\nPaletós abotoam-se por eletricidade.\nAmor se faz pelo sem-fio.\nNão precisa estômago para digestão.\nUm sábio declarou a O Jornal que ainda\nfalta muito para atingirmos um nível\nrazoável de cultura. Mas até lá, felizmente,\nestarei morto.\nOs homens não melhoraram\ne matam-se como percevejos.\nOs percevejos heroicos renascem.\nInabitável o mundo é cada vez mais habitado.\nE se os olhos reaprendessem a chorar seria um segundo\n[dilúvio.\n(Desconfio que escrevi um poema.)\nCarlos Drummond de Andrade. Alguma Poesia, 1930.\nEntre o primeiro e o último verso, há uma aparente\ncontradição, que, todavia, não se sustenta porque",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os entraves à plenitude lírica são removidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os trovadores ainda inspiram os enamorados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a sabedoria controla o poder das máquinas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os heróis sempre ressuscitam neste mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a poesia resiste à negatividade do seu tempo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O SOBREVIVENTE\nImpossível compor um poema a essa altura da evolução\n[da humanidade.\nImpossível escrever um poema – uma linha que seja – de\n[verdadeira poesia.\nO último trovador morreu em 1914.\nTinha um nome de que ninguém se lembra mais.\nHá máquinas terrivelmente complicadas para as\n[necessidades mais simples.\nSe quer fumar um charuto aperte um botão.\nPaletós abotoam-se por eletricidade.\nAmor se faz pelo sem-fio.\nNão precisa estômago para digestão.\nUm sábio declarou a O Jornal que ainda\nfalta muito para atingirmos um nível\nrazoável de cultura. Mas até lá, felizmente,\nestarei morto.\nOs homens não melhoraram\ne matam-se como percevejos.\nOs percevejos heroicos renascem.\nInabitável o mundo é cada vez mais habitado.\nE se os olhos reaprendessem a chorar seria um segundo\n[dilúvio.\n(Desconfio que escrevi um poema.)\nCarlos Drummond de Andrade. Alguma Poesia, 1930.\nEntre o primeiro e o último verso, há uma aparente\ncontradição, que, todavia, não se sustenta porque\n(A) os entraves à plenitude lírica são removidos.\n(B) os trovadores ainda inspiram os enamorados.\n(C) a sabedoria controla o poder das máquinas.\n(D) os heróis sempre ressuscitam neste mundo.\n(E) a poesia resiste à negatividade do seu tempo.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Metalinguagem e contradição poética em Drummond",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

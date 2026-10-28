@@ -1,0 +1,94 @@
+{
+  "title": "Questão 36 - UNICAMP 2023 - 1ª fase",
+  "index": 36,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "A figura A apresenta um esquema simplificado de um refratômetro, destinado a determinar o índice de refração n de um\n1\nlíquido. Nele, o líquido é iluminado por raios que o atravessam,\natingindo, na parte superior, um vidro de índice de refração\nconhecido n = 1,8. Quando θ =90o, temos o máximo valor\n2 1\npara o ângulo de refração θ, que, nesse caso, é chamado de\n2\nângulo crítico, θ (ver figura B).\nC\nDado: sen56o = 0,8; cos56o = 0,6; tg56o = 1,3.\nSe o ângulo crítico medido foi θ = 56o, pode-se dizer que o\nC\níndice de refração do líquido em questão é",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "n = 1,44, e se trocarmos esse líquido por um de índice de\n1\nrefração maior, o ângulo crítico será maior que 56o.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "n = 1,44, e se trocarmos esse líquido por um de índice de\n1\nrefração maior, o ângulo crítico será menor que 56o.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "n = 2,25, e se trocarmos esse líquido por um de índice de\n1\nrefração maior, o ângulo crítico será maior que 56o.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "n = 2,25, e se trocarmos esse líquido por um de índice de\n1\nrefração maior, o ângulo crítico será menor que 56o.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura A apresenta um esquema simplificado de um refratô-\nmetro, destinado a determinar o índice de refração n de um\n1\nlíquido. Nele, o líquido é iluminado por raios que o atravessam,\natingindo, na parte superior, um vidro de índice de refração\nconhecido n = 1,8. Quando θ =90o, temos o máximo valor\n2 1\npara o ângulo de refração θ, que, nesse caso, é chamado de\n2\nângulo crítico, θ (ver figura B).\nC\nDado: sen56o = 0,8; cos56o = 0,6; tg56o = 1,3.\nSe o ângulo crítico medido foi θ = 56o, pode-se dizer que o\nC\níndice de refração do líquido em questão é\na) n = 1,44, e se trocarmos esse líquido por um de índice de\n1\nrefração maior, o ângulo crítico será maior que 56o.\nb) n = 1,44, e se trocarmos esse líquido por um de índice de\n1\nrefração maior, o ângulo crítico será menor que 56o.\nc) n = 2,25, e se trocarmos esse líquido por um de índice de\n1\nrefração maior, o ângulo crítico será maior que 56o.\nd) n = 2,25, e se trocarmos esse líquido por um de índice de\n1\nrefração maior, o ângulo crítico será menor que 56o.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            250.61109999999996,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

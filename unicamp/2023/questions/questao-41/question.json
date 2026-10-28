@@ -1,0 +1,82 @@
+{
+  "title": "Questão 41 - UNICAMP 2023 - 1ª fase",
+  "index": 41,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Cientistas desvendaram o mecanismo causador da síndrome\nde Pitt-Hopkins, uma disfunção neuropsiquiátrica que tem características do transtorno do espectro autista. A síndrome de\nPitt-Hopkins tem como origem uma mutação no gene TCF4\ne causa déficit cognitivo, atraso motor profundo, ausência de\nfala funcional e anormalidades respiratórias. O genoma humano tem duas cópias de cada gene. A síndrome de Pitt-Hopkins\nocorre quando uma das cópias do TCF4 não funciona. Os cientistas buscam alternativas para inserir uma terceira cópia ou\nfazer com que a única cópia funcional expresse mais proteína\npara compensar a cópia defeituosa.\n(Adaptado de https://agencia.fapesp.br/estudo-abre-novas-possibilidades-de-tratamento-para-forma-de-autismo/38524/. Acesso em 23/05/2022.)\nConsiderando as informações apresentadas e seus conhecimentos, é correto afirmar que a síndrome é causada em",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "heterozigose, quando um dos alelos do gene TCF4 não produz proteína funcional devido às alterações de bases nitrogenadas que modificam a proteína traduzida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "homozigose, quando os dois alelos do gene TCF4 não produzem proteína funcional devido à mutação da cromatina\nque modifica a proteína traduzida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "heterozigose, quando uma das cromátides do gene TCF4\nnão produz proteína funcional devido à mutação da cromatina que modifica a proteína traduzida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "homozigose, quando as duas cromátides do gene TCF4 não\nproduzem proteína funcional devido às alterações das bases\nnitrogenadas que modificam a proteína traduzida.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Cientistas desvendaram o mecanismo causador da síndrome\nde Pitt-Hopkins, uma disfunção neuropsiquiátrica que tem ca-\nracterísticas do transtorno do espectro autista. A síndrome de\nPitt-Hopkins tem como origem uma mutação no gene TCF4\ne causa déficit cognitivo, atraso motor profundo, ausência de\nfala funcional e anormalidades respiratórias. O genoma huma-\nno tem duas cópias de cada gene. A síndrome de Pitt-Hopkins\nocorre quando uma das cópias do TCF4 não funciona. Os cien-\ntistas buscam alternativas para inserir uma terceira cópia ou\nfazer com que a única cópia funcional expresse mais proteína\npara compensar a cópia defeituosa.\n(Adaptado de https://agencia.fapesp.br/estudo-abre-novas-possibilidades-de-tratamen-\nto-para-forma-de-autismo/38524/. Acesso em 23/05/2022.)\nConsiderando as informações apresentadas e seus conhecimen-\ntos, é correto afirmar que a síndrome é causada em\na) heterozigose, quando um dos alelos do gene TCF4 não pro-\nduz proteína funcional devido às alterações de bases nitro-\ngenadas que modificam a proteína traduzida.\nb) homozigose, quando os dois alelos do gene TCF4 não pro-\nduzem proteína funcional devido à mutação da cromatina\nque modifica a proteína traduzida.\nc) heterozigose, quando uma das cromátides do gene TCF4\nnão produz proteína funcional devido à mutação da croma-\ntina que modifica a proteína traduzida.\nd) homozigose, quando as duas cromátides do gene TCF4 não\nproduzem proteína funcional devido às alterações das bases\nnitrogenadas que modificam a proteína traduzida.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            124.85669999999993,
+            291,
+            548.296
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

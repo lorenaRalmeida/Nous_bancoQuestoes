@@ -1,0 +1,100 @@
+{
+  "title": "Questão 9 - FUVEST 2025 - 1ª fase",
+  "index": 9,
+  "year": 2025,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "“A mídia digital é uma mídia da presença. A sua\ntemporalidade é o presente imediato. A comunicação digital\nse caracteriza pelo fato de que informações são produzidas,\nenviadas e recebidas sem mediação por meio de\nintermediários. Mediação e representação são interpretadas\ncomo não transparência e ineficiência, como\ncongestionamento de tempo e de informação.\nUma mídia eletrônica de massa clássica como o rádio só\npermite uma comunicação unilateral. O destinatário da\nmensagem é condenado à passividade.\nHoje não somos mais destinatários e consumidores\npassivos de informação, mas sim remetentes e produtores\nativos. Não nos contentamos mais em consumir informações\npassivamente, mas sim queremos produzi-las e comunicá-las\nativamente nós mesmos. Somos simultaneamente\nconsumidores e produtores.”\nHAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora\nVozes, 2018. p.35-36 (Adaptado).\nSegundo o texto, a mídia digital distingue-se da mídia de\nmassa tradicional por",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reforçar a separação entre consumidor e produtor,\nresultante da ampliação da comunicação unilateral na\ninternet.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apostar na passividade do público, que precisa de um\nmediador para poder comunicar informações ativamente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "gerar excesso de informação, que consolida estrutura\ncapaz de condenar todos os consumidores à passividade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "provocar presentificação, decorrente da dissolução dos\nintermediários e da combinação dos papéis de\nconsumidor e produtor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "dissolver a distinção entre produtor e consumidor,\ncausadora de congestionamento de tempo e de\ninformação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“A mídia digital é uma mídia da presença. A sua\ntemporalidade é o presente imediato. A comunicação digital\nse caracteriza pelo fato de que informações são produzidas,\nenviadas e recebidas sem mediação por meio de\nintermediários. Mediação e representação são interpretadas\ncomo não transparência e ineficiência, como\ncongestionamento de tempo e de informação.\nUma mídia eletrônica de massa clássica como o rádio só\npermite uma comunicação unilateral. O destinatário da\nmensagem é condenado à passividade.\nHoje não somos mais destinatários e consumidores\npassivos de informação, mas sim remetentes e produtores\nativos. Não nos contentamos mais em consumir informações\npassivamente, mas sim queremos produzi-las e comunicá-las\nativamente nós mesmos. Somos simultaneamente\nconsumidores e produtores.”\nHAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora\nVozes, 2018. p.35-36 (Adaptado).\nSegundo o texto, a mídia digital distingue-se da mídia de\nmassa tradicional por\n(A) reforçar a separação entre consumidor e produtor,\nresultante da ampliação da comunicação unilateral na\ninternet.\n(B) apostar na passividade do público, que precisa de um\nmediador para poder comunicar informações ativamente.\n(C) gerar excesso de informação, que consolida estrutura\ncapaz de condenar todos os consumidores à passividade.\n(D) provocar presentificação, decorrente da dissolução dos\nintermediários e da combinação dos papéis de\nconsumidor e produtor.\n(E) dissolver a distinção entre produtor e consumidor,\ncausadora de congestionamento de tempo e de\ninformação.\n#####",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            338.1547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            41.42470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Filosofia"
+      ],
+      "topic": "Mídia digital e relações entre produtores e consumidores",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

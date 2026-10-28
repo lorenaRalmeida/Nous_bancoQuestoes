@@ -1,0 +1,97 @@
+{
+  "title": "Questão 65 - UNICAMP 2023 - 1ª fase",
+  "index": 65,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Os textos A e B são postagens no perfil do The New York Times\nna rede social Instagram.\nTexto A\nTexto B\n(Adaptado de: https://www.instagram.com/p/Cd9JuKEurwI/;\nhttps://www.instagram.com/p/CeOjX6UOaZJ/. Acesso em 15/06/2022.)\nQual a relação que se estabelece entre os textos A e B?",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A serve de exemplo e justificativa para o que B noticia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "B serve de exemplo e justificativa para o que A noticia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A e B são, ambos, notícias sobre mudanças na política de\nporte de armas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A e B são, ambos, notícias sobre a ausência de leis para\nporte de armas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os textos A e B são postagens no perfil do The New York Times\nna rede social Instagram.\nTexto A\nTexto B\n(Adaptado de: https://www.instagram.com/p/Cd9JuKEurwI/;\nhttps://www.instagram.com/p/CeOjX6UOaZJ/. Acesso em 15/06/2022.)\nQual a relação que se estabelece entre os textos A e B?\na) A serve de exemplo e justificativa para o que B noticia.\nb) B serve de exemplo e justificativa para o que A noticia.\nc) A e B são, ambos, notícias sobre mudanças na política de\nporte de armas.\nd) A e B são, ambos, notícias sobre a ausência de leis para\nporte de armas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

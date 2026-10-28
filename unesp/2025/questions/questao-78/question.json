@@ -1,0 +1,111 @@
+{
+  "title": "Questão 78 - UNESP 2025 - 1ª fase",
+  "index": 78,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Uma esteira rolante é utilizada para transportar caixas para\no alto de uma plataforma. Para iniciar a subida a partir do\nrepouso, a esteira é colocada em movimento uniformemente acelerado por alguns instantes, até que as caixas atinjam\numa velocidade constante, compatível com a subida. O coeficiente de atrito estático entre as superfícies das caixas e a\nsuperfície da esteira é 0,8 e a aceleração da gravidade local\ntem intensidade 10 m/s2.\nSabendo que sen θ = 0,6 e que cos θ = 0,8, a intensidade da\nmáxima aceleração que a esteira pode ter no início de seu\nmovimento, sem que as caixas escorreguem sobre ela, será",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,4 m/s2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "0,2 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,5 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,1 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,3 m/s2.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma esteira rolante é utilizada para transportar caixas para\no alto de uma plataforma. Para iniciar a subida a partir do\nrepouso, a esteira é colocada em movimento uniformemen-\nte acelerado por alguns instantes, até que as caixas atinjam\numa velocidade constante, compatível com a subida. O coe-\nficiente de atrito estático entre as superfícies das caixas e a\nsuperfície da esteira é 0,8 e a aceleração da gravidade local\ntem intensidade 10 m/s2.\nSabendo que sen θ = 0,6 e que cos θ = 0,8, a intensidade da\nmáxima aceleração que a esteira pode ter no início de seu\nmovimento, sem que as caixas escorreguem sobre ela, será\n(A) 0,4 m/s2.\n(B) 0,2 m/s2.\n(C) 0,5 m/s2.\n(D) 0,1 m/s2.\n(E) 0,3 m/s2.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            441.6407,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 27,
+        "bbox": [
+          316.9836,
+          558.5784,
+          524.8342,
+          658.7094
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

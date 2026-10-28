@@ -1,0 +1,155 @@
+{
+  "title": "Questão 69 - UNESP 2025 - 1ª fase",
+  "index": 69,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "As ligas de solda mais comuns são misturas de estanho e\nchumbo. Duas dessas ligas são as representadas pelas siglas 63-37 e 60-40. Nessas siglas, o primeiro número representa a porcentagem de estanho presente em cada mistura,\ne o segundo número, a porcentagem de chumbo.\nOs gráficos representam as curvas de aquecimento dessas\nduas ligas.\nA análise dos gráficos revela que",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "apenas a liga 63-37 é uma mistura azeotrópica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apenas a liga 63-37 é uma mistura eutética.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "ambas as ligas são misturas azeotrópicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ambas as ligas são misturas eutéticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "apenas a liga 60-40 é uma mistura eutética.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As ligas de solda mais comuns são misturas de estanho e\nchumbo. Duas dessas ligas são as representadas pelas si-\nglas 63-37 e 60-40. Nessas siglas, o primeiro número repre-\nsenta a porcentagem de estanho presente em cada mistura,\ne o segundo número, a porcentagem de chumbo.\nOs gráficos representam as curvas de aquecimento dessas\nduas ligas.\nA análise dos gráficos revela que\n(A) apenas a liga 63-37 é uma mistura azeotrópica.\n(B) apenas a liga 63-37 é uma mistura eutética.\n(C) ambas as ligas são misturas azeotrópicas.\n(D) ambas as ligas são misturas eutéticas.\n(E) apenas a liga 60-40 é uma mistura eutética.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 25,
+        "bbox": [
+          58.070800000000006,
+          137.8152,
+          266.5068,
+          266.0724
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 25,
+        "bbox": [
+          58.070800000000006,
+          272.4608999999999,
+          266.5068,
+          400.71799999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 25,
+        "bbox": [
+          215.8676,
+          396.0693,
+          259.5498,
+          418.7313
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 25,
+        "bbox": [
+          62.7251,
+          396.06949999999995,
+          114.0072,
+          418.7315
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 25,
+        "bbox": [
+          139.0076,
+          396.145,
+          193.5476,
+          420.40979999999996
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

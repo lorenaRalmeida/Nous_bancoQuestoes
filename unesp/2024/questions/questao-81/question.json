@@ -1,0 +1,102 @@
+{
+  "title": "Questão 81 - UNESP 2024 - 1ª fase",
+  "index": 81,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "A imagem, produzida por um microscópio eletrônico, mostra\numa seção transversal de uma fibra nervosa responsável\npela transmissão de informações por meio de sinais elétricos.\nEssa fibra é composta pelo axônio, região central, envolvida\npela mielina, uma substância gordurosa.\n(Hugh D. Young e Roger A. Freedman. Física III.\nEletromagnetismo, 2016.)\nSabendo que a resistividade elétrica da mielina é muito maior\ndo que a resistividade elétrica do axônio, um sinal elétrico\ntransmitido por essa fibra nervosa",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mantém-se confinado no axônio, o que contribui para um\naumento na velocidade de transmissão da informação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "mantém-se confinado na mielina, o que contribui para\numa diminuição na velocidade de transmissão da\ninformação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mantém-se confinado no axônio, o que contribui para\numa diminuição na velocidade de transmissão da\ninformação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mantém-se confinado na mielina, o que contribui para um\naumento na velocidade de transmissão da informação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "distribui-se igualmente pela mielina e pelo axônio, o que\ncontribui para um aumento na velocidade de transmissão\nda informação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A imagem, produzida por um microscópio eletrônico, mostra\numa seção transversal de uma fibra nervosa responsável\npela transmissão de informações por meio de sinais elétricos.\nEssa fibra é composta pelo axônio, região central, envolvida\npela mielina, uma substância gordurosa.\n(Hugh D. Young e Roger A. Freedman. Física III.\nEletromagnetismo, 2016.)\nSabendo que a resistividade elétrica da mielina é muito maior\ndo que a resistividade elétrica do axônio, um sinal elétrico\ntransmitido por essa fibra nervosa\n(A) mantém-se confinado no axônio, o que contribui para um\naumento na velocidade de transmissão da informação.\n(B) mantém-se confinado na mielina, o que contribui para\numa diminuição na velocidade de transmissão da\ninformação.\n(C) mantém-se confinado no axônio, o que contribui para\numa diminuição na velocidade de transmissão da\ninformação.\n(D) mantém-se confinado na mielina, o que contribui para um\naumento na velocidade de transmissão da informação.\n(E) distribui-se igualmente pela mielina e pelo axônio, o que\ncontribui para um aumento na velocidade de transmissão\nda informação.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 31,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

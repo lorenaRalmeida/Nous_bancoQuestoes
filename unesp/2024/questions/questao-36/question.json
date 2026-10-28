@@ -1,0 +1,98 @@
+{
+  "title": "Questão 36 - UNESP 2024 - 1ª fase",
+  "index": 36,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Não reconhecendo nós outra soberania mais de que a\nsoberania do povo, para ela apelamos. […]\nNeste país, que se presume constitucional, e onde só\ndeveriam ter ação poderes delegados, […] só há um poder\nativo, […] poder sagrado inviolável e irresponsável.\nO privilégio, em todas as suas relações com a sociedade — tal é, em síntese, a fórmula social e política do nosso\npaís —, privilégio de religião, privilégio de raça, privilégio de\nsabedoria, privilégio de posição, isto é, todas as distinções\narbitrárias e odiosas que criam no seio da sociedade civil e\npolítica a monstruosa superioridade de um sobre todos ou de\nalguns sobre muitos. […]\nA autonomia das províncias é, pois, para nós mais do\nque um interesse imposto pela solidariedade dos direitos e\ndas relações provinciais, é um princípio cardeal e solene que\ninscrevemos na nossa bandeira.\n(“Manifesto Republicano de 1870”. In: Américo Brasiliense. Os programas\ndos partidos e o 2o Império, 1878.)\nO trecho transcrito permite caracterizar o Manifesto Republicano como",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "racista e liberal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "federalista e socialista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "socialista e unitarista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "unitarista e racista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "democrata e federalista.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Não reconhecendo nós outra soberania mais de que a\nsoberania do povo, para ela apelamos. […]\nNeste país, que se presume constitucional, e onde só\ndeveriam ter ação poderes delegados, […] só há um poder\nativo, […] poder sagrado inviolável e irresponsável.\nO privilégio, em todas as suas relações com a socieda-\nde — tal é, em síntese, a fórmula social e política do nosso\npaís —, privilégio de religião, privilégio de raça, privilégio de\nsabedoria, privilégio de posição, isto é, todas as distinções\narbitrárias e odiosas que criam no seio da sociedade civil e\npolítica a monstruosa superioridade de um sobre todos ou de\nalguns sobre muitos. […]\nA autonomia das províncias é, pois, para nós mais do\nque um interesse imposto pela solidariedade dos direitos e\ndas relações provinciais, é um princípio cardeal e solene que\ninscrevemos na nossa bandeira.\n(“Manifesto Republicano de 1870”. In: Américo Brasiliense. Os programas\ndos partidos e o 2o Império, 1878.)\nO trecho transcrito permite caracterizar o Manifesto Repu-\nblicano como\n(A) racista e liberal.\n(B) federalista e socialista.\n(C) socialista e unitarista.\n(D) unitarista e racista.\n(E) democrata e federalista.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

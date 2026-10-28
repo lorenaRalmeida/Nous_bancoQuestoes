@@ -1,0 +1,100 @@
+{
+  "title": "Questão 73 - FUVEST 2023 - 1ª fase",
+  "index": 73,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "A figura ilustra de maneira simplificada o fenômeno da\ndispersão da luz branca ao incidir sobre um prisma de vidro a\npartir do ar, mostrando apenas raios refratados\ncorrespondentes a três cores diferentes. Um fenômeno\nanálogo é responsável pelo aparecimento do arco-íris após\numa chuva.\nNa base do fenômeno da dispersão está a refração de raios\nluminosos quando incidem sobre uma interface que separa\ndois meios físicos distintos. A descrição matemática da\nrefração é feita pela lei de Snell, conforme apresentada a\nseguir:\n𝑛 sen𝜃 = 𝑛 sen𝜃\n𝑖,𝜆 𝑖 𝑟,𝜆 𝑟\nem que:\n• 𝑛 é o índice de refração da luz de comprimento de\n𝑖,𝜆\nonda 𝜆 no meio incidente,\n• 𝜃 é o ângulo que o raio incidente faz com a reta normal\n(cid:3036)\nà interface,\n• 𝑛 é o índice de refração da mesma luz no meio\n𝑟,𝜆\nrefratado e\n• 𝜃 é o ângulo que o raio refratado faz com a reta normal\n𝑟\nà interface.\nO índice de refração do ar pode ser tomado como igual a 1\npara qualquer comprimento de onda. Com base nessas\ninformações, a relação correta entre os índices de refração\ndos raios das cores 1 (𝑛 ), 2 (𝑛 ) e 3 (𝑛 ) no vidro é dada por:\n(cid:2869) (cid:2870) (cid:2871)\n\nNote e adote:\nA função seno é crescente quando 𝜃 está entre 0 e 90 graus.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "𝑛 =𝑛 =𝑛 (cid:3408)1\n(cid:2869) (cid:2870) (cid:2871)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "𝑛 (cid:3408)𝑛 (cid:3408)𝑛 (cid:3408)1\n(cid:2869) (cid:2870) (cid:2871)",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1<𝑛 <𝑛 <𝑛\n(cid:2869) (cid:2870) (cid:2871)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "𝑛 <𝑛 <𝑛 <1\n(cid:2869) (cid:2870) (cid:2871)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1(cid:3408)𝑛 (cid:3408)𝑛 (cid:3408)𝑛\n(cid:2869) (cid:2870) (cid:2871)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A figura ilustra de maneira simplificada o fenômeno da\ndispersão da luz branca ao incidir sobre um prisma de vidro a\npartir do ar, mostrando apenas raios refratados\ncorrespondentes a três cores diferentes. Um fenômeno\nanálogo é responsável pelo aparecimento do arco-íris após\numa chuva.\nNa base do fenômeno da dispersão está a refração de raios\nluminosos quando incidem sobre uma interface que separa\ndois meios físicos distintos. A descrição matemática da\nrefração é feita pela lei de Snell, conforme apresentada a\nseguir:\n𝑛 sen𝜃 = 𝑛 sen𝜃\n𝑖,𝜆 𝑖 𝑟,𝜆 𝑟\nem que:\n• 𝑛 é o índice de refração da luz de comprimento de\n𝑖,𝜆\nonda 𝜆 no meio incidente,\n• 𝜃 é o ângulo que o raio incidente faz com a reta normal\n(cid:3036)\nà interface,\n• 𝑛 é o índice de refração da mesma luz no meio\n𝑟,𝜆\nrefratado e\n• 𝜃 é o ângulo que o raio refratado faz com a reta normal\n𝑟\nà interface.\nO índice de refração do ar pode ser tomado como igual a 1\npara qualquer comprimento de onda. Com base nessas\ninformações, a relação correta entre os índices de refração\ndos raios das cores 1 (𝑛 ), 2 (𝑛 ) e 3 (𝑛 ) no vidro é dada por:\n(cid:2869) (cid:2870) (cid:2871)\n(A) 𝑛 =𝑛 =𝑛 (cid:3408)1\n(cid:2869) (cid:2870) (cid:2871)\n(B) 𝑛 (cid:3408)𝑛 (cid:3408)𝑛 (cid:3408)1\n(cid:2869) (cid:2870) (cid:2871)\n(C) 1<𝑛 <𝑛 <𝑛\n(cid:2869) (cid:2870) (cid:2871)\n(D) 𝑛 <𝑛 <𝑛 <1\n(cid:2869) (cid:2870) (cid:2871)\n(E) 1(cid:3408)𝑛 (cid:3408)𝑛 (cid:3408)𝑛\n(cid:2869) (cid:2870) (cid:2871)\nNote e adote:\nA função seno é crescente quando 𝜃 está entre 0 e 90 graus.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            404.9947,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            279.7147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Dispersão da luz e índices de refração",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

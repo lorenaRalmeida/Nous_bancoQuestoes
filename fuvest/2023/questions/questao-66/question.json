@@ -1,0 +1,88 @@
+{
+  "title": "Questão 66 - FUVEST 2023 - 1ª fase",
+  "index": 66,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "O Brasil é o país recordista mundial em queda de raios, com\numa estimativa de mais de 70 milhões de eventos desse tipo\npor ano.\nUma descarga elétrica dessas pode envolver campos elétricos\nda ordem de dez kilovolts por metro e um deslocamento de\n30 coulombs de carga em um milésimo de segundo.\nCom base nessas estimativas e assumindo o campo elétrico\ncomo sendo constante, a potência associada a um raio de\n100 m de comprimento corresponde a:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "30 GW",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "3 GW",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "300 MW",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "30 MW",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3 MW",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O Brasil é o país recordista mundial em queda de raios, com\numa estimativa de mais de 70 milhões de eventos desse tipo\npor ano.\nUma descarga elétrica dessas pode envolver campos elétricos\nda ordem de dez kilovolts por metro e um deslocamento de\n30 coulombs de carga em um milésimo de segundo.\nCom base nessas estimativas e assumindo o campo elétrico\ncomo sendo constante, a potência associada a um raio de\n100 m de comprimento corresponde a:\n(A) 30 GW\n(B) 3 GW\n(C) 300 MW\n(D) 30 MW\n(E) 3 MW",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            297.5,
+            181.91470000000004,
+            567,
+            403.1347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Potência de uma descarga elétrica",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

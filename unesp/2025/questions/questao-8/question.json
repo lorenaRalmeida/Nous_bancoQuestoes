@@ -1,0 +1,102 @@
+{
+  "title": "Questão 8 - UNESP 2025 - 1ª fase",
+  "index": 8,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Examine o meme publicado pelo perfil @classicaldamn no\nInstagram em 16.04.2024.\nO conteúdo explorado pelo meme relaciona-se diretamente\ncom aquele explorado pela seguinte fábula de Esopo:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Um cabrito que estava dentro de uma casa viu um lobo\npassar. E começou a insultá-lo, zombando dele. O lobo\nrespondeu: “Pobre tolo, não é você que me insulta: é\nessa casa que o protege.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Uma tartaruga pediu a uma águia que a ensinasse a voar.\nA ave tentou dissuadi-la: “Voar é contrário à sua natureza.” Mas a tartaruga suplicou. Então a águia pegou a\ntartaruga com suas garras, levou-a até bem alto no céu\ne depois a soltou. A tartaruga caiu nos rochedos e se\nespatifou.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Enquanto os bois puxavam a carroça, o eixo rangia. Então eles se voltaram para o eixo e lhe disseram: “Meu\ncaro, nós carregamos todo o peso e você é que fica resmungando?”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Um homem tinha uma galinha que botava ovos de\nouro. Ele achava que dentro havia uma grande quantidade de ouro. Ele então a sacrificou, mas descobriu\nque ela era igual às outras galinhas. Na esperança de\numa grande riqueza, acabou se privando de ganhos\num pouco menores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Uma raposa faminta avistou alguns cachos de uva suspensos numa parreira. Quis alcançá-los, mas todos os\nseus esforços foram em vão. Indo embora, disse para si:\n“Não estão maduros, mesmo!”",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine o meme publicado pelo perfil @classicaldamn no\nInstagram em 16.04.2024.\nO conteúdo explorado pelo meme relaciona-se diretamente\ncom aquele explorado pela seguinte fábula de Esopo:\n(A) Um cabrito que estava dentro de uma casa viu um lobo\npassar. E começou a insultá-lo, zombando dele. O lobo\nrespondeu: “Pobre tolo, não é você que me insulta: é\nessa casa que o protege.”\n(B) Uma tartaruga pediu a uma águia que a ensinasse a voar.\nA ave tentou dissuadi-la: “Voar é contrário à sua natu-\nreza.” Mas a tartaruga suplicou. Então a águia pegou a\ntartaruga com suas garras, levou-a até bem alto no céu\ne depois a soltou. A tartaruga caiu nos rochedos e se\nespatifou.\n(C) Enquanto os bois puxavam a carroça, o eixo rangia. En-\ntão eles se voltaram para o eixo e lhe disseram: “Meu\ncaro, nós carregamos todo o peso e você é que fica res-\nmungando?”\n(D) Um homem tinha uma galinha que botava ovos de\nouro. Ele achava que dentro havia uma grande quan-\ntidade de ouro. Ele então a sacrificou, mas descobriu\nque ela era igual às outras galinhas. Na esperança de\numa grande riqueza, acabou se privando de ganhos\num pouco menores.\n(E) Uma raposa faminta avistou alguns cachos de uva sus-\npensos numa parreira. Quis alcançá-los, mas todos os\nseus esforços foram em vão. Indo embora, disse para si:\n“Não estão maduros, mesmo!”",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            210.71550000000002,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Inglês"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

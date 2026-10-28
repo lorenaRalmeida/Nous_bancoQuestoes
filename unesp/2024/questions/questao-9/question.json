@@ -1,0 +1,114 @@
+{
+  "title": "Questão 9 - UNESP 2024 - 1ª fase",
+  "index": 9,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise o meme publicado pelo perfil “Classical Damn” no\nInstagram em 02.07.2021.\nA análise do meme permite caracterizar",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os romanos como extravagantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os gregos como intransigentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os gregos como distraídos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os romanos como inventivos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os romanos como preguiçosos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o meme publicado pelo perfil “Classical Damn” no\nInstagram em 02.07.2021.\nA análise do meme permite caracterizar\n(A) os romanos como extravagantes.\n(B) os gregos como intransigentes.\n(C) os gregos como distraídos.\n(D) os romanos como inventivos.\n(E) os romanos como preguiçosos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            253.14070000000004,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            22,
+            568,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 5,
+        "bbox": [
+          39.714,
+          297.909,
+          284.31399,
+          526.58399
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

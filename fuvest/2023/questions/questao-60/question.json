@@ -1,0 +1,102 @@
+{
+  "title": "Questão 60 - FUVEST 2023 - 1ª fase",
+  "index": 60,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Revista Fapesp, 2022. Adaptado.\nSegundo os dados apresentados e seus conhecimentos, é\npossível afirmar que, no Brasil,",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a agropecuária é a atividade econômica com maior\nemissão na forma de gás metano, resultante do processo\nfermentativo da digestão celulósica nos ruminantes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "os resíduos agrícolas têm pouca contribuição no total\nemitido à atmosfera na forma de cloretos e sulfetos\noriginados de seu intemperismo, com baixos teores de\ncarbono.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os processos industriais contribuem com emissões\nsignificativas de GEE na forma de gás metano, resultante da\natividade microbiana sobre os compostos nitrogenados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as mudanças no uso da terra, em que há a substituição de\nflorestas por áreas cultivadas, respondem por cerca de\nmetade da emissão de GEE a partir de bactérias e fungos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o setor de energia é um grande emissor de GEE na forma\nde óxido nítrico, metano e dióxido de carbono, resultantes\nde todos os processos de geração de energia.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Revista Fapesp, 2022. Adaptado.\nSegundo os dados apresentados e seus conhecimentos, é\npossível afirmar que, no Brasil,\n(A) a agropecuária é a atividade econômica com maior\nemissão na forma de gás metano, resultante do processo\nfermentativo da digestão celulósica nos ruminantes.\n(B) os resíduos agrícolas têm pouca contribuição no total\nemitido à atmosfera na forma de cloretos e sulfetos\noriginados de seu intemperismo, com baixos teores de\ncarbono.\n(C) os processos industriais contribuem com emissões\nsignificativas de GEE na forma de gás metano, resultante da\natividade microbiana sobre os compostos nitrogenados.\n(D) as mudanças no uso da terra, em que há a substituição de\nflorestas por áreas cultivadas, respondem por cerca de\nmetade da emissão de GEE a partir de bactérias e fungos.\n(E) o setor de energia é um grande emissor de GEE na forma\nde óxido nítrico, metano e dióxido de carbono, resultantes\nde todos os processos de geração de energia.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            297.5,
+            441.23470000000003,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            188.0947
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Metabolismo e gases de efeito estufa na agropecuária",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Questão 17 - UNICAMP 2026 - 1ª fase",
+  "index": 17,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O mapa da África apresentando seus respectivos climas e zonobiomas (classificação internacional feita em função do clima\ne da fitofisionomia) é um bom exemplo para mostrar a distribuição das zonas climáticas em faixas latitudinais. Em outros\ncontinentes, cordilheiras, correntes marinhas e diversos fatores\ndistorcem, interrompem e/ou expandem essas faixas, tornando-\n-as menos evidentes.\nÁfrica e as suas zonas climáticas e zonobiomas\nLegenda:\nZona Clima Zonobiomas\nI Tropical Equatorial Florestas e savanas equatoriais\nII Tropical Estacional Florestas e savanas estacionais\nIII Subtropical árido Desertos quentes\nIV Mediterrâneo Chaparral, maqui mediterrâneo\nV Temperado quente-úmido Florestas quente-temperadas\nZonas de transição\n(COUTINHO, L. M. Biomas brasileiros. São Paulo: Oficina de Textos, p. 27-28, 2016.)\nA partir da leitura do mapa e de seus conhecimentos sobre os\ncomponentes naturais do continente africano, assinale a alternativa correta em relação às zonas de transição.",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A zona de transição I–II apresenta fitofisionomias típicas de\nsavanas perenifólias nas proximidades da zona I e um processo gradativo do desenvolvimento de florestas ombrófilas\nno limite com a zona II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A zona de transição II–III apresenta formações vegetais contínuas e densas, com árvores latifoliadas e higrófilas, típicas\nda zona II e em detrimento das savanas típicas da zona III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A zona de transição II–V apresenta uma vegetação densa e\npermanente, com gramíneas e arbustos, pois a influência da\nzona V predomina por influência dos processos costeiros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A zona de transição III–II apresenta vegetação de pequeno\nporte e espécies xerófitas no contato com a zona III, e um\nprocesso gradativo de savanização em direção à zona II.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O mapa da África apresentando seus respectivos climas e zo-\nnobiomas (classificação internacional feita em função do clima\ne da fitofisionomia) é um bom exemplo para mostrar a distri-\nbuição das zonas climáticas em faixas latitudinais. Em outros\ncontinentes, cordilheiras, correntes marinhas e diversos fatores\ndistorcem, interrompem e/ou expandem essas faixas, tornando-\n-as menos evidentes.\nÁfrica e as suas zonas climáticas e zonobiomas\nLegenda:\nZona Clima Zonobiomas\nI Tropical Equatorial Florestas e savanas equatoriais\nII Tropical Estacional Florestas e savanas estacionais\nIII Subtropical árido Desertos quentes\nIV Mediterrâneo Chaparral, maqui mediterrâneo\nV Temperado quente-úmido Florestas quente-temperadas\nZonas de transição\n(COUTINHO, L. M. Biomas brasileiros. São Paulo: Oficina de Textos, p. 27-28, 2016.)\nA partir da leitura do mapa e de seus conhecimentos sobre os\ncomponentes naturais do continente africano, assinale a alter-\nnativa correta em relação às zonas de transição.\na) A zona de transição I–II apresenta fitofisionomias típicas de\nsavanas perenifólias nas proximidades da zona I e um pro-\ncesso gradativo do desenvolvimento de florestas ombrófilas\nno limite com a zona II.\nb) A zona de transição II–III apresenta formações vegetais con-\ntínuas e densas, com árvores latifoliadas e higrófilas, típicas\nda zona II e em detrimento das savanas típicas da zona III.\nc) A zona de transição II–V apresenta uma vegetação densa e\npermanente, com gramíneas e arbustos, pois a influência da\nzona V predomina por influência dos processos costeiros.\nd) A zona de transição III–II apresenta vegetação de pequeno\nporte e espécies xerófitas no contato com a zona III, e um\nprocesso gradativo de savanização em direção à zona II.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.14269999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 7,
+        "bbox": [
+          304,
+          463.7991,
+          568,
+          578.9241
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

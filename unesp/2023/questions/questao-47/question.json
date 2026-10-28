@@ -1,0 +1,113 @@
+{
+  "title": "Questão 47 - UNESP 2023 - 1ª fase",
+  "index": 47,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise o mapa.\nÁreas de atuação das Frentes de Proteção (FP)\n(https://amazonianativa.org.br. Adaptado.)\nÉ uma ação das Frentes de Proteção",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o monitoramento das reservas extrativistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a fiscalização dos territórios de povos isolados.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a fiscalização da biopirataria florestal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a vigilância das áreas de conservação ambiental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a promoção de pesquisa científica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o mapa.\nÁreas de atuação das Frentes de Proteção (FP)\n(https://amazonianativa.org.br. Adaptado.)\nÉ uma ação das Frentes de Proteção\n(A) o monitoramento das reservas extrativistas.\n(B) a fiscalização dos territórios de povos isolados.\n(C) a fiscalização da biopirataria florestal.\n(D) a vigilância das áreas de conservação ambiental.\n(E) a promoção de pesquisa científica.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            476.1466
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 16,
+        "bbox": [
+          358.725,
+          299.731,
+          400.299006,
+          326.87901
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 16,
+        "bbox": [
+          390.1374,
+          301.4856,
+          501.7004,
+          326.76869999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

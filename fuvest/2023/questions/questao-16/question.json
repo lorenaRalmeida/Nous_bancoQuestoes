@@ -1,0 +1,98 @@
+{
+  "title": "Questão 16 - FUVEST 2023 - 1ª fase",
+  "index": 16,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“O Equador alertou, em julho de 2020, sobre a presença de\nembarcações próximas às Ilhas Galápagos, principalmente\ncom bandeira chinesa. As ilhas estão a 1.000 km do\ncontinente, e a área inclui uma reserva marinha de\n133 mil km2. Os navios pesqueiros se encontram em águas\ninternacionais, mas sua proximidade do arquipélago,\nclassificado como Patrimônio Natural da Humanidade,\npreocupa as autoridades equatorianas”.\nDisponível em https://www.dw.com/. Adaptado.\nO texto aborda a pesca em águas oceânicas internacionais,\nsobre a qual é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "As Ilhas Galápagos e seu entorno apresentam pouca oferta\nde pescado por se situarem em região com águas\nsuperficiais frias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Há risco de poluição das águas pelos rejeitos produzidos\npela frota pesqueira e risco de sobrepesca, que ameaça a\nreposição natural das espécies.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "As embarcações não adentram as áreas de preservação\nem função do rígido controle e, com isso, o risco de\nsobrepesca é baixo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Por estar a milhares de quilômetros distante da China,\nprincipal mercado consumidor de pescado, a pesca ilegal\nnão se sustenta economicamente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O volume de pescado retirado dos oceanos é elevado,\ngarantindo a reposição natural e a manutenção dos\nestoques das espécies.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“O Equador alertou, em julho de 2020, sobre a presença de\nembarcações próximas às Ilhas Galápagos, principalmente\ncom bandeira chinesa. As ilhas estão a 1.000 km do\ncontinente, e a área inclui uma reserva marinha de\n133 mil km2. Os navios pesqueiros se encontram em águas\ninternacionais, mas sua proximidade do arquipélago,\nclassificado como Patrimônio Natural da Humanidade,\npreocupa as autoridades equatorianas”.\nDisponível em https://www.dw.com/. Adaptado.\nO texto aborda a pesca em águas oceânicas internacionais,\nsobre a qual é correto afirmar:\n(A) As Ilhas Galápagos e seu entorno apresentam pouca oferta\nde pescado por se situarem em região com águas\nsuperficiais frias.\n(B) Há risco de poluição das águas pelos rejeitos produzidos\npela frota pesqueira e risco de sobrepesca, que ameaça a\nreposição natural das espécies.\n(C) As embarcações não adentram as áreas de preservação\nem função do rígido controle e, com isso, o risco de\nsobrepesca é baixo.\n(D) Por estar a milhares de quilômetros distante da China,\nprincipal mercado consumidor de pescado, a pesca ilegal\nnão se sustenta economicamente.\n(E) O volume de pescado retirado dos oceanos é elevado,\ngarantindo a reposição natural e a manutenção dos\nestoques das espécies.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            297.5,
+            532.6146,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            164.6947
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Pesca oceânica e geopolítica marítima",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

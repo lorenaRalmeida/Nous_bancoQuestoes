@@ -1,0 +1,111 @@
+{
+  "title": "Questão 65 - UNESP 2023 - 1ª fase",
+  "index": 65,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Fábio e Rogério, dois irmãos gêmeos monozigóticos, adultos\ne saudáveis, encontraram-se em São Paulo, a fim de doarem\nsangue para o irmão mais novo, Marcelo, também adulto,\nque acabara de ser diagnosticado com leucemia mieloide.\nOs três moram em São Paulo, mas Fábio voltou às pressas\ndo Guarujá, no litoral de São Paulo, onde passava férias há\n20 dias. Rogério voltou de La Paz, na Bolívia, onde também\nestava em férias há 20 dias. Assim que que se encontraram,\nforam submetidos a um exame de sangue, hemograma, para\navaliação de seus parâmetros hematológicos.\nA tabela apresenta alguns dados obtidos com o hemograma\nde cada um deles.\nValores\nIndivíduo 1 Indivíduo 2 Indivíduo 3 de\nreferência\nEritrócitos\n6,5 2,5 4,5 4,5 a 5,9\n(número de milhões/mm3 milhões/mm3 milhões/mm3 milhões/mm3\ncélulas)\nHematócrito\n(percentual\ndo sangue\n53% 20% 40% 40 a 52%\nocupado\npelas\nhemácias)\nCHCM\n(concentração\nde hemoglobina 38% 28% 31% 31 a 36%\ndentro da\ncélula)\nLeucócitos 4 500\n(número de 7 800/mm3 38 000/mm3 9 000/mm3 a\ncélulas) 11 000/mm3\nOs resultados dos hemogramas indicam que os indivíduos 1,\n2 e 3 correspondem, respectivamente, a",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Rogério, Marcelo e Fábio.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Fábio, Rogério e Marcelo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Fábio, Marcelo e Rogério.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Marcelo, Rogério e Fábio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Marcelo, Fábio e Rogério.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Fábio e Rogério, dois irmãos gêmeos monozigóticos, adultos\ne saudáveis, encontraram-se em São Paulo, a fim de doarem\nsangue para o irmão mais novo, Marcelo, também adulto,\nque acabara de ser diagnosticado com leucemia mieloide.\nOs três moram em São Paulo, mas Fábio voltou às pressas\ndo Guarujá, no litoral de São Paulo, onde passava férias há\n20 dias. Rogério voltou de La Paz, na Bolívia, onde também\nestava em férias há 20 dias. Assim que que se encontraram,\nforam submetidos a um exame de sangue, hemograma, para\navaliação de seus parâmetros hematológicos.\nA tabela apresenta alguns dados obtidos com o hemograma\nde cada um deles.\nValores\nIndivíduo 1 Indivíduo 2 Indivíduo 3 de\nreferência\nEritrócitos\n6,5 2,5 4,5 4,5 a 5,9\n(número de milhões/mm3 milhões/mm3 milhões/mm3 milhões/mm3\ncélulas)\nHematócrito\n(percentual\ndo sangue\n53% 20% 40% 40 a 52%\nocupado\npelas\nhemácias)\nCHCM\n(concentração\nde hemoglobina 38% 28% 31% 31 a 36%\ndentro da\ncélula)\nLeucócitos 4 500\n(número de 7 800/mm3 38 000/mm3 9 000/mm3 a\ncélulas) 11 000/mm3\nOs resultados dos hemogramas indicam que os indivíduos 1,\n2 e 3 correspondem, respectivamente, a\n(A) Rogério, Marcelo e Fábio.\n(B) Fábio, Rogério e Marcelo.\n(C) Fábio, Marcelo e Rogério.\n(D) Marcelo, Rogério e Fábio.\n(E) Marcelo, Fábio e Rogério.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 23,
+        "bbox": [
+          304,
+          198.41369999999995,
+          568,
+          415.8947
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

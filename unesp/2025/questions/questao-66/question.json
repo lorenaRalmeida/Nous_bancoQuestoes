@@ -1,0 +1,113 @@
+{
+  "title": "Questão 66 - UNESP 2025 - 1ª fase",
+  "index": 66,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Na figura, os números 1 a 5 indicam os alvos para testes\nde diagnóstico de doenças causadas pela Taenia solium\nem seres humanos ou porcos.\n(World Health Organization (WHO) and For research on diseases of poverty.\n“Taenia solium Taeniasis/cysticercosis diagnostic tools”, 2015. Adaptado.)\nOs alvos para manter o diagnóstico de teníase estão indicados pelos números",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3 e 5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 e 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1, 2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1 e 5.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "2, 3 e 5.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na figura, os números 1 a 5 indicam os alvos para testes\nde diagnóstico de doenças causadas pela Taenia solium\nem seres humanos ou porcos.\n(World Health Organization (WHO) and For research on diseases of poverty.\n“Taenia solium Taeniasis/cysticercosis diagnostic tools”, 2015. Adaptado.)\nOs alvos para manter o diagnóstico de teníase estão indica-\ndos pelos números\n(A) 3 e 5.\n(B) 1 e 2.\n(C) 1, 2 e 3.\n(D) 1 e 5.\n(E) 2, 3 e 5.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            475.6427
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 24,
+        "bbox": [
+          126.55880000000002,
+          84.59619999999995,
+          164.799,
+          128.45389999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 24,
+        "bbox": [
+          44.590999999999994,
+          132.83169999999996,
+          94.9894,
+          195.68009999999992
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

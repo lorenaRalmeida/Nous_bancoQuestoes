@@ -1,0 +1,98 @@
+{
+  "title": "Questão 58 - UNESP 2025 - 1ª fase",
+  "index": 58,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Leia o trecho da entrevista do filósofo Renato Noguera ao\nrepórter Arnaldo Bloch, do jornal O Globo.\nArnaldo Bloch: Conte algo que não sei.\nRenato Noguera: A filosofia não nasceu na Grécia. Ela\njá existia na África e em outras regiões séculos antes. No\nEgito, há uma palavra, rekhet, que significa exatamente o\nque a palavra filosofia significa para os gregos. É uma arte\nda palavra, do saber. Os maias tinham aforismos filosóficos.\nHá diferentes estilos de fazer filosofia, mas há uma disputa\npolítica para que só uma voz filosófica fique conhecida. Essa\nvoz é a do Ocidente.\n(Arnaldo Bloch. https://oglobo.globo.com, 23.02.2015.)\nA disputa política mencionada pelo filósofo Renato Noguera",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "apresenta a busca pela relativização do conhecimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ilustra a desvalorização dos sistemas conceituais tradicionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "propõe uma visão homogeneizadora da verdade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "promove uma relação hierarquizada do pensamento\nhumano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "revela o desprezo pelo debate de ideias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o trecho da entrevista do filósofo Renato Noguera ao\nrepórter Arnaldo Bloch, do jornal O Globo.\nArnaldo Bloch: Conte algo que não sei.\nRenato Noguera: A filosofia não nasceu na Grécia. Ela\njá existia na África e em outras regiões séculos antes. No\nEgito, há uma palavra, rekhet, que significa exatamente o\nque a palavra filosofia significa para os gregos. É uma arte\nda palavra, do saber. Os maias tinham aforismos filosóficos.\nHá diferentes estilos de fazer filosofia, mas há uma disputa\npolítica para que só uma voz filosófica fique conhecida. Essa\nvoz é a do Ocidente.\n(Arnaldo Bloch. https://oglobo.globo.com, 23.02.2015.)\nA disputa política mencionada pelo filósofo Renato Noguera\n(A) apresenta a busca pela relativização do conhecimento.\n(B) ilustra a desvalorização dos sistemas conceituais tradi-\ncionais.\n(C) propõe uma visão homogeneizadora da verdade.\n(D) promove uma relação hierarquizada do pensamento\nhumano.\n(E) revela o desprezo pelo debate de ideias.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            391.64459999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

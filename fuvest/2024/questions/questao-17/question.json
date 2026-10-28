@@ -1,0 +1,91 @@
+{
+  "title": "Questão 17 - FUVEST 2024 - 1ª fase",
+  "index": 17,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "“O Quim disse-me também que as feridas do Cão Tinhoso\neram por causa da guerra e da bomba atômica [...] O Quim\ndisse-me isso de o Cão Tinhoso ser muito velho quando um\ndia o vimos a bocejar sem dentes na boca. Foi nesse dia que\nme contou a história da bomba atômica com os japoneses\npequeninos a morrer todos que era uma beleza e o Cão\nTinhoso a fugir depois de ela rebentar e a correr uma distância\nmonstra para não morrer.”\nLuís Bernardo Honwana. Nós matamos o Cão Tinhoso!.\nA radiação ionizante, resultante da explosão da bomba\natômica, é capaz de provocar feridas na pele iguais às do Cão\nTinhoso, que são consequências de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mutações no DNA das células epiteliais, o que pode alterar\nseu ciclo celular.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "alterações no DNA mitocondrial que levam à redução do\nmetabolismo celular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ativação dos processos de reparo do DNA e bloqueio da\ndiferenciação celular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aumento da divisão meiótica decorrente do processo de\ncrossing-over.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "processos de evolução desencadeados por mutações\naleatórias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“O Quim disse-me também que as feridas do Cão Tinhoso\neram por causa da guerra e da bomba atômica [...] O Quim\ndisse-me isso de o Cão Tinhoso ser muito velho quando um\ndia o vimos a bocejar sem dentes na boca. Foi nesse dia que\nme contou a história da bomba atômica com os japoneses\npequeninos a morrer todos que era uma beleza e o Cão\nTinhoso a fugir depois de ela rebentar e a correr uma distância\nmonstra para não morrer.”\nLuís Bernardo Honwana. Nós matamos o Cão Tinhoso!.\nA radiação ionizante, resultante da explosão da bomba\natômica, é capaz de provocar feridas na pele iguais às do Cão\nTinhoso, que são consequências de\n(A) mutações no DNA das células epiteliais, o que pode alterar\nseu ciclo celular.\n(B) alterações no DNA mitocondrial que levam à redução do\nmetabolismo celular.\n(C) ativação dos processos de reparo do DNA e bloqueio da\ndiferenciação celular.\n(D) aumento da divisão meiótica decorrente do processo de\ncrossing-over.\n(E) processos de evolução desencadeados por mutações\naleatórias.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            355.91470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Física",
+        "Português"
+      ],
+      "topic": "Radiação e mutações no DNA epitelial",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

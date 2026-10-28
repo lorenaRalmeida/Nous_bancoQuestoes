@@ -1,0 +1,86 @@
+{
+  "title": "Questão 29 - UNICAMP 2026 - 1ª fase",
+  "index": 29,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "A imagem e o texto a seguir têm como tema comum as práticas\nesportivas e a construção da masculinidade entre os atenienses\nno Período Clássico (séculos V e IV a.C.).\nEsporte apreciado entre os helenos, o lançamento de disco exigia do atleta uma disciplina técnica, evidenciada pela harmonia\ndos movimentos corporais. No centro da imagem, há um jovem\nse preparando para o lançar o disco. A ausência da barba do\npersonagem permite afirmar que ele está sendo preparado para\no exercício da cidadania plena. A presença dos dois halteres e\ndo enxadão indica que a cena ocorre em uma palestra: campo\nde exercício cercado de edifícios com funções diversas. Na imagem original, contamos com uma inscrição que diz \"Kléomelos\né belo\".\n(Texto e imagem adaptados de LESSA, F. de S. Corpo, Esporte e Masculinidade em Atenas.\nPHOÎNIX, Rio de Janeiro. v. 10: p. 111-132, 2004.)\nA partir da imagem e do texto, assinale a alternativa correta\nsobre a interpretação da imagem.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Um atleta do lançamento de discos, esporte olímpico, ligado\nao trabalho manual das camadas subalternas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Distinção de classe social, já que se representa um ideário de\nbeleza própria ao atleta bem-nascido.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Um cidadão ateniense maduro e despido, em pose comum\naos lançadores de disco já vitoriosos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Elementos gráficos que representam a percepção social e\nesportiva do ápice da masculinidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A imagem e o texto a seguir têm como tema comum as práticas\nesportivas e a construção da masculinidade entre os atenienses\nno Período Clássico (séculos V e IV a.C.).\nEsporte apreciado entre os helenos, o lançamento de disco exi-\ngia do atleta uma disciplina técnica, evidenciada pela harmonia\ndos movimentos corporais. No centro da imagem, há um jovem\nse preparando para o lançar o disco. A ausência da barba do\npersonagem permite afirmar que ele está sendo preparado para\no exercício da cidadania plena. A presença dos dois halteres e\ndo enxadão indica que a cena ocorre em uma palestra: campo\nde exercício cercado de edifícios com funções diversas. Na ima-\ngem original, contamos com uma inscrição que diz \"Kléomelos\né belo\".\n(Texto e imagem adaptados de LESSA, F. de S. Corpo, Esporte e Masculinidade em Atenas.\nPHOÎNIX, Rio de Janeiro. v. 10: p. 111-132, 2004.)\nA partir da imagem e do texto, assinale a alternativa correta\nsobre a interpretação da imagem.\na) Um atleta do lançamento de discos, esporte olímpico, ligado\nao trabalho manual das camadas subalternas.\nb) Distinção de classe social, já que se representa um ideário de\nbeleza própria ao atleta bem-nascido.\nc) Um cidadão ateniense maduro e despido, em pose comum\naos lançadores de disco já vitoriosos.\nd) Elementos gráficos que representam a percepção social e\nesportiva do ápice da masculinidade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            603.8553999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Educação Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "title": "Questão 52 - UNESP 2023 - 1ª fase",
+  "index": 52,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise os componentes que caracterizam o cálculo desenvolvido para avaliar a pressão exercida pela população humana sobre o meio ambiente.\nCarbono: extensão de áreas\nflorestais capazes de sequestrar emissões de CO deriva-\n2\ndas da queima de combustíveis fósseis.\nÁreas de cultivo: extensão\nde áreas usadas para a produção de alimentos e fibras\npara o consumo humano, bem\ncomo para a produção de ração para o gado, oleaginosas\ne borracha.\nPastagens: extensão de áreas\nutilizadas para a criação de\ngado de corte e leiteiro e para\na produção de couro.\nFlorestas: extensão de áreas\nnecessárias para o fornecimento de madeira, celulose e\nlenha.\nÁreas construídas: extensão\nde áreas cobertas por infraestrutura humana.\nEstoques pesqueiros: estimativa de produção primária\nnecessária para sustentar os\npeixes e mariscos capturados.\n(www.wwf.org.br. Adaptado.)\nCoerente com as preocupações sobre o desenvolvimento\nsustentável e atrelado à biocapacidade dos ecossistemas\nem produzir recursos e absorver resíduos, o cálculo pretende\navaliar",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o Ecodesenvolvimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a Agrobiodiversidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a Pegada Ecológica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o Dano Ambiental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o Crédito de Carbono.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise os componentes que caracterizam o cálculo desen-\nvolvido para avaliar a pressão exercida pela população hu-\nmana sobre o meio ambiente.\nCarbono: extensão de áreas\nflorestais capazes de seques-\ntrar emissões de CO deriva-\n2\ndas da queima de combustí-\nveis fósseis.\nÁreas de cultivo: extensão\nde áreas usadas para a pro-\ndução de alimentos e fibras\npara o consumo humano, bem\ncomo para a produção de ra-\nção para o gado, oleaginosas\ne borracha.\nPastagens: extensão de áreas\nutilizadas para a criação de\ngado de corte e leiteiro e para\na produção de couro.\nFlorestas: extensão de áreas\nnecessárias para o forneci-\nmento de madeira, celulose e\nlenha.\nÁreas construídas: extensão\nde áreas cobertas por infraes-\ntrutura humana.\nEstoques pesqueiros: esti-\nmativa de produção primária\nnecessária para sustentar os\npeixes e mariscos capturados.\n(www.wwf.org.br. Adaptado.)\nCoerente com as preocupações sobre o desenvolvimento\nsustentável e atrelado à biocapacidade dos ecossistemas\nem produzir recursos e absorver resíduos, o cálculo pretende\navaliar\n(A) o Ecodesenvolvimento.\n(B) a Agrobiodiversidade.\n(C) a Pegada Ecológica.\n(D) o Dano Ambiental.\n(E) o Crédito de Carbono.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 18,
+        "bbox": [
+          312.1553,
+          100.71889999999996,
+          416.8533,
+          170.47298049999995
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 18,
+        "bbox": [
+          323.4255,
+          175.2956999999999,
+          401.0278,
+          263.84039999999993
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 18,
+        "bbox": [
+          314.3483,
+          274.59849999999994,
+          414.7353,
+          346.27049999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 18,
+        "bbox": [
+          317.2283,
+          359.6923,
+          411.7803,
+          430.0892
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 18,
+        "bbox": [
+          323.0544,
+          439.43309999999997,
+          405.95439999999996,
+          523.2820999999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 18,
+        "bbox": [
+          306.9828,
+          530.3097,
+          422.4218,
+          600.8947000000001
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 12 - UNICAMP 2024 - 1ª fase",
+  "index": 12,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia as duas citações a seguir, extraídas do início e do final de\nO Ateneu:\n“Lembramo-nos, entretanto, com saudade hipócrita, dos felizes tempos; como se a mesma incerteza de hoje, sob outro\naspecto, não nos houvesse perseguido outrora e não viesse de\nlonge a enfiada das decepções que nos ultrajam. Eufemismo,\nos felizes tempos, eufemismo apenas, igual aos outros que nos\nalimentam, a saudade dos dias que correram como melhores.\nBem considerando, a atualidade é a mesma em todas as datas.\nFeita a compensação dos desejos que variam, das aspirações\nque se transformam, alentadas perpetuamente do mesmo ardor, sobre a mesma base fantástica de esperanças, a atualidade\né uma (...)”.\n“Aqui suspendo a crônica das saudades. Saudades verdadeiramente? Puras recordações, saudades talvez, se ponderarmos\nque o tempo é a ocasião passageira dos fatos, mas sobretudo\n— o funeral para sempre das horas.”\n(POMPEIA, Raul. O Atheneu (Chronica de saudades). Rio de Janeiro: Tipografia de Gazeta de Notícias, p 3-4 e 368, 1888.)\nCom base nessas duas citações, é possível afirmar que, ao fim\nda narrativa de Sérgio sobre sua vida no colégio, o narrador",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "idealiza a felicidade experimentada na infância, suas aspirações, seu ardor e suas esperanças.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "considera que a felicidade passada não era maior que a do\npresente, pois os tempos são iguais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "duvida da própria saudade, separando as lembranças relativas ao passado daquele sentimento associado a elas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "denuncia a hipocrisia da saudade que sente, por saber que\na passagem do tempo é incerta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia as duas citações a seguir, extraídas do início e do final de\nO Ateneu:\n“Lembramo-nos, entretanto, com saudade hipócrita, dos feli-\nzes tempos; como se a mesma incerteza de hoje, sob outro\naspecto, não nos houvesse perseguido outrora e não viesse de\nlonge a enfiada das decepções que nos ultrajam. Eufemismo,\nos felizes tempos, eufemismo apenas, igual aos outros que nos\nalimentam, a saudade dos dias que correram como melhores.\nBem considerando, a atualidade é a mesma em todas as datas.\nFeita a compensação dos desejos que variam, das aspirações\nque se transformam, alentadas perpetuamente do mesmo ar-\ndor, sobre a mesma base fantástica de esperanças, a atualidade\né uma (...)”.\n“Aqui suspendo a crônica das saudades. Saudades verdadei-\nramente? Puras recordações, saudades talvez, se ponderarmos\nque o tempo é a ocasião passageira dos fatos, mas sobretudo\n— o funeral para sempre das horas.”\n(POMPEIA, Raul. O Atheneu (Chronica de saudades). Rio de Janeiro: Tipografia de Gaze-\nta de Notícias, p 3-4 e 368, 1888.)\nCom base nessas duas citações, é possível afirmar que, ao fim\nda narrativa de Sérgio sobre sua vida no colégio, o narrador\na) idealiza a felicidade experimentada na infância, suas aspira-\nções, seu ardor e suas esperanças.\nb) considera que a felicidade passada não era maior que a do\npresente, pois os tempos são iguais.\nc) duvida da própria saudade, separando as lembranças relati-\nvas ao passado daquele sentimento associado a elas.\nd) denuncia a hipocrisia da saudade que sente, por saber que\na passagem do tempo é incerta.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            686.6859999999999,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            40,
+            568,
+            387.2016
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

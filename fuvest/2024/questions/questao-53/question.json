@@ -1,0 +1,98 @@
+{
+  "title": "Questão 53 - FUVEST 2024 - 1ª fase",
+  "index": 53,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 53 E 54\nOver the last two decades, technology companies and\npolicymakers warned of a “digital divide” in which poor\nchildren could fall behind their more affluent peers without\nequal access to technology. Today, with widespread internet\naccess and smartphone ownership, the gap has narrowed\nsharply.\nBut with less fanfare a different division has appeared:\nAcross the country, poor children and adolescents are\nparticipating far less in sports and fitness activities than more\naffluent youngsters are. Call it the physical divide. Data from\nmultiple sources reveal a significant gap in sports participation\nby income level.\nA combination of factors is responsible. Spending cuts\nand changing priorities at some public schools have curtailed\nphysical education classes and organized sports. At the same\ntime, privatized youth sports have become a multibillion-\ndollar enterprise offering new opportunities — at least for\nfamilies that can afford hundreds to thousands of dollars each\nseason for club-team fees, uniforms, equipment, travel to\ntournaments and private coaching.\n“What’s happened as sports has become privatized is\nthat it has become the haves and have-nots,” said Jon\nSolomon, editorial director for the Aspen Institute Sports and\nSociety Program. “Particularly for low-income kids, if they\ndon’t have access to sports within the school setting, where\nare they going to get their physical activity?” Mr. Solomon\nsaid. “The answer is nowhere.”\nThe New York Times. 24 March 2023. Adaptado.\n\nConforme o texto, um dos motivos para a disparidade relativa\nà prática de atividades físicas por alunos, segundo o nível de\nrenda, reside",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "no abismo persistente entre as notas de estudantes ricos\ne pobres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "no corte de gastos e mudanças de prioridades em algumas\nescolas públicas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "na preferência por jogadores com potencial superior para\ncompetição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "na redução de bolsas de estudos para adolescentes de\nfamílias abaixo da linha de pobreza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "na realização de campeonatos contemplados com\ndoações de ONGs.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Conforme o texto, um dos motivos para a disparidade relativa\nà prática de atividades físicas por alunos, segundo o nível de\nrenda, reside\n(A) no abismo persistente entre as notas de estudantes ricos\ne pobres.\n(B) no corte de gastos e mudanças de prioridades em algumas\nescolas públicas.\n(C) na preferência por jogadores com potencial superior para\ncompetição.\n(D) na redução de bolsas de estudos para adolescentes de\nfamílias abaixo da linha de pobreza.\n(E) na realização de campeonatos contemplados com\ndoações de ONGs.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 53 E 54\nOver the last two decades, technology companies and\npolicymakers warned of a “digital divide” in which poor\nchildren could fall behind their more affluent peers without\nequal access to technology. Today, with widespread internet\naccess and smartphone ownership, the gap has narrowed\nsharply.\nBut with less fanfare a different division has appeared:\nAcross the country, poor children and adolescents are\nparticipating far less in sports and fitness activities than more\naffluent youngsters are. Call it the physical divide. Data from\nmultiple sources reveal a significant gap in sports participation\nby income level.\nA combination of factors is responsible. Spending cuts\nand changing priorities at some public schools have curtailed\nphysical education classes and organized sports. At the same\ntime, privatized youth sports have become a multibillion-\ndollar enterprise offering new opportunities — at least for\nfamilies that can afford hundreds to thousands of dollars each\nseason for club-team fees, uniforms, equipment, travel to\ntournaments and private coaching.\n“What’s happened as sports has become privatized is\nthat it has become the haves and have-nots,” said Jon\nSolomon, editorial director for the Aspen Institute Sports and\nSociety Program. “Particularly for low-income kids, if they\ndon’t have access to sports within the school setting, where\nare they going to get their physical activity?” Mr. Solomon\nsaid. “The answer is nowhere.”\nThe New York Times. 24 March 2023. Adaptado.",
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            297.5,
+            37.87486000000024,
+            567,
+            415.67470000000003
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            297.5,
+            415.67470000000003,
+            567,
+            621.1747
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "topic": "Leitura de texto inglês sobre renda e atividade física",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 34 - FUVEST 2023 - 1ª fase",
+  "index": 34,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES DE 32 A 34\nFrom French electronic and Japanese indie to K-pop and\nSpanish jazz, it’s common for people to listen to songs they\ndon’t necessarily understand. Not knowing the language of\nthe lyrics, it seems, doesn’t stop people from liking—and\nsometimes even singing along to—a song. Unless the listener\nis looking up the dictionary meaning of the lyrics, then the\ndictionary meaning of the lyrics doesn’t make or break their\nappreciation of a song. But why?\n“It’s a complicated answer,” said musicologist Lisa\nDecenteceo, adding that it all starts with what’s called “sound\nsymbolism.” Sound symbolism refers to the study of the\nrelationships between utterances and their meaning. This\ndoesn’t have to do only with music. Marketers, for example,\ncan tune into sound symbolism as part of their strategy in\ncoming up with appealing brand names. In music as well as in\nbranding, Decenteceo explained, there’s something about the\nappeal of words as sounds, beyond their meaning in a\nlanguage. While things like culture and personal experiences\naffect people’s responses to different kinds of music, she\nexplained there are certain musical techniques that are\ngenerally used to convey certain moods. One of which is scale.\n“Songs in a major scale usually have brighter, happier sounds,\nwhile minor scales usually have the slightly darker,\nmelancholic feel,” explains Thea Tolentino, a music teacher.\nThe human brain is wired to respond to sound, she added.\nIn a process called entrainment, the brain “synchronizes our\nbreathing, our movement, even neural activities with the\nsounds we hear.” This is why fast-paced music is so popular\nfor running, for example, or why some yoga teachers play\nrhythmic and melodic tracks in their classes. And there are\nalso the things that accompany the words. “Elements of sound\nand music like pitch, melody, harmony, timbre, and amplitude\nhave an affective, emotional, psychological, cognitive, and\neven physical impact on listeners. Music adds so much\nmeaning and dimension to texts through a complex of these\navenues,” said Decenteceo. What all these things do, she\nadded, is liberate the words. “Song frees the voice from any\nburden of saying anything meaningful”. It’s important, then,\nto understand music as a discourse between musical\nelements. But all in all, Decenteceo said there’s value in\nwhatever immediate appeal people find in the music they\nlisten to, whether or not they understand the words. Music,\nafter all, is the universal language.\nDisponível em https://www.vice.com/. March, 2022. Adaptado.\n\nDe acordo com o texto, os aspectos físicos relacionados com\nelementos tanto do som quanto da música são",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "simbolismo e respiração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "letra e idioma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "timbre e amplitude.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "brilho e melodia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "discurso e mensagem.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "De acordo com o texto, os aspectos físicos relacionados com\nelementos tanto do som quanto da música são\n(A) simbolismo e respiração.\n(B) letra e idioma.\n(C) timbre e amplitude.\n(D) brilho e melodia.\n(E) discurso e mensagem.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES DE 32 A 34\nFrom French electronic and Japanese indie to K-pop and\nSpanish jazz, it’s common for people to listen to songs they\ndon’t necessarily understand. Not knowing the language of\nthe lyrics, it seems, doesn’t stop people from liking—and\nsometimes even singing along to—a song. Unless the listener\nis looking up the dictionary meaning of the lyrics, then the\ndictionary meaning of the lyrics doesn’t make or break their\nappreciation of a song. But why?\n“It’s a complicated answer,” said musicologist Lisa\nDecenteceo, adding that it all starts with what’s called “sound\nsymbolism.” Sound symbolism refers to the study of the\nrelationships between utterances and their meaning. This\ndoesn’t have to do only with music. Marketers, for example,\ncan tune into sound symbolism as part of their strategy in\ncoming up with appealing brand names. In music as well as in\nbranding, Decenteceo explained, there’s something about the\nappeal of words as sounds, beyond their meaning in a\nlanguage. While things like culture and personal experiences\naffect people’s responses to different kinds of music, she\nexplained there are certain musical techniques that are\ngenerally used to convey certain moods. One of which is scale.\n“Songs in a major scale usually have brighter, happier sounds,\nwhile minor scales usually have the slightly darker,\nmelancholic feel,” explains Thea Tolentino, a music teacher.\nThe human brain is wired to respond to sound, she added.\nIn a process called entrainment, the brain “synchronizes our\nbreathing, our movement, even neural activities with the\nsounds we hear.” This is why fast-paced music is so popular\nfor running, for example, or why some yoga teachers play\nrhythmic and melodic tracks in their classes. And there are\nalso the things that accompany the words. “Elements of sound\nand music like pitch, melody, harmony, timbre, and amplitude\nhave an affective, emotional, psychological, cognitive, and\neven physical impact on listeners. Music adds so much\nmeaning and dimension to texts through a complex of these\navenues,” said Decenteceo. What all these things do, she\nadded, is liberate the words. “Song frees the voice from any\nburden of saying anything meaningful”. It’s important, then,\nto understand music as a discourse between musical\nelements. But all in all, Decenteceo said there’s value in\nwhatever immediate appeal people find in the music they\nlisten to, whether or not they understand the words. Music,\nafter all, is the universal language.\nDisponível em https://www.vice.com/. March, 2022. Adaptado.",
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            28,
+            37.76470000000006,
+            297.5,
+            614.0346999999999
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            297.5,
+            196.73469999999998,
+            567,
+            328.91470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Leitura de termos acústicos em texto inglês",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

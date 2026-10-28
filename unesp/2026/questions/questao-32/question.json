@@ -1,0 +1,101 @@
+{
+  "title": "Questão 32 - UNESP 2026 - 1ª fase",
+  "index": 32,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise o meme criado a partir de uma imagem da obra\nMemorable deeds and sayings, produzida em Paris por volta\nde 1413.\n(www.medievalmemes.org)\nO meme mostra uma roda da fortuna, sendo girada pela\nsenhora Fortuna, e expõe uma característica da mentalidade\ndo Período Medieval:",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a ganância na busca pela riqueza e por privilégios sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a paixão humana por jogos de azar e por duelos pessoais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a contínua separação entre o poder político e o poder\nreligioso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a crença de que ninguém consegue controlar o próprio\ndestino.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "a suposição de que todos dispõem do livre-arbítrio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o meme criado a partir de uma imagem da obra\nMemorable deeds and sayings, produzida em Paris por volta\nde 1413.\n(www.medievalmemes.org)\nO meme mostra uma roda da fortuna, sendo girada pela\nsenhora Fortuna, e expõe uma característica da mentalidade\ndo Período Medieval:\n(A) a ganância na busca pela riqueza e por privilégios sociais.\n(B) a paixão humana por jogos de azar e por duelos pessoais.\n(C) a contínua separação entre o poder político e o poder\nreligioso.\n(D) a crença de que ninguém consegue controlar o próprio\ndestino.\n(E) a suposição de que todos dispõem do livre-arbítrio.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

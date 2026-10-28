@@ -1,0 +1,82 @@
+{
+  "title": "Questão 62 - UNICAMP 2023 - 1ª fase",
+  "index": 62,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "“Como pode um povo vivo\nViver nesta carestia\nComo poderei viver\nComo poderei viver\nDia e noite, noite e dia\nCom a barriga vazia\nComo pode um operário\nViver com esse salário\nComo pode a criançada\nEstudar sem comer nada”\n(“Programa oficial do lançamento geral do abaixo-assinado” do Movimento do Custo de\nVida, 12/03/1978. Doc. 039_4. Fundo ECO_PRE, Centro Pastoral Vergueiro. Citado em:\nMONTEIRO, Thiago Nunes. Como pode um povo vivo viver nesta carestia: O Movimento\ndo Custo de Vida em São Paulo (1973-1982). São Paulo: Humanitas, 2017.)\nA letra acima foi utilizada pela campanha coordenada pelo Movimento Custo de Vida, iniciado por mulheres das periferias da\ncidade de São Paulo, em 1978. Sobre as lutas por melhores\ncondições de vida durante a década de 1970 na ditadura militar\n(1964-85), é correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o Movimento do Custo de Vida foi organizado para protestar contra as políticas econômicas e sociais da ditadura\nmilitar que provocavam o arrocho salarial e a inflação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "diante da impossibilidade de fazer protestos de rua, o Movimento do Custo de Vida teve atuação por meio de letras de\nmúsicas de duplo sentido (para driblar a censura), veiculadas\nno rádio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "após reunir cerca de 200 mil pessoas na Praça da Sé em São\nPaulo em 1978, o Movimento do Custo de Vida migrou para\na luta armada como resposta à repressão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as Comunidades Eclesiais de Base, instaladas nas periferias\ndas grandes cidades e onde começou o Movimento do Custo de Vida, foram desmanteladas em 1979.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Como pode um povo vivo\nViver nesta carestia\nComo poderei viver\nComo poderei viver\nDia e noite, noite e dia\nCom a barriga vazia\nComo pode um operário\nViver com esse salário\nComo pode a criançada\nEstudar sem comer nada”\n(“Programa oficial do lançamento geral do abaixo-assinado” do Movimento do Custo de\nVida, 12/03/1978. Doc. 039_4. Fundo ECO_PRE, Centro Pastoral Vergueiro. Citado em:\nMONTEIRO, Thiago Nunes. Como pode um povo vivo viver nesta carestia: O Movimento\ndo Custo de Vida em São Paulo (1973-1982). São Paulo: Humanitas, 2017.)\nA letra acima foi utilizada pela campanha coordenada pelo Mo-\nvimento Custo de Vida, iniciado por mulheres das periferias da\ncidade de São Paulo, em 1978. Sobre as lutas por melhores\ncondições de vida durante a década de 1970 na ditadura militar\n(1964-85), é correto afirmar que\na) o Movimento do Custo de Vida foi organizado para pro-\ntestar contra as políticas econômicas e sociais da ditadura\nmilitar que provocavam o arrocho salarial e a inflação.\nb) diante da impossibilidade de fazer protestos de rua, o Movi-\nmento do Custo de Vida teve atuação por meio de letras de\nmúsicas de duplo sentido (para driblar a censura), veiculadas\nno rádio.\nc) após reunir cerca de 200 mil pessoas na Praça da Sé em São\nPaulo em 1978, o Movimento do Custo de Vida migrou para\na luta armada como resposta à repressão.\nd) as Comunidades Eclesiais de Base, instaladas nas periferias\ndas grandes cidades e onde começou o Movimento do Cus-\nto de Vida, foram desmanteladas em 1979.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            552.9172
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

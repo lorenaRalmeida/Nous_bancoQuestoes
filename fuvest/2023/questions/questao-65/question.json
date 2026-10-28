@@ -1,0 +1,100 @@
+{
+  "title": "Questão 65 - FUVEST 2023 - 1ª fase",
+  "index": 65,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A superfície terrestre muda conforme a frequência e a\nmagnitude de processos naturais, sendo alguns mais\ncontínuos e outros mais irregulares. Alguns eventos podem\nmudar rapidamente a superfície, enquanto outros a\nmodificam lentamente.\nGOUDIE, Andrew S.; VILES, Heather A. Landscapes and Geomorphology: A\nVery Short Introduction. Oxford University Press, Oxford, 2010. Adaptado.\nCom base nos dados apresentados, é possível afirmar que os\nnúmeros 1, 2 e 3 correspondem, respectivamente, a:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ação eólica, erupções vulcânicas e soerguimento de\ncadeias montanhosas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Depósitos minerais, abalos sísmicos e erupções vulcânicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Formação de cavernas, ação eólica e soerguimento de\ncadeias montanhosas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Erupções vulcânicas, abalos sísmicos e depósitos minerais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Ação eólica, formação de cavernas e soerguimento de\ncadeias montanhosas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A superfície terrestre muda conforme a frequência e a\nmagnitude de processos naturais, sendo alguns mais\ncontínuos e outros mais irregulares. Alguns eventos podem\nmudar rapidamente a superfície, enquanto outros a\nmodificam lentamente.\nGOUDIE, Andrew S.; VILES, Heather A. Landscapes and Geomorphology: A\nVery Short Introduction. Oxford University Press, Oxford, 2010. Adaptado.\nCom base nos dados apresentados, é possível afirmar que os\nnúmeros 1, 2 e 3 correspondem, respectivamente, a:\n(A) Ação eólica, erupções vulcânicas e soerguimento de\ncadeias montanhosas.\n(B) Depósitos minerais, abalos sísmicos e erupções vulcânicas.\n(C) Formação de cavernas, ação eólica e soerguimento de\ncadeias montanhosas.\n(D) Erupções vulcânicas, abalos sísmicos e depósitos minerais.\n(E) Ação eólica, formação de cavernas e soerguimento de\ncadeias montanhosas.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            28,
+            541.9147,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            181.91470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Processos geomorfológicos e escala temporal",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

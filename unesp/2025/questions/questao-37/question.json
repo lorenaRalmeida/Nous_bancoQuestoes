@@ -1,0 +1,123 @@
+{
+  "title": "Questão 37 - UNESP 2025 - 1ª fase",
+  "index": 37,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Leia o excerto para responder às questões 37 e 38.\nO ponto central do governo colonial era a questão de\ncomo extrair riqueza das colônias para o benefício das potências europeias ocupantes. Para esse fim, na virada do século, a administração colonial britânica começou a construir\numa linha ferroviária que ligaria várias partes de suas três\ncolônias que se tornariam a Nigéria. As mulheres foram amplamente excluídas da força de trabalho assalariada.\nA introdução de relações capitalistas na forma de trabalho assalariado era uma novidade na economia e teve fundamentais repercussões, particularmente na definição de\ntrabalho.\nAlém do acesso ao dinheiro, o que o trabalho assalariado significava para os homens, havia efeitos mais sutis, mas\nigualmente profundos. Como os homens recebiam um salário, seu trabalho adquiria valor de troca, enquanto o trabalho\ndas mulheres retinha apenas seu valor de uso, desvalorizando o trabalho que se associava às mulheres.\nO trabalho das mulheres tornou-se invisível. Na realidade, os salários de fome pagos aos homens pelo governo colonial eram insuficientes para manter a família, e o trabalho\ndas mulheres continuava tão necessário quanto sempre para\na sobrevivência da comunidade.\n( A invenção das mulheres:\nconstruindo um sentido africano para os discursos ocidentais\nde gênero, 2021. Adaptado.)\n\nUm efeito da colonização europeia da África durante os séculos XIX e XX, caracterizado pelo excerto, foi",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a instauração da sociedade de classes e o surgimento de\nações de resistência lideradas por sindicatos rurais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o reforço das práticas escravistas regulares nos setores\nmais dinâmicos das economias coloniais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a valorização do trabalho braçal voltado aos interesses públicos, em detrimento do trabalho intelectual e\ndoméstico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a dedicação ao trabalho como princípio de ascensão social, no lugar dos privilégios naturais dos setores aristocráticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a imposição de novas relações de trabalho, em complementaridade com a dinâmica do trabalho comunitário.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um efeito da colonização europeia da África durante os sécu-\nlos XIX e XX, caracterizado pelo excerto, foi\n(A) a instauração da sociedade de classes e o surgimento de\nações de resistência lideradas por sindicatos rurais.\n(B) o reforço das práticas escravistas regulares nos setores\nmais dinâmicos das economias coloniais.\n(C) a valorização do trabalho braçal voltado aos interes-\nses públicos, em detrimento do trabalho intelectual e\ndoméstico.\n(D) a dedicação ao trabalho como princípio de ascensão so-\ncial, no lugar dos privilégios naturais dos setores aristo-\ncráticos.\n(E) a imposição de novas relações de trabalho, em comple-\nmentaridade com a dinâmica do trabalho comunitário.",
+    "sharedContext": "Leia o excerto para responder às questões 37 e 38.\nO ponto central do governo colonial era a questão de\ncomo extrair riqueza das colônias para o benefício das potências europeias ocupantes. Para esse fim, na virada do século, a administração colonial britânica começou a construir\numa linha ferroviária que ligaria várias partes de suas três\ncolônias que se tornariam a Nigéria. As mulheres foram amplamente excluídas da força de trabalho assalariada.\nA introdução de relações capitalistas na forma de trabalho assalariado era uma novidade na economia e teve fundamentais repercussões, particularmente na definição de\ntrabalho.\nAlém do acesso ao dinheiro, o que o trabalho assalariado significava para os homens, havia efeitos mais sutis, mas\nigualmente profundos. Como os homens recebiam um salário, seu trabalho adquiria valor de troca, enquanto o trabalho\ndas mulheres retinha apenas seu valor de uso, desvalorizando o trabalho que se associava às mulheres.\nO trabalho das mulheres tornou-se invisível. Na realidade, os salários de fome pagos aos homens pelo governo colonial eram insuficientes para manter a família, e o trabalho\ndas mulheres continuava tão necessário quanto sempre para\na sobrevivência da comunidade.\n( A invenção das mulheres:\nconstruindo um sentido africano para os discursos ocidentais\nde gênero, 2021. Adaptado.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            377.4053
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            377.4053,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 13,
+        "bbox": [
+          402.965,
+          316.98299999999995,
+          479.629,
+          339.96479999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

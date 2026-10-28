@@ -1,0 +1,100 @@
+{
+  "title": "Questão 52 - UNESP 2026 - 1ª fase",
+  "index": 52,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O edifício Mjøstårnet, que fica em Brumunddal, Noruega,\né uma das maiores construções em madeira do mundo,\ncom 85,4 metros de altura.\nO conceito de madeira engenheirada engloba cerca de\n20 produtos estruturais confeccionados industrialmente. São\npainéis de diferentes tamanhos, blocos, vigas, lâminas para\nrevestimentos de pisos e paredes, dentre outros. Além disso, há cerca de uma dezena de sistemas construtivos com\nmadeira engenheirada, que podem ser utilizados de forma\nisolada, combinados ou mesmo de forma híbrida — incorporando aço e concreto às construções em madeira. Essa\nversatilidade permite a construção desde casas simples até\nobras grandes e complexas, como prédios, anfiteatros, museus, equipamentos esportivos, terminais de ônibus, pontes\ne outras grandes estruturas.\n(Diego Braga Norte. https://jornal.unesp.br, 14.05.2025.)\nConsiderando que a construção civil é um dos setores com\ndestaque nas emissões globais de gases causadores de efeito estufa, um benefício que o uso de madeira engenheirada\nnas edificações promove é",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o sequestro de carbono durante o crescimento do vegetal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a eliminação de combustíveis fósseis na cadeia produtiva\ndo setor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a criação do estoque de oxigênio nas construções em\nambiente urbano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a absorção de metano pela madeira mesmo após seu\nbeneficiamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o incremento da evapotranspiração nas ilhas de calor.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O edifício Mjøstårnet, que fica em Brumunddal, Noruega,\né uma das maiores construções em madeira do mundo,\ncom 85,4 metros de altura.\nO conceito de madeira engenheirada engloba cerca de\n20 produtos estruturais confeccionados industrialmente. São\npainéis de diferentes tamanhos, blocos, vigas, lâminas para\nrevestimentos de pisos e paredes, dentre outros. Além dis-\nso, há cerca de uma dezena de sistemas construtivos com\nmadeira engenheirada, que podem ser utilizados de forma\nisolada, combinados ou mesmo de forma híbrida — incor-\nporando aço e concreto às construções em madeira. Essa\nversatilidade permite a construção desde casas simples até\nobras grandes e complexas, como prédios, anfiteatros, mu-\nseus, equipamentos esportivos, terminais de ônibus, pontes\ne outras grandes estruturas.\n(Diego Braga Norte. https://jornal.unesp.br, 14.05.2025.)\nConsiderando que a construção civil é um dos setores com\ndestaque nas emissões globais de gases causadores de efei-\nto estufa, um benefício que o uso de madeira engenheirada\nnas edificações promove é\n(A) o sequestro de carbono durante o crescimento do vegetal.\n(B) a eliminação de combustíveis fósseis na cadeia produtiva\ndo setor.\n(C) a criação do estoque de oxigênio nas construções em\nambiente urbano.\n(D) a absorção de metano pela madeira mesmo após seu\nbeneficiamento.\n(E) o incremento da evapotranspiração nas ilhas de calor.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

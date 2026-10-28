@@ -1,0 +1,101 @@
+{
+  "title": "Questão 27 - FUVEST 2024 - 1ª fase",
+  "index": 27,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Uma empresa júnior de alunos de engenharia projetou um\ntermômetro mecânico para medir a temperatura do óleo\nutilizado em máquinas e equipamentos, com base na variação\nda densidade do óleo com a temperatura. Com essa\nfinalidade, emprega-se um objeto de massa 𝑀 igual a 18 g e\nvolume de 20 cm3, que permanece imerso em um óleo e está\npreso, por um fio, ao fundo da superfície, conforme mostra a\nfigura.\nA temperatura é medida por meio da variação na tensão do\nfio, que muda devido à variação da densidade do óleo com a\ntemperatura. O gráfico a seguir mostra a dependência da\ndensidade do óleo com a temperatura.\nNessa configuração, a temperatura na qual a tensão na corda\nse anula é igual a\n\nNote e adote:\nDespreze a massa do fio.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0°C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "75°C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "100°C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "150°C",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "275°C",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Uma empresa júnior de alunos de engenharia projetou um\ntermômetro mecânico para medir a temperatura do óleo\nutilizado em máquinas e equipamentos, com base na variação\nda densidade do óleo com a temperatura. Com essa\nfinalidade, emprega-se um objeto de massa 𝑀 igual a 18 g e\nvolume de 20 cm3, que permanece imerso em um óleo e está\npreso, por um fio, ao fundo da superfície, conforme mostra a\nfigura.\nA temperatura é medida por meio da variação na tensão do\nfio, que muda devido à variação da densidade do óleo com a\ntemperatura. O gráfico a seguir mostra a dependência da\ndensidade do óleo com a temperatura.\nNessa configuração, a temperatura na qual a tensão na corda\nse anula é igual a\n(A) 0°C\n(B) 75°C Note e adote:\n(C) 100°C Despreze a massa do fio.\n(D) 150°C\n(E) 275°C",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Empuxo e densidade variável com a temperatura",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 6 - FUVEST 2025 - 1ª fase",
+  "index": 6,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Leia o texto e analise a charge a seguir.\n“Se, compreendendo um outro ser humano, penetro\nprofundamente no horizonte do que lhe é próprio, então logo\nme depararei com o fato de que, assim como o seu corpo se\nencontra no meu campo de percepção, também o meu corpo\nse encontra no dele, e que, em geral, ele me experiencia sem\nmais como um outro para ele, tal como eu o experiencio como\noutro para mim.”\nHUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária,\n2013.\nBira Dantas. Disponível em https://facebook.com/.\nO filósofo Edmund Husserl propõe uma reflexão sobre como\ncada pessoa estabelece relações com as outras. Ocorre uma\nequiparação dos pontos de vista, de modo que cada uma\naparecerá às demais não como uma consciência\nincomparável, mas justamente como uma outra pessoa. Essa\nideia ajuda a entender a perspectiva crítica contida na charge:\ncertas condições ou características que percebemos como\ndepreciativas em outras pessoas também podem ser\npercebidas da mesma maneira pelos outros em nós.\nQual situação reproduz essa estrutura de equiparação exibida\nna charge?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Torcedores de diversos times de futebol se reúnem\ndesanimados para assistir a um jogo da seleção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Religiosos conservadores sugerem banir livros eróticos\ndoados por desconhecidos para a sua comunidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Com medo da violência, um homem passa a andar armado\nna rua e assusta os transeuntes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Um homem acusa uma mulher de racismo e algumas\ntestemunhas confirmam a versão dele para a polícia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Um trabalhador denuncia ao chefe um colega por assédio\nmoral, mas esse último não é punido.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nLeia o texto e analise a charge a seguir.\n“Se, compreendendo um outro ser humano, penetro\nprofundamente no horizonte do que lhe é próprio, então logo\nme depararei com o fato de que, assim como o seu corpo se\nencontra no meu campo de percepção, também o meu corpo\nse encontra no dele, e que, em geral, ele me experiencia sem\nmais como um outro para ele, tal como eu o experiencio como\noutro para mim.”\nHUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária,\n2013.\nBira Dantas. Disponível em https://facebook.com/.\nO filósofo Edmund Husserl propõe uma reflexão sobre como\ncada pessoa estabelece relações com as outras. Ocorre uma\nequiparação dos pontos de vista, de modo que cada uma\naparecerá às demais não como uma consciência\nincomparável, mas justamente como uma outra pessoa. Essa\nideia ajuda a entender a perspectiva crítica contida na charge:\ncertas condições ou características que percebemos como\ndepreciativas em outras pessoas também podem ser\npercebidas da mesma maneira pelos outros em nós.\nQual situação reproduz essa estrutura de equiparação exibida\nna charge?\n(A) Torcedores de diversos times de futebol se reúnem\ndesanimados para assistir a um jogo da seleção.\n(B) Religiosos conservadores sugerem banir livros eróticos\ndoados por desconhecidos para a sua comunidade.\n(C) Com medo da violência, um homem passa a andar armado\nna rua e assusta os transeuntes.\n(D) Um homem acusa uma mulher de racismo e algumas\ntestemunhas confirmam a versão dele para a polícia.\n(E) Um trabalhador denuncia ao chefe um colega por assédio\nmoral, mas esse último não é punido.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            297.5,
+            133.85469999999998,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "topic": "Alteridade e reciprocidade em Gadamer",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

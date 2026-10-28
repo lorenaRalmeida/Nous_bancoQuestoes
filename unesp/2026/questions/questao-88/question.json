@@ -1,0 +1,116 @@
+{
+  "title": "Questão 88 - UNESP 2026 - 1ª fase",
+  "index": 88,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Um cilindro circular reto de altura h e raio da base igual a\n1 m está apoiado na base quadrada de uma pirâmide reta,\nde aresta da base medindo 8 m e altura igual a 10 m, como\nmostra a figura.\nNa posição descrita, o maior valor possível de h, em metros,\npara que o cilindro não ultrapasse o interior da pirâmide, é\nigual a",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7,5.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "6,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6,5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5,5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "7,0.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um cilindro circular reto de altura h e raio da base igual a\n1 m está apoiado na base quadrada de uma pirâmide reta,\nde aresta da base medindo 8 m e altura igual a 10 m, como\nmostra a figura.\nNa posição descrita, o maior valor possível de h, em metros,\npara que o cilindro não ultrapasse o interior da pirâmide, é\nigual a\n(A) 7,5.\n(B) 6,0.\n(C) 6,5.\n(D) 5,5.\n(E) 7,0.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 37,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 38,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 37,
+        "bbox": [
+          318.831,
+          96.14499999999998,
+          547.42903,
+          267.481
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

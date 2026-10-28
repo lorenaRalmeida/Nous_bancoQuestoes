@@ -1,0 +1,82 @@
+{
+  "title": "Questão 31 - UNICAMP 2025 - 1ª fase",
+  "index": 31,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Em 2004, Néstor Kirchner – presidente argentino à época – cedeu à sociedade civil a Escola de Mecânica da Marinha (ESMA),\num antigo centro clandestino de detenção e tortura durante\na ditadura (1976 e 1983). O motivo era a construção de uma\nespécie de museu nacional da memória das atrocidades cometidas pelo regime. Entre as imagens das mães e avós da Plaza de\nMayo, entre organizações de luta que celebravam o reconhecimento de um trabalho sustentado por décadas, emergia ao\nlado do palco uma imagem disruptiva: um poncho vermelho.\nDestacava-se um rosto indígena. Era um dos líderes do Movimento Indígena Argentino; o líder pedia a inclusão dos povos originários no futuro museu: “A questão não é – como os\nantropólogos fazem – simplesmente sermos incluídos em um\nmuseu, como se estivéssemos apenas sendo adicionados. Queremos fazer parte da história nacional.\"\n(Adaptado de RUFER, M. Nación y condición pos-colonial. In: BIDASECA, K. (Org.) Genealogías críticas de la colonialidad en América Latina, África, Oriente. Buenos Aires:\nCLACSO, 2016.)\nTendo em vista seus conhecimentos sobre memória política na\nArgentina e considerando as informações do texto, é correto\nafirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os indígenas se posicionam – nas disputas pela memória nacional da Ditadura – abertamente contra o movimento das\nMães e Avós da Plaza de Mayo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os indígenas – ao incorporarem perspectivas marginalizadas, como as dos povos originários – querem fazer parte da\nconstrução do museu para a expansão da história nacional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "as lideranças indígenas – para dar visibilidade às suas identidades étnicas – propõem que a memória da nação seja\napagada no antigo edifício da ESMA.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "nos protestos contrários à ocupação – para transformação\nem espaço de memória – do antigo edifício da ESMA, os\nativistas indígenas defendem a redução temática do museu.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em 2004, Néstor Kirchner – presidente argentino à época – ce-\ndeu à sociedade civil a Escola de Mecânica da Marinha (ESMA),\num antigo centro clandestino de detenção e tortura durante\na ditadura (1976 e 1983). O motivo era a construção de uma\nespécie de museu nacional da memória das atrocidades cometi-\ndas pelo regime. Entre as imagens das mães e avós da Plaza de\nMayo, entre organizações de luta que celebravam o reconhe-\ncimento de um trabalho sustentado por décadas, emergia ao\nlado do palco uma imagem disruptiva: um poncho vermelho.\nDestacava-se um rosto indígena. Era um dos líderes do Mo-\nvimento Indígena Argentino; o líder pedia a inclusão dos po-\nvos originários no futuro museu: “A questão não é – como os\nantropólogos fazem – simplesmente sermos incluídos em um\nmuseu, como se estivéssemos apenas sendo adicionados. Que-\nremos fazer parte da história nacional.\"\n(Adaptado de RUFER, M. Nación y condición pos-colonial. In: BIDASECA, K. (Org.) Ge-\nnealogías críticas de la colonialidad en América Latina, África, Oriente. Buenos Aires:\nCLACSO, 2016.)\nTendo em vista seus conhecimentos sobre memória política na\nArgentina e considerando as informações do texto, é correto\nafirmar que\na) os indígenas se posicionam – nas disputas pela memória na-\ncional da Ditadura – abertamente contra o movimento das\nMães e Avós da Plaza de Mayo.\nb) os indígenas – ao incorporarem perspectivas marginaliza-\ndas, como as dos povos originários – querem fazer parte da\nconstrução do museu para a expansão da história nacional.\nc) as lideranças indígenas – para dar visibilidade às suas iden-\ntidades étnicas – propõem que a memória da nação seja\napagada no antigo edifício da ESMA.\nd) nos protestos contrários à ocupação – para transformação\nem espaço de memória – do antigo edifício da ESMA, os\nativistas indígenas defendem a redução temática do museu.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            271.0725,
+            568,
+            727.6348
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

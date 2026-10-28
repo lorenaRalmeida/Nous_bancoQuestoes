@@ -1,0 +1,84 @@
+{
+  "title": "Questão 5 - UNICAMP 2024 - 1ª fase",
+  "index": 5,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "O texto a seguir é um trecho da canção Pantanal, que foi tema\nde abertura da novela com o mesmo nome, exibida originalmente pela TV Manchete em 1990 e regravada pela TV Globo\nem 2022.\nLendas de raças, cidades perdidas nas selvas do coração do Brasil.\nContam os índios de deuses que descem do espaço no coração\ndo Brasil.\nRedescobrindo as Américas quinhentos anos depois,\nLutar com unhas e dentes pra termos direito a um depois.\nFim do milênio, resgate da vida, do sonho, do bem.\nA terra é tão verde e azul.\nOs filhos dos filhos dos filhos dos nossos filhos verão.\n(Pantanal, letra de Marcus Viana, gravada pelo grupo Sagrado Coração da Terra na coletânea em LP Sagrado – Farol da Liberdade, lançada em 1991 pelo selo Sonhos & Sons.)\nNesse trecho da canção, podemos identificar",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "repetição de advérbios que indicam as mesmas circunstâncias de tempo e de lugar, para produzir um efeito de redundância a respeito da luta pela terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "indeterminação de sujeito com verbo na terceira pessoa do\nplural, para produzir um efeito de incerteza quanto ao papel\ndas futuras gerações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "atribuição de características positivas por meio de substantivos que indicam cores, para produzir um efeito de otimismo\nna preservação da natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "encadeamento sucessivo de termos ligados por preposição,\npara produzir um efeito de continuidade temporal quanto à\ncondição do planeta.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O texto a seguir é um trecho da canção Pantanal, que foi tema\nde abertura da novela com o mesmo nome, exibida original-\nmente pela TV Manchete em 1990 e regravada pela TV Globo\nem 2022.\nLendas de raças, cidades perdidas nas selvas do coração do Bra-\nsil.\nContam os índios de deuses que descem do espaço no coração\ndo Brasil.\nRedescobrindo as Américas quinhentos anos depois,\nLutar com unhas e dentes pra termos direito a um depois.\nFim do milênio, resgate da vida, do sonho, do bem.\nA terra é tão verde e azul.\nOs filhos dos filhos dos filhos dos nossos filhos verão.\n(Pantanal, letra de Marcus Viana, gravada pelo grupo Sagrado Coração da Terra na cole-\ntânea em LP Sagrado – Farol da Liberdade, lançada em 1991 pelo selo Sonhos & Sons.)\nNesse trecho da canção, podemos identificar\na) repetição de advérbios que indicam as mesmas circunstân-\ncias de tempo e de lugar, para produzir um efeito de redun-\ndância a respeito da luta pela terra.\nb) indeterminação de sujeito com verbo na terceira pessoa do\nplural, para produzir um efeito de incerteza quanto ao papel\ndas futuras gerações.\nc) atribuição de características positivas por meio de substanti-\nvos que indicam cores, para produzir um efeito de otimismo\nna preservação da natureza.\nd) encadeamento sucessivo de termos ligados por preposição,\npara produzir um efeito de continuidade temporal quanto à\ncondição do planeta.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            278.66459999999995,
+            291,
+            727.1276
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

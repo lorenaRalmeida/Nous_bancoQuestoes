@@ -1,0 +1,123 @@
+{
+  "title": "Questão 19 - UNICAMP 2026 - 1ª fase",
+  "index": 19,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Historicamente, a região do Oriente Médio vive uma série de\nconflitos envolvendo alianças e disputas por interesses econômicos, geopolíticos e religiosos. Por exemplo, o chamado eixo\nda resistência é formado por um conjunto de países e grupos\nrebeldes sob influência do Irã. Esse eixo se define por confrontar\nforças militares ocidentais, como no caso dos Estados Unidos\ne de Israel. O mapa a seguir mostra a localização dos países e\ngrupos sob influência do Irã.\n(Adaptado de https://www.bbc.com/portuguese/articles/cw4dgr9yrpvo. Acesso em\n23/05/2025.)\nLocalização dos países e grupos sob influência do Irã\n(Elaboração: COMVEST 2025.)\nA partir dessas informações, assinale a alternativa que apresenta corretamente as disputas e as alianças do Irã com grupos\nétnicos, militares e religiosos dentro dos países indicados no\nmapa.\nDisputas Alianças\ncom a minoria sunita do\ncom os Houthis (Iêmen);",
+  "files": [
+    "imagem-01.png",
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Historicamente, a região do Oriente Médio vive uma série de\nconflitos envolvendo alianças e disputas por interesses econô-\nmicos, geopolíticos e religiosos. Por exemplo, o chamado eixo\nda resistência é formado por um conjunto de países e grupos\nrebeldes sob influência do Irã. Esse eixo se define por confrontar\nforças militares ocidentais, como no caso dos Estados Unidos\ne de Israel. O mapa a seguir mostra a localização dos países e\ngrupos sob influência do Irã.\n(Adaptado de https://www.bbc.com/portuguese/articles/cw4dgr9yrpvo. Acesso em\n23/05/2025.)\nLocalização dos países e grupos sob influência do Irã\n(Elaboração: COMVEST 2025.)\nA partir dessas informações, assinale a alternativa que apresen-\nta corretamente as disputas e as alianças do Irã com grupos\nétnicos, militares e religiosos dentro dos países indicados no\nmapa.\nDisputas Alianças\ncom a minoria sunita do\ncom os Houthis (Iêmen);\na) islamismo (Iraque); com o\ncom o Hezbollah (Líbano).\nEstado Islâmico (Síria).\ncom os Houthis (Iêmen); com a minoria sunita do\nb) com o Estado Islâmico (Sí- islamismo (Iraque); com o\nria). Hezbollah (Líbano).\ncom a minoria sunita do com os Houthis (Iêmen);\nc) islamismo (Iraque); com o com o Estado Islâmico (Sí-\nHezbollah (Líbano). ria).\ncom a minoria sunita do\ncom os Houthis (Iêmen);\nd) islamismo (Iraque); com o\ncom o Hezbollah (Líbano).\nEstado Islâmico (Síria).",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            109.6327,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 8,
+        "bbox": [
+          304,
+          627.7618,
+          568,
+          658.2868
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Questão 14 - FUVEST 2023 - 1ª fase",
+  "index": 14,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "O odor característico de peixes deve-se à base metilamina\n(CH –NH ). Esse odor pode ser minimizado lavando-se o peixe,\n3 2\npor exemplo, com suco de limão. Assinale a alternativa que\napresenta a estrutura de um dos produtos dessa reação ácido-\nbase.",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O odor característico de peixes deve-se à base metilamina\n(CH –NH ). Esse odor pode ser minimizado lavando-se o peixe,\n3 2\npor exemplo, com suco de limão. Assinale a alternativa que\napresenta a estrutura de um dos produtos dessa reação ácido-\nbase.\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            28,
+            260.51470000000006,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png"
+      ]
+    },
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Reação ácido-base da metilamina",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

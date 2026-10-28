@@ -1,0 +1,111 @@
+{
+  "title": "Questão 43 - UNESP 2024 - 1ª fase",
+  "index": 43,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Países-membros europeus da Otan em abril de 2023\nA expansão da Otan (Organização do Tratado do Atlântico Norte) na direção do Leste Europeu é um dos motivos alegados por Vladimir Putin para invadir a Ucrânia. A Finlândia\nnão é uma ex-república soviética, tampouco fazia parte dos\npaíses da cortina de ferro. Mas desde que encerrou a Guerra de Inverno com a União Soviética, ocorrida entre 1939 e\n1940, em meio à Segunda Guerra Mundial, mantinha-se neutra na queda de braço entre Otan e Rússia, que reivindica a\ninfluência geopolítica antes exercida pelo extinto bloco comunista. Essa neutralidade foi encerrada em 2022, quando a\nFinlândia abriu o processo para entrar na aliança. A conclusão desse processo resultou na adesão da Finlândia como\npaís-membro da Otan a partir de 04 de abril de 2023.\n(www.nexojornal.com.br, 04.04.2023. Adaptado.)\nA entrada da Finlândia na Otan fundamenta-se",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "no acordo militar de defesa mútua entre os países-\n-membros.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "na proteção do comércio entre os países-membros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "no fortalecimento da união monetária entre os países-\n-membros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "na concessão de investimentos entre os países-membros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "no compromisso de uma união política entre os países-\n-membros.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Países-membros europeus da Otan em abril de 2023\nA expansão da Otan (Organização do Tratado do Atlânti-\nco Norte) na direção do Leste Europeu é um dos motivos ale-\ngados por Vladimir Putin para invadir a Ucrânia. A Finlândia\nnão é uma ex-república soviética, tampouco fazia parte dos\npaíses da cortina de ferro. Mas desde que encerrou a Guer-\nra de Inverno com a União Soviética, ocorrida entre 1939 e\n1940, em meio à Segunda Guerra Mundial, mantinha-se neu-\ntra na queda de braço entre Otan e Rússia, que reivindica a\ninfluência geopolítica antes exercida pelo extinto bloco co-\nmunista. Essa neutralidade foi encerrada em 2022, quando a\nFinlândia abriu o processo para entrar na aliança. A conclu-\nsão desse processo resultou na adesão da Finlândia como\npaís-membro da Otan a partir de 04 de abril de 2023.\n(www.nexojornal.com.br, 04.04.2023. Adaptado.)\nA entrada da Finlândia na Otan fundamenta-se\n(A) no acordo militar de defesa mútua entre os países-\n-membros.\n(B) na proteção do comércio entre os países-membros.\n(C) no fortalecimento da união monetária entre os países-\n-membros.\n(D) na concessão de investimentos entre os países-membros.\n(E) no compromisso de uma união política entre os países-\n-membros.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 16,
+        "bbox": [
+          40.57099999999997,
+          57.68889999999999,
+          284.0294,
+          269.4101999999999
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

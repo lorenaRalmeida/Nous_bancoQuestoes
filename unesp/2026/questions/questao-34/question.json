@@ -1,0 +1,108 @@
+{
+  "title": "Questão 34 - UNESP 2026 - 1ª fase",
+  "index": 34,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Leia o excerto para responder às questões 33 e 34.\nOs africanos não foram somente os pioneiros da metalurgia de ferro no Brasil. Desde muito acostumados à cata do\nouro [...] trouxeram com eles as técnicas da bateia e de escavação de minas. Alguns eram bons ourives, que criavam,\nna África, joias de grande beleza, como as dos axantes, e\npassaram a fazê-las no Brasil. [...]\nAos africanos deve-se também que se tenha produzido,\nsobretudo nas grandes propriedades rurais, e ao arrepio das\nproibições régias, tecidos para uso dos escravos, em teares\nextremamente simples, horizontais ou verticais [...].\n[...] as crianças ouviam os relatos fantásticos de diferentes nações africanas, cujos personagens e enredos se mesclavam entre si e com os ameríndios e europeus, de tal modo\nque se tornava difícil separar o Curupira dos tupis do moatia\ndos axantes, pois ambos, do tamanho de anões, tinham os\npés virados para trás e eram os senhores dos animais selvagens. Vindos da África, bichos-papões, jogos e brinquedos\ndesembarcaram no Brasil. E lembranças de desfiles de reis,\ncom seus enormes guarda-sóis coloridos, que reproduziram,\nno Brasil, nos maracatus, congadas e reisados.\n(Alberto da Costa e Silva. A África e os africanos na história e nos mitos, 2021.)\n\nSegundo o excerto, os africanos trazidos ao Brasil na condição de escravizados",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "defenderam valores culturais que estimulavam o uso da\nimaginação e afastavam o pensamento lógico e racional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mantiveram respeito estrito às determinações metropolitanas de proibição da produção de manufaturados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aderiram às oposições das elites coloniais contra a exploração mercantilista de origem metropolitana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "permitiram a descoberta e a exploração sistemática de\nfontes de minérios pelos colonizadores portugueses.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "trouxeram repertório cultural que se combinou com tradições e mitos de origens indígena e europeia.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Segundo o excerto, os africanos trazidos ao Brasil na condi-\nção de escravizados\n(A) defenderam valores culturais que estimulavam o uso da\nimaginação e afastavam o pensamento lógico e racional.\n(B) mantiveram respeito estrito às determinações metropoli-\ntanas de proibição da produção de manufaturados.\n(C) aderiram às oposições das elites coloniais contra a explo-\nração mercantilista de origem metropolitana.\n(D) permitiram a descoberta e a exploração sistemática de\nfontes de minérios pelos colonizadores portugueses.\n(E) trouxeram repertório cultural que se combinou com tradi-\nções e mitos de origens indígena e europeia.",
+    "sharedContext": "Leia o excerto para responder às questões 33 e 34.\nOs africanos não foram somente os pioneiros da metalurgia de ferro no Brasil. Desde muito acostumados à cata do\nouro [...] trouxeram com eles as técnicas da bateia e de escavação de minas. Alguns eram bons ourives, que criavam,\nna África, joias de grande beleza, como as dos axantes, e\npassaram a fazê-las no Brasil. [...]\nAos africanos deve-se também que se tenha produzido,\nsobretudo nas grandes propriedades rurais, e ao arrepio das\nproibições régias, tecidos para uso dos escravos, em teares\nextremamente simples, horizontais ou verticais [...].\n[...] as crianças ouviam os relatos fantásticos de diferentes nações africanas, cujos personagens e enredos se mesclavam entre si e com os ameríndios e europeus, de tal modo\nque se tornava difícil separar o Curupira dos tupis do moatia\ndos axantes, pois ambos, do tamanho de anões, tinham os\npés virados para trás e eram os senhores dos animais selvagens. Vindos da África, bichos-papões, jogos e brinquedos\ndesembarcaram no Brasil. E lembranças de desfiles de reis,\ncom seus enormes guarda-sóis coloridos, que reproduziram,\nno Brasil, nos maracatus, congadas e reisados.\n(Alberto da Costa e Silva. A África e os africanos na história e nos mitos, 2021.)",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            334.8226
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            572.4368,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

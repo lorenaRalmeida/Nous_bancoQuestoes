@@ -1,0 +1,92 @@
+{
+  "title": "Questão 11 - UNICAMP 2024 - 1ª fase",
+  "index": 11,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Em 1921, Mário de Andrade, escrevendo a série de artigos\n“Mestres do passado”, publicados no Jornal do Comércio (edição de São Paulo), observou:\n\"Tarde [de Olavo Bilac] foi uma promessa de anos seguidos. Tais\nsão, tão salientes os artifícios e tão repetidos que muito bem\nprovam o esforço do poeta decaído da poesia e a sua parca\ninspiração (...).”\n(ANDRADE, M. Mestres do passado – Olavo Bilac. In: BRITO, M.S. História do modernismo brasileiro. Antecedentes da Semana de Arte Moderna. 5.ed. Rio de Janeiro: Civilização Brasileira, p. 288-289, 1978.)\nRelacione, ao poema a seguir, o trecho da crítica anterior, assinalando a alternativa que coincide com a ideia geral de Mário\nsobre a obra de Bilac.\nAs estrelas\nOlavo Bilac\nDesenrola-se a sombra no regaço\nDa morna tarde, no esmaiado anil;\nDorme, no ofego do calor febril,\nA natureza, mole de cansaço.\nVagarosas estrelas! passo a passo,\nO aprisco desertando, às mil e às mil,\nVindes do ignoto seio do redil\nNum compacto rebanho, e encheis o espaço...\nE, enquanto, lentas, sobre a paz terrena,\nVos tresmalhais tremulamente a flux,\n– Uma divina música serena\nDesce rolando pela vossa luz:\nCuida-se ouvir, ovelhas de ouro: a avena\nDo invisível pastor que vos conduz...\n(BILAC, Olavo. Tarde. Rio de Janeiro: Livraria Francisco Alves, p. 42-43, 1919.)\nEsmaiado: esmaecido, pálido\nAprisco: curral\nRedil: curral para o gado ovino ou caprino; rebanho de ovelhas\nTresmalhar: Afastar-se, perder-se do rebanho\nFlux: fluxo\nAvena: flauta pastoril",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O crítico lamenta o espaçamento da criação poética de Bilac, o que se expressa no poema pela imagem das estrelas\nque se afastam umas das outras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O crítico elogia os salientes artifícios da linguagem poética\nde Tarde, o que se pode perceber, por exemplo, pela variedade de sinônimos para a palavra “curral”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O crítico evoca, como resultado da pouca inspiração artística\ndo poeta, a sobrecarga de investimento formal (os hipérbatos ou inversões, por exemplo).",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "O crítico associa a poesia de Bilac ao estilo decadentista, o\nque é reforçado pelas imagens de esgotamento, como se\nvê nas palavras “morna”, “esmaiado”, “ofego”, “mole”,\n“lentas”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em 1921, Mário de Andrade, escrevendo a série de artigos\n“Mestres do passado”, publicados no Jornal do Comércio (edi-\nção de São Paulo), observou:\n\"Tarde [de Olavo Bilac] foi uma promessa de anos seguidos. Tais\nsão, tão salientes os artifícios e tão repetidos que muito bem\nprovam o esforço do poeta decaído da poesia e a sua parca\ninspiração (...).”\n(ANDRADE, M. Mestres do passado – Olavo Bilac. In: BRITO, M.S. História do modernis-\nmo brasileiro. Antecedentes da Semana de Arte Moderna. 5.ed. Rio de Janeiro: Civiliza-\nção Brasileira, p. 288-289, 1978.)\nRelacione, ao poema a seguir, o trecho da crítica anterior, assi-\nnalando a alternativa que coincide com a ideia geral de Mário\nsobre a obra de Bilac.\nAs estrelas\nOlavo Bilac\nDesenrola-se a sombra no regaço\nDa morna tarde, no esmaiado anil;\nDorme, no ofego do calor febril,\nA natureza, mole de cansaço.\nVagarosas estrelas! passo a passo,\nO aprisco desertando, às mil e às mil,\nVindes do ignoto seio do redil\nNum compacto rebanho, e encheis o espaço...\nE, enquanto, lentas, sobre a paz terrena,\nVos tresmalhais tremulamente a flux,\n– Uma divina música serena\nDesce rolando pela vossa luz:\nCuida-se ouvir, ovelhas de ouro: a avena\nDo invisível pastor que vos conduz...\n(BILAC, Olavo. Tarde. Rio de Janeiro: Livraria Francisco Alves, p. 42-43, 1919.)\nEsmaiado: esmaecido, pálido\nAprisco: curral\nRedil: curral para o gado ovino ou caprino; rebanho de ovelhas\nTresmalhar: Afastar-se, perder-se do rebanho\nFlux: fluxo\nAvena: flauta pastoril\na) O crítico lamenta o espaçamento da criação poética de Bi-\nlac, o que se expressa no poema pela imagem das estrelas\nque se afastam umas das outras.\nb) O crítico elogia os salientes artifícios da linguagem poética\nde Tarde, o que se pode perceber, por exemplo, pela varie-\ndade de sinônimos para a palavra “curral”.\nc) O crítico evoca, como resultado da pouca inspiração artística\ndo poeta, a sobrecarga de investimento formal (os hipérba-\ntos ou inversões, por exemplo).\nd) O crítico associa a poesia de Bilac ao estilo decadentista, o\nque é reforçado pelas imagens de esgotamento, como se\nvê nas palavras “morna”, “esmaiado”, “ofego”, “mole”,\n“lentas”.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            748.6332,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            40,
+            291,
+            686.6859999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

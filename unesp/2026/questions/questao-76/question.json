@@ -1,0 +1,122 @@
+{
+  "title": "Questão 76 - UNESP 2026 - 1ª fase",
+  "index": 76,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "Uma pequena esfera presa a um fio de massa desprezível\ndesenvolve um movimento pendular. Quando essa esfera é\niluminada verticalmente, a sombra da esfera, projetada sobre\numa superfície horizontal, oscila em movimento harmônico\nsimples entre os pontos A e B, mostrados na figura. A velocidade escalar, expressa em m/s, da sombra da esfera em\nfunção do tempo, expresso em s, é dada pela expressão:\nA aceleração escalar média da sombra da esfera entre os\ninstantes t = 1 s e t = 4 s é",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,05 ⋅ π m/s2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "0,20 ⋅ π m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,15 ⋅ π m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,10 ⋅ π m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,25 ⋅ π m/s2.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma pequena esfera presa a um fio de massa desprezível\ndesenvolve um movimento pendular. Quando essa esfera é\niluminada verticalmente, a sombra da esfera, projetada sobre\numa superfície horizontal, oscila em movimento harmônico\nsimples entre os pontos A e B, mostrados na figura. A velo-\ncidade escalar, expressa em m/s, da sombra da esfera em\nfunção do tempo, expresso em s, é dada pela expressão:\nA aceleração escalar média da sombra da esfera entre os\ninstantes t = 1 s e t = 4 s é\n(A) 0,05 ⋅ π m/s2.\n(B) 0,20 ⋅ π m/s2.\n(C) 0,15 ⋅ π m/s2.\n(D) 0,10 ⋅ π m/s2.\n(E) 0,25 ⋅ π m/s2.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 31,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 31,
+        "bbox": [
+          375.1178,
+          141.9382999999999,
+          491.2303,
+          178.32450000000006
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 31,
+        "bbox": [
+          318.702,
+          184.23439999999994,
+          547.70203,
+          385.3883
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

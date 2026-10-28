@@ -1,0 +1,94 @@
+{
+  "title": "Questão 64 - UNICAMP 2023 - 1ª fase",
+  "index": 64,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A palavra Antropoceno aparece hoje no título de centenas de\nlivros e artigos científicos, em milhares de citações, e seu uso\ncontinua a crescer nos meios de comunicação. Referindo-se à\népoca em que as ações humanas começaram a provocar alterações biofísicas em escala planetária, o termo foi criado nos anos\nde 1980 e popularizado na década de 2000. Grupos de especialistas constataram que essas alterações afetavam o Sistema\nTerra do relativo equilíbrio observado desde o início do Holoceno, há 11.700 anos. Para marcar o início dessa nova era, tais\ngrupos escolheram simbolicamente o ano de 1784, momento\ndo aperfeiçoamento da máquina a vapor e sua popularização.\nO contexto também corresponde ao início da revolução industrial e da utilização dos combustíveis fósseis.\n(Adaptado de LÉNA, Philippe; ISSBERNER, Liz-Rejane. Antropoceno: os desafios essenciais de um debate científico. Correio da Unesco. Suplemento online. Unesco Courrier.\n2018-2. Disponível em: https://pt.unesco.org/courier/2018-2/antropoceno-os-desafios-\n-essenciais-um-debate-cientifico . Acesso em 03/05/2022.)\nCom base na leitura do texto acima e em seus conhecimentos,\nassinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A partir do século XVIII, com o Iluminismo, a crença da superioridade humana sobre a natureza foi amplamente questionada, o que diminuiu os impactos das ações humanas sobre\no Planeta em todo o século XX e XXI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A partir da Era Moderna, o antropocentrismo pautou a crença na superioridade humana sobre a natureza; essa ideia\nfoi consolidada em 1784, mantendo-se nas ciências até o\npresente com o nome de Antropoceno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Mudança climática, alteração da cobertura vegetal e perda\nde biodiversidade em grande escala são marcas da humanidade no Planeta desde as expansões marítimas do século\nXVI, sendo pouco preocupantes para as ciências.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Com a popularização do estilo de vida norte-americano,\nhouve uma aceleração das mudanças causadas pela ação\nhumana sobre o Planeta Terra, mudanças essas que vinham\nocorrendo desde 1784, com a Revolução Industrial.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A palavra Antropoceno aparece hoje no título de centenas de\nlivros e artigos científicos, em milhares de citações, e seu uso\ncontinua a crescer nos meios de comunicação. Referindo-se à\népoca em que as ações humanas começaram a provocar altera-\nções biofísicas em escala planetária, o termo foi criado nos anos\nde 1980 e popularizado na década de 2000. Grupos de espe-\ncialistas constataram que essas alterações afetavam o Sistema\nTerra do relativo equilíbrio observado desde o início do Holoce-\nno, há 11.700 anos. Para marcar o início dessa nova era, tais\ngrupos escolheram simbolicamente o ano de 1784, momento\ndo aperfeiçoamento da máquina a vapor e sua popularização.\nO contexto também corresponde ao início da revolução indus-\ntrial e da utilização dos combustíveis fósseis.\n(Adaptado de LÉNA, Philippe; ISSBERNER, Liz-Rejane. Antropoceno: os desafios essen-\nciais de um debate científico. Correio da Unesco. Suplemento online. Unesco Courrier.\n2018-2. Disponível em: https://pt.unesco.org/courier/2018-2/antropoceno-os-desafios-\n-essenciais-um-debate-cientifico . Acesso em 03/05/2022.)\nCom base na leitura do texto acima e em seus conhecimentos,\nassinale a alternativa correta.\na) A partir do século XVIII, com o Iluminismo, a crença da supe-\nrioridade humana sobre a natureza foi amplamente questio-\nnada, o que diminuiu os impactos das ações humanas sobre\no Planeta em todo o século XX e XXI.\nb) A partir da Era Moderna, o antropocentrismo pautou a cren-\nça na superioridade humana sobre a natureza; essa ideia\nfoi consolidada em 1784, mantendo-se nas ciências até o\npresente com o nome de Antropoceno.\nc) Mudança climática, alteração da cobertura vegetal e perda\nde biodiversidade em grande escala são marcas da huma-\nnidade no Planeta desde as expansões marítimas do século\nXVI, sendo pouco preocupantes para as ciências.\nd) Com a popularização do estilo de vida norte-americano,\nhouve uma aceleração das mudanças causadas pela ação\nhumana sobre o Planeta Terra, mudanças essas que vinham\nocorrendo desde 1784, com a Revolução Industrial.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            246.36850000000004,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

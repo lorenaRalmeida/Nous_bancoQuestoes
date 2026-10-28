@@ -1,0 +1,108 @@
+{
+  "title": "Questão 10 - UNESP 2025 - 1ª fase",
+  "index": 10,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões de 09 a 11, leia um trecho do\nManifesto da Poesia Pau-Brasil, de Oswald de Andrade, publicado há exatos 100 anos, em 1924.\nA poesia existe nos fatos. Os casebres de açafrão e de\nocre nos verdes da Favela, sob o azul cabralino, são fatos\nestéticos.\nO Carnaval no Rio é o acontecimento religioso da raça.\nPau-Brasil. Wagner submerge ante os cordões de Botafogo.\nBárbaro e nosso. A formação étnica rica. Riqueza vegetal. O\nminério. A cozinha. O vatapá, o ouro e a dança. [...]\nA nunca exportação de poesia. A poesia anda oculta nos\ncipós maliciosos da sabedoria. Nas lianas1 da saudade universitária. [...]\nA língua sem arcaísmos, sem erudição. Natural e neológica. A contribuição milionária de todos os erros. Como falamos. Como somos. [...]\nA reação contra o assunto invasor, diverso da finalidade.\nA peça de tese era um arranjo monstruoso. O romance de\nideias, uma mistura. O quadro histórico, uma aberração. A\nescultura eloquente, um pavor sem sentido.\n(Gilberto Mendonça Teles (org.).\nVanguarda europeia e modernismo brasileiro, 1992.)\n1 liana: cipó.\n\nDepreende-se dos trechos “A poesia anda oculta nos cipós\nmaliciosos da sabedoria. Nas lianas da saudade universitária.” (3o parágrafo) e “A língua sem arcaísmos, sem erudição.”\n(4o parágrafo) uma oposição sistemática de Oswald de Andrade, sobretudo, à poesia",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "naturalista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "barroca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "parnasiana.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "romântica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "clássica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Depreende-se dos trechos “A poesia anda oculta nos cipós\nmaliciosos da sabedoria. Nas lianas da saudade universitá-\nria.” (3o parágrafo) e “A língua sem arcaísmos, sem erudição.”\n(4o parágrafo) uma oposição sistemática de Oswald de An-\ndrade, sobretudo, à poesia\n(A) naturalista.\n(B) barroca.\n(C) parnasiana.\n(D) romântica.\n(E) clássica.",
+    "sharedContext": "Para responder às questões de 09 a 11, leia um trecho do\nManifesto da Poesia Pau-Brasil, de Oswald de Andrade, publicado há exatos 100 anos, em 1924.\nA poesia existe nos fatos. Os casebres de açafrão e de\nocre nos verdes da Favela, sob o azul cabralino, são fatos\nestéticos.\nO Carnaval no Rio é o acontecimento religioso da raça.\nPau-Brasil. Wagner submerge ante os cordões de Botafogo.\nBárbaro e nosso. A formação étnica rica. Riqueza vegetal. O\nminério. A cozinha. O vatapá, o ouro e a dança. [...]\nA nunca exportação de poesia. A poesia anda oculta nos\ncipós maliciosos da sabedoria. Nas lianas1 da saudade universitária. [...]\nA língua sem arcaísmos, sem erudição. Natural e neológica. A contribuição milionária de todos os erros. Como falamos. Como somos. [...]\nA reação contra o assunto invasor, diverso da finalidade.\nA peça de tese era um arranjo monstruoso. O romance de\nideias, uma mistura. O quadro histórico, uma aberração. A\nescultura eloquente, um pavor sem sentido.\n(Gilberto Mendonça Teles (org.).\nVanguarda europeia e modernismo brasileiro, 1992.)\n1 liana: cipó.",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            226.30610000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

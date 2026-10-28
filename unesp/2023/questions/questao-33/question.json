@@ -1,0 +1,98 @@
+{
+  "title": "Questão 33 - UNESP 2023 - 1ª fase",
+  "index": 33,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "O diabo parece ter sido estranho tanto para os tupis\ndo Brasil quanto aos nauas, maias, incas e demais povos\namericanos. O cosmos maia era neutro, as forças e os seres sagrados “não eram nem bons, nem ruins, mas apenas\ncaprichosos”. [...] A cosmologia das populações andinas não\ncontava com a noção de mal personificada num ser satânico\n[...].\n(Laura de Mello e Souza. Inferno atlântico.\nDemonologia e colonização: Séculos XVI-XVIII, 1993.)\nO excerto permite afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os sacrifícios humanos realizados por alguns povos nativos da América eram destituídos de significado religioso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a influência do catolicismo europeu na colonização da\nAmérica facilitou a preservação de elementos religiosos\nnativos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a carência da noção de mal nas culturas originárias da\nAmérica indica a ingenuidade e a pureza dos povos\nnativos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os povos nativos americanos tinham uma visão religiosa\nbinária e incompleta das forças que os afetavam.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a presença de representações do diabo no imaginário\namericano derivou do processo colonizador.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O diabo parece ter sido estranho tanto para os tupis\ndo Brasil quanto aos nauas, maias, incas e demais povos\namericanos. O cosmos maia era neutro, as forças e os se-\nres sagrados “não eram nem bons, nem ruins, mas apenas\ncaprichosos”. [...] A cosmologia das populações andinas não\ncontava com a noção de mal personificada num ser satânico\n[...].\n(Laura de Mello e Souza. Inferno atlântico.\nDemonologia e colonização: Séculos XVI-XVIII, 1993.)\nO excerto permite afirmar que\n(A) os sacrifícios humanos realizados por alguns povos nati-\nvos da América eram destituídos de significado religioso.\n(B) a influência do catolicismo europeu na colonização da\nAmérica facilitou a preservação de elementos religiosos\nnativos.\n(C) a carência da noção de mal nas culturas originárias da\nAmérica indica a ingenuidade e a pureza dos povos\nnativos.\n(D) os povos nativos americanos tinham uma visão religiosa\nbinária e incompleta das forças que os afetavam.\n(E) a presença de representações do diabo no imaginário\namericano derivou do processo colonizador.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

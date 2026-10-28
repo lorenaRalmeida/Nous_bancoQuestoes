@@ -1,0 +1,111 @@
+{
+  "title": "Questão 38 - UNESP 2026 - 1ª fase",
+  "index": 38,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise a tabela que mostra a distribuição da população\nbrasileira total por região, segundo grupos populacionais,\nem 1872.\nPopulação População\nPopulação População de\nRegião de brasileiros de imigrantes\ntotal escravizados\nlivres estrangeiros\nExtremo Norte 691 887 103 376 576 851 11 660\nNordeste 4 272 295 404 003 3 840 632 27 660\nOeste 212 140 16 546 194 189 1 405\nSul 721 337 93 335 573 809 54 193\nCentro-Sul 4 016 922 891 306 2 977 410 148 706\n(Alexandre de Freitas Barbosa. A formação do\nmercado de trabalho no Brasil, 2008. Adaptado.)\nOs dados da tabela evidenciam que, no Brasil de 1872,",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as regiões Nordeste e Centro-Sul reuniam populações\nmaiores de escravizados e de imigrantes estrangeiros\ndevido às exigências de mão de obra nas lavouras de\ncacau e de algodão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as regiões Extremo Norte e Nordeste reuniam as menores populações de escravizados devido à forte presença indígena.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a população de imigrantes estrangeiros na região Sul\nera, aproximadamente, o dobro da população de imigrantes estrangeiros na região Centro-Sul, proporcionalmente\nàs respectivas populações totais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a população de pessoas livres, em termos absolutos e\nproporcionais, era maior na região Extremo Norte do que\nna região Sul.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as regiões Oeste e Sul reuniam as menores populações\nde escravizados e de imigrantes estrangeiros em função\nda exigência de mão de obra especializada na indústria\nlocal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a tabela que mostra a distribuição da população\nbrasileira total por região, segundo grupos populacionais,\nem 1872.\nPopulação População\nPopulação População de\nRegião de brasileiros de imigrantes\ntotal escravizados\nlivres estrangeiros\nExtremo Norte 691 887 103 376 576 851 11 660\nNordeste 4 272 295 404 003 3 840 632 27 660\nOeste 212 140 16 546 194 189 1 405\nSul 721 337 93 335 573 809 54 193\nCentro-Sul 4 016 922 891 306 2 977 410 148 706\n(Alexandre de Freitas Barbosa. A formação do\nmercado de trabalho no Brasil, 2008. Adaptado.)\nOs dados da tabela evidenciam que, no Brasil de 1872,\n(A) as regiões Nordeste e Centro-Sul reuniam populações\nmaiores de escravizados e de imigrantes estrangeiros\ndevido às exigências de mão de obra nas lavouras de\ncacau e de algodão.\n(B) as regiões Extremo Norte e Nordeste reuniam as me-\nnores populações de escravizados devido à forte pre-\nsença indígena.\n(C) a população de imigrantes estrangeiros na região Sul\nera, aproximadamente, o dobro da população de imigran-\ntes estrangeiros na região Centro-Sul, proporcionalmente\nàs respectivas populações totais.\n(D) a população de pessoas livres, em termos absolutos e\nproporcionais, era maior na região Extremo Norte do que\nna região Sul.\n(E) as regiões Oeste e Sul reuniam as menores populações\nde escravizados e de imigrantes estrangeiros em função\nda exigência de mão de obra especializada na indústria\nlocal.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 15,
+        "bbox": [
+          30,
+          84.894,
+          291,
+          224.66200000000003
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

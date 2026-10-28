@@ -1,0 +1,100 @@
+{
+  "title": "Questão 13 - UNESP 2023 - 1ª fase",
+  "index": 13,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Examine a tirinha da cartunista Laerte, publicada em sua conta do Instagram em 28.03.2022.\nA se acreditar na narrativa do sapo,",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os solstícios e os equinócios seriam consequência de\numa espécie de disputa entre o pai e a mãe da Terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a Lua permaneceria imóvel no céu, quando vista da superfície da Terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o dia e a noite seriam consequência de uma espécie de\ndisputa entre o pai e a mãe da Terra.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "as quatro estações seriam consequência de uma espécie\nde disputa entre o pai e a mãe da Terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o Sol permaneceria imóvel no céu, quando visto da superfície da Terra.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a tirinha da cartunista Laerte, publicada em sua con-\nta do Instagram em 28.03.2022.\nA se acreditar na narrativa do sapo,\n(A) os solstícios e os equinócios seriam consequência de\numa espécie de disputa entre o pai e a mãe da Terra.\n(B) a Lua permaneceria imóvel no céu, quando vista da su-\nperfície da Terra.\n(C) o dia e a noite seriam consequência de uma espécie de\ndisputa entre o pai e a mãe da Terra.\n(D) as quatro estações seriam consequência de uma espécie\nde disputa entre o pai e a mãe da Terra.\n(E) o Sol permaneceria imóvel no céu, quando visto da su-\nperfície da Terra.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            401.0856,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

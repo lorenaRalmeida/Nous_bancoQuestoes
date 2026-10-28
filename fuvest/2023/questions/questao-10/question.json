@@ -1,0 +1,98 @@
+{
+  "title": "Questão 10 - FUVEST 2023 - 1ª fase",
+  "index": 10,
+  "year": 2023,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "“Em nossa época, entretanto, devemos conceber o Estado\ncontemporâneo como uma comunidade humana que, dentro\ndos limites de determinado território (...) reivindica o\nmonopólio do uso legítimo da violência física. É, com efeito,\npróprio de nossa época não reconhecer, em relação a\nqualquer outro grupo ou aos indivíduos, o direito de fazer uso\nda violência, a não ser nos casos em que o Estado o tolere: o\nEstado se transforma, portanto, na única fonte do ‘direito’ à\nviolência”.\nWEBER, Max. Ciência e Política: duas vocações. São Paulo: Cultrix, 1970.\n“Com a entrada das milícias na disputa por territórios no Rio\nde Janeiro, elas passaram a se digladiar pelo domínio\ngeográfico das comunidades cariocas e fluminenses (...).\nEmbora as milícias também comandem a comunidade com\ntirania e sua autoridade se mantenha à base de ameaças,\ncomo fazem os traficantes, e aqueles que contestam seu\npoder possam perder a vida e sofrer torturas, ao contrário do\ntráfico, os milicianos se vendem como fiadores de\nmercadorias valiosíssimas: ordem, estabilidade e\npossibilidade de planejar o futuro, aliança política com o\nEstado e a polícia. (...) O lado impopular desse modelo é que\na maior parte das receitas para bancar o negócio vem da\nextorsão dos habitantes”.\nPAES MANSO, Bruno. A república das milícias. São Paulo: Todavia, 2020.\nA partir da definição de Estado proposta por Max Weber e de\nacordo com a citação de Paes Manso, como é possível analisar\na atuação das milícias no Rio de Janeiro?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "As milícias, assim como o Estado, controlam a população e\nmantêm a ordem em determinado território com o uso\nilegal da violência, da ameaça e da extorsão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "As milícias contribuem para o exercício do monopólio do\nuso legítimo da violência pelo Estado, pois garantem a\nimposição da ordem e o controle do tráfico nos territórios\nque dominam.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "As milícias desafiam o monopólio do uso legítimo da\nviolência física do Estado ao utilizar a violência ilegalmente\npara controlar determinados territórios.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "As milícias diferenciam-se dos traficantes ao atuar\npacificamente em resposta à reivindicação popular por\nmaior estabilidade e ordem nos territórios em que atuam.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "As milícias e os traficantes, assim como o Estado, possuem\nautonomia e legitimidade para usar a violência e controlar\nterritórios.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Em nossa época, entretanto, devemos conceber o Estado\ncontemporâneo como uma comunidade humana que, dentro\ndos limites de determinado território (...) reivindica o\nmonopólio do uso legítimo da violência física. É, com efeito,\npróprio de nossa época não reconhecer, em relação a\nqualquer outro grupo ou aos indivíduos, o direito de fazer uso\nda violência, a não ser nos casos em que o Estado o tolere: o\nEstado se transforma, portanto, na única fonte do ‘direito’ à\nviolência”.\nWEBER, Max. Ciência e Política: duas vocações. São Paulo: Cultrix, 1970.\n“Com a entrada das milícias na disputa por territórios no Rio\nde Janeiro, elas passaram a se digladiar pelo domínio\ngeográfico das comunidades cariocas e fluminenses (...).\nEmbora as milícias também comandem a comunidade com\ntirania e sua autoridade se mantenha à base de ameaças,\ncomo fazem os traficantes, e aqueles que contestam seu\npoder possam perder a vida e sofrer torturas, ao contrário do\ntráfico, os milicianos se vendem como fiadores de\nmercadorias valiosíssimas: ordem, estabilidade e\npossibilidade de planejar o futuro, aliança política com o\nEstado e a polícia. (...) O lado impopular desse modelo é que\na maior parte das receitas para bancar o negócio vem da\nextorsão dos habitantes”.\nPAES MANSO, Bruno. A república das milícias. São Paulo: Todavia, 2020.\nA partir da definição de Estado proposta por Max Weber e de\nacordo com a citação de Paes Manso, como é possível analisar\na atuação das milícias no Rio de Janeiro?\n(A) As milícias, assim como o Estado, controlam a população e\nmantêm a ordem em determinado território com o uso\nilegal da violência, da ameaça e da extorsão.\n(B) As milícias contribuem para o exercício do monopólio do\nuso legítimo da violência pelo Estado, pois garantem a\nimposição da ordem e o controle do tráfico nos territórios\nque dominam.\n(C) As milícias desafiam o monopólio do uso legítimo da\nviolência física do Estado ao utilizar a violência ilegalmente\npara controlar determinados territórios.\n(D) As milícias diferenciam-se dos traficantes ao atuar\npacificamente em resposta à reivindicação popular por\nmaior estabilidade e ordem nos territórios em que atuam.\n(E) As milícias e os traficantes, assim como o Estado, possuem\nautonomia e legitimidade para usar a violência e controlar\nterritórios.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            297.5,
+            356.8147,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            266.8746
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "topic": "Estado e monopólio da violência em Weber",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

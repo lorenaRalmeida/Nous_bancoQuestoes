@@ -1,0 +1,105 @@
+{
+  "title": "Questão 69 - UNICAMP 2025 - 1ª fase",
+  "index": 69,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A floração é um processo sensível ao fotoperíodo (período de\nluz em um dia) em algumas espécies, que podem ser classificadas como espécies de dia longo e espécies de dia curto. Há\nainda as espécies neutras em relação ao fotoperíodo; no caso, a\nfloração delas é independente dele.\nNa figura a seguir, quatro condições de luminosidade são apresentadas, com as horas de luz indicadas pelas barras brancas\ne as horas de escuro indicadas pelas barras pretas: I) 8 horas\nde luz e 16 horas de escuro; II) 12 horas de luz e 12 horas de\nedutilpmA\n400\n200\n0\n-200\n-400\n0 1 2 3 4 5\nedutilpmA\n400\n200\n0\n-200\n-400\n0 1 2 3 4 5 6\narussepsE ocuM\nod\noilétipE\noirótaripser\nescuro; III) 16 horas de luz e 8 horas de escuro; e IV) 10 horas\nde luz e 14 horas de escuro. Para essa última condição (IV), há\ninterrupção do período de escuro pelo fornecimento de luz por\n2 horas.\nI\nII\nIII\nIV\nConsiderando uma espécie vegetal de dia longo, assinale a alternativa que indica as condições em que haverá floração.",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "III e IV.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "I e II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "II e III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "I e IV.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A floração é um processo sensível ao fotoperíodo (período de\nluz em um dia) em algumas espécies, que podem ser classifi-\ncadas como espécies de dia longo e espécies de dia curto. Há\nainda as espécies neutras em relação ao fotoperíodo; no caso, a\nfloração delas é independente dele.\nNa figura a seguir, quatro condições de luminosidade são apre-\nsentadas, com as horas de luz indicadas pelas barras brancas\ne as horas de escuro indicadas pelas barras pretas: I) 8 horas\nde luz e 16 horas de escuro; II) 12 horas de luz e 12 horas de\nedutilpmA\n400\n200\n0\n-200\n-400\n0 1 2 3 4 5\nedutilpmA\n400\n200\n0\n-200\n-400\n0 1 2 3 4 5 6\narussepsE ocuM\nod\noilétipE\noirótaripser\nescuro; III) 16 horas de luz e 8 horas de escuro; e IV) 10 horas\nde luz e 14 horas de escuro. Para essa última condição (IV), há\ninterrupção do período de escuro pelo fornecimento de luz por\n2 horas.\nI\nII\nIII\nIV\nConsiderando uma espécie vegetal de dia longo, assinale a al-\nternativa que indica as condições em que haverá floração.\na) III e IV. c) II e III.\nb) I e II. d) I e IV.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            670.2866,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            40,
+            291,
+            266.35489999999993
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 23,
+        "bbox": [
+          79.69069999999999,
+          88.08699999999999,
+          253.676,
+          183.24
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

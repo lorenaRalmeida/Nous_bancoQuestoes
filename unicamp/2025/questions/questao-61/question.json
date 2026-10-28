@@ -1,0 +1,82 @@
+{
+  "title": "Questão 61 - UNICAMP 2025 - 1ª fase",
+  "index": 61,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Para a safra de 2023/2024, prevê-se uma produção de 34 bilhões de litros de etanol, com geração de 408 bilhões de litros\nde vinhaça, subproduto de alto teor de matéria orgânica. Nas\núltimas décadas, visando à sustentabilidade, o emprego da vinhaça in natura evoluiu: seu descarte direto em rios e em áreas\nde sacrifício deu lugar à fertirrigação direta (devido ao alto teor\nde potássio do subproduto). A partir de 2015, empregando biodigestores anaeróbicos, a vinhaça in natura passou a ser convertida em biogás, o qual, após purificação, é denominado gás\nnatural renovável. Em média, 1 m3 de vinhaça produz até 14 m3\nde biogás, e o subproduto desse processo é a vinhaça líquida\nbiodigerida, que continua sendo utilizada na fertirrigação.\nEm vista dessas informações, pode-se concluir que a sustentabilidade do processo de biodigestão da vinhaça in natura é devida\nà geração de energia renovável a partir da queima do",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "butano. Adicionalmente, a vinhaça biodigerida aplicada à\nfertirrigação reduz, em relação à vinhaça in natura, a demanda bioquímica de oxigênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "metano. Adicionalmente, a vinhaça biodigerida aplicada à\nfertirrigação aumenta, em relação à vinhaça in natura, a demanda bioquímica de oxigênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "butano. Adicionalmente, a vinhaça biodigerida aplicada à\nfertirrigação aumenta, em relação à vinhaça in natura, a demanda bioquímica de oxigênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "metano. Adicionalmente, a vinhaça biodigerida aplicada à\nfertirrigação reduz, em relação à vinhaça in natura, a demanda bioquímica de oxigênio.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Para a safra de 2023/2024, prevê-se uma produção de 34 bi-\nlhões de litros de etanol, com geração de 408 bilhões de litros\nde vinhaça, subproduto de alto teor de matéria orgânica. Nas\núltimas décadas, visando à sustentabilidade, o emprego da vi-\nnhaça in natura evoluiu: seu descarte direto em rios e em áreas\nde sacrifício deu lugar à fertirrigação direta (devido ao alto teor\nde potássio do subproduto). A partir de 2015, empregando bio-\ndigestores anaeróbicos, a vinhaça in natura passou a ser con-\nvertida em biogás, o qual, após purificação, é denominado gás\nnatural renovável. Em média, 1 m3 de vinhaça produz até 14 m3\nde biogás, e o subproduto desse processo é a vinhaça líquida\nbiodigerida, que continua sendo utilizada na fertirrigação.\nEm vista dessas informações, pode-se concluir que a sustentabi-\nlidade do processo de biodigestão da vinhaça in natura é devida\nà geração de energia renovável a partir da queima do\na) butano. Adicionalmente, a vinhaça biodigerida aplicada à\nfertirrigação reduz, em relação à vinhaça in natura, a de-\nmanda bioquímica de oxigênio.\nb) metano. Adicionalmente, a vinhaça biodigerida aplicada à\nfertirrigação aumenta, em relação à vinhaça in natura, a de-\nmanda bioquímica de oxigênio.\nc) butano. Adicionalmente, a vinhaça biodigerida aplicada à\nfertirrigação aumenta, em relação à vinhaça in natura, a de-\nmanda bioquímica de oxigênio.\nd) metano. Adicionalmente, a vinhaça biodigerida aplicada à\nfertirrigação reduz, em relação à vinhaça in natura, a de-\nmanda bioquímica de oxigênio.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            168.4724,
+            568,
+            575.3385
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

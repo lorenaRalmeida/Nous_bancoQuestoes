@@ -1,0 +1,108 @@
+{
+  "title": "Questão 7 - UNESP 2024 - 1ª fase",
+  "index": 7,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões 07 e 08, leia a letra da canção\n“Foi um rio que passou em minha vida”, de Paulinho da Viola,\ngravada em 1970.\nSe um dia\nMeu coração for consultado\nPara saber se andou errado\nSerá difícil negar\nMeu coração tem mania de amor\nAmor não é fácil de achar\nA marca dos meus desenganos ficou, ficou\nSó um amor pode apagar\nPorém\nHá um caso diferente\nQue marcou um breve tempo\nMeu coração para sempre\nEra dia de carnaval\nEu carregava uma tristeza\nNão pensava em novo amor\nQuando alguém que não me lembro anunciou\nPortela 1, Portela\nO samba trazendo alvorada\nMeu coração conquistou\nAh, minha Portela\nQuando vi você passar\nSenti meu coração apressado\nTodo o meu corpo tomado\nMinha alegria a voltar\nNão posso definir aquele azul\nNão era do céu\nNem era do mar\nFoi um rio que passou em minha vida\nE meu coração se deixou levar\n(www.paulinhodaviola.com.br)\n1 Grêmio Recreativo Escola de Samba Portela (ou simplesmente\nPortela): escola de samba brasileira da cidade do Rio de Janeiro que\nadota como símbolo a águia e as cores azul e branco.\n\nNa canção, o eu lírico",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "tem consciência de que a Portela também se caracteriza\ncomo um novo desengano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "acredita que um novo amor, por se assemelhar a um rio,\nmostra-se volúvel.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "acredita que um novo amor seja capaz de apagar uma\nantiga desilusão amorosa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "tem consciência de que a Portela, por sua inconstância,\nserá um novo amor efêmero.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "acredita que a Portela, por ser indefinível, não se caracteriza como um novo amor.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na canção, o eu lírico\n(A) tem consciência de que a Portela também se caracteriza\ncomo um novo desengano.\n(B) acredita que um novo amor, por se assemelhar a um rio,\nmostra-se volúvel.\n(C) acredita que um novo amor seja capaz de apagar uma\nantiga desilusão amorosa.\n(D) tem consciência de que a Portela, por sua inconstância,\nserá um novo amor efêmero.\n(E) acredita que a Portela, por ser indefinível, não se carac-\nteriza como um novo amor.",
+    "sharedContext": "Para responder às questões 07 e 08, leia a letra da canção\n“Foi um rio que passou em minha vida”, de Paulinho da Viola,\ngravada em 1970.\nSe um dia\nMeu coração for consultado\nPara saber se andou errado\nSerá difícil negar\nMeu coração tem mania de amor\nAmor não é fácil de achar\nA marca dos meus desenganos ficou, ficou\nSó um amor pode apagar\nPorém\nHá um caso diferente\nQue marcou um breve tempo\nMeu coração para sempre\nEra dia de carnaval\nEu carregava uma tristeza\nNão pensava em novo amor\nQuando alguém que não me lembro anunciou\nPortela 1, Portela\nO samba trazendo alvorada\nMeu coração conquistou\nAh, minha Portela\nQuando vi você passar\nSenti meu coração apressado\nTodo o meu corpo tomado\nMinha alegria a voltar\nNão posso definir aquele azul\nNão era do céu\nNem era do mar\nFoi um rio que passou em minha vida\nE meu coração se deixou levar\n(www.paulinhodaviola.com.br)\n1 Grêmio Recreativo Escola de Samba Portela (ou simplesmente\nPortela): escola de samba brasileira da cidade do Rio de Janeiro que\nadota como símbolo a águia e as cores azul e branco.",
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            559.5155
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            559.5155,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

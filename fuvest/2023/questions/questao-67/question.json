@@ -1,0 +1,100 @@
+{
+  "title": "Questão 67 - FUVEST 2023 - 1ª fase",
+  "index": 67,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Termistores são termômetros baseados na variação da\nresistência elétrica com a temperatura e são utilizados em\ndiversos equipamentos, como termômetros digitais\ndomésticos, automóveis, refrigeradores e fornos. A curva de\ncalibração de um termistor é mostrada na figura:\nConsidere que o termistor se rompa quando percorrido por\numa corrente maior do que 10 mA. Supondo que o termistor\nseja conectado a uma bateria de 5 V, assinale a alternativa que\ncontém uma faixa de temperaturas em que o dispositivo\nsempre funcionará adequadamente:\n\nNote e adote:\nA relação entre a resistência 𝑅 de\num dispositivo, a corrente 𝐼 que o\npercorre e a diferença de potencial\nelétrico 𝑉 entre seus terminais é\n𝑉=𝑅𝐼.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10℃<𝑇 <35℃",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "20℃<𝑇 <45℃",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "30℃<𝑇 <55℃",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "40℃<𝑇 <65℃",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "50℃<𝑇 <75℃",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Termistores são termômetros baseados na variação da\nresistência elétrica com a temperatura e são utilizados em\ndiversos equipamentos, como termômetros digitais\ndomésticos, automóveis, refrigeradores e fornos. A curva de\ncalibração de um termistor é mostrada na figura:\nConsidere que o termistor se rompa quando percorrido por\numa corrente maior do que 10 mA. Supondo que o termistor\nseja conectado a uma bateria de 5 V, assinale a alternativa que\ncontém uma faixa de temperaturas em que o dispositivo\nsempre funcionará adequadamente:\n(A) 10℃<𝑇 <35℃ Note e adote:\n(B) 20℃<𝑇 <45℃ A relação entre a resistência 𝑅 de\n(C) 30℃<𝑇 <55℃ um dispositivo, a corrente 𝐼 que o\n(D) 40℃<𝑇 <65℃\npercorre e a diferença de potencial\nelétrico 𝑉 entre seus terminais é\n(E) 50℃<𝑇 <75℃\n𝑉=𝑅𝐼.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            297.5,
+            403.1347,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            37.76470000000006
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Resistência elétrica e termistores",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

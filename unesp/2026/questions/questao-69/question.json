@@ -1,0 +1,124 @@
+{
+  "title": "Questão 69 - UNESP 2026 - 1ª fase",
+  "index": 69,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "As chamadas pilhas comuns ou pilhas secas contêm em seu\ninterior um bastão central de grafita, C (s), de alta pureza, que\natua como condutor inerte.\n(Angélica Ambrogi et al. Unidades modulares de Química, 1980. Adaptado.)\nO bastão utilizado em uma pilha comum de tamanho grande\nde determinado fabricante tem o formato de um cilindro circular reto, de diâmetro da base igual a 0,8 cm e altura igual a\n5,6 cm, como mostra a figura.\nSabendo que a densidade da grafita é 2,2 g/cm3, a quantidade, em mol, de átomos de carbono presente nesse bastão é,\naproximadamente,",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2,2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,5.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "3,1.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As chamadas pilhas comuns ou pilhas secas contêm em seu\ninterior um bastão central de grafita, C (s), de alta pureza, que\natua como condutor inerte.\n(Angélica Ambrogi et al. Unidades modulares de Química, 1980. Adaptado.)\nO bastão utilizado em uma pilha comum de tamanho grande\nde determinado fabricante tem o formato de um cilindro cir-\ncular reto, de diâmetro da base igual a 0,8 cm e altura igual a\n5,6 cm, como mostra a figura.\nSabendo que a densidade da grafita é 2,2 g/cm3, a quantida-\nde, em mol, de átomos de carbono presente nesse bastão é,\naproximadamente,\n(A) 1,0.\n(B) 0,2.\n(C) 2,2.\n(D) 0,5.\n(E) 3,1.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            469.4754
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 29,
+        "bbox": [
+          36.6922,
+          84.98509999999999,
+          288.1507,
+          189.64250000000004
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 29,
+        "bbox": [
+          117.03500000000001,
+          255.1689,
+          249.8,
+          317.1259
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 29,
+        "bbox": [
+          75.3113,
+          255.2967,
+          124.0979,
+          299.1267
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

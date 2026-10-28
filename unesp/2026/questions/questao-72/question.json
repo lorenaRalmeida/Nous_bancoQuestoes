@@ -1,0 +1,101 @@
+{
+  "title": "Questão 72 - UNESP 2026 - 1ª fase",
+  "index": 72,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Analise a tabela que fornece valores de constantes de dissociação (K ) de dois ácidos e (K ) de duas bases a 25 ºC.\na b\nÁcido K Base K\na b\nClorídrico Muito Hidróxido de Muito\n(HCl) grande sódio (NaOH) grande\nAcético\n1,8 × 10–5 Amônia (NH ) 1,8 × 10–5\n(CH COOH) 3\n3\nConsidere quatro soluções aquosas 0,1 mol/L dos sais formados pelas reações entre os ácidos e bases citados na tabela:\n1. NaCl\n2. Na(CH COO)\n3\n3. NH (CH COO)\n4 3\n4. NH Cl\n4\nDentre essas soluções, duas que apresentam pH aproximadamente igual a 7 são as de números",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 e 3.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "1 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1 e 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3 e 4.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a tabela que fornece valores de constantes de disso-\nciação (K ) de dois ácidos e (K ) de duas bases a 25 ºC.\na b\nÁcido K Base K\na b\nClorídrico Muito Hidróxido de Muito\n(HCl) grande sódio (NaOH) grande\nAcético\n1,8 × 10–5 Amônia (NH ) 1,8 × 10–5\n(CH COOH) 3\n3\nConsidere quatro soluções aquosas 0,1 mol/L dos sais forma-\ndos pelas reações entre os ácidos e bases citados na tabela:\n1. NaCl\n2. Na(CH COO)\n3\n3. NH (CH COO)\n4 3\n4. NH Cl\n4\nDentre essas soluções, duas que apresentam pH aproxima-\ndamente igual a 7 são as de números\n(A) 1 e 3.\n(B) 1 e 4.\n(C) 1 e 2.\n(D) 2 e 3.\n(E) 3 e 4.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            407.5785
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 30,
+        "bbox": [
+          30,
+          72.894,
+          291,
+          173.93380000000002
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

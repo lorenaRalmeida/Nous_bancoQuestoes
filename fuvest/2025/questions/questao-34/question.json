@@ -1,0 +1,88 @@
+{
+  "title": "Questão 34 - FUVEST 2025 - 1ª fase",
+  "index": 34,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "“São os ratos!... Vai escutar com atenção, a respiração\nmeio parada. Hão de ser muitos: há várias fontes daquele\nguinchinho, e de quando em quando, no forro, em vários\npontos, o rufar...\nA casa está cheia de ratos...”\nDyonélio Machado. Os ratos.\nA obra Os ratos (1935), de Dyonélio Machado, narra o dia em\nque Naziazeno saiu pela cidade de Porto Alegre no intuito de\nconseguir dinheiro para pagar a conta do leiteiro. Os animais\nque dão título à narrativa apenas aparecem em seus últimos\ncapítulos e ocupam o tempo reservado para o descanso do\nprotagonista. É possível, então, afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Naziazeno, inconformado com sua condição de devedor,\nperambula pela cidade, encontrando refúgio junto aos\nratos que o acolhem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os ratos são os credores de Naziazeno zoomorfizados, que\nse encontram à espreita para a cobrança de outras dívidas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Os “guinchinhos”, que ressoam nos ouvidos de Naziazeno,\nsão o eco de seu dia de perambulação, como se\nlembrassem os obstáculos que venceu.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os ruídos dos roedores mostram que Naziazeno, ao pagar\na sua dívida, esquece os obstáculos que venceu.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O contraste entre o repouso de Naziazeno e o\naparecimento dos roedores denuncia a permanência da\nsua situação de penúria social e financeira.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“São os ratos!... Vai escutar com atenção, a respiração\nmeio parada. Hão de ser muitos: há várias fontes daquele\nguinchinho, e de quando em quando, no forro, em vários\npontos, o rufar...\nA casa está cheia de ratos...”\nDyonélio Machado. Os ratos.\nA obra Os ratos (1935), de Dyonélio Machado, narra o dia em\nque Naziazeno saiu pela cidade de Porto Alegre no intuito de\nconseguir dinheiro para pagar a conta do leiteiro. Os animais\nque dão título à narrativa apenas aparecem em seus últimos\ncapítulos e ocupam o tempo reservado para o descanso do\nprotagonista. É possível, então, afirmar:\n(A) Naziazeno, inconformado com sua condição de devedor,\nperambula pela cidade, encontrando refúgio junto aos\nratos que o acolhem.\n(B) Os ratos são os credores de Naziazeno zoomorfizados, que\nse encontram à espreita para a cobrança de outras dívidas.\n(C) Os “guinchinhos”, que ressoam nos ouvidos de Naziazeno,\nsão o eco de seu dia de perambulação, como se\nlembrassem os obstáculos que venceu.\n(D) Os ruídos dos roedores mostram que Naziazeno, ao pagar\na sua dívida, esquece os obstáculos que venceu.\n(E) O contraste entre o repouso de Naziazeno e o\naparecimento dos roedores denuncia a permanência da\nsua situação de penúria social e financeira.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            401.6347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Enredo e construção narrativa em Os ratos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

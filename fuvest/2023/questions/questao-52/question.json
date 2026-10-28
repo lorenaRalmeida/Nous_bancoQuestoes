@@ -1,0 +1,88 @@
+{
+  "title": "Questão 52 - FUVEST 2023 - 1ª fase",
+  "index": 52,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Recentemente a região do Sahel, na África, vivenciou golpes\nde Estado em quatro países: Sudão, Mali, Chade e Burkina\nFaso. Podem ser indicadas como causas da instabilidade\npolítica na região:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Atuação de potências estrangeiras, resquícios da\ncolonização e alto desenvolvimento tecnológico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Abundância de recursos naturais, atuação de movimentos\nseparatistas e desigualdade socioeconômica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Escassez de recursos naturais, alto desenvolvimento\ntecnológico e diversidade étnica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Desigualdade socioeconômica, diversidade étnica e\nelevada produção agrícola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Escassez de recursos naturais, diversidade étnica e\nresquícios da colonização.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Recentemente a região do Sahel, na África, vivenciou golpes\nde Estado em quatro países: Sudão, Mali, Chade e Burkina\nFaso. Podem ser indicadas como causas da instabilidade\npolítica na região:\n(A) Atuação de potências estrangeiras, resquícios da\ncolonização e alto desenvolvimento tecnológico.\n(B) Abundância de recursos naturais, atuação de movimentos\nseparatistas e desigualdade socioeconômica.\n(C) Escassez de recursos naturais, alto desenvolvimento\ntecnológico e diversidade étnica.\n(D) Desigualdade socioeconômica, diversidade étnica e\nelevada produção agrícola.\n(E) Escassez de recursos naturais, diversidade étnica e\nresquícios da colonização.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            297.5,
+            102.65470000000005,
+            567,
+            320.4547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Instabilidade geopolítica do Sahel",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

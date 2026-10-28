@@ -1,0 +1,82 @@
+{
+  "title": "Questão 72 - UNICAMP 2025 - 1ª fase",
+  "index": 72,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Em 1913, Alfred Sturtevant – em seu estudo com Drosophila\nmelanogaster (mosca-das-frutas) – estabeleceu o primeiro mapa\ngenético capaz de determinar a posição relativa e a ordem de\ngenes nessa espécie. O mapa genético do terceiro cromossomo\nda mosca mostra que os alelos da cor dos olhos (A/a), da cor do\ncorpo (B/b) e das cerdas (C/c) estão ligados nessa sequência. Na\nfigura a seguir, encontram-se as quantidades de gametas produzidos por uma mosca macho, considerando apenas o terceiro\ncromossomo.\nA a A a\nB b B b\nC c c C\n3453 3453 476 476\ngametas gametas gametas gametas\nA a A a\nb B b B\nC c c C\n6 6 134 134\ngametas gametas gametas gametas\nEm vista das informações apresentadas, é correto afirmar que\nos cromossomos recombinantes apresentam",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "crossing-over único. A distância entre os genes da cor dos\nolhos (A/a) e os da cor do corpo (B/b) é maior que a distância\nentre os genes da cor do corpo (B/b) e os das cerdas (C/c).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "crossing-over único ou duplo. A distância entre os genes da\ncor dos olhos (A/a) e os da cor do corpo (B/b) é maior que\na distância entre os genes da cor do corpo (B/b) e os das\ncerdas (C/c).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "crossing-over único. A distância entre os genes da cor dos\nolhos (A/a) e os da cor do corpo (B/b) é menor que a distância entre os genes da cor do corpo (B/b) e os das cerdas\n(C/c).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "crossing-over único ou duplo. A distância entre os genes da\ncor dos olhos (A/a) e os da cor do corpo (B/b) é menor que\na distância entre os genes da cor do corpo (B/b) e os das\ncerdas (C/c).",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em 1913, Alfred Sturtevant – em seu estudo com Drosophila\nmelanogaster (mosca-das-frutas) – estabeleceu o primeiro mapa\ngenético capaz de determinar a posição relativa e a ordem de\ngenes nessa espécie. O mapa genético do terceiro cromossomo\nda mosca mostra que os alelos da cor dos olhos (A/a), da cor do\ncorpo (B/b) e das cerdas (C/c) estão ligados nessa sequência. Na\nfigura a seguir, encontram-se as quantidades de gametas pro-\nduzidos por uma mosca macho, considerando apenas o terceiro\ncromossomo.\nA a A a\nB b B b\nC c c C\n3453 3453 476 476\ngametas gametas gametas gametas\nA a A a\nb B b B\nC c c C\n6 6 134 134\ngametas gametas gametas gametas\nEm vista das informações apresentadas, é correto afirmar que\nos cromossomos recombinantes apresentam\na) crossing-over único. A distância entre os genes da cor dos\nolhos (A/a) e os da cor do corpo (B/b) é maior que a distância\nentre os genes da cor do corpo (B/b) e os das cerdas (C/c).\nb) crossing-over único ou duplo. A distância entre os genes da\ncor dos olhos (A/a) e os da cor do corpo (B/b) é maior que\na distância entre os genes da cor do corpo (B/b) e os das\ncerdas (C/c).\nc) crossing-over único. A distância entre os genes da cor dos\nolhos (A/a) e os da cor do corpo (B/b) é menor que a dis-\ntância entre os genes da cor do corpo (B/b) e os das cerdas\n(C/c).\nd) crossing-over único ou duplo. A distância entre os genes da\ncor dos olhos (A/a) e os da cor do corpo (B/b) é menor que\na distância entre os genes da cor do corpo (B/b) e os das\ncerdas (C/c).",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            202.73379999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

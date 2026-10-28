@@ -1,0 +1,110 @@
+{
+  "title": "Questão 53 - UNICAMP 2026 - 1ª fase",
+  "index": 53,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Na figura a seguir, ABCD é um quadrado com lado medindo 6,\ne P, Q, R e S são pontos sobre os lados deste quadrado, em que\nAS = BQ = 2, PB = 3 e DR = 1.\nA P 3 B\n2 2\nS Q\nD 1 R C\nO valor da área sombreada é igual a",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "11/3.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "13/3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "15/4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "17/4.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na figura a seguir, ABCD é um quadrado com lado medindo 6,\ne P, Q, R e S são pontos sobre os lados deste quadrado, em que\nAS = BQ = 2, PB = 3 e DR = 1.\nA P 3 B\n2 2\nS Q\nD 1 R C\nO valor da área sombreada é igual a\na) 11/3.\nb) 13/3.\nc) 15/4.\nd) 17/4.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            431.2346,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            40,
+            291,
+            46.889999999999986
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 19,
+        "bbox": [
+          343.005,
+          509.1169,
+          520.0719,
+          686.653
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "title": "Questão 80 - UNESP 2026 - 1ª fase",
+  "index": 80,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "A auxina é um hormônio vegetal que atua no controle do\ndesenvolvimento e do crescimento das plantas, estimulando a divisão e a expansão celular. No final do século XIX,\nobservaram-se respostas de fotomorfogênese no ápice de\nmudas de gramíneas que se curvavam no sentido da luz em\nresposta à iluminação lateral, fenômeno conhecido no geral\ncomo fototropismo positivo.\nNessa situação, a absorção da luz é feita por proteínas denominadas fototropinas, que são fotorreceptores de luz azul\ndo espectro eletromagnético visível. Esses fotorreceptores\nregulam o transporte da auxina, fazendo com que esse hormônio concentre-se em maior quantidade em determinadas\nregiões da planta. Com isso, ocorre a distensão celular, o\nque resulta na curvatura da planta.\nDe acordo com as informações do texto e da figura, e considerando apenas o espectro eletromagnético da luz visível,\ntem-se que as fototropinas são mais sensíveis às ondas de",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "menores comprimentos de onda, cujas ações resultam\nna maior concentração de auxina no lado sombreado\nda planta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "maiores frequências, cujas ações resultam na maior concentração de auxina no lado iluminado da planta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "menores frequências, cujas ações resultam na maior\nconcentração de auxina no lado iluminado da planta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "maiores comprimentos de onda, cujas ações resultam\nna maior concentração de auxina no lado sombreado\nda planta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "maiores frequências, cujas ações resultam em uma mesma distribuição de auxina nos lados sombreado e iluminado da planta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A auxina é um hormônio vegetal que atua no controle do\ndesenvolvimento e do crescimento das plantas, estimulan-\ndo a divisão e a expansão celular. No final do século XIX,\nobservaram-se respostas de fotomorfogênese no ápice de\nmudas de gramíneas que se curvavam no sentido da luz em\nresposta à iluminação lateral, fenômeno conhecido no geral\ncomo fototropismo positivo.\nNessa situação, a absorção da luz é feita por proteínas de-\nnominadas fototropinas, que são fotorreceptores de luz azul\ndo espectro eletromagnético visível. Esses fotorreceptores\nregulam o transporte da auxina, fazendo com que esse hor-\nmônio concentre-se em maior quantidade em determinadas\nregiões da planta. Com isso, ocorre a distensão celular, o\nque resulta na curvatura da planta.\nDe acordo com as informações do texto e da figura, e con-\nsiderando apenas o espectro eletromagnético da luz visível,\ntem-se que as fototropinas são mais sensíveis às ondas de\n(A) menores comprimentos de onda, cujas ações resultam\nna maior concentração de auxina no lado sombreado\nda planta.\n(B) maiores frequências, cujas ações resultam na maior con-\ncentração de auxina no lado iluminado da planta.\n(C) menores frequências, cujas ações resultam na maior\nconcentração de auxina no lado iluminado da planta.\n(D) maiores comprimentos de onda, cujas ações resultam\nna maior concentração de auxina no lado sombreado\nda planta.\n(E) maiores frequências, cujas ações resultam em uma mes-\nma distribuição de auxina nos lados sombreado e ilumi-\nnado da planta.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 34,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 33,
+        "bbox": [
+          311.5516,
+          132.0516,
+          421.39509999999996,
+          334.64289999999994
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 33,
+        "bbox": [
+          448.6268,
+          134.95180000000005,
+          516.2169,
+          169.23739999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 33,
+        "bbox": [
+          518.7299,
+          164.562,
+          548.3887,
+          187.11
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 33,
+        "bbox": [
+          452.8633,
+          174.61599999999999,
+          512.7689,
+          334.2057
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 33,
+        "bbox": [
+          513.2638000000001,
+          177.32179999999994,
+          554.0338,
+          220.793
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Questão 72 - UNESP 2023 - 1ª fase",
+  "index": 72,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Considere as seguintes informações sobre o óleo diesel, uma\nmistura de hidrocarbonetos de fórmula geral C H :\nn 2n+2\nFórmula molecular média: C H\n12 26\nMassa molar média: 170 g/mol\nPoder calorífico aproximado: 45 000 kJ/kg\nUm gerador de potência igual a 180 kW trabalhou sob regime de potência máxima durante 1 hora. Caso fosse possível\ntransformar em energia elétrica toda a energia que se obtém\npela queima do óleo diesel, a quantidade de óleo diesel consumida pelo gerador em uma hora seria próxima de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "254 mol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "169 mol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "42 mol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "85 mol.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "210 mol.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considere as seguintes informações sobre o óleo diesel, uma\nmistura de hidrocarbonetos de fórmula geral C H :\nn 2n+2\nFórmula molecular média: C H\n12 26\nMassa molar média: 170 g/mol\nPoder calorífico aproximado: 45 000 kJ/kg\nUm gerador de potência igual a 180 kW trabalhou sob regi-\nme de potência máxima durante 1 hora. Caso fosse possível\ntransformar em energia elétrica toda a energia que se obtém\npela queima do óleo diesel, a quantidade de óleo diesel con-\nsumida pelo gerador em uma hora seria próxima de\n(A) 254 mol.\n(B) 169 mol.\n(C) 42 mol.\n(D) 85 mol.\n(E) 210 mol.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            28.943899999999985,
+            568,
+            310.40059999999994
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

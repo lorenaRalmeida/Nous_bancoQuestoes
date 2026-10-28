@@ -1,0 +1,97 @@
+{
+  "title": "Questão 17 - UNICAMP 2023 - 1ª fase",
+  "index": 17,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Os cigarros eletrônicos, de modo geral, contêm uma cápsula\ncom uma solução líquida de nicotina e aromatizantes que são\nvaporizados e posteriormente inalados pelo usuário. Apesar de\nas propagandas afirmarem que a concentração de substâncias\ntóxicas nos cigarros eletrônicos é menor, a principal substância\ncausadora da dependência, a nicotina, está presente em grande\nparte desses produtos. A nicotina é inicialmente absorvida e,\nem seguida, metabolizada no organismo. Após um período, a\ndiminuição de sua concentração no plasma sanguíneo faz com\nque o usuário sinta a necessidade da inalação de uma nova\ndose. O gráfico abaixo mostra a concentração de nicotina no\nplasma sanguíneo de três indivíduos, em função do tempo,\napós utilização de um cigarro eletrônico, aspirando a mesma\ndosagem da substância.\n20\n15\n10\n5\n0\n0 15 30 45 60 75 90 105120135150165180\nCom base nessas informações, pode-se inferir que, para o período de estudo, a velocidade de absorção da nicotina é",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "maior para o indivíduo X e a velocidade média de metabolização é menor para o indivíduo Y.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "maior para o indivíduo X e a velocidade média de metabolização é menor para o indivíduo Z.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "menor para o indivíduo Z e a velocidade média de metabolização é maior para o indivíduo Y.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "menor para o indivíduo Z e a velocidade média de metabolização é menor para o indivíduo X.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os cigarros eletrônicos, de modo geral, contêm uma cápsula\ncom uma solução líquida de nicotina e aromatizantes que são\nvaporizados e posteriormente inalados pelo usuário. Apesar de\nas propagandas afirmarem que a concentração de substâncias\ntóxicas nos cigarros eletrônicos é menor, a principal substância\ncausadora da dependência, a nicotina, está presente em grande\nparte desses produtos. A nicotina é inicialmente absorvida e,\nem seguida, metabolizada no organismo. Após um período, a\ndiminuição de sua concentração no plasma sanguíneo faz com\nque o usuário sinta a necessidade da inalação de uma nova\ndose. O gráfico abaixo mostra a concentração de nicotina no\nplasma sanguíneo de três indivíduos, em função do tempo,\napós utilização de um cigarro eletrônico, aspirando a mesma\ndosagem da substância.\n20\n15\n10\n5\n0\n0 15 30 45 60 75 90 105120135150165180\nCom base nessas informações, pode-se inferir que, para o perí-\nodo de estudo, a velocidade de absorção da nicotina é\na) maior para o indivíduo X e a velocidade média de metaboli-\nzação é menor para o indivíduo Y.\nb) maior para o indivíduo X e a velocidade média de metaboli-\nzação é menor para o indivíduo Z.\nc) menor para o indivíduo Z e a velocidade média de metabo-\nlização é maior para o indivíduo Y.\nd) menor para o indivíduo Z e a velocidade média de metabo-\nlização é menor para o indivíduo X.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            160.19529999999997,
+            568,
+            734.4615
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 8,
+        "bbox": [
+          345.5702742312,
+          355.8959796192,
+          535.8338643976,
+          502.816403536
+        ]
+      }
+    ],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

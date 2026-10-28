@@ -1,0 +1,100 @@
+{
+  "title": "Questão 50 - FUVEST 2025 - 1ª fase",
+  "index": 50,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Neste bioma, a vegetação nativa apresenta-se intercalada por\nextensas monoculturas de soja e de arroz. Em alguns lugares,\na vegetação campestre original tem sido substituída por\nvegetação florestal, formada por árvores de eucaliptos. Em\nvários locais, observa-se a expansão de grandes areais, em\nque os solos arenosos ficam expostos e suscetíveis a uma\nintensa erosão. Este é o bioma brasileiro menos protegido por\nUnidades de Conservação, embora esteja entre aqueles que\nmais perderam vegetação nativa nas últimas três décadas.\nA descrição da paisagem impactada por ações humanas\nrefere-se ao bioma",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Caatinga.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Cerrado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Mata Atlântica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Pampas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Pantanal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nNeste bioma, a vegetação nativa apresenta-se intercalada por\nextensas monoculturas de soja e de arroz. Em alguns lugares,\na vegetação campestre original tem sido substituída por\nvegetação florestal, formada por árvores de eucaliptos. Em\nvários locais, observa-se a expansão de grandes areais, em\nque os solos arenosos ficam expostos e suscetíveis a uma\nintensa erosão. Este é o bioma brasileiro menos protegido por\nUnidades de Conservação, embora esteja entre aqueles que\nmais perderam vegetação nativa nas últimas três décadas.\nA descrição da paisagem impactada por ações humanas\nrefere-se ao bioma\n(A) Caatinga.\n(B) Cerrado.\n(C) Mata Atlântica.\n(D) Pampas.\n(E) Pantanal.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            297.5,
+            534.5346999999999,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Paisagem e degradação do bioma Pampa",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 88 - FUVEST 2024 - 1ª fase",
+  "index": 88,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "The main players in the Spanish–Aztec War (1519–21)\nare well known: Hernán Cortés and Montezuma. Lesser-known,\nthough no less important, is a multilingual exiled Aztec woman\nwho was enslaved, then served as a guide and interpreter, then\nbecame Cortés’s mistress. She was known as Doña Marina, and\nas La Malinche.\nScholar and researcher Cordelia Candelaria writes: her\nparamount value to the Spaniards was not merely linguistic.\nShe was an interpreter/liaison who served as a guide to the\nregion, as an advisor on native customs and beliefs, and as a\nstrategist.\nLa Malinche was the daughter of an Aztec cacique\n(chief). This gave her an unusual level of education, which she\nwould later leverage as a guide and interpreter for the Spanish.\nThroughout Cortés’s travels, she became indispensable as a\ntranslator, not only capable of functionally translating from one\nlanguage to the other, but of speaking compellingly,\nstrategizing, and forging political connections.\nIntegral as she was to Spain’s success, La Malinche is a\ncontroversial figure. Candelaria quotes T. R. Fehrenbach as\nsaying, “If there is one villainess in Mexican history, she is La\nMalinche. She was to become the ethnic traitress supreme.”\nBut Candelaria argues that La Malinche’s act of turning her back\non her own people makes more psychological sense when we\nconsider that, at a young age, she had been sold by her own\nmother into slavery. Candelaria asks, “What else could this\noutcast from the Aztecs, ‘her own people,’ have done?”\nDisponível em https://daily.jstor.org/. Adaptado.\nSegundo o texto, em relação à imagem de La Malinche como\ntraidora do povo Asteca, a pesquisadora Cordelia Candelaria\nargumenta que a intérprete",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "havia sido preterida no seio da própria família.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "fez uso de idiomas em proveito próprio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "era invejada pelos privilégios alcançados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ignorou as vulnerabilidades do povo mexicano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "tentou se sobrepor aos líderes da época.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "The main players in the Spanish–Aztec War (1519–21)\nare well known: Hernán Cortés and Montezuma. Lesser-known,\nthough no less important, is a multilingual exiled Aztec woman\nwho was enslaved, then served as a guide and interpreter, then\nbecame Cortés’s mistress. She was known as Doña Marina, and\nas La Malinche.\nScholar and researcher Cordelia Candelaria writes: her\nparamount value to the Spaniards was not merely linguistic.\nShe was an interpreter/liaison who served as a guide to the\nregion, as an advisor on native customs and beliefs, and as a\nstrategist.\nLa Malinche was the daughter of an Aztec cacique\n(chief). This gave her an unusual level of education, which she\nwould later leverage as a guide and interpreter for the Spanish.\nThroughout Cortés’s travels, she became indispensable as a\ntranslator, not only capable of functionally translating from one\nlanguage to the other, but of speaking compellingly,\nstrategizing, and forging political connections.\nIntegral as she was to Spain’s success, La Malinche is a\ncontroversial figure. Candelaria quotes T. R. Fehrenbach as\nsaying, “If there is one villainess in Mexican history, she is La\nMalinche. She was to become the ethnic traitress supreme.”\nBut Candelaria argues that La Malinche’s act of turning her back\non her own people makes more psychological sense when we\nconsider that, at a young age, she had been sold by her own\nmother into slavery. Candelaria asks, “What else could this\noutcast from the Aztecs, ‘her own people,’ have done?”\nDisponível em https://daily.jstor.org/. Adaptado.\nSegundo o texto, em relação à imagem de La Malinche como\ntraidora do povo Asteca, a pesquisadora Cordelia Candelaria\nargumenta que a intérprete\n(A) havia sido preterida no seio da própria família.\n(B) fez uso de idiomas em proveito próprio.\n(C) era invejada pelos privilégios alcançados.\n(D) ignorou as vulnerabilidades do povo mexicano.\n(E) tentou se sobrepor aos líderes da época.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 34,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "topic": "Leitura de texto inglês sobre La Malinche",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 9 - UNICAMP 2024 - 1ª fase",
+  "index": 9,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "No início da novela Casa Velha, de Machado de Assis, o cônego\nda Capela Imperial, um personagem da história, assumindo a\nvoz narrativa dela, conta a seus interlocutores:\n“– Não desejo ao meu maior inimigo o que me aconteceu no\nmês de abril de 1839.”\n(MACHADO DE ASSIS. Casa Velha. Rio de Janeiro: Paz e Terra, 1986, p. 11.)\nDe acordo com o texto, o acontecimento desagradável que vitimou o religioso faz com que ele possa ser considerado, ao final\nda narrativa, como",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um boêmio que se sente entediado na presença dos convivas da Casa Velha: “Disseram-me que era amiga da família,\ne se chamava Mafalda. (...) Creio que disseram ainda outras\ncoisas; mas não me interessando nada, nem a conversação,\nnem a hóspeda, (...) deixei-me estar comigo” (p. 29-30).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "um antiescravista, obrigado a conviver, na mesma casa grande, com senhores, agregados e escravos: “Lalau (...) com as\nmãos no ombro do moleque, ora fitava os olhos na carapinha deste, ouvindo somente as palavras de Félix; ora erguia-\n-os para o moço (...)” (p. 67).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "um republicano que suporta um velho Coronel de posições\nconservadoras: “Reverendíssimo, (...) os farrapos invadiram\nSanta Catarina, entraram na Laguna, e os legais fugiram.\nEu, se fosse o governo, mandava fuzilar a todos estes para\nescarmento...” (p. 89).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um ingênuo que se deixa iludir em suas relações pessoais:\n“nem por sombras me acudiu que a revelação de Dona Antônia podia não ser verdadeira (...) Não adverti sequer na\nminha cumplicidade. Em verdade, eu é que proferira as palavras que ela trazia na mente (...)” (p. 89).",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No início da novela Casa Velha, de Machado de Assis, o cônego\nda Capela Imperial, um personagem da história, assumindo a\nvoz narrativa dela, conta a seus interlocutores:\n“– Não desejo ao meu maior inimigo o que me aconteceu no\nmês de abril de 1839.”\n(MACHADO DE ASSIS. Casa Velha. Rio de Janeiro: Paz e Terra, 1986, p. 11.)\nDe acordo com o texto, o acontecimento desagradável que viti-\nmou o religioso faz com que ele possa ser considerado, ao final\nda narrativa, como\na) um boêmio que se sente entediado na presença dos convi-\nvas da Casa Velha: “Disseram-me que era amiga da família,\ne se chamava Mafalda. (...) Creio que disseram ainda outras\ncoisas; mas não me interessando nada, nem a conversação,\nnem a hóspeda, (...) deixei-me estar comigo” (p. 29-30).\nb) um antiescravista, obrigado a conviver, na mesma casa gran-\nde, com senhores, agregados e escravos: “Lalau (...) com as\nmãos no ombro do moleque, ora fitava os olhos na carapi-\nnha deste, ouvindo somente as palavras de Félix; ora erguia-\n-os para o moço (...)” (p. 67).\nc) um republicano que suporta um velho Coronel de posições\nconservadoras: “Reverendíssimo, (...) os farrapos invadiram\nSanta Catarina, entraram na Laguna, e os legais fugiram.\nEu, se fosse o governo, mandava fuzilar a todos estes para\nescarmento...” (p. 89).\nd) um ingênuo que se deixa iludir em suas relações pessoais:\n“nem por sombras me acudiu que a revelação de Dona An-\ntônia podia não ser verdadeira (...) Não adverti sequer na\nminha cumplicidade. Em verdade, eu é que proferira as pa-\nlavras que ela trazia na mente (...)” (p. 89).",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            698.7827,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            40,
+            568,
+            385.61109999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

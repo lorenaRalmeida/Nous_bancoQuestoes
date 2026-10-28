@@ -1,0 +1,117 @@
+{
+  "title": "Questão 36 - UNICAMP 2025 - 1ª fase",
+  "index": 36,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Texto comum às questões 35 e 36.\nLeia o trabalho da grafiteira e muralista Simone Siss (Texto 1),\nreconhecida por abordar temáticas femininas em sua obra.\nTexto 1\nAbri 1 livro. Me li inteira!\nSim... Eu falo meus nãos.\nSou Maria... E vou com as outras!\nMoro mesmo dentro de mim.\n(SISS, S. O que tenho dentro de nós. Grafite em muro no centro de Campinas. 2024.\nReprodução fotográfica.)\n\nTexto 2\nMaria era uma boa moça\nPra turma lá do Gantois*\nEra Maria vai com as outras\nMaria de coser, Maria de casar\nPorém o que ninguém sabia\nÉ que tinha um particular\nAlém de coser, além de rezar\nTambém era Maria de pecar\n(Fragmento da canção Maria vai com as outras, de Vinícius de Moraes e Toquinho, gravada em 1971.)\n------\n* Um dos principais terreiros de candomblé da cidade de Salvador. Pronuncia-se gantoá.\nA partir da forma e do significado da expressão “maria vai com\nas outras”, podemos afirmar que",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o texto 1 e o texto 2 a ressignificam, visando tanto subverter\no senso comum sobre a condição feminina na sociedade\nquanto introduzir uma perspectiva a partir da qual a mulher\nseja vista como a responsável por suas escolhas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o texto 1 preserva o sentido da expressão, no intuito de valorizar o lugar da mulher na produção artística, enquanto o\ntexto 2 o altera para mostrar uma personagem em dissonância com as expectativas da sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "enquanto o texto 1 altera a forma da expressão para lhe\natribuir um valor positivo na associação com outras mulheres, o texto 2 explora o sentido original da mesma expressão\ne singulariza a personagem retratada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o significado da expressão é preservado tanto no texto 1\nquanto no texto 2, mas a sua forma é alterada para destacar\na figura feminina como tendo uma personalidade própria,\nque não se deixa influenciar por outras mulheres.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 2\nMaria era uma boa moça\nPra turma lá do Gantois*\nEra Maria vai com as outras\nMaria de coser, Maria de casar\nPorém o que ninguém sabia\nÉ que tinha um particular\nAlém de coser, além de rezar\nTambém era Maria de pecar\n(Fragmento da canção Maria vai com as outras, de Vinícius de Moraes e Toquinho, gra-\nvada em 1971.)\n------\n* Um dos principais terreiros de candomblé da cidade de Salvador. Pronuncia-se gantoá.\nA partir da forma e do significado da expressão “maria vai com\nas outras”, podemos afirmar que\na) o texto 1 e o texto 2 a ressignificam, visando tanto subverter\no senso comum sobre a condição feminina na sociedade\nquanto introduzir uma perspectiva a partir da qual a mulher\nseja vista como a responsável por suas escolhas.\nb) o texto 1 preserva o sentido da expressão, no intuito de va-\nlorizar o lugar da mulher na produção artística, enquanto o\ntexto 2 o altera para mostrar uma personagem em disso-\nnância com as expectativas da sociedade.\nc) enquanto o texto 1 altera a forma da expressão para lhe\natribuir um valor positivo na associação com outras mulhe-\nres, o texto 2 explora o sentido original da mesma expressão\ne singulariza a personagem retratada.\nd) o significado da expressão é preservado tanto no texto 1\nquanto no texto 2, mas a sua forma é alterada para destacar\na figura feminina como tendo uma personalidade própria,\nque não se deixa influenciar por outras mulheres.",
+    "sharedContext": "Texto comum às questões 35 e 36.\nLeia o trabalho da grafiteira e muralista Simone Siss (Texto 1),\nreconhecida por abordar temáticas femininas em sua obra.\nTexto 1\nAbri 1 livro. Me li inteira!\nSim... Eu falo meus nãos.\nSou Maria... E vou com as outras!\nMoro mesmo dentro de mim.\n(SISS, S. O que tenho dentro de nós. Grafite em muro no centro de Campinas. 2024.\nReprodução fotográfica.)",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            340.53569999999996
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            622.0019,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            40,
+            568,
+            313.19489999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 14,
+        "bbox": [
+          97.08123716514,
+          229.09601036092,
+          187.90128936514,
+          256.33742632871997
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

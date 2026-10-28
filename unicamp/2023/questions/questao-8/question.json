@@ -1,0 +1,92 @@
+{
+  "title": "Questão 8 - UNICAMP 2023 - 1ª fase",
+  "index": 8,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Conheço um povo sem poligamia: o povo macua. Este\npovo deixou as suas raízes e apoligamou-se por influência\nda religião. Islamizou-se. (...) Conheço um povo de tradição poligâmica: o meu, do sul do meu país. Inspirado\nno papa, nos padres e nos santos, disse não à poligamia.\nCristianizou-se. Jurou deixar os costumes bárbaros de casar\ncom muitas mulheres para tornar-se monógamo ou celibatário. (...) Um dia dizem não aos costumes, sim ao cristianismo\ne à lei. No momento seguinte, dizem não onde disseram sim,\nou sim onde disseram não.\n(CHIZIANE, Paulina. Niketche. Uma história de poligamia. São Paulo: Companhia das\nLetras, 2004, p. 92.)\nBaseando-se no excerto e na leitura da obra, é correto afirmar\nque",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a organização familiar é fruto da vida religiosa dos povos,\ncabendo assim a monogamia aos povos cristãos e a poligamia aos povos islâmicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os costumes culturais no modo de organizar os arranjos familiares são colocados em xeque por novas estruturas de\npoder, as quais transmitem outros valores.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a monogamia aparece como evolução natural aos costumes\nsupostamente bárbaros de os homens se casarem com muitas mulheres em determinadas culturas africanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o povo macua tornou-se monogâmico depois de abraçar a\nfé cristã trazida pelo papa e padres, o que pode ser considerado um aprimoramento social.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Conheço um povo sem poligamia: o povo macua. Este\npovo deixou as suas raízes e apoligamou-se por influência\nda religião. Islamizou-se. (...) Conheço um povo de tradi-\nção poligâmica: o meu, do sul do meu país. Inspirado\nno papa, nos padres e nos santos, disse não à poligamia.\nCristianizou-se. Jurou deixar os costumes bárbaros de casar\ncom muitas mulheres para tornar-se monógamo ou celibatá-\nrio. (...) Um dia dizem não aos costumes, sim ao cristianismo\ne à lei. No momento seguinte, dizem não onde disseram sim,\nou sim onde disseram não.\n(CHIZIANE, Paulina. Niketche. Uma história de poligamia. São Paulo: Companhia das\nLetras, 2004, p. 92.)\nBaseando-se no excerto e na leitura da obra, é correto afirmar\nque\na) a organização familiar é fruto da vida religiosa dos povos,\ncabendo assim a monogamia aos povos cristãos e a poliga-\nmia aos povos islâmicos.\nb) os costumes culturais no modo de organizar os arranjos fa-\nmiliares são colocados em xeque por novas estruturas de\npoder, as quais transmitem outros valores.\nc) a monogamia aparece como evolução natural aos costumes\nsupostamente bárbaros de os homens se casarem com mui-\ntas mulheres em determinadas culturas africanas.\nd) o povo macua tornou-se monogâmico depois de abraçar a\nfé cristã trazida pelo papa e padres, o que pode ser conside-\nrado um aprimoramento social.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            551.6711,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            40,
+            568,
+            204.6993
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

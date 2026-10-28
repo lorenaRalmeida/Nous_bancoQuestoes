@@ -1,0 +1,94 @@
+{
+  "title": "Questão 23 - UNICAMP 2025 - 1ª fase",
+  "index": 23,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Mary Wollstonecraft abre sua obra, Reivindicações dos direitos\nda mulher (1792), com uma carta ao Sr. Talleyrand-Périgord,\nantigo bispo de Autun e político ativo durante a Revolução\nFrancesa. O bispo propõe nova Constituição, o que foi apresentado e discutido na Assembleia revolucionária. Nessa carta,\nWollstonecraft afirma:\n“Mas, se as mulheres devem ser excluídas, sem voz, da participação dos direitos naturais da humanidade, prove antes, para\nafastar a acusação de injustiça e inconsistência, que elas são\ndesprovidas de razão; de outro modo, essa falha em sua NOVA\nCONSTITUIÇÃO sempre mostrará que o homem deve de alguma forma agir como um tirano, e a tirania, quando mostra sua\nface despudorada em qualquer parte da sociedade, sempre solapa a moralidade”.\n(WOLLSTONECRAFT, M. Reivindicações dos direitos da mulher. São Paulo: Boitempo Editorial, p. 20, 2016.)\nAssinale a opção que melhor sintetiza a crítica de Wollstonecraft apresentada no excerto.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ao abordar tanto a possibilidade de uma nova constituição\nquanto a tirania masculina, Wollstonecraft faz uma crítica\nao absolutismo, finalmente derrubado, através da instauração da República e da Declaração dos Direitos do Homem,\nno contexto da Revolução Francesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A crítica de Wollstonecraft recai sobre os homens que, ao\nserem tiranos com as mulheres, destroem a moral da sociedade. Ela defende a necessidade de uma nova constituição:\nque não seja injusta com o sexo feminino e conceda direitos\nàs mulheres, ainda que não sejam racionais como os homens.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A nova Constituição, defendida pelo Sr. Talleyrand-Périgord,\né injusta porque retira das mulheres direitos conquistados\nem decorrência da Revolução Francesa, quando as mulheres\npassaram a ser reconhecidas como seres racionais e participantes da humanidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A menos que seja provado que a racionalidade das mulheres é deficiente, se comparada à dos homens, excluí-las da\nConstituição é ato injusto, ainda que coerente com uma cultura que aceita a tirania masculina.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Mary Wollstonecraft abre sua obra, Reivindicações dos direitos\nda mulher (1792), com uma carta ao Sr. Talleyrand-Périgord,\nantigo bispo de Autun e político ativo durante a Revolução\nFrancesa. O bispo propõe nova Constituição, o que foi apre-\nsentado e discutido na Assembleia revolucionária. Nessa carta,\nWollstonecraft afirma:\n“Mas, se as mulheres devem ser excluídas, sem voz, da partici-\npação dos direitos naturais da humanidade, prove antes, para\nafastar a acusação de injustiça e inconsistência, que elas são\ndesprovidas de razão; de outro modo, essa falha em sua NOVA\nCONSTITUIÇÃO sempre mostrará que o homem deve de algu-\nma forma agir como um tirano, e a tirania, quando mostra sua\nface despudorada em qualquer parte da sociedade, sempre so-\nlapa a moralidade”.\n(WOLLSTONECRAFT, M. Reivindicações dos direitos da mulher. São Paulo: Boitempo Edi-\ntorial, p. 20, 2016.)\nAssinale a opção que melhor sintetiza a crítica de Wollstone-\ncraft apresentada no excerto.\na) Ao abordar tanto a possibilidade de uma nova constituição\nquanto a tirania masculina, Wollstonecraft faz uma crítica\nao absolutismo, finalmente derrubado, através da instaura-\nção da República e da Declaração dos Direitos do Homem,\nno contexto da Revolução Francesa.\nb) A crítica de Wollstonecraft recai sobre os homens que, ao\nserem tiranos com as mulheres, destroem a moral da socie-\ndade. Ela defende a necessidade de uma nova constituição:\nque não seja injusta com o sexo feminino e conceda direitos\nàs mulheres, ainda que não sejam racionais como os homens.\nc) A nova Constituição, defendida pelo Sr. Talleyrand-Périgord,\né injusta porque retira das mulheres direitos conquistados\nem decorrência da Revolução Francesa, quando as mulheres\npassaram a ser reconhecidas como seres racionais e partici-\npantes da humanidade.\nd) A menos que seja provado que a racionalidade das mulhe-\nres é deficiente, se comparada à dos homens, excluí-las da\nConstituição é ato injusto, ainda que coerente com uma cul-\ntura que aceita a tirania masculina.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            423.37669999999997,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            40,
+            568,
+            179.99530000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

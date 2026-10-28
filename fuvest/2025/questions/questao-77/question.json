@@ -1,0 +1,93 @@
+{
+  "title": "Questão 77 - FUVEST 2025 - 1ª fase",
+  "index": 77,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Em relação ao plano cartesiano Oxy, é correto afirmar que as equações x² + y² − 4x = −3 e x² + y² − 4y = −3 representam",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "duas circunferências com raios de mesma medida e que se\ninterceptam em dois pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "duas circunferências com raios de medidas diferentes e\nque se interceptam em dois pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "duas circunferências que se interceptam em um único\nponto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "duas circunferências concêntricas e que não se\ninterceptam.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "duas circunferências com centros distintos e que não se\ninterceptam.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nEm relação ao plano cartesiano Oxy, é correto afirmar que as\nequações 𝑥(cid:2870)(cid:3397)𝑦(cid:2870)(cid:3398)4𝑥 (cid:3404)(cid:3398)3 e 𝑥(cid:2870)(cid:3397)𝑦(cid:2870)(cid:3398)4𝑦(cid:3404)(cid:3398)3\nrepresentam\n(A) duas circunferências com raios de mesma medida e que se\ninterceptam em dois pontos.\n(B) duas circunferências com raios de medidas diferentes e\nque se interceptam em dois pontos.\n(C) duas circunferências que se interceptam em um único\nponto.\n(D) duas circunferências concêntricas e que não se\ninterceptam.\n(E) duas circunferências com centros distintos e que não se\ninterceptam.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            248.63470000000007
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Equações de circunferências",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

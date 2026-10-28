@@ -1,0 +1,94 @@
+{
+  "title": "Questão 41 - UNICAMP 2026 - 1ª fase",
+  "index": 41,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A figura a seguir apresenta o crânio de alguns hominídeos que\nfazem parte da história evolutiva humana.\n(Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.)\nConsiderando essas informações e os seus conhecimentos em\nbiologia, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O Australopithecus possuía cérebro pequeno e crânio com\na maxila projetada para frente da face. Apresentava bipedismo e utilizava o fogo, o que favoreceu a evolução da\nespécie.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O Homo erectus possuía cérebro de tamanho médio, fala\nrudimentar e várias características atuais, como testa plana\ne proeminente. Foi o primeiro a apresentar bipedismo e usar\nferramentas, o que permitiu sua coexistência com outros\nhominídeos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O Homo neanderthalensis possuía nariz e narinas voltadas\npara baixo, além de cérebro bem desenvolvido e capacidade\nde comunicação. Utilizava o fogo e ferramentas, o que permitiu sua coexistência com outros hominídeos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "O Homo sapiens possui, como característica mais marcante,\no cérebro bem desenvolvido e a capacidade da fala. Foi o\nprimeiro a usar o fogo e ferramentas, favorecendo a evolução da espécie.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura a seguir apresenta o crânio de alguns hominídeos que\nfazem parte da história evolutiva humana.\n(Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.)\nConsiderando essas informações e os seus conhecimentos em\nbiologia, assinale a alternativa correta.\na) O Australopithecus possuía cérebro pequeno e crânio com\na maxila projetada para frente da face. Apresentava bipe-\ndismo e utilizava o fogo, o que favoreceu a evolução da\nespécie.\nb) O Homo erectus possuía cérebro de tamanho médio, fala\nrudimentar e várias características atuais, como testa plana\ne proeminente. Foi o primeiro a apresentar bipedismo e usar\nferramentas, o que permitiu sua coexistência com outros\nhominídeos.\nc) O Homo neanderthalensis possuía nariz e narinas voltadas\npara baixo, além de cérebro bem desenvolvido e capacidade\nde comunicação. Utilizava o fogo e ferramentas, o que per-\nmitiu sua coexistência com outros hominídeos.\nd) O Homo sapiens possui, como característica mais marcante,\no cérebro bem desenvolvido e a capacidade da fala. Foi o\nprimeiro a usar o fogo e ferramentas, favorecendo a evolu-\nção da espécie.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            660.4268999999999,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            40,
+            291,
+            313.8379
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

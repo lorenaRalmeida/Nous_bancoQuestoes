@@ -1,0 +1,108 @@
+{
+  "title": "Questão 6 - FUVEST 2023 - 1ª fase",
+  "index": 6,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 05 E 06\nLuc Boltanski e Ève Chiapello demonstram com clareza e\nsagacidade a capacidade antropofágica do capitalismo\nfinanceiro que “engole” a linguagem do protesto e da\nlibertação para transformá-la e utilizá-la para legitimar a\ndominação social e política a partir do próprio mercado.\nNa dimensão do mundo do trabalho, por exemplo, todo\num novo vocabulário teve que ser inventado para escamotear\nas novas transformações e melhor oprimir o trabalhador. Com\nessa linguagem aparentemente libertadora, passa-se a\nimpressão de que o ambiente de trabalho melhorou e o\ntrabalhador se emancipou.\nAssim houve um esforço dirigido para transformar o\ntrabalhador em \"colaborador\", para eufemizar e esconder a\nconsciência de sua superexploração; tenta-se também exaltar\nos supostos valores de liderança para possibilitar que, a partir\nde agora, o próprio funcionário, não mais o patrão, passe a\ncontrolar e vigiar o colega de trabalho. Ou, ainda, há a intenção\nde difundir a cultura do empreendedorismo, segundo a qual\ntodo mundo pode ser empresário de si mesmo. E, o mais\nimportante, se ele falhar nessa empreitada, a culpa é apenas\ndele. É necessário sempre culpar individualmente a vítima pelo\nfracasso socialmente construído.\nSOUZA, Jessé. Como o racismo criou o Brasil. Rio de Janeiro: Estação Brasil,\n2021.\n\nO uso dos verbos “passar” (2º parágrafo) e “tentar”\n(3º parágrafo) no texto, em sua forma pronominal, revela",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "adequação à forma analítica da voz passiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "construção com conjunção integrante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "marcação da impessoalidade do discurso.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "informalidade correspondente ao gênero discursivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ênfase na reciprocidade da linguagem.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O uso dos verbos “passar” (2º parágrafo) e “tentar”\n(3º parágrafo) no texto, em sua forma pronominal, revela\n(A) adequação à forma analítica da voz passiva.\n(B) construção com conjunção integrante.\n(C) marcação da impessoalidade do discurso.\n(D) informalidade correspondente ao gênero discursivo.\n(E) ênfase na reciprocidade da linguagem.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 05 E 06\nLuc Boltanski e Ève Chiapello demonstram com clareza e\nsagacidade a capacidade antropofágica do capitalismo\nfinanceiro que “engole” a linguagem do protesto e da\nlibertação para transformá-la e utilizá-la para legitimar a\ndominação social e política a partir do próprio mercado.\nNa dimensão do mundo do trabalho, por exemplo, todo\num novo vocabulário teve que ser inventado para escamotear\nas novas transformações e melhor oprimir o trabalhador. Com\nessa linguagem aparentemente libertadora, passa-se a\nimpressão de que o ambiente de trabalho melhorou e o\ntrabalhador se emancipou.\nAssim houve um esforço dirigido para transformar o\ntrabalhador em \"colaborador\", para eufemizar e esconder a\nconsciência de sua superexploração; tenta-se também exaltar\nos supostos valores de liderança para possibilitar que, a partir\nde agora, o próprio funcionário, não mais o patrão, passe a\ncontrolar e vigiar o colega de trabalho. Ou, ainda, há a intenção\nde difundir a cultura do empreendedorismo, segundo a qual\ntodo mundo pode ser empresário de si mesmo. E, o mais\nimportante, se ele falhar nessa empreitada, a culpa é apenas\ndele. É necessário sempre culpar individualmente a vítima pelo\nfracasso socialmente construído.\nSOUZA, Jessé. Como o racismo criou o Brasil. Rio de Janeiro: Estação Brasil,\n2021.",
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            297.5,
+            234.32965000000002,
+            567,
+            544.4946
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            297.5,
+            737.7547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            111.98584599999992
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Voz verbal e construções pronominais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

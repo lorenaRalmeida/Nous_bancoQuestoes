@@ -1,0 +1,95 @@
+{
+  "title": "Questão 31 - FUVEST 2024 - 1ª fase",
+  "index": 31,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "O reservatório de um caminhão-pipa tem a forma de um\ncilindro circular reto com eixo horizontal e dimensões internas\nde 6 metros de comprimento e 2 metros de diâmetro. Uma\nescola contratou o serviço do caminhão-pipa para abastecer\nsua caixa d’água. Após o abastecimento, o motorista\npercebeu que o reservatório do caminhão estava cheio até\n3/4 de sua altura, conforme ilustrado na figura.\nQual foi o volume, em metros cúbicos, de água utilizada para\nabastecer a caixa d’água da escola, sabendo que o\nreservatório do caminhão estava cheio antes do\nabastecimento?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2π − √3/4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2π − (3√3)/2",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "2π + (3√3)/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4π + √3/4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "4π + (3√3)/2",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O reservatório de um caminhão-pipa tem a forma de um\ncilindro circular reto com eixo horizontal e dimensões internas\nde 6 metros de comprimento e 2 metros de diâmetro. Uma\nescola contratou o serviço do caminhão-pipa para abastecer\nsua caixa d’água. Após o abastecimento, o motorista\npercebeu que o reservatório do caminhão estava cheio até\n3/4 de sua altura, conforme ilustrado na figura.\nQual foi o volume, em metros cúbicos, de água utilizada para\nabastecer a caixa d’água da escola, sabendo que o\nreservatório do caminhão estava cheio antes do\nabastecimento?\n√(cid:2871)\n(A) (2 π - )\n(cid:2872)\n(cid:2871)√(cid:2871)\n(B) (2 π - )\n(cid:2870)\n(cid:2871)√(cid:2871)\n(C) (2 π + )\n(cid:2870)\n√(cid:2871)\n(D) (4 π + )\n(cid:2872)\n(cid:2871)√(cid:2871)\n(E) (4 π + )\n(cid:2870)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            569.7547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Volume de segmento de cilindro",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

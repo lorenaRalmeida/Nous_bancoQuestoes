@@ -1,0 +1,88 @@
+{
+  "title": "Questão 87 - FUVEST 2025 - 1ª fase",
+  "index": 87,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Tecidos de Ijebu\n“Os ijebus vestem-se quase sempre com panos produzidos\npor eles próprios. São fazendas de algodão, matéria-prima\nque obtêm localmente. Nas famílias, as tarefas de colher\nalgodão, fiá-lo, tecê-lo e tingi-lo estão costumeiramente a\ncargo das mulheres, e sabe-se ser muito grande a quantidade\nde tecidos manufaturados em Ijebu e dali exportados, não\napenas para os países vizinhos, mas até mesmo para o Brasil,\ncujos navios vêm buscar em Lagos essa mercadoria tão\napreciada pela gente de origem africana transplantada para\naquela terra distante. As cores mais comuns, depois da branca\ne da azul, são a amarela, a vermelha, a carmesim e a verde.\nAlguns panos são de uma só cor, outros são multicoloridos.”\nOSIFEKUNDE. Notícia sobre o país e o povo dos Ijebus. In: COSTA E SILVA,\nAlberto. Imagens da África. São Paulo: Penguin, 2012. p.361.\nO texto é parte de um relato das memórias de um ex-\nescravizado natural de Ijebu, na atual Nigéria, trazido ao Brasil\nno início do século XIX. O excerto faz menção",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à existência de um comércio de produtos manufaturados\nentre a África e a América.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "à prerrogativa masculina na produção de tecidos naquela\nregião da África.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à baixa qualidade das manufaturas africanas em\ncomparação com as da Europa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à impossibilidade de acesso, por africanos e\nafrodescendentes, a produtos vindos da África.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ao comércio de africanos escravizados para o trabalho nas\nplantações de algodão.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nTecidos de Ijebu\n“Os ijebus vestem-se quase sempre com panos produzidos\npor eles próprios. São fazendas de algodão, matéria-prima\nque obtêm localmente. Nas famílias, as tarefas de colher\nalgodão, fiá-lo, tecê-lo e tingi-lo estão costumeiramente a\ncargo das mulheres, e sabe-se ser muito grande a quantidade\nde tecidos manufaturados em Ijebu e dali exportados, não\napenas para os países vizinhos, mas até mesmo para o Brasil,\ncujos navios vêm buscar em Lagos essa mercadoria tão\napreciada pela gente de origem africana transplantada para\naquela terra distante. As cores mais comuns, depois da branca\ne da azul, são a amarela, a vermelha, a carmesim e a verde.\nAlguns panos são de uma só cor, outros são multicoloridos.”\nOSIFEKUNDE. Notícia sobre o país e o povo dos Ijebus. In: COSTA E SILVA,\nAlberto. Imagens da África. São Paulo: Penguin, 2012. p.361.\nO texto é parte de um relato das memórias de um ex-\nescravizado natural de Ijebu, na atual Nigéria, trazido ao Brasil\nno início do século XIX. O excerto faz menção\n(A) à existência de um comércio de produtos manufaturados\nentre a África e a América.\n(B) à prerrogativa masculina na produção de tecidos naquela\nregião da África.\n(C) à baixa qualidade das manufaturas africanas em\ncomparação com as da Europa.\n(D) à impossibilidade de acesso, por africanos e\nafrodescendentes, a produtos vindos da África.\n(E) ao comércio de africanos escravizados para o trabalho nas\nplantações de algodão.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            438.7747
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Produção e comércio de tecidos africanos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

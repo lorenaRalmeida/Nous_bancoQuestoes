@@ -1,0 +1,98 @@
+{
+  "title": "Questão 62 - UNESP 2023 - 1ª fase",
+  "index": 62,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Um professor de Biologia apresentou a seus alunos o seguinte\ntrecho de uma matéria sobre o meio ambiente:\n“Se a Amazônia é vista como o pulmão do mundo, podemos dizer que o Pantanal é o ‘rim’ da porção da América\ndo Sul”, diz Cássio Bernardino, coordenador de Projetos do\nWWF-Brasil.\n(https://revistacasaejardim.globo.com)\nO professor, então, solicitou aos alunos que analisassem a\nafirmação sobre a Amazônia e o Pantanal possuírem, respectivamente, funções análogas à função dos pulmões e à\ndos rins. Dentre esses alunos, quem realizou corretamente a\nanálise afirmou que:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ambas as analogias são adequadas, uma vez que nos\npulmões ocorrem as mesmas trocas gasosas que as\nrealizadas pelas plantas da floresta; e que no Pantanal,\nassim como nos rins, as substâncias tóxicas são diluídas\nem água e eliminadas no ambiente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "assim como os pulmões, as florestas liberam gás carbônico para o ambiente, mas não são as responsáveis por\nrepor na atmosfera o oxigênio consumido no planeta; e\nque, assim como os rins, o Pantanal participa do controle\ndo fluxo de água e da ciclagem de substâncias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "ambas as analogias são inadequadas, uma vez que as\ntrocas gasosas na floresta ocorrem por difusão, enquanto\nque nos pulmões ocorrem por diferença de pressão; e\nque nos rins o controle do fluxo de água para o ambiente\nocorre por reabsorção, enquanto que no Pantanal o volume de água é controlado pela evaporação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a Amazônia é o pulmão do mundo, pois retira da atmosfera o gás carbônico, do qual usa o carbono para seu crescimento, e devolve o oxigênio da molécula para a atmosfera; e que o Pantanal pode ser comparado aos rins, uma\nvez que, assim como esse órgão, filtra a água circulante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as florestas não podem ser comparadas aos pulmões,\npois estes lançam na atmosfera gás carbônico e dela retiram oxigênio, sendo que as florestas fazem exatamente\no contrário; mas o Pantanal pode ser comparado aos rins,\npois ambos promovem a retenção e o acúmulo de água.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um professor de Biologia apresentou a seus alunos o seguinte\ntrecho de uma matéria sobre o meio ambiente:\n“Se a Amazônia é vista como o pulmão do mundo, po-\ndemos dizer que o Pantanal é o ‘rim’ da porção da América\ndo Sul”, diz Cássio Bernardino, coordenador de Projetos do\nWWF-Brasil.\n(https://revistacasaejardim.globo.com)\nO professor, então, solicitou aos alunos que analisassem a\nafirmação sobre a Amazônia e o Pantanal possuírem, res-\npectivamente, funções análogas à função dos pulmões e à\ndos rins. Dentre esses alunos, quem realizou corretamente a\nanálise afirmou que:\n(A) ambas as analogias são adequadas, uma vez que nos\npulmões ocorrem as mesmas trocas gasosas que as\nrealizadas pelas plantas da floresta; e que no Pantanal,\nassim como nos rins, as substâncias tóxicas são diluídas\nem água e eliminadas no ambiente.\n(B) assim como os pulmões, as florestas liberam gás carbô-\nnico para o ambiente, mas não são as responsáveis por\nrepor na atmosfera o oxigênio consumido no planeta; e\nque, assim como os rins, o Pantanal participa do controle\ndo fluxo de água e da ciclagem de substâncias.\n(C) ambas as analogias são inadequadas, uma vez que as\ntrocas gasosas na floresta ocorrem por difusão, enquanto\nque nos pulmões ocorrem por diferença de pressão; e\nque nos rins o controle do fluxo de água para o ambiente\nocorre por reabsorção, enquanto que no Pantanal o volu-\nme de água é controlado pela evaporação.\n(D) a Amazônia é o pulmão do mundo, pois retira da atmosfe-\nra o gás carbônico, do qual usa o carbono para seu cres-\ncimento, e devolve o oxigênio da molécula para a atmos-\nfera; e que o Pantanal pode ser comparado aos rins, uma\nvez que, assim como esse órgão, filtra a água circulante.\n(E) as florestas não podem ser comparadas aos pulmões,\npois estes lançam na atmosfera gás carbônico e dela re-\ntiram oxigênio, sendo que as florestas fazem exatamente\no contrário; mas o Pantanal pode ser comparado aos rins,\npois ambos promovem a retenção e o acúmulo de água.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.52660000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

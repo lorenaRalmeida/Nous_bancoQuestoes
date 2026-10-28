@@ -1,0 +1,102 @@
+{
+  "title": "Questão 62 - FUVEST 2024 - 1ª fase",
+  "index": 62,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Os domínios morfoclimáticos e fitogeográficos propostos pelo\ngeógrafo Aziz Nacib Ab´Sáber nos anos 1960 continuam\nválidos na atualidade. Representam um mapeamento do\nterritório brasileiro, na escala zonal, onde foram identificados\nseis grandes domínios, além de uma faixa denominada de\ntransição, que sintetizam os elementos do clima, da\nvegetação, do solo, do relevo e outros atributos presentes na\npaisagem. Observe as imagens:\n(1)\n(2)\n(3)\nAB’SÁBER, Aziz Nacib. Os domínios de natureza no Brasil. Potencialidades\npaisagísticas. São Paulo: Ateliê Editorial, 2003.\nAs imagens representam aspectos paisagísticos dos tipos\nclimáticos semiárido (1), tropical (2) e subtropical (3),\npresentes, respectivamente, nos seguintes domínios\nmorfoclimáticos:",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Caatingas, Cerrado e Araucárias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Pradarias, Caatingas e Amazônico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Cerrado, Caatingas e Pradarias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Mares de Morros, Pradarias e Amazônico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Cerrado, Araucárias e Mares de Morros.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Os domínios morfoclimáticos e fitogeográficos propostos pelo\ngeógrafo Aziz Nacib Ab´Sáber nos anos 1960 continuam\nválidos na atualidade. Representam um mapeamento do\nterritório brasileiro, na escala zonal, onde foram identificados\nseis grandes domínios, além de uma faixa denominada de\ntransição, que sintetizam os elementos do clima, da\nvegetação, do solo, do relevo e outros atributos presentes na\npaisagem. Observe as imagens:\n(1)\n(2)\n(3)\nAB’SÁBER, Aziz Nacib. Os domínios de natureza no Brasil. Potencialidades\npaisagísticas. São Paulo: Ateliê Editorial, 2003.\nAs imagens representam aspectos paisagísticos dos tipos\nclimáticos semiárido (1), tropical (2) e subtropical (3),\npresentes, respectivamente, nos seguintes domínios\nmorfoclimáticos:\n(A) Caatingas, Cerrado e Araucárias.\n(B) Pradarias, Caatingas e Amazônico.\n(C) Cerrado, Caatingas e Pradarias.\n(D) Mares de Morros, Pradarias e Amazônico.\n(E) Cerrado, Araucárias e Mares de Morros.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Domínios morfoclimáticos brasileiros",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

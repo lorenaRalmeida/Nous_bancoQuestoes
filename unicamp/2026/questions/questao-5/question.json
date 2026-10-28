@@ -1,0 +1,96 @@
+{
+  "title": "Questão 5 - UNICAMP 2026 - 1ª fase",
+  "index": 5,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Apresenta-se, a seguir, uma citação (texto 1) que originou uma\nobra de arte (texto 2). Há também um parágrafo (texto 3) que\ndescreve e explica essa obra.\nTexto 1\n“I do not always feel colored (…). I feel most colored when I am\nthrown against a sharp white background.”\n(Adaptado de HURSTON, Z. N. How it feels to be colored me. 1928.)\nTexto 2\nTexto 3\nThe artist Glenn Ligon has stenciled the sentences over and\nover until the words dissolve into abstract patterns. He built\non a text by Zora Neale Hurston, who describes leaving the\nprotective black community of her childhood and suddenly confronting the issue of race. The smearing in the painting’s illegible\nwords embody her confusion about this, something Ligon\nbuilds on: “Oil paint wants to spread out and smudge. After\ntrying to make perfect letters, I realized that the smudging and\ndisappearance of the letters was more interesting than trying to\nmake perfect letters.”\n(Adaptado de https://whitney.org/media/720. Acesso em 29/04/2025.)\nDe acordo com o texto 3, é correto afirmar que\nossecA\n.5243/stsitra/gro.yentihw//:sptth\nme\nlevínopsiD(\n).5202/40/92\nme",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a ilegibilidade em parte das imagens é intencional, pois\nreforça a invisibilização da identidade negra em contextos\nbrancos, como sugere a autora do texto 1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os efeitos da tinta usada por Glenn Ligon aludem à confusão desse artista quanto à sua própria identidade racial,\nsemelhante ao que relata a autora do texto 1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a repetição de frases nas imagens é proposital, pois representa a recusa de algumas pessoas em se verem como negras, como sugere a autora do texto 1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os borrões em parte das imagens são um efeito da técnica\nusada por Glenn Ligon e aludem às vivências raciais da autora do texto 1.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Apresenta-se, a seguir, uma citação (texto 1) que originou uma\nobra de arte (texto 2). Há também um parágrafo (texto 3) que\ndescreve e explica essa obra.\nTexto 1\n“I do not always feel colored (…). I feel most colored when I am\nthrown against a sharp white background.”\n(Adaptado de HURSTON, Z. N. How it feels to be colored me. 1928.)\nTexto 2\nTexto 3\nThe artist Glenn Ligon has stenciled the sentences over and\nover until the words dissolve into abstract patterns. He built\non a text by Zora Neale Hurston, who describes leaving the\nprotective black community of her childhood and suddenly con-\nfronting the issue of race. The smearing in the painting’s illegible\nwords embody her confusion about this, something Ligon\nbuilds on: “Oil paint wants to spread out and smudge. After\ntrying to make perfect letters, I realized that the smudging and\ndisappearance of the letters was more interesting than trying to\nmake perfect letters.”\n(Adaptado de https://whitney.org/media/720. Acesso em 29/04/2025.)\nDe acordo com o texto 3, é correto afirmar que\nossecA\n.5243/stsitra/gro.yentihw//:sptth\nme\nlevínopsiD(\n).5202/40/92\nme\na) a ilegibilidade em parte das imagens é intencional, pois\nreforça a invisibilização da identidade negra em contextos\nbrancos, como sugere a autora do texto 1.\nb) os efeitos da tinta usada por Glenn Ligon aludem à con-\nfusão desse artista quanto à sua própria identidade racial,\nsemelhante ao que relata a autora do texto 1.\nc) a repetição de frases nas imagens é proposital, pois repre-\nsenta a recusa de algumas pessoas em se verem como ne-\ngras, como sugere a autora do texto 1.\nd) os borrões em parte das imagens são um efeito da técnica\nusada por Glenn Ligon e aludem às vivências raciais da au-\ntora do texto 1.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            347.3247,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            40,
+            568,
+            225.53390000000002
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

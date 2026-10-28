@@ -1,0 +1,95 @@
+{
+  "title": "Questão 4 - UNICAMP 2026 - 1ª fase",
+  "index": 4,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "U.S. Inflation Mild Ahead of Expected\nJump From Tariffs\nEconomists and policymakers are bracing for inflation to\nreaccelerate as companies adapt to the trade war.\n(Adaptado de https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs.\nhtml. Acesso em 15/05/2025.)\nSegundo o texto,",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o governo dos EUA está se preparando para um salto na\ninflação diante da guerra comercial de tarifas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a inflação nos EUA se mantém moderada, mas economistas\ne legisladores estão se preparando diante da expectativa de\nalta das tarifas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a inflação nos EUA deve se manter moderada, pois as empresas estão se adaptando ao aumento das tarifas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as empresas dos EUA estão se adaptando à aceleração da\ninflação diante da guerra de tarifas estabelecida pelo governo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "U.S. Inflation Mild Ahead of Expected\nJump From Tariffs\nEconomists and policymakers are bracing for inflation to\nreaccelerate as companies adapt to the trade war.\n(Adaptado de https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs.\nhtml. Acesso em 15/05/2025.)\nSegundo o texto,\na) o governo dos EUA está se preparando para um salto na\ninflação diante da guerra comercial de tarifas.\nb) a inflação nos EUA se mantém moderada, mas economistas\ne legisladores estão se preparando diante da expectativa de\nalta das tarifas.\nc) a inflação nos EUA deve se manter moderada, pois as em-\npresas estão se adaptando ao aumento das tarifas.\nd) as empresas dos EUA estão se adaptando à aceleração da\ninflação diante da guerra de tarifas estabelecida pelo go-\nverno.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            347.3247
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 4,
+        "bbox": [
+          30,
+          70.02390000000003,
+          291,
+          154.66678408399991
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

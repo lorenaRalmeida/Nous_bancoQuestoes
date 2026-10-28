@@ -1,0 +1,111 @@
+{
+  "title": "Questão 27 - FUVEST 2025 - 1ª fase",
+  "index": 27,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES DE 27 A 29\nClimate change is messing with time\n“The melting of polar ice due to global warming is affecting\nEarth’s rotation and could impact on precision timekeeping,\naccording to a recent study.\nThe planet is not about to jerk to a halt, nor speed up so\nrapidly that everyone gets flung into space. But timekeeping\nis an exact science in a highly technological society, which is\nwhy global authorities more than half a century ago felt\ncompelled by the slight changes in Earth’s rotation to invent\nthe concept of the ‘leap second’.\nClimate change makes these calculations even more\ncomplicated: Soon it may be necessary to insert a ‘negative\nleap second’ into the calendar to get the planet’s rotation in\nsync with Coordinated Universal Time.\nTimekeeping is based on an astronomical basis. Earth is a\ntype of a clock. In simpler times, the planet would spin one full\nrevolution on its axis, and everyone would call it a day.\nBut Earth doesn’t spin at a perfectly constant speed. Our\nplanet is in a complicated gravitational dance with the moon,\nthe sun, the oceanic tides, Earth’s own atmosphere and the\nmotion of the planet’s solid inner core.\nThe planet’s fluctuating spin rate is carefully tracked by the\nInternational Earth Rotation and Reference Systems Service.\nIn the early 1970s, Earth was clearly slowing down in its\nrotation, and a gap was forming between atomic time and\nastronomical time. Thus, was born the ‘leap second’ to adjust\nfor the fact that the ‘day’ was getting a bit longer.\nThe melting of the ice caps in Antarctica and Greenland\nshifts mass — meltwater — toward the equator. That process\nincreases the equatorial bulge of the planet. Meanwhile, at\nthe poles, the land that had been pressed down by ice rises,\nand Earth becomes more spherical.\nAccording to the study, although the core is causing the\nplanet to spin faster, the planetary shape changes caused by\na warming climate are slowing that process. Absent this\neffect, the overall acceleration of the planet’s rotation might\nrequire timekeepers to insert a ‘negative leap second’ at the\nend of 2026. Because of climate change, that might not be\nnecessary until 2029.”\nDisponível em https://www.washingtonpost.com/science/2024/03/27/\n(Adaptado).\n\nSegundo o texto, o processo de derretimento das calotas\npolares",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "põe em dúvida a necessidade do conceito de segundo\nbissexto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "desloca o fluxo de água para regiões afastadas da linha do\nEquador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "deve antecipar em três anos o ajuste dos relógios\natômicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ultrapassa o alcance do sistema do Tempo Universal\nCoordenado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "tende a reduzir a velocidade de rotação da Terra.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nSegundo o texto, o processo de derretimento das calotas\npolares\n(A) põe em dúvida a necessidade do conceito de segundo\nbissexto.\n(B) desloca o fluxo de água para regiões afastadas da linha do\nEquador.\n(C) deve antecipar em três anos o ajuste dos relógios\natômicos.\n(D) ultrapassa o alcance do sistema do Tempo Universal\nCoordenado.\n(E) tende a reduzir a velocidade de rotação da Terra.\n#####\n{",
+    "sharedContext": "TEXTO PARA AS QUESTÕES DE 27 A 29\nClimate change is messing with time\n“The melting of polar ice due to global warming is affecting\nEarth’s rotation and could impact on precision timekeeping,\naccording to a recent study.\nThe planet is not about to jerk to a halt, nor speed up so\nrapidly that everyone gets flung into space. But timekeeping\nis an exact science in a highly technological society, which is\nwhy global authorities more than half a century ago felt\ncompelled by the slight changes in Earth’s rotation to invent\nthe concept of the ‘leap second’.\nClimate change makes these calculations even more\ncomplicated: Soon it may be necessary to insert a ‘negative\nleap second’ into the calendar to get the planet’s rotation in\nsync with Coordinated Universal Time.\nTimekeeping is based on an astronomical basis. Earth is a\ntype of a clock. In simpler times, the planet would spin one full\nrevolution on its axis, and everyone would call it a day.\nBut Earth doesn’t spin at a perfectly constant speed. Our\nplanet is in a complicated gravitational dance with the moon,\nthe sun, the oceanic tides, Earth’s own atmosphere and the\nmotion of the planet’s solid inner core.\nThe planet’s fluctuating spin rate is carefully tracked by the\nInternational Earth Rotation and Reference Systems Service.\nIn the early 1970s, Earth was clearly slowing down in its\nrotation, and a gap was forming between atomic time and\nastronomical time. Thus, was born the ‘leap second’ to adjust\nfor the fact that the ‘day’ was getting a bit longer.\nThe melting of the ice caps in Antarctica and Greenland\nshifts mass — meltwater — toward the equator. That process\nincreases the equatorial bulge of the planet. Meanwhile, at\nthe poles, the land that had been pressed down by ice rises,\nand Earth becomes more spherical.\nAccording to the study, although the core is causing the\nplanet to spin faster, the planetary shape changes caused by\na warming climate are slowing that process. Absent this\neffect, the overall acceleration of the planet’s rotation might\nrequire timekeepers to insert a ‘negative leap second’ at the\nend of 2026. Because of climate change, that might not be\nnecessary until 2029.”\nDisponível em https://www.washingtonpost.com/science/2024/03/27/\n(Adaptado).\n{",
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            575.6347000000001
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            575.6347000000001,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Física",
+        "Geografia"
+      ],
+      "topic": "Leitura de texto inglês sobre gelo e rotação terrestre",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

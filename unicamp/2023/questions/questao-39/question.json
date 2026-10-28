@@ -1,0 +1,104 @@
+{
+  "title": "Questão 39 - UNICAMP 2023 - 1ª fase",
+  "index": 39,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Leia o texto a seguir para responder às questões 39 e 40.\nA proteína verde fluorescente, do inglês green fluorescence\nprotein (GFP) – observada pela primeira vez na água-viva (Aequorea victoria) –, tornou-se uma das ferramentas mais importantes usadas na biociência contemporânea. Evolutivamente, a\ndistribuição filogenética dos genes homólogos de GFP foi encontrada apenas nos filos Cnidaria, Arthropoda e Chordata.\n(Adaptado de MACEL, Marie-Lyne et al. Zoological Letters, Londres. v. 6, p.2-11, 2020.)\n\nConsiderando a distribuição filogenética do gene GFP, é correto\nafirmar a hipótese de origem em",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ancestral metazoário comum e eventos independentes de\nperda do gene em vários clados.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "ancestrais metazoários distintos e manutenção do gene em\ntodos os metazoários marinhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ancestral metazoário comum e manutenção do gene em todos os metazoários marinhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ancestrais metazoários distintos e eventos independentes de\nperda do gene em vários clados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considerando a distribuição filogenética do gene GFP, é correto\nafirmar a hipótese de origem em\na) ancestral metazoário comum e eventos independentes de\nperda do gene em vários clados.\nb) ancestrais metazoários distintos e manutenção do gene em\ntodos os metazoários marinhos.\nc) ancestral metazoário comum e manutenção do gene em to-\ndos os metazoários marinhos.\nd) ancestrais metazoários distintos e eventos independentes de\nperda do gene em vários clados.",
+    "sharedContext": "Leia o texto a seguir para responder às questões 39 e 40.\nA proteína verde fluorescente, do inglês green fluorescence\nprotein (GFP) – observada pela primeira vez na água-viva (Aequorea victoria) –, tornou-se uma das ferramentas mais importantes usadas na biociência contemporânea. Evolutivamente, a\ndistribuição filogenética dos genes homólogos de GFP foi encontrada apenas nos filos Cnidaria, Arthropoda e Chordata.\n(Adaptado de MACEL, Marie-Lyne et al. Zoological Letters, Londres. v. 6, p.2-11, 2020.)",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            654.3215,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            264.89
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

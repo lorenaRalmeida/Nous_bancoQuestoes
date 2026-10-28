@@ -1,0 +1,100 @@
+{
+  "title": "Questão 3 - FUVEST 2023 - 1ª fase",
+  "index": 3,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "“O ‘País’ abriu quarta-feira em suas colunas o mais\ninteressante dos plebiscitos para solução de um importante\nproblema social: Como deve ser educada a mulher... Trata-se\nde saber se devemos ser educadas para, pelo casamento,\nsermos sustentadas pelo homem, ou para nos tornarmos\nhábeis e prover à nossa própria subsistência pelo nosso único\ntrabalho. Se admitis a primeira hipótese, em que consiste a\neducação feminina para o casamento? Se preferis a segunda,\nquais são os gêneros de trabalho em que a mulher pode, sem\ndecair, ganhar a vida em nossa terra? (...) Esta forma de\neducação requer toda uma ordem de conhecimento que não\nsejam apenas frívolos. (...) Os nossos costumes, por isso\nmesmo, são ingênuos e se apoiam em preconceitos e\ntradições, não admitem ainda a mulher que trabalha. (...)\nAssim mesmo as professoras já lograram subir um pouco na\ncotação social. As médicas vão impondo-se pouco a pouco...”.\nCarmem Dolores. “A Semana”. Rio de Janeiro, 08/04/1906. In:\nVASCONCELLOS, Eliane (org.). Carmem Dolores. Crônicas, 1905-1910. Rio de\nJaneiro: Arquivo Público do Estado do Rio de Janeiro, 1998.\nDe acordo com o excerto, assinale a alternativa mais\nadequada para expressar o processo de inserção das\nmulheres no mundo do trabalho no início do século XX.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O patriarcalismo e o emprego do dote foram erradicados\npelos protocolos jurídicos adotados no regime\nrepublicano, favorecendo o reconhecimento social do\ntrabalho feminino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A educação feminina dissociava-se das convenções\nvigentes na sociedade e dos padrões morais preconizados\npelo catolicismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O reconhecimento social do trabalho feminino estava\nlimitado à esfera pública, pois o espaço doméstico ainda\npermanecia marcado pela autoridade masculina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O processo de feminização do magistério na escola básica\nproporcionou o reconhecimento do trabalho das mulheres\ne a conquista de novos papéis sociais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "A ruptura do preconceito para com o trabalho feminino\nnas fábricas, comércio, serviço público e profissões liberais\nse deu efetivamente após a conquista dos direitos\npolíticos pelas mulheres, em 1934.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“O ‘País’ abriu quarta-feira em suas colunas o mais\ninteressante dos plebiscitos para solução de um importante\nproblema social: Como deve ser educada a mulher... Trata-se\nde saber se devemos ser educadas para, pelo casamento,\nsermos sustentadas pelo homem, ou para nos tornarmos\nhábeis e prover à nossa própria subsistência pelo nosso único\ntrabalho. Se admitis a primeira hipótese, em que consiste a\neducação feminina para o casamento? Se preferis a segunda,\nquais são os gêneros de trabalho em que a mulher pode, sem\ndecair, ganhar a vida em nossa terra? (...) Esta forma de\neducação requer toda uma ordem de conhecimento que não\nsejam apenas frívolos. (...) Os nossos costumes, por isso\nmesmo, são ingênuos e se apoiam em preconceitos e\ntradições, não admitem ainda a mulher que trabalha. (...)\nAssim mesmo as professoras já lograram subir um pouco na\ncotação social. As médicas vão impondo-se pouco a pouco...”.\nCarmem Dolores. “A Semana”. Rio de Janeiro, 08/04/1906. In:\nVASCONCELLOS, Eliane (org.). Carmem Dolores. Crônicas, 1905-1910. Rio de\nJaneiro: Arquivo Público do Estado do Rio de Janeiro, 1998.\nDe acordo com o excerto, assinale a alternativa mais\nadequada para expressar o processo de inserção das\nmulheres no mundo do trabalho no início do século XX.\n(A) O patriarcalismo e o emprego do dote foram erradicados\npelos protocolos jurídicos adotados no regime\nrepublicano, favorecendo o reconhecimento social do\ntrabalho feminino.\n(B) A educação feminina dissociava-se das convenções\nvigentes na sociedade e dos padrões morais preconizados\npelo catolicismo.\n(C) O reconhecimento social do trabalho feminino estava\nlimitado à esfera pública, pois o espaço doméstico ainda\npermanecia marcado pela autoridade masculina.\n(D) O processo de feminização do magistério na escola básica\nproporcionou o reconhecimento do trabalho das mulheres\ne a conquista de novos papéis sociais.\n(E) A ruptura do preconceito para com o trabalho feminino\nnas fábricas, comércio, serviço público e profissões liberais\nse deu efetivamente após a conquista dos direitos\npolíticos pelas mulheres, em 1934.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 2,
+          "bbox": [
+            297.5,
+            649.7347,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            437.6347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Inserção histórica das mulheres no trabalho",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

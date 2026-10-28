@@ -1,0 +1,87 @@
+{
+  "title": "Questão 52 - UNICAMP 2026 - 1ª fase",
+  "index": 52,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Em um jogo de videogame sobre guerra, cada jogador deve\nmontar sua tropa escolhendo 100 combatentes. Ele tem à sua\ndisposição dois tipos de combatentes, soldados e estrategistas,\nque possuem duas habilidades, astúcia e força, com as seguintes pontuações:\n• o soldado tem 30 pontos de astúcia e 70 pontos de força.\n• o estrategista tem 80 pontos de astúcia e 20 pontos de força.\nA força total da tropa é a soma das pontuações de força de\ncada um dos combatentes, e a astúcia total da tropa é a soma\ndas pontuações de astúcia de cada um dos combatentes.\nPara montar uma tropa de modo a obter as mesmas pontuações de força total e de astúcia total, quantos soldados e quantos estrategistas devem ser escolhidos?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "70 soldados e 30 estrategistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "60 soldados e 40 estrategistas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "50 soldados e 50 estrategistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "40 soldados e 60 estrategistas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em um jogo de videogame sobre guerra, cada jogador deve\nmontar sua tropa escolhendo 100 combatentes. Ele tem à sua\ndisposição dois tipos de combatentes, soldados e estrategistas,\nque possuem duas habilidades, astúcia e força, com as seguin-\ntes pontuações:\n• o soldado tem 30 pontos de astúcia e 70 pontos de força.\n• o estrategista tem 80 pontos de astúcia e 20 pontos de força.\nA força total da tropa é a soma das pontuações de força de\ncada um dos combatentes, e a astúcia total da tropa é a soma\ndas pontuações de astúcia de cada um dos combatentes.\nPara montar uma tropa de modo a obter as mesmas pontua-\nções de força total e de astúcia total, quantos soldados e quan-\ntos estrategistas devem ser escolhidos?\na) 70 soldados e 30 estrategistas.\nb) 60 soldados e 40 estrategistas.\nc) 50 soldados e 50 estrategistas.\nd) 40 soldados e 60 estrategistas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            134.33389999999997,
+            568,
+            431.2346
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

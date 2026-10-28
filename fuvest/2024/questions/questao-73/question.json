@@ -1,0 +1,90 @@
+{
+  "title": "Questão 73 - FUVEST 2024 - 1ª fase",
+  "index": 73,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Um experimento de demonstração sobre ondas estacionárias\nfaz uso de uma canaleta disposta horizontalmente, contendo\ngrãos de areia fina e seca. Abaixo da canaleta, posiciona-se um\nalto-falante que transmite um som, produzindo, na canaleta,\numa vibração, associada a uma onda estacionária com um\ncomprimento de onda bem definido. O diagrama representa\numa imagem digitalizada dos grãos de areia depositados na\nbase da canaleta em um certo instante. Utilize a régua da\nfigura, graduada em centímetros, para assinalar a alternativa\nque apresenta a melhor aproximação para o valor do\ncomprimento de onda da vibração em questão.\n\nNote e adote:\nOs grãos de areia tendem\nnaturalmente a se acumular em torno\ndos pontos nos quais o deslocamento\ntransversal da canaleta é nulo.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,2 cm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5,1 cm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6,8 cm",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "11,3 cm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "18,1 cm",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Um experimento de demonstração sobre ondas estacionárias\nfaz uso de uma canaleta disposta horizontalmente, contendo\ngrãos de areia fina e seca. Abaixo da canaleta, posiciona-se um\nalto-falante que transmite um som, produzindo, na canaleta,\numa vibração, associada a uma onda estacionária com um\ncomprimento de onda bem definido. O diagrama representa\numa imagem digitalizada dos grãos de areia depositados na\nbase da canaleta em um certo instante. Utilize a régua da\nfigura, graduada em centímetros, para assinalar a alternativa\nque apresenta a melhor aproximação para o valor do\ncomprimento de onda da vibração em questão.\n(A) 1,2 cm\n(B) 5,1 cm Note e adote:\n(C) 6,8 cm Os grãos de areia tendem\nnaturalmente a se acumular em torno\n(D) 11,3 cm\ndos pontos nos quais o deslocamento\n(E) 18,1 cm transversal da canaleta é nulo.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            366.1147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Ondas estacionárias e comprimento de onda",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

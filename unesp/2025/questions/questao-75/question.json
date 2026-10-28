@@ -1,0 +1,111 @@
+{
+  "title": "Questão 75 - UNESP 2025 - 1ª fase",
+  "index": 75,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "A hidrazina (N H ), substância utilizada como propelente de\n2 4\nfoguetes, sofre combustão conforme a equação:\nN H + O N + 2H O\n2 4 2 2 2\nA tabela apresenta alguns valores de entalpias de ligação\nenvolvidas nessa reação.\nLigação Entalpia (kJ/mol)\nN – H 391\nN ≡ N 949\nN – N 163\nO = O 497\nH – O 463\nUtilizando os dados tabelados, calcula-se que a combustão\nde 1 mol de hidrazina irá liberar",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "949 kJ.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 727 kJ.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "577 kJ.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2 224 kJ.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2 801 kJ.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A hidrazina (N H ), substância utilizada como propelente de\n2 4\nfoguetes, sofre combustão conforme a equação:\nN H + O N + 2H O\n2 4 2 2 2\nA tabela apresenta alguns valores de entalpias de ligação\nenvolvidas nessa reação.\nLigação Entalpia (kJ/mol)\nN – H 391\nN ≡ N 949\nN – N 163\nO = O 497\nH – O 463\nUtilizando os dados tabelados, calcula-se que a combustão\nde 1 mol de hidrazina irá liberar\n(A) 949 kJ.\n(B) 1 727 kJ.\n(C) 577 kJ.\n(D) 2 224 kJ.\n(E) 2 801 kJ.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            245.19730000000004,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          343.048,
+          334.919,
+          522.93598,
+          424.6639
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

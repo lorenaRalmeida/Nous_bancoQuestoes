@@ -1,0 +1,100 @@
+{
+  "title": "Questão 71 - UNESP 2024 - 1ª fase",
+  "index": 71,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "O sistema Li/MnO é o exemplo mais representativo das\n2\npilhas primárias (de uso único) de lítio.\n(www.smartkits.com.br)\nEssas pilhas empregam eletrólitos dissolvidos em solventes não aquosos, em recipientes selados.\nO processo de descarga dessa pilha envolve a reação\n4Li + MnO 2Li O + Mn\n2 2\nEssa pilha fornece uma diferença de potencial (voltagem)\nem torno de 3,0 V à temperatura ambiente, mas mostra excelente desempenho em temperaturas superiores.\nA grande vantagem das pilhas à base de lítio é a ausência de metais pesados reconhecidamente danosos ao meio\nambiente, como mercúrio, cádmio e chumbo. Porém, os perigos relativos à pilha Li/MnO são de outra natureza, estando\n2\nrelacionados ao seu descarte e reciclagem. Após a corrosão\ndo invólucro externo, é liberado o solvente não aquoso, inflamável e tóxico. O lítio metálico não reagido, em contato\ncom água e umidade do ar, desprende calor e gás inflamável\n(hidrogênio), podendo levar à ignição do produto descartado.\nPor isso, a presença de voltagem residual nesse resíduo é\num problema, pois significa a presença de lítio metálico.\nAs características listadas para a pilha de lítio tornam a\ndisposição final inadequada e até mesmo a reciclagem uma\noperação de risco, pela possibilidade de fogo e explosão.\n(Jéssica Frontino Paulino et al. “Processamento de pilhas Li/MnO usadas”.\n2\nQuim. Nova, vol. 30, 2007. Adaptado.)\nPara tornar a reciclagem dessa pilha mais segura, o ideal\nseria o seu descarregamento completo antes do descarte,\nevitando assim a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "evaporação do solvente inflamável.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "redução do lítio metálico pelo oxigênio do ar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reação do óxido de lítio com a água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "oxidação do lítio metálico pela água.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "interação da umidade do ar com o solvente inflamável.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O sistema Li/MnO é o exemplo mais representativo das\n2\npilhas primárias (de uso único) de lítio.\n(www.smartkits.com.br)\nEssas pilhas empregam eletrólitos dissolvidos em sol-\nventes não aquosos, em recipientes selados.\nO processo de descarga dessa pilha envolve a reação\n4Li + MnO 2Li O + Mn\n2 2\nEssa pilha fornece uma diferença de potencial (voltagem)\nem torno de 3,0 V à temperatura ambiente, mas mostra exce-\nlente desempenho em temperaturas superiores.\nA grande vantagem das pilhas à base de lítio é a ausên-\ncia de metais pesados reconhecidamente danosos ao meio\nambiente, como mercúrio, cádmio e chumbo. Porém, os peri-\ngos relativos à pilha Li/MnO são de outra natureza, estando\n2\nrelacionados ao seu descarte e reciclagem. Após a corrosão\ndo invólucro externo, é liberado o solvente não aquoso, in-\nflamável e tóxico. O lítio metálico não reagido, em contato\ncom água e umidade do ar, desprende calor e gás inflamável\n(hidrogênio), podendo levar à ignição do produto descartado.\nPor isso, a presença de voltagem residual nesse resíduo é\num problema, pois significa a presença de lítio metálico.\nAs características listadas para a pilha de lítio tornam a\ndisposição final inadequada e até mesmo a reciclagem uma\noperação de risco, pela possibilidade de fogo e explosão.\n(Jéssica Frontino Paulino et al. “Processamento de pilhas Li/MnO usadas”.\n2\nQuim. Nova, vol. 30, 2007. Adaptado.)\nPara tornar a reciclagem dessa pilha mais segura, o ideal\nseria o seu descarregamento completo antes do descarte,\nevitando assim a\n(A) evaporação do solvente inflamável.\n(B) redução do lítio metálico pelo oxigênio do ar.\n(C) reação do óxido de lítio com a água.\n(D) oxidação do lítio metálico pela água.\n(E) interação da umidade do ar com o solvente inflamável.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

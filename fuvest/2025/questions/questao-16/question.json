@@ -1,0 +1,107 @@
+{
+  "title": "Questão 16 - FUVEST 2025 - 1ª fase",
+  "index": 16,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:\n\nInclinação e desnível máximo de cada segmento de rampa\nDesnível h (em m) | Inclinação i admissível (em %)\n1 < h ≤ 1,5 | 5\n0,8 < h ≤ 1 | 5 < i ≤ 6,25\n0 < h ≤ 0,8 | 6,25 < i ≤ 8,33\n\nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.\nDisponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado).\n\nA inclinação i da rampa em porcentagem (%) é calculada dividindo a altura h do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100. A figura a seguir mostra uma rampa de dois segmentos.\n\nDeterminada rampa de dois segmentos foi construída da seguinte maneira:\n− o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n− o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.\n\nCom base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A rampa não está adequada, pois os dois segmentos não\nestão de acordo com a norma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A rampa está adequada, pois os dois segmentos estão de\nacordo com a norma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A rampa não está adequada, pois o primeiro segmento\nnão está de acordo com a norma.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "A rampa não está adequada, pois o segundo segmento não\nestá de acordo com a norma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A rampa está adequada, pois, apesar de o segundo\nsegmento não estar de acordo com a norma, o primeiro\nestá.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA construção de uma rampa que seja acessível a usuários de\ncadeira de rodas deve seguir a norma ABNT NBR 9050. Esse\ndocumento regulamenta a inclinação que a rampa deve ter a\ndepender do desnível máximo de cada segmento de rampa,\nconforme o seguinte quadro:\nInclinação e desnível máximo de cada segmento de rampa\nDesnível h (em m) Inclinação i admissível (em %)\n1(cid:3407)ℎ(cid:3409)1,5 5\n0,8(cid:3407)ℎ(cid:3409)1 5(cid:3407)𝑖 (cid:3409)6,25\n0(cid:3407)ℎ(cid:3409)0,8 6,25(cid:3407)𝑖 (cid:3409)8,33\nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.\nDisponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado).\nA inclinação 𝑖 da rampa em porcentagem (%) é calculada\ndividindo a altura ℎ do desnível do segmento da rampa, em\nmetros, pelo comprimento da projeção horizontal 𝑐, em\nmetros, e multiplicando o resultado por 100. A figura a seguir\nmostra uma rampa de dois segmentos.\nDeterminada rampa de dois segmentos foi construída da\nseguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e\ninclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e\ndesnível de 0,5 m.\nCom base no que foi apresentado sobre a normativa, o que é\ncorreto afirmar sobre a adequação dessa rampa à norma de\nacessibilidade?\n(A) A rampa não está adequada, pois os dois segmentos não\nestão de acordo com a norma.\n(B) A rampa está adequada, pois os dois segmentos estão de\nacordo com a norma.\n(C) A rampa não está adequada, pois o primeiro segmento\nnão está de acordo com a norma.\n(D) A rampa não está adequada, pois o segundo segmento não\nestá de acordo com a norma.\n(E) A rampa está adequada, pois, apesar de o segundo\nsegmento não estar de acordo com a norma, o primeiro\nestá.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Porcentagem de inclinação de rampas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Questão 20 - FUVEST 2023 - 1ª fase",
+  "index": 20,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "“Para reduzir a dependência de fertilizantes importados para\na agricultura, especialmente o nitrogênio, cientistas têm\ntrabalhado no desenvolvimento de organismos\ngeneticamente modificados que podem ser úteis no cultivo de\nplantações. Uma das propostas é transferir genes das\nbactérias fixadoras de nitrogênio para as organelas que mais\nse assemelham a esses microorganismos, viabilizando a\nfixação de nitrogênio diretamente do ar pelas plantas que não\nse associam a essas bactérias simbiontes”.\nDisponível em https://news.mit.edu/2020/. Adaptado.\nA modificação genética citada",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "criará uma nova espécie de planta resistente a herbicidas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "será realizada nos plastos ou mitocôndrias das plantas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "permitirá que bactérias fixadoras de nitrogênio se tornem\nmais eficientes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "fará com que as células bacterianas sejam incorporadas\nnos tecidos das plantas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "gerará riscos para o consumo humano pela possibilidade\nde ingestão de genes de bactérias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Para reduzir a dependência de fertilizantes importados para\na agricultura, especialmente o nitrogênio, cientistas têm\ntrabalhado no desenvolvimento de organismos\ngeneticamente modificados que podem ser úteis no cultivo de\nplantações. Uma das propostas é transferir genes das\nbactérias fixadoras de nitrogênio para as organelas que mais\nse assemelham a esses microorganismos, viabilizando a\nfixação de nitrogênio diretamente do ar pelas plantas que não\nse associam a essas bactérias simbiontes”.\nDisponível em https://news.mit.edu/2020/. Adaptado.\nA modificação genética citada\n(A) criará uma nova espécie de planta resistente a herbicidas.\n(B) será realizada nos plastos ou mitocôndrias das plantas.\n(C) permitirá que bactérias fixadoras de nitrogênio se tornem\nmais eficientes.\n(D) fará com que as células bacterianas sejam incorporadas\nnos tecidos das plantas.\n(E) gerará riscos para o consumo humano pela possibilidade\nde ingestão de genes de bactérias.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            28,
+            102.65470000000005,
+            297.5,
+            397.3147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "topic": "Fixação biológica de nitrogênio e transgenia",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

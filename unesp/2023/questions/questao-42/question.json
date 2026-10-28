@@ -1,0 +1,98 @@
+{
+  "title": "Questão 42 - UNESP 2023 - 1ª fase",
+  "index": 42,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "As transformações no tempo e no espaço são responsáveis também pela ressignificação de conceitos, de modo que\na pobreza urbana de hoje não é a mesma que a de décadas\natrás [...].\nO imperativo das finanças permitiu a renovação dos padrões de consumo das camadas mais pobres das cidades,\nque experimentam, ao mesmo tempo, a precariedade em\nseu cotidiano. Dessa maneira, pobreza urbana é nova porque possui os conteúdos do atual período da história, e é\nvelha porque ocorre em copresença da falta de serviços e\ninfraestruturas básicas.\n(Kauê Lopes dos Santos. Uma nova pobreza urbana: financeirização do\nconsumo e novos espaços da periferia de São Paulo, 2017.)\nO excerto identifica",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a contradição no perfil da pobreza nas cidades contemporâneas e define espaço como uma acumulação desigual de temporalidades.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o aumento de consumo de bens duráveis e semiduráveis\npela população pobre urbana e celebra o sucesso da política desenvolvimentista dos anos 1950.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a expansão territorial das metrópoles dos países emergentes e questiona a importância do estudo do passado\npara compreender os problemas do presente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o impacto da modernização tecnológica das grandes cidades dos países subdesenvolvidos e destaca a implantação de políticas de aceleração do desenvolvimento nos\nanos 2000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a paralisia do setor financeiro privado diante do aumento\nda pobreza na década de 2010 e indica uma tendência\nde investimentos nas áreas nobres das grandes cidades.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As transformações no tempo e no espaço são responsá-\nveis também pela ressignificação de conceitos, de modo que\na pobreza urbana de hoje não é a mesma que a de décadas\natrás [...].\nO imperativo das finanças permitiu a renovação dos pa-\ndrões de consumo das camadas mais pobres das cidades,\nque experimentam, ao mesmo tempo, a precariedade em\nseu cotidiano. Dessa maneira, pobreza urbana é nova por-\nque possui os conteúdos do atual período da história, e é\nvelha porque ocorre em copresença da falta de serviços e\ninfraestruturas básicas.\n(Kauê Lopes dos Santos. Uma nova pobreza urbana: financeirização do\nconsumo e novos espaços da periferia de São Paulo, 2017.)\nO excerto identifica\n(A) a contradição no perfil da pobreza nas cidades contem-\nporâneas e define espaço como uma acumulação desi-\ngual de temporalidades.\n(B) o aumento de consumo de bens duráveis e semiduráveis\npela população pobre urbana e celebra o sucesso da po-\nlítica desenvolvimentista dos anos 1950.\n(C) a expansão territorial das metrópoles dos países emer-\ngentes e questiona a importância do estudo do passado\npara compreender os problemas do presente.\n(D) o impacto da modernização tecnológica das grandes ci-\ndades dos países subdesenvolvidos e destaca a implan-\ntação de políticas de aceleração do desenvolvimento nos\nanos 2000.\n(E) a paralisia do setor financeiro privado diante do aumento\nda pobreza na década de 2010 e indica uma tendência\nde investimentos nas áreas nobres das grandes cidades.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

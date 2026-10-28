@@ -1,0 +1,102 @@
+{
+  "title": "Questão 35 - UNESP 2026 - 1ª fase",
+  "index": 35,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise a tela “Primeira missa no Brasil”, pintada por Victor\nMeirelles em 1860.\nAo representar, no século XIX, a primeira missa realizada no\nBrasil, a tela",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "sugere a existência de harmonia entre os grupos étnicos e sociais que habitavam o território da colonização\nportuguesa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "valoriza a liberdade de culto religioso e a tolerância das\nlideranças católicas em relação às religiosidades dos povos indígenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "critica o caráter tardio e insuficiente da ação missionária católica, responsável pela catequização dos povos\nindígenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "critica a imposição do catolicismo aos povos indígenas,\nforçados a assistir à cerimônia religiosa organizada pelos\ncolonizadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "questiona a ausência de separação entre Estado e Igreja, determinada pelos governos gerais impostos pelos\ncolonizadores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a tela “Primeira missa no Brasil”, pintada por Victor\nMeirelles em 1860.\nAo representar, no século XIX, a primeira missa realizada no\nBrasil, a tela\n(A) sugere a existência de harmonia entre os grupos étni-\ncos e sociais que habitavam o território da colonização\nportuguesa.\n(B) valoriza a liberdade de culto religioso e a tolerância das\nlideranças católicas em relação às religiosidades dos po-\nvos indígenas.\n(C) critica o caráter tardio e insuficiente da ação missioná-\nria católica, responsável pela catequização dos povos\nindígenas.\n(D) critica a imposição do catolicismo aos povos indígenas,\nforçados a assistir à cerimônia religiosa organizada pelos\ncolonizadores.\n(E) questiona a ausência de separação entre Estado e Igre-\nja, determinada pelos governos gerais impostos pelos\ncolonizadores.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

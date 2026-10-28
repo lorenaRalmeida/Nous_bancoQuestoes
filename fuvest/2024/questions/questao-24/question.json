@@ -1,0 +1,98 @@
+{
+  "title": "Questão 24 - FUVEST 2024 - 1ª fase",
+  "index": 24,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "“Os experimentos de difração e interferência da luz realizados\nno período de 1800 a 1803, em analogia com os processos de\ninterferência das ondas acústicas, corroboraram a natureza\nondulatória da luz. Por outro lado, Einstein introduziu, em\n1905, o conceito de fóton, em que cada componente\nmonocromática de frequência 𝑓 da radiação seria equivalente\na um sistema de partículas idênticas sem massa, cada qual\ncom energia ℎ𝑓, sendo ℎ≃6,626×10−34 J.s a constante de\nPlanck. A hipótese da existência de fótons só teve ampla\naceitação após os experimentos de Compton, em 1922, sobre\no espalhamento da radiação eletromagnética na faixa dos\nraios X por alvos de elementos leves, como o grafite.”\nAdaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton,\nRBEF 43, e20210011 (2021).\nDe acordo com o texto e seus conhecimentos, é correto\nafirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A radiação eletromagnética apresenta somente\ncomportamento ondulatório.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os experimentos de Compton mostraram que feixes de\nraios X exibem comportamento corpuscular.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A energia de um fóton independe de seu comprimento de\nonda.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A hipótese da natureza corpuscular da radiação está em\ndesacordo com os resultados experimentais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Einstein demonstrou que os experimentos de difração e\ninterferência da luz deveriam estar incorretos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Os experimentos de difração e interferência da luz realizados\nno período de 1800 a 1803, em analogia com os processos de\ninterferência das ondas acústicas, corroboraram a natureza\nondulatória da luz. Por outro lado, Einstein introduziu, em\n1905, o conceito de fóton, em que cada componente\nmonocromática de frequência 𝑓 da radiação seria equivalente\na um sistema de partículas idênticas sem massa, cada qual\ncom energia ℎ𝑓, sendo ℎ≃6,626×10−34 J.s a constante de\nPlanck. A hipótese da existência de fótons só teve ampla\naceitação após os experimentos de Compton, em 1922, sobre\no espalhamento da radiação eletromagnética na faixa dos\nraios X por alvos de elementos leves, como o grafite.”\nAdaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton,\nRBEF 43, e20210011 (2021).\nDe acordo com o texto e seus conhecimentos, é correto\nafirmar:\n(A) A radiação eletromagnética apresenta somente\ncomportamento ondulatório.\n(B) Os experimentos de Compton mostraram que feixes de\nraios X exibem comportamento corpuscular.\n(C) A energia de um fóton independe de seu comprimento de\nonda.\n(D) A hipótese da natureza corpuscular da radiação está em\ndesacordo com os resultados experimentais.\n(E) Einstein demonstrou que os experimentos de difração e\ninterferência da luz deveriam estar incorretos.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Dualidade e comportamento da luz",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

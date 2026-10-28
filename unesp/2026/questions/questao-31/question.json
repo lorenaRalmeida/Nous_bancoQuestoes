@@ -1,0 +1,98 @@
+{
+  "title": "Questão 31 - UNESP 2026 - 1ª fase",
+  "index": 31,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "A absoluta incompatibilidade entre Jesus e Dioniso — ou,\nde modo mais geral, entre o cristianismo e as velhas religiões\nextáticas — tornou-se um princípio da teologia cristã posterior, senão do pensamento “ocidental” como um todo. Porém,\npara um habitante de Roma que vivesse no século I ou II,\nquando o cristianismo surgiu, a nova religião não deve ter\nparecido tão hostil a Dioniso [...]. A partir de uma perspectiva romana, o cristianismo era, a princípio, apenas mais uma\nreligião “oriental”, vindo do leste, e, como outras de origem\nsemelhante, atraente para as mulheres e os pobres.\n(Barbara Ehrenreich. Dançando nas ruas, 2010.)\nAo tratar do surgimento do cristianismo, o excerto",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "afirma que, para os romanos dos séculos I ou II, os cultos\na Dioniso e ao êxtase eram considerados heréticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sustenta que, para os romanos dos séculos I ou II, a perseguição aos cristãos representava uma forma de opressão contra mulheres e pobres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "enfatiza as oposições entre os rituais pagãos romanos\ne as religiosidades populares procedentes da Palestina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "caracteriza o cristianismo como uma derivação direta dos\nantigos ritos pagãos dedicados à celebração de Dioniso\ne do êxtase.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "defende que, para os romanos dos séculos I ou II, o cristianismo assemelhava-se a outras expressões religiosas\nexistentes na época.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A absoluta incompatibilidade entre Jesus e Dioniso — ou,\nde modo mais geral, entre o cristianismo e as velhas religiões\nextáticas — tornou-se um princípio da teologia cristã poste-\nrior, senão do pensamento “ocidental” como um todo. Porém,\npara um habitante de Roma que vivesse no século I ou II,\nquando o cristianismo surgiu, a nova religião não deve ter\nparecido tão hostil a Dioniso [...]. A partir de uma perspecti-\nva romana, o cristianismo era, a princípio, apenas mais uma\nreligião “oriental”, vindo do leste, e, como outras de origem\nsemelhante, atraente para as mulheres e os pobres.\n(Barbara Ehrenreich. Dançando nas ruas, 2010.)\nAo tratar do surgimento do cristianismo, o excerto\n(A) afirma que, para os romanos dos séculos I ou II, os cultos\na Dioniso e ao êxtase eram considerados heréticos.\n(B) sustenta que, para os romanos dos séculos I ou II, a per-\nseguição aos cristãos representava uma forma de opres-\nsão contra mulheres e pobres.\n(C) enfatiza as oposições entre os rituais pagãos romanos\ne as religiosidades populares procedentes da Palestina.\n(D) caracteriza o cristianismo como uma derivação direta dos\nantigos ritos pagãos dedicados à celebração de Dioniso\ne do êxtase.\n(E) defende que, para os romanos dos séculos I ou II, o cris-\ntianismo assemelhava-se a outras expressões religiosas\nexistentes na época.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

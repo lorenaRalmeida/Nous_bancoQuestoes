@@ -1,0 +1,92 @@
+{
+  "title": "Questão 36 - UNICAMP 2024 - 1ª fase",
+  "index": 36,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Texto comum às questões 34, 35, 36 e 37.\nUma das etapas mais difíceis de um voo espacial tripulado é a\nreentrada na atmosfera terrestre. Ao reencontrar as camadas\nmais altas da atmosfera, a nave sofre forte desaceleração e sua\ntemperatura externa atinge milhares de graus Celsius. Caso a\nreentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo\nrisco de ela ser lançada de volta ao espaço.\n\nO ar atmosférico comporta-se como um gás perfeito. Sendo a\npressão e a temperatura do ar, numa determinada posição da\nalta atmosfera, dadas por p = 2,0 Pa e T = 180 K (sem a presença da cápsula na vizinhança), e sendo a constante universal dos\ngases perfeitos R≈8 J/mol.K, qual é o volume ocupado por\num mol de ar naquela posição?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,38 × 10 –3 m3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "9,00 × 101 m3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "7,20 × 102 m3.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2,88 × 103 m3.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O ar atmosférico comporta-se como um gás perfeito. Sendo a\npressão e a temperatura do ar, numa determinada posição da\nalta atmosfera, dadas por p = 2,0 Pa e T = 180 K (sem a presen-\nça da cápsula na vizinhança), e sendo a constante universal dos\ngases perfeitos R8 J/mol.K, qual é o volume ocupado por\num mol de ar naquela posição?\na) 1,38 × 10 –3 m3. c) 7,20 × 102 m3.\nb) 9,00 × 101 m3. d) 2,88 × 103 m3.",
+    "sharedContext": "Texto comum às questões 34, 35, 36 e 37.\nUma das etapas mais difíceis de um voo espacial tripulado é a\nreentrada na atmosfera terrestre. Ao reencontrar as camadas\nmais altas da atmosfera, a nave sofre forte desaceleração e sua\ntemperatura externa atinge milhares de graus Celsius. Caso a\nreentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo\nrisco de ela ser lançada de volta ao espaço.",
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            70.64890000000003,
+            291,
+            181.25670000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            492.2822,
+            291,
+            653.4693
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

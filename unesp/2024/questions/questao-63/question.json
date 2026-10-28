@@ -1,0 +1,98 @@
+{
+  "title": "Questão 63 - UNESP 2024 - 1ª fase",
+  "index": 63,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O fenômeno da bioluminescência ocorre em organismos\nque emitem luz por meio da reação química de oxidação\nda luciferina catalisada pela enzima luciferase. Em vaga-\n-lumes, a emissão de luz pela extremidade do abdome atrai\nparceiros para a reprodução, mas também chama a atenção\nde predadores.\nDe acordo com a teoria sintética da evolução, a bioluminescência em vaga-lumes pode ser explicada",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pelo estímulo ambiental, que induziu indivíduos adaptados a expressarem mais intensamente esse fenômeno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pela seleção natural em populações que viviam em ambientes escuros e emitiam luz através desse fenômeno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "por mutações e recombinações gênicas em indivíduos\nque passaram a alterar os alelos responsáveis por esse\nfenômeno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pela necessidade de sobrevivência no escuro, que estimulou a produção de moléculas envolvidas nesse fenômeno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "pela seleção natural de indivíduos que expressavam os\nalelos correspondentes às moléculas envolvidas nesse\nfenômeno.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O fenômeno da bioluminescência ocorre em organismos\nque emitem luz por meio da reação química de oxidação\nda luciferina catalisada pela enzima luciferase. Em vaga-\n-lumes, a emissão de luz pela extremidade do abdome atrai\nparceiros para a reprodução, mas também chama a atenção\nde predadores.\nDe acordo com a teoria sintética da evolução, a biolumines-\ncência em vaga-lumes pode ser explicada\n(A) pelo estímulo ambiental, que induziu indivíduos adapta-\ndos a expressarem mais intensamente esse fenômeno.\n(B) pela seleção natural em populações que viviam em am-\nbientes escuros e emitiam luz através desse fenômeno.\n(C) por mutações e recombinações gênicas em indivíduos\nque passaram a alterar os alelos responsáveis por esse\nfenômeno.\n(D) pela necessidade de sobrevivência no escuro, que esti-\nmulou a produção de moléculas envolvidas nesse fenô-\nmeno.\n(E) pela seleção natural de indivíduos que expressavam os\nalelos correspondentes às moléculas envolvidas nesse\nfenômeno.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            370.4793,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

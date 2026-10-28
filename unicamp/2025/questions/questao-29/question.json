@@ -1,0 +1,86 @@
+{
+  "title": "Questão 29 - UNICAMP 2025 - 1ª fase",
+  "index": 29,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "A figura a seguir é a reprodução de uma capa do “Boletim de\nEugenia”, de onde foi extraído o excerto transcrito ao lado.\n“Em fevereiro de 1929,\na Inspetoria de Educação\nSanitária e Centros de\nSaúde promoveram em\nSão Paulo o primeiro concurso de Eugenia para\neleger o bebê eugênico.\nO Boletim de Eugenia\ncomentava a repercussão que o concurso teve\nna grande imprensa e\nestampava em sua capa\na criança de 3 anos que\nganhou o prêmio. Os critérios de julgamento do\nconcurso visavam à promoção de: 'proles sadias\ne belas, para a organização de um ensaio de patronagem da futura elite\nnacional de eugenizados; finalmente, contribuía com preciosos\nelementos para estudos relativos à hereditariedade, ao meio social e familiar, ao cruzamento de raças'.”\n(Adaptado de Boletim de Eugenia, 1(5), p.1, maio de 1929.)\nCom base em seus conhecimentos sobre o ideário eugênico e\nseu contexto, e tendo em vista elementos do excerto, assinale\na alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Uma criança considerada saudável seria branca e oriunda\nde uma família numerosa, o que atestaria a pureza racial da\nfamília e a superioridade reprodutiva da mulher.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "A ideologia do “aperfeiçoamento da raça” demandava políticas públicas para superação das desigualdades entre negros e brancos nas grandes cidades.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Em sua busca por tratamentos alternativos ao “robustecimento” do corpo e “aperfeiçoamento racial”, a medicina\neugênica opunha-se às práticas científicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Tanto o autoritarismo contra os pobres quanto a obrigatoriedade das vacinas criadas pelo serviço sanitário eugênico\nprovocaram grandes revoltas populares na década de 1930.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura a seguir é a reprodução de uma capa do “Boletim de\nEugenia”, de onde foi extraído o excerto transcrito ao lado.\n“Em fevereiro de 1929,\na Inspetoria de Educação\nSanitária e Centros de\nSaúde promoveram em\nSão Paulo o primeiro con-\ncurso de Eugenia para\neleger o bebê eugênico.\nO Boletim de Eugenia\ncomentava a repercus-\nsão que o concurso teve\nna grande imprensa e\nestampava em sua capa\na criança de 3 anos que\nganhou o prêmio. Os cri-\ntérios de julgamento do\nconcurso visavam à pro-\nmoção de: 'proles sadias\ne belas, para a organiza-\nção de um ensaio de pa-\ntronagem da futura elite\nnacional de eugenizados; finalmente, contribuía com preciosos\nelementos para estudos relativos à hereditariedade, ao meio so-\ncial e familiar, ao cruzamento de raças'.”\n(Adaptado de Boletim de Eugenia, 1(5), p.1, maio de 1929.)\nCom base em seus conhecimentos sobre o ideário eugênico e\nseu contexto, e tendo em vista elementos do excerto, assinale\na alternativa correta.\na) Uma criança considerada saudável seria branca e oriunda\nde uma família numerosa, o que atestaria a pureza racial da\nfamília e a superioridade reprodutiva da mulher.\nb) A ideologia do “aperfeiçoamento da raça” demandava po-\nlíticas públicas para superação das desigualdades entre ne-\ngros e brancos nas grandes cidades.\nc) Em sua busca por tratamentos alternativos ao “robusteci-\nmento” do corpo e “aperfeiçoamento racial”, a medicina\neugênica opunha-se às práticas científicas.\nd) Tanto o autoritarismo contra os pobres quanto a obrigato-\nriedade das vacinas criadas pelo serviço sanitário eugênico\nprovocaram grandes revoltas populares na década de 1930.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            47.15769999999998,
+            291,
+            603.1373
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

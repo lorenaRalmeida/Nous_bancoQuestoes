@@ -1,0 +1,111 @@
+{
+  "title": "Questão 79 - UNESP 2024 - 1ª fase",
+  "index": 79,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "A escala Brix, com valores expressos em ºBx (graus brix),\né uma escala numérica que indica a quantidade de sólidos\nsolúveis em uma solução de sacarose. Essa escala é utilizada na indústria de alimentos para medir a porcentagem\naproximada de açúcares em sucos de fruta, vinhos, bebidas carbonatadas etc. Uma solução de 25 ºBx, por exemplo, tem 25 gramas de açúcar de sacarose por 100 gramas\nda solução. O gráfico mostra a relação entre a escala Brix e\no índice de refração absoluto de uma solução de sacarose.\n(www.omega.com. Adaptado.)\nConsidere um raio de luz monocromática que, propagando-se\npelo ar, incide na superfície que separa o ar de uma solução\nde sacarose de 40 ºBx. Adotando c = 3 × 108 m/s, quando\nesse raio refratar-se para a solução de sacarose, terá velocidade de propagação de, aproximadamente,",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,0 × 108 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,8 × 108 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2,1 × 108 m/s.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1,2 × 108 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,8 × 108 m/s.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A escala Brix, com valores expressos em ºBx (graus brix),\né uma escala numérica que indica a quantidade de sólidos\nsolúveis em uma solução de sacarose. Essa escala é utili-\nzada na indústria de alimentos para medir a porcentagem\naproximada de açúcares em sucos de fruta, vinhos, bebi-\ndas carbonatadas etc. Uma solução de 25 ºBx, por exem-\nplo, tem 25 gramas de açúcar de sacarose por 100 gramas\nda solução. O gráfico mostra a relação entre a escala Brix e\no índice de refração absoluto de uma solução de sacarose.\n(www.omega.com. Adaptado.)\nConsidere um raio de luz monocromática que, propagando-se\npelo ar, incide na superfície que separa o ar de uma solução\nde sacarose de 40 ºBx. Adotando c = 3 × 108 m/s, quando\nesse raio refratar-se para a solução de sacarose, terá veloci-\ndade de propagação de, aproximadamente,\n(A) 1,0 × 108 m/s.\n(B) 2,8 × 108 m/s.\n(C) 2,1 × 108 m/s.\n(D) 1,2 × 108 m/s.\n(E) 0,8 × 108 m/s.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 30,
+        "bbox": [
+          33.5143,
+          156.20129999999995,
+          291,
+          348.50129999999996
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

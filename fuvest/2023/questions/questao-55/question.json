@@ -1,0 +1,90 @@
+{
+  "title": "Questão 55 - FUVEST 2023 - 1ª fase",
+  "index": 55,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "“Todos os homens, por natureza, tendem ao saber. Sinal disso\né o amor pelas sensações. De fato, eles amam as sensações\npor si mesmas, independentemente de sua utilidade e amam,\nacima de todas, a sensação da visão. Com efeito, não só em\nvista da ação, mas mesmo sem nenhuma intenção de agir, nós\npreferimos o ver, em certo sentido, a todas as outras\nsensações. E o motivo está no fato de que a visão nos\nproporciona mais conhecimento do que todas as outras\nsensações e nos torna manifestas numerosas diferenças entre\nas coisas”.\nAristóteles. Metafísica, São Paulo: Loyola, 2002.\nNessa passagem, a tese principal apresentada por Aristóteles\né a de que “todos os homens, por natureza, tendem ao saber”.\nCom base na construção do argumento, descrever a sensação\nda visão tem, como função principal, a seguinte tarefa:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Delimitar a tese, mostrando que o conhecimento se dá\nsobretudo nas sensações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Explicar a tese, mostrando qual o significado da tendência\nao conhecimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Refutar a tese, mostrando que o amor às sensações se\nsobrepõe à tendência ao saber.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Deduzir consequências da tese, mostrando as implicações\nda tendência humana ao saber.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Sustentar a tese, mostrando que o privilégio dessa\nsensação se deve à sua relação com o saber.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Todos os homens, por natureza, tendem ao saber. Sinal disso\né o amor pelas sensações. De fato, eles amam as sensações\npor si mesmas, independentemente de sua utilidade e amam,\nacima de todas, a sensação da visão. Com efeito, não só em\nvista da ação, mas mesmo sem nenhuma intenção de agir, nós\npreferimos o ver, em certo sentido, a todas as outras\nsensações. E o motivo está no fato de que a visão nos\nproporciona mais conhecimento do que todas as outras\nsensações e nos torna manifestas numerosas diferenças entre\nas coisas”.\nAristóteles. Metafísica, São Paulo: Loyola, 2002.\nNessa passagem, a tese principal apresentada por Aristóteles\né a de que “todos os homens, por natureza, tendem ao saber”.\nCom base na construção do argumento, descrever a sensação\nda visão tem, como função principal, a seguinte tarefa:\n(A) Delimitar a tese, mostrando que o conhecimento se dá\nsobretudo nas sensações.\n(B) Explicar a tese, mostrando qual o significado da tendência\nao conhecimento.\n(C) Refutar a tese, mostrando que o amor às sensações se\nsobrepõe à tendência ao saber.\n(D) Deduzir consequências da tese, mostrando as implicações\nda tendência humana ao saber.\n(E) Sustentar a tese, mostrando que o privilégio dessa\nsensação se deve à sua relação com o saber.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            399.41470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "topic": "Estrutura da argumentação em Aristóteles",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

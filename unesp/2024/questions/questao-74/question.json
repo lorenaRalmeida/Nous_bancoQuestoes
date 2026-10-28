@@ -1,0 +1,98 @@
+{
+  "title": "Questão 74 - UNESP 2024 - 1ª fase",
+  "index": 74,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Água de cal é o nome dado à solução aquosa saturada de\ncal hidratada [hidróxido de cálcio, Ca(OH) ]. A concentração\n2\ndessa solução saturada a 20 ºC é de 1,7 g/L. A partir desse\ndado, estima-se que o valor da constante do produto de solubilidade em água (K ) nessa temperatura é próximo de\nps",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "8 × 10– 6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4 × 10– 6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "5 × 10– 7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8 × 10– 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5 × 10– 5.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Água de cal é o nome dado à solução aquosa saturada de\ncal hidratada [hidróxido de cálcio, Ca(OH) ]. A concentração\n2\ndessa solução saturada a 20 ºC é de 1,7 g/L. A partir desse\ndado, estima-se que o valor da constante do produto de solu-\nbilidade em água (K ) nessa temperatura é próximo de\nps\n(A) 8 × 10– 6.\n(B) 4 × 10– 6.\n(C) 5 × 10– 7.\n(D) 8 × 10– 4.\n(E) 5 × 10– 5.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            392.8406,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

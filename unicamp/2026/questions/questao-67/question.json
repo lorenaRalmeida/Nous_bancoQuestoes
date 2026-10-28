@@ -1,0 +1,86 @@
+{
+  "title": "Questão 67 - UNICAMP 2026 - 1ª fase",
+  "index": 67,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Os recifes de corais são ecossistemas ricos em biodiversidade,\nsendo essenciais para a pesca e proteção costeira. Essas estruturas são formadas por pólipos com esqueleto externo de\ncarbonato de cálcio e sofrem degradação nas últimas décadas\ndevido às atividades humanas no meio ambiente. O infográfico a seguir representa o efeito da ação humana sobre um\ndos equilíbrios químicos da água dos oceanos pela emissão de\nCO atmosférico (CO atm). Dados: [CO ]atm = concentração\n2 2 2\nde CO atmosférico\n2\n(Adaptado de HOEGH-GULDBERG et al. Science, v. 318, p.1737-1742, 2007.)\nCom base nas informações do enunciado e do infográfico apresentado, é correto afirmar que as espécies A, B e C são, respectivamente,",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "CO , CO −2 e CaCO , enquanto os eixos X e Y no infográfico\n2 3 3\nrepresentam respectivamente [CO −2] e [CO ]atm. Global-\n3 2\nmente, o aumento da [CO ]atm provoca um aumento do pH\n2\ndos oceanos e, consequentemente, uma maior degradação\ndos corais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "CO −2, CaCO e CO −2, enquanto os eixos X e Y no infográ-\n3 3 3\nfico representam respectivamente [CO ]atm e [CO −2]. Glo-\n2 3\nbalmente, o aumento da [CO ]atm provoca uma diminuição\n2\ndo pH dos oceanos e, consequentemente, uma maior degradação dos corais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "CO , CaCO e CO −2, enquanto os eixos X e Y no infográfico\n2 3 3\nrepresentam respectivamente [CO −2] e [CO ]atm. Global-\n3 2\nmente, o aumento da [CO ]atm provoca uma diminuição do\n2\npH dos oceanos e, consequentemente, uma menor degradação dos corais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "CO −2, CaCO e CO −2, enquanto os eixos X e Y no infográfi-\n3 3 3\nco representam respectivamente [CO −2] e [CO ]atm. Global-\n3 2\nmente, o aumento da [CO ]atm provoca um aumento do pH\n2\ndos oceanos e, consequentemente, uma menor degradação\ndos corais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os recifes de corais são ecossistemas ricos em biodiversidade,\nsendo essenciais para a pesca e proteção costeira. Essas es-\ntruturas são formadas por pólipos com esqueleto externo de\ncarbonato de cálcio e sofrem degradação nas últimas décadas\ndevido às atividades humanas no meio ambiente. O infográ-\nfico a seguir representa o efeito da ação humana sobre um\ndos equilíbrios químicos da água dos oceanos pela emissão de\nCO atmosférico (CO atm). Dados: [CO ]atm = concentração\n2 2 2\nde CO atmosférico\n2\n(Adaptado de HOEGH-GULDBERG et al. Science, v. 318, p.1737-1742, 2007.)\nCom base nas informações do enunciado e do infográfico apre-\nsentado, é correto afirmar que as espécies A, B e C são, respec-\ntivamente,\na) CO , CO −2 e CaCO , enquanto os eixos X e Y no infográfico\n2 3 3\nrepresentam respectivamente [CO −2] e [CO ]atm. Global-\n3 2\nmente, o aumento da [CO ]atm provoca um aumento do pH\n2\ndos oceanos e, consequentemente, uma maior degradação\ndos corais.\nb) CO −2, CaCO e CO −2, enquanto os eixos X e Y no infográ-\n3 3 3\nfico representam respectivamente [CO ]atm e [CO −2]. Glo-\n2 3\nbalmente, o aumento da [CO ]atm provoca uma diminuição\n2\ndo pH dos oceanos e, consequentemente, uma maior de-\ngradação dos corais.\nc) CO , CaCO e CO −2, enquanto os eixos X e Y no infográfico\n2 3 3\nrepresentam respectivamente [CO −2] e [CO ]atm. Global-\n3 2\nmente, o aumento da [CO ]atm provoca uma diminuição do\n2\npH dos oceanos e, consequentemente, uma menor degra-\ndação dos corais.\nd) CO −2, CaCO e CO −2, enquanto os eixos X e Y no infográfi-\n3 3 3\nco representam respectivamente [CO −2] e [CO ]atm. Global-\n3 2\nmente, o aumento da [CO ]atm provoca um aumento do pH\n2\ndos oceanos e, consequentemente, uma menor degradação\ndos corais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            694.3215
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

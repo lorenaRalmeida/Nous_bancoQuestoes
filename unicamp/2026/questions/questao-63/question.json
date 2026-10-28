@@ -1,0 +1,82 @@
+{
+  "title": "Questão 63 - UNICAMP 2026 - 1ª fase",
+  "index": 63,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia a citação a seguir, extraída do conto “Pera, uva ou maçã?”,\npublicado no livro Morangos mofados, de Caio Fernando\nAbreu, e assinale a alternativa correta sobre o excerto.\nFoi então que vi aquelas ameixas e achei tão bonitas e tão\nvermelhas que pedi um quilo e era minha última grana certo\nporque meus pais não me dão nada e daí eu pensei assim se\ncomprar essas ameixas agora vou ter que voltar a pé para casa\nmas que importa volto a pé mesmo pode ser até que acorde um\npouco e aquela coisa lá longe volte pra perto de mim e então eu\nvinha caminhando devagarinho as ameixas eu não conseguia\nparar de comer sabe já tinha comido acho que umas seis estava\ntoda melada quando dobrei a esquina aqui da rua e ia saindo\num caixão de defunto do sobrado amarelo na esquina certo\nacho que era um caixão cheio quer dizer com defunto dentro\nporque ia saindo e não entrando certo e foi bem na hora que\neu dobrei não deu tempo de parar nem de desviar daí então\neu tropecei no caixão e as ameixas todas caíram assim paf! na\ncalçada e foi aí que eu reparei naquelas pessoas todas de preto\ne óculos escuros e lenços no nariz e uma porrada de coroas de\nflores devia ser um defunto muito rico certo e aquele carro fúnebre ali parado e só aí eu entendi que era um velório.\n(ABREU, C. F. Morangos Mofados. 9ª. ed. São Paulo: Companhia das Letras, p. 105-106,\n2015.)",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A presença de orações como “foi então que vi”, “foi aí que\neu reparei” e “só aí eu entendi” cria um efeito de retardamento da narrativa, o que reflete o estado psicológico de\napatia da personagem que fala.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A ausência de pontuação cria um efeito de aceleração da\nnarrativa, o que reflete o estado psicológico de ansiedade\nda personagem que fala.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A presença de orações como “foi então que vi”, “foi aí que\neu reparei” e “só aí eu entendi” rompe a sequência temporal da narrativa, prejudicando o seu desenvolvimento lógico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A ausência de pontuação desorganiza a sequência das\nações da personagem, o que reflete sua confusão e causa\numa ambiguidade de sentido em sua narrativa.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia a citação a seguir, extraída do conto “Pera, uva ou maçã?”,\npublicado no livro Morangos mofados, de Caio Fernando\nAbreu, e assinale a alternativa correta sobre o excerto.\nFoi então que vi aquelas ameixas e achei tão bonitas e tão\nvermelhas que pedi um quilo e era minha última grana certo\nporque meus pais não me dão nada e daí eu pensei assim se\ncomprar essas ameixas agora vou ter que voltar a pé para casa\nmas que importa volto a pé mesmo pode ser até que acorde um\npouco e aquela coisa lá longe volte pra perto de mim e então eu\nvinha caminhando devagarinho as ameixas eu não conseguia\nparar de comer sabe já tinha comido acho que umas seis estava\ntoda melada quando dobrei a esquina aqui da rua e ia saindo\num caixão de defunto do sobrado amarelo na esquina certo\nacho que era um caixão cheio quer dizer com defunto dentro\nporque ia saindo e não entrando certo e foi bem na hora que\neu dobrei não deu tempo de parar nem de desviar daí então\neu tropecei no caixão e as ameixas todas caíram assim paf! na\ncalçada e foi aí que eu reparei naquelas pessoas todas de preto\ne óculos escuros e lenços no nariz e uma porrada de coroas de\nflores devia ser um defunto muito rico certo e aquele carro fú-\nnebre ali parado e só aí eu entendi que era um velório.\n(ABREU, C. F. Morangos Mofados. 9ª. ed. São Paulo: Companhia das Letras, p. 105-106,\n2015.)\na) A presença de orações como “foi então que vi”, “foi aí que\neu reparei” e “só aí eu entendi” cria um efeito de retarda-\nmento da narrativa, o que reflete o estado psicológico de\napatia da personagem que fala.\nb) A ausência de pontuação cria um efeito de aceleração da\nnarrativa, o que reflete o estado psicológico de ansiedade\nda personagem que fala.\nc) A presença de orações como “foi então que vi”, “foi aí que\neu reparei” e “só aí eu entendi” rompe a sequência tempo-\nral da narrativa, prejudicando o seu desenvolvimento lógico.\nd) A ausência de pontuação desorganiza a sequência das\nações da personagem, o que reflete sua confusão e causa\numa ambiguidade de sentido em sua narrativa.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            187.42989999999998,
+            568,
+            673.0267
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

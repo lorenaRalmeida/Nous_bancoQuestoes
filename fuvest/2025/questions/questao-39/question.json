@@ -1,0 +1,102 @@
+{
+  "title": "Questão 39 - FUVEST 2025 - 1ª fase",
+  "index": 39,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "PALACIO, Ángela. Privilegiados. Libro de lectura inicial. Buenos Aires:\nKapelusz, 1954. Apud CAPELATO, Maria Helena. Multidões em cena.\nPropaganda política no varguismo e no peronismo. Campinas: Papirus, 1998.\np.88-91.\nAs imagens mostram páginas de uma cartilha de alfabetização\nproduzida durante o governo de Juan Domingo Perón na\nArgentina (1946-1955). As ilustrações",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "atribuem valor idêntico à presença de homens e de\nmulheres nas esferas pública e privada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "revelam a neutralidade do material no que diz respeito às\nposições políticas e às relações entre gêneros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ressaltam a importância da formação intelectual das\nmulheres oriundas dos setores populares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "fazem propaganda do regime político e demarcam as\nfunções da mulher como mãe e esposa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "desenvolvem crítica político-partidária à estrutura\npatriarcal e à política popular.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nPALACIO, Ángela. Privilegiados. Libro de lectura inicial. Buenos Aires:\nKapelusz, 1954. Apud CAPELATO, Maria Helena. Multidões em cena.\nPropaganda política no varguismo e no peronismo. Campinas: Papirus, 1998.\np.88-91.\nAs imagens mostram páginas de uma cartilha de alfabetização\nproduzida durante o governo de Juan Domingo Perón na\nArgentina (1946-1955). As ilustrações\n(A) atribuem valor idêntico à presença de homens e de\nmulheres nas esferas pública e privada.\n(B) revelam a neutralidade do material no que diz respeito às\nposições políticas e às relações entre gêneros.\n(C) ressaltam a importância da formação intelectual das\nmulheres oriundas dos setores populares.\n(D) fazem propaganda do regime político e demarcam as\nfunções da mulher como mãe e esposa.\n(E) desenvolvem crítica político-partidária à estrutura\npatriarcal e à política popular.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "topic": "Peronismo e propaganda política",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

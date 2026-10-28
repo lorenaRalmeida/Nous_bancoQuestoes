@@ -1,0 +1,100 @@
+{
+  "title": "Questão 44 - UNESP 2023 - 1ª fase",
+  "index": 44,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Leia o excerto e analise o mapa.\nO sofrimento e a aniquilação de civis em guerras são temas pelos quais o cinema sempre se interessou. “Quo Vadis,\nAida?”, concorrente da Bósnia-Herzegovina ao Oscar 2021\nde filme internacional, trata disso, mas tem também ingredientes que o elevam acima do gênero — uma história real de\ngenocídio. A ocupação da cidade de Srebrenica, localizada\nna Bósnia-Herzegovina, pelo exército sérvio em 1995, e o\nassassinato de mais de 8 000 homens de um grupo minoritário, supostamente protegido por forças da Organização das\nNações Unidas (ONU), compõem o quadro factual.\n(www.folha.uol.com.br. Adaptado.)\n(Marcos A. Coelho e Lygia Terra. Geografia geral, 2005. Adaptado.)\nO filme citado aborda",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a libertação curda, região com fortes represálias econômicas e políticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as alterações na fronteira da Romênia, país com objetivos expansionistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a autonomia da Catalunha, região com grande desenvolvimento econômico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a formação da Liga da Lombardia, região com movimentos separatistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a dissolução da Iugoslávia, país com grande diversidade\nétnica e religiosa.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o excerto e analise o mapa.\nO sofrimento e a aniquilação de civis em guerras são te-\nmas pelos quais o cinema sempre se interessou. “Quo Vadis,\nAida?”, concorrente da Bósnia-Herzegovina ao Oscar 2021\nde filme internacional, trata disso, mas tem também ingre-\ndientes que o elevam acima do gênero — uma história real de\ngenocídio. A ocupação da cidade de Srebrenica, localizada\nna Bósnia-Herzegovina, pelo exército sérvio em 1995, e o\nassassinato de mais de 8 000 homens de um grupo minoritá-\nrio, supostamente protegido por forças da Organização das\nNações Unidas (ONU), compõem o quadro factual.\n(www.folha.uol.com.br. Adaptado.)\n(Marcos A. Coelho e Lygia Terra. Geografia geral, 2005. Adaptado.)\nO filme citado aborda\n(A) a libertação curda, região com fortes represálias econô-\nmicas e políticas.\n(B) as alterações na fronteira da Romênia, país com objeti-\nvos expansionistas.\n(C) a autonomia da Catalunha, região com grande desenvol-\nvimento econômico.\n(D) a formação da Liga da Lombardia, região com movimen-\ntos separatistas.\n(E) a dissolução da Iugoslávia, país com grande diversidade\nétnica e religiosa.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

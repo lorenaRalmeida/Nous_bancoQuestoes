@@ -1,0 +1,48 @@
+{
+  "year": 2024,
+  "questions": 90,
+  "graphicAlternativeImages": 20,
+  "graphicAlternatives": [
+    {
+      "index": 19,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "index": 26,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "index": 60,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "index": 72,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "contextsPresent": 90
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 49 - UNICAMP 2024 - 1ª fase",
+  "index": 49,
+  "year": 2024,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Texto 1\nManifesto de lançamento da “Coalizão Negra Por Direitos”,\nreunião de entidades e coletivos do movimento negro brasileiro, 2020.\nTexto 2\nO sociólogo Octavio Ianni afirmou que democracia e cidadania\nsão processos políticos marcados por dificuldades e retrocessos,\npois a participação social – especialmente a de grupos como\nmulheres, negros, indígenas – é uma luta penosa e que, no\nBrasil, vem sendo realizada precariamente ao longo da história.\n(Adaptado de: “Entrevista com Octavio Ianni: Comunicação e Globalização”. Revista\nNovos Olhares, n. 4, p. 25, 1999.)\nDe acordo com os textos 1 e 2, é possível dizer que, no caso\nbrasileiro, os conceitos de democracia e de cidadania",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "são limitados pela persistência histórica do racismo, pois os\nmovimentos sociais pouco se ocupam dessa temática, reduzindo a possibilidade da conquista de igualdade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "podem ser tomados como conceitos relacionados, relativos\nà esfera do indivíduo, e marcados por processos lineares de\nconquistas de direitos sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "podem ser tomados como conceitos relacionados, próprios\nda esfera coletiva, e marcados por processos não lineares de\nconquistas e perdas de direitos sociais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "são marcados por disputas sociais e históricas, e influenciam, de modo secundário, o exercício da igualdade, especialmente para grupos como mulheres, negros e indígenas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\nManifesto de lançamento da “Coalizão Negra Por Direitos”,\nreunião de entidades e coletivos do movimento negro brasilei-\nro, 2020.\nTexto 2\nO sociólogo Octavio Ianni afirmou que democracia e cidadania\nsão processos políticos marcados por dificuldades e retrocessos,\npois a participação social – especialmente a de grupos como\nmulheres, negros, indígenas – é uma luta penosa e que, no\nBrasil, vem sendo realizada precariamente ao longo da história.\n(Adaptado de: “Entrevista com Octavio Ianni: Comunicação e Globalização”. Revista\nNovos Olhares, n. 4, p. 25, 1999.)\nDe acordo com os textos 1 e 2, é possível dizer que, no caso\nbrasileiro, os conceitos de democracia e de cidadania\na) são limitados pela persistência histórica do racismo, pois os\nmovimentos sociais pouco se ocupam dessa temática, redu-\nzindo a possibilidade da conquista de igualdade.\nb) podem ser tomados como conceitos relacionados, relativos\nà esfera do indivíduo, e marcados por processos lineares de\nconquistas de direitos sociais.\nc) podem ser tomados como conceitos relacionados, próprios\nda esfera coletiva, e marcados por processos não lineares de\nconquistas e perdas de direitos sociais.\nd) são marcados por disputas sociais e históricas, e influen-\nciam, de modo secundário, o exercício da igualdade, espe-\ncialmente para grupos como mulheres, negros e indígenas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            384.1735,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            40,
+            568,
+            148.7953
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

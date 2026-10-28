@@ -1,0 +1,100 @@
+{
+  "title": "Questão 29 - FUVEST 2025 - 1ª fase",
+  "index": 29,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES DE 27 A 29\nClimate change is messing with time\n“The melting of polar ice due to global warming is affecting\nEarth’s rotation and could impact on precision timekeeping,\naccording to a recent study.\nThe planet is not about to jerk to a halt, nor speed up so\nrapidly that everyone gets flung into space. But timekeeping\nis an exact science in a highly technological society, which is\nwhy global authorities more than half a century ago felt\ncompelled by the slight changes in Earth’s rotation to invent\nthe concept of the ‘leap second’.\nClimate change makes these calculations even more\ncomplicated: Soon it may be necessary to insert a ‘negative\nleap second’ into the calendar to get the planet’s rotation in\nsync with Coordinated Universal Time.\nTimekeeping is based on an astronomical basis. Earth is a\ntype of a clock. In simpler times, the planet would spin one full\nrevolution on its axis, and everyone would call it a day.\nBut Earth doesn’t spin at a perfectly constant speed. Our\nplanet is in a complicated gravitational dance with the moon,\nthe sun, the oceanic tides, Earth’s own atmosphere and the\nmotion of the planet’s solid inner core.\nThe planet’s fluctuating spin rate is carefully tracked by the\nInternational Earth Rotation and Reference Systems Service.\nIn the early 1970s, Earth was clearly slowing down in its\nrotation, and a gap was forming between atomic time and\nastronomical time. Thus, was born the ‘leap second’ to adjust\nfor the fact that the ‘day’ was getting a bit longer.\nThe melting of the ice caps in Antarctica and Greenland\nshifts mass — meltwater — toward the equator. That process\nincreases the equatorial bulge of the planet. Meanwhile, at\nthe poles, the land that had been pressed down by ice rises,\nand Earth becomes more spherical.\nAccording to the study, although the core is causing the\nplanet to spin faster, the planetary shape changes caused by\na warming climate are slowing that process. Absent this\neffect, the overall acceleration of the planet’s rotation might\nrequire timekeepers to insert a ‘negative leap second’ at the\nend of 2026. Because of climate change, that might not be\nnecessary until 2029.”\nDisponível em https://www.washingtonpost.com/science/2024/03/27/\n(Adaptado).\n\nConsiderando os seres vivos atuais, as informações trazidas\npelo texto e os princípios da Teoria Sintética da Evolução, é\ncorreto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as espécies necessariamente se adaptarão às novas\nmudanças do planeta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "somente espécies de dias longos, ou seja, aquelas que\nprecisam de mais horas de luz, sobreviverão às mudanças\nprevistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "é difícil prever como se dará a evolução das espécies,\nporque esse é um processo mediado pelo acaso.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "nenhuma espécie sobreviverá às mudanças na Terra e\nnovas espécies surgirão em seu lugar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "espécies aquáticas terão vantagem adaptativa sobre\nespécies terrestres, uma vez que todos os continentes\nsubmergirão com o derretimento das geleiras.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nConsiderando os seres vivos atuais, as informações trazidas\npelo texto e os princípios da Teoria Sintética da Evolução, é\ncorreto afirmar que\n(A) as espécies necessariamente se adaptarão às novas\nmudanças do planeta.\n(B) somente espécies de dias longos, ou seja, aquelas que\nprecisam de mais horas de luz, sobreviverão às mudanças\nprevistas.\n(C) é difícil prever como se dará a evolução das espécies,\nporque esse é um processo mediado pelo acaso.\n(D) nenhuma espécie sobreviverá às mudanças na Terra e\nnovas espécies surgirão em seu lugar.\n(E) espécies aquáticas terão vantagem adaptativa sobre\nespécies terrestres, uma vez que todos os continentes\nsubmergirão com o derretimento das geleiras.\n#####\n{",
+    "sharedContext": "TEXTO PARA AS QUESTÕES DE 27 A 29\nClimate change is messing with time\n“The melting of polar ice due to global warming is affecting\nEarth’s rotation and could impact on precision timekeeping,\naccording to a recent study.\nThe planet is not about to jerk to a halt, nor speed up so\nrapidly that everyone gets flung into space. But timekeeping\nis an exact science in a highly technological society, which is\nwhy global authorities more than half a century ago felt\ncompelled by the slight changes in Earth’s rotation to invent\nthe concept of the ‘leap second’.\nClimate change makes these calculations even more\ncomplicated: Soon it may be necessary to insert a ‘negative\nleap second’ into the calendar to get the planet’s rotation in\nsync with Coordinated Universal Time.\nTimekeeping is based on an astronomical basis. Earth is a\ntype of a clock. In simpler times, the planet would spin one full\nrevolution on its axis, and everyone would call it a day.\nBut Earth doesn’t spin at a perfectly constant speed. Our\nplanet is in a complicated gravitational dance with the moon,\nthe sun, the oceanic tides, Earth’s own atmosphere and the\nmotion of the planet’s solid inner core.\nThe planet’s fluctuating spin rate is carefully tracked by the\nInternational Earth Rotation and Reference Systems Service.\nIn the early 1970s, Earth was clearly slowing down in its\nrotation, and a gap was forming between atomic time and\nastronomical time. Thus, was born the ‘leap second’ to adjust\nfor the fact that the ‘day’ was getting a bit longer.\nThe melting of the ice caps in Antarctica and Greenland\nshifts mass — meltwater — toward the equator. That process\nincreases the equatorial bulge of the planet. Meanwhile, at\nthe poles, the land that had been pressed down by ice rises,\nand Earth becomes more spherical.\nAccording to the study, although the core is causing the\nplanet to spin faster, the planetary shape changes caused by\na warming climate are slowing that process. Absent this\neffect, the overall acceleration of the planet’s rotation might\nrequire timekeepers to insert a ‘negative leap second’ at the\nend of 2026. Because of climate change, that might not be\nnecessary until 2029.”\nDisponível em https://www.washingtonpost.com/science/2024/03/27/\n(Adaptado).\n{",
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            575.6347000000001
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            297.5,
+            182.63470000000007,
+            567,
+            410.6347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Inglês"
+      ],
+      "topic": "Evolução biológica e alterações ambientais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

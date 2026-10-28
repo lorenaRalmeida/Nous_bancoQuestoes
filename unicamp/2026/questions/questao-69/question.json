@@ -1,0 +1,105 @@
+{
+  "title": "Questão 69 - UNICAMP 2026 - 1ª fase",
+  "index": 69,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Diante das mudanças climáticas, muitos químicos desempenham um papel estratégico no enfrentamento desse problema.\nUma dessas ações é o esforço no desenvolvimento de recursos\nque removem CO por meio da captura direta do ar. Nesse sen-\n2\ntido, os químicos se dedicam a produzir materiais que, ao mesmo tempo, possam capturar o CO em situações diversas em\n2\nquantidades e velocidades altas. Um exemplo disso é a captura\ncumulativa de CO (em mmol) por grama de tetraperoxotitana-\n2\nto de potássio K Ti(O ) em função do tempo. Esses resultados\n4 24\nsão parcialmente mostrados no gráfico a seguir.\n3,0\n2,4\n1,8\n1,2\n0,6\n0,0\n10 20 30 40 50 60\nTempo (min)\n(Adaptado de BACH, K. et al. ChemRxiv, DOI: 10.26434/chemrxiv-2024-xb06z-v2. Acesso\nem 09/10/2025.)\nDado parcial: Massa molar: K Ti(O ) = 332,3 g·mol−1\n4 24\nConsiderando as informações do gráfico, é correto afirmar que\napós 65 minutos de adsorção: (i) a razão molar [mol CO por\n2\nmol de K Ti(O ) ] e (ii) o aumento percentual de massa do sólido\n4 24\nserão aproximadamente de",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(i) 3 e (ii) 13% em relação ao inicial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(i) 1 e (ii) 13% em relação ao inicial.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "(i) 3 e (ii) 30% em relação ao inicial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(i) 1 e (ii) 30% em relação ao inicial.\n)g/lomm(\nOC\ned\navitalumuc\narutpaC\n2",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Diante das mudanças climáticas, muitos químicos desempe-\nnham um papel estratégico no enfrentamento desse problema.\nUma dessas ações é o esforço no desenvolvimento de recursos\nque removem CO por meio da captura direta do ar. Nesse sen-\n2\ntido, os químicos se dedicam a produzir materiais que, ao mes-\nmo tempo, possam capturar o CO em situações diversas em\n2\nquantidades e velocidades altas. Um exemplo disso é a captura\ncumulativa de CO (em mmol) por grama de tetraperoxotitana-\n2\nto de potássio K Ti(O ) em função do tempo. Esses resultados\n4 24\nsão parcialmente mostrados no gráfico a seguir.\n3,0\n2,4\n1,8\n1,2\n0,6\n0,0\n10 20 30 40 50 60\nTempo (min)\n(Adaptado de BACH, K. et al. ChemRxiv, DOI: 10.26434/chemrxiv-2024-xb06z-v2. Acesso\nem 09/10/2025.)\nDado parcial: Massa molar: K Ti(O ) = 332,3 g·mol−1\n4 24\nConsiderando as informações do gráfico, é correto afirmar que\napós 65 minutos de adsorção: (i) a razão molar [mol CO por\n2\nmol de K Ti(O ) ] e (ii) o aumento percentual de massa do sólido\n4 24\nserão aproximadamente de\na) (i) 3 e (ii) 13% em relação ao inicial.\nb) (i) 1 e (ii) 13% em relação ao inicial.\nc) (i) 3 e (ii) 30% em relação ao inicial.\nd) (i) 1 e (ii) 30% em relação ao inicial.\n)g/lomm(\nOC\ned\navitalumuc\narutpaC\n2",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            288.4352,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            40,
+            291,
+            48.11609999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 25,
+        "bbox": [
+          344.5461,
+          428.138,
+          543.5594,
+          614.1592
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

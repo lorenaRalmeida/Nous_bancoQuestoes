@@ -1,0 +1,100 @@
+{
+  "title": "Questão 54 - FUVEST 2023 - 1ª fase",
+  "index": 54,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Pinturas na tumba de um faraó do século XIX a.C. sugerem que\nos antigos egípcios adicionavam água à areia em frente aos\ntrenós utilizados para transportar grandes peças, como\npedras para pirâmides. Esse transporte era realizado por\ncarregadores que puxavam os trenós sobre a areia.\nFALL et al., Physical Review Letters 112, 175502 (2014).\nEm 2014, cientistas realizaram medidas para testar essa\nhipótese e, sob certas condições, encontraram os coeficientes\nde atrito cinético entre o trenó e a areia listados na tabela:\nConteúdo de\n0% 1,5% 3,2% 7,4%\nágua\nCoeficiente de\n0,57 0,54 0,50 0,61\natrito\nConsiderando as informações da tabela, qual conteúdo de\nágua na areia tornaria mais fácil o transporte das peças pelos\ncarregadores?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0% (areia seca)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,5%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3,2%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "7,4%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O conteúdo de água não afeta o transporte.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Pinturas na tumba de um faraó do século XIX a.C. sugerem que\nos antigos egípcios adicionavam água à areia em frente aos\ntrenós utilizados para transportar grandes peças, como\npedras para pirâmides. Esse transporte era realizado por\ncarregadores que puxavam os trenós sobre a areia.\nFALL et al., Physical Review Letters 112, 175502 (2014).\nEm 2014, cientistas realizaram medidas para testar essa\nhipótese e, sob certas condições, encontraram os coeficientes\nde atrito cinético entre o trenó e a areia listados na tabela:\nConteúdo de\n0% 1,5% 3,2% 7,4%\nágua\nCoeficiente de\n0,57 0,54 0,50 0,61\natrito\nConsiderando as informações da tabela, qual conteúdo de\nágua na areia tornaria mais fácil o transporte das peças pelos\ncarregadores?\n(A) 0% (areia seca)\n(B) 1,5%\n(C) 3,2%\n(D) 7,4%\n(E) O conteúdo de água não afeta o transporte.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            28,
+            172.91470000000004,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Atrito e transporte de cargas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

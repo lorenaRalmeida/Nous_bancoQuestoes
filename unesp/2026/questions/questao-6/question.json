@@ -1,0 +1,103 @@
+{
+  "title": "Questão 6 - UNESP 2026 - 1ª fase",
+  "index": 6,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Examine a tirinha da cartunista Laerte, publicada em sua conta @laerteminotaura no Instagram em 29.12.2022.\nNa construção do sentido de sua tirinha, Laerte explora basicamente",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uma hipérbole que, por sua vez, se desdobra em outras hipérboles numa progressão aritmética de razão 1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uma hipérbole que, por sua vez, se desdobra em outras hipérboles numa progressão aritmética de razão 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "um paradoxo que, por sua vez, se desdobra em outros paradoxos numa progressão geométrica de razão 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uma antítese que, por sua vez, se desdobra em outras antíteses numa progressão geométrica de razão 1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "uma antítese que, por sua vez, se desdobra em outras antíteses numa progressão geométrica de razão 2.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a tirinha da cartunista Laerte, publicada em sua conta @laerteminotaura no Instagram em 29.12.2022.\nNa construção do sentido de sua tirinha, Laerte explora basicamente\n(A) uma hipérbole que, por sua vez, se desdobra em outras hipérboles numa progressão aritmética de razão 1.\n(B) uma hipérbole que, por sua vez, se desdobra em outras hipérboles numa progressão aritmética de razão 2.\n(C) um paradoxo que, por sua vez, se desdobra em outros paradoxos numa progressão geométrica de razão 2.\n(D) uma antítese que, por sua vez, se desdobra em outras antíteses numa progressão geométrica de razão 1.\n(E) uma antítese que, por sua vez, se desdobra em outras antíteses numa progressão geométrica de razão 2.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            27.526499999999942,
+            568,
+            380
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            380,
+            291,
+            391.22839999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Questão 11 - UNICAMP 2023 - 1ª fase",
+  "index": 11,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "“Ciclo\nManhã. Sangue em delírio, verde gomo,\nPromessa ardente, berço e liminar:\nA árvore pulsa, no primeiro assomo\nDa vida, inchando a seiva ao sol... Sonhar!\nDia. A flor, — o noivado e o beijo, como\nEm perfumes um tálamo e um altar:\nA árvore abre-se em riso, espera o pomo,\nE canta à voz dos pássaros... Amar!\nTarde. Messe e esplendor, glória e tributo;\nA árvore maternal levanta o fruto,\nA hóstia da ideia em perfeição... Pensar!\nNoite. Oh! saudade!...A dolorosa rama\nDa árvore a aflita pelo chão derrama\nAs folhas, como lágrimas... Lembrar!”\n(BILAC, Olavo. Tarde. 1.ed. Rio de Janeiro; São Paulo; Belo Horizonte: Libraria Francisco\nAlves, p. 12-13, 1919.)\nNo soneto “Ciclo”,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a reiteração de um mesmo tipo de frase no final de cada\nestrofe acentua o idealismo e a rememoração.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a metáfora da árvore faz uso de um vocabulário botânico,\nque evoca o cientificismo da época.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as frases nominais do início das estrofes contradizem os sentidos de cada estrofe anterior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o paralelismo estrutural entre as estrofes de “Ciclo” evoca o\ndesgaste dos recursos do poeta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Ciclo\nManhã. Sangue em delírio, verde gomo,\nPromessa ardente, berço e liminar:\nA árvore pulsa, no primeiro assomo\nDa vida, inchando a seiva ao sol... Sonhar!\nDia. A flor, — o noivado e o beijo, como\nEm perfumes um tálamo e um altar:\nA árvore abre-se em riso, espera o pomo,\nE canta à voz dos pássaros... Amar!\nTarde. Messe e esplendor, glória e tributo;\nA árvore maternal levanta o fruto,\nA hóstia da ideia em perfeição... Pensar!\nNoite. Oh! saudade!...A dolorosa rama\nDa árvore a aflita pelo chão derrama\nAs folhas, como lágrimas... Lembrar!”\n(BILAC, Olavo. Tarde. 1.ed. Rio de Janeiro; São Paulo; Belo Horizonte: Libraria Francisco\nAlves, p. 12-13, 1919.)\nNo soneto “Ciclo”,\na) a reiteração de um mesmo tipo de frase no final de cada\nestrofe acentua o idealismo e a rememoração.\nb) a metáfora da árvore faz uso de um vocabulário botânico,\nque evoca o cientificismo da época.\nc) as frases nominais do início das estrofes contradizem os sen-\ntidos de cada estrofe anterior.\nd) o paralelismo estrutural entre as estrofes de “Ciclo” evoca o\ndesgaste dos recursos do poeta.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            627.5214,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            40,
+            568,
+            378.66319999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

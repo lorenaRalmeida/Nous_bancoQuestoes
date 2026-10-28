@@ -1,0 +1,94 @@
+{
+  "title": "Questão 51 - UNICAMP 2024 - 1ª fase",
+  "index": 51,
+  "year": 2024,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "\"A negação da plena humanidade do Outro, o seu enclausuramento em categorias que lhe são estranhas, a afirmação de sua\nincapacidade inata para o desenvolvimento e aperfeiçoamento\nhumano, a destituição da sua capacidade de produzir cultura\ne civilização prestam-se a afirmar uma razão racializada, que\nhegemoniza e naturaliza a superioridade europeia.\"\n(CARNEIRO, Sueli. Dispositivo de racialidade. A construção do outro como não ser como\nfundamento do ser. São Paulo: Zahar, p. 91, 2023.)\nEscolha a alternativa que apresenta crítica semelhante à de Sueli\nCarneiro.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "\"Tão essencial é a diferença entre essas duas raças humanas\n[branca e negra], que parece ser tão grande em relação às\ncapacidades mentais quanto às diferenças de cores.\" (E. Kant.\nObservações sobre o sentimento do belo e do sublime. Campinas: Papirus, p. 75-\n76,1993.)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "\"É na brutalidade e na selvageria que vemos o homem africano, na medida em que o podemos observar; e assim permanece hoje.\" (Hegel. A razão na história. Lisboa: Edições 70, p. 218.)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“A nossa solução foi medíocre. Estragou as duas raças,\nfundindo-as. O negro perdeu as suas admiráveis qualidades\nfísicas de selvagem, e o branco sofreu a inevitável piora de\ncaráter, consequente a todos os cruzamentos entre raças\ndíspares\". (Personagem Miss Jane, do livro O Presidente Negro, de Monteiro\nLobato. São Paulo: Editora Lafonte, p. 82, 2019.)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "\"Na medida em que o racismo, enquanto discurso, se situa\nentre os discursos de exclusão, o grupo por ele excluído é\ntratado como objeto e não como sujeito.\" (Lélia Gonzales. Cultura, etnicidade e trabalho: efeitos linguísticos e políticos da exploração da mulher\".\nIn: RIOS, F.; LIMA, M. Por um feminismo afro-latino-americano. São Paulo: Zahar,\np. 43, 2020.)",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "\"A negação da plena humanidade do Outro, o seu enclausura-\nmento em categorias que lhe são estranhas, a afirmação de sua\nincapacidade inata para o desenvolvimento e aperfeiçoamento\nhumano, a destituição da sua capacidade de produzir cultura\ne civilização prestam-se a afirmar uma razão racializada, que\nhegemoniza e naturaliza a superioridade europeia.\"\n(CARNEIRO, Sueli. Dispositivo de racialidade. A construção do outro como não ser como\nfundamento do ser. São Paulo: Zahar, p. 91, 2023.)\nEscolha a alternativa que apresenta crítica semelhante à de Sueli\nCarneiro.\na) \"Tão essencial é a diferença entre essas duas raças humanas\n[branca e negra], que parece ser tão grande em relação às\ncapacidades mentais quanto às diferenças de cores.\" (E. Kant.\nObservações sobre o sentimento do belo e do sublime. Campinas: Papirus, p. 75-\n76,1993.)\nb) \"É na brutalidade e na selvageria que vemos o homem afri-\ncano, na medida em que o podemos observar; e assim per-\nmanece hoje.\" (Hegel. A razão na história. Lisboa: Edições 70, p. 218.)\nc) “A nossa solução foi medíocre. Estragou as duas raças,\nfundindo-as. O negro perdeu as suas admiráveis qualidades\nfísicas de selvagem, e o branco sofreu a inevitável piora de\ncaráter, consequente a todos os cruzamentos entre raças\ndíspares\". (Personagem Miss Jane, do livro O Presidente Negro, de Monteiro\nLobato. São Paulo: Editora Lafonte, p. 82, 2019.)\nd) \"Na medida em que o racismo, enquanto discurso, se situa\nentre os discursos de exclusão, o grupo por ele excluído é\ntratado como objeto e não como sujeito.\" (Lélia Gonzales. Cultu-\nra, etnicidade e trabalho: efeitos linguísticos e políticos da exploração da mulher\".\nIn: RIOS, F.; LIMA, M. Por um feminismo afro-latino-americano. São Paulo: Zahar,\np. 43, 2020.)",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            573.7307,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            40,
+            291,
+            258.57079999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

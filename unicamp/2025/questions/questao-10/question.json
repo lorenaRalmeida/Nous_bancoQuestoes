@@ -1,0 +1,136 @@
+{
+  "title": "Questão 10 - UNICAMP 2025 - 1ª fase",
+  "index": 10,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Texto comum às questões 9 e 10.\nOs últimos anos testemunharam a retomada do interesse de alguns países pela exploração da Lua. Diversas missões com destino a esse satélite foram lançadas: Chandrayaan-3 (Índia, 2023),\nLuna 25 (Rússia, 2023), Peregrine Mission One (EUA, 2024),\nSlim (Japão, 2024) e Chang´e 6 (China, 2024).\n\nAo longo da linha que une o centro da Terra ao da Lua (ver\nfigura A), há um ponto P para o qual as forças gravitacionais\n→ →\nda Terra, F , e da Lua, F , exercidas sobre uma sonda, têm\nTerra Lua\nmódulos iguais e sentidos opostos. Isso significa que, no ponto\nP, essas duas forças se cancelam.\nTerra P Lua\n•\nr\n0 1\nd\n(Figura A)\nO gráfico da figura B re→presenta\n→\na componente da aceleração\nresultante a das forças F e F ao longo da referida linha,\nTerra Lua\nsendo r a distância ao centro da Terra e d ≈ 380 000 km a distância Terra-Lua. Valores positivos de a indicam que o vetor\naceleração aponta para a Lua, enquanto que valores negativos\nde a implicam que esse vetor aponta para a Terra.\n0,01\n0\n-0,01\n-0,02\n-0,03\nO ponto P fica aproximadamente a que distância do centro da\nLua?",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "38000 km.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "114000 km.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "266000 km.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "342000 km.\n)2s/m(\na\n-0,04\n0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9\nr\nd (Figura B)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Ao longo da linha que une o centro da Terra ao da Lua (ver\nfigura A), há um ponto P para o qual as forças gravitacionais\n \nda Terra, F , e da Lua, F , exercidas sobre uma sonda, têm\nTerra Lua\nmódulos iguais e sentidos opostos. Isso significa que, no ponto\nP, essas duas forças se cancelam.\nTerra P Lua\n•\nr\n0 1\nd\n(Figura A)\nO gráfico da figura B representa\n\na componente da aceleração\nresultante a das forças F e F ao longo da referida linha,\nTerra Lua\nsendo r a distância ao centro da Terra e d  380 000 km a dis-\ntância Terra-Lua. Valores positivos de a indicam que o vetor\naceleração aponta para a Lua, enquanto que valores negativos\nde a implicam que esse vetor aponta para a Terra.\n0,01\n0\n-0,01\n-0,02\n-0,03\nO ponto P fica aproximadamente a que distância do centro da\nLua?\na) 38000 km.\nb) 114000 km.\nc) 266000 km.\nd) 342000 km.\n)2s/m(\na\n-0,04\n0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9\nr\nd (Figura B)",
+    "sharedContext": "Texto comum às questões 9 e 10.\nOs últimos anos testemunharam a retomada do interesse de alguns países pela exploração da Lua. Diversas missões com destino a esse satélite foram lançadas: Chandrayaan-3 (Índia, 2023),\nLuna 25 (Rússia, 2023), Peregrine Mission One (EUA, 2024),\nSlim (Japão, 2024) e Chang´e 6 (China, 2024).",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            695.3614,
+            568,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            40,
+            291,
+            48.02729999999997
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            242.3628,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 6,
+        "bbox": [
+          39.0395,
+          338.4034,
+          275.4724,
+          370.3007
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 6,
+        "bbox": [
+          69.1469,
+          480.2417,
+          270.4832,
+          626.5395
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

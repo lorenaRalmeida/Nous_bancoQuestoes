@@ -1,0 +1,100 @@
+{
+  "title": "Questão 84 - FUVEST 2025 - 1ª fase",
+  "index": 84,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia os trechos das obras Marília de Dirceu e Romanceiro da\nInconfidência:\nLira VII (Parte II)\n“Meu prezado Glauceste,\nSe fazes o conceito\nQue, bem que réu, abrigo\nA cândida Virtude no meu peito;\nSe julgas, digo, que mereço ainda\nDa tua mão socorro;\nAh! Vem dar-mo agora,\nAgora, sim, que morro!\nNão quero que, montado\nNo Pégaso fogoso,\nVenhas com dura lança\nAo monstro infame traspassar, raivoso.\nDeixa que viva a pérfida calúnia,\nE forje o meu tormento:\nCom menos, meu Glauceste,\nCom menos me contento.”\nTomás Antônio Gonzaga. Marília de Dirceu.\nRomance LXVI ou De Outros Maldizentes\n“- Que fica, na fortaleza,\ndaquele poeta Gonzaga?\n- Um par de esporas, somente.\nUm par de esporas de prata.\n(...)\nDizem que tinha um cavalo\nque Pégaso se chamava.\nNão pisava neste mundo,\nmas nos planaltos da Arcádia!”\nCecília Meireles. Romanceiro da Inconfidência.\nConsiderando o substantivo Pégaso, presente nos dois\nexcertos, é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "No poema de Cecília Meireles, a referência tem por\nobjetivo destacar o animal mítico, enquanto na lira de\nGonzaga o substantivo se refere a um animal real.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "No poema de Gonzaga, a referência ao animal mitológico\nserve para aludir às características heroicas de Glauceste,\nenquanto, no poema de Cecília Meireles, Pégaso alude à\ncriação poética.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Por pretender um tom épico, Cecília Meireles usa o animal\nmitológico para distinguir a condição heroica do poeta,\nenquanto Gonzaga se refere às suas diferenças com\nGlauceste.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "No poema de Cecília Meireles, a metáfora do cavalo alado\nindica a evasão da realidade, típica dos poetas árcades,\nenquanto, no poema de Gonzaga, a referência ao animal\nserve para aludir às suas próprias características heroicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A referência ao cavalo alado provoca um efeito de\nestranhamento no leitor, tendo em vista as características\nespecíficas de cada obra poética.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nLeia os trechos das obras Marília de Dirceu e Romanceiro da\nInconfidência:\nLira VII (Parte II)\n“Meu prezado Glauceste,\nSe fazes o conceito\nQue, bem que réu, abrigo\nA cândida Virtude no meu peito;\nSe julgas, digo, que mereço ainda\nDa tua mão socorro;\nAh! Vem dar-mo agora,\nAgora, sim, que morro!\nNão quero que, montado\nNo Pégaso fogoso,\nVenhas com dura lança\nAo monstro infame traspassar, raivoso.\nDeixa que viva a pérfida calúnia,\nE forje o meu tormento:\nCom menos, meu Glauceste,\nCom menos me contento.”\nTomás Antônio Gonzaga. Marília de Dirceu.\nRomance LXVI ou De Outros Maldizentes\n“- Que fica, na fortaleza,\ndaquele poeta Gonzaga?\n- Um par de esporas, somente.\nUm par de esporas de prata.\n(...)\nDizem que tinha um cavalo\nque Pégaso se chamava.\nNão pisava neste mundo,\nmas nos planaltos da Arcádia!”\nCecília Meireles. Romanceiro da Inconfidência.\nConsiderando o substantivo Pégaso, presente nos dois\nexcertos, é correto afirmar:\n(A) No poema de Cecília Meireles, a referência tem por\nobjetivo destacar o animal mítico, enquanto na lira de\nGonzaga o substantivo se refere a um animal real.\n(B) No poema de Gonzaga, a referência ao animal mitológico\nserve para aludir às características heroicas de Glauceste,\nenquanto, no poema de Cecília Meireles, Pégaso alude à\ncriação poética.\n(C) Por pretender um tom épico, Cecília Meireles usa o animal\nmitológico para distinguir a condição heroica do poeta,\nenquanto Gonzaga se refere às suas diferenças com\nGlauceste.\n(D) No poema de Cecília Meireles, a metáfora do cavalo alado\nindica a evasão da realidade, típica dos poetas árcades,\nenquanto, no poema de Gonzaga, a referência ao animal\nserve para aludir às suas próprias características heroicas.\n(E) A referência ao cavalo alado provoca um efeito de\nestranhamento no leitor, tendo em vista as características\nespecíficas de cada obra poética.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 31,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "topic": "Intertextualidade e referência a Pégaso",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

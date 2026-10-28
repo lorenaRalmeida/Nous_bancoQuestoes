@@ -1,0 +1,108 @@
+{
+  "title": "Questão 34 - UNESP 2025 - 1ª fase",
+  "index": 34,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Leia o excerto para responder às questões 33 e 34.\nO boom na mineração do ouro, em Minas Gerais, mudou\npoderosamente o centro de gravidade da economia e da população brasileiras do Norte para o Centro e o Sul. [...] Embora os baianos tivessem voz considerável nos investimentos\nfeitos dentro das zonas de mineração, a logística do transporte pelo interior fez com que a balança comercial para e a\npartir das províncias do interior pendesse para as cidades do\nSul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso\ntornaram-se a hinterlândia crucial do porto do Rio de Janeiro.\nO Rio de Janeiro logo ultrapassou a Bahia em transporte marítimo e comércio internacional, e chegou rapidamente a uma\npopulação de 50 mil habitantes na capital. A Coroa reconheceu esta nova realidade [...], mudando a capital da colônia de\nSalvador para o Rio de Janeiro, em 1763.\n(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)\n\nA exploração do ouro na América portuguesa, a partir do\nséculo XVII,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumentou a geração de recursos na colônia e permitiu a\nintensificação do comércio com as Índias orientais portuguesas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "criou novas estratégias administrativas na colônia e\nestimulou o comércio internacional através do oceano\nAtlântico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "gerou concentração de recursos econômicos apenas na\nmetrópole e impediu a integração da colônia ao sistema\neconômico mundial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ocorreu durante o período da União Ibérica e foi facilitada\npelo domínio espanhol de técnicas avançadas de extrativismo mineral.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "alterou a circulação de mercadorias entre América e Europa e estimulou a adoção de medidas de liberalização\nno comércio mundial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A exploração do ouro na América portuguesa, a partir do\nséculo XVII,\n(A) aumentou a geração de recursos na colônia e permitiu a\nintensificação do comércio com as Índias orientais por-\ntuguesas.\n(B) criou novas estratégias administrativas na colônia e\nestimulou o comércio internacional através do oceano\nAtlântico.\n(C) gerou concentração de recursos econômicos apenas na\nmetrópole e impediu a integração da colônia ao sistema\neconômico mundial.\n(D) ocorreu durante o período da União Ibérica e foi facilitada\npelo domínio espanhol de técnicas avançadas de extra-\ntivismo mineral.\n(E) alterou a circulação de mercadorias entre América e Eu-\nropa e estimulou a adoção de medidas de liberalização\nno comércio mundial.",
+    "sharedContext": "Leia o excerto para responder às questões 33 e 34.\nO boom na mineração do ouro, em Minas Gerais, mudou\npoderosamente o centro de gravidade da economia e da população brasileiras do Norte para o Centro e o Sul. [...] Embora os baianos tivessem voz considerável nos investimentos\nfeitos dentro das zonas de mineração, a logística do transporte pelo interior fez com que a balança comercial para e a\npartir das províncias do interior pendesse para as cidades do\nSul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso\ntornaram-se a hinterlândia crucial do porto do Rio de Janeiro.\nO Rio de Janeiro logo ultrapassou a Bahia em transporte marítimo e comércio internacional, e chegou rapidamente a uma\npopulação de 50 mil habitantes na capital. A Coroa reconheceu esta nova realidade [...], mudando a capital da colônia de\nSalvador para o Rio de Janeiro, em 1763.\n(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            257.15329999999994
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            503.9328,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Questão 59 - UNESP 2025 - 1ª fase",
+  "index": 59,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Texto 1\nA obra Organon constitui o primeiro estudo amplo da\ndisciplina Lógica, embora falte essa palavra para designá-la.\nNo início de Analíticos, Aristóteles define a disciplina que se\nprepara para investigar como ciência da demonstração e do\nsaber demonstrativo. Distingue dois tipos de discurso, dialético e demonstrativo: o primeiro parte do problemático e do\nprovável e termina necessariamente no provável; o segundo\nparte do verdadeiro e termina no verdadeiro.\n(Nicola Abbagnano. Dicionário de filosofia, 2007. Adaptado.)\nTexto 2\nNo Livro I, capítulo 1 de sua obra Primeiros Analíticos,\nAristóteles define o que é um silogismo perfeito: “Silogismo é\num argumento no qual, colocadas certas coisas, outra distinta das estabelecidas decorre necessariamente, porque essas\ncoisas são o caso. Por ‘porque essas coisas são o caso’ quero dizer decorrer em virtude delas; por ‘decorrer em virtude\ndelas’ quero dizer não carecer de nenhum termo externo para\nque o necessário venha a ser o caso”.\n(Mateus R. F. Ferreira. “O que são silogismos perfeitos?”.\nhttps://revistas.ufpr.br/doispontos, 2013. Adaptado.)\nNos textos 1 e 2 está apresentada uma das principais contribuições de Aristóteles para a história da filosofia. Tal contribuição refere-se",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à estruturação do conhecimento dedutivo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "ao método de classificação sistemática.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à refutação do dualismo platônico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ao princípio do justo meio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "à concepção teleológica de cosmos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\nA obra Organon constitui o primeiro estudo amplo da\ndisciplina Lógica, embora falte essa palavra para designá-la.\nNo início de Analíticos, Aristóteles define a disciplina que se\nprepara para investigar como ciência da demonstração e do\nsaber demonstrativo. Distingue dois tipos de discurso, dialé-\ntico e demonstrativo: o primeiro parte do problemático e do\nprovável e termina necessariamente no provável; o segundo\nparte do verdadeiro e termina no verdadeiro.\n(Nicola Abbagnano. Dicionário de filosofia, 2007. Adaptado.)\nTexto 2\nNo Livro I, capítulo 1 de sua obra Primeiros Analíticos,\nAristóteles define o que é um silogismo perfeito: “Silogismo é\num argumento no qual, colocadas certas coisas, outra distin-\nta das estabelecidas decorre necessariamente, porque essas\ncoisas são o caso. Por ‘porque essas coisas são o caso’ que-\nro dizer decorrer em virtude delas; por ‘decorrer em virtude\ndelas’ quero dizer não carecer de nenhum termo externo para\nque o necessário venha a ser o caso”.\n(Mateus R. F. Ferreira. “O que são silogismos perfeitos?”.\nhttps://revistas.ufpr.br/doispontos, 2013. Adaptado.)\nNos textos 1 e 2 está apresentada uma das principais contri-\nbuições de Aristóteles para a história da filosofia. Tal contri-\nbuição refere-se\n(A) à estruturação do conhecimento dedutivo.\n(B) ao método de classificação sistemática.\n(C) à refutação do dualismo platônico.\n(D) ao princípio do justo meio.\n(E) à concepção teleológica de cosmos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            466.7313
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 42 - UNICAMP 2023 - 1ª fase",
+  "index": 42,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "As relações ecológicas podem ser representadas por modelos\nde fluxo de energia, cujas principais vantagens são as representações dos decompositores, da matéria orgânica armazenada no sistema e da energia dispendida para a manutenção\ndos organismos. O modelo hipotético a seguir indica os valores\n(kcal/m2/ano) de produtividade primária bruta (PPB), de produtividade primária líquida (PPL), de produtividade secundária líquida (PSL) e do fluxo de energia (setas). Os valores dentro das\nsetas indicam a energia assimilada pelo próximo nível trófico.\nConsiderando os dados apresentados, é correto afirmar que a\nenergia",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "utilizada para a manutenção do consumidor primário é de\n40 kcal/m2/ano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "direcionada aos decompositores é de 352 kcal/m2/ano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "consumida na manutenção dos autotróficos é de 700 kcal/\nm2/ano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "assimilada pelos carnívoros é de 270 kcal/m2/ano.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As relações ecológicas podem ser representadas por modelos\nde fluxo de energia, cujas principais vantagens são as repre-\nsentações dos decompositores, da matéria orgânica armaze-\nnada no sistema e da energia dispendida para a manutenção\ndos organismos. O modelo hipotético a seguir indica os valores\n(kcal/m2/ano) de produtividade primária bruta (PPB), de produ-\ntividade primária líquida (PPL), de produtividade secundária lí-\nquida (PSL) e do fluxo de energia (setas). Os valores dentro das\nsetas indicam a energia assimilada pelo próximo nível trófico.\nConsiderando os dados apresentados, é correto afirmar que a\nenergia\na) utilizada para a manutenção do consumidor primário é de\n40 kcal/m2/ano.\nb) direcionada aos decompositores é de 352 kcal/m2/ano.\nc) consumida na manutenção dos autotróficos é de 700 kcal/\nm2/ano.\nd) assimilada pelos carnívoros é de 270 kcal/m2/ano.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            548.296,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            40,
+            568,
+            226.115
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

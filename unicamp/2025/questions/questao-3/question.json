@@ -1,0 +1,94 @@
+{
+  "title": "Questão 3 - UNICAMP 2025 - 1ª fase",
+  "index": 3,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "2500\n2000\n1500\n1000\n500\n0\nC\nosta d o Mar fi m Ga na I n d o nésia E q ua d o C r a mar ões Ni géria Brasil\nblica\nP e D r u o mi nica na C ol ô m bia\nú\np\nRe\n(https://www.fao.org/faostat/es/#rankings/countries_by_commodity. Acesso em\n23/05/2024.)\nOriginário do continente americano, o cacau pôde se difundir\nem regiões africanas com características naturais similares às encontradas na América do Sul, de tal modo que, na atualidade, o\ncontinente africano se tornou o maior produtor e exportador de\ncacau do mundo, sendo elo fundamental dos circuitos espaciais\nde produção, distribuição e consumo do chocolate no mundo.\nIndique a principal região cacaueira do continente africano,\nassociando-a às condições socioambientais de produção.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "África ocidental, na costa do Golfo da Guiné, em áreas de\nfloresta equatorial-tropical; cultivo sob forte custo ecológico\ne colheita manual.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "África setentrional, na costa do Estreito de Gibraltar, em áreas de floresta mediterrânea; cultivo com manejo sustentável\nda floresta e colheita mecanizada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "África ocidental, na costa do Golfo da Guiné, em áreas de\nfloresta mediterrânea; cultivo com manejo sustentável da\nfloresta e colheita mecanizada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "África setentrional, na costa do Estreito de Gibraltar, em\náreas de floresta equatorial-tropical; cultivo sob forte custo\necológico e colheita manual.\nsadalenoT\nOs dez maiores produtores de grãos de cacau no\nmundo − em mil toneladas (2022)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "2500\n2000\n1500\n1000\n500\n0\nC\nosta d o Mar fi m Ga na I n d o nésia E q ua d o C r a mar ões Ni géria Brasil\nblica\nP e D r u o mi nica na C ol ô m bia\nú\np\nRe\n(https://www.fao.org/faostat/es/#rankings/countries_by_commodity. Acesso em\n23/05/2024.)\nOriginário do continente americano, o cacau pôde se difundir\nem regiões africanas com características naturais similares às en-\ncontradas na América do Sul, de tal modo que, na atualidade, o\ncontinente africano se tornou o maior produtor e exportador de\ncacau do mundo, sendo elo fundamental dos circuitos espaciais\nde produção, distribuição e consumo do chocolate no mundo.\nIndique a principal região cacaueira do continente africano,\nassociando-a às condições socioambientais de produção.\na) África ocidental, na costa do Golfo da Guiné, em áreas de\nfloresta equatorial-tropical; cultivo sob forte custo ecológico\ne colheita manual.\nb) África setentrional, na costa do Estreito de Gibraltar, em áre-\nas de floresta mediterrânea; cultivo com manejo sustentável\nda floresta e colheita mecanizada.\nc) África ocidental, na costa do Golfo da Guiné, em áreas de\nfloresta mediterrânea; cultivo com manejo sustentável da\nfloresta e colheita mecanizada.\nd) África setentrional, na costa do Estreito de Gibraltar, em\náreas de floresta equatorial-tropical; cultivo sob forte custo\necológico e colheita manual.\nsadalenoT\nOs dez maiores produtores de grãos de cacau no\nmundo − em mil toneladas (2022)",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            245.37630000000001,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            40,
+            291,
+            46.0376
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

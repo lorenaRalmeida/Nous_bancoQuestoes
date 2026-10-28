@@ -1,0 +1,92 @@
+{
+  "title": "Questão 62 - UNICAMP 2026 - 1ª fase",
+  "index": 62,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "No conto “Réplica”, que integra a coletânea No seu pescoço,\nde Chimamanda Adichie, a protagonista vive",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o choque cultural, consequente das diásporas africanas contemporâneas, reelaborado pelas observações de Nkem.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "as contradições culturais, consequentes do processo de recolonização da Nigéria, expressas pelos negócios ilícitos de\nObiora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a opressão feminina, consequente da falência do modelo\nafricano de sororidade, como no relato de Ijemamaka.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o sentimento de nacionalismo, consequente das saudades\nde práticas culturais, como no estranhamento dos vizinhos\nbrancos (povo oyibo).\n(ADICHIE, C. N. No seu pescoço. Tradução: Júlia Romeu. São Paulo: Companhia das Letras, 2017.)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No conto “Réplica”, que integra a coletânea No seu pescoço,\nde Chimamanda Adichie, a protagonista vive\na) o choque cultural, consequente das diásporas africanas con-\ntemporâneas, reelaborado pelas observações de Nkem.\nb) as contradições culturais, consequentes do processo de re-\ncolonização da Nigéria, expressas pelos negócios ilícitos de\nObiora.\nc) a opressão feminina, consequente da falência do modelo\nafricano de sororidade, como no relato de Ijemamaka.\nd) o sentimento de nacionalismo, consequente das saudades\nde práticas culturais, como no estranhamento dos vizinhos\nbrancos (povo oyibo).\n(ADICHIE, C. N. No seu pescoço. Tradução: Júlia Romeu. São Paulo: Companhia das Le-\ntras, 2017.)",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            709.3118999999999,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            40,
+            568,
+            187.42989999999998
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

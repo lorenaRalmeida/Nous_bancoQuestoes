@@ -417,3 +417,64 @@ body.dark .hero {
   body.dark .auth-mobile-logo .logo-for-light { display: none; }
   body.dark .auth-mobile-logo .logo-for-dark { display: block; }
 }
+.vestibulares-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.vestibular-card {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 22px;
+  position: relative;
+  overflow: hidden;
+  background: var(--bg-card, #fff);
+  border: 1px solid rgba(126, 87, 194, .18);
+  border-radius: 16px;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.vestibular-card:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(68, 39, 115, .12); }
+.vestibular-card .vestibular-sigla {
+  display: inline-block;
+  font-size: .78rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  color: #6f42aa;
+  background: rgba(132, 88, 193, .12);
+  padding: 7px 11px;
+  border-radius: 9px;
+}
+.vestibular-card h3 { margin: 0; color: var(--text-main, #252035); font-size: 1.08rem; }
+.vestibular-card p { margin: 0 0 6px; color: var(--text-muted, #6d6877); font-size: .9rem; line-height: 1.5; flex: 1; }
+.vestibular-card .vestibular-botao {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background: #7043ae;
+  color: #fff;
+  border-radius: 10px;
+  padding: 11px 15px;
+  font-size: .88rem;
+  font-weight: 700;
+  position: relative;
+  z-index: 1;
+}
+.vestibular-card .vestibular-botao:hover { background: #59338d; }
+.sidebar-group-label {
+  padding: 16px 14px 7px;
+  font-size: .7rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--text-muted, #756c84);
+}
+.sidebar .menu .vestibular-nav { padding-left: 22px; font-weight: 600; }
+body.dark .vestibular-card { background: var(--bg-card, #242035); border-color: rgba(189, 154, 238, .2); }
+body.dark .vestibular-card .vestibular-sigla { color: #dfc2ff; background: rgba(180, 135, 235, .16); }
+body.dark .vestibular-card h3 { color: var(--text-main, #f4efff); }
+body.dark .vestibular-card p { color: var(--text-muted, #c4bcd2); }
+@media (max-width: 800px) { .vestibulares-grid { grid-template-columns: 1fr; } }

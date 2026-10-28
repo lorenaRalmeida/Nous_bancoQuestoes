@@ -1,0 +1,92 @@
+{
+  "title": "Questão 12 - UNICAMP 2023 - 1ª fase",
+  "index": 12,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "“Deus fez o mar, as árvore, as criança, o amor\nO homem me deu a favela, o crack, a trairagem, as arma, as\nbebida, as puta\nEu?! Eu tenho uma Bíblia velha, uma pistola automática e\num sentimento de revolta\nEu tô tentando sobreviver no inferno”.\n(RACIONAIS MC’S. Gênesis. In: Sobrevivendo no inferno. São Paulo: Companhia das Letras, p. 45, 2018.)\nA palavra “Gênesis” dá nome ao primeiro livro da Bíblia. Considerando a obra, na íntegra, dos Racionais MC’s e o excerto\nacima dela reproduzido, pode-se dizer que, em relação a esse\ntrecho, “gênesis” seria uma alusão",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à influência do cristianismo na dinâmica das comunidades\nperiféricas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ao colapso planetário entrevisto já na origem do mundo natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à origem divina do mundo contraposta aos problemas criados pelo homem.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "à origem religiosa dos conflitos armados e da violência social\nno Brasil.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Deus fez o mar, as árvore, as criança, o amor\nO homem me deu a favela, o crack, a trairagem, as arma, as\nbebida, as puta\nEu?! Eu tenho uma Bíblia velha, uma pistola automática e\num sentimento de revolta\nEu tô tentando sobreviver no inferno”.\n(RACIONAIS MC’S. Gênesis. In: Sobrevivendo no inferno. São Paulo: Companhia das Le-\ntras, p. 45, 2018.)\nA palavra “Gênesis” dá nome ao primeiro livro da Bíblia. Con-\nsiderando a obra, na íntegra, dos Racionais MC’s e o excerto\nacima dela reproduzido, pode-se dizer que, em relação a esse\ntrecho, “gênesis” seria uma alusão\na) à influência do cristianismo na dinâmica das comunidades\nperiféricas.\nb) ao colapso planetário entrevisto já na origem do mundo na-\ntural.\nc) à origem divina do mundo contraposta aos problemas cria-\ndos pelo homem.\nd) à origem religiosa dos conflitos armados e da violência social\nno Brasil.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            378.66319999999996,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

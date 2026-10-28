@@ -1,0 +1,90 @@
+{
+  "title": "Questão 51 - FUVEST 2025 - 1ª fase",
+  "index": 51,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A figura a seguir representa a variação espacial da\ntemperatura do ar por tipo de área, considerando diferentes\npadrões de uso e ocupação do solo de um município.\nRevista Pesquisa FAPESP – Setembro/2023 (Adaptado).\nA explicação para as características desse perfil de\ntemperatura do ar deve-se",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à maior ocorrência de áreas verdes nas periferias, que\nabsorvem mais radiação solar e aquecem o ambiente,\nultrapassando os 32 °C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à maior absorção de radiação solar nas áreas centrais das\ncidades, compostas em sua maioria por asfalto, vidro e\nconcreto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "ao efeito de sombreamento dos edifícios nas áreas\ncentrais, com maior disponibilidade de radiação solar e\ntemperaturas inferiores a 30 °C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à presença de áreas comerciais e residenciais ao longo de\ntodo perfil, que elevam a temperatura acima dos 32 °C e\nreduzem a umidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "à maior reflexão da radiação solar nas áreas centrais pelo\nasfalto, por apresentarem albedo menor que as\nsuperfícies vegetadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA figura a seguir representa a variação espacial da\ntemperatura do ar por tipo de área, considerando diferentes\npadrões de uso e ocupação do solo de um município.\nRevista Pesquisa FAPESP – Setembro/2023 (Adaptado).\nA explicação para as características desse perfil de\ntemperatura do ar deve-se\n(A) à maior ocorrência de áreas verdes nas periferias, que\nabsorvem mais radiação solar e aquecem o ambiente,\nultrapassando os 32 °C.\n(B) à maior absorção de radiação solar nas áreas centrais das\ncidades, compostas em sua maioria por asfalto, vidro e\nconcreto.\n(C) ao efeito de sombreamento dos edifícios nas áreas\ncentrais, com maior disponibilidade de radiação solar e\ntemperaturas inferiores a 30 °C.\n(D) à presença de áreas comerciais e residenciais ao longo de\ntodo perfil, que elevam a temperatura acima dos 32 °C e\nreduzem a umidade.\n(E) à maior reflexão da radiação solar nas áreas centrais pelo\nasfalto, por apresentarem albedo menor que as\nsuperfícies vegetadas.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            489.35470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Ilha de calor e uso do solo urbano",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

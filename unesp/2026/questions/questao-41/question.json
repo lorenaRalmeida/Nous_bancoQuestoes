@@ -1,0 +1,98 @@
+{
+  "title": "Questão 41 - UNESP 2026 - 1ª fase",
+  "index": 41,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Analise parte da letra da música “Tô ouvindo alguém me chamar”, de Mano Brown, faixa de Sobrevivendo no inferno, álbum lançado em 1997 pelos Racionais MC’s.\nNunca mais vi meu irmão\nDiz que ele pergunta de mim (não sei não)\nA gente nunca teve muito a ver\nOutra ideia, outro rolê\nOs maluco lá do bairro\nJá falava de revólver, droga, carro\nPela janela da classe, eu olhava lá fora\nA rua me atraía mais do que a escola\nFiz dezessete, tinha que sobreviver\nAgora eu era um homem, tinha que correr\nNo mundão você vale o que tem\nEu não podia contar com ninguém\n[...] fica você com seu sonho de doutô\nQuando acordar cê me avisa, morô?\nEu e meu irmão era como óleo e água\nQuando eu saí de casa trouxe muita mágoa\nIsso há mais ou menos seis anos atrás [...]\nMeu sobrinho nasceu\nDiz que o rosto dele é parecido com o meu\nÉ, diz...\nUm pivete eu sempre quis\nMeu irmão merece ser feliz\nDeve estar a essa altura\nBem perto de fazer a formatura\nAcho que é direito, advocacia\nAcho que era isso que ele queria\nSinceramente, eu me sinto feliz\nGraças a Deus, não fez o que eu fiz\nMinha finada mãe, proteja o seu menino\nO diabo agora guia o meu destino\nSe o júri for generoso comigo\nQuinze anos pra cada latrocínio\nSem dinheiro pra me defender [...]\n(Sobrevivendo no inferno, 2018.)\nO excerto da letra identifica",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o reconhecimento da criminalidade como problema de\ncaráter moral nas áreas de grande concentração populacional no Brasil republicano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a denúncia da inexistência de políticas públicas, durante\no regime militar brasileiro, voltadas ao acolhimento de jovens negros das periferias das grandes cidades.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a constatação dos efeitos do racismo estrutural, surgido\nna sociedade brasileira após a abolição da escravidão\nnos anos finais do Segundo Reinado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o contraste entre os padrões normatizados de conduta na\nsociedade brasileira contemporânea e a marginalização\nsocial de parte da população pobre.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "a supressão, após o fim do regime militar brasileiro, das\npolíticas educacionais e do estímulo ao emprego para a\npopulação negra das grandes metrópoles.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise parte da letra da música “Tô ouvindo alguém me cha-\nmar”, de Mano Brown, faixa de Sobrevivendo no inferno, ál-\nbum lançado em 1997 pelos Racionais MC’s.\nNunca mais vi meu irmão\nDiz que ele pergunta de mim (não sei não)\nA gente nunca teve muito a ver\nOutra ideia, outro rolê\nOs maluco lá do bairro\nJá falava de revólver, droga, carro\nPela janela da classe, eu olhava lá fora\nA rua me atraía mais do que a escola\nFiz dezessete, tinha que sobreviver\nAgora eu era um homem, tinha que correr\nNo mundão você vale o que tem\nEu não podia contar com ninguém\n[...] fica você com seu sonho de doutô\nQuando acordar cê me avisa, morô?\nEu e meu irmão era como óleo e água\nQuando eu saí de casa trouxe muita mágoa\nIsso há mais ou menos seis anos atrás [...]\nMeu sobrinho nasceu\nDiz que o rosto dele é parecido com o meu\nÉ, diz...\nUm pivete eu sempre quis\nMeu irmão merece ser feliz\nDeve estar a essa altura\nBem perto de fazer a formatura\nAcho que é direito, advocacia\nAcho que era isso que ele queria\nSinceramente, eu me sinto feliz\nGraças a Deus, não fez o que eu fiz\nMinha finada mãe, proteja o seu menino\nO diabo agora guia o meu destino\nSe o júri for generoso comigo\nQuinze anos pra cada latrocínio\nSem dinheiro pra me defender [...]\n(Sobrevivendo no inferno, 2018.)\nO excerto da letra identifica\n(A) o reconhecimento da criminalidade como problema de\ncaráter moral nas áreas de grande concentração popula-\ncional no Brasil republicano.\n(B) a denúncia da inexistência de políticas públicas, durante\no regime militar brasileiro, voltadas ao acolhimento de jo-\nvens negros das periferias das grandes cidades.\n(C) a constatação dos efeitos do racismo estrutural, surgido\nna sociedade brasileira após a abolição da escravidão\nnos anos finais do Segundo Reinado.\n(D) o contraste entre os padrões normatizados de conduta na\nsociedade brasileira contemporânea e a marginalização\nsocial de parte da população pobre.\n(E) a supressão, após o fim do regime militar brasileiro, das\npolíticas educacionais e do estímulo ao emprego para a\npopulação negra das grandes metrópoles.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Questão 66 - UNESP 2023 - 1ª fase",
+  "index": 66,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Analise o esquema de um jogo de palavras cruzadas.\nAs informações para que as sequências 1, 2 e 3 sejam\npreenchidas com os termos que completam as palavras\ncruzadas são:",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1: região de acúmulo de RNA ribossômico recém-\n-sintetizado\n2: conteúdo dos lisossomos\n3: unidade estrutural e funcional dos seres vivos",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\n2: conteúdo dos lisossomos\n3: órgãos que apresentam células que sofrem meioses",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1: unidade estrutural e funcional dos seres vivos\n2: órgãos que apresentam células que sofrem meioses\n3: conteúdo dos lisossomos",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1: organela em que se dá a síntese proteica\n2: o mesmo que permutação cromossômica\n3: órgãos que apresentam células que sofrem meioses",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\n2: organela em que se dá a síntese proteica\n3: região de acúmulo de RNA ribossômico recém-sintetizado",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o esquema de um jogo de palavras cruzadas.\nAs informações para que as sequências 1, 2 e 3 sejam\npreenchidas com os termos que completam as palavras\ncruzadas são:\n(A) 1: região de acúmulo de RNA ribossômico recém-\n-sintetizado\n2: conteúdo dos lisossomos\n3: unidade estrutural e funcional dos seres vivos\n(B) 1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\n2: conteúdo dos lisossomos\n3: órgãos que apresentam células que sofrem meioses\n(C) 1: unidade estrutural e funcional dos seres vivos\n2: órgãos que apresentam células que sofrem meioses\n3: conteúdo dos lisossomos\n(D) 1: organela em que se dá a síntese proteica\n2: o mesmo que permutação cromossômica\n3: órgãos que apresentam células que sofrem meioses\n(E) 1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\n2: organela em que se dá a síntese proteica\n3: região de acúmulo de RNA ribossômico recém-sintetizado",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            22,
+            568,
+            28.943899999999985
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 24,
+        "bbox": [
+          30,
+          60.94100000000003,
+          291,
+          299.188
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

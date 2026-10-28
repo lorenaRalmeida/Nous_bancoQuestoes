@@ -1,0 +1,100 @@
+{
+  "title": "Questão 64 - UNESP 2026 - 1ª fase",
+  "index": 64,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Analise a teia alimentar que apresenta organismos de diferentes níveis tróficos em equilíbrio ecológico.\n(Neil A. Campbell et al. Biology: concepts\nand connections, 2009. Adaptado.)\nA análise da teia alimentar revela que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "quatro espécies são consumidoras terciárias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cinco espécies ocupam ao menos dois níveis tróficos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "uma única espécie ocupa o quarto nível trófico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "três espécies são consumidoras quaternárias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "seis espécies ocupam um único nível trófico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a teia alimentar que apresenta organismos de dife-\nrentes níveis tróficos em equilíbrio ecológico.\n(Neil A. Campbell et al. Biology: concepts\nand connections, 2009. Adaptado.)\nA análise da teia alimentar revela que\n(A) quatro espécies são consumidoras terciárias.\n(B) cinco espécies ocupam ao menos dois níveis tróficos.\n(C) uma única espécie ocupa o quarto nível trófico.\n(D) três espécies são consumidoras quaternárias.\n(E) seis espécies ocupam um único nível trófico.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

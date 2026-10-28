@@ -1,0 +1,113 @@
+{
+  "title": "Questão 58 - UNESP 2026 - 1ª fase",
+  "index": 58,
+  "year": 2026,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "O telescópio utilizado por Galileu, construído em 1609-\n1610, era composto de uma lente convergente, a objetiva,\nque, por ser mais fina nas bordas do que no centro, defletia\nmais a luz das bordas do que do centro, convergindo os raios\nparalelos para um foco; e uma lente divergente, a ocular,\nque magnificava a imagem. Kepler, em seu livro Dioptrice,\npublicado em 1611, argumentou que seria melhor construir\num telescópio com duas lentes convergentes, como se usa\natualmente. Kepler afirmou que uma lente convergente na\nocular, posicionada após o foco da lente objetiva, produzia\num campo maior e com maior magnificação do que uma lente\ndivergente, embora a imagem resultasse invertida.\n(Kepler de Souza Oliveira Filho e Maria de Fátima\nOliveira Saraiva. http://astro.if.ufrgs.br, 2024. Adaptado.)\nNo contexto da filosofia renascentista e moderna, o desenvolvimento tecnológico descrito no excerto e demonstrado na\nimagem simboliza a",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ênfase na experiência sensível para a confirmação das\ncrenças metafísicas medievais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "utilização da tecnologia como estratégia para o controle\npolítico das ideias dissidentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "retomada das explicações cosmológicas da tradição aristotélica reforçadas por dados mais precisos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "valorização da razão humana junto à observação como\nformas autônomas de compreender o universo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "ilustração do papel secundário da teoria frente ao desenvolvimento instrumental.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O telescópio utilizado por Galileu, construído em 1609-\n1610, era composto de uma lente convergente, a objetiva,\nque, por ser mais fina nas bordas do que no centro, defletia\nmais a luz das bordas do que do centro, convergindo os raios\nparalelos para um foco; e uma lente divergente, a ocular,\nque magnificava a imagem. Kepler, em seu livro Dioptrice,\npublicado em 1611, argumentou que seria melhor construir\num telescópio com duas lentes convergentes, como se usa\natualmente. Kepler afirmou que uma lente convergente na\nocular, posicionada após o foco da lente objetiva, produzia\num campo maior e com maior magnificação do que uma lente\ndivergente, embora a imagem resultasse invertida.\n(Kepler de Souza Oliveira Filho e Maria de Fátima\nOliveira Saraiva. http://astro.if.ufrgs.br, 2024. Adaptado.)\nNo contexto da filosofia renascentista e moderna, o desen-\nvolvimento tecnológico descrito no excerto e demonstrado na\nimagem simboliza a\n(A) ênfase na experiência sensível para a confirmação das\ncrenças metafísicas medievais.\n(B) utilização da tecnologia como estratégia para o controle\npolítico das ideias dissidentes.\n(C) retomada das explicações cosmológicas da tradição aris-\ntotélica reforçadas por dados mais precisos.\n(D) valorização da razão humana junto à observação como\nformas autônomas de compreender o universo.\n(E) ilustração do papel secundário da teoria frente ao desen-\nvolvimento instrumental.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 24,
+        "bbox": [
+          304,
+          194.091,
+          568,
+          365.23699999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

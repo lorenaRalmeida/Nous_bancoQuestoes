@@ -1,0 +1,100 @@
+{
+  "title": "Questão 63 - FUVEST 2023 - 1ª fase",
+  "index": 63,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A figura representa o ciclo da leishmania, causadora da\nleishmaniose.\nMOREIRA et al. 2020. “Aspectos fundamentais da leishmaniose cutânea no\nBrasil”. DOI:10.22533/at.ed.4852012037. Adaptado.\nO parasita sobrevive nas células do hospedeiro mamífero pela\ninativação de enzimas da(o) I , o que bloqueia a digestão\nintracelular e possibilita a continuidade do ciclo da\nleishmania. Uma das formas de se prevenir a transmissão\ndessa doença é II .\nAs lacunas I e II podem ser preenchidas corretamente por:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mitocôndria e morando em zonas urbanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mitocôndria e ingerindo antibióticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "núcleo e eutanasiando cães infectados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "lisossomo e tratando esgotos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "lisossomo e utilizando repelente.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A figura representa o ciclo da leishmania, causadora da\nleishmaniose.\nMOREIRA et al. 2020. “Aspectos fundamentais da leishmaniose cutânea no\nBrasil”. DOI:10.22533/at.ed.4852012037. Adaptado.\nO parasita sobrevive nas células do hospedeiro mamífero pela\ninativação de enzimas da(o) I , o que bloqueia a digestão\nintracelular e possibilita a continuidade do ciclo da\nleishmania. Uma das formas de se prevenir a transmissão\ndessa doença é II .\nAs lacunas I e II podem ser preenchidas corretamente por:\n(A) mitocôndria e morando em zonas urbanas.\n(B) mitocôndria e ingerindo antibióticos.\n(C) núcleo e eutanasiando cães infectados.\n(D) lisossomo e tratando esgotos.\n(E) lisossomo e utilizando repelente.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            297.5,
+            357.47470000000004,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Leishmaniose e digestão intracelular",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

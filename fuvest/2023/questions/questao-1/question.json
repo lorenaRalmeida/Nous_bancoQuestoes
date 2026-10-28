@@ -1,0 +1,102 @@
+{
+  "title": "Questão 1 - FUVEST 2023 - 1ª fase",
+  "index": 1,
+  "year": 2023,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "“A associação de sistemas múltiplos de subordinação tem sido\ndescrita de vários modos: discriminação composta, cargas\nmúltiplas ou como dupla ou tripla discriminação. A\ninterseccionalidade é uma conceituação do problema que\nbusca capturar as consequências estruturais e dinâmicas da\ninteração entre dois ou mais eixos da subordinação. Ela trata\nespecificamente da forma pela qual o racismo, o\npatriarcalismo, a opressão de classe e outros sistemas\ndiscriminatórios criam desigualdades básicas que estruturam\nas posições relativas de mulheres, raças, etnias, classes e\noutras”.\nCRENSHAW, Kimberlé W. “Documento para o Encontro de Especialistas em\nAspectos da Discriminação Racial Relativos ao Gênero”. Estudos Feministas,\nano 10, nº 1/2002.\nDIEESE (Departamento Intersindical de Estatísticas e Estudos\nSocioeconômicos), 2021. Adaptado.\nO texto da professora e jurista estadunidense Kimberlé\nCrenshaw define o conceito de interseccionalidade para o\nestudo das múltiplas discriminações. A partir dessa definição,\né possível dizer que os dados do Dieese sobre o mercado de\ntrabalho brasileiro em 2021 indicam que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a interseccionalidade de discriminações de gênero, de raça\ne de classe faz com que homens negros sejam o grupo\nsocial mais vulnerável.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as discriminações de raça e gênero não se relacionam;\nassim, mulheres negras e homens negros sofrem as\nmesmas discriminações no mercado de trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a interseccionalidade de discriminações atinge de maneira\nigual mulheres brancas e negras pertencentes às classes\ntrabalhadoras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a interseccionalidade de discriminações de gênero e raça\nexplica o fato de as mulheres negras ocuparem as posições\nmenos valorizadas e mais mal pagas no mercado de\ntrabalho.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "as situações de gênero e de raça não têm impacto no\nmercado de trabalho. Trabalhadores e trabalhadoras são\ndiscriminados igualmente em virtude da desigualdade de\nclasse social.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“A associação de sistemas múltiplos de subordinação tem sido\ndescrita de vários modos: discriminação composta, cargas\nmúltiplas ou como dupla ou tripla discriminação. A\ninterseccionalidade é uma conceituação do problema que\nbusca capturar as consequências estruturais e dinâmicas da\ninteração entre dois ou mais eixos da subordinação. Ela trata\nespecificamente da forma pela qual o racismo, o\npatriarcalismo, a opressão de classe e outros sistemas\ndiscriminatórios criam desigualdades básicas que estruturam\nas posições relativas de mulheres, raças, etnias, classes e\noutras”.\nCRENSHAW, Kimberlé W. “Documento para o Encontro de Especialistas em\nAspectos da Discriminação Racial Relativos ao Gênero”. Estudos Feministas,\nano 10, nº 1/2002.\nDIEESE (Departamento Intersindical de Estatísticas e Estudos\nSocioeconômicos), 2021. Adaptado.\nO texto da professora e jurista estadunidense Kimberlé\nCrenshaw define o conceito de interseccionalidade para o\nestudo das múltiplas discriminações. A partir dessa definição,\né possível dizer que os dados do Dieese sobre o mercado de\ntrabalho brasileiro em 2021 indicam que\n(A) a interseccionalidade de discriminações de gênero, de raça\ne de classe faz com que homens negros sejam o grupo\nsocial mais vulnerável.\n(B) as discriminações de raça e gênero não se relacionam;\nassim, mulheres negras e homens negros sofrem as\nmesmas discriminações no mercado de trabalho.\n(C) a interseccionalidade de discriminações atinge de maneira\nigual mulheres brancas e negras pertencentes às classes\ntrabalhadoras.\n(D) a interseccionalidade de discriminações de gênero e raça\nexplica o fato de as mulheres negras ocuparem as posições\nmenos valorizadas e mais mal pagas no mercado de\ntrabalho.\n(E) as situações de gênero e de raça não têm impacto no\nmercado de trabalho. Trabalhadores e trabalhadoras são\ndiscriminados igualmente em virtude da desigualdade de\nclasse social.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 2,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 2,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Interseccionalidade de raça, gênero e classe",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

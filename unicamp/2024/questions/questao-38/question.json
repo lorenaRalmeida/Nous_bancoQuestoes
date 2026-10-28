@@ -1,0 +1,84 @@
+{
+  "title": "Questão 38 - UNICAMP 2024 - 1ª fase",
+  "index": 38,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Um corpo em queda nas proximidades da superfície terrestre sofre a ação da força gravitacional e da força de resistência do ar,\n→\nF ; essa última atua em sentido oposto à força gravitacional.\nar → →\nNos primeiros instantes, F ≈0 se o corpo parte do repouso. À\nar →\nmedida que a velocidade aumenta, F também aumenta. Com\nar\nisso, a aceleração do corpo diminui gradativamente, tornando-\n-se praticamente nula a partir de certo momento. Desse ponto\nem diante, o corpo passa a cair com velocidade constante, chamada de velocidade terminal. Um objeto de massa m = 200 g é\nsolto a partir de certa altura e atinge a velocidade terminal após\ndeterminado tempo. Qual é o módulo da força de resistência do\nar depois que o objeto atinge a velocidade terminal?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,20 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,0 N.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "200 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2000 N.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um corpo em queda nas proximidades da superfície terrestre so-\nfre a ação da força gravitacional e da força de resistência do ar,\n\nF ; essa última atua em sentido oposto à força gravitacional.\nar  \nNos primeiros instantes, F 0 se o corpo parte do repouso. À\nar \nmedida que a velocidade aumenta, F também aumenta. Com\nar\nisso, a aceleração do corpo diminui gradativamente, tornando-\n-se praticamente nula a partir de certo momento. Desse ponto\nem diante, o corpo passa a cair com velocidade constante, cha-\nmada de velocidade terminal. Um objeto de massa m = 200 g é\nsolto a partir de certa altura e atinge a velocidade terminal após\ndeterminado tempo. Qual é o módulo da força de resistência do\nar depois que o objeto atinge a velocidade terminal?\na) 0,20 N. c) 200 N.\nb) 2,0 N. d) 2000 N.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            329.7634,
+            568,
+            578.2398
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

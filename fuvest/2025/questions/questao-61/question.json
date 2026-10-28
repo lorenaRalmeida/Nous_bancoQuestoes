@@ -1,0 +1,90 @@
+{
+  "title": "Questão 61 - FUVEST 2025 - 1ª fase",
+  "index": 61,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Os versos a seguir pertencem à canção Fall on Me, da banda\nnorte-americana R.E.M., lançada em 1986.\n“There's a problem, feathers, iron\nBargain buildings, weights and pulleys\nFeathers hit the ground before the weight can leave the air”\nBill Berry, Peter Buck, Mike Mills e Michael Stipe.\nA qual episódio (real ou hipotético) da história da física o\ntrecho da música faz alusão?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "À queda de uma maçã, que teria inspirado Newton à\ndescoberta da gravitação universal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "À observação de um pássaro em voo, que teria levado\nEinstein a formular a teoria da relatividade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Aos experimentos com objetos de massas diferentes, que\nteriam indicado a Galileu os princípios da queda livre.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Ao transbordamento da água em uma banheira, que teria\nsugerido a Arquimedes o conceito de empuxo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "À queda de um bloco de ferro ligado a uma hélice, que\nteria levado Joule à equivalência entre calor e energia.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nOs versos a seguir pertencem à canção Fall on Me, da banda\nnorte-americana R.E.M., lançada em 1986.\n“There's a problem, feathers, iron\nBargain buildings, weights and pulleys\nFeathers hit the ground before the weight can leave the air”\nBill Berry, Peter Buck, Mike Mills e Michael Stipe.\nA qual episódio (real ou hipotético) da história da física o\ntrecho da música faz alusão?\n(A) À queda de uma maçã, que teria inspirado Newton à\ndescoberta da gravitação universal.\n(B) À observação de um pássaro em voo, que teria levado\nEinstein a formular a teoria da relatividade.\n(C) Aos experimentos com objetos de massas diferentes, que\nteriam indicado a Galileu os princípios da queda livre.\n(D) Ao transbordamento da água em uma banheira, que teria\nsugerido a Arquimedes o conceito de empuxo.\n(E) À queda de um bloco de ferro ligado a uma hélice, que\nteria levado Joule à equivalência entre calor e energia.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            315.7147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Inglês"
+      ],
+      "topic": "Queda livre na história da Física",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

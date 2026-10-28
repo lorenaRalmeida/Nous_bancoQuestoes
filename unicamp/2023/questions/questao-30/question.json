@@ -1,0 +1,92 @@
+{
+  "title": "Questão 30 - UNICAMP 2023 - 1ª fase",
+  "index": 30,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o\nmundo, oferece um belo espetáculo para os observadores no\nsolo. Um maçarico é usado para aquecer o ar no interior do\nbalão, o que faz variar a densidade do ar, permitindo o controle\ndo movimento de subida e descida do balão.\n\nUm balão, inicialmente em repouso no solo, decola e sobe em\nmovimento uniformemente variado. Se o balão atinge a altura\nh = 80 m após um tempo t = 40 s, conclui-se que a aceleração\nvertical do balão nesse movimento é igual a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,0 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4,0 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,05 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,1 m/s2.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um balão, inicialmente em repouso no solo, decola e sobe em\nmovimento uniformemente variado. Se o balão atinge a altura\nh = 80 m após um tempo t = 40 s, conclui-se que a aceleração\nvertical do balão nesse movimento é igual a\na) 2,0 m/s2. c) 0,05 m/s2.\nb) 4,0 m/s2. d) 0,1 m/s2.",
+    "sharedContext": "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o\nmundo, oferece um belo espetáculo para os observadores no\nsolo. Um maçarico é usado para aquecer o ar no interior do\nbalão, o que faz variar a densidade do ar, permitindo o controle\ndo movimento de subida e descida do balão.",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            139.69799999999998,
+            568,
+            244.5752
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            244.5752,
+            568,
+            397.6891
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

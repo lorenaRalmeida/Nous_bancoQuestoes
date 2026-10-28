@@ -1,0 +1,82 @@
+{
+  "title": "Questão 43 - UNICAMP 2023 - 1ª fase",
+  "index": 43,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Estudos revelaram como a disbiose – desequilíbrio da microbiota intestinal – pode influenciar no desenvolvimento de distúrbios neurodegenerativos como a doença de Parkinson. As\npessoas acometidas por essa doença apresentam alterações\nsignificativas nos centros motores do cérebro.\nAssinale a alternativa que preenche corretamente as lacunas no\nexcerto a seguir.\nA agregação da proteína a-sinucleína nos (i) ________ está relacionada com a doença de Parkinson. Foi demonstrado que\ncélulas específicas do tecido (ii) ________ da mucosa intestinal\npodem expressar essa proteína. A disbiose pode levar ao aumento de espécies de (iii) ________ que, eventualmente, contribuem para agregação da a-sinucleína no intestino, e essa proteína pode migrar para o (iv) ________, configurando um possível\nmecanismo de surgimento da doença de Parkinson esporádica.\n(Adaptado de https://agencia.fapesp.br/estudo-revela-como-o-desequilibrio-da-microbiota-intestinal-pode-levar-a-doenca-de-parkinson/38159/. Acesso em 07/06/2022.)",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(i) neurônios; (ii) epitelial; (iii) bactérias; (iv) sistema nervoso\ncentral.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "(i) linfonodos; (ii) conjuntivo; (iii) bactérias; (iv) sistema nervoso autônomo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(i) linfonodos; (ii) epitelial; (iii) vírus; (iv) sistema nervoso central.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(i) neurônios; (ii) conjuntivo; (iii) vírus; (iv) sistema nervoso\nautônomo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Estudos revelaram como a disbiose – desequilíbrio da micro-\nbiota intestinal – pode influenciar no desenvolvimento de dis-\ntúrbios neurodegenerativos como a doença de Parkinson. As\npessoas acometidas por essa doença apresentam alterações\nsignificativas nos centros motores do cérebro.\nAssinale a alternativa que preenche corretamente as lacunas no\nexcerto a seguir.\nA agregação da proteína a-sinucleína nos (i) ________ está re-\nlacionada com a doença de Parkinson. Foi demonstrado que\ncélulas específicas do tecido (ii) ________ da mucosa intestinal\npodem expressar essa proteína. A disbiose pode levar ao au-\nmento de espécies de (iii) ________ que, eventualmente, contri-\nbuem para agregação da a-sinucleína no intestino, e essa prote-\nína pode migrar para o (iv) ________, configurando um possível\nmecanismo de surgimento da doença de Parkinson esporádica.\n(Adaptado de https://agencia.fapesp.br/estudo-revela-como-o-desequilibrio-da-micro-\nbiota-intestinal-pode-levar-a-doenca-de-parkinson/38159/. Acesso em 07/06/2022.)\na) (i) neurônios; (ii) epitelial; (iii) bactérias; (iv) sistema nervoso\ncentral.\nb) (i) linfonodos; (ii) conjuntivo; (iii) bactérias; (iv) sistema ner-\nvoso autônomo.\nc) (i) linfonodos; (ii) epitelial; (iii) vírus; (iv) sistema nervoso cen-\ntral.\nd) (i) neurônios; (ii) conjuntivo; (iii) vírus; (iv) sistema nervoso\nautônomo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            226.115,
+            568,
+            669.8316
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

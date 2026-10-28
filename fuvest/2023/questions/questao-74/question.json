@@ -1,0 +1,103 @@
+{
+  "title": "Questão 74 - FUVEST 2023 - 1ª fase",
+  "index": 74,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "A obra “Rosa e Azul”, também conhecida como “As Meninas\nCahen d’Anvers”, é uma pintura a óleo de Pierre-Auguste\nRenoir.\nNuma aula de artes, solicitou-se aos alunos que fizessem uma\nreleitura dessa obra utilizando uma “tinta” preparada com\nextrato de repolho roxo. Esse extrato fica rosa em valores de\npH menores que 5 e azul em valores próximos a 8, conforme\nfigura a seguir, que mostra a cor da solução em diferentes\nvalores de pH.\nCom base no exposto, qual das alternativas apresenta\ncompostos ou produtos que poderiam ser usados para\npreparar uma “tinta” rosa/vermelha e uma azul/verde\nempregando o extrato de repolho roxo?\nRosa/Vermelha Azul/Verde",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Açúcar Sal de cozinha",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Sal de cozinha Bicarbonato de sódio",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Bicarbonato de sódio Vinagre",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Açúcar Soda cáustica",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Suco de limão Bicarbonato de sódio",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A obra “Rosa e Azul”, também conhecida como “As Meninas\nCahen d’Anvers”, é uma pintura a óleo de Pierre-Auguste\nRenoir.\nNuma aula de artes, solicitou-se aos alunos que fizessem uma\nreleitura dessa obra utilizando uma “tinta” preparada com\nextrato de repolho roxo. Esse extrato fica rosa em valores de\npH menores que 5 e azul em valores próximos a 8, conforme\nfigura a seguir, que mostra a cor da solução em diferentes\nvalores de pH.\nCom base no exposto, qual das alternativas apresenta\ncompostos ou produtos que poderiam ser usados para\npreparar uma “tinta” rosa/vermelha e uma azul/verde\nempregando o extrato de repolho roxo?\nRosa/Vermelha Azul/Verde\n(A) Açúcar Sal de cozinha\n(B) Sal de cozinha Bicarbonato de sódio\n(C) Bicarbonato de sódio Vinagre\n(D) Açúcar Soda cáustica\n(E) Suco de limão Bicarbonato de sódio",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            297.5,
+            279.7147,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            137.75469999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "topic": "Indicadores ácido-base de repolho roxo",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

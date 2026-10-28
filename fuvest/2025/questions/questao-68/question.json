@@ -1,0 +1,102 @@
+{
+  "title": "Questão 68 - FUVEST 2025 - 1ª fase",
+  "index": 68,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O gráfico a seguir apresenta dados do Produto Interno Bruto\n(PIB) por pessoa e dados de publicações científicas por milhão\nde habitantes para um grupo selecionado de países, além de\ndestacar o estado de São Paulo.\nRevista Pesquisa FAPESP – Agosto/2022 (Adaptado).\nA partir da análise do gráfico e do texto, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Irã, Tunísia e África do Sul possuem um PIB por pessoa\nabaixo da média mundial e apresentam um número de\npublicações científicas por milhão de habitantes superior\nao da média mundial.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "O estado de São Paulo possui uma quantidade de publicações\npor milhão de habitantes abaixo da média mundial, enquanto\no Brasil, com um PIB por pessoa maior que o do estado\npaulista, tem uma quantidade de publicações maior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Índia e Indonésia possuem um PIB por pessoa acima da\nmédia mundial, no entanto, o número de publicações por\nmilhão de habitantes desses países é superior ao da média\nmundial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os países do Norte Global, embora tenham um PIB por\npessoa maior que a média mundial, possuem uma\nquantidade menor de publicações por milhão de\nhabitantes, se comparados com a média mundial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Argentina, Tailândia e México, apesar de possuírem um\nPIB por pessoa abaixo da média mundial, apresentam\nprodução científica por milhão de habitantes acima da\nmédia mundial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nO gráfico a seguir apresenta dados do Produto Interno Bruto\n(PIB) por pessoa e dados de publicações científicas por milhão\nde habitantes para um grupo selecionado de países, além de\ndestacar o estado de São Paulo.\nRevista Pesquisa FAPESP – Agosto/2022 (Adaptado).\nA partir da análise do gráfico e do texto, é correto afirmar:\n(A) Irã, Tunísia e África do Sul possuem um PIB por pessoa\nabaixo da média mundial e apresentam um número de\npublicações científicas por milhão de habitantes superior\nao da média mundial.\n(B) O estado de São Paulo possui uma quantidade de publicações\npor milhão de habitantes abaixo da média mundial, enquanto\no Brasil, com um PIB por pessoa maior que o do estado\npaulista, tem uma quantidade de publicações maior.\n(C) Índia e Indonésia possuem um PIB por pessoa acima da\nmédia mundial, no entanto, o número de publicações por\nmilhão de habitantes desses países é superior ao da média\nmundial.\n(D) Os países do Norte Global, embora tenham um PIB por\npessoa maior que a média mundial, possuem uma\nquantidade menor de publicações por milhão de\nhabitantes, se comparados com a média mundial.\n(E) Argentina, Tailândia e México, apesar de possuírem um\nPIB por pessoa abaixo da média mundial, apresentam\nprodução científica por milhão de habitantes acima da\nmédia mundial.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "topic": "Desenvolvimento econômico e produção científica",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

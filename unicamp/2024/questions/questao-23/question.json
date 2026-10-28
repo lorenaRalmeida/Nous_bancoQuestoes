@@ -1,0 +1,84 @@
+{
+  "title": "Questão 23 - UNICAMP 2024 - 1ª fase",
+  "index": 23,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "O mau gerenciamento da produção das baterias automotivas\nchumbo-ácido e de sua reciclagem após uso pode ocasionar\ncontaminação do meio ambiente e de pessoas. Para minimizar\nesses problemas, a indústria pode levar em conta a “hierarquia\nde resíduos”, uma ordem de preferência nas ações de combate\nà contaminação. A figura a seguir, incompleta, mostra duas\nações possíveis dessa hierarquia. Para minimizar os problemas,\nas ações a serem adotadas, em ordem de preferência e considerando a direcionalidade indicada na figura, seriam",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "descarte adequado; reciclagem; prevenção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "prevenção; descarte adequado; reciclagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "descarte adequado; prevenção; reciclagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "prevenção; reciclagem; descarte adequado.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O mau gerenciamento da produção das baterias automotivas\nchumbo-ácido e de sua reciclagem após uso pode ocasionar\ncontaminação do meio ambiente e de pessoas. Para minimizar\nesses problemas, a indústria pode levar em conta a “hierarquia\nde resíduos”, uma ordem de preferência nas ações de combate\nà contaminação. A figura a seguir, incompleta, mostra duas\nações possíveis dessa hierarquia. Para minimizar os problemas,\nas ações a serem adotadas, em ordem de preferência e conside-\nrando a direcionalidade indicada na figura, seriam\na) descarte adequado; reciclagem; prevenção.\nb) prevenção; descarte adequado; reciclagem.\nc) descarte adequado; prevenção; reciclagem.\nd) prevenção; reciclagem; descarte adequado.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            154.46460000000002,
+            291,
+            509.6269
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

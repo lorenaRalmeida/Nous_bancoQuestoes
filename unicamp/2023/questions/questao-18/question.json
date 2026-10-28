@@ -1,0 +1,92 @@
+{
+  "title": "Questão 18 - UNICAMP 2023 - 1ª fase",
+  "index": 18,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "A caiação ou pintura com cal hidratada (Ca(OH) ) é uma das\n2\nformas mais antigas para o revestimento da fachada de edifícios. A cal virgem (CaO) – produzida a partir do aquecimento\ndo calcário (CaCO ) –, ao ser colocada em água, forma a cal\n3\n)Lm/gn(\namsalp\non\nanitociN\nIndivíduo X\nIndivíduo Y\nIndivíduo Z\nTempo após a inalação (min)\nhidratada que, uma vez aplicada à parede e em contato com o\nCO do ar atmosférico, vai se transformando em seu precursor,\n2\no carbonato de cálcio. Dessa forma, o carbonato de cálcio fica\naderido à parede, protegendo-a, conservando-a e embelezando-a.\nConsidere as equações a seguir:\ni) CaCO → CaO + CO ; ∆H = 178 kJ/mol\n3 2\nii) CaO + H O → Ca(OH) ; ∆H = -109 kJ/mol\n2 2\niii) Ca(OH) + CO → CaCO + H O ; ∆H= ?\n2 2 3 2\nLevando em conta apenas as equações do processo de transformação e produção do carbonato de cálcio (equações i a iii),\npode-se afirmar que o processo",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pode ser considerado carbono neutro e que a última equação representa uma reação que levaria ao aquecimento da\nparede onde a cal foi aplicada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "pode ser considerado carbono neutro e que a última equação representa uma reação que levaria ao resfriamento da\nparede onde a cal foi aplicada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "não pode ser considerado carbono neutro e que a última\nequação representa uma reação que levaria ao aquecimento\nda parede onde a cal foi aplicada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "não pode ser considerado carbono neutro e que a última\nequação representa uma reação que levaria ao resfriamento\nda parede onde a cal foi aplicada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A caiação ou pintura com cal hidratada (Ca(OH) ) é uma das\n2\nformas mais antigas para o revestimento da fachada de edifí-\ncios. A cal virgem (CaO) – produzida a partir do aquecimento\ndo calcário (CaCO ) –, ao ser colocada em água, forma a cal\n3\n)Lm/gn(\namsalp\non\nanitociN\nIndivíduo X\nIndivíduo Y\nIndivíduo Z\nTempo após a inalação (min)\nhidratada que, uma vez aplicada à parede e em contato com o\nCO do ar atmosférico, vai se transformando em seu precursor,\n2\no carbonato de cálcio. Dessa forma, o carbonato de cálcio fica\naderido à parede, protegendo-a, conservando-a e embelezan-\ndo-a.\nConsidere as equações a seguir:\ni) CaCO → CaO + CO ; ∆H = 178 kJ/mol\n3 2\nii) CaO + H O → Ca(OH) ; ∆H = -109 kJ/mol\n2 2\niii) Ca(OH) + CO → CaCO + H O ; ∆H= ?\n2 2 3 2\nLevando em conta apenas as equações do processo de trans-\nformação e produção do carbonato de cálcio (equações i a iii),\npode-se afirmar que o processo\na) pode ser considerado carbono neutro e que a última equa-\nção representa uma reação que levaria ao aquecimento da\nparede onde a cal foi aplicada.\nb) pode ser considerado carbono neutro e que a última equa-\nção representa uma reação que levaria ao resfriamento da\nparede onde a cal foi aplicada.\nc) não pode ser considerado carbono neutro e que a última\nequação representa uma reação que levaria ao aquecimento\nda parede onde a cal foi aplicada.\nd) não pode ser considerado carbono neutro e que a última\nequação representa uma reação que levaria ao resfriamento\nda parede onde a cal foi aplicada.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            734.4615,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            40,
+            291,
+            460.611
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

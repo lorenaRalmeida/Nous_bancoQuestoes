@@ -1,0 +1,113 @@
+{
+  "title": "Questão 62 - UNESP 2026 - 1ª fase",
+  "index": 62,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "A figura mostra a estrutura molecular do ácido carmínico, um\npigmento conhecido como ácido carmim, extraído do inseto\ncochonilha (Dactylopus coccus) e usado na produção de alimentos e cosméticos.\nO corante carmim, obtido a partir de um animal que\npossui , apresenta as funções orgânicas\ne em sua estrutura molecular.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "circulação fechada – éter – amida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "respiração cutânea – fenol – ácido carboxílico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "patas articuladas – álcool – cetona.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "exoesqueleto de quitina – éster – amina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fecundação externa – aldeído – haleto orgânico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura mostra a estrutura molecular do ácido carmínico, um\npigmento conhecido como ácido carmim, extraído do inseto\ncochonilha (Dactylopus coccus) e usado na produção de ali-\nmentos e cosméticos.\nO corante carmim, obtido a partir de um animal que\npossui , apresenta as funções orgânicas\ne em sua estrutura molecular.\nAs lacunas do texto são preenchidas, respectivamente, por:\n(A) circulação fechada – éter – amida.\n(B) respiração cutânea – fenol – ácido carboxílico.\n(C) patas articuladas – álcool – cetona.\n(D) exoesqueleto de quitina – éster – amina.\n(E) fecundação externa – aldeído – haleto orgânico.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            286.47929999999997,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          53.8417,
+          354.7487,
+          271.70660000000004,
+          473.4304
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

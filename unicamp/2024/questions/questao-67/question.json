@@ -1,0 +1,113 @@
+{
+  "title": "Questão 67 - UNICAMP 2024 - 1ª fase",
+  "index": 67,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Em uma visita a um museu de arte indígena, um estudante observou uma obra seguida de uma placa explicativa:\nIn some indigenous cultures, headdresses represent\nNative peoples’ right to govern themselves according to their\nown laws. The materials they are constructed with can vary\ngreatly, including wood, iron, feathers, and ivory. Rather than\n-noc-pw/ac.otnorot.www//:sptth\n:ed\nodatpadA(\n-msicaR-kcalB-itnA-08f8/40/9102/sdaolpu/tnet\n).3202/50/72\nme\nossecA\n.fdp.1-retsoP-\nusing gridded designs (symbols of spiritual beliefs) or putting\nbirds or mammals at center stage, as several others do, horns\nwere attached to this headdress, an emblem of power reserved\nfor those “whose exceeding worth and power is admitted by\nall the nation”.\n(Imagens (nas alternativas) e texto (acima) adaptados de: https://americanindian.si.edu/\nexhibitions/infinityofnations/introduction.html. Acesso em 31/05/2023.)\nQual das imagens corresponde à descrição da placa?",
+  "files": [
+    "imagem-01.png",
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em uma visita a um museu de arte indígena, um estudante ob-\nservou uma obra seguida de uma placa explicativa:\nIn some indigenous cultures, headdresses represent\nNative peoples’ right to govern themselves according to their\nown laws. The materials they are constructed with can vary\ngreatly, including wood, iron, feathers, and ivory. Rather than\n-noc-pw/ac.otnorot.www//:sptth\n:ed\nodatpadA(\n-msicaR-kcalB-itnA-08f8/40/9102/sdaolpu/tnet\n).3202/50/72\nme\nossecA\n.fdp.1-retsoP-\nusing gridded designs (symbols of spiritual beliefs) or putting\nbirds or mammals at center stage, as several others do, horns\nwere attached to this headdress, an emblem of power reserved\nfor those “whose exceeding worth and power is admitted by\nall the nation”.\n(Imagens (nas alternativas) e texto (acima) adaptados de: https://americanindian.si.edu/\nexhibitions/infinityofnations/introduction.html. Acesso em 31/05/2023.)\nQual das imagens corresponde à descrição da placa?\na) c)\nb) d)",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            701.1105,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            40,
+            568,
+            429.7376
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,1891 @@
+{
+  "criterion": "Classificação editorial pelo conhecimento predominante exigido pelo comando e alternativas; Português inclui literatura. Não representa classificação oficial da FUVEST.",
+  "totalQuestions": 270,
+  "years": [
+    {
+      "year": 2023,
+      "count": 90,
+      "disciplines": {
+        "Biologia": 11,
+        "Filosofia": 2,
+        "Física": 10,
+        "Geografia": 11,
+        "História": 8,
+        "Inglês": 8,
+        "Matemática": 12,
+        "Português": 12,
+        "Química": 12,
+        "Sociologia": 4
+      },
+      "questions": [
+        {
+          "index": 1,
+          "discipline": "Sociologia",
+          "topic": "Interseccionalidade de raça, gênero e classe",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 2,
+          "discipline": "Sociologia",
+          "topic": "Representatividade política das mulheres",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 3,
+          "discipline": "História",
+          "topic": "Inserção histórica das mulheres no trabalho",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 4,
+          "discipline": "Português",
+          "topic": "Leitura literária do poema Família",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 5,
+          "discipline": "Português",
+          "topic": "Sentido de colaborador e eufemização do trabalho",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 6,
+          "discipline": "Português",
+          "topic": "Voz verbal e construções pronominais",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 7,
+          "discipline": "Português",
+          "topic": "Semântica dos verbos detonar e avariar",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 8,
+          "discipline": "Português",
+          "topic": "Interpretação verbo-visual de tira",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 9,
+          "discipline": "Geografia",
+          "topic": "Geomorfologia e ocupação humana",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 10,
+          "discipline": "Sociologia",
+          "topic": "Estado e monopólio da violência em Weber",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 11,
+          "discipline": "Química",
+          "topic": "Esterificação e identificação da cocaína",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 12,
+          "discipline": "Química",
+          "topic": "Interações químicas e ligação S=O",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 13,
+          "discipline": "Física",
+          "topic": "Equilíbrio térmico de gases ideais",
+          "relatedDisciplines": [
+            "Química"
+          ]
+        },
+        {
+          "index": 14,
+          "discipline": "Química",
+          "topic": "Reação ácido-base da metilamina",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 15,
+          "discipline": "Biologia",
+          "topic": "Seleção natural sob pressão de pesca",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 16,
+          "discipline": "Geografia",
+          "topic": "Pesca oceânica e geopolítica marítima",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 17,
+          "discipline": "Química",
+          "topic": "Partição e persistência de poluentes orgânicos",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 18,
+          "discipline": "Geografia",
+          "topic": "Fronteira agrícola e hidrografia no oeste baiano",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 19,
+          "discipline": "Geografia",
+          "topic": "Fertilizantes e estrutura agrária",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 20,
+          "discipline": "Biologia",
+          "topic": "Fixação biológica de nitrogênio e transgenia",
+          "relatedDisciplines": [
+            "Química"
+          ]
+        },
+        {
+          "index": 21,
+          "discipline": "Matemática",
+          "topic": "Função definida por faixas de desconto",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 22,
+          "discipline": "Matemática",
+          "topic": "Soma de progressão aritmética",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 23,
+          "discipline": "Química",
+          "topic": "Corrosão e propriedades de metais",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 24,
+          "discipline": "Matemática",
+          "topic": "Sistema de equações e preço de combustíveis",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 25,
+          "discipline": "Química",
+          "topic": "Estequiometria de enxofre em combustíveis",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 26,
+          "discipline": "Química",
+          "topic": "Poluição por SO2 e chuva ácida",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 27,
+          "discipline": "Geografia",
+          "topic": "Geadas e fatores climáticos paulistas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 28,
+          "discipline": "Geografia",
+          "topic": "Sazonalidade climática e perda de folhas",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 29,
+          "discipline": "Biologia",
+          "topic": "Adaptações botânicas do xiquexique",
+          "relatedDisciplines": [
+            "Português"
+          ]
+        },
+        {
+          "index": 30,
+          "discipline": "Português",
+          "topic": "Tempo psicológico no romance Angústia",
+          "relatedDisciplines": [
+            "Filosofia"
+          ]
+        },
+        {
+          "index": 31,
+          "discipline": "Filosofia",
+          "topic": "Empirismo de David Hume",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 32,
+          "discipline": "Inglês",
+          "topic": "Compreensão de texto inglês sobre música",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 33,
+          "discipline": "Inglês",
+          "topic": "Vocabulário convey em contexto",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 34,
+          "discipline": "Inglês",
+          "topic": "Leitura de termos acústicos em texto inglês",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 35,
+          "discipline": "Inglês",
+          "topic": "Compreensão e uso do idioma inglês",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 36,
+          "discipline": "Matemática",
+          "topic": "Razões de frequências e escala pitagórica",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 37,
+          "discipline": "Português",
+          "topic": "Análise semântica e verbal de canção",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 38,
+          "discipline": "Português",
+          "topic": "Interpretação do poema O Quinto Império",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 39,
+          "discipline": "Português",
+          "topic": "Tempo e história na poética de Mensagem",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 40,
+          "discipline": "História",
+          "topic": "Representações nacionais de Brasil e México",
+          "relatedDisciplines": [
+            "Artes"
+          ]
+        },
+        {
+          "index": 41,
+          "discipline": "Sociologia",
+          "topic": "Identidade e marginalização indígena",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 42,
+          "discipline": "História",
+          "topic": "Sociedade mineradora colonial",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 43,
+          "discipline": "Português",
+          "topic": "Modernismo e autenticidade cultural",
+          "relatedDisciplines": [
+            "Sociologia",
+            "História"
+          ]
+        },
+        {
+          "index": 44,
+          "discipline": "Português",
+          "topic": "Representação linguística de imigrantes italianos",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 45,
+          "discipline": "História",
+          "topic": "Unificação italiana e culto nacional",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 46,
+          "discipline": "História",
+          "topic": "Organização política da pólis grega",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 47,
+          "discipline": "História",
+          "topic": "Revolução Inglesa e Bill of Rights",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 48,
+          "discipline": "História",
+          "topic": "Governo João Goulart e crise de 1964",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 49,
+          "discipline": "História",
+          "topic": "Desagregação da União Soviética",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 50,
+          "discipline": "Português",
+          "topic": "Polissemia e relação verbo-visual na publicidade",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 51,
+          "discipline": "Geografia",
+          "topic": "Anamorfose cartográfica e indicadores sociais",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 52,
+          "discipline": "Geografia",
+          "topic": "Instabilidade geopolítica do Sahel",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 53,
+          "discipline": "Geografia",
+          "topic": "Fronteiras coloniais e grupos étnicos africanos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 54,
+          "discipline": "Física",
+          "topic": "Atrito e transporte de cargas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 55,
+          "discipline": "Filosofia",
+          "topic": "Estrutura da argumentação em Aristóteles",
+          "relatedDisciplines": [
+            "Português"
+          ]
+        },
+        {
+          "index": 56,
+          "discipline": "Química",
+          "topic": "Energia de ativação e combustão",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 57,
+          "discipline": "Química",
+          "topic": "Isótopos de carbono e combustíveis fósseis",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 58,
+          "discipline": "Matemática",
+          "topic": "Estimativa de total de emissões por gráfico",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 59,
+          "discipline": "Biologia",
+          "topic": "Ecologia e sequestro de carbono em manguezais",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 60,
+          "discipline": "Biologia",
+          "topic": "Metabolismo e gases de efeito estufa na agropecuária",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 61,
+          "discipline": "Biologia",
+          "topic": "Adaptação e seleção em ervas daninhas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 62,
+          "discipline": "Biologia",
+          "topic": "Interações ecológicas e sucessão",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 63,
+          "discipline": "Biologia",
+          "topic": "Leishmaniose e digestão intracelular",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 64,
+          "discipline": "Biologia",
+          "topic": "Diversidade de aves e biomas",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 65,
+          "discipline": "Geografia",
+          "topic": "Processos geomorfológicos e escala temporal",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 66,
+          "discipline": "Física",
+          "topic": "Potência de uma descarga elétrica",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 67,
+          "discipline": "Física",
+          "topic": "Resistência elétrica e termistores",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 68,
+          "discipline": "Inglês",
+          "topic": "Compreensão do texto inglês sobre armazenamento de energia",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 69,
+          "discipline": "Inglês",
+          "topic": "Vocabulário dwindles em contexto",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 70,
+          "discipline": "Inglês",
+          "topic": "Interpretação de texto inglês sobre conversão de energia",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 71,
+          "discipline": "Química",
+          "topic": "Fusão nuclear e variação de entalpia",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 72,
+          "discipline": "Física",
+          "topic": "Radiações ionizantes e espectro eletromagnético",
+          "relatedDisciplines": [
+            "Química"
+          ]
+        },
+        {
+          "index": 73,
+          "discipline": "Física",
+          "topic": "Dispersão da luz e índices de refração",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 74,
+          "discipline": "Química",
+          "topic": "Indicadores ácido-base de repolho roxo",
+          "relatedDisciplines": [
+            "Artes"
+          ]
+        },
+        {
+          "index": 75,
+          "discipline": "Inglês",
+          "topic": "Polissemia de reaction em meme em inglês",
+          "relatedDisciplines": [
+            "Português",
+            "Química"
+          ]
+        },
+        {
+          "index": 76,
+          "discipline": "Física",
+          "topic": "Movimento e forças na locomoção de lagartos",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 77,
+          "discipline": "Física",
+          "topic": "Colisão inelástica e conservação de energia",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 78,
+          "discipline": "Física",
+          "topic": "Gravitação e ponto de Lagrange",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 79,
+          "discipline": "Física",
+          "topic": "Trabalho mecânico e energia dissipada",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 80,
+          "discipline": "Química",
+          "topic": "Equilíbrio químico da hemoglobina",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 81,
+          "discipline": "Biologia",
+          "topic": "Ritmos circadianos e hormônios",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 82,
+          "discipline": "Geografia",
+          "topic": "Transição demográfica e pirâmides etárias",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 83,
+          "discipline": "Biologia",
+          "topic": "Probabilidade e herança autossômica recessiva",
+          "relatedDisciplines": [
+            "Matemática"
+          ]
+        },
+        {
+          "index": 84,
+          "discipline": "Matemática",
+          "topic": "Análise combinatória de provas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 85,
+          "discipline": "Matemática",
+          "topic": "Função exponencial e ranking esportivo",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 86,
+          "discipline": "Matemática",
+          "topic": "Volume por deslocamento em cilindro",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 87,
+          "discipline": "Matemática",
+          "topic": "Números primos e primorial",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 88,
+          "discipline": "Matemática",
+          "topic": "Polígonos regulares e ladrilhamento",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 89,
+          "discipline": "Matemática",
+          "topic": "Geometria analítica e área de interseção",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 90,
+          "discipline": "Matemática",
+          "topic": "Função logarítmica e determinação de parâmetros",
+          "relatedDisciplines": []
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 90,
+      "disciplines": {
+        "Artes": 1,
+        "Biologia": 9,
+        "Educação Física": 1,
+        "Filosofia": 1,
+        "Física": 11,
+        "Geografia": 11,
+        "História": 11,
+        "Inglês": 7,
+        "Matemática": 12,
+        "Português": 12,
+        "Química": 10,
+        "Sociologia": 4
+      },
+      "questions": [
+        {
+          "index": 1,
+          "discipline": "Português",
+          "topic": "Metáfora e linguagem poética",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 2,
+          "discipline": "Português",
+          "topic": "Interpretação do eu lírico em Conceição Evaristo",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 3,
+          "discipline": "Artes",
+          "topic": "Releitura artística e estereótipos étnico-raciais",
+          "relatedDisciplines": [
+            "História",
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 4,
+          "discipline": "Inglês",
+          "topic": "Compreensão de anúncio em inglês",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 5,
+          "discipline": "Inglês",
+          "topic": "Sentido da expressão be worth",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 6,
+          "discipline": "História",
+          "topic": "Economia açucareira no Brasil colonial",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 7,
+          "discipline": "História",
+          "topic": "Abolicionismo e representação da escravidão",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 8,
+          "discipline": "Sociologia",
+          "topic": "Construção social de raça e autodeclaração",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 9,
+          "discipline": "História",
+          "topic": "Heranças educacionais do apartheid",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 10,
+          "discipline": "Sociologia",
+          "topic": "Direitos humanos e acesso a bens culturais",
+          "relatedDisciplines": [
+            "Português",
+            "Filosofia"
+          ]
+        },
+        {
+          "index": 11,
+          "discipline": "Inglês",
+          "topic": "Interpretação de texto inglês sobre arte imersiva",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 12,
+          "discipline": "Inglês",
+          "topic": "Argumentação em texto inglês sobre exposições",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 13,
+          "discipline": "Matemática",
+          "topic": "Matrizes e redes de relações",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 14,
+          "discipline": "Biologia",
+          "topic": "Heredograma e padrões de herança",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 15,
+          "discipline": "Português",
+          "topic": "Conflito entre personagens em Dois irmãos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 16,
+          "discipline": "Português",
+          "topic": "Narrador e paternidade em Dois irmãos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 17,
+          "discipline": "Biologia",
+          "topic": "Radiação e mutações no DNA epitelial",
+          "relatedDisciplines": [
+            "Física",
+            "Português"
+          ]
+        },
+        {
+          "index": 18,
+          "discipline": "Biologia",
+          "topic": "Biotecnologia e cultivo celular",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 19,
+          "discipline": "Química",
+          "topic": "Polaridade e solubilidade de vitaminas",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 20,
+          "discipline": "Biologia",
+          "topic": "Digestão e atividade enzimática por pH",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 21,
+          "discipline": "Química",
+          "topic": "Conceito e limites de pH",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 22,
+          "discipline": "História",
+          "topic": "Iluminismo e a Enciclopédia",
+          "relatedDisciplines": [
+            "Filosofia"
+          ]
+        },
+        {
+          "index": 23,
+          "discipline": "Filosofia",
+          "topic": "Relação entre opostos no Fédon de Platão",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 24,
+          "discipline": "Física",
+          "topic": "Dualidade e comportamento da luz",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 25,
+          "discipline": "Química",
+          "topic": "Emissão e absorção atômica do sódio",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 26,
+          "discipline": "Física",
+          "topic": "Radiação de corpo negro e temperatura de cor",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 27,
+          "discipline": "Física",
+          "topic": "Empuxo e densidade variável com a temperatura",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 28,
+          "discipline": "Química",
+          "topic": "Combustão incompleta e oxidação da fuligem",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 29,
+          "discipline": "Química",
+          "topic": "Propriedades de gases combustíveis",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 30,
+          "discipline": "Química",
+          "topic": "Estequiometria e produção de hidrogênio",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 31,
+          "discipline": "Matemática",
+          "topic": "Volume de segmento de cilindro",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 32,
+          "discipline": "Biologia",
+          "topic": "Saneamento, vacinação e doenças",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 33,
+          "discipline": "Matemática",
+          "topic": "Cálculo percentual de custos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 34,
+          "discipline": "Matemática",
+          "topic": "Moda, mediana, média e amplitude",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 35,
+          "discipline": "Matemática",
+          "topic": "Contagem de horários refletidos",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 36,
+          "discipline": "Português",
+          "topic": "Tempo e sofrimento em Campo Geral",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 37,
+          "discipline": "Português",
+          "topic": "Literatura moçambicana em Nós matamos o Cão Tinhoso!",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 38,
+          "discipline": "Português",
+          "topic": "Estrutura narrativa de microconto",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 39,
+          "discipline": "Português",
+          "topic": "Gênero crônica em Clarice Lispector",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 40,
+          "discipline": "Biologia",
+          "topic": "Ecossistemas e interações bióticas e abióticas",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 41,
+          "discipline": "Química",
+          "topic": "Isótopos e pressão de vapor da água",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 42,
+          "discipline": "Física",
+          "topic": "Campo magnético terrestre e sua intensidade",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 43,
+          "discipline": "Geografia",
+          "topic": "Industrialização e intensificação do efeito estufa",
+          "relatedDisciplines": [
+            "Química"
+          ]
+        },
+        {
+          "index": 44,
+          "discipline": "História",
+          "topic": "Desenvolvimentismo de Juscelino Kubitschek",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 45,
+          "discipline": "História",
+          "topic": "Crise de 1929 e economia cafeeira",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 46,
+          "discipline": "Geografia",
+          "topic": "Expansão territorial da cafeicultura",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 47,
+          "discipline": "Geografia",
+          "topic": "Redes e modais de transporte",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 48,
+          "discipline": "Matemática",
+          "topic": "Geometria espacial e acondicionamento de caixas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 49,
+          "discipline": "Matemática",
+          "topic": "Trigonometria em vagas de estacionamento",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 50,
+          "discipline": "Física",
+          "topic": "Gráfico de posição e movimento",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 51,
+          "discipline": "Física",
+          "topic": "Conservação de energia no skate",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 52,
+          "discipline": "Educação Física",
+          "topic": "Esportivização e transformação das práticas corporais",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 53,
+          "discipline": "Inglês",
+          "topic": "Leitura de texto inglês sobre renda e atividade física",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 54,
+          "discipline": "Inglês",
+          "topic": "Valor semântico de far less",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 55,
+          "discipline": "Física",
+          "topic": "Campo elétrico resultante de cargas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 56,
+          "discipline": "Química",
+          "topic": "Eletronegatividade e reatividade de ligações",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 57,
+          "discipline": "Física",
+          "topic": "Circuitos e associação de resistores",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 58,
+          "discipline": "Química",
+          "topic": "Potenciais de redução e identificação de metais",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 59,
+          "discipline": "Matemática",
+          "topic": "Função exponencial e função inversa",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 60,
+          "discipline": "Matemática",
+          "topic": "Representação gráfica de sistema linear",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 61,
+          "discipline": "Geografia",
+          "topic": "Clima, aridez, biomassa e biomas",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 62,
+          "discipline": "Geografia",
+          "topic": "Domínios morfoclimáticos brasileiros",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 63,
+          "discipline": "Matemática",
+          "topic": "Progressão geométrica e logaritmos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 64,
+          "discipline": "Biologia",
+          "topic": "Isolamento geográfico, especiação e endemismo",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 65,
+          "discipline": "Geografia",
+          "topic": "Chuvas extremas, ocupação e deslizamentos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 66,
+          "discipline": "Geografia",
+          "topic": "Erosão e voçorocas em Buriticupu",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 67,
+          "discipline": "Português",
+          "topic": "Metalinguagem e contradição poética em Drummond",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 68,
+          "discipline": "Biologia",
+          "topic": "Zoologia e predação por cnidários",
+          "relatedDisciplines": [
+            "Português"
+          ]
+        },
+        {
+          "index": 69,
+          "discipline": "Biologia",
+          "topic": "Cladograma e evolução de vertebrados",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 70,
+          "discipline": "Geografia",
+          "topic": "Correntes marítimas e distribuição da pesca",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 71,
+          "discipline": "Física",
+          "topic": "Calorimetria e equilíbrio térmico",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 72,
+          "discipline": "Física",
+          "topic": "Ciclos termodinâmicos e diagrama p-V",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 73,
+          "discipline": "Física",
+          "topic": "Ondas estacionárias e comprimento de onda",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 74,
+          "discipline": "Química",
+          "topic": "Cinética química e espectroscopia ultrarrápida",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 75,
+          "discipline": "História",
+          "topic": "Rotas comerciais de sociedades africanas antigas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 76,
+          "discipline": "História",
+          "topic": "Revolução Cubana e Guerra Fria",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 77,
+          "discipline": "História",
+          "topic": "Antecedentes da Revolução Iraniana",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 78,
+          "discipline": "Geografia",
+          "topic": "Conflitos geopolíticos no espaço mundial",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 79,
+          "discipline": "Geografia",
+          "topic": "Relações entre China e Taiwan",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 80,
+          "discipline": "Geografia",
+          "topic": "Produto Interno Bruto e economia mundial",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 81,
+          "discipline": "Sociologia",
+          "topic": "Reprodução social e economia do cuidado",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 82,
+          "discipline": "Português",
+          "topic": "Léxico e variação linguística moçambicana",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 83,
+          "discipline": "Português",
+          "topic": "Representação literária da violência",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 84,
+          "discipline": "Matemática",
+          "topic": "Leitura quantitativa de taxas e gráficos",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 85,
+          "discipline": "Matemática",
+          "topic": "Padrões de números triangulares e oblongos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 86,
+          "discipline": "História",
+          "topic": "Sociedades tupis no período colonial",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 87,
+          "discipline": "História",
+          "topic": "Conquista da América e alteridade",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 88,
+          "discipline": "Inglês",
+          "topic": "Leitura de texto inglês sobre La Malinche",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 89,
+          "discipline": "Português",
+          "topic": "Preconceito linguístico",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 90,
+          "discipline": "Sociologia",
+          "topic": "Profecia autorrealizável e reinserção social",
+          "relatedDisciplines": []
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "count": 90,
+      "disciplines": {
+        "Artes": 2,
+        "Biologia": 9,
+        "Educação Física": 1,
+        "Filosofia": 3,
+        "Física": 10,
+        "Geografia": 12,
+        "História": 9,
+        "Inglês": 6,
+        "Matemática": 10,
+        "Português": 13,
+        "Química": 11,
+        "Sociologia": 4
+      },
+      "questions": [
+        {
+          "index": 1,
+          "discipline": "Artes",
+          "topic": "Arte indígena e resistência a narrativas coloniais",
+          "relatedDisciplines": [
+            "Sociologia",
+            "História"
+          ]
+        },
+        {
+          "index": 2,
+          "discipline": "Geografia",
+          "topic": "Garimpo e impactos socioambientais amazônicos",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 3,
+          "discipline": "Português",
+          "topic": "Sintaxe e interpretação verbo-visual de charge",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 4,
+          "discipline": "História",
+          "topic": "Ocupação da América portuguesa e saberes indígenas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 5,
+          "discipline": "Português",
+          "topic": "Adaptação em quadrinhos de Dois irmãos",
+          "relatedDisciplines": [
+            "Artes"
+          ]
+        },
+        {
+          "index": 6,
+          "discipline": "Filosofia",
+          "topic": "Alteridade e reciprocidade em Gadamer",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 7,
+          "discipline": "Filosofia",
+          "topic": "Lógica e classificação de falácias",
+          "relatedDisciplines": [
+            "Inglês"
+          ]
+        },
+        {
+          "index": 8,
+          "discipline": "História",
+          "topic": "Iconoclastia e cristianismo medieval",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 9,
+          "discipline": "Sociologia",
+          "topic": "Mídia digital e relações entre produtores e consumidores",
+          "relatedDisciplines": [
+            "Filosofia"
+          ]
+        },
+        {
+          "index": 10,
+          "discipline": "Sociologia",
+          "topic": "Cancelamento e mecanismos de sanção social",
+          "relatedDisciplines": [
+            "Português"
+          ]
+        },
+        {
+          "index": 11,
+          "discipline": "Português",
+          "topic": "Valores semânticos de conectivos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 12,
+          "discipline": "Sociologia",
+          "topic": "Capitalismo e colonialismo de dados",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 13,
+          "discipline": "História",
+          "topic": "Colonizações ibérica e inglesa nas Américas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 14,
+          "discipline": "História",
+          "topic": "Confederação do Equador e organização do Império",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 15,
+          "discipline": "Inglês",
+          "topic": "Leitura de verbete inglês sobre justiça",
+          "relatedDisciplines": [
+            "Filosofia"
+          ]
+        },
+        {
+          "index": 16,
+          "discipline": "Matemática",
+          "topic": "Porcentagem de inclinação de rampas",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 17,
+          "discipline": "Matemática",
+          "topic": "Distâncias no plano cartesiano",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 18,
+          "discipline": "Física",
+          "topic": "Impulso e força média em colisão",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 19,
+          "discipline": "Física",
+          "topic": "Efeito Compton e ondas eletromagnéticas",
+          "relatedDisciplines": [
+            "Química"
+          ]
+        },
+        {
+          "index": 20,
+          "discipline": "Química",
+          "topic": "Evolução dos modelos atômicos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 21,
+          "discipline": "Química",
+          "topic": "Estrutura atômica e densidade energética de baterias",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 22,
+          "discipline": "Física",
+          "topic": "Reflexão interna total e índice de refração",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 23,
+          "discipline": "Física",
+          "topic": "Polarização e ondas eletromagnéticas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 24,
+          "discipline": "Química",
+          "topic": "Propriedades do cloreto de sódio",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 25,
+          "discipline": "Geografia",
+          "topic": "Escala cartográfica",
+          "relatedDisciplines": [
+            "Matemática"
+          ]
+        },
+        {
+          "index": 26,
+          "discipline": "Geografia",
+          "topic": "Rotas marítimas e geopolítica do Ártico",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 27,
+          "discipline": "Inglês",
+          "topic": "Leitura de texto inglês sobre gelo e rotação terrestre",
+          "relatedDisciplines": [
+            "Física",
+            "Geografia"
+          ]
+        },
+        {
+          "index": 28,
+          "discipline": "Inglês",
+          "topic": "Compreensão em inglês sobre marés e gravitação",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 29,
+          "discipline": "Biologia",
+          "topic": "Evolução biológica e alterações ambientais",
+          "relatedDisciplines": [
+            "Inglês"
+          ]
+        },
+        {
+          "index": 30,
+          "discipline": "Biologia",
+          "topic": "Fragmentação de populações e variabilidade genética",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 31,
+          "discipline": "Biologia",
+          "topic": "Relações ecológicas e branqueamento de corais",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 32,
+          "discipline": "Física",
+          "topic": "Interferência e iridescência",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 33,
+          "discipline": "Física",
+          "topic": "Cinemática e desaceleração de pica-paus",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 34,
+          "discipline": "Português",
+          "topic": "Enredo e construção narrativa em Os ratos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 35,
+          "discipline": "Biologia",
+          "topic": "Sistema nervoso simpático e respostas fisiológicas",
+          "relatedDisciplines": [
+            "Português"
+          ]
+        },
+        {
+          "index": 36,
+          "discipline": "Português",
+          "topic": "Representação social no conto Dina",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 37,
+          "discipline": "Português",
+          "topic": "Sentido e referenciação em poema de Mel Duarte",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 38,
+          "discipline": "Português",
+          "topic": "Recursos expressivos e figuras de linguagem",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 39,
+          "discipline": "História",
+          "topic": "Peronismo e propaganda política",
+          "relatedDisciplines": [
+            "Artes"
+          ]
+        },
+        {
+          "index": 40,
+          "discipline": "Educação Física",
+          "topic": "Gênero e participação nas práticas esportivas",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 41,
+          "discipline": "Inglês",
+          "topic": "Interpretação da letra de música em inglês",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 42,
+          "discipline": "Inglês",
+          "topic": "Concepção de conforto em texto inglês",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 43,
+          "discipline": "Português",
+          "topic": "Modernismo e poética de Drummond",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 44,
+          "discipline": "Filosofia",
+          "topic": "Concepção filosófica do tempo em Agostinho",
+          "relatedDisciplines": [
+            "Português"
+          ]
+        },
+        {
+          "index": 45,
+          "discipline": "Matemática",
+          "topic": "Médias e expectativa de vida",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 46,
+          "discipline": "Biologia",
+          "topic": "Botânica e reservas nutritivas das sementes",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 47,
+          "discipline": "Biologia",
+          "topic": "Alimentação e risco cardiovascular",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 48,
+          "discipline": "Matemática",
+          "topic": "Leitura numérica de séries e percentuais",
+          "relatedDisciplines": [
+            "Geografia"
+          ]
+        },
+        {
+          "index": 49,
+          "discipline": "Geografia",
+          "topic": "MATOPIBA, agropecuária e desmatamento",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 50,
+          "discipline": "Geografia",
+          "topic": "Paisagem e degradação do bioma Pampa",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 51,
+          "discipline": "Geografia",
+          "topic": "Ilha de calor e uso do solo urbano",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 52,
+          "discipline": "Matemática",
+          "topic": "Transformação de função trigonométrica",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 53,
+          "discipline": "Geografia",
+          "topic": "Climograma e chuvas urbanas",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 54,
+          "discipline": "Geografia",
+          "topic": "Geografia da saúde e condições de expansão da dengue",
+          "relatedDisciplines": [
+            "Biologia"
+          ]
+        },
+        {
+          "index": 55,
+          "discipline": "Biologia",
+          "topic": "Sistemas circulatórios de invertebrados",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 56,
+          "discipline": "Química",
+          "topic": "Processos físico-químicos de mumificação",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 57,
+          "discipline": "Química",
+          "topic": "Soluções supersaturadas e calor de cristalização",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 58,
+          "discipline": "Química",
+          "topic": "Solubilidade e concentração de chumbo",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 59,
+          "discipline": "Física",
+          "topic": "Dilatação térmica linear",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 60,
+          "discipline": "Química",
+          "topic": "Corrosão e variação de massa de metais",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 61,
+          "discipline": "Física",
+          "topic": "Queda livre na história da Física",
+          "relatedDisciplines": [
+            "Inglês"
+          ]
+        },
+        {
+          "index": 62,
+          "discipline": "Física",
+          "topic": "Energia mecânica em montanha-russa",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 63,
+          "discipline": "Química",
+          "topic": "Captura de carbono e reações de combustíveis",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 64,
+          "discipline": "Química",
+          "topic": "Estequiometria e densidade de combustíveis líquidos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 65,
+          "discipline": "Português",
+          "topic": "Interpretação de divulgação científica sobre energia",
+          "relatedDisciplines": [
+            "Química"
+          ]
+        },
+        {
+          "index": 66,
+          "discipline": "Português",
+          "topic": "Voz verbal e uso do pronome se",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 67,
+          "discipline": "Biologia",
+          "topic": "Diferenciação de células-tronco e identidade genética",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 68,
+          "discipline": "Geografia",
+          "topic": "Desenvolvimento econômico e produção científica",
+          "relatedDisciplines": [
+            "Matemática"
+          ]
+        },
+        {
+          "index": 69,
+          "discipline": "Matemática",
+          "topic": "Gráfico de função com módulo",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 70,
+          "discipline": "Matemática",
+          "topic": "Progressões aritméticas e sequências",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 71,
+          "discipline": "Biologia",
+          "topic": "Seleção natural e resistência a antibióticos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 72,
+          "discipline": "Química",
+          "topic": "Estequiometria, substituição orgânica e pH",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 73,
+          "discipline": "Química",
+          "topic": "Estequiometria de gases em foguete de garrafa",
+          "relatedDisciplines": [
+            "Física"
+          ]
+        },
+        {
+          "index": 74,
+          "discipline": "Física",
+          "topic": "Pressão e aceleração de uma rolha",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 75,
+          "discipline": "Matemática",
+          "topic": "Volume de sólidos de revolução",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 76,
+          "discipline": "Matemática",
+          "topic": "Volume e área lateral de cilindros",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 77,
+          "discipline": "Matemática",
+          "topic": "Equações de circunferências",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 78,
+          "discipline": "Inglês",
+          "topic": "Compreensão de humor e diálogo em inglês",
+          "relatedDisciplines": [
+            "Matemática"
+          ]
+        },
+        {
+          "index": 79,
+          "discipline": "História",
+          "topic": "Migrações no Império Romano",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 80,
+          "discipline": "Sociologia",
+          "topic": "Ética protestante e capitalismo em Weber",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 81,
+          "discipline": "Geografia",
+          "topic": "Industrialização e organização territorial brasileira",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 82,
+          "discipline": "Português",
+          "topic": "Realismo e personagens de Machado e Eça",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 83,
+          "discipline": "Português",
+          "topic": "Funcionalismo público em Os ratos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 84,
+          "discipline": "Português",
+          "topic": "Intertextualidade e referência a Pégaso",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 85,
+          "discipline": "História",
+          "topic": "Inconfidência Mineira e tributação colonial",
+          "relatedDisciplines": [
+            "Português"
+          ]
+        },
+        {
+          "index": 86,
+          "discipline": "Artes",
+          "topic": "Modernismo nas artes visuais de Tarsila",
+          "relatedDisciplines": [
+            "História"
+          ]
+        },
+        {
+          "index": 87,
+          "discipline": "História",
+          "topic": "Produção e comércio de tecidos africanos",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 88,
+          "discipline": "Geografia",
+          "topic": "Características regionais do Sahel",
+          "relatedDisciplines": []
+        },
+        {
+          "index": 89,
+          "discipline": "Geografia",
+          "topic": "Diversidade regional e identidades africanas",
+          "relatedDisciplines": [
+            "Sociologia"
+          ]
+        },
+        {
+          "index": 90,
+          "discipline": "História",
+          "topic": "Estado Novo e nacionalismo cultural",
+          "relatedDisciplines": [
+            "Português"
+          ]
+        }
+      ]
+    }
+  ]
+}

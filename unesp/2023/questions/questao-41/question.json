@@ -1,0 +1,98 @@
+{
+  "title": "Questão 41 - UNESP 2023 - 1ª fase",
+  "index": 41,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Nenhum grupo de mulheres brancas conheceu melhor a\ndiferença entre seu próprio status e o status das mulheres\nnegras do que o grupo de mulheres brancas politicamente\nconscientes e ativistas na luta pelos direitos civis. Ainda assim, várias dessas mulheres deslocaram-se das lutas pelos\ndireitos civis para as lutas pela libertação da mulher e lideraram um movimento feminista em que suprimiram e negaram\na consciência sobre as diferenças que viram e ouviram.\nElas entraram para o movimento feminista apagando e\nnegando a diferença, sem pensar em raça e gênero juntos,\nmas eliminando raça do cenário.\n(bell hooks. O feminismo é para todo mundo:\npolíticas arrebatadoras, 2018. Adaptado.)\nAo abordar aspectos do Movimento pelos Direitos Civis nos\nEstados Unidos da década de 1960, o excerto",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aponta o insucesso das reivindicações de igualdade de\nraça e gênero e a persistência de padrões históricos de\ndesigualdade na sociedade norte-americana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "lamenta a ausência de uma história de mobilizações\nfeministas e negras e de uma disposição das mulheres\nbrancas para atuar em defesa das conquistas de direitos\nsociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "identifica a ocorrência em paralelo de ações afirmativas\ndas mulheres e dos negros e a falta de conexão entre\nesses dois campos de reivindicação de direitos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "caracteriza a mudança radical por que passou a sociedade norte-americana no período e o nascimento de interconexões entre os movimentos negro e feminista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "enfatiza a importância da estratégia política do ativismo\nfeminista e sua influência sobre as mobilizações posteriores de reivindicação de direitos da população negra.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Nenhum grupo de mulheres brancas conheceu melhor a\ndiferença entre seu próprio status e o status das mulheres\nnegras do que o grupo de mulheres brancas politicamente\nconscientes e ativistas na luta pelos direitos civis. Ainda as-\nsim, várias dessas mulheres deslocaram-se das lutas pelos\ndireitos civis para as lutas pela libertação da mulher e lidera-\nram um movimento feminista em que suprimiram e negaram\na consciência sobre as diferenças que viram e ouviram.\nElas entraram para o movimento feminista apagando e\nnegando a diferença, sem pensar em raça e gênero juntos,\nmas eliminando raça do cenário.\n(bell hooks. O feminismo é para todo mundo:\npolíticas arrebatadoras, 2018. Adaptado.)\nAo abordar aspectos do Movimento pelos Direitos Civis nos\nEstados Unidos da década de 1960, o excerto\n(A) aponta o insucesso das reivindicações de igualdade de\nraça e gênero e a persistência de padrões históricos de\ndesigualdade na sociedade norte-americana.\n(B) lamenta a ausência de uma história de mobilizações\nfeministas e negras e de uma disposição das mulheres\nbrancas para atuar em defesa das conquistas de direitos\nsociais.\n(C) identifica a ocorrência em paralelo de ações afirmativas\ndas mulheres e dos negros e a falta de conexão entre\nesses dois campos de reivindicação de direitos.\n(D) caracteriza a mudança radical por que passou a socieda-\nde norte-americana no período e o nascimento de inter-\nconexões entre os movimentos negro e feminista.\n(E) enfatiza a importância da estratégia política do ativismo\nfeminista e sua influência sobre as mobilizações poste-\nriores de reivindicação de direitos da população negra.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

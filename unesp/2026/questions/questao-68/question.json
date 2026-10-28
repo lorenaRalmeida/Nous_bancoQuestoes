@@ -1,0 +1,122 @@
+{
+  "title": "Questão 68 - UNESP 2026 - 1ª fase",
+  "index": 68,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "No corpo humano, o sistema cardiovascular é responsável\npelo transporte de várias substâncias, como os gases respiratórios O e CO , que podem ser transportados pela hemo-\n2 2\nglobina. Ao se avaliar esses gases e a hemoglobina ao longo\nda circulação pulmonar em uma pessoa saudável, verifica-se\nque as concentrações dessas três substâncias podem ser\nplotadas em um gráfico. O gráfico que ilustra como as concentrações desses gases e da hemoglobina se comportam\nnesse trecho da circulação pulmonar corresponde a:",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png",
+    "alternativa-E-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No corpo humano, o sistema cardiovascular é responsável\npelo transporte de várias substâncias, como os gases respi-\nratórios O e CO , que podem ser transportados pela hemo-\n2 2\nglobina. Ao se avaliar esses gases e a hemoglobina ao longo\nda circulação pulmonar em uma pessoa saudável, verifica-se\nque as concentrações dessas três substâncias podem ser\nplotadas em um gráfico. O gráfico que ilustra como as con-\ncentrações desses gases e da hemoglobina se comportam\nnesse trecho da circulação pulmonar corresponde a:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png",
+        "alternativa-E-02.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 5 - FUVEST 2024 - 1ª fase",
+  "index": 5,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 04 E 05\nDisponível em https://www.tate.org.uk/art/artworks/.\n\nConsiderado o contexto, a expressão “be worth” tem sentido\nde",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "prontidão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "esperteza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "valorização.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "apelo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "experimento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Considerado o contexto, a expressão “be worth” tem sentido\nde\n(A) prontidão.\n(B) esperteza.\n(C) valorização.\n(D) apelo.\n(E) experimento.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 04 E 05\nDisponível em https://www.tate.org.uk/art/artworks/.",
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            28,
+            37.76470000000006,
+            297.5,
+            298.91470000000004
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            28,
+            455.5147,
+            297.5,
+            587.7547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "topic": "Sentido da expressão be worth",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

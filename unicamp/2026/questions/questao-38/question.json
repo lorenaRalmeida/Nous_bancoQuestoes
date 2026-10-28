@@ -1,0 +1,133 @@
+{
+  "title": "Questão 38 - UNICAMP 2026 - 1ª fase",
+  "index": 38,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Fungos e metazoários evoluíram de um ancestral comum similar\naos protistas, entretanto, os dois reinos divergiram ao longo do\ntempo. Os fungos crescem em cima ou dentro do seu alimento\ne a digestão ocorre no meio externo. Além disso, a maioria dos\nrepresentantes dos fungos é composta por organismos com ciclo de vida haplobionte. A figura a seguir representa um ciclo\nde vida típico de um fungo haplobionte haplonte.\n(Adaptado de AMSES, K. R. e colaboradores. PNAS, Washington, v.119, p. e2116841119,\nago. 2022.)\nAssinale a alternativa que identifica corretamente os eventos I,\nII, III e IV.\nI II III IV",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Fungos e metazoários evoluíram de um ancestral comum similar\naos protistas, entretanto, os dois reinos divergiram ao longo do\ntempo. Os fungos crescem em cima ou dentro do seu alimento\ne a digestão ocorre no meio externo. Além disso, a maioria dos\nrepresentantes dos fungos é composta por organismos com ci-\nclo de vida haplobionte. A figura a seguir representa um ciclo\nde vida típico de um fungo haplobionte haplonte.\n(Adaptado de AMSES, K. R. e colaboradores. PNAS, Washington, v.119, p. e2116841119,\nago. 2022.)\nAssinale a alternativa que identifica corretamente os eventos I,\nII, III e IV.\nI II III IV\na) mitose meiose plasmogamia meiose\nb) meiose meiose cariogamia mitose\nc) mitose mitose plasmogamia meiose\nd) meiose mitose cariogamia mitose",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            700.8615,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            40,
+            291,
+            428.07959999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 16,
+        "bbox": [
+          30,
+          45.9769,
+          284.2771,
+          244.144
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 16,
+        "bbox": [
+          30,
+          296.55499999999995,
+          291,
+          324.17379999999997
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

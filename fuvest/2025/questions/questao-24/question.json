@@ -1,0 +1,90 @@
+{
+  "title": "Questão 24 - FUVEST 2025 - 1ª fase",
+  "index": 24,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Na zona sul da cidade de São Paulo, há uma esquina formada\npelas ruas Cloreto de Sódio e Relíquia do Oceano.\nA coincidência do encontro dessas ruas chama a atenção, pois\no cloreto de sódio",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "praticamente não está presente no oceano, apesar de este\nser salgado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "é insolúvel na água do oceano por apresentar ligação\niônica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "utilizado no Brasil é quase todo proveniente do oceano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "obtido do oceano apresenta ligação covalente, enquanto\no extraído do sal-gema, ligação iônica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "retirado do oceano tem mais átomos de cloro ligados ao\nsódio do que o oriundo de outras fontes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nNa zona sul da cidade de São Paulo, há uma esquina formada\npelas ruas Cloreto de Sódio e Relíquia do Oceano.\nA coincidência do encontro dessas ruas chama a atenção, pois\no cloreto de sódio\n(A) praticamente não está presente no oceano, apesar de este\nser salgado.\n(B) é insolúvel na água do oceano por apresentar ligação\niônica.\n(C) utilizado no Brasil é quase todo proveniente do oceano.\n(D) obtido do oceano apresenta ligação covalente, enquanto\no extraído do sal-gema, ligação iônica.\n(E) retirado do oceano tem mais átomos de cloro ligados ao\nsódio do que o oriundo de outras fontes.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            473.5747
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Propriedades do cloreto de sódio",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

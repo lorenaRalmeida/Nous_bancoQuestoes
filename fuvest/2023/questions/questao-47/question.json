@@ -1,0 +1,98 @@
+{
+  "title": "Questão 47 - FUVEST 2023 - 1ª fase",
+  "index": 47,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "“E desse modo os respectivos Lordes Espirituais, Temporais e\nMembros da Câmara dos Comuns (...) declaram:\nQue o pretenso poder de suspender as leis ou executar as leis\npor autoridade real sem consentimento do Parlamento é\nilegal;\n(...)\nQue a criação ou manutenção de um exército permanente no\nreino em tempos de paz, a menos que com o consentimento\ndo Parlamento, é ilegal”.\nTraduzido de English Bill of Rights, 1689. Disponível em\nhttps://avalon.law.yale.edu/.\nConsiderando o texto da lei e o contexto político da Inglaterra\nao fim do processo revolucionário no século XVII, é correto\nafirmar que a Declaração de Direitos de 1689",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "suprime todas as prerrogativas do Parlamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "dispensa o aval parlamentar para mudar a legislação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "impõe limites ao poder monárquico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "impossibilita a criação de um exército.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estabelece um regime republicano.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“E desse modo os respectivos Lordes Espirituais, Temporais e\nMembros da Câmara dos Comuns (...) declaram:\nQue o pretenso poder de suspender as leis ou executar as leis\npor autoridade real sem consentimento do Parlamento é\nilegal;\n(...)\nQue a criação ou manutenção de um exército permanente no\nreino em tempos de paz, a menos que com o consentimento\ndo Parlamento, é ilegal”.\nTraduzido de English Bill of Rights, 1689. Disponível em\nhttps://avalon.law.yale.edu/.\nConsiderando o texto da lei e o contexto político da Inglaterra\nao fim do processo revolucionário no século XVII, é correto\nafirmar que a Declaração de Direitos de 1689\n(A) suprime todas as prerrogativas do Parlamento.\n(B) dispensa o aval parlamentar para mudar a legislação.\n(C) impõe limites ao poder monárquico.\n(D) impossibilita a criação de um exército.\n(E) estabelece um regime republicano.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            297.5,
+            299.3347,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.07470000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Revolução Inglesa e Bill of Rights",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

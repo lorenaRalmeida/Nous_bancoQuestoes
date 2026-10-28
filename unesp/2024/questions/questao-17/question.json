@@ -1,0 +1,102 @@
+{
+  "title": "Questão 17 - UNESP 2024 - 1ª fase",
+  "index": 17,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Examine a charge do cartunista Angeli.\n— Feito isso, sairemos à cata de todos aqueles meus\ncoleguinhas de escola que me chamavam de orelhudo!\n(Angeli. O lixo da história, 2013.)\nA charge ironiza os bastidores da invasão do Iraque em 2003.\nDepreende-se da análise da charge que, para o cartunista, a\ninvasão do Iraque se caracterizava como",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "necessária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "arbitrária.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "urgente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ambígua.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "refletida.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a charge do cartunista Angeli.\n— Feito isso, sairemos à cata de todos aqueles meus\ncoleguinhas de escola que me chamavam de orelhudo!\n(Angeli. O lixo da história, 2013.)\nA charge ironiza os bastidores da invasão do Iraque em 2003.\nDepreende-se da análise da charge que, para o cartunista, a\ninvasão do Iraque se caracterizava como\n(A) necessária.\n(B) arbitrária.\n(C) urgente.\n(D) ambígua.\n(E) refletida.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            262.3061,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

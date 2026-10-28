@@ -1,0 +1,82 @@
+{
+  "title": "Questão 27 - UNICAMP 2024 - 1ª fase",
+  "index": 27,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Povos e comunidades tradicionais são grupos culturalmente diferenciados e que se reconhecem como tais. Esses grupos contam com formas próprias de organização social, além de ocuparem e usarem territórios e recursos naturais como condição para\nsua reprodução cultural, social, religiosa, ancestral e econômica.\nPara tanto, utilizam conhecimentos, inovações e práticas gerados e transmitidos pela tradição (Inciso I, Art. 3º, Decreto 6.040\n/ 2007). Estima-se que cerca de 4,5 milhões de pessoas fazem\nparte de comunidades tradicionais atualmente no Brasil.\n(Adaptado de: Populações Tradicionais – Instituto Chico Mendes de Conservação da\nBiodiversidade. Disponível em: https://www.gov.br/icmbio/pt-br/assuntos/populacoes-\n-tradicionais. Acesso em 12/06/2023.)\nAssinale a alternativa que faz a correspondência correta dos povos e comunidades tradicionais com a sua região de atuação e\ncom as suas práticas específicas de organização socioterritorial.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Mulheres quebradeiras de coco babaçu da região do Meio-\n-norte aproveitam as matas de cocais e fazem uso comunitário dos babaçuais para a coleta de coco e de outros produtos das palmeiras.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Geraizeiros da região da Amazônia Ocidental se beneficiam\ndos rios para a pesca e praticam o extrativismo de frutos utilizados na culinária regional e transformados em produtos\nalimentícios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Caiçaras da região litorânea do Ceará praticam a pesca artesanal, utilizam as riquezas naturais da Mata Atlântica para o\nextrativismo de frutos e fazem uso dos roçados para atividades agrícolas de subsistência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Faxinalenses do norte de Minas Gerais usufruem dos campos para o desenvolvimento do extrativismo vegetal da erva\nmate e do pinhão, do cultivo agrícola em pequena escala e\nda criação de animais soltos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Povos e comunidades tradicionais são grupos culturalmente di-\nferenciados e que se reconhecem como tais. Esses grupos con-\ntam com formas próprias de organização social, além de ocupa-\nrem e usarem territórios e recursos naturais como condição para\nsua reprodução cultural, social, religiosa, ancestral e econômica.\nPara tanto, utilizam conhecimentos, inovações e práticas gera-\ndos e transmitidos pela tradição (Inciso I, Art. 3º, Decreto 6.040\n/ 2007). Estima-se que cerca de 4,5 milhões de pessoas fazem\nparte de comunidades tradicionais atualmente no Brasil.\n(Adaptado de: Populações Tradicionais – Instituto Chico Mendes de Conservação da\nBiodiversidade. Disponível em: https://www.gov.br/icmbio/pt-br/assuntos/populacoes-\n-tradicionais. Acesso em 12/06/2023.)\nAssinale a alternativa que faz a correspondência correta dos po-\nvos e comunidades tradicionais com a sua região de atuação e\ncom as suas práticas específicas de organização socioterritorial.\na) Mulheres quebradeiras de coco babaçu da região do Meio-\n-norte aproveitam as matas de cocais e fazem uso comuni-\ntário dos babaçuais para a coleta de coco e de outros pro-\ndutos das palmeiras.\nb) Geraizeiros da região da Amazônia Ocidental se beneficiam\ndos rios para a pesca e praticam o extrativismo de frutos uti-\nlizados na culinária regional e transformados em produtos\nalimentícios.\nc) Caiçaras da região litorânea do Ceará praticam a pesca arte-\nsanal, utilizam as riquezas naturais da Mata Atlântica para o\nextrativismo de frutos e fazem uso dos roçados para ativida-\ndes agrícolas de subsistência.\nd) Faxinalenses do norte de Minas Gerais usufruem dos cam-\npos para o desenvolvimento do extrativismo vegetal da erva\nmate e do pinhão, do cultivo agrícola em pequena escala e\nda criação de animais soltos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            514.4806
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

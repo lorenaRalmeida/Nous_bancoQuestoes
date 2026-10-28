@@ -1,0 +1,109 @@
+{
+  "title": "Questão 49 - UNESP 2026 - 1ª fase",
+  "index": 49,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise os recortes dos webstories publicados pela revista\nExame sobre uma tendência (trend) que se espalhou nas redes sociais em 2025: o uso da inteligência artificial para gerar\nimagens que copiam a estética de um estúdio de animação\njaponês, o Studio Ghibli.\n(https://exame.com, 05.04.2025. Adaptado.)\nProblematizado pelos webstories, o uso da inteligência artificial para a geração de imagens permite o debate sobre a",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png",
+    "imagem-04.png",
+    "imagem-05.png",
+    "imagem-06.png",
+    "imagem-07.png",
+    "imagem-08.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "flexibilização dos direitos autorais em serviços que degradam a natureza, como no caso dos produtos que consomem recursos hídricos em sua produção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "alienação dos consumidores de bens e serviços sobre\nprocessos produtivos, como no caso do uso de recursos hídricos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "lei da oferta e da procura no estabelecimento de preços\naos consumidores, como o praticado no uso de recursos hídricos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "imprecisão das informações na internet sobre impactos\nambientais, como os dados que expressam o reduzido\nconsumo de recursos hídricos pela população.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "oferta de serviços públicos para garantir a sustentabilidade do setor digital, como o uso racional de recursos\nhídricos nas linhas de produção.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise os recortes dos webstories publicados pela revista\nExame sobre uma tendência (trend) que se espalhou nas re-\ndes sociais em 2025: o uso da inteligência artificial para gerar\nimagens que copiam a estética de um estúdio de animação\njaponês, o Studio Ghibli.\n(https://exame.com, 05.04.2025. Adaptado.)\nProblematizado pelos webstories, o uso da inteligência arti-\nficial para a geração de imagens permite o debate sobre a\n(A) flexibilização dos direitos autorais em serviços que de-\ngradam a natureza, como no caso dos produtos que con-\nsomem recursos hídricos em sua produção.\n(B) alienação dos consumidores de bens e serviços sobre\nprocessos produtivos, como no caso do uso de recur-\nsos hídricos.\n(C) lei da oferta e da procura no estabelecimento de preços\naos consumidores, como o praticado no uso de recur-\nsos hídricos.\n(D) imprecisão das informações na internet sobre impactos\nambientais, como os dados que expressam o reduzido\nconsumo de recursos hídricos pela população.\n(E) oferta de serviços públicos para garantir a sustentabili-\ndade do setor digital, como o uso racional de recursos\nhídricos nas linhas de produção.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

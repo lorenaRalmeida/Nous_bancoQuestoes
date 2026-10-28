@@ -1,0 +1,100 @@
+{
+  "title": "Questão 39 - UNESP 2026 - 1ª fase",
+  "index": 39,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise a capa do álbum Survival, da banda jamaicana Bob\nMarley & The Wailers, lançado em 1979.\n(Regina Claro. Olhar a África: fontes visuais para sala de aula, 2012.)\nA composição da capa",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "relembra a violência da conquista ibérica dos litorais africanos e o início da exploração do centro do continente\nnos séculos XV e XVI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estabelece, por meio de bandeiras de países africanos\nindependentes e de imagem estilizada de uma embarcação, um vínculo entre África e América.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "revela, por meio das bandeiras dos países islâmicos e de\nimagem alusiva às religiosidades africanas, a diversidade\ne a tolerância religiosa na África.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "celebra a resistência dos africanos às ações imperialistas\ndos Estados Unidos e dos países do Ocidente europeu\nnos séculos XV e XVI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "critica, por meio das bandeiras das colônias africanas e\ndo título do álbum, a divisão do continente africano realizada pelos colonizadores europeus.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a capa do álbum Survival, da banda jamaicana Bob\nMarley & The Wailers, lançado em 1979.\n(Regina Claro. Olhar a África: fontes visuais para sala de aula, 2012.)\nA composição da capa\n(A) relembra a violência da conquista ibérica dos litorais afri-\ncanos e o início da exploração do centro do continente\nnos séculos XV e XVI.\n(B) estabelece, por meio de bandeiras de países africanos\nindependentes e de imagem estilizada de uma embarca-\nção, um vínculo entre África e América.\n(C) revela, por meio das bandeiras dos países islâmicos e de\nimagem alusiva às religiosidades africanas, a diversidade\ne a tolerância religiosa na África.\n(D) celebra a resistência dos africanos às ações imperialistas\ndos Estados Unidos e dos países do Ocidente europeu\nnos séculos XV e XVI.\n(E) critica, por meio das bandeiras das colônias africanas e\ndo título do álbum, a divisão do continente africano reali-\nzada pelos colonizadores europeus.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

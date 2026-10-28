@@ -1,0 +1,82 @@
+{
+  "title": "Questão 70 - UNICAMP 2025 - 1ª fase",
+  "index": 70,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Considera-se que a evolução cria e sustenta a biodiversidade via\nmudanças adaptativas em características ecologicamente relevantes. A especiação é um processo contínuo que dá origem à\ndiversidade biológica, e está intimamente associada a mudanças no fenótipo e à adaptação ao ambiente ecológico.\nAssinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A deriva genética é um componente da especiação, levando\na uma maior diversidade genética devido ao fluxo de genes\nentre populações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A seleção natural contribui para a adaptação ecológica tanto na presença como na ausência de isolamento geográfico\nentre populações.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A especiação é induzida por barreiras de fluxo gênico entre\npopulações, sendo resultante da seleção convergente baseada na ecologia entre ambientes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O isolamento geográfico é necessário para que ocorra a especiação, com as novas espécies ocupando nichos ecológicos distintos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considera-se que a evolução cria e sustenta a biodiversidade via\nmudanças adaptativas em características ecologicamente rele-\nvantes. A especiação é um processo contínuo que dá origem à\ndiversidade biológica, e está intimamente associada a mudan-\nças no fenótipo e à adaptação ao ambiente ecológico.\nAssinale a alternativa correta.\na) A deriva genética é um componente da especiação, levando\na uma maior diversidade genética devido ao fluxo de genes\nentre populações.\nb) A seleção natural contribui para a adaptação ecológica tan-\nto na presença como na ausência de isolamento geográfico\nentre populações.\nc) A especiação é induzida por barreiras de fluxo gênico entre\npopulações, sendo resultante da seleção convergente base-\nada na ecologia entre ambientes.\nd) O isolamento geográfico é necessário para que ocorra a es-\npeciação, com as novas espécies ocupando nichos ecológi-\ncos distintos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            266.35489999999993,
+            291,
+            570.621
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

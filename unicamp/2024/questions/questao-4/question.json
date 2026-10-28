@@ -1,0 +1,97 @@
+{
+  "title": "Questão 4 - UNICAMP 2024 - 1ª fase",
+  "index": 4,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "O anúncio (Texto 1) reproduzido a seguir foi postado nas redes\nsociais da Portela, escola de samba carioca, para divulgar uma\nfesta literária. A escola, que traz a águia como símbolo em todos os seus desfiles (Texto 2), completou 100 anos em 2023.\nTexto 1\nTexto 2\nme\nossecA\n./WAmOt_AVlrC/p/moc.margatsni.www//:sptth\n:me\nlevínopsiD(\n).3202/60/42\n.7102\ned\nelfised\non\naletroP\nad\naiugÁ(\n).7102\n.sretueR/searoM\nodraciR\n:otoF\nConsiderando a imagem no texto 2, podemos afirmar que o\ntexto 1 promove uma",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fusão entre o símbolo da escola e o produto da expressão\nliterária, que aparece materializado no desenho das asas da\náguia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "relação entre a festa literária, mencionada em segundo plano, e o desenho do símbolo da escola, que passa a personificar a literatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "associação das asas da águia com o título atribuído à festa literária, que mostra o nome da escola antecedido pelo\nprefixo fli.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ressignificação do símbolo da Portela, cujo desenho faz referência direta à arte literária, para destacar o centenário da\nescola como tema da festa.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O anúncio (Texto 1) reproduzido a seguir foi postado nas redes\nsociais da Portela, escola de samba carioca, para divulgar uma\nfesta literária. A escola, que traz a águia como símbolo em to-\ndos os seus desfiles (Texto 2), completou 100 anos em 2023.\nTexto 1\nTexto 2\nme\nossecA\n./WAmOt_AVlrC/p/moc.margatsni.www//:sptth\n:me\nlevínopsiD(\n).3202/60/42\n.7102\ned\nelfised\non\naletroP\nad\naiugÁ(\n).7102\n.sretueR/searoM\nodraciR\n:otoF\nConsiderando a imagem no texto 2, podemos afirmar que o\ntexto 1 promove uma\na) fusão entre o símbolo da escola e o produto da expressão\nliterária, que aparece materializado no desenho das asas da\náguia.\nb) relação entre a festa literária, mencionada em segundo pla-\nno, e o desenho do símbolo da escola, que passa a personi-\nficar a literatura.\nc) associação das asas da águia com o título atribuído à fes-\nta literária, que mostra o nome da escola antecedido pelo\nprefixo fli.\nd) ressignificação do símbolo da Portela, cujo desenho faz re-\nferência direta à arte literária, para destacar o centenário da\nescola como tema da festa.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            371.59229999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            40,
+            291,
+            278.66459999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

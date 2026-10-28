@@ -1,0 +1,101 @@
+{
+  "title": "Questão 44 - UNESP 2025 - 1ª fase",
+  "index": 44,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Examine a notícia publicada pela Tribuna da Imprensa em\n1991.\n(www.senado.leg.br. Adaptado.)\nMais de três décadas após a sua fundação, o Mercosul consolidou-se como",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uma república federativa, defendendo os interesses de\nseus Membros Plenos na conquista de relevância política\ninternacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "um mercado comum, articulando potencialidades\ncomerciais com o auxílio de uma autoridade monetária\nconjunta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uma união aduaneira, contemplando Estados Partes e\nEstados Associados, com graus diferentes de integração.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "uma união política, estabelecendo parâmetros legislativos democráticos para seus Estados-Membros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "um organismo supranacional, fomentando debates sobre\nas necessidades socioeconômicas do Sul-global.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a notícia publicada pela Tribuna da Imprensa em\n1991.\n(www.senado.leg.br. Adaptado.)\nMais de três décadas após a sua fundação, o Mercosul con-\nsolidou-se como\n(A) uma república federativa, defendendo os interesses de\nseus Membros Plenos na conquista de relevância política\ninternacional.\n(B) um mercado comum, articulando potencialidades\ncomerciais com o auxílio de uma autoridade monetária\nconjunta.\n(C) uma união aduaneira, contemplando Estados Partes e\nEstados Associados, com graus diferentes de integração.\n(D) uma união política, estabelecendo parâmetros legislati-\nvos democráticos para seus Estados-Membros.\n(E) um organismo supranacional, fomentando debates sobre\nas necessidades socioeconômicas do Sul-global.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

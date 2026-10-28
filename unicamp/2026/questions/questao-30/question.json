@@ -1,0 +1,92 @@
+{
+  "title": "Questão 30 - UNICAMP 2026 - 1ª fase",
+  "index": 30,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Entre várias obras que devem formar este precioso presente\nque ofereço aos meus concidadãos, dei o primeiro lugar ao\nContrato Social, escrito pelo cidadão de Genebra, Jean-Jacques\nRousseau. Este homem imortal, que obteve a admiração de seu\nséculo e será o assombro de todas as idades, [... ensinou que]\nos povos aprenderam a procurar no pacto social a raiz e a única\norigem da obediência, não reconhecendo os seus chefes como\nemissários da divindade, enquanto não mostrassem as patentes\ndo céu na qual eram destinados a imperar sobre seus semelhantes. [...] Como o autor teve a desgraça de delirar em matérias\nreligiosas, suprimo o capítulo e as passagens principais onde\ndelas tratou.\n(MORENO, M. Prólogo de O Contrato Social ou Princípios do direito político, de Jean-\n-Jacques Rousseau, Buenos Aires, 1810 apud MYERS, J. A revolução de independência\nno Rio da Prata e as origens da nacionalidade argentina (1806-1825) In: PAMPLONA, M;\nMÄDER, M. (org.). Revoluções de independências e nacionalismos nas Américas: região\ndo Prata e Chile. São Paulo: Paz e Terra, p. 107 e 109, 2007.)\nMariano Moreno, tradutor de Rousseau para o espanhol, foi secretário do primeiro governo da Argentina entre os anos 1810\ne 1811. No texto acima, ele",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "critica a defesa que Rousseau faz da Igreja e dos governos\nabsolutistas na obra O Contrato Social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "interfere na tradução e edição da obra de Rousseau conforme seus ideários políticos e ideológicos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "justifica a tradução da obra para difundir a ideia de obediência cívica ligada à religião católica e ao rei.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "demonstra seu caráter conservador e a resistência ao pensamento liberal e iluminista na Argentina.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Entre várias obras que devem formar este precioso presente\nque ofereço aos meus concidadãos, dei o primeiro lugar ao\nContrato Social, escrito pelo cidadão de Genebra, Jean-Jacques\nRousseau. Este homem imortal, que obteve a admiração de seu\nséculo e será o assombro de todas as idades, [... ensinou que]\nos povos aprenderam a procurar no pacto social a raiz e a única\norigem da obediência, não reconhecendo os seus chefes como\nemissários da divindade, enquanto não mostrassem as patentes\ndo céu na qual eram destinados a imperar sobre seus semelhan-\ntes. [...] Como o autor teve a desgraça de delirar em matérias\nreligiosas, suprimo o capítulo e as passagens principais onde\ndelas tratou.\n(MORENO, M. Prólogo de O Contrato Social ou Princípios do direito político, de Jean-\n-Jacques Rousseau, Buenos Aires, 1810 apud MYERS, J. A revolução de independência\nno Rio da Prata e as origens da nacionalidade argentina (1806-1825) In: PAMPLONA, M;\nMÄDER, M. (org.). Revoluções de independências e nacionalismos nas Américas: região\ndo Prata e Chile. São Paulo: Paz e Terra, p. 107 e 109, 2007.)\nMariano Moreno, tradutor de Rousseau para o espanhol, foi se-\ncretário do primeiro governo da Argentina entre os anos 1810\ne 1811. No texto acima, ele\na) critica a defesa que Rousseau faz da Igreja e dos governos\nabsolutistas na obra O Contrato Social.\nb) interfere na tradução e edição da obra de Rousseau confor-\nme seus ideários políticos e ideológicos.\nc) justifica a tradução da obra para difundir a ideia de obediên-\ncia cívica ligada à religião católica e ao rei.\nd) demonstra seu caráter conservador e a resistência ao pensa-\nmento liberal e iluminista na Argentina.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            603.8553999999999,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            40,
+            291,
+            219.80319999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

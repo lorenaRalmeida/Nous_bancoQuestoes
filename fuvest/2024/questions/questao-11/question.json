@@ -1,0 +1,98 @@
+{
+  "title": "Questão 11 - FUVEST 2024 - 1ª fase",
+  "index": 11,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 11 E 12\nVincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers\nof ads everywhere would be forgiven for thinking that art\ngalleries are enjoying some sort of golden age. The truth is less\nexciting, more expensive and certainly more depressing. For\nthis is no ordinary art on offer; this art is “immersive”, the\nlatest lovechild of TikTok and enterprising warehouse\nlandlords. The first problem with immersive art? It's not\nactually very immersive. A common trope of “immersive”\nretrospectives is to recreate original pieces using gimmicky\ntech. But merely aiming a projector at a blank canvas doesn’t\ndo much in the way of sensory stimulation. My favourite\nelement of an “immersive” show I have been to was their\nfaithful recreation of Van Gogh’s bedroom. An ambitious feat,\nexecuted with some furniture and, of course, mutilated\npastiches of his paintings. While projectors, surround sound\nand uncomfortably wacky seating are mainstays of immersive\nart, there are also the VR headsets. But many exhibitions don’t\neven include these with the standard ticket, so my return to\nreality has twice been accompanied by an usher brandishing\na credit card machine. Sometimes these installations are so\nbanal and depthless, visitors have often walked through\ninstallations entirely oblivious to whatever is happening\naround them. Despite the fixation “immersive experiences”\nhave with novelty, the products of their labours are\nremarkably similar: disappointing light shows punctuated by a\nfew gamified set pieces.\nDisponível em https://www.vice.com/en/article/. Adaptado.\n\nDe acordo com o texto, muitos visitantes das exposições de\narte imersivas demonstram",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fascínio pelas novidades tecnológicas utilizadas pelos\ncuradores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "desconforto causado pelo excesso de estímulos sensoriais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "curiosidade sobre a biografia dos pintores e os\nmovimentos artísticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "apreciação pelas informações oferecidas por guias e\neducadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "indiferença diante das simulações das obras de arte.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "De acordo com o texto, muitos visitantes das exposições de\narte imersivas demonstram\n(A) fascínio pelas novidades tecnológicas utilizadas pelos\ncuradores.\n(B) desconforto causado pelo excesso de estímulos sensoriais.\n(C) curiosidade sobre a biografia dos pintores e os\nmovimentos artísticos.\n(D) apreciação pelas informações oferecidas por guias e\neducadores.\n(E) indiferença diante das simulações das obras de arte.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 11 E 12\nVincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers\nof ads everywhere would be forgiven for thinking that art\ngalleries are enjoying some sort of golden age. The truth is less\nexciting, more expensive and certainly more depressing. For\nthis is no ordinary art on offer; this art is “immersive”, the\nlatest lovechild of TikTok and enterprising warehouse\nlandlords. The first problem with immersive art? It's not\nactually very immersive. A common trope of “immersive”\nretrospectives is to recreate original pieces using gimmicky\ntech. But merely aiming a projector at a blank canvas doesn’t\ndo much in the way of sensory stimulation. My favourite\nelement of an “immersive” show I have been to was their\nfaithful recreation of Van Gogh’s bedroom. An ambitious feat,\nexecuted with some furniture and, of course, mutilated\npastiches of his paintings. While projectors, surround sound\nand uncomfortably wacky seating are mainstays of immersive\nart, there are also the VR headsets. But many exhibitions don’t\neven include these with the standard ticket, so my return to\nreality has twice been accompanied by an usher brandishing\na credit card machine. Sometimes these installations are so\nbanal and depthless, visitors have often walked through\ninstallations entirely oblivious to whatever is happening\naround them. Despite the fixation “immersive experiences”\nhave with novelty, the products of their labours are\nremarkably similar: disappointing light shows punctuated by a\nfew gamified set pieces.\nDisponível em https://www.vice.com/en/article/. Adaptado.",
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            40.224699999999984,
+            567,
+            396.9547
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            396.9547,
+            567,
+            565.7947
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "topic": "Interpretação de texto inglês sobre arte imersiva",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

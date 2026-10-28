@@ -1,0 +1,90 @@
+{
+  "title": "Questão 22 - FUVEST 2024 - 1ª fase",
+  "index": 22,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“A Enciclopédia conseguiu destronar a antiga rainha das\nciências e elevar a filosofia para o seu lugar. Longe de ser um\ncompêndio neutro de informações, a obra modelava o\nconhecimento de tal maneira que o tirava do clero e o\ncolocava nas mãos de intelectuais comprometidos com o\nIluminismo. (...) Mas o combate mais importante ocorreu na\ndécada de 1750, quando os enciclopedistas reconheceram\nque conhecimento era poder e, mapeando o universo do\nsaber, partiram para a conquista.”\nDARNTON, Robert. O grande massacre de gatos. Rio de Janeiro: Graal, 1986.\np.270. Adaptado.\nSegundo o excerto, a Enciclopédia preparada pelos\npensadores Diderot e D’Alembert propunha um novo papel\npara os filósofos e uma reordenação do conhecimento\ncientífico. Tal proposta se caracterizou pela",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "conexão com um modelo de saber que justificava a\nhierarquia social do Antigo Regime.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "revelação de que o conhecimento filosófico oferecia as\nbases políticas para o absolutismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "valorização do mecenato como forma de proteção aos\nnovos pensadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aclamação dos pensadores como defensores da\nneutralidade científica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "legitimação dos filósofos enquanto portadores de virtudes\nderivadas do culto do conhecimento empírico.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“A Enciclopédia conseguiu destronar a antiga rainha das\nciências e elevar a filosofia para o seu lugar. Longe de ser um\ncompêndio neutro de informações, a obra modelava o\nconhecimento de tal maneira que o tirava do clero e o\ncolocava nas mãos de intelectuais comprometidos com o\nIluminismo. (...) Mas o combate mais importante ocorreu na\ndécada de 1750, quando os enciclopedistas reconheceram\nque conhecimento era poder e, mapeando o universo do\nsaber, partiram para a conquista.”\nDARNTON, Robert. O grande massacre de gatos. Rio de Janeiro: Graal, 1986.\np.270. Adaptado.\nSegundo o excerto, a Enciclopédia preparada pelos\npensadores Diderot e D’Alembert propunha um novo papel\npara os filósofos e uma reordenação do conhecimento\ncientífico. Tal proposta se caracterizou pela\n(A) conexão com um modelo de saber que justificava a\nhierarquia social do Antigo Regime.\n(B) revelação de que o conhecimento filosófico oferecia as\nbases políticas para o absolutismo.\n(C) valorização do mecenato como forma de proteção aos\nnovos pensadores.\n(D) aclamação dos pensadores como defensores da\nneutralidade científica.\n(E) legitimação dos filósofos enquanto portadores de virtudes\nderivadas do culto do conhecimento empírico.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            396.17470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Filosofia"
+      ],
+      "topic": "Iluminismo e a Enciclopédia",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Questão 40 - UNICAMP 2026 - 1ª fase",
+  "index": 40,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Considere a placa de aviso encontrada em uma reserva ecológica.\nCUIDADO, INSETOS PERIGOSOS!\nMOSQUITOS CARRAPATOS\nESCORPIÕES ABELHAS\n(Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.)\nA informação da placa está",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "correta, já que os carrapatos e escorpiões são classificados\ncomo quilópodes e os mosquitos e as abelhas como diplópodes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "errada, pois apenas dois animais são artrópodes, sendo eles\nos mosquitos e as abelhas, que são classificados como insetos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "correta, já que os mosquitos e as abelhas são classificados\ncomo artrópodes e os carrapatos e escorpiões como aracnídeos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "errada, pois mesmo que todos os animais sejam classificados como artrópodes, os carrapatos e os escorpiões são\naracnídeos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considere a placa de aviso encontrada em uma reserva ecoló-\ngica.\nCUIDADO, INSETOS PERIGOSOS!\nMOSQUITOS CARRAPATOS\nESCORPIÕES ABELHAS\n(Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.)\nA informação da placa está\na) correta, já que os carrapatos e escorpiões são classificados\ncomo quilópodes e os mosquitos e as abelhas como dipló-\npodes.\nb) errada, pois apenas dois animais são artrópodes, sendo eles\nos mosquitos e as abelhas, que são classificados como in-\nsetos.\nc) correta, já que os mosquitos e as abelhas são classificados\ncomo artrópodes e os carrapatos e escorpiões como arac-\nnídeos.\nd) errada, pois mesmo que todos os animais sejam classifica-\ndos como artrópodes, os carrapatos e os escorpiões são\naracnídeos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            191.3954,
+            568,
+            660.4268999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

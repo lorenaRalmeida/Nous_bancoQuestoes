@@ -1,0 +1,94 @@
+{
+  "title": "Questão 24 - UNICAMP 2026 - 1ª fase",
+  "index": 24,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Leia os textos 1 e 2.\nTexto 1\nA adolescência é uma questão de corporificação do social. Mudanças físicas, como hormônios em ebulição, são importantes,\nmas elas não determinam como se experimenta a adolescência.\nEssa é uma questão de como as práticas sociais se relacionam\ncom as mudanças físicas, dando significados sociais a eventos\nbiológicos. A adolescência é um processo de se tornar participante do mundo adulto. Ela é um período em que corpos em\ndesenvolvimento enfrentam desafios, e às vezes são danificados. Instituições, incluindo a escola, e os poderes do mundo\nadulto são confrontados e negociados. Isso forma uma arena\nde prazer, humor, curiosidade, mas também de ansiedade e violência.\n(Adaptado de CONNELL, R. Crescer como masculino. In: Gênero em termos reais. São\nPaulo: nVersos, p. 139-141, 2016.)\nTexto 2\nOrdens de gênero são centrais para a vida dos adolescentes.\nQuando insistem na diferença absoluta entre masculinidade e\nfeminilidade criam um dilema e fazem com que os meninos\nexagerem na performance da masculinidade, procurando se\naproximarem da posição social dos homens adultos. Práticas\ncorporais, como a sexualidade e o esporte, se tornam importantes meios de diferenciação e espaços de produção das masculinidades hegemônicas e subordinadas. Aquelas que produzem\nmaior status e prestígio masculino são as com os efeitos mais\ntóxicos sobre os corpos dos adolescentes, como por exemplo o\nhábito de fumar e praticar a violência física, etc.\n(Adaptado de CONNELL, R. Crescer como masculino. In: Gênero em termos reais. São\nPaulo: nVersos, p. 139-151, 2016.)\nA partir da leitura dos textos é correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a adolescência, como processo de participar do mundo\nadulto, desafia padrões previamente estabelecidos, promovendo riscos e violência que poderiam ser evitados caso tais\npadrões fossem mantidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "masculinidades hegemônicas e subordinadas são produzidas biológica e socialmente, por meio de práticas corporais\ncomo a sexualidade e o esporte e em confronto com instituições, como a escola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "eventos biológicos associados às mudanças corporais da\nadolescência são significados socialmente, o que torna a ordem de gênero em que tais mudanças ocorrem importante\npara compreendermos masculinidades e feminilidades.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a precocidade na busca de status de adultos e do prestígio\nmasculino por meninos adolescentes os torna ansiosos, fazendo das masculinidades juvenis contemporâneas um todo\nhomogêneo e violento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia os textos 1 e 2.\nTexto 1\nA adolescência é uma questão de corporificação do social. Mu-\ndanças físicas, como hormônios em ebulição, são importantes,\nmas elas não determinam como se experimenta a adolescência.\nEssa é uma questão de como as práticas sociais se relacionam\ncom as mudanças físicas, dando significados sociais a eventos\nbiológicos. A adolescência é um processo de se tornar partici-\npante do mundo adulto. Ela é um período em que corpos em\ndesenvolvimento enfrentam desafios, e às vezes são danifica-\ndos. Instituições, incluindo a escola, e os poderes do mundo\nadulto são confrontados e negociados. Isso forma uma arena\nde prazer, humor, curiosidade, mas também de ansiedade e vio-\nlência.\n(Adaptado de CONNELL, R. Crescer como masculino. In: Gênero em termos reais. São\nPaulo: nVersos, p. 139-141, 2016.)\nTexto 2\nOrdens de gênero são centrais para a vida dos adolescentes.\nQuando insistem na diferença absoluta entre masculinidade e\nfeminilidade criam um dilema e fazem com que os meninos\nexagerem na performance da masculinidade, procurando se\naproximarem da posição social dos homens adultos. Práticas\ncorporais, como a sexualidade e o esporte, se tornam importan-\ntes meios de diferenciação e espaços de produção das mascu-\nlinidades hegemônicas e subordinadas. Aquelas que produzem\nmaior status e prestígio masculino são as com os efeitos mais\ntóxicos sobre os corpos dos adolescentes, como por exemplo o\nhábito de fumar e praticar a violência física, etc.\n(Adaptado de CONNELL, R. Crescer como masculino. In: Gênero em termos reais. São\nPaulo: nVersos, p. 139-151, 2016.)\nA partir da leitura dos textos é correto afirmar que\na) a adolescência, como processo de participar do mundo\nadulto, desafia padrões previamente estabelecidos, promo-\nvendo riscos e violência que poderiam ser evitados caso tais\npadrões fossem mantidos.\nb) masculinidades hegemônicas e subordinadas são produzi-\ndas biológica e socialmente, por meio de práticas corporais\ncomo a sexualidade e o esporte e em confronto com insti-\ntuições, como a escola.\nc) eventos biológicos associados às mudanças corporais da\nadolescência são significados socialmente, o que torna a or-\ndem de gênero em que tais mudanças ocorrem importante\npara compreendermos masculinidades e feminilidades.\nd) a precocidade na busca de status de adultos e do prestígio\nmasculino por meninos adolescentes os torna ansiosos, fa-\nzendo das masculinidades juvenis contemporâneas um todo\nhomogêneo e violento.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            559.8978,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            40,
+            291,
+            435.27799999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

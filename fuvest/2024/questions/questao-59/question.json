@@ -1,0 +1,105 @@
+{
+  "title": "Questão 59 - FUVEST 2024 - 1ª fase",
+  "index": 59,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Considere a função f, dada por f(x) = bˣ, com b > 0, b ≠ 1 e x ∈ ℝ, e a sua inversa f⁻¹. A figura destaca dois pontos, um pertencente ao gráfico de f e outro ao gráfico de f⁻¹.\n\nDetermine b + k.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5/6",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6/5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "13/5",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "18/5",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Considere a função 𝑓, dada por 𝑓(𝑥)= 𝑏(cid:3051), com 𝑏>0,𝑏≠1\ne 𝑥 ∈ℝ, e a sua inversa 𝑓(cid:2879)(cid:2869). A figura destaca dois pontos, um\npertencente ao gráfico de 𝑓 e outro ao gráfico de 𝑓(cid:2879)(cid:2869).\nDetermine 𝑏+ 𝑘.\n(cid:2873)\n(A)\n(cid:2874)\n(B) 1\n(cid:2874)\n(C)\n(cid:2873)\n(cid:2869)(cid:2871)\n(D)\n(cid:2873)\n(cid:2869)(cid:2876)\n(E)\n(cid:2873)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            397.79470000000003,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Função exponencial e função inversa",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

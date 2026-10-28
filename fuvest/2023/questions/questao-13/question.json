@@ -1,0 +1,102 @@
+{
+  "title": "Questão 13 - FUVEST 2023 - 1ª fase",
+  "index": 13,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Diversos processos na indústria de óleo e gás podem envolver\nmisturas de gases a diferentes temperaturas. Um sistema\nisolado é composto por dois compartimentos de mesmo\nvolume: o primeiro é ocupado por 𝑛 =1 mol e o segundo é\n(cid:2869)\nocupado por 𝑛 =2 mols de um gás ideal monoatômico.\n(cid:2870)\nInicialmente cada compartimento encontra-se em equilíbrio\ntérmico, com temperatura 𝑇 =4𝑇 e 𝑇 =𝑇, respectiva-\n(cid:2869) (cid:2870)\nmente, conforme mostra a figura:\nA partir de certo instante, a parede que separa os\ncompartimentos é removida e, após algum tempo, o sistema\natinge uma nova temperatura de equilíbrio 𝑇 . Supondo que\n(cid:3040)\nnão há trabalho realizado após a remoção da parede, nem\ntroca de calor entre o sistema e o ambiente externo, a\ntemperatura de equilíbrio 𝑇 é dada por:\n(cid:3040)\n\nNote e adote:\nA energia interna de um gás ideal monoatômico é dada por 𝑈=3𝑛𝑅𝑇/2,\nsendo 𝑛 o número de mols, 𝑅 a constante universal dos gases ideais e 𝑇 a\ntemperatura absoluta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "𝑇",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3𝑇⁄2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2𝑇",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "5𝑇⁄2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "4𝑇",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Diversos processos na indústria de óleo e gás podem envolver\nmisturas de gases a diferentes temperaturas. Um sistema\nisolado é composto por dois compartimentos de mesmo\nvolume: o primeiro é ocupado por 𝑛 =1 mol e o segundo é\n(cid:2869)\nocupado por 𝑛 =2 mols de um gás ideal monoatômico.\n(cid:2870)\nInicialmente cada compartimento encontra-se em equilíbrio\ntérmico, com temperatura 𝑇 =4𝑇 e 𝑇 =𝑇, respectiva-\n(cid:2869) (cid:2870)\nmente, conforme mostra a figura:\nA partir de certo instante, a parede que separa os\ncompartimentos é removida e, após algum tempo, o sistema\natinge uma nova temperatura de equilíbrio 𝑇 . Supondo que\n(cid:3040)\nnão há trabalho realizado após a remoção da parede, nem\ntroca de calor entre o sistema e o ambiente externo, a\ntemperatura de equilíbrio 𝑇 é dada por:\n(cid:3040)\n(A) 𝑇\n(B) 3𝑇⁄2\n(C) 2𝑇\n(D) 5𝑇⁄2\n(E) 4𝑇\nNote e adote:\nA energia interna de um gás ideal monoatômico é dada por 𝑈=3𝑛𝑅𝑇/2,\nsendo 𝑛 o número de mols, 𝑅 a constante universal dos gases ideais e 𝑇 a\ntemperatura absoluta.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            514.1347000000001,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            260.51470000000006
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "topic": "Equilíbrio térmico de gases ideais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

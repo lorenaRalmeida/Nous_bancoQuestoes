@@ -1,0 +1,92 @@
+{
+  "title": "Questão 39 - UNICAMP 2025 - 1ª fase",
+  "index": 39,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Qual o macete de ‘Macetando’?\nMacetar, verbo transitivo: “golpear (alguém ou algo) com maceta ou macete, um martelo de cabo curto”. A definição está\nnos dicionários, mas o carnaval, como de praxe, mascarou o\nsignificado a seu bel-prazer. O coro da multidão que acompanhou Ivete Sangalo na abertura da folia de Salvador comprova\nque essa é a época ideal para enriquecer o vocabulário. Música gravada pela cantora baiana com participação de Ludmilla,\n“Macetando” despontou como hit nacional ao encher a boca\ndo povo com o refrão-chiclete: “Ah, bebê, é a Veveta que tá no\ncomando / Macetando, macetando, macetando...”.\n(Adaptado de CUNHA, G. Qual o macete de ‘macetando’? O Globo (versão online),\n10/02/2024.)\nNa letra da música em questão, um dos aspectos que contribuem para o mascaramento do significado de macetar é",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a ocultação do sujeito do verbo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o uso repetido do verbo no gerúndio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o processo de adjetivação do verbo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a ausência de complemento para o verbo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Qual o macete de ‘Macetando’?\nMacetar, verbo transitivo: “golpear (alguém ou algo) com ma-\nceta ou macete, um martelo de cabo curto”. A definição está\nnos dicionários, mas o carnaval, como de praxe, mascarou o\nsignificado a seu bel-prazer. O coro da multidão que acompa-\nnhou Ivete Sangalo na abertura da folia de Salvador comprova\nque essa é a época ideal para enriquecer o vocabulário. Músi-\nca gravada pela cantora baiana com participação de Ludmilla,\n“Macetando” despontou como hit nacional ao encher a boca\ndo povo com o refrão-chiclete: “Ah, bebê, é a Veveta que tá no\ncomando / Macetando, macetando, macetando...”.\n(Adaptado de CUNHA, G. Qual o macete de ‘macetando’? O Globo (versão online),\n10/02/2024.)\nNa letra da música em questão, um dos aspectos que contri-\nbuem para o mascaramento do significado de macetar é\na) a ocultação do sujeito do verbo.\nb) o uso repetido do verbo no gerúndio.\nc) o processo de adjetivação do verbo.\nd) a ausência de complemento para o verbo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            518.6867,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

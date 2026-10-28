@@ -1,0 +1,98 @@
+{
+  "title": "Questão 40 - UNESP 2023 - 1ª fase",
+  "index": 40,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "O final da Segunda Guerra Mundial em 1945 teve impacto\nna política brasileira do período, porque expôs a contradição\nentre",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o esforço nacional de construção de mercados regionais\ne a unificação, no plano internacional, do mercado global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a opção industrialista do regime varguista e a aceleração\nda demanda, no mercado internacional, de exportação\nde alimentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o prevalecimento de ideologias de esquerda no cenário\nmundial e a guinada à direita, no plano interno, do regime\nditatorial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a vitória externa da defesa da democracia liberal e a persistência, no âmbito interno, de um regime ditatorial.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "a militarização dos Estados estrangeiros e a defesa\nintransigente, pelo governo varguista, de uma política\nexterna pacifista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O final da Segunda Guerra Mundial em 1945 teve impacto\nna política brasileira do período, porque expôs a contradição\nentre\n(A) o esforço nacional de construção de mercados regionais\ne a unificação, no plano internacional, do mercado global.\n(B) a opção industrialista do regime varguista e a aceleração\nda demanda, no mercado internacional, de exportação\nde alimentos.\n(C) o prevalecimento de ideologias de esquerda no cenário\nmundial e a guinada à direita, no plano interno, do regime\nditatorial.\n(D) a vitória externa da defesa da democracia liberal e a per-\nsistência, no âmbito interno, de um regime ditatorial.\n(E) a militarização dos Estados estrangeiros e a defesa\nintransigente, pelo governo varguista, de uma política\nexterna pacifista.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            374.7313,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

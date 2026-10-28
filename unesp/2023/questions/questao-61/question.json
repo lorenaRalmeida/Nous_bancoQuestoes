@@ -1,0 +1,100 @@
+{
+  "title": "Questão 61 - UNESP 2023 - 1ª fase",
+  "index": 61,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Leia o trecho do livro On the origin of species by means of\nnatural selection, escrito por Charles Darwin e publicado em\n1859.\nA struggle for existence inevitably follows from the high\nrate at which all organic beings tend to increase. Every being,\nwhich during its natural lifetime produces several eggs or\nseeds, must suffer destruction during some period of its life,\nand during some season or occasional year, otherwise, on the\nprinciple of geometrical increase, its numbers would quickly\nbecome so inordinately great that no country could support\nthe product.\n(www.dominiopublico.gov.br)\nO excerto remete diretamente a conceitos biológicos já\nconsolidados. São eles:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cadeias alimentares e níveis tróficos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "comunidade e competição interespecífica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "potencial biótico e resistência do meio.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "adaptação e princípio do fundador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sucessão ecológica primária e sucessão ecológica\nsecundária.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o trecho do livro On the origin of species by means of\nnatural selection, escrito por Charles Darwin e publicado em\n1859.\nA struggle for existence inevitably follows from the high\nrate at which all organic beings tend to increase. Every being,\nwhich during its natural lifetime produces several eggs or\nseeds, must suffer destruction during some period of its life,\nand during some season or occasional year, otherwise, on the\nprinciple of geometrical increase, its numbers would quickly\nbecome so inordinately great that no country could support\nthe product.\n(www.dominiopublico.gov.br)\nO excerto remete diretamente a conceitos biológicos já\nconsolidados. São eles:\n(A) cadeias alimentares e níveis tróficos.\n(B) comunidade e competição interespecífica.\n(C) potencial biótico e resistência do meio.\n(D) adaptação e princípio do fundador.\n(E) sucessão ecológica primária e sucessão ecológica\nsecundária.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            27.999000000000024,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Inglês"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

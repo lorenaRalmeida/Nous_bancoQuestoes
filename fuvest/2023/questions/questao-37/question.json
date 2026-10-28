@@ -1,0 +1,98 @@
+{
+  "title": "Questão 37 - FUVEST 2023 - 1ª fase",
+  "index": 37,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Presentemente eu posso me considerar um sujeito de sorte\nPorque apesar de muito moço, me sinto são e salvo e forte\nE tenho comigo pensado, Deus é brasileiro e anda do meu lado\nE assim já não posso sofrer no ano passado\nTenho sangrado demais, tenho chorado pra cachorro\nAno passado eu morri, mas esse ano eu não morro\nBelchior. “Sujeito de sorte”.\nLeia as seguintes afirmações a respeito da letra da música:\nI - Os adjuntos adverbiais temporais remetem a um contraste\nentre passado e presente, o que reforça o caráter\nmetafórico do texto.\nII - A locução “apesar de” contribui para a expressão de um\nsentimento inesperado em relação ao sentido de “muito\nmoço”.\nIII – As formas verbais “morri” e “morro”, embora se refiram\na momentos distintos, apresentam sentido denotativo.\nEstá correto o que se afirma em:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "I e II, apenas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "II e III, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "I, II e III.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Presentemente eu posso me considerar um sujeito de sorte\nPorque apesar de muito moço, me sinto são e salvo e forte\nE tenho comigo pensado, Deus é brasileiro e anda do meu lado\nE assim já não posso sofrer no ano passado\nTenho sangrado demais, tenho chorado pra cachorro\nAno passado eu morri, mas esse ano eu não morro\nBelchior. “Sujeito de sorte”.\nLeia as seguintes afirmações a respeito da letra da música:\nI - Os adjuntos adverbiais temporais remetem a um contraste\nentre passado e presente, o que reforça o caráter\nmetafórico do texto.\nII - A locução “apesar de” contribui para a expressão de um\nsentimento inesperado em relação ao sentido de “muito\nmoço”.\nIII – As formas verbais “morri” e “morro”, embora se refiram\na momentos distintos, apresentam sentido denotativo.\nEstá correto o que se afirma em:\n(A) I, apenas.\n(B) II, apenas.\n(C) I e II, apenas.\n(D) II e III, apenas.\n(E) I, II e III.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            28,
+            457.91470000000004,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            37.76999999999987
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Análise semântica e verbal de canção",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

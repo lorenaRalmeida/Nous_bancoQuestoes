@@ -1,0 +1,755 @@
+{
+  "board": "FUVEST",
+  "year": 2023,
+  "phase": 1,
+  "version": "V",
+  "source": "fuvest-2023-fase1-prova.pdf",
+  "sha256": "8a9941afd99addd61090c6432c8f8c28bbb6f8ed14d50cb2b8d30dfedf4751ac",
+  "instructions": "                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                         V        \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n      Universidade de São Paulo                                                   \n      Brasil                                                                      \n                     PROVA DE CONHECIMENTOS GERAIS – FUVEST 2023                  \n                                                                                  \n        Instruções                                                                \n                                                                                  \n         1. Só abra este caderno quando o fiscal autorizar.                       \n         2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence\n           ao grupo V. Informe ao fiscal de sala eventuais divergências.          \n                                                                                  \n         3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer\n           material de consulta e de aparelhos de telecomunicação.                \n         4. Duração da prova: 5 horas. Cabe ao candidato controlar o tempo com base nas informações\n           fornecidas pelo fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a\n           partir das 16 h. Não haverá tempo adicional para preenchimento da folha de respostas.\n         5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos\n           procedimentos de biossegurança adotados para a aplicação deste Concurso Vestibular.\n                                                                                  \n         6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de\n           identificação e controle do processo, visando a garantir a plena integridade do exame. Assim,\n           durante a realização da prova, será coletada por um fiscal uma foto do(a) candidato(a) para\n           fins de reconhecimento facial, para uso exclusivo da USP e da FUVEST. A imagem não será\n           divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei.\n         7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 90\n           questões objetivas, com 5 alternativas cada. Informe ao fiscal de sala eventuais divergências.\n         8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul.\n           Essa folha não será substituída em caso de rasura.                     \n                                                                                  \n         9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste\n           caderno de questões.                                                   \n                                                                                  \n                                                                                  \n                                     Declaração                                   \n           Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de\n           respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala.\n                                                                                  \n                                                                                  \n                                                                                  \n                      ___________________________________________________         \n                                     ASSINATURA                                   \n                                                                                  \n             O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova.\n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  ",
+  "questions": [
+    {
+      "index": 1,
+      "file": "questions/questao-1/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 2,
+      "file": "questions/questao-2/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 3,
+      "file": "questions/questao-3/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 4,
+      "file": "questions/questao-4/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 5,
+      "file": "questions/questao-5/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 6,
+      "file": "questions/questao-6/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 7,
+      "file": "questions/questao-7/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 8,
+      "file": "questions/questao-8/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 9,
+      "file": "questions/questao-9/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 10,
+      "file": "questions/questao-10/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 11,
+      "file": "questions/questao-11/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 12,
+      "file": "questions/questao-12/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 13,
+      "file": "questions/questao-13/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 14,
+      "file": "questions/questao-14/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 15,
+      "file": "questions/questao-15/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 16,
+      "file": "questions/questao-16/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 17,
+      "file": "questions/questao-17/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 18,
+      "file": "questions/questao-18/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 19,
+      "file": "questions/questao-19/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 20,
+      "file": "questions/questao-20/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 21,
+      "file": "questions/questao-21/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 22,
+      "file": "questions/questao-22/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 23,
+      "file": "questions/questao-23/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 24,
+      "file": "questions/questao-24/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 25,
+      "file": "questions/questao-25/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 26,
+      "file": "questions/questao-26/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 27,
+      "file": "questions/questao-27/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 28,
+      "file": "questions/questao-28/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 29,
+      "file": "questions/questao-29/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 30,
+      "file": "questions/questao-30/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 31,
+      "file": "questions/questao-31/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 32,
+      "file": "questions/questao-32/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 33,
+      "file": "questions/questao-33/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 34,
+      "file": "questions/questao-34/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 35,
+      "file": "questions/questao-35/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 36,
+      "file": "questions/questao-36/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 37,
+      "file": "questions/questao-37/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 38,
+      "file": "questions/questao-38/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 39,
+      "file": "questions/questao-39/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 40,
+      "file": "questions/questao-40/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 41,
+      "file": "questions/questao-41/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 42,
+      "file": "questions/questao-42/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 43,
+      "file": "questions/questao-43/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 44,
+      "file": "questions/questao-44/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 45,
+      "file": "questions/questao-45/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 46,
+      "file": "questions/questao-46/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 47,
+      "file": "questions/questao-47/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 48,
+      "file": "questions/questao-48/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 49,
+      "file": "questions/questao-49/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 50,
+      "file": "questions/questao-50/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 51,
+      "file": "questions/questao-51/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 52,
+      "file": "questions/questao-52/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 53,
+      "file": "questions/questao-53/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 54,
+      "file": "questions/questao-54/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 55,
+      "file": "questions/questao-55/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 56,
+      "file": "questions/questao-56/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 57,
+      "file": "questions/questao-57/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 58,
+      "file": "questions/questao-58/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 59,
+      "file": "questions/questao-59/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 60,
+      "file": "questions/questao-60/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 61,
+      "file": "questions/questao-61/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 62,
+      "file": "questions/questao-62/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 63,
+      "file": "questions/questao-63/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 64,
+      "file": "questions/questao-64/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 65,
+      "file": "questions/questao-65/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 66,
+      "file": "questions/questao-66/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 67,
+      "file": "questions/questao-67/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 68,
+      "file": "questions/questao-68/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 69,
+      "file": "questions/questao-69/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 70,
+      "file": "questions/questao-70/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 71,
+      "file": "questions/questao-71/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 72,
+      "file": "questions/questao-72/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 73,
+      "file": "questions/questao-73/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 74,
+      "file": "questions/questao-74/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 75,
+      "file": "questions/questao-75/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 76,
+      "file": "questions/questao-76/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 77,
+      "file": "questions/questao-77/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 78,
+      "file": "questions/questao-78/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 79,
+      "file": "questions/questao-79/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 80,
+      "file": "questions/questao-80/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 81,
+      "file": "questions/questao-81/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 82,
+      "file": "questions/questao-82/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 83,
+      "file": "questions/questao-83/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 84,
+      "file": "questions/questao-84/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 85,
+      "file": "questions/questao-85/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 86,
+      "file": "questions/questao-86/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 87,
+      "file": "questions/questao-87/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 88,
+      "file": "questions/questao-88/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 89,
+      "file": "questions/questao-89/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 90,
+      "file": "questions/questao-90/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Matemática"
+    }
+  ],
+  "questionCount": 90,
+  "sharedContexts": [
+    {
+      "targets": [
+        5,
+        6
+      ],
+      "text": "TEXTO PARA AS QUESTÕES 05 E 06\nLuc Boltanski e Ève Chiapello demonstram com clareza e\nsagacidade a capacidade antropofágica do capitalismo\nfinanceiro que “engole” a linguagem do protesto e da\nlibertação para transformá-la e utilizá-la para legitimar a\ndominação social e política a partir do próprio mercado.\nNa dimensão do mundo do trabalho, por exemplo, todo\num novo vocabulário teve que ser inventado para escamotear\nas novas transformações e melhor oprimir o trabalhador. Com\nessa linguagem aparentemente libertadora, passa-se a\nimpressão de que o ambiente de trabalho melhorou e o\ntrabalhador se emancipou.\nAssim houve um esforço dirigido para transformar o\ntrabalhador em \"colaborador\", para eufemizar e esconder a\nconsciência de sua superexploração; tenta-se também exaltar\nos supostos valores de liderança para possibilitar que, a partir\nde agora, o próprio funcionário, não mais o patrão, passe a\ncontrolar e vigiar o colega de trabalho. Ou, ainda, há a intenção\nde difundir a cultura do empreendedorismo, segundo a qual\ntodo mundo pode ser empresário de si mesmo. E, o mais\nimportante, se ele falhar nessa empreitada, a culpa é apenas\ndele. É necessário sempre culpar individualmente a vítima pelo\nfracasso socialmente construído.\nSOUZA, Jessé. Como o racismo criou o Brasil. Rio de Janeiro: Estação Brasil,\n2021.",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            297.5,
+            234.32965000000002,
+            567,
+            544.4946
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        7,
+        8
+      ],
+      "text": "TEXTO PARA AS QUESTÕES 07 E 08\nDisponível em https://tirasarmandinho.tumblr.com/. Adaptado.",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            28,
+            111.98584599999992,
+            297.5,
+            229.31470000000002
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        32,
+        33,
+        34
+      ],
+      "text": "TEXTO PARA AS QUESTÕES DE 32 A 34\nFrom French electronic and Japanese indie to K-pop and\nSpanish jazz, it’s common for people to listen to songs they\ndon’t necessarily understand. Not knowing the language of\nthe lyrics, it seems, doesn’t stop people from liking—and\nsometimes even singing along to—a song. Unless the listener\nis looking up the dictionary meaning of the lyrics, then the\ndictionary meaning of the lyrics doesn’t make or break their\nappreciation of a song. But why?\n“It’s a complicated answer,” said musicologist Lisa\nDecenteceo, adding that it all starts with what’s called “sound\nsymbolism.” Sound symbolism refers to the study of the\nrelationships between utterances and their meaning. This\ndoesn’t have to do only with music. Marketers, for example,\ncan tune into sound symbolism as part of their strategy in\ncoming up with appealing brand names. In music as well as in\nbranding, Decenteceo explained, there’s something about the\nappeal of words as sounds, beyond their meaning in a\nlanguage. While things like culture and personal experiences\naffect people’s responses to different kinds of music, she\nexplained there are certain musical techniques that are\ngenerally used to convey certain moods. One of which is scale.\n“Songs in a major scale usually have brighter, happier sounds,\nwhile minor scales usually have the slightly darker,\nmelancholic feel,” explains Thea Tolentino, a music teacher.\nThe human brain is wired to respond to sound, she added.\nIn a process called entrainment, the brain “synchronizes our\nbreathing, our movement, even neural activities with the\nsounds we hear.” This is why fast-paced music is so popular\nfor running, for example, or why some yoga teachers play\nrhythmic and melodic tracks in their classes. And there are\nalso the things that accompany the words. “Elements of sound\nand music like pitch, melody, harmony, timbre, and amplitude\nhave an affective, emotional, psychological, cognitive, and\neven physical impact on listeners. Music adds so much\nmeaning and dimension to texts through a complex of these\navenues,” said Decenteceo. What all these things do, she\nadded, is liberate the words. “Song frees the voice from any\nburden of saying anything meaningful”. It’s important, then,\nto understand music as a discourse between musical\nelements. But all in all, Decenteceo said there’s value in\nwhatever immediate appeal people find in the music they\nlisten to, whether or not they understand the words. Music,\nafter all, is the universal language.\nDisponível em https://www.vice.com/. March, 2022. Adaptado.",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            28,
+            37.76470000000006,
+            297.5,
+            614.0346999999999
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        38,
+        39
+      ],
+      "text": "TEXTO PARA AS QUESTÕES 38 E 39\nO QUINTO IMPÉRIO\nTriste de quem vive em casa,\nContente com o seu lar,\nSem que um sonho, no erguer de asa,\nFaça até mais rubra a brasa\nDa lareira a abandonar!\nTriste de quem é feliz!\nVive porque a vida dura.\nNada na alma lhe diz\nMais que a lição da raiz —\nTer por vida a sepultura.\nEras sobre eras se somem\nNo tempo que em eras vem.\nSer descontente é ser homem.\nQue as forças cegas se domem\nPela visão que a alma tem!\nE assim, passados os quatro\nTempos do ser que sonhou,\nA terra será teatro\nDo dia claro, que no atro\nDa erma noite começou.\nGrécia, Roma, Cristandade,\nEuropa — os quatro se vão\nPara onde vai toda idade.\nQuem vem viver a verdade\nQue morreu D. Sebastião?\nFernando Pessoa. Mensagem.",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            297.5,
+            37.76999999999987,
+            567,
+            440.0347
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        68,
+        69,
+        70
+      ],
+      "text": "TEXTO PARA AS QUESTÕES DE 68 A 70\nThe expression “dark doldrums” chills the hearts of\nrenewable-energy engineers, who use it to refer to the lulls\nwhen solar panels and wind turbines are thwarted by clouds,\nnight, or still air. On a bright, cloudless day, a solar farm can\ngenerate prodigious amounts of electricity. But at night solar\ncells do little, and in calm air turbines sit useless.\nThe dark doldrums make it difficult for us to rely totally on\nrenewable energy. Power companies need to plan not just for\nindividual storms or windless nights but for difficulties that\ncan stretch for days. Last year, Europe experienced a weeks-\nlong “wind drought,” and in 2006 Hawaii endured six weeks of\nconsecutive rainy days. On a smaller scale, communities that\nwant to go all-renewable need to fill the gaps. The obvious\nsolution is batteries, which power everything from mobile\nphones to electric vehicles; they are relatively inexpensive to\nmake and getting cheaper. But typical models exhaust their\nstored energy after only three or four hours of maximum\noutput, and—as every smartphone owner knows—their\ncapacity dwindles with each recharge. Moreover, it is\nexpensive to collect enough batteries to cover longer\ndischarges.\nWe already have one kind of renewable energy storage:\nmore than ninety per cent of the world’s energy-storage\ncapacity is in reservoirs, as part of a technology called\npumped-storage hydropower, used to smooth out sharp\nincreases in electricity demand. Motors pump water uphill\nfrom a river or a reservoir to a higher reservoir; when the\nwater is released downhill, it spins a turbine, generating\npower. A pumped-hydro installation is like a giant, permanent\nbattery, charged when water is pumped uphill and depleted\nas it flows down. Some countries are expanding their use of\npumped hydro, but the right geography is hard to find,\npermits are difficult to obtain, and construction is slow and\nexpensive. The hunt is on for new approaches to energy\nstorage.\nThe New Yorker. Abril, 2022. Adaptado.",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            28,
+            37.76470000000006,
+            297.5,
+            516.3547000000001
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "questionSequence": true,
+    "keySequence": true,
+    "keyCorrespondence": true,
+    "disciplinesAssigned": 90
+  },
+  "notes": "Enunciados em context; figuras locais e alternativas gráficas mantidas. Sem recortes completos. Processamento offline.",
+  "disciplineCounts": {
+    "Biologia": 11,
+    "Filosofia": 2,
+    "Física": 10,
+    "Geografia": 11,
+    "História": 8,
+    "Inglês": 8,
+    "Matemática": 12,
+    "Português": 12,
+    "Química": 12,
+    "Sociologia": 4
+  }
+}

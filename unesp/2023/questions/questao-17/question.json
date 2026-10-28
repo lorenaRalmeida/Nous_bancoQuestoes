@@ -1,0 +1,110 @@
+{
+  "title": "Questão 17 - UNESP 2023 - 1ª fase",
+  "index": 17,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Para responder às questões de 14 a 19, leia o trecho de um\nensaio de Michel de Montaigne (1533-1592).\nHá alguma razão em fazer o julgamento de um homem\npelos aspectos mais comuns de sua vida; mas, tendo em\nvista a natural instabilidade de nossos costumes e opiniões,\nmuitas vezes me pareceu que mesmo os bons autores estão\nerrados em se obstinarem em formar de nós uma ideia constante e sólida. Escolhem um caráter universal e, seguindo\nessa imagem, vão arrumando e interpretando todas as ações\nde um personagem, e, se não conseguem torcê-las o suficiente, atribuem-nas à dissimulação. Creio mais dificilmente\nna constância dos homens do que em qualquer outra coisa,\ne em nada mais facilmente do que na inconstância. Quem os\njulgasse nos pormenores e separadamente, peça por peça,\nteria mais ocasiões de dizer a verdade.\nEm toda a Antiguidade é difícil escolher uma dúzia de\nhomens que tenham ordenado sua vida num projeto definido\ne seguro, que é o principal objetivo da sabedoria. Pois para\nresumi-la por inteiro numa só palavra e abranger em uma só\ntodas as regras de nossa vida, “a sabedoria”, diz um antigo,\n“é sempre querer a mesma coisa, é sempre não querer a\nmesma coisa”, “eu não me dignaria”, diz ele, “a acrescentar\n‘contanto que a tua vontade esteja certa’, pois se não está\ncerta, é impossível que sempre seja uma só e a mesma.” Na\nverdade, aprendi outrora que o vício é apenas o desregramento e a falta de moderação; e, por conseguinte, é impossível o imaginarmos constante. É uma frase de Demóstenes,\ndizem, que “o começo de toda virtude são a reflexão e a deliberação, e seu fim e sua perfeição, a constância”. Se, guiados pela reflexão, pegássemos certa via, pegaríamos a mais\nbela, mas ninguém pensa antes de agir: “O que ele pediu,\ndesdenha; exige o que acaba de abandonar; agita-se e sua\nvida não se dobra a nenhuma ordem.”\n(Michel de Montaigne. Os ensaios: uma seleção, 2010. Adaptado.)\n\nNo segundo parágrafo, depreende-se das reflexões de\nMontaigne a íntima relação entre",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "sabedoria e contradição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sabedoria e intemperança.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ignorância e temperança.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ignorância e inconstância.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "vício e constância.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No segundo parágrafo, depreende-se das reflexões de\nMontaigne a íntima relação entre\n(A) sabedoria e contradição.\n(B) sabedoria e intemperança.\n(C) ignorância e temperança.\n(D) ignorância e inconstância.\n(E) vício e constância.",
+    "sharedContext": "Para responder às questões de 14 a 19, leia o trecho de um\nensaio de Michel de Montaigne (1533-1592).\nHá alguma razão em fazer o julgamento de um homem\npelos aspectos mais comuns de sua vida; mas, tendo em\nvista a natural instabilidade de nossos costumes e opiniões,\nmuitas vezes me pareceu que mesmo os bons autores estão\nerrados em se obstinarem em formar de nós uma ideia constante e sólida. Escolhem um caráter universal e, seguindo\nessa imagem, vão arrumando e interpretando todas as ações\nde um personagem, e, se não conseguem torcê-las o suficiente, atribuem-nas à dissimulação. Creio mais dificilmente\nna constância dos homens do que em qualquer outra coisa,\ne em nada mais facilmente do que na inconstância. Quem os\njulgasse nos pormenores e separadamente, peça por peça,\nteria mais ocasiões de dizer a verdade.\nEm toda a Antiguidade é difícil escolher uma dúzia de\nhomens que tenham ordenado sua vida num projeto definido\ne seguro, que é o principal objetivo da sabedoria. Pois para\nresumi-la por inteiro numa só palavra e abranger em uma só\ntodas as regras de nossa vida, “a sabedoria”, diz um antigo,\n“é sempre querer a mesma coisa, é sempre não querer a\nmesma coisa”, “eu não me dignaria”, diz ele, “a acrescentar\n‘contanto que a tua vontade esteja certa’, pois se não está\ncerta, é impossível que sempre seja uma só e a mesma.” Na\nverdade, aprendi outrora que o vício é apenas o desregramento e a falta de moderação; e, por conseguinte, é impossível o imaginarmos constante. É uma frase de Demóstenes,\ndizem, que “o começo de toda virtude são a reflexão e a deliberação, e seu fim e sua perfeição, a constância”. Se, guiados pela reflexão, pegássemos certa via, pegaríamos a mais\nbela, mas ninguém pensa antes de agir: “O que ele pediu,\ndesdenha; exige o que acaba de abandonar; agita-se e sua\nvida não se dobra a nenhuma ordem.”\n(Michel de Montaigne. Os ensaios: uma seleção, 2010. Adaptado.)",
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            222.90449999999998
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

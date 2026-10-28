@@ -1,0 +1,92 @@
+{
+  "title": "Questão 28 - UNICAMP 2026 - 1ª fase",
+  "index": 28,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Os dados da alfândega de Buenos Aires fixam em 18.100 o número de africanos oficialmente importados no porto entre 1597\ne 1645. Durante alguns anos, a zona platense esteve aberta\nao contrato de fornecimento de pessoas escravizadas (Asiento),\ncom os navios negreiros saindo diretamente de Luanda para\nBuenos Aires. Nos anos de proibição, o contrabando ocorria por\nmeio do Rio de Janeiro. Barcos ligavam os dois portos. No retorno, traziam prata lavrada e por lavrar e ouro, não só para o Rio\nde Janeiro, mas também para a Bahia e o Recife. Em torno das\ntrocas de africanos pela prata do Peru (Potosí), esses interesses\nforam consolidados no Rio de Janeiro. Desse episódio resultou\numa tradição religiosa conhecida: o culto a Nossa Senhora de\nCopacabana no Rio de Janeiro, oriundo do Baixo Peru em 1637.\nNos anos seguintes, uma capela dedicada à santa foi erigida na\npraia que recebeu o seu nome.\n(Adaptado de ALENCASTRO, L. F. O Trato dos Viventes. São Paulo: Companhia das Letras,\n2000. p. 110.)\nCom base no excerto, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A extração de prata em Buenos Aires conectou o Brasil ao\ncomércio internacional de metais que passava por Copacabana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O tráfico de pedras preciosas de Buenos Aires complementava o fornecimento de mão de obra trazida de Luanda para\no Porto de Copacabana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Copacabana remete ao passado em que as Américas portuguesa e espanhola se conectavam por redes comerciais e\nculturais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Copacabana preserva a memória do desembarque de escravizados que, dali, eram levados para Buenos Aires e Peru.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os dados da alfândega de Buenos Aires fixam em 18.100 o nú-\nmero de africanos oficialmente importados no porto entre 1597\ne 1645. Durante alguns anos, a zona platense esteve aberta\nao contrato de fornecimento de pessoas escravizadas (Asiento),\ncom os navios negreiros saindo diretamente de Luanda para\nBuenos Aires. Nos anos de proibição, o contrabando ocorria por\nmeio do Rio de Janeiro. Barcos ligavam os dois portos. No retor-\nno, traziam prata lavrada e por lavrar e ouro, não só para o Rio\nde Janeiro, mas também para a Bahia e o Recife. Em torno das\ntrocas de africanos pela prata do Peru (Potosí), esses interesses\nforam consolidados no Rio de Janeiro. Desse episódio resultou\numa tradição religiosa conhecida: o culto a Nossa Senhora de\nCopacabana no Rio de Janeiro, oriundo do Baixo Peru em 1637.\nNos anos seguintes, uma capela dedicada à santa foi erigida na\npraia que recebeu o seu nome.\n(Adaptado de ALENCASTRO, L. F. O Trato dos Viventes. São Paulo: Companhia das Letras,\n2000. p. 110.)\nCom base no excerto, assinale a alternativa correta.\na) A extração de prata em Buenos Aires conectou o Brasil ao\ncomércio internacional de metais que passava por Copaca-\nbana.\nb) O tráfico de pedras preciosas de Buenos Aires complemen-\ntava o fornecimento de mão de obra trazida de Luanda para\no Porto de Copacabana.\nc) Copacabana remete ao passado em que as Américas por-\ntuguesa e espanhola se conectavam por redes comerciais e\nculturais.\nd) Copacabana preserva a memória do desembarque de escra-\nvizados que, dali, eram levados para Buenos Aires e Peru.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            404.5449,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

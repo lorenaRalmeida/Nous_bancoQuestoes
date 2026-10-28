@@ -1,0 +1,87 @@
+{
+  "title": "Questão 49 - UNICAMP 2026 - 1ª fase",
+  "index": 49,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Em uma creche se realiza o “dia da troca do brinquedo”. Cada\ncriança leva um brinquedo para a escola e o guarda na Caixa\nDivertida. Ao final do dia, cada criança retira um brinquedo da\nCaixa Divertida sem olhar, e o leva para brincar em casa.\nEm uma sala com cinco crianças, qual é a probabilidade de exatamente duas crianças retirarem da Caixa Divertida seus próprios brinquedos?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1/5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1/6.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1/25.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1/30.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em uma creche se realiza o “dia da troca do brinquedo”. Cada\ncriança leva um brinquedo para a escola e o guarda na Caixa\nDivertida. Ao final do dia, cada criança retira um brinquedo da\nCaixa Divertida sem olhar, e o leva para brincar em casa.\nEm uma sala com cinco crianças, qual é a probabilidade de exa-\ntamente duas crianças retirarem da Caixa Divertida seus pró-\nprios brinquedos?\na) 1/5.\nb) 1/6.\nc) 1/25.\nd) 1/30.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            134.33389999999997,
+            291,
+            338.89599999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

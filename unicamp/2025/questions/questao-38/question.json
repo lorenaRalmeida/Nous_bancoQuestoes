@@ -1,0 +1,94 @@
+{
+  "title": "Questão 38 - UNICAMP 2025 - 1ª fase",
+  "index": 38,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Texto comum às questões 37 e 38.\n*Legenda das falas do último quadrinho:\n“Quantos títulos eu tenho? / Quem foi meu avô?”\n(Quadrinhos de Wesley Samp. Disponível em https://westrips.com.br/author/wesleysamp/. Acesso em 04/05/2024.)\n\nEnquanto o povo da cidade se sentia muito importante, eu,\npor minha vez, me sentia necessário. Eles, porém, não me viam\ncomo alguém necessário, me viam como alguém útil. Para eles\neu era um servidor, um serviçal. Eu era útil, mas poderia ser\nsubstituído porque não era necessário. Percebi que o povo da\ncidade tinha relações de utilidade e importância, mas não tinha\nrelações de necessidade. Para nós, a pessoa que é importante\nnão é quase nada. É aquela pessoa que se acha ótima, mas não\nserve. O termo que tem valor para nós é necessário. Há pessoas\nque são necessárias e há pessoas que são importantes. As pessoas que são importantes acham que as outras pessoas existem\npara servi-las. As pessoas necessárias são diferentes, são pessoas que fazem falta. Pessoas que precisam estar presentes, de\nquem se vai atrás.\n(SANTOS, Antônio Bispo dos. A terra dá, a terra quer. São Paulo: UBU/Piseagrama, p.\n24, 2023.)\nConsiderando o ponto de vista apresentado no texto de Antônio Bispo dos Santos sobre os “tipos de pessoa”, a personagem\nque fala nos quadrinhos de Wesley Samp pode ser caracterizada como alguém que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "se acha ótimo por ser importante.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "não é importante, embora se considere ótimo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "é desnecessário, porque não tem importância.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "se considera útil, apesar de ser importante.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Enquanto o povo da cidade se sentia muito importante, eu,\npor minha vez, me sentia necessário. Eles, porém, não me viam\ncomo alguém necessário, me viam como alguém útil. Para eles\neu era um servidor, um serviçal. Eu era útil, mas poderia ser\nsubstituído porque não era necessário. Percebi que o povo da\ncidade tinha relações de utilidade e importância, mas não tinha\nrelações de necessidade. Para nós, a pessoa que é importante\nnão é quase nada. É aquela pessoa que se acha ótima, mas não\nserve. O termo que tem valor para nós é necessário. Há pessoas\nque são necessárias e há pessoas que são importantes. As pes-\nsoas que são importantes acham que as outras pessoas existem\npara servi-las. As pessoas necessárias são diferentes, são pes-\nsoas que fazem falta. Pessoas que precisam estar presentes, de\nquem se vai atrás.\n(SANTOS, Antônio Bispo dos. A terra dá, a terra quer. São Paulo: UBU/Piseagrama, p.\n24, 2023.)\nConsiderando o ponto de vista apresentado no texto de Antô-\nnio Bispo dos Santos sobre os “tipos de pessoa”, a personagem\nque fala nos quadrinhos de Wesley Samp pode ser caracteriza-\nda como alguém que\na) se acha ótimo por ser importante.\nb) não é importante, embora se considere ótimo.\nc) é desnecessário, porque não tem importância.\nd) se considera útil, apesar de ser importante.",
+    "sharedContext": "Texto comum às questões 37 e 38.\n*Legenda das falas do último quadrinho:\n“Quantos títulos eu tenho? / Quem foi meu avô?”\n(Quadrinhos de Wesley Samp. Disponível em https://westrips.com.br/author/wesleysamp/. Acesso em 04/05/2024.)",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            313.19489999999996,
+            568,
+            724.1414
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            157.13390000000004,
+            291,
+            518.6867
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

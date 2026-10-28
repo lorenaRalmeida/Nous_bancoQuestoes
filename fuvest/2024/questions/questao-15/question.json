@@ -1,0 +1,88 @@
+{
+  "title": "Questão 15 - FUVEST 2024 - 1ª fase",
+  "index": 15,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Em Dois irmãos, de Milton Hatoum, os gêmeos Yaqub e Omar\nrepresentam duas personalidades antagônicas que se\nenfrentam ao longo da narrativa. A rivalidade entre eles tem\ncomo resultado:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A prosperidade econômica de ambos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A reconstrução dos laços entre eles.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A ida de Nael a São Paulo para viver com Yaqub.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A morte de Rânia, a irmã dos gêmeos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A desagregação e a ruína da família.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Em Dois irmãos, de Milton Hatoum, os gêmeos Yaqub e Omar\nrepresentam duas personalidades antagônicas que se\nenfrentam ao longo da narrativa. A rivalidade entre eles tem\ncomo resultado:\n(A) A prosperidade econômica de ambos.\n(B) A reconstrução dos laços entre eles.\n(C) A ida de Nael a São Paulo para viver com Yaqub.\n(D) A morte de Rânia, a irmã dos gêmeos.\n(E) A desagregação e a ruína da família.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            297.5,
+            468.35470000000004,
+            567,
+            616.4347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Conflito entre personagens em Dois irmãos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Questão 64 - UNICAMP 2026 - 1ª fase",
+  "index": 64,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "O sineiro era um preto velho e doido. Não fazia mais que tocar\no sino da capela, para a missa, aos domingos. O resto do tempo vivia calado ou resmungando. Ninguém lhe falava, embora\nfosse manso. [...] Com a razão, perdera a convivência dos mais.\nVivia entregue aos pensamentos solitários, mergulhado na inconsciência e na solidão. A moça representava aos olhos dele\nalguma coisa mais do que uma simples criatura, era a sociedade\nhumana, e uma sombra de sombra da consciência antiga.\n(ASSIS, M. de. Casa Velha. Apresentação e notas de Paulo Franchetti. Campinas, SP: Editora da UNICAMP, p. 85-86, 2023.)\nNo enredo de Casa Velha, é possível afirmar que a cena em que\naparece a figura do sineiro cumpre o papel de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mostrar a solidariedade de classe desenvolvida por Lalau\nque, sendo uma agregada, identifica seus interesses com os\ndo velho sineiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "exibir o caráter caridoso de Dona Antônia, que mantém o\nescravizado sob seus cuidados mesmo após deixar de ser útil\ncomo trabalhador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "expor a Dona Antônia o sentimento existente entre Lalau e\nseu filho, enquanto ele observa a compaixão da moça pelo\nsineiro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "sugerir a complexidade da organização social característica\nda Casa Velha, na qual se via representada toda a sociedade\nhumana.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O sineiro era um preto velho e doido. Não fazia mais que tocar\no sino da capela, para a missa, aos domingos. O resto do tem-\npo vivia calado ou resmungando. Ninguém lhe falava, embora\nfosse manso. [...] Com a razão, perdera a convivência dos mais.\nVivia entregue aos pensamentos solitários, mergulhado na in-\nconsciência e na solidão. A moça representava aos olhos dele\nalguma coisa mais do que uma simples criatura, era a sociedade\nhumana, e uma sombra de sombra da consciência antiga.\n(ASSIS, M. de. Casa Velha. Apresentação e notas de Paulo Franchetti. Campinas, SP: Edi-\ntora da UNICAMP, p. 85-86, 2023.)\nNo enredo de Casa Velha, é possível afirmar que a cena em que\naparece a figura do sineiro cumpre o papel de\na) mostrar a solidariedade de classe desenvolvida por Lalau\nque, sendo uma agregada, identifica seus interesses com os\ndo velho sineiro.\nb) exibir o caráter caridoso de Dona Antônia, que mantém o\nescravizado sob seus cuidados mesmo após deixar de ser útil\ncomo trabalhador.\nc) expor a Dona Antônia o sentimento existente entre Lalau e\nseu filho, enquanto ele observa a compaixão da moça pelo\nsineiro.\nd) sugerir a complexidade da organização social característica\nda Casa Velha, na qual se via representada toda a sociedade\nhumana.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            673.0267,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            40,
+            291,
+            256.08129999999994
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

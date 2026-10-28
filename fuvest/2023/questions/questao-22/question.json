@@ -1,0 +1,103 @@
+{
+  "title": "Questão 22 - FUVEST 2023 - 1ª fase",
+  "index": 22,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Joana comprou um celular e dividiu o pagamento em 24\nparcelas mensais que formam uma progressão aritmética\ncrescente. As três primeiras parcelas foram de R$ 120,00,\nR$ 126,00 e R$ 132,00. Sabendo que, ao final, constatou-se\nque Joana não pagou a 19ª parcela, o valor pago por ela foi:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 3.954,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 4.026,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 4.200,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "R$ 4.308,00",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "R$ 4.382,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Joana comprou um celular e dividiu o pagamento em 24\nparcelas mensais que formam uma progressão aritmética\ncrescente. As três primeiras parcelas foram de R$ 120,00,\nR$ 126,00 e R$ 132,00. Sabendo que, ao final, constatou-se\nque Joana não pagou a 19ª parcela, o valor pago por ela foi:\n(A) R$ 3.954,00\n(B) R$ 4.026,00\n(C) R$ 4.200,00\n(D) R$ 4.308,00\n(E) R$ 4.382,00",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            28,
+            690.1147000000001,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            116.09469999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Soma de progressão aritmética",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

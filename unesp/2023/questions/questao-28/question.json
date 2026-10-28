@@ -1,0 +1,100 @@
+{
+  "title": "Questão 28 - UNESP 2023 - 1ª fase",
+  "index": 28,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto para responder às questões de 27 a 29.\nWorld’s happiest ranking goes to\nFinland for fifth year in a row\nPeople enjoy sunny weather on the waterfront in Helsinki.\nFinland was crowned the happiest country in the world for\nthe fifth consecutive year, with a score significantly ahead of its\npeers in the World Happiness Report 2022 ranking, published\nby a body linked to the United Nations. However, the authors\ndetected, on average, a long-term moderate upward trend in\nstress, worry, and sadness in most countries, as well as “a\nslight long-term decline in the enjoyment of life,” they wrote.\nThe report uses global survey data to report on how\npeople evaluate their own lives in more than 150 countries\naround the world, with the ranking based on a three-year\naverage. Key variables that contribute to explaining people’s\nlife evaluations include healthy life expectancy, generosity,\nsocial support, freedom to make life choices, perceptions of\ncorruption, and the gross domestic product per capita (an\nindicator that measures a country’s economic output per\nperson, that is calculated by dividing the total gross domestic\nproduct of a country by its population).\n“World leaders should take heed,” Jeffrey Sachs, director\nof the Center for Sustainable Development at Columbia\nUniversity, said. “Politics should be directed as the great\nsages long ago insisted: to the well-being of the people, not\nthe power of the rulers.”\n(Kati Pohjanpalo. www.bloomberg.com, 18.03.2022. Adaptado.)\n\nDe acordo com o texto, uma das variáveis que ajuda a interpretar as avaliações das pessoas sobre a sua própria vida é o",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "PIB per capita.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "respeito à natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "lazer.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "estresse.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "descontentamento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "De acordo com o texto, uma das variáveis que ajuda a inter-\npretar as avaliações das pessoas sobre a sua própria vida é o\n(A) PIB per capita.\n(B) respeito à natureza.\n(C) lazer.\n(D) estresse.\n(E) descontentamento.",
+    "sharedContext": "Leia o texto para responder às questões de 27 a 29.\nWorld’s happiest ranking goes to\nFinland for fifth year in a row\nPeople enjoy sunny weather on the waterfront in Helsinki.\nFinland was crowned the happiest country in the world for\nthe fifth consecutive year, with a score significantly ahead of its\npeers in the World Happiness Report 2022 ranking, published\nby a body linked to the United Nations. However, the authors\ndetected, on average, a long-term moderate upward trend in\nstress, worry, and sadness in most countries, as well as “a\nslight long-term decline in the enjoyment of life,” they wrote.\nThe report uses global survey data to report on how\npeople evaluate their own lives in more than 150 countries\naround the world, with the ranking based on a three-year\naverage. Key variables that contribute to explaining people’s\nlife evaluations include healthy life expectancy, generosity,\nsocial support, freedom to make life choices, perceptions of\ncorruption, and the gross domestic product per capita (an\nindicator that measures a country’s economic output per\nperson, that is calculated by dividing the total gross domestic\nproduct of a country by its population).\n“World leaders should take heed,” Jeffrey Sachs, director\nof the Center for Sustainable Development at Columbia\nUniversity, said. “Politics should be directed as the great\nsages long ago insisted: to the well-being of the people, not\nthe power of the rulers.”\n(Kati Pohjanpalo. www.bloomberg.com, 18.03.2022. Adaptado.)",
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            562.2457999999999
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            190.30610000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

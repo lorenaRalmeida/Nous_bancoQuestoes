@@ -1,0 +1,100 @@
+{
+  "title": "Questão 72 - FUVEST 2025 - 1ª fase",
+  "index": 72,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "A reação do antibiótico sulfanilamida com halogênios leva à\nreação de substituição com o halogênio em duas posições\ndistintas do anel aromático, como representado na equação\nnão balanceada a seguir.\nEm um experimento, 1 L de uma solução de sulfanilamida de\npH 5 reagiu com Br em excesso, obtendo-se pH 4 após reação\n2\ntotal. Considerando que o volume se manteve inalterado após\na adição do halogênio, quantos mols de sulfanilamida\nreagiram com bromo?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4,5 × 10ꟷ5",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "9,0 × 10ꟷ5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,0 × 10ꟷ4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5,0 × 10ꟷ2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,0 × 10ꟷ1",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA reação do antibiótico sulfanilamida com halogênios leva à\nreação de substituição com o halogênio em duas posições\ndistintas do anel aromático, como representado na equação\nnão balanceada a seguir.\nEm um experimento, 1 L de uma solução de sulfanilamida de\npH 5 reagiu com Br em excesso, obtendo-se pH 4 após reação\n2\ntotal. Considerando que o volume se manteve inalterado após\na adição do halogênio, quantos mols de sulfanilamida\nreagiram com bromo?\n(A) 4,5 × 10ꟷ5\n(B) 9,0 × 10ꟷ5\n(C) 1,0 × 10ꟷ4\n(D) 5,0 × 10ꟷ2\n(E) 1,0 × 10ꟷ1\n#####",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            297.5,
+            316.8547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            41.42470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Estequiometria, substituição orgânica e pH",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

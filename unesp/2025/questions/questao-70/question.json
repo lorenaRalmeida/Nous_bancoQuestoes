@@ -1,0 +1,90 @@
+{
+  "title": "Questão 70 - UNESP 2025 - 1ª fase",
+  "index": 70,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "A imagem mostra cilindros de gelo-seco, CO (s), substância\n2\nmuito empregada no transporte e conservação de alimentos\nsob refrigeração.\n(www.gbgeloseco.com.br)\nO gelo-seco tem esse nome porque sofre sublimação, ou\nseja, passa diretamente do estado sólido para o estado gasoso, sem passar pelo estado líquido. Sabendo que o volume molar de um gás medido nas CATP (Condições Ambiente de Temperatura e Pressão) é igual a 25 L/mol, o volume,\nmedido nas CATP, ocupado pelo gás resultante da sublimação de 1,1 kg de gelo-seco é próximo de",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "200 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "500 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "600 L.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "100 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "400 L.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A imagem mostra cilindros de gelo-seco, CO (s), substância\n2\nmuito empregada no transporte e conservação de alimentos\nsob refrigeração.\n(www.gbgeloseco.com.br)\nO gelo-seco tem esse nome porque sofre sublimação, ou\nseja, passa diretamente do estado sólido para o estado ga-\nsoso, sem passar pelo estado líquido. Sabendo que o volu-\nme molar de um gás medido nas CATP (Condições Ambien-\nte de Temperatura e Pressão) é igual a 25 L/mol, o volume,\nmedido nas CATP, ocupado pelo gás resultante da sublima-\nção de 1,1 kg de gelo-seco é próximo de\n(A) 200 L.\n(B) 500 L.\n(C) 600 L.\n(D) 100 L.\n(E) 400 L.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            404.7173
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

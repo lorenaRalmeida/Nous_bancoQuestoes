@@ -1,0 +1,84 @@
+{
+  "title": "Questão 40 - UNICAMP 2025 - 1ª fase",
+  "index": 40,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "(Postagem de Renato Janine Ribeiro em seu perfil no Facebook, publicada em 27/2/2024.)\nO “duplo sentido” a que o autor se refere está relacionado a\numa",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "visão bem-humorada sobre as inovações do celular e é produzido pelas interpretações de “mais”, que expressa intensidade e adição ao mesmo tempo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "perspectiva crítica sobre os usos que vêm sendo feitos do celular e resulta dos significados de “ligar”, que pode indicar\ntanto uma ação quanto um juízo de valor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "postura irônica sobre os usuários do celular e deriva dos\nusos de “ninguém”, que indetermina o sujeito e o objeto\nno parágrafo em que ocorre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "visão pessimista sobre o futuro do celular e depende dos\nsentidos de “para”, que remete ao destinatário de uma\nmensagem e ao lugar em que se encontra.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "(Postagem de Renato Janine Ribeiro em seu perfil no Facebook, publicada em 27/2/2024.)\nO “duplo sentido” a que o autor se refere está relacionado a\numa\na) visão bem-humorada sobre as inovações do celular e é pro-\nduzido pelas interpretações de “mais”, que expressa inten-\nsidade e adição ao mesmo tempo.\nb) perspectiva crítica sobre os usos que vêm sendo feitos do ce-\nlular e resulta dos significados de “ligar”, que pode indicar\ntanto uma ação quanto um juízo de valor.\nc) postura irônica sobre os usuários do celular e deriva dos\nusos de “ninguém”, que indetermina o sujeito e o objeto\nno parágrafo em que ocorre.\nd) visão pessimista sobre o futuro do celular e depende dos\nsentidos de “para”, que remete ao destinatário de uma\nmensagem e ao lugar em que se encontra.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            520.246
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

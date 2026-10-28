@@ -1,0 +1,100 @@
+{
+  "title": "Questão 7 - FUVEST 2023 - 1ª fase",
+  "index": 7,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 07 E 08\nDisponível em https://tirasarmandinho.tumblr.com/. Adaptado.\n\nOs verbos “detonar” e “avariar”, no texto, são exemplos de",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "usos linguísticos próprios de gêneros da área jurídica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "termos cujos sentidos se contradizem na composição da\ntira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "vocábulos empregados informalmente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "recursos linguísticos inadequados à situação de\ncomunicação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "escolhas vocabulares associadas ao contexto de cada\npersonagem.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Os verbos “detonar” e “avariar”, no texto, são exemplos de\n(A) usos linguísticos próprios de gêneros da área jurídica.\n(B) termos cujos sentidos se contradizem na composição da\ntira.\n(C) vocábulos empregados informalmente.\n(D) recursos linguísticos inadequados à situação de\ncomunicação.\n(E) escolhas vocabulares associadas ao contexto de cada\npersonagem.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 07 E 08\nDisponível em https://tirasarmandinho.tumblr.com/. Adaptado.",
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            28,
+            111.98584599999992,
+            297.5,
+            229.31470000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            28,
+            229.31470000000002,
+            297.5,
+            385.91470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Semântica dos verbos detonar e avariar",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

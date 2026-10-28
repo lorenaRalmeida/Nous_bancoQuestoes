@@ -1,0 +1,106 @@
+{
+  "title": "Questão 85 - FUVEST 2024 - 1ª fase",
+  "index": 85,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Números figurados são números que expressam o total de\npontos em certas configurações geométricas. Um exemplo de\nnúmeros figurados são os triangulares, os quais são números\nnaturais que podem ser representados geometricamente na\nforma de um triângulo. Os quatro primeiros números\ntriangulares estão ilustrados na figura I. Apesar de o número\n1 não representar um triângulo, ele é considerado um número\ntriangular.\nFigura I\nOutro exemplo de número figurado é o número oblongo, o\nqual representa o total de pontos de um quadro retangular\nem que o número de colunas é uma unidade a mais do que o\nnúmero de linhas. Os quatro primeiros números oblongos\nestão ilustrados na figura II. Apesar de o número 2 não\nrepresentar um quadro retangular, ele é considerado um\nnúmero oblongo.\nFigura II\nA respeito de números triangulares e números oblongos,\nassinale a alternativa correta.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "162 é o 15º número triangular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O 13º número triangular é primo e o 30º número oblongo\né ímpar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "156 não é um número oblongo, nem triangular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "210 é um número triangular e oblongo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "A diferença entre dois números triangulares consecutivos\nsão termos de uma progressão geométrica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Números figurados são números que expressam o total de\npontos em certas configurações geométricas. Um exemplo de\nnúmeros figurados são os triangulares, os quais são números\nnaturais que podem ser representados geometricamente na\nforma de um triângulo. Os quatro primeiros números\ntriangulares estão ilustrados na figura I. Apesar de o número\n1 não representar um triângulo, ele é considerado um número\ntriangular.\nFigura I\nOutro exemplo de número figurado é o número oblongo, o\nqual representa o total de pontos de um quadro retangular\nem que o número de colunas é uma unidade a mais do que o\nnúmero de linhas. Os quatro primeiros números oblongos\nestão ilustrados na figura II. Apesar de o número 2 não\nrepresentar um quadro retangular, ele é considerado um\nnúmero oblongo.\nFigura II\nA respeito de números triangulares e números oblongos,\nassinale a alternativa correta.\n(A) 162 é o 15º número triangular.\n(B) O 13º número triangular é primo e o 30º número oblongo\né ímpar.\n(C) 156 não é um número oblongo, nem triangular.\n(D) 210 é um número triangular e oblongo.\n(E) A diferença entre dois números triangulares consecutivos\nsão termos de uma progressão geométrica.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            297.5,
+            90.47469999999998,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Padrões de números triangulares e oblongos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

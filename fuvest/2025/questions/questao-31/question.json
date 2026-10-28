@@ -1,0 +1,90 @@
+{
+  "title": "Questão 31 - FUVEST 2025 - 1ª fase",
+  "index": 31,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Alguns corais contêm, em sua estrutura, algas fornecedoras\nde carboidratos que auxiliam no crescimento e na construção\ndo esqueleto do coral. Os corais, por sua vez, fornecem um\nambiente de proteção e importantes nutrientes às algas. As\nmudanças climáticas globais têm provocado a morte dessas\nalgas e, em muitos casos, a morte dos corais.\nAssinale a alternativa que representa a relação ecológica\nentre os corais e as algas, assim como o impacto imediato\ncausado pela morte dos corais.\nRelação ecológica Impacto imediato",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Predação Formação das marés vermelhas\ne desoxigenação das águas\noceânicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Mutualismo Perda de habitat para diversas\nespécies marinhas, assim como\ndiminuição de suas fontes de\nproteção e alimento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Colônia Aumento de habitats e nichos\necológicos para espécies que\npassam a viver no local antes\nocupado pelos corais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Competição Invasão biológica por espécies\nque ocupam o nicho deixado\nvago pelos corais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Comensalismo Enriquecimento das águas\noceânicas por cálcio e nitrogênio,\nfavorecendo o desenvolvimento\nde algas marinhas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nAlguns corais contêm, em sua estrutura, algas fornecedoras\nde carboidratos que auxiliam no crescimento e na construção\ndo esqueleto do coral. Os corais, por sua vez, fornecem um\nambiente de proteção e importantes nutrientes às algas. As\nmudanças climáticas globais têm provocado a morte dessas\nalgas e, em muitos casos, a morte dos corais.\nAssinale a alternativa que representa a relação ecológica\nentre os corais e as algas, assim como o impacto imediato\ncausado pela morte dos corais.\nRelação ecológica Impacto imediato\n(A) Predação Formação das marés vermelhas\ne desoxigenação das águas\noceânicas.\n(B) Mutualismo Perda de habitat para diversas\nespécies marinhas, assim como\ndiminuição de suas fontes de\nproteção e alimento.\n(C) Colônia Aumento de habitats e nichos\necológicos para espécies que\npassam a viver no local antes\nocupado pelos corais.\n(D) Competição Invasão biológica por espécies\nque ocupam o nicho deixado\nvago pelos corais.\n(E) Comensalismo Enriquecimento das águas\noceânicas por cálcio e nitrogênio,\nfavorecendo o desenvolvimento\nde algas marinhas.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            434.5147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Relações ecológicas e branqueamento de corais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

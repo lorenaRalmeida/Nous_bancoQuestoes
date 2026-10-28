@@ -1,0 +1,98 @@
+{
+  "title": "Questão 67 - UNESP 2025 - 1ª fase",
+  "index": 67,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Existem pessoas que não apreciam o coentro por acharem que a erva aromática apresenta odor e sabor desagradáveis. Nessas pessoas, um estudo molecular apontou para a\nsensibilidade dos receptores olfativos aos aldeídos presentes\nno coentro. Foi verificado que essas pessoas apresentam\numa variante mais expressiva do gene OR6A2, que codifica\num receptor extremamente sensível aos aldeídos do coentro.\n(https://oglobo.com. Adaptado.)\nO excerto permite afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o gene OR6A2 expressa uma proteína que é acoplada à\nsuperfície externa da membrana plasmática das células\nolfativas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o gene OR6A2 é responsável por produzir células olfativas mais sensíveis aos aldeídos do coentro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os aldeídos do coentro ligam-se ao gene OR6A2 e estimulam a transmissão de impulsos nervosos pelos receptores olfativos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os aldeídos do coentro ligam-se aos receptores do gene\nOR6A2 e aumentam a sensibilidade das células olfativas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os aldeídos do coentro estimulam a síntese do gene\nOR6A2, o que aumenta a sensibilidade das células olfativas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Existem pessoas que não apreciam o coentro por acha-\nrem que a erva aromática apresenta odor e sabor desagradá-\nveis. Nessas pessoas, um estudo molecular apontou para a\nsensibilidade dos receptores olfativos aos aldeídos presentes\nno coentro. Foi verificado que essas pessoas apresentam\numa variante mais expressiva do gene OR6A2, que codifica\num receptor extremamente sensível aos aldeídos do coentro.\n(https://oglobo.com. Adaptado.)\nO excerto permite afirmar que\n(A) o gene OR6A2 expressa uma proteína que é acoplada à\nsuperfície externa da membrana plasmática das células\nolfativas.\n(B) o gene OR6A2 é responsável por produzir células olfati-\nvas mais sensíveis aos aldeídos do coentro.\n(C) os aldeídos do coentro ligam-se ao gene OR6A2 e esti-\nmulam a transmissão de impulsos nervosos pelos recep-\ntores olfativos.\n(D) os aldeídos do coentro ligam-se aos receptores do gene\nOR6A2 e aumentam a sensibilidade das células olfativas.\n(E) os aldeídos do coentro estimulam a síntese do gene\nOR6A2, o que aumenta a sensibilidade das células olfa-\ntivas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            475.6427,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

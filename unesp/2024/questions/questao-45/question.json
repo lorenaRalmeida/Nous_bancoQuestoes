@@ -1,0 +1,98 @@
+{
+  "title": "Questão 45 - UNESP 2024 - 1ª fase",
+  "index": 45,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O just in time é responsável por buscar a precisão da\ncadeia de produção, encaixando as operações e as execuções de acordo com o nível de demanda. Ou seja, tudo\nocorre no seu devido tempo, nem antes nem depois. Essa\nmetodologia evita o estoque parado e o desperdício de\nmatéria-prima.\n(www.totvs.com, 11.07.2022.)\nA metodologia apresentada no excerto é aplicada pelo",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "taylorismo, ideal produtivo estimulado pela União Soviética durante a Guerra Fria, em um cenário de crescimento\nhomogêneo para as suas repúblicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mercantilismo, doutrina econômica estipulada pela China\nno final do século XX, em conformidade ao seu desejo de\nser um plataforma de exportação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "desenvolvimentismo, sistema de gestão corporativa criado nos Estados Unidos no fim do século XIX, em associação à expansão do capitalismo pelo mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "fordismo, princípio de produção industrial inaugurado\npela Inglaterra após a Segunda Guerra Mundial, em que\na esteira rolante dita o ritmo produtivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "toyotismo, modelo de organização do trabalho desenvolvido no Japão após a Segunda Guerra Mundial, em um\ncontexto de restrições naturais e econômicas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O just in time é responsável por buscar a precisão da\ncadeia de produção, encaixando as operações e as exe-\ncuções de acordo com o nível de demanda. Ou seja, tudo\nocorre no seu devido tempo, nem antes nem depois. Essa\nmetodologia evita o estoque parado e o desperdício de\nmatéria-prima.\n(www.totvs.com, 11.07.2022.)\nA metodologia apresentada no excerto é aplicada pelo\n(A) taylorismo, ideal produtivo estimulado pela União Soviéti-\nca durante a Guerra Fria, em um cenário de crescimento\nhomogêneo para as suas repúblicas.\n(B) mercantilismo, doutrina econômica estipulada pela China\nno final do século XX, em conformidade ao seu desejo de\nser um plataforma de exportação.\n(C) desenvolvimentismo, sistema de gestão corporativa cria-\ndo nos Estados Unidos no fim do século XIX, em associa-\nção à expansão do capitalismo pelo mundo.\n(D) fordismo, princípio de produção industrial inaugurado\npela Inglaterra após a Segunda Guerra Mundial, em que\na esteira rolante dita o ritmo produtivo.\n(E) toyotismo, modelo de organização do trabalho desenvol-\nvido no Japão após a Segunda Guerra Mundial, em um\ncontexto de restrições naturais e econômicas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            451.9911,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

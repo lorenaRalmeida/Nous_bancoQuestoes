@@ -1,0 +1,95 @@
+{
+  "title": "Questão 17 - UNICAMP 2024 - 1ª fase",
+  "index": 17,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Muitos fotógrafos no século XIX registraram obras de engenharia. O francês Édouard Baldus (1813-1889) atuou, primeiro\ncomo pintor e depois como fotógrafo, no inventário de monumentos arquitetônicos da Comissão dos Monumentos Históricos (1851) na França. Suas fotografias sobre esses monumentos\nrenderam-lhe fama de fotógrafo de arquitetura. Sob encomenda, Baldus editou um álbum para a Companhia dos Caminhos\nFérreos do Norte (1855) e registrou estações, instalações ferroviárias, portos e cidades, ao longo desta via entre Paris e a cidade de Boulogne-sur-Mer. A rainha Vitória ganhou um exemplar\ndessa publicação.\n(Adaptado de: OLIVEIRA, E. R. Vistas fotográficas das ferrovias: a produção de registros\nde obra pública no Brasil do século XIX. Hist cienc saude-Manguinhos [Internet], 25(3),\np. 695-723, 2018.)\n\nÉ correto afirmar que a fotografia anterior",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "foi produzida durante a Guerra Fria e documenta o sequestro, no sudeste asiático, da parte dos soldados norte-americanos, de mulheres. O estupro e a prostituição forçada são\naceitos pelas cortes internacionais como estratégia de guerra, já que os crimes de guerra referem-se apenas às armas\nusadas nos campos.\n.sebrof//:sptth\n:me\nsievínopsid\nomret\nod\noãçinfied\ne\nadnegel\n,otoF(\n-ed-serehlum-martsom-sarar-snegami/70/7102/sanuloc/rb.moc ).\n3202\ned\noiam\ned\n52\nme\nossecA\n/laidnum-arreug-a2-ad-otrofnoc-\nLegenda: Imagens de “mulheres de conforto”**, em 1944, na Coreia do Sul.\n** Termo usado para designar coreanas, filipinas e chinesas, obrigadas a se\nprostituírem em bordéis usados por militares japoneses.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "comprova a ação dos soldados norte-americanos, durante\na Guerra do Vietnã, em relação às mulheres e às crianças\nfotografadas. A prostituição consensual era usada como estratégia de criação de novos laços sociais e o povoamento\ndos territórios conquistados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "traz a imagem de mulheres enfileiradas, capturadas e obrigadas a se prostituírem durante a II Guerra Mundial. A violação sexual tem sido usada historicamente como arma para\nfragilizar os supostos inimigos, já que as vítimas da violência\nsexual trazem marcas da humilhação e da limpeza étnica e\ntem os laços sociais destruídos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "registra mulheres que, durante a Guerra das Coreias, escolheram se casar e migrar com os soldados japoneses. A violação sexual é uma das marcas dos conflitos entre nações,\natingindo em especial mulheres e crianças que, entendidas\ncomo vulneráveis, se tornam vítimas do domínio masculino.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "É correto afirmar que a fotografia anterior\na) foi produzida durante a Guerra Fria e documenta o seques-\ntro, no sudeste asiático, da parte dos soldados norte-ameri-\ncanos, de mulheres. O estupro e a prostituição forçada são\naceitos pelas cortes internacionais como estratégia de guer-\nra, já que os crimes de guerra referem-se apenas às armas\nusadas nos campos.\n.sebrof//:sptth\n:me\nsievínopsid\nomret\nod\noãçinfied\ne\nadnegel\n,otoF(\n-ed-serehlum-martsom-sarar-snegami/70/7102/sanuloc/rb.moc ).\n3202\ned\noiam\ned\n52\nme\nossecA\n/laidnum-arreug-a2-ad-otrofnoc-\nLegenda: Imagens de “mulheres de conforto”**, em 1944, na Coreia do Sul.\n** Termo usado para designar coreanas, filipinas e chinesas, obrigadas a se\nprostituírem em bordéis usados por militares japoneses.\nb) comprova a ação dos soldados norte-americanos, durante\na Guerra do Vietnã, em relação às mulheres e às crianças\nfotografadas. A prostituição consensual era usada como es-\ntratégia de criação de novos laços sociais e o povoamento\ndos territórios conquistados.\nc) traz a imagem de mulheres enfileiradas, capturadas e obri-\ngadas a se prostituírem durante a II Guerra Mundial. A vio-\nlação sexual tem sido usada historicamente como arma para\nfragilizar os supostos inimigos, já que as vítimas da violência\nsexual trazem marcas da humilhação e da limpeza étnica e\ntem os laços sociais destruídos.\nd) registra mulheres que, durante a Guerra das Coreias, esco-\nlheram se casar e migrar com os soldados japoneses. A vio-\nlação sexual é uma das marcas dos conflitos entre nações,\natingindo em especial mulheres e crianças que, entendidas\ncomo vulneráveis, se tornam vítimas do domínio masculino.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            469.3153,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            40,
+            291,
+            280.2527
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "sharedFromQuestion": 16,
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

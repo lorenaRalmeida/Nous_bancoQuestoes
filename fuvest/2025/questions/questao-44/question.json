@@ -1,0 +1,92 @@
+{
+  "title": "Questão 44 - FUVEST 2025 - 1ª fase",
+  "index": 44,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Disponível em https://br.pinterest.com/.\n“Quem negaria que os futuros ainda não são? Mas já está na\nmente a espera dos futuros. E quem negaria que os passados\njá não são? Todavia, ainda está na mente a memória dos\npassados. E quem negaria que o tempo presente não tem\nextensão temporal, porque passa em um instante? Todavia,\nperdura a atenção, pela qual o que está presente se\nencaminha para a ausência.”\nAgostinho de Hipona. Confissões.\nAo propor uma aproximação entre a fala da personagem\nCalvin no quadrinho e o trecho citado das Confissões de\nAgostinho, é possível encontrar semelhanças com relação à\ndescrição do tempo e sua compreensão filosófica. Dentre as\nafirmativas a seguir, qual delas pode ser considerada\nverdadeira para ambos os casos?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A passagem do tempo é ilusória.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O tempo desfaz a mudança.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Há um paradoxo na compreensão do tempo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Os momentos do tempo identificam-se entre si.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Há ruptura completa entre o tempo presente e o futuro.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nDisponível em https://br.pinterest.com/.\n“Quem negaria que os futuros ainda não são? Mas já está na\nmente a espera dos futuros. E quem negaria que os passados\njá não são? Todavia, ainda está na mente a memória dos\npassados. E quem negaria que o tempo presente não tem\nextensão temporal, porque passa em um instante? Todavia,\nperdura a atenção, pela qual o que está presente se\nencaminha para a ausência.”\nAgostinho de Hipona. Confissões.\nAo propor uma aproximação entre a fala da personagem\nCalvin no quadrinho e o trecho citado das Confissões de\nAgostinho, é possível encontrar semelhanças com relação à\ndescrição do tempo e sua compreensão filosófica. Dentre as\nafirmativas a seguir, qual delas pode ser considerada\nverdadeira para ambos os casos?\n(A) A passagem do tempo é ilusória.\n(B) O tempo desfaz a mudança.\n(C) Há um paradoxo na compreensão do tempo.\n(D) Os momentos do tempo identificam-se entre si.\n(E) Há ruptura completa entre o tempo presente e o futuro.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            590.2746999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "topic": "Concepção filosófica do tempo em Agostinho",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

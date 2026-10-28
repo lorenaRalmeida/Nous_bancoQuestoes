@@ -1,0 +1,102 @@
+{
+  "title": "Questão 33 - FUVEST 2025 - 1ª fase",
+  "index": 33,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "WASSENBERGH, Sam Van; MIELKE, Maia. Physics Today, vol. 77 (2024)\n(Adaptado).\nEm um estudo relatado no periódico Physics Today, cientistas\nbelgas mostraram que os pica-paus não dispõem de\nmecanismos de absorção de choques em seus ossos do crânio,\nao contrário do que se acreditava anteriormente. Nos\nexperimentos realizados, verificou-se que o cérebro de um\npica-pau pode experimentar desacelerações instantâneas de\naté 400 𝑔, sendo 𝑔 o módulo da aceleração da gravidade.\nSuponha que, durante uma batida em um tronco de árvore, o\ncrânio do pica-pau, suposto perfeitamente rígido, sofra uma\ndesaceleração constante de 200 𝑔 ao longo de um tempo de\n2,0 milissegundos. Qual é a distância percorrida pelo crânio do\npica-pau durante esse tempo, até atingir momentaneamente\no repouso?\n\nNote e adote:\nAceleração da gravidade: 𝑔 = 10 m/s2.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,0 mm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4,0 mm",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "8,0 mm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "16 mm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "32 mm",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nWASSENBERGH, Sam Van; MIELKE, Maia. Physics Today, vol. 77 (2024)\n(Adaptado).\nEm um estudo relatado no periódico Physics Today, cientistas\nbelgas mostraram que os pica-paus não dispõem de\nmecanismos de absorção de choques em seus ossos do crânio,\nao contrário do que se acreditava anteriormente. Nos\nexperimentos realizados, verificou-se que o cérebro de um\npica-pau pode experimentar desacelerações instantâneas de\naté 400 𝑔, sendo 𝑔 o módulo da aceleração da gravidade.\nSuponha que, durante uma batida em um tronco de árvore, o\ncrânio do pica-pau, suposto perfeitamente rígido, sofra uma\ndesaceleração constante de 200 𝑔 ao longo de um tempo de\n2,0 milissegundos. Qual é a distância percorrida pelo crânio do\npica-pau durante esse tempo, até atingir momentaneamente\no repouso?\n(A) 2,0 mm\n(B) 4,0 mm\n(C) 8,0 mm\n(D) 16 mm\n(E) 32 mm\nNote e adote:\nAceleração da gravidade: 𝑔 = 10 m/s2.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Cinemática e desaceleração de pica-paus",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

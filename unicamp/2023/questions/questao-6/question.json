@@ -1,0 +1,92 @@
+{
+  "title": "Questão 6 - UNICAMP 2023 - 1ª fase",
+  "index": 6,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Você provavelmente já encontrou pelas redes sociais o famigerado #sqn, aquele jeito telegráfico de dizer que tal coisa é muito legal, “só que não”. Agora, imagine uma língua diferente\ndo português que tenha incorporado um conceito parecido na\nprópria estrutura das palavras, criando o que foi apelidado de\n“sufixo frustrativo”. Bom, é assim no kotiria, um idioma da família linguística tukano falado por indígenas do Alto Rio Negro,\nna fronteira do Brasil com a Colômbia. Para exprimir a função\n“frustrativa”, o kotiria usa um sufixo com a forma -ma. Você\nquer dizer que foi até um lugar sem conseguir o que queria\nindo até lá? Basta pegar o verbo ir, que é wa’a em kotiria, e\nacrescentar o sufixo: wa’ama, “ir em vão”.\n(Adaptado de: LOPES, R. J. L. A sofisticação das línguas indígenas. Superinteressante,\n18/11/2021.)\nO excerto, retirado de uma revista de jornalismo científico,\nexemplifica um processo de formação de palavras na língua\nindígena kotiria e o compara com o uso da hashtag #sqn. É\ncorreto afirmar que essa comparação",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cria uma falsa equivalência, pois os processos morfológicos\nem kotiria e em português são diferentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "enfatiza a construção de efeitos de sentido parecidos por\nmeio de processos distintos em kotiria e no português de\ninternet.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "permite compreender processos idênticos de formação de\npalavras nas línguas portuguesa e kotiria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ressalta as diferenças no uso dos sufixos –ma, em kotiria, e\n#sqn, no português usado na internet.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Você provavelmente já encontrou pelas redes sociais o famige-\nrado #sqn, aquele jeito telegráfico de dizer que tal coisa é mui-\nto legal, “só que não”. Agora, imagine uma língua diferente\ndo português que tenha incorporado um conceito parecido na\nprópria estrutura das palavras, criando o que foi apelidado de\n“sufixo frustrativo”. Bom, é assim no kotiria, um idioma da fa-\nmília linguística tukano falado por indígenas do Alto Rio Negro,\nna fronteira do Brasil com a Colômbia. Para exprimir a função\n“frustrativa”, o kotiria usa um sufixo com a forma -ma. Você\nquer dizer que foi até um lugar sem conseguir o que queria\nindo até lá? Basta pegar o verbo ir, que é wa’a em kotiria, e\nacrescentar o sufixo: wa’ama, “ir em vão”.\n(Adaptado de: LOPES, R. J. L. A sofisticação das línguas indígenas. Superinteressante,\n18/11/2021.)\nO excerto, retirado de uma revista de jornalismo científico,\nexemplifica um processo de formação de palavras na língua\nindígena kotiria e o compara com o uso da hashtag #sqn. É\ncorreto afirmar que essa comparação\na) cria uma falsa equivalência, pois os processos morfológicos\nem kotiria e em português são diferentes.\nb) enfatiza a construção de efeitos de sentido parecidos por\nmeio de processos distintos em kotiria e no português de\ninternet.\nc) permite compreender processos idênticos de formação de\npalavras nas línguas portuguesa e kotiria.\nd) ressalta as diferenças no uso dos sufixos –ma, em kotiria, e\n#sqn, no português usado na internet.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            281.48040000000003,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

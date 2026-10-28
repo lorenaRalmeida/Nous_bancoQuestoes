@@ -1,0 +1,102 @@
+{
+  "title": "Questão 4 - UNICAMP 2023 - 1ª fase",
+  "index": 4,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente\ncomo poeta, nunca se definiu assim e não escreveu nenhuma\ndas linhas que estão no livro Reino dos bichos e dos animais é o\nmeu nome, pelo qual ficou conhecida. A potência de suas palavras se encontra no seu falatório (como chamava suas falas),\nque foi preservado em fitas de áudio pela artista plástica Carla\nGuagliardi. As conversas entre as duas foram gravadas durante\noficinas de arte para pacientes psiquiátricos, entre 1986 e 1988,\ne o livro, publicado muitos anos depois da morte de Patrocínio,\né um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi\nlevada à força pela polícia e internada, no Centro Pedro 2º e depois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou\npor trinta anos; quando morreu, foi enterrada como indigente.\nA história de Patrocínio é a história de milhares de vítimas que\nforam encarceradas nos hospícios brasileiros por serem consideradas “desajustadas”. Em sua maioria negras. Ali, elas sofreram\nabusos, violências e torturas, além de serem abandonadas pelo\nEstado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, 05/2022, p. 27.)\n\nCom base ainda no texto, “falatório” pode ser considerado\ncomo",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a modalidade declamada dos poemas de Stella do Patrocínio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uma prática discursiva oral nomeada por Stella do Patrocínio.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a denominação, usada no manicômio, para conversas terapêuticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um gênero de poesia transcrita produzida por Stella do Patrocínio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Com base ainda no texto, “falatório” pode ser considerado\ncomo\na) a modalidade declamada dos poemas de Stella do Patrocí-\nnio.\nb) uma prática discursiva oral nomeada por Stella do Patrocí-\nnio.\nc) a denominação, usada no manicômio, para conversas tera-\npêuticas.\nd) um gênero de poesia transcrita produzida por Stella do Pa-\ntrocínio.",
+    "sharedContext": "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente\ncomo poeta, nunca se definiu assim e não escreveu nenhuma\ndas linhas que estão no livro Reino dos bichos e dos animais é o\nmeu nome, pelo qual ficou conhecida. A potência de suas palavras se encontra no seu falatório (como chamava suas falas),\nque foi preservado em fitas de áudio pela artista plástica Carla\nGuagliardi. As conversas entre as duas foram gravadas durante\noficinas de arte para pacientes psiquiátricos, entre 1986 e 1988,\ne o livro, publicado muitos anos depois da morte de Patrocínio,\né um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi\nlevada à força pela polícia e internada, no Centro Pedro 2º e depois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou\npor trinta anos; quando morreu, foi enterrada como indigente.\nA história de Patrocínio é a história de milhares de vítimas que\nforam encarceradas nos hospícios brasileiros por serem consideradas “desajustadas”. Em sua maioria negras. Ali, elas sofreram\nabusos, violências e torturas, além de serem abandonadas pelo\nEstado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, 05/2022, p. 27.)",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            503.3764,
+            568,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            318.5593,
+            291,
+            533.5908
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

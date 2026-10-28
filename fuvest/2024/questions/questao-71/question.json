@@ -1,0 +1,100 @@
+{
+  "title": "Questão 71 - FUVEST 2024 - 1ª fase",
+  "index": 71,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Para esfriar um copo contendo 250 mL de água fervente\n(100°C), é comum utilizar o seguinte método:\nPasso 1. Colocar esse copo\ndentro de uma vasilha em\ncontato com 1 litro de água à\ntemperatura ambiente (25°C),\ncomo mostrado na figura.\nPasso 2. Esperar que entrem\nem equilíbrio térmico.\nPasso 3. Tirar o copo e trocar a água da vasilha por outro litro\nde água à temperatura ambiente.\nPasso 4. Colocar o copo em contato com a água “nova” e\nesperar que entrem em equilíbrio térmico.\nApós o passo (4) desse método, a temperatura da água no\ncopo será aproximadamente:\n\nNote e adote:\nConsidere apenas trocas de calor\nentre a água no copo e a água na\nvasilha. Despreze quaisquer trocas de\ncalor do sistema com o ambiente.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "14°C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "28°C",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "40°C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "60°C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "84°C",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Para esfriar um copo contendo 250 mL de água fervente\n(100°C), é comum utilizar o seguinte método:\nPasso 1. Colocar esse copo\ndentro de uma vasilha em\ncontato com 1 litro de água à\ntemperatura ambiente (25°C),\ncomo mostrado na figura.\nPasso 2. Esperar que entrem\nem equilíbrio térmico.\nPasso 3. Tirar o copo e trocar a água da vasilha por outro litro\nde água à temperatura ambiente.\nPasso 4. Colocar o copo em contato com a água “nova” e\nesperar que entrem em equilíbrio térmico.\nApós o passo (4) desse método, a temperatura da água no\ncopo será aproximadamente:\n(A) 14°C\nNote e adote:\n(B) 28°C\nConsidere apenas trocas de calor\n(C) 40°C\nentre a água no copo e a água na\n(D) 60°C\nvasilha. Despreze quaisquer trocas de\n(E) 84°C calor do sistema com o ambiente.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Calorimetria e equilíbrio térmico",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

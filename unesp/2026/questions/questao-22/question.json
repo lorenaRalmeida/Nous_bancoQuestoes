@@ -1,0 +1,157 @@
+{
+  "title": "Questão 22 - UNESP 2026 - 1ª fase",
+  "index": 22,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Examine o cartaz para responder às questões 21 e 22.\n(https://commons.wikimedia.org. Adaptado.)\n\nThe main purpose of the poster is to\n\nIn the excerpt from the poster “Do not bring this pest home”,\nthe underlined word refers to",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png",
+    "imagem-04.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Regione Piemonte, Italy.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Japan.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "the surroundings of the poster.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "the vehicle itself.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "the final destination of the car traveler.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "In the excerpt from the poster “Do not bring this pest home”,\nthe underlined word refers to\n(A) Regione Piemonte, Italy.\n(B) Japan.\n(C) the surroundings of the poster.\n(D) the vehicle itself.\n(E) the final destination of the car traveler.",
+    "sharedContext": "Examine o cartaz para responder às questões 21 e 22.\n(https://commons.wikimedia.org. Adaptado.)\n\nThe main purpose of the poster is to",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            467.986
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            467.986,
+            568,
+            507.1229
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            621.6002,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 9,
+        "bbox": [
+          304,
+          51.06460000000004,
+          568,
+          248.49490000000003
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 9,
+        "bbox": [
+          304,
+          239.933,
+          568,
+          431.60069999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 9,
+        "bbox": [
+          304,
+          467.986,
+          350.6235,
+          491.0026
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

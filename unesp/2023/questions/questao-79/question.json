@@ -1,0 +1,199 @@
+{
+  "title": "Questão 79 - UNESP 2023 - 1ª fase",
+  "index": 79,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "O gráfico representa a frequência média de oscilação (f) das\npernas de um animal em função do comprimento de suas\npernas (L), quando ele caminha de forma natural. Esse mesmo gráfico pode ser utilizado para uma pessoa caminhando\nnas mesmas condições.\n(https://wp.ufpel.edu.br)\nConsidere uma pessoa adulta de 80 kg, cujas pernas medem\n1 m, caminhando em um parque sobre uma superfície plana\ne horizontal, com velocidade escalar constante. Se, em determinado trecho dessa caminhada, para cada passo dado\nessa pessoa deslocar-se 90 cm, sua energia cinética será de",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png",
+    "figura-vetorial-09.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "40,0 J.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "32,4 J.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "64,8 J.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "36,0 J.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "16,2 J.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O gráfico representa a frequência média de oscilação (f) das\npernas de um animal em função do comprimento de suas\npernas (L), quando ele caminha de forma natural. Esse mes-\nmo gráfico pode ser utilizado para uma pessoa caminhando\nnas mesmas condições.\n(https://wp.ufpel.edu.br)\nConsidere uma pessoa adulta de 80 kg, cujas pernas medem\n1 m, caminhando em um parque sobre uma superfície plana\ne horizontal, com velocidade escalar constante. Se, em de-\nterminado trecho dessa caminhada, para cada passo dado\nessa pessoa deslocar-se 90 cm, sua energia cinética será de\n(A) 40,0 J.\n(B) 32,4 J.\n(C) 64,8 J.\n(D) 36,0 J.\n(E) 16,2 J.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 29,
+        "bbox": [
+          45.9662,
+          108.50570000000005,
+          117.9744,
+          135.3859
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 29,
+        "bbox": [
+          37.4454,
+          142.63670000000002,
+          240.55059999999997,
+          269.4275
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 29,
+        "bbox": [
+          244.2466,
+          259.7709,
+          288.1012,
+          290.78599999999994
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 29,
+        "bbox": [
+          130.32539999999997,
+          267.73699999999997,
+          158.4208,
+          289.5852
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 29,
+        "bbox": [
+          148.11849999999998,
+          267.73699999999997,
+          176.21380000000002,
+          289.5852
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 29,
+        "bbox": [
+          165.9115,
+          267.73699999999997,
+          194.0069,
+          289.5852
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 29,
+        "bbox": [
+          183.7046,
+          267.73699999999997,
+          211.8,
+          289.5852
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 29,
+        "bbox": [
+          201.49769999999998,
+          267.73699999999997,
+          229.59310000000002,
+          289.5857
+        ]
+      },
+      {
+        "file": "figura-vetorial-09.png",
+        "page": 29,
+        "bbox": [
+          218.6637,
+          267.73699999999997,
+          247.38610000000003,
+          289.5852
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

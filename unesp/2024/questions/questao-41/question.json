@@ -1,0 +1,98 @@
+{
+  "title": "Questão 41 - UNESP 2024 - 1ª fase",
+  "index": 41,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "O verdadeiro horror dos campos de concentração e de\nextermínio reside no fato de os internados, mesmo que consigam manter-se vivos, estarem mais isolados do mundo dos\nvivos do que se tivessem morrido, porque o horror compele ao esquecimento. No mundo concentracionário, mata-se\num homem tão impessoalmente como se mata um mosquito.\nUma pessoa pode morrer em consequência de tortura ou de\nfome sistemática, ou porque o campo está superpovoado e\nhá necessidade de liquidar o material humano supérfluo.\n(Hannah Arendt. O sistema totalitário, 1978.)\nAo caracterizar a peculiaridade das ações nazistas nos campos de concentração e de extermínio, o excerto refere-se\ndiretamente",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à ausência de condições básicas de higiene.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à coisificação dos prisioneiros.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "ao respeito aos direitos humanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ao prevalecimento do nacionalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "à escravização dos prisioneiros.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O verdadeiro horror dos campos de concentração e de\nextermínio reside no fato de os internados, mesmo que con-\nsigam manter-se vivos, estarem mais isolados do mundo dos\nvivos do que se tivessem morrido, porque o horror compe-\nle ao esquecimento. No mundo concentracionário, mata-se\num homem tão impessoalmente como se mata um mosquito.\nUma pessoa pode morrer em consequência de tortura ou de\nfome sistemática, ou porque o campo está superpovoado e\nhá necessidade de liquidar o material humano supérfluo.\n(Hannah Arendt. O sistema totalitário, 1978.)\nAo caracterizar a peculiaridade das ações nazistas nos cam-\npos de concentração e de extermínio, o excerto refere-se\ndiretamente\n(A) à ausência de condições básicas de higiene.\n(B) à coisificação dos prisioneiros.\n(C) ao respeito aos direitos humanos.\n(D) ao prevalecimento do nacionalismo.\n(E) à escravização dos prisioneiros.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

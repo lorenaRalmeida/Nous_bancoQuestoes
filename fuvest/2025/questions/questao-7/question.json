@@ -1,0 +1,102 @@
+{
+  "title": "Questão 7 - FUVEST 2025 - 1ª fase",
+  "index": 7,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Disponível em https://screenrant.com/funniest-peanuts-comics-charlie-\nbrown-vs-lucy/.\nFalácias são argumentos que podem até parecer à primeira\nvista bem construídos logicamente, mas são falhos, seja em\ntermos do uso da linguagem, de pertinência temática ou de\ncorreção formal. Os primeiros estudos sistemáticos das\nfalácias foram feitos pelo filósofo Aristóteles, que classificou\nalguns dos argumentos falaciosos mais comuns.\nNo terceiro quadrinho da história, uma personagem se serve\nde um argumento falacioso bastante conhecido a fim de\npersuadir o outro. Esse argumento pode ser classificado como\num caso de qual tipo de falácia?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ataque à pessoa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Apelo à piedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Apelo à força.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Ambiguidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Apelo à ignorância.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nDisponível em https://screenrant.com/funniest-peanuts-comics-charlie-\nbrown-vs-lucy/.\nFalácias são argumentos que podem até parecer à primeira\nvista bem construídos logicamente, mas são falhos, seja em\ntermos do uso da linguagem, de pertinência temática ou de\ncorreção formal. Os primeiros estudos sistemáticos das\nfalácias foram feitos pelo filósofo Aristóteles, que classificou\nalguns dos argumentos falaciosos mais comuns.\nNo terceiro quadrinho da história, uma personagem se serve\nde um argumento falacioso bastante conhecido a fim de\npersuadir o outro. Esse argumento pode ser classificado como\num caso de qual tipo de falácia?\n(A) Ataque à pessoa.\n(B) Apelo à piedade.\n(C) Apelo à força.\n(D) Ambiguidade.\n(E) Apelo à ignorância.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Inglês"
+      ],
+      "topic": "Lógica e classificação de falácias",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 59 - FUVEST 2025 - 1ª fase",
+  "index": 59,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Quando uma barra de um certo material é aquecida até\numa temperatura 𝑇 a partir de uma temperatura inicial 𝑇 ,\n(cid:2868)\nseu comprimento inicial 𝐿 sofre um aumento Δ𝐿 dado por\n(cid:2868)\nΔ𝐿 (cid:3404)𝛼 𝐿 (cid:4666)𝑇(cid:3398)𝑇 (cid:4667), sendo 𝛼 o coeficiente de expansão\n(cid:2868) (cid:2868)\nlinear, que depende do material. O gráfico a seguir mostra\ncurvas de expansão linear para barras feitas de três\nmateriais distintos.\nCom base no gráfico e nas informações apresentadas, é\ncorreto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O gráfico mostra curvas para três barras que possuem o\nmesmo comprimento à temperatura de 30°C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Em um processo de aquecimento entre 100°C e 200°C, o\ncomprimento da barra de cobre aumenta em 0,1 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O coeficiente de expansão linear do alumínio é maior do\nque o do cobre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Partindo de 0°C, aumentar em 10 cm o comprimento da\nbarra de polietileno requer elevar sua temperatura até\n50°C.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do\nmesmo material, sofrem iguais incrementos de\ncomprimento quando levadas de 0°C a 100°C.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nQuando uma barra de um certo material é aquecida até\numa temperatura 𝑇 a partir de uma temperatura inicial 𝑇 ,\n(cid:2868)\nseu comprimento inicial 𝐿 sofre um aumento Δ𝐿 dado por\n(cid:2868)\nΔ𝐿 (cid:3404)𝛼 𝐿 (cid:4666)𝑇(cid:3398)𝑇 (cid:4667), sendo 𝛼 o coeficiente de expansão\n(cid:2868) (cid:2868)\nlinear, que depende do material. O gráfico a seguir mostra\ncurvas de expansão linear para barras feitas de três\nmateriais distintos.\nCom base no gráfico e nas informações apresentadas, é\ncorreto afirmar:\n(A) O gráfico mostra curvas para três barras que possuem o\nmesmo comprimento à temperatura de 30°C.\n(B) Em um processo de aquecimento entre 100°C e 200°C, o\ncomprimento da barra de cobre aumenta em 0,1 m.\n(C) O coeficiente de expansão linear do alumínio é maior do\nque o do cobre.\n(D) Partindo de 0°C, aumentar em 10 cm o comprimento da\nbarra de polietileno requer elevar sua temperatura até\n50°C.\n(E) Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do\nmesmo material, sofrem iguais incrementos de\ncomprimento quando levadas de 0°C a 100°C.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            28,
+            373.3147,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            97.19470000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Dilatação térmica linear",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

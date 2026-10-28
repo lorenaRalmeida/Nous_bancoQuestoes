@@ -1,0 +1,92 @@
+{
+  "title": "Questão 3 - FUVEST 2025 - 1ª fase",
+  "index": 3,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Jean Galvão. Disponível em https://cartum.folha.uol.com.br/.\nConsiderando a charge, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Há uma incoerência entre a imagem do segundo quadro e\no enunciado verbal do primeiro quadro, uma vez que a\nposposição do adjunto adverbial “na água” anula qualquer\nambiguidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Ao antecipar o objeto direto “o mercúrio” para o começo\nda oração, o chargista chama a atenção para esse\nelemento, estimulando o leitor a buscá-lo visualmente no\nsegundo quadro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Por meio da escolha do verbo “descartar”, mostra-se, de\nforma crítica, a necessidade da criação de um local correto\npara o depósito dos rejeitos provenientes do garimpo\nilegal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O uso da forma pronominal informal “a gente”, em\ndetrimento do pronome “nós”, empregado em situações\nmais formais e sérias, atenua o teor crítico, o que colabora\npara gerar efeito humorístico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O significado negativo do prefixo que aparece na palavra\n“ilegal” reforça a precariedade do atendimento à saúde\nnas comunidades indígenas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nJean Galvão. Disponível em https://cartum.folha.uol.com.br/.\nConsiderando a charge, é correto afirmar:\n(A) Há uma incoerência entre a imagem do segundo quadro e\no enunciado verbal do primeiro quadro, uma vez que a\nposposição do adjunto adverbial “na água” anula qualquer\nambiguidade.\n(B) Ao antecipar o objeto direto “o mercúrio” para o começo\nda oração, o chargista chama a atenção para esse\nelemento, estimulando o leitor a buscá-lo visualmente no\nsegundo quadro.\n(C) Por meio da escolha do verbo “descartar”, mostra-se, de\nforma crítica, a necessidade da criação de um local correto\npara o depósito dos rejeitos provenientes do garimpo\nilegal.\n(D) O uso da forma pronominal informal “a gente”, em\ndetrimento do pronome “nós”, empregado em situações\nmais formais e sérias, atenua o teor crítico, o que colabora\npara gerar efeito humorístico.\n(E) O significado negativo do prefixo que aparece na palavra\n“ilegal” reforça a precariedade do atendimento à saúde\nnas comunidades indígenas.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            466.79470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Sintaxe e interpretação verbo-visual de charge",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "title": "Questão 82 - UNESP 2023 - 1ª fase",
+  "index": 82,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Um circuito elétrico é constituído por um gerador ideal de força eletromotriz E, um amperímetro também ideal e dois\nresistores ôhmicos de resistências R e R , conforme a figu-\n1 2\nra. O gráfico abaixo do circuito representa a variação do potencial elétrico (V) ao longo dos pontos do ramo PZ que contém os dois resistores, adotando o potencial do ponto P como\nsendo nulo.\nSabendo que o amperímetro indica 2 A, as resistências\nR e R são, respectivamente, iguais a\n1 2",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "20 Ω e 10 Ω.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "30 Ω e 10 Ω.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "35 Ω e 5 Ω.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "25 Ω e 15 Ω.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "20 Ω e 15 Ω.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um circuito elétrico é constituído por um gerador ideal de for-\nça eletromotriz E, um amperímetro também ideal e dois\nresistores ôhmicos de resistências R e R , conforme a figu-\n1 2\nra. O gráfico abaixo do circuito representa a variação do po-\ntencial elétrico (V) ao longo dos pontos do ramo PZ que con-\ntém os dois resistores, adotando o potencial do ponto P como\nsendo nulo.\nSabendo que o amperímetro indica 2 A, as resistências\nR e R são, respectivamente, iguais a\n1 2\n(A) 20 Ω e 10 Ω.\n(B) 30 Ω e 10 Ω.\n(C) 35 Ω e 5 Ω.\n(D) 25 Ω e 15 Ω.\n(E) 20 Ω e 15 Ω.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 30,
+        "bbox": [
+          510.45529999999997,
+          55.88459999999998,
+          539.6333000000001,
+          85.06259999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 30,
+        "bbox": [
+          337.6481,
+          153.31729999999993,
+          534.6608,
+          244.94139999999993
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 30,
+        "bbox": [
+          319.09610000000004,
+          241.18759999999997,
+          527.0609,
+          343.83529999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 30,
+        "bbox": [
+          363.265,
+          334.5379,
+          394.2249,
+          357.5959
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

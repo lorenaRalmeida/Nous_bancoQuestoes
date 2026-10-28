@@ -1,0 +1,98 @@
+{
+  "title": "Questão 56 - FUVEST 2023 - 1ª fase",
+  "index": 56,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "O cientista Richard Feynman, prêmio Nobel de Física em 1965,\nfez comentários sobre o processo de combustão em uma\nentrevista chamada Fun to Imagine. Segundo ele, à primeira\nvista, é impressionante pensar que os átomos de carbono de\numa árvore não entram em combustão com o oxigênio da\natmosfera de forma espontânea, já que existe uma grande\nafinidade entre essas espécies para a formação de CO .\n2\nEntretanto, quando a reação tem início, o fogo se espalha\nfacilmente.\nEssa aparente contradição pode ser explicada pois",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a reação depende de um processo que concentre o\ncarbono para ocorrer.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o fogo torna a reação desfavorável.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o fogo depende da presença de CO para começar.\n2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o átomo de carbono da árvore é muito mais resistente ao\nO do que os átomos de carbono dispersos no fogo.\n2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a reação precisa de uma energia de ativação para\ncomeçar.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O cientista Richard Feynman, prêmio Nobel de Física em 1965,\nfez comentários sobre o processo de combustão em uma\nentrevista chamada Fun to Imagine. Segundo ele, à primeira\nvista, é impressionante pensar que os átomos de carbono de\numa árvore não entram em combustão com o oxigênio da\natmosfera de forma espontânea, já que existe uma grande\nafinidade entre essas espécies para a formação de CO .\n2\nEntretanto, quando a reação tem início, o fogo se espalha\nfacilmente.\nEssa aparente contradição pode ser explicada pois\n(A) a reação depende de um processo que concentre o\ncarbono para ocorrer.\n(B) o fogo torna a reação desfavorável.\n(C) o fogo depende da presença de CO para começar.\n2\n(D) o átomo de carbono da árvore é muito mais resistente ao\nO do que os átomos de carbono dispersos no fogo.\n2\n(E) a reação precisa de uma energia de ativação para\ncomeçar.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            297.5,
+            399.41470000000004,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Energia de ativação e combustão",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

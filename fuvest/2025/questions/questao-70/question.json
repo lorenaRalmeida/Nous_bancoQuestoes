@@ -1,0 +1,93 @@
+{
+  "title": "Questão 70 - FUVEST 2025 - 1ª fase",
+  "index": 70,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Seja (aₙ) uma progressão aritmética cujo primeiro termo é a₁ e a razão r, ambos números reais. É possível construir uma outra sequência (bₙ), em que o primeiro termo é um número real b₁ e com a seguinte lei de formação\n\nbₙ₊₁ = bₙ + aₙ,\n\nsendo n > 0 um número natural.\n\nPor exemplo, se b₁ = 0 e\n(aₙ) = (1, 3, 5, 7, 9, 11, …),\ntem-se\n(bₙ) = (0, 1, 4, 9, 16, 25, …).\n\nCom base em tais informações, os valores de a₁ e r foram escolhidos de forma que (bₙ) também seja uma progressão aritmética de razão r′. Nessas condições, é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "r′ = a₁",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "r′ = 2a₁",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "r′ = r",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "r′ = 2r",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "r′ = b₁ − a₁",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nSeja (cid:4666)𝑎 (cid:4667) uma progressão aritmética cujo primeiro termo é 𝑎\n(cid:3041) (cid:2869)\ne a razão 𝑟, ambos números reais. É possível construir uma\noutra sequência (cid:4666)𝑏 (cid:4667), em que o primeiro termo é um número\n(cid:3041)\nreal 𝑏 e com a seguinte lei de formação\n(cid:2869)\n𝑏 (cid:3404) 𝑏 (cid:3397)𝑎 ,\n(cid:3041)(cid:2878)(cid:2869) (cid:3041) (cid:3041)\nsendo 𝑛(cid:3408)0 um número natural.\nPor exemplo, se 𝑏 (cid:3404)0 e\n(cid:2869)\n(cid:4666)𝑎 (cid:4667)(cid:3404)(cid:4666)1,3,5,7,9,11,…(cid:4667) ,\n(cid:3041)\ntem-se\n(cid:4666)𝑏 (cid:4667)(cid:3404)(cid:4666)0,1,4,9,16,25,…(cid:4667).\n(cid:3041)\nCom base em tais informações, os valores de 𝑎 e 𝑟 foram\n(cid:2869)\nescolhidos de forma que (cid:4666)𝑏 (cid:4667) também seja uma progressão\n(cid:3041)\naritmética de razão 𝑟′. Nessas condições, é correto afirmar:\n(A) 𝑟′(cid:3404)𝑎\n(cid:2869)\n(B) 𝑟′(cid:3404)2𝑎\n(cid:2869)\n(C) 𝑟′(cid:3404)𝑟\n(D) 𝑟′(cid:3404)2𝑟\n(E) 𝑟(cid:4593) (cid:3404)𝑏 (cid:3398)𝑎\n(cid:2869) (cid:2869)\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            328.3747
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Progressões aritméticas e sequências",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

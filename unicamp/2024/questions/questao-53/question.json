@@ -1,0 +1,94 @@
+{
+  "title": "Questão 53 - UNICAMP 2024 - 1ª fase",
+  "index": 53,
+  "year": 2024,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "\"Apesar de sua presumida evidência, a articulação entre liberdade e igualdade é mais complicada do que parece. Sua reunião\nem um mesmo indivíduo, que seria, ao mesmo tempo, livre e\nigual a seus semelhantes, esconde tensões significativas. Como,\npor exemplo, alguém poderia ser livre em um contexto no qual\nprevalecem desigualdades aberrantes? Em contrapartida, o que\nresta da liberdade se os indivíduos não puderem singularizar-se\ne diferenciar-se uns dos outros?\"\n(FIGUEIREDO, V. A paixão da Igualdade: uma genealogia do indivíduo moral na França.\nBelo Horizonte: Relicário, p. 9, 2021.)\nEscolha, dentre as alternativas a seguir, aquela que sintetiza\nmelhor a ideia expressa na citação de Figueiredo:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A realização da liberdade e da igualdade independe da supressão de desigualdades profundas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A articulação entre liberdade e igualdade é um ideal que\nnão contrasta com regimes políticos antidemocráticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A articulação entre liberdade e igualdade é complexa porque\nexige tanto a supressão de desigualdades extremas quanto\na possibilidade da afirmação das diferenças individuais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "O desenvolvimento pleno do capitalismo e da livre concorrência são condições suficientes para a concretização da liberdade e da igualdade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "\"Apesar de sua presumida evidência, a articulação entre liber-\ndade e igualdade é mais complicada do que parece. Sua reunião\nem um mesmo indivíduo, que seria, ao mesmo tempo, livre e\nigual a seus semelhantes, esconde tensões significativas. Como,\npor exemplo, alguém poderia ser livre em um contexto no qual\nprevalecem desigualdades aberrantes? Em contrapartida, o que\nresta da liberdade se os indivíduos não puderem singularizar-se\ne diferenciar-se uns dos outros?\"\n(FIGUEIREDO, V. A paixão da Igualdade: uma genealogia do indivíduo moral na França.\nBelo Horizonte: Relicário, p. 9, 2021.)\nEscolha, dentre as alternativas a seguir, aquela que sintetiza\nmelhor a ideia expressa na citação de Figueiredo:\na) A realização da liberdade e da igualdade independe da su-\npressão de desigualdades profundas.\nb) A articulação entre liberdade e igualdade é um ideal que\nnão contrasta com regimes políticos antidemocráticos.\nc) A articulação entre liberdade e igualdade é complexa porque\nexige tanto a supressão de desigualdades extremas quanto\na possibilidade da afirmação das diferenças individuais.\nd) O desenvolvimento pleno do capitalismo e da livre concor-\nrência são condições suficientes para a concretização da li-\nberdade e da igualdade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            697.7755999999999,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            40,
+            568,
+            281.2653
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

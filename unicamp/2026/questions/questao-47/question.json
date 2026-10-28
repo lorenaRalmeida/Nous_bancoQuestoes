@@ -1,0 +1,123 @@
+{
+  "title": "Questão 47 - UNICAMP 2026 - 1ª fase",
+  "index": 47,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Em 2025, a Comissão de Limites da Plataforma Continental\n(CLPC), da Organização das Nações Unidas (ONU), aprovou uma\nproposta do Brasil que pedia a ampliação da plataforma continental na costa do litoral norte, como indicado na figura. A decisão reconhece o direito do Brasil de explorar a Margem Equatorial, em uma área equivalente à área territorial da Alemanha.\n200 milhas Nova fronteira Nova área marítima\n(limite marítimo brasileira conquistada pelo Brasil\nem vigor até então)\nArquipélago\nAP\nde São Pedro\nOceano\nAtlântico\nAtol das\ne São Paulo\nRocas\nMA\nCE\nFernando\nRN de Noronha\nPB\nPI\nPE\n(Texto e mapas adaptados de https://g1.globo.com/economia/noticia/2025/03/27/brasil-\n-area-maritima-decisao-onu.ghtml. Acesso em 16/06/2025.)\nO cálculo de área de figuras planas irregulares envolve em geral\nnoções complexas de matemática. No caso de áreas de figuras\nque estão impressas e/ou desenhadas em um papel, pode-se\nempregar um método prático, que considera a relação entre o\npeso do papel por unidade de área.\nPara calcular a área da região recentemente incorporada ao\nterritório brasileiro, um mapa contendo esta região, na escala\n1:5.000.000 — isto é, 1 cm no papel equivale a 5.000.000 cm\nno local — foi impresso em um papel cuja relação peso/área é\nde 75g/m². A seguir, a parte do mapa referente a esta região foi\nrecortada e pesada, obtendo-se 1,0815g.\nA partir desses dados, é correto afirmar que a área obtida foi:",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "359.900 km².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "360.100 km².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "360.300 km².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "360.500 km².",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em 2025, a Comissão de Limites da Plataforma Continental\n(CLPC), da Organização das Nações Unidas (ONU), aprovou uma\nproposta do Brasil que pedia a ampliação da plataforma conti-\nnental na costa do litoral norte, como indicado na figura. A de-\ncisão reconhece o direito do Brasil de explorar a Margem Equa-\ntorial, em uma área equivalente à área territorial da Alemanha.\n200 milhas Nova fronteira Nova área marítima\n(limite marítimo brasileira conquistada pelo Brasil\nem vigor até então)\nArquipélago\nAP\nde São Pedro\nOceano\nAtlântico\nAtol das\ne São Paulo\nRocas\nMA\nCE\nFernando\nRN de Noronha\nPB\nPI\nPE\n(Texto e mapas adaptados de https://g1.globo.com/economia/noticia/2025/03/27/brasil-\n-area-maritima-decisao-onu.ghtml. Acesso em 16/06/2025.)\nO cálculo de área de figuras planas irregulares envolve em geral\nnoções complexas de matemática. No caso de áreas de figuras\nque estão impressas e/ou desenhadas em um papel, pode-se\nempregar um método prático, que considera a relação entre o\npeso do papel por unidade de área.\nPara calcular a área da região recentemente incorporada ao\nterritório brasileiro, um mapa contendo esta região, na escala\n1:5.000.000 — isto é, 1 cm no papel equivale a 5.000.000 cm\nno local — foi impresso em um papel cuja relação peso/área é\nde 75g/m2. A seguir, a parte do mapa referente a esta região foi\nrecortada e pesada, obtendo-se 1,0815g.\nA partir desses dados, é correto afirmar que a área obtida foi:\na) 359.900 km2.\nb) 360.100 km2.\nc) 360.300 km2.\nd) 360.500 km2.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            396.568,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            40,
+            568,
+            276.7418
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 18,
+        "bbox": [
+          180.570008,
+          505.95400300000006,
+          214.284,
+          533.2090000000001
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 18,
+        "bbox": [
+          30,
+          539.0717999999999,
+          290.0967,
+          754.6261
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

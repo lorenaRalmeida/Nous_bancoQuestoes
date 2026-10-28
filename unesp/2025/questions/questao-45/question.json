@@ -1,0 +1,98 @@
+{
+  "title": "Questão 45 - UNESP 2025 - 1ª fase",
+  "index": 45,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Compras no SoHo, martinis de café expresso e bares\nem coberturas ganharam papéis recorrentes nos vídeos do\nTikTok de influenciadores na cidade de Nova Iorque. Nos últimos meses, alguns acumularam centenas de milhares de\ncurtidas e milhões de seguidores com vídeos glamorosos de\n“um dia comigo”. Um estudo do Instituto de Tecnologia de\nMassachusetts descobriu uma “correlação significativa entre o comportamento do influenciador on-line e os aluguéis\nefetivos de imóveis” na cidade de Nova Iorque. Os influenciadores também estão começando a conquistar parcerias\nmais diretas com a cidade: a NYC & Company, agência de\nturismo oficial da cidade, está trabalhando com os TikTokers\n“para levá-los para passear pela cidade e divulgar empresas\nde maneira segura”. A agência não divulgou se os criadores\nde conteúdo estavam sendo pagos, ou quais bairros eles estavam sendo solicitados a apoiar.\n(https://gothamist.com, 23.12.2021. Adaptado.)\nNo contexto do espaço urbano, a estratégia percebida em\nNova Iorque",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "inaugura a apropriação do solo urbano motivada por diferentes interesses de uso e ocupação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "redefine parceiras público-privadas que diminuem os\ngastos com o Estado de bem-estar social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "induz o estabelecimento de novas centralidades capazes\nde originar uma megalópole.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "estimula a reprodução de um estilo de vida que culmina\nno processo de gentrificação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "promove a conurbação entre bairros para dinamizar os\nfluxos de comércio e serviços.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Compras no SoHo, martinis de café expresso e bares\nem coberturas ganharam papéis recorrentes nos vídeos do\nTikTok de influenciadores na cidade de Nova Iorque. Nos úl-\ntimos meses, alguns acumularam centenas de milhares de\ncurtidas e milhões de seguidores com vídeos glamorosos de\n“um dia comigo”. Um estudo do Instituto de Tecnologia de\nMassachusetts descobriu uma “correlação significativa en-\ntre o comportamento do influenciador on-line e os aluguéis\nefetivos de imóveis” na cidade de Nova Iorque. Os influen-\nciadores também estão começando a conquistar parcerias\nmais diretas com a cidade: a NYC & Company, agência de\nturismo oficial da cidade, está trabalhando com os TikTokers\n“para levá-los para passear pela cidade e divulgar empresas\nde maneira segura”. A agência não divulgou se os criadores\nde conteúdo estavam sendo pagos, ou quais bairros eles es-\ntavam sendo solicitados a apoiar.\n(https://gothamist.com, 23.12.2021. Adaptado.)\nNo contexto do espaço urbano, a estratégia percebida em\nNova Iorque\n(A) inaugura a apropriação do solo urbano motivada por dife-\nrentes interesses de uso e ocupação.\n(B) redefine parceiras público-privadas que diminuem os\ngastos com o Estado de bem-estar social.\n(C) induz o estabelecimento de novas centralidades capazes\nde originar uma megalópole.\n(D) estimula a reprodução de um estilo de vida que culmina\nno processo de gentrificação.\n(E) promove a conurbação entre bairros para dinamizar os\nfluxos de comércio e serviços.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

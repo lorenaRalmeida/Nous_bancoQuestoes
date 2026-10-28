@@ -1,0 +1,92 @@
+{
+  "title": "Questão 41 - UNICAMP 2024 - 1ª fase",
+  "index": 41,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A região à margem do rio Guaporé em Rondônia é considerada uma das mais importantes do planeta para a espécie\nPodocnemis expansa, popularmente conhecida como tartaruga-da-amazônia.\nAssinale a alternativa que apresenta corretamente uma característica importante para a vida de quelônios fluviais no ambiente\nterrestre.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A pele é seca e completamente impermeável, recoberta por\numa espessa camada, em forma de espículas, composta da\nproteína quitina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os alvéolos com grande superfície de troca gasosa permitem a respiração pulmonar e cutânea mesmo nas espécies\naquáticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A principal excreta nitrogenada liberada é a ureia, que se\ncaracteriza por ser pouco tóxica e que requer mínima quantidade de água para ser eliminada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A fecundação é interna e há formação de ovo amniótico;\nesse ovo possui uma bolsa contendo líquido que envolve o\nembrião.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A região à margem do rio Guaporé em Rondônia é conside-\nrada uma das mais importantes do planeta para a espécie\nPodocnemis expansa, popularmente conhecida como tartaru-\nga-da-amazônia.\nAssinale a alternativa que apresenta corretamente uma caracte-\nrística importante para a vida de quelônios fluviais no ambiente\nterrestre.\na) A pele é seca e completamente impermeável, recoberta por\numa espessa camada, em forma de espículas, composta da\nproteína quitina.\nb) Os alvéolos com grande superfície de troca gasosa permi-\ntem a respiração pulmonar e cutânea mesmo nas espécies\naquáticas.\nc) A principal excreta nitrogenada liberada é a ureia, que se\ncaracteriza por ser pouco tóxica e que requer mínima quan-\ntidade de água para ser eliminada.\nd) A fecundação é interna e há formação de ovo amniótico;\nesse ovo possui uma bolsa contendo líquido que envolve o\nembrião.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            560.5341,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            40,
+            568,
+            101.45669999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

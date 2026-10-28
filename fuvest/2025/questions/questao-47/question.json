@@ -1,0 +1,100 @@
+{
+  "title": "Questão 47 - FUVEST 2025 - 1ª fase",
+  "index": 47,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A figura a seguir representa os níveis médios de consumo de\ngordura saturada na dieta para adultos com idade ≥20 anos.\nMICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI:\n10.1136/bmj.g2272.\nConsiderando apenas os dados da figura, os habitantes da\nAustrália e da Rússia apresentam maiores riscos de\ndesenvolver doenças",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "renais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "respiratórias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cardiovasculares.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "cerebrais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "neuromusculares.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA figura a seguir representa os níveis médios de consumo de\ngordura saturada na dieta para adultos com idade ≥20 anos.\nMICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI:\n10.1136/bmj.g2272.\nConsiderando apenas os dados da figura, os habitantes da\nAustrália e da Rússia apresentam maiores riscos de\ndesenvolver doenças\n(A) renais.\n(B) respiratórias.\n(C) cardiovasculares.\n(D) cerebrais.\n(E) neuromusculares.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            297.5,
+            415.73470000000003,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Alimentação e risco cardiovascular",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

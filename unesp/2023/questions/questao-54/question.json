@@ -1,0 +1,98 @@
+{
+  "title": "Questão 54 - UNESP 2023 - 1ª fase",
+  "index": 54,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O MapBiomas é uma rede colaborativa de mapeamento,\ncom dados de uso da terra, aberta ao público, e baseada nas\ntecnologias da Google Cloud e Google Earth Engine. Essa\nrede adota uma metodologia de trabalho diferenciada por bioma, baseada em técnicas de machine learning, o que permite\nsua automatização. O projeto produz e disponibiliza mapas\nde cobertura e uso da terra, incorporando camadas de informação relacionadas a cortes territoriais, tais como Unidades\nde Conservação (UCs), terras indígenas, assentamentos, bacias hidrográficas, entre outros. Também são disponibilizados\nalertas de desmatamento a partir de dados fornecidos pelos\nórgãos competentes.\n(www.to.gov.br. Adaptado.)\nA rede colaborativa citada reflete o emprego",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do sistema de informações geográficas, que permite\nequilibrar as ações motivadoras da relação sociedade-\n-natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da realidade aumentada, que explora uma rede de satélites para monitorar hotspots de interesse estratégico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "do sistema de posicionamento global, que oferece dados\ndinâmicos sobre as transformações da cobertura vegetal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da cartografia digital, que amplia as possibilidades de\nprodução e de uso das informações geográficas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "do sensoriamento remoto, que propõe planos de manejo\nadaptados às realidades de cada porção territorial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O MapBiomas é uma rede colaborativa de mapeamento,\ncom dados de uso da terra, aberta ao público, e baseada nas\ntecnologias da Google Cloud e Google Earth Engine. Essa\nrede adota uma metodologia de trabalho diferenciada por bio-\nma, baseada em técnicas de machine learning, o que permite\nsua automatização. O projeto produz e disponibiliza mapas\nde cobertura e uso da terra, incorporando camadas de infor-\nmação relacionadas a cortes territoriais, tais como Unidades\nde Conservação (UCs), terras indígenas, assentamentos, ba-\ncias hidrográficas, entre outros. Também são disponibilizados\nalertas de desmatamento a partir de dados fornecidos pelos\nórgãos competentes.\n(www.to.gov.br. Adaptado.)\nA rede colaborativa citada reflete o emprego\n(A) do sistema de informações geográficas, que permite\nequilibrar as ações motivadoras da relação sociedade-\n-natureza.\n(B) da realidade aumentada, que explora uma rede de sa-\ntélites para monitorar hotspots de interesse estratégico.\n(C) do sistema de posicionamento global, que oferece dados\ndinâmicos sobre as transformações da cobertura vegetal.\n(D) da cartografia digital, que amplia as possibilidades de\nprodução e de uso das informações geográficas.\n(E) do sensoriamento remoto, que propõe planos de manejo\nadaptados às realidades de cada porção territorial.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            400.9227,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

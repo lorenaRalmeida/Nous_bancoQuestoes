@@ -1,0 +1,90 @@
+{
+  "title": "Questão 54 - UNESP 2024 - 1ª fase",
+  "index": 54,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Na escola, Maria recebeu de seu professor de Geografia a\ntarefa de construir um globo terrestre — uma representação\ncartográfica em superfície esférica. Se a estudante utilizar\numa bola de isopor com 12 cm de raio e considerar que a\ncircunferência da Terra tenha 40 000 km, a escala numérica\naproximada do globo terrestre será:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1: 6 369.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1: 480 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1: 530.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1: 3 333.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1: 53 075 000.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na escola, Maria recebeu de seu professor de Geografia a\ntarefa de construir um globo terrestre — uma representação\ncartográfica em superfície esférica. Se a estudante utilizar\numa bola de isopor com 12 cm de raio e considerar que a\ncircunferência da Terra tenha 40 000 km, a escala numérica\naproximada do globo terrestre será:\n(A) 1: 6 369.\n(B) 1: 480 000.\n(C) 1: 530.\n(D) 1: 3 333.\n(E) 1: 53 075 000.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            241.14070000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Questão 58 - UNESP 2024 - 1ª fase",
+  "index": 58,
+  "year": 2024,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "A emergência do ChatGPT, chatbot (software capaz de\nsimular a conversação humana) desenvolvido pela OpenAI,\nchamou a atenção internacional. Essa nova ferramenta de\ninteligência artificial pode revolucionar um leque extremamente amplo de atividades humanas, mas não deixou de\ndespertar também um considerável número de preocupações entre especialistas de tecnologia. O ChatGPT é capaz\nde entender a linguagem humana natural e gerar uma resposta semelhante ao fruto do intelecto humano após receber\num pedido. A ferramenta ganhou destaque pelo nível extremamente refinado de suas respostas.\n(Luca Belli e Nina da Hora. “ChatGPT: o que anima e o que assusta na nova\ninteligência artificial”. Folha de S.Paulo, 20.01.2023. Adaptado.)\nDiante do cenário descrito no excerto, a utilização da nova\ntecnologia de maneira eticamente responsável requer a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "livre concorrência para disputa comercial entre empresas\nprivadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "massificação de dispositivos de tecnologias de linguagem natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "promoção de campanhas sobre os prejuízos do uso\ndesse tipo de software.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "permissão de acesso a assinantes dessa ferramenta\ndevidamente identificados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "censura estatal do avanço de programas de inteligência\nartificial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A emergência do ChatGPT, chatbot (software capaz de\nsimular a conversação humana) desenvolvido pela OpenAI,\nchamou a atenção internacional. Essa nova ferramenta de\ninteligência artificial pode revolucionar um leque extrema-\nmente amplo de atividades humanas, mas não deixou de\ndespertar também um considerável número de preocupa-\nções entre especialistas de tecnologia. O ChatGPT é capaz\nde entender a linguagem humana natural e gerar uma res-\nposta semelhante ao fruto do intelecto humano após receber\num pedido. A ferramenta ganhou destaque pelo nível extre-\nmamente refinado de suas respostas.\n(Luca Belli e Nina da Hora. “ChatGPT: o que anima e o que assusta na nova\ninteligência artificial”. Folha de S.Paulo, 20.01.2023. Adaptado.)\nDiante do cenário descrito no excerto, a utilização da nova\ntecnologia de maneira eticamente responsável requer a\n(A) livre concorrência para disputa comercial entre empresas\nprivadas.\n(B) massificação de dispositivos de tecnologias de lingua-\ngem natural.\n(C) promoção de campanhas sobre os prejuízos do uso\ndesse tipo de software.\n(D) permissão de acesso a assinantes dessa ferramenta\ndevidamente identificados.\n(E) censura estatal do avanço de programas de inteligência\nartificial.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            415.062
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

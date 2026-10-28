@@ -1,0 +1,88 @@
+{
+  "title": "Questão 88 - FUVEST 2025 - 1ª fase",
+  "index": 88,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“Consiste em uma faixa de terra semiárida e árida que contorna\na borda sul do Deserto do Saara e percorre a extensão da África\nno sentido leste-oeste. Atua como um cinturão que divide o\ncontinente africano em dois, a África majoritariamente\nislâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze\npaíses, a região é lar para dezenas de grupos étnicos.”\nVAGEN, Tor-Gunnar; GUMBRICHT, Thomas. UNEP/ONU, 2012 (Adaptado).\nO texto descreve características da região denominada de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Chifre da África.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "África Meridional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "África Setentrional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Rift Valley.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Sahel.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“Consiste em uma faixa de terra semiárida e árida que contorna\na borda sul do Deserto do Saara e percorre a extensão da África\nno sentido leste-oeste. Atua como um cinturão que divide o\ncontinente africano em dois, a África majoritariamente\nislâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze\npaíses, a região é lar para dezenas de grupos étnicos.”\nVAGEN, Tor-Gunnar; GUMBRICHT, Thomas. UNEP/ONU, 2012 (Adaptado).\nO texto descreve características da região denominada de\n(A) Chifre da África.\n(B) África Meridional.\n(C) África Setentrional.\n(D) Rift Valley.\n(E) Sahel.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            28,
+            438.7747,
+            297.5,
+            653.8147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Características regionais do Sahel",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

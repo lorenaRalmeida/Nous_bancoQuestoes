@@ -1,0 +1,124 @@
+{
+  "title": "Questão 26 - UNICAMP 2024 - 1ª fase",
+  "index": 26,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Um grupo de pesquisadores estudou a atividade antibacteriana – em ação sobre duas bactérias, a saber, Escherichia coli\ne Staphylococcus aureus – da curcumina livre e da curcumina\ncombinada com octaarginina. Os pesquisadores observaram\nque a curcumina livre apresenta atividade antibacteriana frente\na uma das bactérias. Na forma combinada, a curcumina foi mais\neficiente – em comparação com a forma livre – no combate\naos dois microrganismos. Tendo em vista essas informações, os\ngráficos que melhor representam os resultados do estudo são\nos seguintes:\nDados:\n(i) E. coli; (ii) S. aureus.\n● curcumina livre;",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-D-02.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um grupo de pesquisadores estudou a atividade antibacteria-\nna – em ação sobre duas bactérias, a saber, Escherichia coli\ne Staphylococcus aureus – da curcumina livre e da curcumina\ncombinada com octaarginina. Os pesquisadores observaram\nque a curcumina livre apresenta atividade antibacteriana frente\na uma das bactérias. Na forma combinada, a curcumina foi mais\neficiente – em comparação com a forma livre – no combate\naos dois microrganismos. Tendo em vista essas informações, os\ngráficos que melhor representam os resultados do estudo são\nos seguintes:\nDados:\n(i) E. coli; (ii) S. aureus.\n curcumina livre;\na)  curcumina combinada com octaarginina.\nb)\nc)\nd)",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            190.46460000000002,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png",
+        "alternativa-D-02.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 11,
+        "bbox": [
+          120.059,
+          315.65,
+          290.96500000000003,
+          349.37829999999997
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

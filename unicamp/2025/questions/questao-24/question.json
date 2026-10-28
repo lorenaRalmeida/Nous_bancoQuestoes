@@ -1,0 +1,82 @@
+{
+  "title": "Questão 24 - UNICAMP 2025 - 1ª fase",
+  "index": 24,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Quando eu falo em adiar o fim do mundo, não é a este mundo\nem colapso que estou me referindo. Este tem um esquema tão\nviolento que eu queria mais é que ele desaparecesse à meia\nnoite de hoje e que amanhã a gente acordasse em um novo.\nNo entanto, efetivamente, estamos atuando no sentido de uma\ntransfiguração, desejando aquilo que o Nêgo Bispo chama de\nconfluências, e não essa exorbitante euforia da monocultura,\nque reúne os birutas que celebram a necropolítica sobre a vida\nplural dos povos deste planeta. Ao contrário do que estão fazendo, confluências evoca um contexto de mundos diversos\nque podem se afetar. (...) Se o colonialismo nos causou um\ndano quase irreparável foi o de afirmar que somos todos iguais.\n(Adaptado de KRENAK, Ailton. Futuro ancestral. São Paulo: Companhia das Letras, p.\n40-42, 2022.)\nAssinale a alternativa que explicita a crítica de Krenak à monocultura, tal como é enunciada no excerto.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A monocultura praticada nos grandes latifúndios é responsável por diversos problemas ambientais e pela necropolítica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A monocultura, assim como a imposição colonial de um modelo cultural único, se expressa na recusa da pluralidade de\npovos e culturas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Adiar o fim do mundo requer o combate à monocultura na\nprodução agrícola e a transfiguração deste mundo em que\nestamos vivendo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A monocultura, produtora de violências, é resultado do colonialismo e da necropolítica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Quando eu falo em adiar o fim do mundo, não é a este mundo\nem colapso que estou me referindo. Este tem um esquema tão\nviolento que eu queria mais é que ele desaparecesse à meia\nnoite de hoje e que amanhã a gente acordasse em um novo.\nNo entanto, efetivamente, estamos atuando no sentido de uma\ntransfiguração, desejando aquilo que o Nêgo Bispo chama de\nconfluências, e não essa exorbitante euforia da monocultura,\nque reúne os birutas que celebram a necropolítica sobre a vida\nplural dos povos deste planeta. Ao contrário do que estão fa-\nzendo, confluências evoca um contexto de mundos diversos\nque podem se afetar. (...) Se o colonialismo nos causou um\ndano quase irreparável foi o de afirmar que somos todos iguais.\n(Adaptado de KRENAK, Ailton. Futuro ancestral. São Paulo: Companhia das Letras, p.\n40-42, 2022.)\nAssinale a alternativa que explicita a crítica de Krenak à mono-\ncultura, tal como é enunciada no excerto.\na) A monocultura praticada nos grandes latifúndios é respon-\nsável por diversos problemas ambientais e pela necropolítica.\nb) A monocultura, assim como a imposição colonial de um mo-\ndelo cultural único, se expressa na recusa da pluralidade de\npovos e culturas.\nc) Adiar o fim do mundo requer o combate à monocultura na\nprodução agrícola e a transfiguração deste mundo em que\nestamos vivendo.\nd) A monocultura, produtora de violências, é resultado do co-\nlonialismo e da necropolítica.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            179.99530000000004,
+            568,
+            561.5135
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

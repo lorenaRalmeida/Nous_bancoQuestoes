@@ -1,0 +1,94 @@
+{
+  "title": "Questão 47 - UNICAMP 2024 - 1ª fase",
+  "index": 47,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A partir da organização tecidual, é possível reconhecer o estágio de desenvolvimento das plantas e mesmo diferenciar monocotiledôneas e eudicotiledôneas. Nas figuras A\ne B são apresentados\nesquemas de raízes em\ncrescimento primário,\ncom a indicação dos tecidos 1 e 2.\nAssinale a alternativa que, de maneira correta, indica, respectivamente, a espécie eudicotiledônea e seus tecidos 1 e 2.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Figura A, floema e endoderme.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Figura B, floema e periciclo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Figura A, xilema e endoderme.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Figura B, xilema e periciclo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A partir da organização tecidual, é possível reconhecer o está-\ngio de desenvolvimento das plantas e mesmo diferenciar mono-\ncotiledôneas e eudicoti-\nledôneas. Nas figuras A\ne B são apresentados\nesquemas de raízes em\ncrescimento primário,\ncom a indicação dos te-\ncidos 1 e 2.\nAssinale a alternativa que, de maneira correta, indica, respecti-\nvamente, a espécie eudicotiledônea e seus tecidos 1 e 2.\na) Figura A, floema e endoderme.\nb) Figura B, floema e periciclo.\nc) Figura A, xilema e endoderme.\nd) Figura B, xilema e periciclo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            556.9039,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            40,
+            291,
+            46.889999999999986
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

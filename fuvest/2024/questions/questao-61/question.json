@@ -1,0 +1,102 @@
+{
+  "title": "Questão 61 - FUVEST 2024 - 1ª fase",
+  "index": 61,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O gráfico a seguir representa a curva de biomassa e\nbiodiversidade em diferentes partes do globo.\nGRIGORIEV, A.A. The theoretical fundaments of modern physical Geography.\nIn: The interaction of sciences in the Earth, Moscou, 1968. Adaptado.\nSobre os ambientes do globo terrestre que podem ser\nexemplificados pelos dados demonstrados no gráfico, é\ncorreto afirmar que, onde o índice de aridez é igual a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 e o balanço de radiação é igual a 70 kcal/cm2, a curva de\nbiomassa e biodiversidade atinge o ápice, caracterizando,\npor exemplo, o ambiente de uma floresta equatorial.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2 e o balanço de radiação é igual a 40 kcal/cm2, é possível\ninferir os ambientes compostos por savanas ou cerrados,\ncom crescimento da curva de biomassa e biodiversidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0 e o balanço de radiação é igual também a 0, encontram-\nse os ambientes desérticos muito quentes, a exemplo do\ndeserto do Saara.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3 e o balanço de radiação é igual a 0, a curva de biomassa\ne biodiversidade indica exemplo típico de ambiente\ntropical úmido.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,5 e o balanço de radiação é igual a 55 kcal/cm2, a curva\nde biomassa e biodiversidade diminui, caracterizando os\nambientes com presença de neve eterna.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O gráfico a seguir representa a curva de biomassa e\nbiodiversidade em diferentes partes do globo.\nGRIGORIEV, A.A. The theoretical fundaments of modern physical Geography.\nIn: The interaction of sciences in the Earth, Moscou, 1968. Adaptado.\nSobre os ambientes do globo terrestre que podem ser\nexemplificados pelos dados demonstrados no gráfico, é\ncorreto afirmar que, onde o índice de aridez é igual a\n(A) 1 e o balanço de radiação é igual a 70 kcal/cm2, a curva de\nbiomassa e biodiversidade atinge o ápice, caracterizando,\npor exemplo, o ambiente de uma floresta equatorial.\n(B) 2 e o balanço de radiação é igual a 40 kcal/cm2, é possível\ninferir os ambientes compostos por savanas ou cerrados,\ncom crescimento da curva de biomassa e biodiversidade.\n(C) 0 e o balanço de radiação é igual também a 0, encontram-\nse os ambientes desérticos muito quentes, a exemplo do\ndeserto do Saara.\n(D) 3 e o balanço de radiação é igual a 0, a curva de biomassa\ne biodiversidade indica exemplo típico de ambiente\ntropical úmido.\n(E) 1,5 e o balanço de radiação é igual a 55 kcal/cm2, a curva\nde biomassa e biodiversidade diminui, caracterizando os\nambientes com presença de neve eterna.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Clima, aridez, biomassa e biomas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

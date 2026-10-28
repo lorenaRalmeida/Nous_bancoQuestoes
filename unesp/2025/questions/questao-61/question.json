@@ -1,0 +1,88 @@
+{
+  "title": "Questão 61 - UNESP 2025 - 1ª fase",
+  "index": 61,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "De acordo com uma pesquisa científica, enquanto a\nbaleia orca preda 121 espécies, os seres humanos, dentro\ndo mesmo nicho marinho em que vivem os grandes cetáceos, afetam a vida de 10 460 espécies. Como existe uma\nsobreposição de, neste caso, 69% das espécies predadas\ntanto pela orca quanto pelo ser humano, a superexploração\nhumana dos mares, cada vez mais, vai afetar as cadeias\necológicas desse tipo de ambiente.\n(Eduardo Geraque. https://jornal.unesp.br. Adaptado.)\nA sobreposição citada no excerto sugere que, entre as orcas\ne os seres humanos, ocorre a relação ecológica denominada",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "competição.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "protocooperação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "amensalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mutualismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "comensalismo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "De acordo com uma pesquisa científica, enquanto a\nbaleia orca preda 121 espécies, os seres humanos, dentro\ndo mesmo nicho marinho em que vivem os grandes cetá-\nceos, afetam a vida de 10 460 espécies. Como existe uma\nsobreposição de, neste caso, 69% das espécies predadas\ntanto pela orca quanto pelo ser humano, a superexploração\nhumana dos mares, cada vez mais, vai afetar as cadeias\necológicas desse tipo de ambiente.\n(Eduardo Geraque. https://jornal.unesp.br. Adaptado.)\nA sobreposição citada no excerto sugere que, entre as orcas\ne os seres humanos, ocorre a relação ecológica denominada\n(A) competição.\n(B) protocooperação.\n(C) amensalismo.\n(D) mutualismo.\n(E) comensalismo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            307.64459999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

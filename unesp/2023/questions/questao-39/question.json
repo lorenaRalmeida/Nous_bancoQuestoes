@@ -1,0 +1,88 @@
+{
+  "title": "Questão 39 - UNESP 2023 - 1ª fase",
+  "index": 39,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "A Revolução Mexicana só pode ser entendida considerando-se as particularidades da sociedade mexicana dentro\nde um processo global existente num determinado estágio do\ndesenvolvimento do capitalismo em nível mundial.\n(Anna Maria Martinez Corrêa. A Revolução mexicana: 1910-1917, 1983.)\nA afirmação do excerto justifica-se, pois a Revolução Mexicana de 1910 envolveu",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "rompimento do México em relação aos organismos\ninternacionais, que condenaram esse país por seu\napoio à Tríplice Aliança na Primeira Guerra Mundial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "reformulação do modelo econômico agroexportador mexicano, em meio a um processo de coletivização das terras improdutivas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reivindicações de populações indígenas e de setores\noperários, em meio a um processo de modernização econômica por que o México passava.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "participação ativa dos Estados Unidos e de potências\neuropeias, que procuravam conter o avanço dos grupos\ncomunistas mexicanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "disputas entre grupos nativos rivais, em meio à apropriação de parte do território mexicano pelos Estados Unidos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A Revolução Mexicana só pode ser entendida conside-\nrando-se as particularidades da sociedade mexicana dentro\nde um processo global existente num determinado estágio do\ndesenvolvimento do capitalismo em nível mundial.\n(Anna Maria Martinez Corrêa. A Revolução mexicana: 1910-1917, 1983.)\nA afirmação do excerto justifica-se, pois a Revolução Mexica-\nna de 1910 envolveu\n(A) rompimento do México em relação aos organismos\ninternacionais, que condenaram esse país por seu\napoio à Tríplice Aliança na Primeira Guerra Mundial.\n(B) reformulação do modelo econômico agroexportador me-\nxicano, em meio a um processo de coletivização das ter-\nras improdutivas.\n(C) reivindicações de populações indígenas e de setores\noperários, em meio a um processo de modernização eco-\nnômica por que o México passava.\n(D) participação ativa dos Estados Unidos e de potências\neuropeias, que procuravam conter o avanço dos grupos\ncomunistas mexicanos.\n(E) disputas entre grupos nativos rivais, em meio à apropria-\nção de parte do território mexicano pelos Estados Unidos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            374.7313
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

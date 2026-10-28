@@ -1,0 +1,84 @@
+{
+  "title": "Questão 71 - UNICAMP 2024 - 1ª fase",
+  "index": 71,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "“Guardians of the Galaxy Vol.3” does something few movies\nhave ever done: it tells a compassionate story about testing on\nanimals to a Marvel-size audience. The film features gorgeously\nanimated animals who take moviegoers on an emotional rollercoaster while exposing the evils of animal testing. The strength\nof James Gunn’s screenplay lies in the fact that it doesn’t back\naway from the tough subject matter, and we’re thrilled by a\nstory about having empathy for all animals. For his compelling\nportrayal of Rocket and for reminding moviegoers that animals\ntortured in laboratories are not the numbers tattooed on them,\nPETA (People for the Ethical Treatment of Animals) is honoring\nGunn with the “Not a Number” Award.\n(Adaptado de: https://www.peta.org/blog/guardians-of-the-galaxy-vol-3/. Acesso em\n19/05/2023.)\nPara a autora dessa crítica, o diferencial do filme está",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "na coragem do roteiro em dar destaque à polêmica de experimentação em animais para testes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "no ineditismo da abordagem do tema em produções de\ngrande alcance, como os filmes da Marvel.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "no retrato das emoções de animais usados em experimentos\nem laboratórios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "no impacto da abordagem do tema para órgãos de grande\nrepercussão, como a PETA.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Guardians of the Galaxy Vol.3” does something few movies\nhave ever done: it tells a compassionate story about testing on\nanimals to a Marvel-size audience. The film features gorgeously\nanimated animals who take moviegoers on an emotional roller-\ncoaster while exposing the evils of animal testing. The strength\nof James Gunn’s screenplay lies in the fact that it doesn’t back\naway from the tough subject matter, and we’re thrilled by a\nstory about having empathy for all animals. For his compelling\nportrayal of Rocket and for reminding moviegoers that animals\ntortured in laboratories are not the numbers tattooed on them,\nPETA (People for the Ethical Treatment of Animals) is honoring\nGunn with the “Not a Number” Award.\n(Adaptado de: https://www.peta.org/blog/guardians-of-the-galaxy-vol-3/. Acesso em\n19/05/2023.)\nPara a autora dessa crítica, o diferencial do filme está\na) na coragem do roteiro em dar destaque à polêmica de expe-\nrimentação em animais para testes.\nb) no ineditismo da abordagem do tema em produções de\ngrande alcance, como os filmes da Marvel.\nc) no retrato das emoções de animais usados em experimentos\nem laboratórios.\nd) no impacto da abordagem do tema para órgãos de grande\nrepercussão, como a PETA.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            394.67269999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

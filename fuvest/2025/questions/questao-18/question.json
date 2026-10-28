@@ -1,0 +1,90 @@
+{
+  "title": "Questão 18 - FUVEST 2025 - 1ª fase",
+  "index": 18,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "No dia 26 de março de 2024, à 1h29min, aproximadamente, o\nnavio cargueiro MV Dali colidiu com a ponte Francis Scott Key\nem Baltimore, EUA. O impacto causou o colapso da ponte,\ntornando-se um dos maiores acidentes marítimos da história\nnorte-americana.\nA figura a seguir mostra os dados da velocidade do navio em\nfunção da hora local. A colisão ocorreu no intervalo de 38\nsegundos, marcado por linhas pontilhadas no gráfico.\nDisponível em https://www.nytimes.com/ (Adaptado).\nAssumindo que a massa do navio no momento do impacto\nseja de 100 mil toneladas e, tendo por base os dados do\ngráfico, a magnitude da força média atuando sobre o navio\ndurante a colisão é de, aproximadamente,\n\nNote e adote:\nConsidere que a força atuando sobre o navio durante a colisão seja\nconstante e igual à força média.\nUtilize 1 m.p.h. = 0,5 m/s.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7 (cid:3400) 10ꟷ2 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7 (cid:3400) 100 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "7 (cid:3400) 102 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "7 (cid:3400) 104 N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "7 (cid:3400) 106 N.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nNo dia 26 de março de 2024, à 1h29min, aproximadamente, o\nnavio cargueiro MV Dali colidiu com a ponte Francis Scott Key\nem Baltimore, EUA. O impacto causou o colapso da ponte,\ntornando-se um dos maiores acidentes marítimos da história\nnorte-americana.\nA figura a seguir mostra os dados da velocidade do navio em\nfunção da hora local. A colisão ocorreu no intervalo de 38\nsegundos, marcado por linhas pontilhadas no gráfico.\nDisponível em https://www.nytimes.com/ (Adaptado).\nAssumindo que a massa do navio no momento do impacto\nseja de 100 mil toneladas e, tendo por base os dados do\ngráfico, a magnitude da força média atuando sobre o navio\ndurante a colisão é de, aproximadamente,\n(A) 7 (cid:3400) 10ꟷ2 N.\n(B) 7 (cid:3400) 100 N.\n(C) 7 (cid:3400) 102 N.\n(D) 7 (cid:3400) 104 N.\n(E) 7 (cid:3400) 106 N.\nNote e adote:\nConsidere que a força atuando sobre o navio durante a colisão seja\nconstante e igual à força média.\nUtilize 1 m.p.h. = 0,5 m/s.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            579.3547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Impulso e força média em colisão",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

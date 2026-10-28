@@ -1,0 +1,107 @@
+{
+  "title": "Questão 20 - UNICAMP 2025 - 1ª fase",
+  "index": 20,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "O post a seguir foi retirado da rede social de ALOK, artista cujos\ntrabalhos abordam questões de gênero e identidade.\nalokvmenon • Follow\nMy first word was irony. Growing up a boy, they called me\ntoo feminine. When I finally claimed femininity as my\nown, they called me a man. These are grammar lessons:\nsome of us are only allowed to be thought, never to think.\nWhen they insist that our pronouns violate grammar to\nsome degree, they are right. Grammar is less about the\nmechanics of language, more the monopoly of it. It´s not\njust about who can speak, but who gets to speak. He who\ncontrols the word controls the world. What they mean is:\ndon´t object to remaining object. You are not a subject\n(unless you subject yourself to me). Subject. Predicate.\nPower. What this means is that we could both launch the\nsame words and they would still land in different places. I\ncould spend the rest of my life articulating every detail,\nevery grain, every follicle. And still they would not\nunderstand. Because of what I look like. No: because of\nwhat they feel about what I look like. This is what it feels\nlike to be brown, trans, femme, and alive.\n(Adaptado de www.instagram.com/p/C51W1v8vXo9/. Acesso em 22/04/2024.)\nNo post, a argumentação é articulada a partir dos diferentes\nsentidos das palavras",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“gramática” e “pronomes”, pois o ensino, nas escolas, desses temas invisibiliza pessoas não binárias as quais supostamente violam regras gramaticais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“sujeito” e “objeto”, pois esses termos só são usados para\npessoas não binárias quando elas se sujeitam e aceitam o\ncontrole por aqueles que têm poder.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "“sujeito” e “predicado”, pois as relações de poder hierárquicas impedem que pessoas não binárias se expressem e\nassumam o controle de suas palavras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“objeto” e “pronomes”, pois embora as pessoas não binárias escolham seus pronomes, elas ainda são objetificadas\ndevido às suas aparências físicas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O post a seguir foi retirado da rede social de ALOK, artista cujos\ntrabalhos abordam questões de gênero e identidade.\nalokvmenon • Follow\nMy first word was irony. Growing up a boy, they called me\ntoo feminine. When I finally claimed femininity as my\nown, they called me a man. These are grammar lessons:\nsome of us are only allowed to be thought, never to think.\nWhen they insist that our pronouns violate grammar to\nsome degree, they are right. Grammar is less about the\nmechanics of language, more the monopoly of it. It´s not\njust about who can speak, but who gets to speak. He who\ncontrols the word controls the world. What they mean is:\ndon´t object to remaining object. You are not a subject\n(unless you subject yourself to me). Subject. Predicate.\nPower. What this means is that we could both launch the\nsame words and they would still land in different places. I\ncould spend the rest of my life articulating every detail,\nevery grain, every follicle. And still they would not\nunderstand. Because of what I look like. No: because of\nwhat they feel about what I look like. This is what it feels\nlike to be brown, trans, femme, and alive.\n(Adaptado de www.instagram.com/p/C51W1v8vXo9/. Acesso em 22/04/2024.)\nNo post, a argumentação é articulada a partir dos diferentes\nsentidos das palavras\na) “gramática” e “pronomes”, pois o ensino, nas escolas, des-\nses temas invisibiliza pessoas não binárias as quais suposta-\nmente violam regras gramaticais.\nb) “sujeito” e “objeto”, pois esses termos só são usados para\npessoas não binárias quando elas se sujeitam e aceitam o\ncontrole por aqueles que têm poder.\nc) “sujeito” e “predicado”, pois as relações de poder hierár-\nquicas impedem que pessoas não binárias se expressem e\nassumam o controle de suas palavras.\nd) “objeto” e “pronomes”, pois embora as pessoas não biná-\nrias escolham seus pronomes, elas ainda são objetificadas\ndevido às suas aparências físicas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            419.5922,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            40,
+            568,
+            239.70709999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 9,
+        "bbox": [
+          30,
+          467.3838,
+          291,
+          737.181
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

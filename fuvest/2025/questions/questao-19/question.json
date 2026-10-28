@@ -1,0 +1,102 @@
+{
+  "title": "Questão 19 - FUVEST 2025 - 1ª fase",
+  "index": 19,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "O efeito Compton, descoberto na década de 1920, é hoje\namplamente utilizado durante tratamentos radioterápicos. O\nefeito relaciona-se à mudança no comprimento de onda de\nfótons de raios X quando interagem com partículas como\nelétrons ou prótons, conforme ilustrado na figura a seguir.\nQuando um fóton com comprimento de onda 𝜆 incide sobre\n(cid:2868)\numa partícula, ele emerge dessa interação formando um\nângulo 𝜃 com sua direção inicial de movimento, e seu novo\ncomprimento de onda 𝜆′ é dado pela relação\n𝛼\n𝜆(cid:4593) (cid:3404)𝜆 (cid:3397) (cid:4666)1(cid:3398)cos𝜃(cid:4667),\n(cid:2868) 𝑚\nem que 𝛼 é uma constante positiva e 𝑚 é a massa da partícula.\nCom base nessas informações e em seus conhecimentos\nsobre a propagação das ondas eletromagnéticas, assinale a\nalternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A maior variação no comprimento de onda do fóton ocorre\nquando o ângulo 𝜃 é igual a 90°.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Se o ângulo 𝜃 é igual a 30°, o fóton emergente tem\nfrequência menor do que a frequência inicial.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Quando 𝜃 = 0, a velocidade do fóton emergente é menor\ndo que a do fóton incidente, devido à conservação da\nquantidade de movimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Se o ângulo 𝜃 é igual a 60°, a variação no comprimento de\nonda do fóton é menor se a partícula for um elétron do\nque se a partícula for um próton.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Um fóton que emergiu perpendicularmente à sua direção\ninicial não sofreu mudança em sua frequência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nO efeito Compton, descoberto na década de 1920, é hoje\namplamente utilizado durante tratamentos radioterápicos. O\nefeito relaciona-se à mudança no comprimento de onda de\nfótons de raios X quando interagem com partículas como\nelétrons ou prótons, conforme ilustrado na figura a seguir.\nQuando um fóton com comprimento de onda 𝜆 incide sobre\n(cid:2868)\numa partícula, ele emerge dessa interação formando um\nângulo 𝜃 com sua direção inicial de movimento, e seu novo\ncomprimento de onda 𝜆′ é dado pela relação\n𝛼\n𝜆(cid:4593) (cid:3404)𝜆 (cid:3397) (cid:4666)1(cid:3398)cos𝜃(cid:4667),\n(cid:2868) 𝑚\nem que 𝛼 é uma constante positiva e 𝑚 é a massa da partícula.\nCom base nessas informações e em seus conhecimentos\nsobre a propagação das ondas eletromagnéticas, assinale a\nalternativa correta.\n(A) A maior variação no comprimento de onda do fóton ocorre\nquando o ângulo 𝜃 é igual a 90°.\n(B) Se o ângulo 𝜃 é igual a 30°, o fóton emergente tem\nfrequência menor do que a frequência inicial.\n(C) Quando 𝜃 = 0, a velocidade do fóton emergente é menor\ndo que a do fóton incidente, devido à conservação da\nquantidade de movimento.\n(D) Se o ângulo 𝜃 é igual a 60°, a variação no comprimento de\nonda do fóton é menor se a partícula for um elétron do\nque se a partícula for um próton.\n(E) Um fóton que emergiu perpendicularmente à sua direção\ninicial não sofreu mudança em sua frequência.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            28,
+            579.3547,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            318.89469999999994
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "topic": "Efeito Compton e ondas eletromagnéticas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Questão 75 - FUVEST 2025 - 1ª fase",
+  "index": 75,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Um designer de produtos deseja fabricar um vaso para flores\nconforme a figura a seguir.\nSabe-se que a base e o topo do vaso são uma circunferência\nde raio R que mede 10 cm, a parte central é uma\ncircunferência de raio r de 5 cm e a medida ℎ mede 12 cm.\nQual é a capacidade volumétrica desse vaso em cm³?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1400π",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2100π",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2400π",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2600π",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2800π",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nUm designer de produtos deseja fabricar um vaso para flores\nconforme a figura a seguir.\nSabe-se que a base e o topo do vaso são uma circunferência\nde raio 𝑅 que mede 10 cm, a parte central é uma\ncircunferência de raio 𝑟 de 5 cm e a medida ℎ mede 12 cm.\nQual é a capacidade volumétrica desse vaso em cm3?\n(A) 1400𝜋\n(B) 2100𝜋\n(C) 2400𝜋\n(D) 2600𝜋\n(E) 2800𝜋\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            297.5,
+            184.01470000000006,
+            567,
+            503.7547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Volume de sólidos de revolução",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

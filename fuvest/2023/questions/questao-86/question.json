@@ -1,0 +1,95 @@
+{
+  "title": "Questão 86 - FUVEST 2023 - 1ª fase",
+  "index": 86,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Para medir o volume de uma pedra com formato irregular,\nAna utilizou um recipiente cilíndrico de raio r=8 cm e com\nágua até a altura de 20 cm. Após colocar a pedra no\nrecipiente, a altura da água subiu para 23,5 cm.\nO volume da pedra é:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "128π cm³",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "224π cm³",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "240π cm³",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "282π cm³",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "320π cm³",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Para medir o volume de uma pedra com formato irregular,\nAna utilizou um recipiente cilíndrico de raio 𝑟=8 𝑐𝑚 e com\nágua até a altura de 20 𝑐𝑚. Após colocar a pedra no\nrecipiente, a altura da água subiu para 23,5 𝑐𝑚.\nO volume da pedra é:\n(A) 128𝜋 𝑐𝑚(cid:2871)\n(B) 224𝜋 𝑐𝑚(cid:2871)\n(C) 240𝜋 𝑐𝑚(cid:2871)\n(D) 282𝜋 𝑐𝑚(cid:2871)\n(E) 320𝜋 𝑐𝑚(cid:2871)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            297.5,
+            264.53470000000004,
+            567,
+            608.1547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Volume por deslocamento em cilindro",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Questão 84 - UNESP 2023 - 1ª fase",
+  "index": 84,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Examine os dados comparativos simplificados entre Júpiter,\nTerra e Sol, considerando-se modelos esféricos e movimentos circulares dos planetas em torno do Sol.\nfora de escala\nSe as medidas do raio da Terra e do segmento TS são, respectivamente, iguais a x e y quilômetros, a menor distância, em\nquilômetros, entre os centros de Júpiter e da Terra será\nigual a",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "12x + 4,2y",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12x + 6,2y",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "12x + 5,2y",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "9x + 6,2y",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "10x + 4,2y",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine os dados comparativos simplificados entre Júpiter,\nTerra e Sol, considerando-se modelos esféricos e movimen-\ntos circulares dos planetas em torno do Sol.\nfora de escala\nSe as medidas do raio da Terra e de são, respectiva-\nmente, iguais a x e y quilômetros, a menor distância, em\nquilômetros, entre os centros de Júpiter e da Terra será\nigual a\n(A) 12x + 4,2y\n(B) 12x + 6,2y\n(C) 12x + 5,2y\n(D) 9x + 6,2y\n(E) 10x + 4,2y",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 31,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 31,
+        "bbox": [
+          304,
+          84.332,
+          568,
+          230.91201999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 31,
+        "bbox": [
+          466.213,
+          240.71209999999996,
+          493.863,
+          264.9184999999999
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

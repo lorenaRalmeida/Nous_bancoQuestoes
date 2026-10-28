@@ -1,0 +1,106 @@
+{
+  "title": "Questão 64 - UNICAMP 2025 - 1ª fase",
+  "index": 64,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "No combate a arboviroses – tais como dengue, zika e chicungunha –, a ação de possíveis fármacos antivirais tem sido avaliada\npor pesquisadores brasileiros. Um aspecto fundamental nesse\nestudo é verificar o tempo que esses fármacos permanecem ativos no organismo, porque se um fármaco funciona bem com\numa estrutura química, e se essa se modifica rapidamente, então o fármaco pode deixar de ser ativo. Compostos de platina\nque se mostraram eficazes contra arboviroses foram, então,\navaliados quanto à velocidade de troca de moléculas de dimetilsulfóxido (DMSO) – presentes em suas estruturas originais –\npor moléculas de DMSO deuterado (DMSO-d6), em solução.\nOs resultados de concentrações em função do tempo para as\ndiferentes espécies em solução são apresentados na figura a seguir. Cada traçado corresponde a uma espécie (não identificada\nna figura).\n0.0250\n0.0225\n0.0200\n0.0175\n0.0150\n0.0125\n0.0100\n0.0075\n0.0050\n0.0025\n0\n0 1800 3600 5400 7200 9000 10800 12600 14400\n)L/lom(\nOSMD\ned\noãçartnecnoC\nDMSO ligado à platina versus DMSO livre em solução para PtL1\nDMSO ligado à platina versus DMSO livre em solução para PtL2\nDMSO ligado à platina versus DMSO livre em solução para PtL3\nTempo (s)\nConsiderando que quanto menor a velocidade de troca, maior\né a eficiência do fármaco, pode-se concluir que",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os fármacos em verde e azul são os mais eficientes; as linhas\nsólidas representam suas concentrações em função do tempo; as linhas pontilhadas representam as concentrações do\nDMSO-d6 livre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o fármaco em vermelho é o mais eficiente; a linha pontilhada representa sua concentração em função do tempo;\na linha sólida representa a concentração do DMSO-d6 livre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os fármacos em verde e azul são os mais eficientes; as linhas\npontilhadas representam suas concentrações em função do\ntempo; as linhas sólidas representam as concentrações do\nDMSO livre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o fármaco em vermelho é o mais eficiente; a linha sólida\nrepresenta sua concentração em função do tempo; a linha\npontilhada representa a concentração do DMSO livre.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No combate a arboviroses – tais como dengue, zika e chicungu-\nnha –, a ação de possíveis fármacos antivirais tem sido avaliada\npor pesquisadores brasileiros. Um aspecto fundamental nesse\nestudo é verificar o tempo que esses fármacos permanecem ati-\nvos no organismo, porque se um fármaco funciona bem com\numa estrutura química, e se essa se modifica rapidamente, en-\ntão o fármaco pode deixar de ser ativo. Compostos de platina\nque se mostraram eficazes contra arboviroses foram, então,\navaliados quanto à velocidade de troca de moléculas de dime-\ntilsulfóxido (DMSO) – presentes em suas estruturas originais –\npor moléculas de DMSO deuterado (DMSO-d6), em solução.\nOs resultados de concentrações em função do tempo para as\ndiferentes espécies em solução são apresentados na figura a se-\nguir. Cada traçado corresponde a uma espécie (não identificada\nna figura).\n0.0250\n0.0225\n0.0200\n0.0175\n0.0150\n0.0125\n0.0100\n0.0075\n0.0050\n0.0025\n0\n0 1800 3600 5400 7200 9000 10800 12600 14400\n)L/lom(\nOSMD\ned\noãçartnecnoC\nDMSO ligado à platina versus DMSO livre em solução para PtL1\nDMSO ligado à platina versus DMSO livre em solução para PtL2\nDMSO ligado à platina versus DMSO livre em solução para PtL3\nTempo (s)\nConsiderando que quanto menor a velocidade de troca, maior\né a eficiência do fármaco, pode-se concluir que\na) os fármacos em verde e azul são os mais eficientes; as linhas\nsólidas representam suas concentrações em função do tem-\npo; as linhas pontilhadas representam as concentrações do\nDMSO-d6 livre.\nb) o fármaco em vermelho é o mais eficiente; a linha ponti-\nlhada representa sua concentração em função do tempo;\na linha sólida representa a concentração do DMSO-d6 livre.\nc) os fármacos em verde e azul são os mais eficientes; as linhas\npontilhadas representam suas concentrações em função do\ntempo; as linhas sólidas representam as concentrações do\nDMSO livre.\nd) o fármaco em vermelho é o mais eficiente; a linha sólida\nrepresenta sua concentração em função do tempo; a linha\npontilhada representa a concentração do DMSO livre.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            404.89779999999996,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            40,
+            568,
+            293.318
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 21,
+        "bbox": [
+          60.020799999999994,
+          603.2309,
+          289.9653,
+          793.1451999999999
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

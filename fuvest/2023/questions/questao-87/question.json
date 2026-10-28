@@ -1,0 +1,103 @@
+{
+  "title": "Questão 87 - FUVEST 2023 - 1ª fase",
+  "index": 87,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Dado um número natural n ≥ 2, o primorial de n, denotado\npor n#, é o produto de todos os números primos menores\nque ou iguais a n. Por exemplo,\n6#=2⋅3⋅5=30.\nO menor número da forma n# que é maior que 2000 é:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2300",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2305",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2310",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2312",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2322",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Dado um número natural 𝑛 ≥ 2, o primorial de 𝑛, denotado\npor 𝑛#, é o produto de todos os números primos menores\nque ou iguais a 𝑛. Por exemplo,\n6#=2⋅3⋅5=30.\nO menor número da forma 𝑛# que é maior que 2000 é:\n(A) 2300\n(B) 2305\n(C) 2310\n(D) 2312\n(E) 2322",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            297.5,
+            608.1547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Números primos e primorial",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

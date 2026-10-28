@@ -1,0 +1,96 @@
+{
+  "title": "Questão 25 - UNICAMP 2024 - 1ª fase",
+  "index": 25,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Algumas baterias transformam certas substâncias em outras,\ngerando energia elétrica. Isso permite, por exemplo, o funcionamento de equipamentos tendo como base essa energia (carros\nelétricos) ou então auxilia o funcionamento de equipamentos\n(carros de combustão interna). É por isso que os carros elétricos\nprecisam se abastecer de energia elétrica de tempos em tempos\ne os de combustão não, já que a bateria desses últimos é carregada durante seu funcionamento. Na descarga da bateria, dois\ncomportamentos são importantes: curva de tensão (Figura A) e\nciclo de vida (Figura B), sendo esse último a quantidade de vezes\nque a bateria pode ser recarregada em função da profundidade\nde sua descarga.\nLevando em conta essas informações, seria apropriado escolher\npara equipar um carro",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "elétrico uma bateria com as características da curva Y e da\ncurva II; para o carro de combustão interna qualquer combinação serviria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "elétrico uma bateria com as características da curva X e da\ncurva I; para o carro de combustão interna, qualquer combinação serviria.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "de combustão interna uma bateria com as características da\ncurva X e da curva I; para o carro elétrico, qualquer combinação serviria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "de combustão interna uma bateria com as características da\ncurva Y e da curva II; para o carro elétrico qualquer combinação serviria.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Algumas baterias transformam certas substâncias em outras,\ngerando energia elétrica. Isso permite, por exemplo, o funciona-\nmento de equipamentos tendo como base essa energia (carros\nelétricos) ou então auxilia o funcionamento de equipamentos\n(carros de combustão interna). É por isso que os carros elétricos\nprecisam se abastecer de energia elétrica de tempos em tempos\ne os de combustão não, já que a bateria desses últimos é carre-\ngada durante seu funcionamento. Na descarga da bateria, dois\ncomportamentos são importantes: curva de tensão (Figura A) e\nciclo de vida (Figura B), sendo esse último a quantidade de vezes\nque a bateria pode ser recarregada em função da profundidade\nde sua descarga.\nLevando em conta essas informações, seria apropriado escolher\npara equipar um carro\na) elétrico uma bateria com as características da curva Y e da\ncurva II; para o carro de combustão interna qualquer com-\nbinação serviria.\nb) elétrico uma bateria com as características da curva X e da\ncurva I; para o carro de combustão interna, qualquer com-\nbinação serviria.\nc) de combustão interna uma bateria com as características da\ncurva X e da curva I; para o carro elétrico, qualquer combi-\nnação serviria.\nd) de combustão interna uma bateria com as características da\ncurva Y e da curva II; para o carro elétrico qualquer combi-\nnação serviria.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            253.6725,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            40,
+            291,
+            190.46460000000002
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

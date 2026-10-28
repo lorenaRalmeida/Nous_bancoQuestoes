@@ -1,0 +1,98 @@
+{
+  "title": "Questão 11 - UNESP 2024 - 1ª fase",
+  "index": 11,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões de 10 a 12, leia a fábula árabe\n“Um cachorro e um abutre”, cuja autoria é desconhecida.\nCerta feita, um cachorro roubou um naco de carne de\num abatedouro e correu em direção ao rio, em cujas águas\nviu o reflexo do naco de carne, bem maior do que o naco\nque carregava. Largou-o então, e um abutre desceu e agarrou a carne, enquanto o cachorro corria atrás do naco maior,\nmas nada encontrou. Retornou para pegar a carne que antes\ncarregava, mas também não a encontrou. Pensou então: “A\nilusão me fez perder o bom senso, e acabei sem aquilo que\neu já tinha por ir atrás daquilo que eu não alcançaria.”\n(Mamede Jarouche (org.). Fábulas árabes:\ndo período pré-islâmico ao século XVII, 2021.)\n\n“Pensou então: ‘A ilusão me fez perder o bom senso [...]’.”\nAo se transpor esse trecho para o discurso indireto,\nos termos sublinhados assumem, respectivamente, as\nseguintes formas:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“o” e “faria”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“o” e “fizera”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "“lhe” e “fizesse”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“te” e “faz”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“lhe” e “fazia”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Pensou então: ‘A ilusão me fez perder o bom senso [...]’.”\nAo se transpor esse trecho para o discurso indireto,\nos termos sublinhados assumem, respectivamente, as\nseguintes formas:\n(A) “o” e “faria”.\n(B) “o” e “fizera”.\n(C) “lhe” e “fizesse”.\n(D) “te” e “faz”.\n(E) “lhe” e “fazia”.",
+    "sharedContext": "Para responder às questões de 10 a 12, leia a fábula árabe\n“Um cachorro e um abutre”, cuja autoria é desconhecida.\nCerta feita, um cachorro roubou um naco de carne de\num abatedouro e correu em direção ao rio, em cujas águas\nviu o reflexo do naco de carne, bem maior do que o naco\nque carregava. Largou-o então, e um abutre desceu e agarrou a carne, enquanto o cachorro corria atrás do naco maior,\nmas nada encontrou. Retornou para pegar a carne que antes\ncarregava, mas também não a encontrou. Pensou então: “A\nilusão me fez perder o bom senso, e acabei sem aquilo que\neu já tinha por ir atrás daquilo que eu não alcançaria.”\n(Mamede Jarouche (org.). Fábulas árabes:\ndo período pré-islâmico ao século XVII, 2021.)",
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            219.15329999999994
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            369.9328,
+            568,
+            562.3815999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

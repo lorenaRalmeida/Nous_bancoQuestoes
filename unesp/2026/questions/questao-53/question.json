@@ -1,0 +1,100 @@
+{
+  "title": "Questão 53 - UNESP 2026 - 1ª fase",
+  "index": 53,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Uma vereda bordada à mão por uma família de Pirapora,\nno norte de Minas Gerais, acaba de ganhar o mundo. A obra\n“Vereda do Galhão”, feita com agulhas, lãs, algodão e fios\nde seda, foi escolhida como presente oficial do presidente\ndo Brasil ao imperador do Japão. Ao longo de oito meses de\ntrabalho, a família retratou uma vereda real da região onde\nnasceram, cercada por buritis, palmeiras majestosas que só\nbrotam onde há água. “O buriti nasce onde há nascente. Ele\nnão cresce em qualquer lugar, apenas onde há vida. Essa\nplanta é símbolo de resistência e cuidado. Ao bordar essa\nvereda, a gente quis mostrar a beleza, mas também chamar\natenção para a urgência de preservar”, contou Sávia Dumont,\numa das autoras do bordado.\n(https://cidadecult.com.br, 19.05.2025. Adaptado.)\nO bioma representado por essa obra é",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a Mata dos Cocais, caracterizada pelo predomínio de floresta ombrófila aberta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o Cerrado, formado por vastos espaços abertos cobertos\npor plantas herbáceas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o Cerrado, comprometido pela baixa porcentagem de\nárea sob proteção integral.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a Caatinga, formada por alta diversidade de espécies endêmicas ameaçadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a Caatinga, caracterizada pela feição esbranquiçada dos\ntroncos das plantas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma vereda bordada à mão por uma família de Pirapora,\nno norte de Minas Gerais, acaba de ganhar o mundo. A obra\n“Vereda do Galhão”, feita com agulhas, lãs, algodão e fios\nde seda, foi escolhida como presente oficial do presidente\ndo Brasil ao imperador do Japão. Ao longo de oito meses de\ntrabalho, a família retratou uma vereda real da região onde\nnasceram, cercada por buritis, palmeiras majestosas que só\nbrotam onde há água. “O buriti nasce onde há nascente. Ele\nnão cresce em qualquer lugar, apenas onde há vida. Essa\nplanta é símbolo de resistência e cuidado. Ao bordar essa\nvereda, a gente quis mostrar a beleza, mas também chamar\natenção para a urgência de preservar”, contou Sávia Dumont,\numa das autoras do bordado.\n(https://cidadecult.com.br, 19.05.2025. Adaptado.)\nO bioma representado por essa obra é\n(A) a Mata dos Cocais, caracterizada pelo predomínio de flo-\nresta ombrófila aberta.\n(B) o Cerrado, formado por vastos espaços abertos cobertos\npor plantas herbáceas.\n(C) o Cerrado, comprometido pela baixa porcentagem de\nárea sob proteção integral.\n(D) a Caatinga, formada por alta diversidade de espécies en-\ndêmicas ameaçadas.\n(E) a Caatinga, caracterizada pela feição esbranquiçada dos\ntroncos das plantas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

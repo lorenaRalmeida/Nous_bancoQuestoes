@@ -1,0 +1,128 @@
+{
+  "title": "Questão 90 - UNESP 2023 - 1ª fase",
+  "index": 90,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A tabela indica o chaveamento de 8 times que chegaram às\nquartas de final de um torneio de futebol. Nos jogos de quartas de final, as porcentagens ao lado de cada time indicam\nsua probabilidade de seguir adiante no torneio. Nos jogos da\nsemifinal, as probabilidades de cada time dos grupos E e F\nsão iguais a 50%.\nQual é a probabilidade de o time 1 disputar a final desse torneio contra os times 5 ou 7?",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "16,25%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "14,25%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "15,75%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "15,50%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "12,50%",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A tabela indica o chaveamento de 8 times que chegaram às\nquartas de final de um torneio de futebol. Nos jogos de quar-\ntas de final, as porcentagens ao lado de cada time indicam\nsua probabilidade de seguir adiante no torneio. Nos jogos da\nsemifinal, as probabilidades de cada time dos grupos E e F\nsão iguais a 50%.\nQual é a probabilidade de o time 1 disputar a final desse tor-\nneio contra os times 5 ou 7?\n(A) 16,25%\n(B) 14,25%\n(C) 15,75%\n(D) 15,50%\n(E) 12,50%",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 34,
+          "bbox": [
+            304,
+            28.943899999999985,
+            568,
+            807
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 34,
+        "bbox": [
+          304,
+          121.32560000000001,
+          362.53799026,
+          142.81460000000004
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 34,
+        "bbox": [
+          503.50129999999996,
+          121.32560000000001,
+          568,
+          142.81460000000004
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 34,
+        "bbox": [
+          304,
+          134.97469999999998,
+          565.89499,
+          238.44199000000003
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

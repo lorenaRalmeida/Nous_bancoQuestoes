@@ -1,0 +1,92 @@
+{
+  "title": "Questão 64 - FUVEST 2023 - 1ª fase",
+  "index": 64,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O mapa mostra a variação do número de espécies de aves no\nterritório brasileiro, com as linhas indicando os limites dos\nbiomas.\nJENKINS et al. 2015. “Patterns of vertebrate diversity and protection in\nBrazil”. PLoS ONE 10(12): e0145064. Adaptado.\nCom base no mapa, a diversidade de aves mostra-se",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mais alta nas regiões onde predominam florestas e mais\nbaixa nas regiões onde predomina vegetação mais aberta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "igualmente alta nas regiões tropicais e mais baixa nas\nregiões subtropicais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "igualmente baixa nas regiões mais orientais e mais alta nas\nregiões ocidentais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mais alta nas regiões mais quentes e mais baixa nas\nregiões mais frias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "mais alta nas regiões que se situam mais próximas ao mar\ne mais baixa nas regiões mais interiores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O mapa mostra a variação do número de espécies de aves no\nterritório brasileiro, com as linhas indicando os limites dos\nbiomas.\nJENKINS et al. 2015. “Patterns of vertebrate diversity and protection in\nBrazil”. PLoS ONE 10(12): e0145064. Adaptado.\nCom base no mapa, a diversidade de aves mostra-se\n(A) mais alta nas regiões onde predominam florestas e mais\nbaixa nas regiões onde predomina vegetação mais aberta.\n(B) igualmente alta nas regiões tropicais e mais baixa nas\nregiões subtropicais.\n(C) igualmente baixa nas regiões mais orientais e mais alta nas\nregiões ocidentais.\n(D) mais alta nas regiões mais quentes e mais baixa nas\nregiões mais frias.\n(E) mais alta nas regiões que se situam mais próximas ao mar\ne mais baixa nas regiões mais interiores.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            541.9147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Diversidade de aves e biomas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

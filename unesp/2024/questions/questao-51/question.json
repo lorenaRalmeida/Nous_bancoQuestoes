@@ -1,0 +1,122 @@
+{
+  "title": "Questão 51 - UNESP 2024 - 1ª fase",
+  "index": 51,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Examine a imagem, que apresenta a classificação dos\nrios segundo o grau de ramificações dentro de uma bacia\nhidrográfica.\n(Fillipe T. P. Torres. Introdução à hidrogeografia, 2012. Adaptado.)\nO exame da classificação dos rios revela que",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os rios de segunda ordem estão próximos aos afluentes,\náreas de terrenos mais planos e com muitas rochas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os rios de primeira ordem estão próximos às nascentes,\náreas mais elevadas e de maior declividade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "os rios de terceira ordem estão próximos aos leitos, áreas\nindependentes dos regimes de cheias e vazantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os rios de quarta ordem estão próximos à foz, área com\num regime turbulento e mais veloz.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os rios de quarta ordem estão próximos aos divisores\nde água, áreas com grande capacidade erosiva e mais\nsedimentos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a imagem, que apresenta a classificação dos\nrios segundo o grau de ramificações dentro de uma bacia\nhidrográfica.\n(Fillipe T. P. Torres. Introdução à hidrogeografia, 2012. Adaptado.)\nO exame da classificação dos rios revela que\n(A) os rios de segunda ordem estão próximos aos afluentes,\náreas de terrenos mais planos e com muitas rochas.\n(B) os rios de primeira ordem estão próximos às nascentes,\náreas mais elevadas e de maior declividade.\n(C) os rios de terceira ordem estão próximos aos leitos, áreas\nindependentes dos regimes de cheias e vazantes.\n(D) os rios de quarta ordem estão próximos à foz, área com\num regime turbulento e mais veloz.\n(E) os rios de quarta ordem estão próximos aos divisores\nde água, áreas com grande capacidade erosiva e mais\nsedimentos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 19,
+        "bbox": [
+          333.5075,
+          90.11689999999999,
+          530.0475,
+          307.28340000000003
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 19,
+        "bbox": [
+          381.3524,
+          302.12979999999993,
+          507.2291,
+          356.55129999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

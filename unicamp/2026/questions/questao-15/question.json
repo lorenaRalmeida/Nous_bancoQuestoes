@@ -1,0 +1,94 @@
+{
+  "title": "Questão 15 - UNICAMP 2026 - 1ª fase",
+  "index": 15,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“O ato de comer é construído culturalmente, e mediado por\npráticas, crenças, comportamentos, tabus, que formam os hábitos alimentares, que, por sua vez, relacionam-se a aspectos\nculturais, socioeconômicos e psicológicos que envolvem o ambiente alimentar de cada indivíduo. Os hábitos alimentares são\ndinâmicos e sensíveis às mudanças que ocorrem nas sociedades, fundamentalmente, nos sistemas alimentares. Com o sistema alimentar que predomina hoje, a humanidade vem substituindo a comida que carrega significados culturais e tradições\nancestrais por produtos alimentares ultraprocessados globalizados, que viajam quilômetros até chegar ao prato, causando a\nhomogeneização dos hábitos alimentares de forma global. O\nproblema é que os ultraprocessados têm acarretado sérios problemas à saúde da população [...]”.\n(Disponível em https://obha.fiocruz.br/?p=1413. Acesso em 06/08/25.)\nA partir do texto, é correto afirmar que a produção e o consumo de alimentos no mundo contemporâneo possuem",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "menor vínculo com o lugar, visto que a indústria de processamento de alimentos e a produção agropecuária estão\ncada vez mais especializadas. Assim, produtos circulam com\nmaior velocidade e eficiência entre a área de produção e o\nmercado consumidor, reduzindo o acesso da população a\nalimentos in natura e à diversidade produtiva regional.\n)m(\n)t(s\n800\n600\nΙΙ ΙV\n400\nΙ ΙΙΙ\n200\n0\n0 20 40 60 80 100 120\nt (s)\n)m(\n)t(s",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "maior interdependência com o lugar, visto que a indústria de\nprocessamento precisa manter a proximidade com as áreas\nda produção agropecuária, aproveitando a modernização\ndo sistema de circulação para atingir o mercado consumidor\nmais distante. Isso fortalece o acesso da população a produtos da agricultura familiar e à diversidade produtiva regional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "maior conexão com o lugar, visto que a indústria de processamento de alimentos pode estar distante da área de produção agropecuária. O sistema de circulação permite interligar,\ncom menor custo, a área de produção ao mercado consumidor, restringindo o acesso da população à produção da\npequena indústria local e à diversidade alimentar regional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "menor correlação com o lugar, visto que a indústria de processamento e a produção agropecuária possuem pouca\nvinculação entre si, tornando-se independentes, mas com\nestreitamento promovido pelo sistema de circulação entre\na área de produção e o mercado consumidor. Isso favorece\no acesso da população aos alimentos da culinária local e à\ndiversidade alimentar regional.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“O ato de comer é construído culturalmente, e mediado por\npráticas, crenças, comportamentos, tabus, que formam os há-\nbitos alimentares, que, por sua vez, relacionam-se a aspectos\nculturais, socioeconômicos e psicológicos que envolvem o am-\nbiente alimentar de cada indivíduo. Os hábitos alimentares são\ndinâmicos e sensíveis às mudanças que ocorrem nas socieda-\ndes, fundamentalmente, nos sistemas alimentares. Com o sis-\ntema alimentar que predomina hoje, a humanidade vem subs-\ntituindo a comida que carrega significados culturais e tradições\nancestrais por produtos alimentares ultraprocessados globaliza-\ndos, que viajam quilômetros até chegar ao prato, causando a\nhomogeneização dos hábitos alimentares de forma global. O\nproblema é que os ultraprocessados têm acarretado sérios pro-\nblemas à saúde da população [...]”.\n(Disponível em https://obha.fiocruz.br/?p=1413. Acesso em 06/08/25.)\nA partir do texto, é correto afirmar que a produção e o consu-\nmo de alimentos no mundo contemporâneo possuem\na) menor vínculo com o lugar, visto que a indústria de pro-\ncessamento de alimentos e a produção agropecuária estão\ncada vez mais especializadas. Assim, produtos circulam com\nmaior velocidade e eficiência entre a área de produção e o\nmercado consumidor, reduzindo o acesso da população a\nalimentos in natura e à diversidade produtiva regional.\n)m(\n)t(s\n800\n600\nΙΙ ΙV\n400\nΙ ΙΙΙ\n200\n0\n0 20 40 60 80 100 120\nt (s)\n)m(\n)t(s\nb) maior interdependência com o lugar, visto que a indústria de\nprocessamento precisa manter a proximidade com as áreas\nda produção agropecuária, aproveitando a modernização\ndo sistema de circulação para atingir o mercado consumidor\nmais distante. Isso fortalece o acesso da população a produ-\ntos da agricultura familiar e à diversidade produtiva regional.\nc) maior conexão com o lugar, visto que a indústria de proces-\nsamento de alimentos pode estar distante da área de produ-\nção agropecuária. O sistema de circulação permite interligar,\ncom menor custo, a área de produção ao mercado consu-\nmidor, restringindo o acesso da população à produção da\npequena indústria local e à diversidade alimentar regional.\nd) menor correlação com o lugar, visto que a indústria de pro-\ncessamento e a produção agropecuária possuem pouca\nvinculação entre si, tornando-se independentes, mas com\nestreitamento promovido pelo sistema de circulação entre\na área de produção e o mercado consumidor. Isso favorece\no acesso da população aos alimentos da culinária local e à\ndiversidade alimentar regional.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            505.3628,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            40,
+            291,
+            296.83000000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

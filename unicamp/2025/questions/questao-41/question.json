@@ -1,0 +1,92 @@
+{
+  "title": "Questão 41 - UNICAMP 2025 - 1ª fase",
+  "index": 41,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "O excerto a seguir, do livro Alice no país das maravilhas, de\nLewis Carrol, narra o encontro entre a protagonista e o Gato\nde Cheshire:\nO Gato apenas sorriu ao avistá-la. Alice achou que ele parecia\nafável. Mas como tinha garras muito compridas e dentes bem\ngraúdos, sentiu que devia tratá-lo com respeito.\n– Gatinho de Cheshire – começou a dizer timidamente, sem\nter certeza se ele gostaria de ser tratado assim, mas ele apenas\nabriu um pouco mais o sorriso. “Ótimo, parece que ele gostou”, pensou ela, e prosseguiu: – Podia me dizer, por favor, qual\né o caminho para sair daqui?\n– Isso depende muito do lugar para onde você quer ir – disse\no Gato.\n– Não me importa onde... – disse Alice.\n– Nesse caso não importa por onde você vá – disse o Gato.\n– ...conquanto que eu chegue a algum lugar – acrescentou Alice como explicação.\n– É claro que isso acontecerá – disse o Gato –, desde que você\nande por algum tempo.\n(CARROLL, L. Aventuras de Alice no país das maravilhas. Tradução de Sebastião Uchoa\nLeite. São Paulo: Editora 34, p. 68-69, 2016.)\nA partir da leitura do trecho e da compreensão do todo da narrativa, pode-se afirmar que o excerto é um exemplo",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do afeto que marca o contato que Alice estabelece com os\nhabitantes do país das maravilhas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "do estranhamento que Alice experimenta ao conhecer seres\nque não existiam no mundo de onde ela veio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da descoberta, por parte de Alice, do domínio que ela tem\nsobre as situações no país das maravilhas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da percepção, por parte de Alice, de que as palavras não\ntêm sempre o mesmo sentido para quem as usa.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O excerto a seguir, do livro Alice no país das maravilhas, de\nLewis Carrol, narra o encontro entre a protagonista e o Gato\nde Cheshire:\nO Gato apenas sorriu ao avistá-la. Alice achou que ele parecia\nafável. Mas como tinha garras muito compridas e dentes bem\ngraúdos, sentiu que devia tratá-lo com respeito.\n– Gatinho de Cheshire – começou a dizer timidamente, sem\nter certeza se ele gostaria de ser tratado assim, mas ele apenas\nabriu um pouco mais o sorriso. “Ótimo, parece que ele gos-\ntou”, pensou ela, e prosseguiu: – Podia me dizer, por favor, qual\né o caminho para sair daqui?\n– Isso depende muito do lugar para onde você quer ir – disse\no Gato.\n– Não me importa onde... – disse Alice.\n– Nesse caso não importa por onde você vá – disse o Gato.\n– ...conquanto que eu chegue a algum lugar – acrescentou Ali-\nce como explicação.\n– É claro que isso acontecerá – disse o Gato –, desde que você\nande por algum tempo.\n(CARROLL, L. Aventuras de Alice no país das maravilhas. Tradução de Sebastião Uchoa\nLeite. São Paulo: Editora 34, p. 68-69, 2016.)\nA partir da leitura do trecho e da compreensão do todo da nar-\nrativa, pode-se afirmar que o excerto é um exemplo\na) do afeto que marca o contato que Alice estabelece com os\nhabitantes do país das maravilhas.\nb) do estranhamento que Alice experimenta ao conhecer seres\nque não existiam no mundo de onde ela veio.\nc) da descoberta, por parte de Alice, do domínio que ela tem\nsobre as situações no país das maravilhas.\nd) da percepção, por parte de Alice, de que as palavras não\ntêm sempre o mesmo sentido para quem as usa.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            520.246,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            40,
+            291,
+            236.61379999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

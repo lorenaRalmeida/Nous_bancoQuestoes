@@ -1,0 +1,108 @@
+{
+  "title": "Questão 35 - UNICAMP 2025 - 1ª fase",
+  "index": 35,
+  "year": 2025,
+  "discipline": "Artes",
+  "language": null,
+  "context": "Texto comum às questões 35 e 36.\nLeia o trabalho da grafiteira e muralista Simone Siss (Texto 1),\nreconhecida por abordar temáticas femininas em sua obra.\nTexto 1\nAbri 1 livro. Me li inteira!\nSim... Eu falo meus nãos.\nSou Maria... E vou com as outras!\nMoro mesmo dentro de mim.\n(SISS, S. O que tenho dentro de nós. Grafite em muro no centro de Campinas. 2024.\nReprodução fotográfica.)\n\nEsse trabalho da artista Simone Siss expressa",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um ato de militância, sugerido pelo emprego de substantivos e adjetivos que fazem referência explícita à luta feminina, representada pela figura de uma mão que empunha\numa lata de spray.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uma experiência intimista, evidenciada por pronomes e verbos em primeira pessoa, dentro de um plano imagético no\nqual uma mão feminina, por meio de uma lata de spray,\nexpõe a condição de quem a segura.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "um gesto identitário, marcado pela predominância de adjetivos e pronomes femininos em alusão à força da mulher,\nque é sinalizada por uma lata de spray integrada à mão que\na aperta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uma manifestação subjetiva, ilustrada pela ocorrência de\nsubstantivos e verbos no singular integrados a uma imagem\nna qual uma mão feminina textualiza seus sentimentos por\nmeio de uma lata de spray.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Esse trabalho da artista Simone Siss expressa\na) um ato de militância, sugerido pelo emprego de substan-\ntivos e adjetivos que fazem referência explícita à luta femi-\nnina, representada pela figura de uma mão que empunha\numa lata de spray.\nb) uma experiência intimista, evidenciada por pronomes e ver-\nbos em primeira pessoa, dentro de um plano imagético no\nqual uma mão feminina, por meio de uma lata de spray,\nexpõe a condição de quem a segura.\nc) um gesto identitário, marcado pela predominância de ad-\njetivos e pronomes femininos em alusão à força da mulher,\nque é sinalizada por uma lata de spray integrada à mão que\na aperta.\nd) uma manifestação subjetiva, ilustrada pela ocorrência de\nsubstantivos e verbos no singular integrados a uma imagem\nna qual uma mão feminina textualiza seus sentimentos por\nmeio de uma lata de spray.",
+    "sharedContext": "Texto comum às questões 35 e 36.\nLeia o trabalho da grafiteira e muralista Simone Siss (Texto 1),\nreconhecida por abordar temáticas femininas em sua obra.\nTexto 1\nAbri 1 livro. Me li inteira!\nSim... Eu falo meus nãos.\nSou Maria... E vou com as outras!\nMoro mesmo dentro de mim.\n(SISS, S. O que tenho dentro de nós. Grafite em muro no centro de Campinas. 2024.\nReprodução fotográfica.)",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            340.53569999999996
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            340.53569999999996,
+            291,
+            622.0019
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Artes",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 14,
+        "bbox": [
+          97.08123716514,
+          229.09601036092,
+          187.90128936514,
+          256.33742632871997
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

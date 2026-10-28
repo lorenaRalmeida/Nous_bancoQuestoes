@@ -1,0 +1,92 @@
+{
+  "title": "Questão 7 - UNICAMP 2024 - 1ª fase",
+  "index": 7,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Texto 1\n“Que século, meus Deus! – exclamaram os ratos\nE começaram a roer o edifício”.\n(“Edifício Esplendor” (1955), de Carlos Drummond de Andrade, epígrafe do conto “Seminário dos Ratos”, de Lygia Fagundes Telles.)\nTexto 2\nEpígrafe é um paratexto (um texto que acompanha o texto\nprincipal), que pode justificar ou comentar um título ou texto;\nreferenciar a relação entre o autor do texto e o da epígrafe; criar\num efeito por meio do qual a presença da epígrafe já evoca a\nidentificação do autor do texto com uma época ou movimento.\n(Adaptado de: GENETTE, G. Paratextos Editoriais. Tradução de Álvaro Faleiros. Cotia: Ateliê Editorial, 2009.)\nConsiderando os textos 1 e 2, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A epígrafe associa o conto de Lygia ao “sentimento do mundo” drummondiano.\n:seãinipO\natsiveR\nan\nodacilbup\n,oriebiR\nzuL\ned\n,neib\nsap\nelrap\nen\neJ\nameop\nod\nsotnemgarF(\n).7102\n,01.n\n,arielisarB\narutaretiL\ned\nsonula\nsod\natsiveR",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A epígrafe mostra que os versos de Drummond são imprescindíveis à escrita do conto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A epígrafe justifica o título do conto e comenta os possíveis\nsentidos críticos dele.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "A epígrafe identifica Lygia à geração de 30 do Modernismo,\nao lado de Drummond.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\n“Que século, meus Deus! – exclamaram os ratos\nE começaram a roer o edifício”.\n(“Edifício Esplendor” (1955), de Carlos Drummond de Andrade, epígrafe do conto “Semi-\nnário dos Ratos”, de Lygia Fagundes Telles.)\nTexto 2\nEpígrafe é um paratexto (um texto que acompanha o texto\nprincipal), que pode justificar ou comentar um título ou texto;\nreferenciar a relação entre o autor do texto e o da epígrafe; criar\num efeito por meio do qual a presença da epígrafe já evoca a\nidentificação do autor do texto com uma época ou movimento.\n(Adaptado de: GENETTE, G. Paratextos Editoriais. Tradução de Álvaro Faleiros. Cotia: Ate-\nliê Editorial, 2009.)\nConsiderando os textos 1 e 2, assinale a alternativa correta.\na) A epígrafe associa o conto de Lygia ao “sentimento do mun-\ndo” drummondiano.\n:seãinipO\natsiveR\nan\nodacilbup\n,oriebiR\nzuL\ned\n,neib\nsap\nelrap\nen\neJ\nameop\nod\nsotnemgarF(\n).7102\n,01.n\n,arielisarB\narutaretiL\ned\nsonula\nsod\natsiveR\nb) A epígrafe mostra que os versos de Drummond são impres-\ncindíveis à escrita do conto.\nc) A epígrafe justifica o título do conto e comenta os possíveis\nsentidos críticos dele.\nd) A epígrafe identifica Lygia à geração de 30 do Modernismo,\nao lado de Drummond.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            553.1764000000001,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            40,
+            291,
+            160.5874
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

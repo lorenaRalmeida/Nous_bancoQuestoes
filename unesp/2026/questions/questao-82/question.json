@@ -1,0 +1,123 @@
+{
+  "title": "Questão 82 - UNESP 2026 - 1ª fase",
+  "index": 82,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "As figuras 1 e 2 representam o circuito elétrico do indicador\ndo nível de combustível de um veículo. Esse indicador possui\numa boia de plástico que flutua no combustível, dentro do\ntanque, e está conectada a uma barra de metal. A outra ponta\ndessa barra desliza sobre um resistor de resistência variável\n(reostato). Quando o tanque está cheio (figura 1), apenas\numa pequena porção do resistor faz parte do circuito. Quando o tanque está vazio (figura 2), uma grande porção do resistor faz parte do circuito.\n(Regina Carvalho e Juan Gutierrez.\nO automóvel na visão da física, 2013. Adaptado.)\nA bateria do veículo faz circular uma corrente elétrica por esse\ncircuito, que é usada para aquecer uma lâmina bimetálica\nconstituída por dois metais, A e B, que, quando aquecida, se\ncurva e desloca o ponteiro do mostrador, conforme a figura 1.\nÀ medida que o combustível vai sendo utilizado, a intensidade da corrente elétrica que passa pelo reostato vai\ne, para que esse indicador funcione como descrito na figura, o coeficiente de dilatação térmica do metal A\nda lâmina bimetálica deve ser coeficiente de\ndilatação térmica do metal B.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumentando – maior do que o.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "diminuindo – menor do que o.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "diminuindo – igual ao.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "diminuindo – maior do que o.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aumentando – menor do que o.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As figuras 1 e 2 representam o circuito elétrico do indicador\ndo nível de combustível de um veículo. Esse indicador possui\numa boia de plástico que flutua no combustível, dentro do\ntanque, e está conectada a uma barra de metal. A outra ponta\ndessa barra desliza sobre um resistor de resistência variável\n(reostato). Quando o tanque está cheio (figura 1), apenas\numa pequena porção do resistor faz parte do circuito. Quan-\ndo o tanque está vazio (figura 2), uma grande porção do re-\nsistor faz parte do circuito.\n(Regina Carvalho e Juan Gutierrez.\nO automóvel na visão da física, 2013. Adaptado.)\nA bateria do veículo faz circular uma corrente elétrica por esse\ncircuito, que é usada para aquecer uma lâmina bimetálica\nconstituída por dois metais, A e B, que, quando aquecida, se\ncurva e desloca o ponteiro do mostrador, conforme a figura 1.\nÀ medida que o combustível vai sendo utilizado, a inten-\nsidade da corrente elétrica que passa pelo reostato vai\ne, para que esse indicador funcione como des-\ncrito na figura, o coeficiente de dilatação térmica do metal A\nda lâmina bimetálica deve ser coeficiente de\ndilatação térmica do metal B.\nAs lacunas do texto são preenchidas, respectivamente, por:\n(A) aumentando – maior do que o.\n(B) diminuindo – menor do que o.\n(C) diminuindo – igual ao.\n(D) diminuindo – maior do que o.\n(E) aumentando – menor do que o.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 34,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 35,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 34,
+        "bbox": [
+          472.6378,
+          156.0730000000001,
+          523.2322,
+          178.63059999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 34,
+        "bbox": [
+          337.4207,
+          156.08929999999998,
+          386.8361,
+          178.64729999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

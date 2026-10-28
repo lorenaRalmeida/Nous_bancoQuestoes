@@ -1,0 +1,112 @@
+{
+  "title": "Questão 81 - UNESP 2025 - 1ª fase",
+  "index": 81,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Um garoto está brincando com uma corda apoiada no solo\nhorizontal e presa em um pino vertical. O garoto produz dois\npulsos transversais completos na corda, fazendo-a oscilar\nsobre o solo com frequência de 3 Hz, conforme a figura.\nSe o atrito entre a corda e o solo puder ser desconsiderado,\na partir da configuração mostrada na figura, a onda formada\natingirá o pino vertical depois de",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,5 s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,5 s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2,0 s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3,0 s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,0 s.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um garoto está brincando com uma corda apoiada no solo\nhorizontal e presa em um pino vertical. O garoto produz dois\npulsos transversais completos na corda, fazendo-a oscilar\nsobre o solo com frequência de 3 Hz, conforme a figura.\nSe o atrito entre a corda e o solo puder ser desconsiderado,\na partir da configuração mostrada na figura, a onda formada\natingirá o pino vertical depois de\n(A) 1,5 s.\n(B) 2,5 s.\n(C) 2,0 s.\n(D) 3,0 s.\n(E) 1,0 s.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            408.064,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 28,
+        "bbox": [
+          304,
+          477.0409,
+          564.8480999999999,
+          569.9374
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

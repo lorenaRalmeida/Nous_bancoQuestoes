@@ -1,0 +1,93 @@
+{
+  "title": "Questão 21 - FUVEST 2023 - 1ª fase",
+  "index": 21,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Em uma feira de produtos orgânicos é vendido arroz a granel.\nA gerente da feira decidiu oferecer descontos progressivos na\nvenda de arroz, de acordo com os seguintes critérios:\n• Quem comprar exatamente 1 kg de arroz paga\nR$ 5,00.\n• Quanto maior for a quantidade que o cliente\ncomprar, maior será o total a pagar.\n• Quanto maior for a quantidade que o cliente\ncomprar, menor será o valor por quilo.\nCada uma das alternativas listadas apresenta uma possível\nfórmula para o total que o cliente irá pagar, em reais, se\ncomprar uma quantidade x, em quilos, de arroz. A única\nalternativa que atende aos critérios estabelecidos é:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5x²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5√x",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "5/x",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5x",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5x − x²",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Em uma feira de produtos orgânicos é vendido arroz a granel.\nA gerente da feira decidiu oferecer descontos progressivos na\nvenda de arroz, de acordo com os seguintes critérios:\n• Quem comprar exatamente 1 kg de arroz paga\nR$ 5,00.\n• Quanto maior for a quantidade que o cliente\ncomprar, maior será o total a pagar.\n• Quanto maior for a quantidade que o cliente\ncomprar, menor será o valor por quilo.\nCada uma das alternativas listadas apresenta uma possível\nfórmula para o total que o cliente irá pagar, em reais, se\ncomprar uma quantidade 𝑥, em quilos, de arroz. A única\nalternativa que atende aos critérios estabelecidos é:\n(A) 5𝑥(cid:2870)\n(B) 5√𝑥\n(C)\n5(cid:3415)\n𝑥\n(D) 5𝑥\n(E) 5𝑥−𝑥(cid:2870)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            28,
+            397.3147,
+            297.5,
+            690.1147000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Função definida por faixas de desconto",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

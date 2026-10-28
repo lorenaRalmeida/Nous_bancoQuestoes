@@ -1,0 +1,111 @@
+{
+  "title": "Questão 66 - UNESP 2024 - 1ª fase",
+  "index": 66,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Pesquisadores avaliaram o perfil epidemiológico dos acidentes ofídicos ocorridos no estado de Minas Gerais entre\nos anos de 2007 e 2019. Dentre as espécies de serpentes\nenvolvidas, o gênero Bothrops apresentou maiores índices de acidentes ofídicos, seguido por Crotalus, Micrurus e\nLachesis. O gráfico apresenta informações sobre o número\nde registros de acidentes ofídicos por mês, na localidade estudada, considerando-se apenas esses quatro gêneros de\nserpentes.\n(“Padrões espaço-temporais dos acidentes ofídicos no estado de\nMinas Gerais, Brasil”. Journal of Environmental Analysis\nand Progress, 2022. Adaptado.)\nA análise do gráfico permite concluir que a frequência de\nacidentes ofídicos foi",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "menor no inverno, período em que as serpentes têm a\npercepção por meio de seus sensores térmicos reduzida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "maior no inverno, período em que as serpentes apresentam menor desidratação pela superfície corporal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "menor no inverno, período em que as serpentes disputam alimentos com mais predadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "maior no verão, período em que as serpentes permanecem ativas por mais tempo ao longo dos dias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "menor no verão, período em que as serpentes se escondem em locais sombreados e mais frescos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Pesquisadores avaliaram o perfil epidemiológico dos aci-\ndentes ofídicos ocorridos no estado de Minas Gerais entre\nos anos de 2007 e 2019. Dentre as espécies de serpentes\nenvolvidas, o gênero Bothrops apresentou maiores índi-\nces de acidentes ofídicos, seguido por Crotalus, Micrurus e\nLachesis. O gráfico apresenta informações sobre o número\nde registros de acidentes ofídicos por mês, na localidade es-\ntudada, considerando-se apenas esses quatro gêneros de\nserpentes.\n(“Padrões espaço-temporais dos acidentes ofídicos no estado de\nMinas Gerais, Brasil”. Journal of Environmental Analysis\nand Progress, 2022. Adaptado.)\nA análise do gráfico permite concluir que a frequência de\nacidentes ofídicos foi\n(A) menor no inverno, período em que as serpentes têm a\npercepção por meio de seus sensores térmicos reduzida.\n(B) maior no inverno, período em que as serpentes apresen-\ntam menor desidratação pela superfície corporal.\n(C) menor no inverno, período em que as serpentes dispu-\ntam alimentos com mais predadores.\n(D) maior no verão, período em que as serpentes permane-\ncem ativas por mais tempo ao longo dos dias.\n(E) menor no verão, período em que as serpentes se escon-\ndem em locais sombreados e mais frescos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 24,
+        "bbox": [
+          304,
+          158.03549999999996,
+          562.8454,
+          406.9631
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

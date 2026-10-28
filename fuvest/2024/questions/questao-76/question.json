@@ -1,0 +1,98 @@
+{
+  "title": "Questão 76 - FUVEST 2024 - 1ª fase",
+  "index": 76,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“O plano dos Estados Unidos de derrubarem a Revolução já\nestava esboçado na ocasião em que Mikoyan [vice-líder no\ngoverno soviético de Nikita Kruschev] visitou Havana, em\nfevereiro de 1960 (...). A CIA propunha a sabotagem das\nrefinarias de açúcar de Cuba, a principal fonte de riqueza da\nilha. (...)\nComo prometido, Fidel Castro reagiu contra os Estados\nUnidos (...). Ele anunciou a nacionalização de todas as\npropriedades norte-americanas importantes da ilha. (...)\nNuma frase sinistra (...), Castro salientou que a Cuba\nrevolucionária tinha agora o apoio militar de fora do\ncontinente. Cuba ‘aceitaria com gratidão’, disse ele, ‘a ajuda\ndos foguetes da União Soviética (...)’.\nNaquele mês, a lenha fora jogada na fogueira, quando Castro\nchegou a Nova York para falar na Assembleia Geral da ONU,\ninstalando-se no Harlem. (...)\nCastro ficou no [hotel] Theresa, cercado por um grupo de\nadmiradores (...) e numa tarde memorável foi visitado pelo\nlíder soviético. (...) Kruschev escreveu nas suas memórias que\n‘indo a um hotel negro num bairro negro, nós estávamos\nfazendo uma dupla demonstração contra as políticas\ndiscriminatórias dos Estados Unidos em relação aos negros,\nassim como em relação a Cuba’”.\nGOTT, Richard. Cuba: uma nova história. Rio de Janeiro: Zahar, 2006. p.210-213.\nAdaptado.\nAs tensões políticas abordadas no texto referem-se",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à indecisão de Fidel Castro sobre o alinhamento político de\nCuba na Guerra Fria e ao isolamento da ilha em relação a\noutros debates políticos da época.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "às garantias do governo revolucionário em Cuba aos\ncapitais norte-americanos e à salvaguarda dos direitos\ncivis da população negra na ilha.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à aliança entre Cuba e URSS selada na origem da guerrilha\nem Sierra Maestra e à consequente oposição dos EUA ao\nmovimento insurgente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ao gradual alinhamento entre Cuba e a URSS e ao aceno\ndos dois governantes de apoio ao movimento negro norte-\namericano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "à articulação entre os governos da URSS e dos EUA para\nenfraquecer Fidel Castro e os movimentos sociais no\nHarlem.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“O plano dos Estados Unidos de derrubarem a Revolução já\nestava esboçado na ocasião em que Mikoyan [vice-líder no\ngoverno soviético de Nikita Kruschev] visitou Havana, em\nfevereiro de 1960 (...). A CIA propunha a sabotagem das\nrefinarias de açúcar de Cuba, a principal fonte de riqueza da\nilha. (...)\nComo prometido, Fidel Castro reagiu contra os Estados\nUnidos (...). Ele anunciou a nacionalização de todas as\npropriedades norte-americanas importantes da ilha. (...)\nNuma frase sinistra (...), Castro salientou que a Cuba\nrevolucionária tinha agora o apoio militar de fora do\ncontinente. Cuba ‘aceitaria com gratidão’, disse ele, ‘a ajuda\ndos foguetes da União Soviética (...)’.\nNaquele mês, a lenha fora jogada na fogueira, quando Castro\nchegou a Nova York para falar na Assembleia Geral da ONU,\ninstalando-se no Harlem. (...)\nCastro ficou no [hotel] Theresa, cercado por um grupo de\nadmiradores (...) e numa tarde memorável foi visitado pelo\nlíder soviético. (...) Kruschev escreveu nas suas memórias que\n‘indo a um hotel negro num bairro negro, nós estávamos\nfazendo uma dupla demonstração contra as políticas\ndiscriminatórias dos Estados Unidos em relação aos negros,\nassim como em relação a Cuba’”.\nGOTT, Richard. Cuba: uma nova história. Rio de Janeiro: Zahar, 2006. p.210-213.\nAdaptado.\nAs tensões políticas abordadas no texto referem-se\n(A) à indecisão de Fidel Castro sobre o alinhamento político de\nCuba na Guerra Fria e ao isolamento da ilha em relação a\noutros debates políticos da época.\n(B) às garantias do governo revolucionário em Cuba aos\ncapitais norte-americanos e à salvaguarda dos direitos\ncivis da população negra na ilha.\n(C) à aliança entre Cuba e URSS selada na origem da guerrilha\nem Sierra Maestra e à consequente oposição dos EUA ao\nmovimento insurgente.\n(D) ao gradual alinhamento entre Cuba e a URSS e ao aceno\ndos dois governantes de apoio ao movimento negro norte-\namericano.\n(E) à articulação entre os governos da URSS e dos EUA para\nenfraquecer Fidel Castro e os movimentos sociais no\nHarlem.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            28,
+            459.41470000000004,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            252.7147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Revolução Cubana e Guerra Fria",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

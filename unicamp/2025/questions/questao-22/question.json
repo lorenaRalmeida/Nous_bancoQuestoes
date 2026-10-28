@@ -1,0 +1,82 @@
+{
+  "title": "Questão 22 - UNICAMP 2025 - 1ª fase",
+  "index": 22,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Sócrates: − [...] Pois segundo entendo, no limite do cognoscível\né que se avista, a custo, a ideia do Bem; e, uma vez avistada,\ncompreende-se que ela é para todos a causa de quanto há de\njusto e belo; que no mundo visível, foi ela que criou a luz, da\nqual é senhora; e que no mundo inteligível, é ela a senhora da\nverdade e da inteligência, e que é preciso vê-la para se ser sensato na vida particular e pública.\nGlauco: – Concordo também, até onde sou capaz de seguir a\ntua imagem.\n(Adaptado de PLATÃO. A República. Lisboa: Fundação Calouste Gulbenkian, 517b6-c5.)\nO diálogo anterior aparece em uma passagem da obra A República, de Platão, trecho que ficou conhecido como “o mito\nda caverna”. Sobre esse diálogo, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O diálogo trata da ideia do Bem, causa do justo, do belo, da\nverdade e da inteligência; o Bem é prontamente visível aos\nhabitantes da caverna.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Por ser causa da justiça e senhora da verdade e da inteligência, a ideia do Bem orienta o comportamento dos habitantes\nda caverna, na sua vida particular e pública.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Embora não seja facilmente cognoscível, a Ideia do Bem –\nenquanto causa do justo e do belo – não é prescindível para\na tomada de boas decisões na cidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "O diálogo entre Sócrates e Glauco trata da Ideia do Bem,\nque – por situar-se no limite do cognoscível – permanece a\ntodos incognoscível.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Sócrates: − [...] Pois segundo entendo, no limite do cognoscível\né que se avista, a custo, a ideia do Bem; e, uma vez avistada,\ncompreende-se que ela é para todos a causa de quanto há de\njusto e belo; que no mundo visível, foi ela que criou a luz, da\nqual é senhora; e que no mundo inteligível, é ela a senhora da\nverdade e da inteligência, e que é preciso vê-la para se ser sen-\nsato na vida particular e pública.\nGlauco: – Concordo também, até onde sou capaz de seguir a\ntua imagem.\n(Adaptado de PLATÃO. A República. Lisboa: Fundação Calouste Gulbenkian, 517b6-c5.)\nO diálogo anterior aparece em uma passagem da obra A Re-\npública, de Platão, trecho que ficou conhecido como “o mito\nda caverna”. Sobre esse diálogo, assinale a alternativa correta.\na) O diálogo trata da ideia do Bem, causa do justo, do belo, da\nverdade e da inteligência; o Bem é prontamente visível aos\nhabitantes da caverna.\nb) Por ser causa da justiça e senhora da verdade e da inteligên-\ncia, a ideia do Bem orienta o comportamento dos habitantes\nda caverna, na sua vida particular e pública.\nc) Embora não seja facilmente cognoscível, a Ideia do Bem –\nenquanto causa do justo e do belo – não é prescindível para\na tomada de boas decisões na cidade.\nd) O diálogo entre Sócrates e Glauco trata da Ideia do Bem,\nque – por situar-se no limite do cognoscível – permanece a\ntodos incognoscível.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            423.37669999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

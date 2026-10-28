@@ -1,0 +1,100 @@
+{
+  "title": "Questão 68 - UNESP 2023 - 1ª fase",
+  "index": 68,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Rio Claro, Araraquara e São José do Rio Preto, cidades\npaulistas às margens da rodovia Washington Luiz, possuem\ncâmpus da Unesp. O mesmo acontece em relação às cidades de Botucatu, Bauru e Araçatuba, localizadas às margens\nda rodovia Marechal Rondon.\nO mapa apresenta a localização dessas cidades no estado\nde São Paulo.\n(www.google.com.br. Adaptado.)\nConsidere que a rodovia Washington Luiz e a rodovia Marechal Rondon representam dois cromossomos não homólogos\nnas células da linhagem germinativa de um organismo diploide, que as cidades citadas ocupam loci gênicos ao longo\ndesses cromossomos e que a distância entre essas cidades\nseja proporcional à distância em unidades de recombinação\n(UR), ou centimorgans. Os cromossomos homólogos àqueles representandos por cada uma dessas rodovias seriam os\nacostamentos que correm ao lado de cada uma delas.\nNessa analogia,",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Botucatu, Bauru e Araçatuba são alelos de um mesmo\ngene, assim como Rio Claro, Araraquara e São José do\nRio Preto são alelos de outro gene.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a distância, em UR, entre Rio Claro e Botucatu é menor\nque a distância, em UR, entre Bauru e São José do Rio\nPreto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a probabilidade de permutação cromossômica entre os\nalelos de Botucatu e Araçatuba é maior que a probabilidade de permutação cromossômica entre os alelos de\nRio Claro e Araraquara.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Araraquara e Bauru são alelos de um mesmo gene, e\nesse gene está localizado entre aquele cujos alelos são\nBotucatu e Rio Claro e outro cujos alelos são Araçatuba\ne São José do Rio Preto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os genes Botucatu, Bauru e Araçatuba apresentam a\nmesma sequência de nucleotídeos, que é diferente daquela compartilhada pelos genes Rio Claro, Araraquara e\nSão José do Rio Preto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Rio Claro, Araraquara e São José do Rio Preto, cidades\npaulistas às margens da rodovia Washington Luiz, possuem\ncâmpus da Unesp. O mesmo acontece em relação às cida-\ndes de Botucatu, Bauru e Araçatuba, localizadas às margens\nda rodovia Marechal Rondon.\nO mapa apresenta a localização dessas cidades no estado\nde São Paulo.\n(www.google.com.br. Adaptado.)\nConsidere que a rodovia Washington Luiz e a rodovia Mare-\nchal Rondon representam dois cromossomos não homólogos\nnas células da linhagem germinativa de um organismo di-\nploide, que as cidades citadas ocupam loci gênicos ao longo\ndesses cromossomos e que a distância entre essas cidades\nseja proporcional à distância em unidades de recombinação\n(UR), ou centimorgans. Os cromossomos homólogos àque-\nles representandos por cada uma dessas rodovias seriam os\nacostamentos que correm ao lado de cada uma delas.\nNessa analogia,\n(A) Botucatu, Bauru e Araçatuba são alelos de um mesmo\ngene, assim como Rio Claro, Araraquara e São José do\nRio Preto são alelos de outro gene.\n(B) a distância, em UR, entre Rio Claro e Botucatu é menor\nque a distância, em UR, entre Bauru e São José do Rio\nPreto.\n(C) a probabilidade de permutação cromossômica entre os\nalelos de Botucatu e Araçatuba é maior que a probabi-\nlidade de permutação cromossômica entre os alelos de\nRio Claro e Araraquara.\n(D) Araraquara e Bauru são alelos de um mesmo gene, e\nesse gene está localizado entre aquele cujos alelos são\nBotucatu e Rio Claro e outro cujos alelos são Araçatuba\ne São José do Rio Preto.\n(E) os genes Botucatu, Bauru e Araçatuba apresentam a\nmesma sequência de nucleotídeos, que é diferente da-\nquela compartilhada pelos genes Rio Claro, Araraquara e\nSão José do Rio Preto.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            22,
+            568,
+            28.943899999999985
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

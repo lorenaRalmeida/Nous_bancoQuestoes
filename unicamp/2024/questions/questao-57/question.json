@@ -1,0 +1,89 @@
+{
+  "title": "Questão 57 - UNICAMP 2024 - 1ª fase",
+  "index": 57,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Laura é geóloga e está fazendo pesquisa numa caverna cuja entrada tem o formato de uma parábola invertida. Essa entrada,\nno nível do chão, tem 2m de largura e seu ponto mais alto está\na 2,5m do chão, conforme figura a seguir.\nPara realizar sua pesquisa, ela precisa entrar na caverna com um\nequipamento guardado em uma caixa de 1m de largura. Qual\né a altura máxima, em metros, que a caixa pode ter para passar\npela entrada da caverna?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "11/8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "13/8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "15/8.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "17/8.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Laura é geóloga e está fazendo pesquisa numa caverna cuja en-\ntrada tem o formato de uma parábola invertida. Essa entrada,\nno nível do chão, tem 2m de largura e seu ponto mais alto está\na 2,5m do chão, conforme figura a seguir.\nPara realizar sua pesquisa, ela precisa entrar na caverna com um\nequipamento guardado em uma caixa de 1m de largura. Qual\né a altura máxima, em metros, que a caixa pode ter para passar\npela entrada da caverna?\na) 11/8. c) 15/8.\nb) 13/8. d) 17/8.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            141.55499999999995,
+            291,
+            407.565
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

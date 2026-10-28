@@ -1,0 +1,101 @@
+{
+  "title": "Questão 22 - FUVEST 2025 - 1ª fase",
+  "index": 22,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Uma das possíveis tecnologias para a produção de telas\nsensíveis ao toque aproveita a reflexão interna total da luz.\nEsse tipo de reflexão ocorre quando um raio luminoso viaja do\ninterior de um meio 1, com índice de refração 𝑛 , em direção\n(cid:2869)\na um meio 2, com índice de refração 𝑛 , formando com a\n(cid:2870)\ndireção perpendicular à interface entre os meios um ângulo 𝜃\nmaior do que um certo valor limite 𝜃 , tal que sen 𝜃 = 𝑛 /𝑛 .\nL L (cid:2870) (cid:2869)\nQuando um objeto (como um dedo) se aproxima da interface\nentre os meios, a reflexão total não ocorre, o que é captado\npor sensores, revelando a posição do objeto. Suponha que se\ndeseje projetar uma tela sensível ao toque que, conforme\nmostra a figura, funcione com uma fonte luminosa 𝐹 fixa na\nborda. A tabela a seguir indica os índices de refração de alguns\nmateriais candidatos à utilização no meio 1.\nMaterial Índice de refração 𝑛\n(cid:2869)\nA 1,0002\nB 1,0003\nC 1,1503\nD 1,3204\nE 1,4889\nTratando o meio 2 sempre como tendo índice de refração\n𝑛 (cid:3404)1,0003, o material que permite o maior intervalo de\n(cid:2870)\nângulos de incidência que produzem reflexão total é:",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Material A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Material B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Material C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Material D.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Material E.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nUma das possíveis tecnologias para a produção de telas\nsensíveis ao toque aproveita a reflexão interna total da luz.\nEsse tipo de reflexão ocorre quando um raio luminoso viaja do\ninterior de um meio 1, com índice de refração 𝑛 , em direção\n(cid:2869)\na um meio 2, com índice de refração 𝑛 , formando com a\n(cid:2870)\ndireção perpendicular à interface entre os meios um ângulo 𝜃\nmaior do que um certo valor limite 𝜃 , tal que sen 𝜃 = 𝑛 /𝑛 .\nL L (cid:2870) (cid:2869)\nQuando um objeto (como um dedo) se aproxima da interface\nentre os meios, a reflexão total não ocorre, o que é captado\npor sensores, revelando a posição do objeto. Suponha que se\ndeseje projetar uma tela sensível ao toque que, conforme\nmostra a figura, funcione com uma fonte luminosa 𝐹 fixa na\nborda. A tabela a seguir indica os índices de refração de alguns\nmateriais candidatos à utilização no meio 1.\nMaterial Índice de refração 𝑛\n(cid:2869)\nA 1,0002\nB 1,0003\nC 1,1503\nD 1,3204\nE 1,4889\nTratando o meio 2 sempre como tendo índice de refração\n𝑛 (cid:3404)1,0003, o material que permite o maior intervalo de\n(cid:2870)\nângulos de incidência que produzem reflexão total é:\n(A) Material A.\n(B) Material B.\n(C) Material C.\n(D) Material D.\n(E) Material E.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Reflexão interna total e índice de refração",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

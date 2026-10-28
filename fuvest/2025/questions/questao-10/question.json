@@ -1,0 +1,100 @@
+{
+  "title": "Questão 10 - FUVEST 2025 - 1ª fase",
+  "index": 10,
+  "year": 2025,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 10 E 11\n“O que torna possível o surgimento de uma ‘cultura do\ncancelamento’ é um cenário em que os detentores de poder\neconômico e/ou político vislumbram a utilização de valores\nmorais como valores de mercado, seja no campo da\npublicidade, seja no campo da responsabilidade social da\nempresa.\nO conjunto de valores defendidos pelos movimentos sociais\nque lutam por reconhecimento e respeito à diversidade\ntornam-se atributos exigidos por diversas empresas como\nelemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do\n‘cancelamento’ procura atingir não a liberdade do sujeito que\nsupostamente ofende valores morais relevantes, que seria o\ninstrumento coercitivo tradicionalmente previsto no direito\npenal, ou mesmo buscar reparações indenizatórias,\ninstrumento de resposta a atos ilícitos no direito civil, mas sim\nimpedir, restringir ou infligir danos na trajetória econômica\ne/ou profissional do sujeito ‘cancelado’.\nNesse contexto, a ‘cultura do cancelamento’ representa um\nmecanismo de eliminação do mercado, em casos considerados\ngraves, ou, em outros casos, de mera diminuição relativa do\ncapital, de sujeitos ineficientes em fator competitivo específico,\ncomo inadequação de valores morais ostentados, por atos e/ou\npalavras, em determinados ambientes sociais.”\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do\ncancelamento: contribuições de um olhar sociológico. Extraprensa, v.15,\nn. esp., p.39, mai.2022 (Adaptado).\n\nSegundo o texto, a cultura do “cancelamento”",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "busca punir transgressões a valores morais caros aos\ncanceladores com danos à vida econômica do cancelado.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "aplica os instrumentos coercitivos do direito penal ao\ncontexto da internet para impedir o crescimento\nprofissional do cancelado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "é uma resposta natural à emergência de movimentos\nsociais que lutam por respeito à diversidade e por mais\npoder econômico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "elimina profissionais do mercado com o objetivo de\ndesmoralizar as empresas contratantes, causando-lhes\nprejuízos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "visa a aumentar a competição entre as empresas, que se\nvalem do cancelamento para eliminar valores morais que\nconsideram irresponsáveis.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nSegundo o texto, a cultura do “cancelamento”\n(A) busca punir transgressões a valores morais caros aos\ncanceladores com danos à vida econômica do cancelado.\n(B) aplica os instrumentos coercitivos do direito penal ao\ncontexto da internet para impedir o crescimento\nprofissional do cancelado.\n(C) é uma resposta natural à emergência de movimentos\nsociais que lutam por respeito à diversidade e por mais\npoder econômico.\n(D) elimina profissionais do mercado com o objetivo de\ndesmoralizar as empresas contratantes, causando-lhes\nprejuízos.\n(E) visa a aumentar a competição entre as empresas, que se\nvalem do cancelamento para eliminar valores morais que\nconsideram irresponsáveis.\n#####\n{",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 10 E 11\n“O que torna possível o surgimento de uma ‘cultura do\ncancelamento’ é um cenário em que os detentores de poder\neconômico e/ou político vislumbram a utilização de valores\nmorais como valores de mercado, seja no campo da\npublicidade, seja no campo da responsabilidade social da\nempresa.\nO conjunto de valores defendidos pelos movimentos sociais\nque lutam por reconhecimento e respeito à diversidade\ntornam-se atributos exigidos por diversas empresas como\nelemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do\n‘cancelamento’ procura atingir não a liberdade do sujeito que\nsupostamente ofende valores morais relevantes, que seria o\ninstrumento coercitivo tradicionalmente previsto no direito\npenal, ou mesmo buscar reparações indenizatórias,\ninstrumento de resposta a atos ilícitos no direito civil, mas sim\nimpedir, restringir ou infligir danos na trajetória econômica\ne/ou profissional do sujeito ‘cancelado’.\nNesse contexto, a ‘cultura do cancelamento’ representa um\nmecanismo de eliminação do mercado, em casos considerados\ngraves, ou, em outros casos, de mera diminuição relativa do\ncapital, de sujeitos ineficientes em fator competitivo específico,\ncomo inadequação de valores morais ostentados, por atos e/ou\npalavras, em determinados ambientes sociais.”\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do\ncancelamento: contribuições de um olhar sociológico. Extraprensa, v.15,\nn. esp., p.39, mai.2022 (Adaptado).\n{",
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            390.29470000000003
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            28,
+            390.29470000000003,
+            297.5,
+            614.0346999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "topic": "Cancelamento e mecanismos de sanção social",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

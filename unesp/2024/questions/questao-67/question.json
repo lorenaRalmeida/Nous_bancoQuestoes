@@ -1,0 +1,166 @@
+{
+  "title": "Questão 67 - UNESP 2024 - 1ª fase",
+  "index": 67,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Os alelos responsáveis pela determinação genética dos\nantígenos do sistema sanguíneo ABO estão localizados\nem um lócus do cromossomo 9. Já o gene para um tipo\nde daltonismo está localizado em uma região específica do\ncromossomo sexual X. A imagem a seguir ilustra os dois pares de cromossomos de uma mulher que estão relacionados\naos referidos genes.\nCaso essa mulher se case com um homem do grupo sanguíneo O e não daltônico, a probabilidade de gerarem",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um menino daltônico e do grupo sanguíneo O é 75%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uma criança daltônica é 25%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "uma menina do grupo sanguíneo A é 50%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uma criança do grupo sanguíneo O é zero.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "uma menina daltônica e do grupo sanguíneo A é 25%.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os alelos responsáveis pela determinação genética dos\nantígenos do sistema sanguíneo ABO estão localizados\nem um lócus do cromossomo 9. Já o gene para um tipo\nde daltonismo está localizado em uma região específica do\ncromossomo sexual X. A imagem a seguir ilustra os dois pa-\nres de cromossomos de uma mulher que estão relacionados\naos referidos genes.\nCaso essa mulher se case com um homem do grupo sanguí-\nneo O e não daltônico, a probabilidade de gerarem\n(A) um menino daltônico e do grupo sanguíneo O é 75%.\n(B) uma criança daltônica é 25%.\n(C) uma menina do grupo sanguíneo A é 50%.\n(D) uma criança do grupo sanguíneo O é zero.\n(E) uma menina daltônica e do grupo sanguíneo A é 25%.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 25,
+        "bbox": [
+          51.6288,
+          131.779,
+          133.292,
+          154.44029999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 25,
+        "bbox": [
+          190.6497,
+          131.779,
+          273.65,
+          154.44000000000005
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 25,
+        "bbox": [
+          196.2557,
+          146.45889999999997,
+          237.52089999999998,
+          281.59889999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 25,
+        "bbox": [
+          228.7909,
+          146.45889999999997,
+          268.7462,
+          281.59889999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 25,
+        "bbox": [
+          55.2947,
+          162.3985,
+          98.09989999999999,
+          281.59850000000006
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 25,
+        "bbox": [
+          89.2969,
+          162.3985,
+          128.197,
+          281.59850000000006
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

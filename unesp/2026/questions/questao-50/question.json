@@ -1,0 +1,111 @@
+{
+  "title": "Questão 50 - UNESP 2026 - 1ª fase",
+  "index": 50,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Examine o esquema da formação da cadeia de ilhas havaianas.\n(www.notasgeo.com.br. Adaptado.)\n1 Ma: milhões de anos.\nConsiderando o dinamismo da crosta terrestre, a formação\napresentada no esquema é motivada por",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "limites tectônicos transcorrentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "limites tectônicos convergentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pontos quentes intraplaca.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "forças modeladoras exógenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "limites tectônicos divergentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine o esquema da formação da cadeia de ilhas havaianas.\n(www.notasgeo.com.br. Adaptado.)\n1 Ma: milhões de anos.\nConsiderando o dinamismo da crosta terrestre, a formação\napresentada no esquema é motivada por\n(A) limites tectônicos transcorrentes.\n(B) limites tectônicos convergentes.\n(C) pontos quentes intraplaca.\n(D) forças modeladoras exógenas.\n(E) limites tectônicos divergentes.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 20,
+        "bbox": [
+          304,
+          61.26999999999998,
+          568,
+          200.76597000000004
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

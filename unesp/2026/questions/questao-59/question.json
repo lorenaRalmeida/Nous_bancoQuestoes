@@ -1,0 +1,98 @@
+{
+  "title": "Questão 59 - UNESP 2026 - 1ª fase",
+  "index": 59,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Texto 1\nO uso de inteligência artificial (IA) para tarefas simples\ne complexas está se tornando cada vez mais comum, mas\nvocê já se perguntou se dizer “por favor” e “obrigado” a uma\nIA afeta a resposta que ela dará? Estudos da Universidade\nCornell, nos Estados Unidos, revelaram que a resposta da\nIA variava dependendo se a pessoa era gentil ou não. “A linguagem educada na comunicação humana frequentemente\ngera maior conformidade e eficácia, enquanto a grosseria\npode causar aversão, o que afeta a qualidade da resposta”,\nafirmou o estudo.\n(https://oglobo.globo.com, 18.04.2025. Adaptado.)\nTexto 2\nDizer “obrigada” e “por favor” para o ChatGPT pode aumentar ainda mais os custos de seu funcionamento. A empresa criadora do chatbot, OpenAI, gasta até US$ 700 mil por\ndia para manter o ChatGPT ativo, e cada resposta consome\nmais do que só eletricidade: há água, dados e bilhões em\njogo. Destacam-se não apenas os custos financeiros, mas\ntambém o impacto ambiental dos modelos de inteligência\nartificial mais avançada do mundo. Modelos como o GPT-4\ndemandam uma grande infraestrutura computacional para\nentregar respostas em segundos.\n(Tamires Vitorio. https://exame.com, 19.04.2025. Adaptado.)\nOs textos 1 e 2 demonstram que as novas dinâmicas da relação entre indivíduo e tecnologia expressam a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "negação dos impactos materiais da inteligência artificial, reduzindo a experiência dos usuários a um diálogo\nético fictício.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "emancipação da racionalidade técnica frente às fragilidades ecológicas, direcionada à autonomia dos sistemas artificiais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "assimilação acrítica da inteligência artificial pelos usuários, obscurecendo as implicações éticas e existenciais\ndessa tecnologia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "neutralidade ética da linguagem digital, reduzida a mero\nmeio funcional entre usuários e algoritmos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ideia de evolução moral das interações humanas, projetada no digital sem impactos sobre a realidade concreta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\nO uso de inteligência artificial (IA) para tarefas simples\ne complexas está se tornando cada vez mais comum, mas\nvocê já se perguntou se dizer “por favor” e “obrigado” a uma\nIA afeta a resposta que ela dará? Estudos da Universidade\nCornell, nos Estados Unidos, revelaram que a resposta da\nIA variava dependendo se a pessoa era gentil ou não. “A lin-\nguagem educada na comunicação humana frequentemente\ngera maior conformidade e eficácia, enquanto a grosseria\npode causar aversão, o que afeta a qualidade da resposta”,\nafirmou o estudo.\n(https://oglobo.globo.com, 18.04.2025. Adaptado.)\nTexto 2\nDizer “obrigada” e “por favor” para o ChatGPT pode au-\nmentar ainda mais os custos de seu funcionamento. A em-\npresa criadora do chatbot, OpenAI, gasta até US$ 700 mil por\ndia para manter o ChatGPT ativo, e cada resposta consome\nmais do que só eletricidade: há água, dados e bilhões em\njogo. Destacam-se não apenas os custos financeiros, mas\ntambém o impacto ambiental dos modelos de inteligência\nartificial mais avançada do mundo. Modelos como o GPT-4\ndemandam uma grande infraestrutura computacional para\nentregar respostas em segundos.\n(Tamires Vitorio. https://exame.com, 19.04.2025. Adaptado.)\nOs textos 1 e 2 demonstram que as novas dinâmicas da rela-\nção entre indivíduo e tecnologia expressam a\n(A) negação dos impactos materiais da inteligência artifi-\ncial, reduzindo a experiência dos usuários a um diálogo\nético fictício.\n(B) emancipação da racionalidade técnica frente às fragili-\ndades ecológicas, direcionada à autonomia dos siste-\nmas artificiais.\n(C) assimilação acrítica da inteligência artificial pelos usuá-\nrios, obscurecendo as implicações éticas e existenciais\ndessa tecnologia.\n(D) neutralidade ética da linguagem digital, reduzida a mero\nmeio funcional entre usuários e algoritmos.\n(E) ideia de evolução moral das interações humanas, proje-\ntada no digital sem impactos sobre a realidade concreta.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

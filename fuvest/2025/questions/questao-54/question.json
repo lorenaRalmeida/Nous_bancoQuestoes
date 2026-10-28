@@ -1,0 +1,90 @@
+{
+  "title": "Questão 54 - FUVEST 2025 - 1ª fase",
+  "index": 54,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“A distribuição dos mosquitos, a frequência de suas picadas e\no tempo de eclosão de seus ovos são afetados pela\ntemperatura, pluviosidade e velocidade do vento, além de\noutros fatores, como deslocamento e densidade\npopulacionais. Por exemplo, com uma temperatura de 27 °C,\no período de incubação dos ovos é de dez dias; no entanto, a\n37 °C, esse período passa a ser de sete dias. Além disso, a\nintermitência das chuvas no final da estação do verão e os\nventos calmos acentuam a proliferação e a atuação do vetor.”\nMENDONÇA, Francisco de Assis. Aquecimento Global e Saúde: uma\nperspectiva geográfica – notas introdutórias. Terra Livre, 2003 (Adaptado).\nCom base no texto, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A elevação da temperatura e o aumento da pluviosidade,\nsomados ao desmatamento, à urbanização e à circulação\nde pessoas em várias áreas, potencializam a expansão da\ndengue.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "A dengue é um problema nacional e está relacionada ao\nfato de o Brasil ser um país tropical com áreas de florestas,\naspectos que, combinados à dispersão da população,\ncontribuem para minimizar a epidemia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A proliferação do mosquito Aedes aegypti ocorre em\náreas pouco povoadas nos centros urbanos, associada às\nbaixas temperaturas que intensificam a transmissão da\ndoença.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "No território brasileiro, as áreas com baixas temperaturas\nreduzem o tempo necessário para eclosão dos ovos,\naumentando a proliferação do mosquito Aedes aegypti e\na frequência de picadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A dengue é um problema de saúde pública em escala\nmundial e sua disseminação está associada à diminuição\nde temperatura, aumento da velocidade do vento e\nredução da precipitação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“A distribuição dos mosquitos, a frequência de suas picadas e\no tempo de eclosão de seus ovos são afetados pela\ntemperatura, pluviosidade e velocidade do vento, além de\noutros fatores, como deslocamento e densidade\npopulacionais. Por exemplo, com uma temperatura de 27 °C,\no período de incubação dos ovos é de dez dias; no entanto, a\n37 °C, esse período passa a ser de sete dias. Além disso, a\nintermitência das chuvas no final da estação do verão e os\nventos calmos acentuam a proliferação e a atuação do vetor.”\nMENDONÇA, Francisco de Assis. Aquecimento Global e Saúde: uma\nperspectiva geográfica – notas introdutórias. Terra Livre, 2003 (Adaptado).\nCom base no texto, assinale a alternativa correta.\n(A) A elevação da temperatura e o aumento da pluviosidade,\nsomados ao desmatamento, à urbanização e à circulação\nde pessoas em várias áreas, potencializam a expansão da\ndengue.\n(B) A dengue é um problema nacional e está relacionada ao\nfato de o Brasil ser um país tropical com áreas de florestas,\naspectos que, combinados à dispersão da população,\ncontribuem para minimizar a epidemia.\n(C) A proliferação do mosquito Aedes aegypti ocorre em\náreas pouco povoadas nos centros urbanos, associada às\nbaixas temperaturas que intensificam a transmissão da\ndoença.\n(D) No território brasileiro, as áreas com baixas temperaturas\nreduzem o tempo necessário para eclosão dos ovos,\naumentando a proliferação do mosquito Aedes aegypti e\na frequência de picadas.\n(E) A dengue é um problema de saúde pública em escala\nmundial e sua disseminação está associada à diminuição\nde temperatura, aumento da velocidade do vento e\nredução da precipitação.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            482.2146
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Geografia da saúde e condições de expansão da dengue",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

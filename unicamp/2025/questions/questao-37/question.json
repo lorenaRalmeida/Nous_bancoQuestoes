@@ -1,0 +1,104 @@
+{
+  "title": "Questão 37 - UNICAMP 2025 - 1ª fase",
+  "index": 37,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Texto comum às questões 37 e 38.\n*Legenda das falas do último quadrinho:\n“Quantos títulos eu tenho? / Quem foi meu avô?”\n(Quadrinhos de Wesley Samp. Disponível em https://westrips.com.br/author/wesleysamp/. Acesso em 04/05/2024.)\n\nNa tira de Wesley Samp, a relação entre o verbal e o não verbal\nse dá por meio de uma",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "troca nas posições de autoridade a partir de mudanças na\naltura de uma das personagens.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "alteração na dimensão física das personagens em função\ndaquilo que é enunciado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reafirmação das experiências sociais de poder em consonância com o tamanho daquele que fala.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "inversão de proporcionalidade entre o conteúdo do que é\nafirmado e a estatura de quem o afirma.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na tira de Wesley Samp, a relação entre o verbal e o não verbal\nse dá por meio de uma\na) troca nas posições de autoridade a partir de mudanças na\naltura de uma das personagens.\nb) alteração na dimensão física das personagens em função\ndaquilo que é enunciado.\nc) reafirmação das experiências sociais de poder em consonân-\ncia com o tamanho daquele que fala.\nd) inversão de proporcionalidade entre o conteúdo do que é\nafirmado e a estatura de quem o afirma.",
+    "sharedContext": "Texto comum às questões 37 e 38.\n*Legenda das falas do último quadrinho:\n“Quantos títulos eu tenho? / Quem foi meu avô?”\n(Quadrinhos de Wesley Samp. Disponível em https://westrips.com.br/author/wesleysamp/. Acesso em 04/05/2024.)",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            313.19489999999996,
+            568,
+            724.1414
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            724.1414,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            40,
+            291,
+            157.13390000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

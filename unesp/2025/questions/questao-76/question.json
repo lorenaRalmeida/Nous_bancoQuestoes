@@ -1,0 +1,101 @@
+{
+  "title": "Questão 76 - UNESP 2025 - 1ª fase",
+  "index": 76,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "A figura 1 mostra um secador de saladas por centrifugação,\nque funciona com base no acoplamento de duas engrenagens que, quando em rotação, fazem girar um cesto em que\nestão acomodadas as folhas de salada a serem secas.\nFigura 1 – Secador de saladas\n(https://inovartemdetudo.com.br)\nA figura 2 mostra o esquema do mecanismo desse utensílio. A\nengrenagem A gira quando uma pessoa aciona a manivela M.\nA engrenagem B, que é articulada com a engrenagem A, está\nligada à roda R que é fixa no cesto que acomoda as folhas de\nsalada. A engrenagem B e a roda R giram solidárias, presas a\num mesmo eixo de rotação.\nFigura 2\nSabendo que o raio da engrenagem A tem o triplo do comprimento do raio da engrenagem B, se a manivela M girar\ncom uma frequência de 2,4 Hz, o cesto girará com uma\nfrequência de",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7,2 Hz.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "3,6 Hz.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4,8 Hz.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "6,0 Hz.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "10,8 Hz.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura 1 mostra um secador de saladas por centrifugação,\nque funciona com base no acoplamento de duas engrena-\ngens que, quando em rotação, fazem girar um cesto em que\nestão acomodadas as folhas de salada a serem secas.\nFigura 1 – Secador de saladas\n(https://inovartemdetudo.com.br)\nA figura 2 mostra o esquema do mecanismo desse utensílio. A\nengrenagem A gira quando uma pessoa aciona a manivela M.\nA engrenagem B, que é articulada com a engrenagem A, está\nligada à roda R que é fixa no cesto que acomoda as folhas de\nsalada. A engrenagem B e a roda R giram solidárias, presas a\num mesmo eixo de rotação.\nFigura 2\nSabendo que o raio da engrenagem A tem o triplo do com-\nprimento do raio da engrenagem B, se a manivela M girar\ncom uma frequência de 2,4 Hz, o cesto girará com uma\nfrequência de\n(A) 7,2 Hz.\n(B) 3,6 Hz.\n(C) 4,8 Hz.\n(D) 6,0 Hz.\n(E) 10,8 Hz.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

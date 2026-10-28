@@ -1,0 +1,98 @@
+{
+  "title": "Questão 47 - UNESP 2025 - 1ª fase",
+  "index": 47,
+  "year": 2025,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Há algumas semanas, o CEO de uma empresa de\nencomenda de refeições por meio da internet disse que, daqui a 10 anos, ninguém mais precisará cozinhar. Ou seja,\ntodos passaremos a depender exclusivamente dos estabelecimentos que fornecem comida (tal qual fast-food) e também das entregas agendadas por aplicativo. Essa lógica da\nrapidez, da comida preparada por terceiros, contempla plenamente uma engrenagem econômica que tem como base\no consumo desenfreado e sem limite. Essas corporações\ncontrolam a publicidade, induzem o desejo e direcionam o\nconsumo.\n(https://expresso.estadao.com.br, 29.02.2024. Adaptado.)\nSob o critério econômico, o cenário apresentado no excerto\natende aos interesses",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do mercado financeiro, especulando capitais a partir\nda inflação provocada pelo aumento na demanda por\nalimentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da acumulação de capital, comprometendo a segurança\nalimentar ao reduzir o alimento a uma mercadoria.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "dos pequenos produtores rurais, fornecendo insumos em\nmaiores quantidades para a indústria de bens duráveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "do meio técnico-científico-informacional, substituindo objetos materiais por bens exclusivamente digitais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "das corporações multinacionais, resgatando as culturas\nlocais para oferecer produtos atrelados à base alimentar\nde cada mercado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Há algumas semanas, o CEO de uma empresa de\nencomenda de refeições por meio da internet disse que, da-\nqui a 10 anos, ninguém mais precisará cozinhar. Ou seja,\ntodos passaremos a depender exclusivamente dos estabe-\nlecimentos que fornecem comida (tal qual fast-food) e tam-\nbém das entregas agendadas por aplicativo. Essa lógica da\nrapidez, da comida preparada por terceiros, contempla ple-\nnamente uma engrenagem econômica que tem como base\no consumo desenfreado e sem limite. Essas corporações\ncontrolam a publicidade, induzem o desejo e direcionam o\nconsumo.\n(https://expresso.estadao.com.br, 29.02.2024. Adaptado.)\nSob o critério econômico, o cenário apresentado no excerto\natende aos interesses\n(A) do mercado financeiro, especulando capitais a partir\nda inflação provocada pelo aumento na demanda por\nalimentos.\n(B) da acumulação de capital, comprometendo a segurança\nalimentar ao reduzir o alimento a uma mercadoria.\n(C) dos pequenos produtores rurais, fornecendo insumos em\nmaiores quantidades para a indústria de bens duráveis.\n(D) do meio técnico-científico-informacional, substituindo ob-\njetos materiais por bens exclusivamente digitais.\n(E) das corporações multinacionais, resgatando as culturas\nlocais para oferecer produtos atrelados à base alimentar\nde cada mercado.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

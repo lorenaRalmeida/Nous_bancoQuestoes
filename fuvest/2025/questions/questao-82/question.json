@@ -1,0 +1,98 @@
+{
+  "title": "Questão 82 - FUVEST 2025 - 1ª fase",
+  "index": 82,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Mais de uma vez, o brasileiro Machado de Assis e o português\nEça de Queirós foram aproximados porque traçaram linhas de\ncompreensão das suas respectivas sociedades, em um mesmo\ntempo historicamente situado. Os protagonistas Rubião, de\nQuincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires\n(1900),",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "representam, respectivamente, a ascensão política da\nburguesia brasileira durante a segunda metade do século\nXIX e a decadência da aristocracia portuguesa no mesmo\nperíodo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "têm suas aspirações de grandeza e reconhecimento social\nfrustradas diretamente pelo envolvimento de ambos com\nas políticas partidárias nacionais, introduzindo reformas\nsubstanciais que alteram a situação periférica de cada país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "buscam reconhecimento social, continuamente frustrados\nnesse propósito por se inserirem em meios sociais que\nprivilegiam a grandeza moral e as virtudes humanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "comprometem-se com a superação dos atrasos civilizacionais\nde seus países. Apesar de terem destinos diferentes,\nconfrontam-se com o descompromisso de suas respectivas\nsociedades quanto às transformações sociais e econômicas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "são vítimas de suas ideias ambiciosas de modernização\nnacional, seja por Rubião promover ideias políticas\n“modernas”, seja por Gonçalo insistir na restauração da\ngrandeza de sua família. Ao final, atingem seus objetivos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nMais de uma vez, o brasileiro Machado de Assis e o português\nEça de Queirós foram aproximados porque traçaram linhas de\ncompreensão das suas respectivas sociedades, em um mesmo\ntempo historicamente situado. Os protagonistas Rubião, de\nQuincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires\n(1900),\n(A) representam, respectivamente, a ascensão política da\nburguesia brasileira durante a segunda metade do século\nXIX e a decadência da aristocracia portuguesa no mesmo\nperíodo.\n(B) têm suas aspirações de grandeza e reconhecimento social\nfrustradas diretamente pelo envolvimento de ambos com\nas políticas partidárias nacionais, introduzindo reformas\nsubstanciais que alteram a situação periférica de cada país.\n(C) buscam reconhecimento social, continuamente frustrados\nnesse propósito por se inserirem em meios sociais que\nprivilegiam a grandeza moral e as virtudes humanas.\n(D) comprometem-se com a superação dos atrasos civilizacionais\nde seus países. Apesar de terem destinos diferentes,\nconfrontam-se com o descompromisso de suas respectivas\nsociedades quanto às transformações sociais e econômicas.\n(E) são vítimas de suas ideias ambiciosas de modernização\nnacional, seja por Rubião promover ideias políticas\n“modernas”, seja por Gonçalo insistir na restauração da\ngrandeza de sua família. Ao final, atingem seus objetivos.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            297.5,
+            304.7347,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Realismo e personagens de Machado e Eça",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

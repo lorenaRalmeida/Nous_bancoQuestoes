@@ -1,0 +1,98 @@
+{
+  "title": "Questão 58 - UNESP 2023 - 1ª fase",
+  "index": 58,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Também conhecidas como Organizações Intergovernamentais, essas instituições são criadas por países (Estados soberanos), regidas por tratados, que buscam por\nmeio da cooperação a melhoria das condições econômicas,\npolíticas e sociais dos associados. Buscam soluções em\ncomum para resolver conflitos de interesses entre os Estados membros. A Organização das Nações Unidas (ONU),\nfundada em 1945, é a maior organização internacional do\nmundo. Tem como objetivos principais a manutenção da\npaz mundial, o respeito aos direitos humanos e o progresso\nsocial da humanidade.\n(Benigno Núñez Novo. “Organizações internacionais”.\nwww.direitonet.com.br, 08.02.2018. Adaptado.)\nA organização política intergovernamental mencionada no\nexcerto assemelha-se à concepção de Estado da abordagem contratualista de Hobbes, caracterizada pelo dever do\nsoberano de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "proteger a vida humana.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "garantir o direito natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "superar a desigualdade social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ampliar a liberdade individual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "assegurar a propriedade privada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Também conhecidas como Organizações Intergover-\nnamentais, essas instituições são criadas por países (Es-\ntados soberanos), regidas por tratados, que buscam por\nmeio da cooperação a melhoria das condições econômicas,\npolíticas e sociais dos associados. Buscam soluções em\ncomum para resolver conflitos de interesses entre os Esta-\ndos membros. A Organização das Nações Unidas (ONU),\nfundada em 1945, é a maior organização internacional do\nmundo. Tem como objetivos principais a manutenção da\npaz mundial, o respeito aos direitos humanos e o progresso\nsocial da humanidade.\n(Benigno Núñez Novo. “Organizações internacionais”.\nwww.direitonet.com.br, 08.02.2018. Adaptado.)\nA organização política intergovernamental mencionada no\nexcerto assemelha-se à concepção de Estado da aborda-\ngem contratualista de Hobbes, caracterizada pelo dever do\nsoberano de\n(A) proteger a vida humana.\n(B) garantir o direito natural.\n(C) superar a desigualdade social.\n(D) ampliar a liberdade individual.\n(E) assegurar a propriedade privada.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            334.4793,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

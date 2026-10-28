@@ -1,0 +1,249 @@
+{
+  "title": "Questão 89 - UNESP 2026 - 1ª fase",
+  "index": 89,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Nos períodos chuvosos do ano são frequentes os movimentos de massa. No esquema a seguir, que ilustra tal situação,\nforam omitidos os processos naturais indicados pelos números e , que completariam corretamente as respectivas\nlacunas.\n(www.nexojornal.com.br. Adaptado.)\nA declividade percentual de uma encosta, calculada pela razão entre sua componente vertical e sua componente horizontal, além do tipo de material de que é composta, são fatores\nque podem causar instabilidade e deslizamentos. A imagem a\nseguir mostra ângulos de repouso, que representam o ângulo\nmáximo que o talude de um material inconsolidado pode ter\nsem desabar, para dois tipos de materiais de uma encosta.\n(www.nexojornal.com.br. Adaptado.)\nConsidere os dados:\n35º 45º\nseno 0,57 0,71\ncosseno 0,82 0,71\ntangente 0,70 1\nSem que se saiba exatamente se uma encosta é composta\nde partículas menores ou maiores, a declividade percentual\nmáxima para que ela não seja suscetível ao movimento\nde massa e os processos naturais indicados pelos números\ne são, respectivamente:",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png",
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png",
+    "alternativa-E-02.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png",
+    "figura-vetorial-09.png",
+    "figura-vetorial-10.png",
+    "figura-vetorial-11.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Nos períodos chuvosos do ano são frequentes os movimen-\ntos de massa. No esquema a seguir, que ilustra tal situação,\nforam omitidos os processos naturais indicados pelos núme-\nros e , que completariam corretamente as respectivas\nlacunas.\n(www.nexojornal.com.br. Adaptado.)\nA declividade percentual de uma encosta, calculada pela ra-\nzão entre sua componente vertical e sua componente horizon-\ntal, além do tipo de material de que é composta, são fatores\nque podem causar instabilidade e deslizamentos. A imagem a\nseguir mostra ângulos de repouso, que representam o ângulo\nmáximo que o talude de um material inconsolidado pode ter\nsem desabar, para dois tipos de materiais de uma encosta.\n(www.nexojornal.com.br. Adaptado.)\nConsidere os dados:\n35º 45º\nseno 0,57 0,71\ncosseno 0,82 0,71\ntangente 0,70 1\nSem que se saiba exatamente se uma encosta é composta\nde partículas menores ou maiores, a declividade percentual\nmáxima para que ela não seja suscetível ao movimento\nde massa e os processos naturais indicados pelos números\ne são, respectivamente:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 38,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 38,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png",
+        "alternativa-E-02.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 38,
+        "bbox": [
+          42.5413,
+          77.17769999999996,
+          69.94130000000001,
+          104.57869999999991
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 38,
+        "bbox": [
+          66.9117,
+          77.17769999999996,
+          94.31269999999999,
+          104.57869999999991
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 38,
+        "bbox": [
+          53.358599999999996,
+          129.519,
+          214.69729999999998,
+          158.49299900000005
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 38,
+        "bbox": [
+          66.5312,
+          152.38199999999995,
+          276.2849,
+          182.7256
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 38,
+        "bbox": [
+          71.9576,
+          175.54700000000003,
+          289.2572,
+          204.52099900000007
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 38,
+        "bbox": [
+          114.8577,
+          238.60609999999997,
+          287.778988,
+          273.4099990000001
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 38,
+        "bbox": [
+          157.8329,
+          381.77099999999996,
+          291,
+          435.47909999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 38,
+        "bbox": [
+          30,
+          382.09299999999996,
+          161.55630000000002,
+          435.8009
+        ]
+      },
+      {
+        "file": "figura-vetorial-09.png",
+        "page": 38,
+        "bbox": [
+          83.417,
+          527.766,
+          241.14929999999998,
+          600.4594
+        ]
+      },
+      {
+        "file": "figura-vetorial-10.png",
+        "page": 38,
+        "bbox": [
+          30,
+          642.5506,
+          53.932300000000005,
+          669.9516
+        ]
+      },
+      {
+        "file": "figura-vetorial-11.png",
+        "page": 38,
+        "bbox": [
+          50.557599999999994,
+          642.5506,
+          77.95859999999999,
+          669.9516
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

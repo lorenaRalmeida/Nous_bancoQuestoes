@@ -1,0 +1,101 @@
+{
+  "title": "Questão 43 - FUVEST 2023 - 1ª fase",
+  "index": 43,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "I.\n“É indispensável romper com todas as diplomacias nocivas,\nmandar pro diabo qualquer forma de hipocrisia, suprimir as\npolíticas literárias e conquistar uma profunda sinceridade pra\ncom os outros e pra consigo mesmo. A convicção dessa\nurgência foi pra mim a melhor conquista até hoje do\nmovimento que chamam de ‘modernismo’. Foi ela que nos\npermitiu a intuição de que carecemos, sob pena de morte, de\nprocurar uma arte de expressão nacional”.\nHOLANDA, Sérgio Buarque de. O lado oposto e outros lados, 1926.\nII.\n“Trazendo de países distantes nossas formas de convívio,\nnossas instituições, nossas ideias, e timbrando em manter\ntudo isso em ambiente muitas vezes desfavorável e hostil,\nsomos ainda hoje uns desterrados em nossa terra”.\nHOLANDA, Sérgio Buarque de. Raízes do Brasil, 1936.\nOs dois excertos do historiador e crítico literário Sérgio\nBuarque de Holanda salientam que a cultura brasileira\nsomente completará a sua formação quando",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "souber reproduzir fielmente os modelos externos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "importar uma estética à altura da sua genialidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "abolir a necessidade de figurar o caráter nacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "deixar a posição de colônia e se tornar metrópole.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "firmar, na arte e na vida social, a sua autenticidade.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "I.\n“É indispensável romper com todas as diplomacias nocivas,\nmandar pro diabo qualquer forma de hipocrisia, suprimir as\npolíticas literárias e conquistar uma profunda sinceridade pra\ncom os outros e pra consigo mesmo. A convicção dessa\nurgência foi pra mim a melhor conquista até hoje do\nmovimento que chamam de ‘modernismo’. Foi ela que nos\npermitiu a intuição de que carecemos, sob pena de morte, de\nprocurar uma arte de expressão nacional”.\nHOLANDA, Sérgio Buarque de. O lado oposto e outros lados, 1926.\nII.\n“Trazendo de países distantes nossas formas de convívio,\nnossas instituições, nossas ideias, e timbrando em manter\ntudo isso em ambiente muitas vezes desfavorável e hostil,\nsomos ainda hoje uns desterrados em nossa terra”.\nHOLANDA, Sérgio Buarque de. Raízes do Brasil, 1936.\nOs dois excertos do historiador e crítico literário Sérgio\nBuarque de Holanda salientam que a cultura brasileira\nsomente completará a sua formação quando\n(A) souber reproduzir fielmente os modelos externos.\n(B) importar uma estética à altura da sua genialidade.\n(C) abolir a necessidade de figurar o caráter nacional.\n(D) deixar a posição de colônia e se tornar metrópole.\n(E) firmar, na arte e na vida social, a sua autenticidade.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            297.5,
+            495.0546,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            121.0747
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Sociologia",
+        "História"
+      ],
+      "topic": "Modernismo e autenticidade cultural",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

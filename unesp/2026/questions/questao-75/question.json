@@ -1,0 +1,113 @@
+{
+  "title": "Questão 75 - UNESP 2026 - 1ª fase",
+  "index": 75,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Os triglicerídeos são os principais constituintes dos óleos e\ngorduras. A fórmula apresentada representa genericamente\num triglicerídeo, em que R, R’ e R’’ são cadeias formadas por\nátomos de carbono e hidrogênio.\nAnalisando essa fórmula, nota-se a presença da função orgânica oxigenada . A digestão dos triglicerídeos\nno organismo humano consiste na hidrólise dessas substâncias, que produz e glicerol. Esse processo é\ncomplexo e ocorre pela ação de enzimas presentes no suco\n, conhecidas como . Para que tal\nação seja eficiente, ocorre primeiramente uma emulsificação\ndos óleos e gorduras, fracionando-os em porções menores\n(micelas). Essa emulsificação é possibilitada pela ação detergente de sais presentes na bile.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cetona – ácidos graxos – entérico – amilases.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "éster – ácidos graxos – pancreático – proteases.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "éter – ácidos graxos – pancreático – lipases.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "éter – ácidos carboxílicos – gástrico– proteases.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "éster – ácidos carboxílicos – pancreático – lipases.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os triglicerídeos são os principais constituintes dos óleos e\ngorduras. A fórmula apresentada representa genericamente\num triglicerídeo, em que R, R’ e R’’ são cadeias formadas por\nátomos de carbono e hidrogênio.\nAnalisando essa fórmula, nota-se a presença da função or-\ngânica oxigenada . A digestão dos triglicerídeos\nno organismo humano consiste na hidrólise dessas substân-\ncias, que produz e glicerol. Esse processo é\ncomplexo e ocorre pela ação de enzimas presentes no suco\n, conhecidas como . Para que tal\nação seja eficiente, ocorre primeiramente uma emulsificação\ndos óleos e gorduras, fracionando-os em porções menores\n(micelas). Essa emulsificação é possibilitada pela ação deter-\ngente de sais presentes na bile.\nAs lacunas do texto são preenchidas, respectivamente, por:\n(A) cetona – ácidos graxos – entérico – amilases.\n(B) éster – ácidos graxos – pancreático – proteases.\n(C) éter – ácidos graxos – pancreático – lipases.\n(D) éter – ácidos carboxílicos – gástrico– proteases.\n(E) éster – ácidos carboxílicos – pancreático – lipases.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 31,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 31,
+        "bbox": [
+          116.7796,
+          96.5012999999999,
+          208.4399,
+          214.9529
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

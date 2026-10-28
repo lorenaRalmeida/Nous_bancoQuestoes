@@ -1,0 +1,113 @@
+{
+  "title": "Questão 80 - UNESP 2025 - 1ª fase",
+  "index": 80,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "As figuras mostram duas imagens, da mesma lapiseira, formadas por duas lentes esféricas de vidro: uma convergente\n(figura 1) e outra divergente (figura 2).\nFigura 1 Figura 2\nSabendo que os aumentos lineares transversais das imagens\n1 e 2 são, respectivamente, A = 2 e A = 0,8, o valor de L,\n1 2\nindicado na figura 2, é",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,56 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,64 cm.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "0,36 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,48 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,75 cm.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As figuras mostram duas imagens, da mesma lapiseira, for-\nmadas por duas lentes esféricas de vidro: uma convergente\n(figura 1) e outra divergente (figura 2).\nFigura 1 Figura 2\nSabendo que os aumentos lineares transversais das imagens\n1 e 2 são, respectivamente, A = 2 e A = 0,8, o valor de L,\n1 2\nindicado na figura 2, é\n(A) 0,56 cm.\n(B) 0,64 cm.\n(C) 0,36 cm.\n(D) 0,48 cm.\n(E) 0,75 cm.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            408.064
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 28,
+        "bbox": [
+          346.3019,
+          208.6395,
+          406.9274,
+          251.73979999999995
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 28,
+        "bbox": [
+          468.0649,
+          208.6395,
+          514.4779,
+          250.46479999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

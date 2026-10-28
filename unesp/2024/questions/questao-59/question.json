@@ -1,0 +1,98 @@
+{
+  "title": "Questão 59 - UNESP 2024 - 1ª fase",
+  "index": 59,
+  "year": 2024,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "A uberização nomeia um novo tipo de gestão e controle da força de trabalho, também compreendida como uma\ntendência passível de se generalizar no âmbito das relações\nde trabalho. […] Resultando das formas contemporâneas de\neliminação de direitos, transferência de riscos e custos para\nos trabalhadores e novos arranjos produtivos, ela em alguma\nmedida sintetiza processos em curso há décadas, ao mesmo\ntempo em que se apresenta como tendência para o futuro\ndo trabalho. O tema ganha visibilidade com a formação de\nenormes contingentes de trabalhadores controlados por empresas que operam por meio de plataformas digitais.\n(Ludmila Costhek Abílio et al. “Uberização e plataformização do trabalho no\nBrasil: conceitos, processos e formas”. Sociologias, 2021.)\nO excerto aborda as novas relações trabalhistas mediadas\npor plataformas digitais. Com tais relações, nos próximos\nanos o futuro do trabalho será definido pela",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "autogestão do trabalhador na relação com grandes\nempresas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "queda na geração de vagas no setor informal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "persistência de mecanismos de exploração.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "extinção de postos de serviço no setor primário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "flexibilidade na jornada de trabalho do profissional não\nautônomo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A uberização nomeia um novo tipo de gestão e contro-\nle da força de trabalho, também compreendida como uma\ntendência passível de se generalizar no âmbito das relações\nde trabalho. […] Resultando das formas contemporâneas de\neliminação de direitos, transferência de riscos e custos para\nos trabalhadores e novos arranjos produtivos, ela em alguma\nmedida sintetiza processos em curso há décadas, ao mesmo\ntempo em que se apresenta como tendência para o futuro\ndo trabalho. O tema ganha visibilidade com a formação de\nenormes contingentes de trabalhadores controlados por em-\npresas que operam por meio de plataformas digitais.\n(Ludmila Costhek Abílio et al. “Uberização e plataformização do trabalho no\nBrasil: conceitos, processos e formas”. Sociologias, 2021.)\nO excerto aborda as novas relações trabalhistas mediadas\npor plataformas digitais. Com tais relações, nos próximos\nanos o futuro do trabalho será definido pela\n(A) autogestão do trabalhador na relação com grandes\nempresas.\n(B) queda na geração de vagas no setor informal.\n(C) persistência de mecanismos de exploração.\n(D) extinção de postos de serviço no setor primário.\n(E) flexibilidade na jornada de trabalho do profissional não\nautônomo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            415.062,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

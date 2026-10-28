@@ -1,0 +1,82 @@
+{
+  "title": "Questão 25 - UNICAMP 2023 - 1ª fase",
+  "index": 25,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Alguns municípios do Sul do Brasil receberam, nos últimos 10\nanos, importantes fluxos de imigrantes e refugiados, sobretudo de haitianos, congoleses, senegaleses e venezuelanos. A\npresença desses imigrantes e refugiados em regiões de elevada especialização produtiva tem sido motivada pela busca de\ntrabalho; todavia, crescem registros de denúncias das precárias\ncondições de vida e situações de xenofobia enfrentadas por essas populações nos municípios onde se instalam.\nAssinale a alternativa que indique: (1) a região de especialização\nprodutiva que mais tem absorvido essa força de trabalho imigrante; e (2) a atividade econômica envolvida:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(1) Oeste catarinense; (2) indústria frigorífica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "(1) Vale dos Sinos (RS); (2) indústria de laticínios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(1) Oeste paranaense; (2) indústria de confecção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(1) Vale do Itajaí (SC); (2) indústria carbonífera.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Alguns municípios do Sul do Brasil receberam, nos últimos 10\nanos, importantes fluxos de imigrantes e refugiados, sobretu-\ndo de haitianos, congoleses, senegaleses e venezuelanos. A\npresença desses imigrantes e refugiados em regiões de eleva-\nda especialização produtiva tem sido motivada pela busca de\ntrabalho; todavia, crescem registros de denúncias das precárias\ncondições de vida e situações de xenofobia enfrentadas por es-\nsas populações nos municípios onde se instalam.\nAssinale a alternativa que indique: (1) a região de especialização\nprodutiva que mais tem absorvido essa força de trabalho imi-\ngrante; e (2) a atividade econômica envolvida:\na) (1) Oeste catarinense; (2) indústria frigorífica.\nb) (1) Vale dos Sinos (RS); (2) indústria de laticínios.\nc) (1) Oeste paranaense; (2) indústria de confecção.\nd) (1) Vale do Itajaí (SC); (2) indústria carbonífera.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            337.61109999999996,
+            291,
+            627.1465
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Questão 30 - UNICAMP 2024 - 1ª fase",
+  "index": 30,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "As projeções de população são importantes para o cálculo dos\nindicadores sociodemográficos que fornecem subsídios para a\nformulação de políticas públicas. Segundo as Nações Unidas,\no mundo atingiu a cifra de 8 bilhões de habitantes em 2022,\ndevendo atingir 9,7 bilhões em 2050. Ainda que a população\nmundial continue a aumentar, a dinâmica demográfica varia\nentre as regiões do mundo. Nesse contexto, Estados Unidos da\nAmérica (EUA) e Nigéria passam por mudanças demográficas\ncom reflexos socioeconômicos significativos.\n(United Nations, Department of Economic and Social Affairs, Population Division (2022).\nProbabilistic Population Projections based on the World Population Prospects 2022. Disponível em: http://population.un.org/wpp/. Acesso em 25/08/2023.)\nTendo em vista seus conhecimentos sobre dinâmica populacional e considerando o gráfico, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Nigéria e EUA têm trajetórias demográficas distintas, ainda\nque ambos apresentem taxas de natalidade semelhantes.\nIsso afetará seus sistemas de saúde.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os EUA, ao contrário da Nigéria, apresentam, pela primeira\nvez, crescimento vegetativo negativo. Isso afetará a oferta\nde mão-de-obra no território norte-americano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A Nigéria, ao contrário dos EUA, manterá elevada a taxa de\nfecundidade. Haverá maior pressão sobre as políticas públicas de educação e de saúde.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Nigéria e EUA enfrentam expressiva redução da população\nem idade adulta ativa. Ambos os países terão problemas\ncom a seguridade social.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As projeções de população são importantes para o cálculo dos\nindicadores sociodemográficos que fornecem subsídios para a\nformulação de políticas públicas. Segundo as Nações Unidas,\no mundo atingiu a cifra de 8 bilhões de habitantes em 2022,\ndevendo atingir 9,7 bilhões em 2050. Ainda que a população\nmundial continue a aumentar, a dinâmica demográfica varia\nentre as regiões do mundo. Nesse contexto, Estados Unidos da\nAmérica (EUA) e Nigéria passam por mudanças demográficas\ncom reflexos socioeconômicos significativos.\n(United Nations, Department of Economic and Social Affairs, Population Division (2022).\nProbabilistic Population Projections based on the World Population Prospects 2022. Dis-\nponível em: http://population.un.org/wpp/. Acesso em 25/08/2023.)\nTendo em vista seus conhecimentos sobre dinâmica populacio-\nnal e considerando o gráfico, assinale a alternativa correta.\na) Nigéria e EUA têm trajetórias demográficas distintas, ainda\nque ambos apresentem taxas de natalidade semelhantes.\nIsso afetará seus sistemas de saúde.\nb) Os EUA, ao contrário da Nigéria, apresentam, pela primeira\nvez, crescimento vegetativo negativo. Isso afetará a oferta\nde mão-de-obra no território norte-americano.\nc) A Nigéria, ao contrário dos EUA, manterá elevada a taxa de\nfecundidade. Haverá maior pressão sobre as políticas públi-\ncas de educação e de saúde.\nd) Nigéria e EUA enfrentam expressiva redução da população\nem idade adulta ativa. Ambos os países terão problemas\ncom a seguridade social.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            667.0964,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            40,
+            568,
+            648.3401
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

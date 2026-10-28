@@ -1,0 +1,96 @@
+{
+  "title": "Questão 28 - UNICAMP 2025 - 1ª fase",
+  "index": 28,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "(O 3 de maio de 1808 em Madri, por Francisco José de Goya y Lucientes, 1814, Museu\ndo Prado.)\nEssa pintura histórica de Francisco Goya (1746-1828) foi feita\nno início do século XIX, na Espanha. Sobre a obra e seu contexto, é correto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o pintor destaca o protagonismo francês ao mostrar, na\ncena de fuzilamento decorrente da ocupação napoleônica\nna Península Ibérica, as armas dos oficiais do exército.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o quadro enfoca, ao optar por representar em posição de\nmártires as vítimas do fuzilamento, a simpatia da Igreja Católica espanhola para com a ocupação napoleônica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a lanterna, que integra a pintura no quadro, ilumina o massacre contra os revoltosos, pelo pelotão racionalmente organizado de soldados, durante a revolução francesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a figura popular do espanhol de camisa branca é associada à\nrepresentação de Cristo, com os braços e mãos abertos, na\ncruz; essa figura sublinha o terror da ocupação napoleônica.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "(O 3 de maio de 1808 em Madri, por Francisco José de Goya y Lucientes, 1814, Museu\ndo Prado.)\nEssa pintura histórica de Francisco Goya (1746-1828) foi feita\nno início do século XIX, na Espanha. Sobre a obra e seu contex-\nto, é correto afirmar que\na) o pintor destaca o protagonismo francês ao mostrar, na\ncena de fuzilamento decorrente da ocupação napoleônica\nna Península Ibérica, as armas dos oficiais do exército.\nb) o quadro enfoca, ao optar por representar em posição de\nmártires as vítimas do fuzilamento, a simpatia da Igreja Ca-\ntólica espanhola para com a ocupação napoleônica.\nc) a lanterna, que integra a pintura no quadro, ilumina o mas-\nsacre contra os revoltosos, pelo pelotão racionalmente orga-\nnizado de soldados, durante a revolução francesa.\nd) a figura popular do espanhol de camisa branca é associada à\nrepresentação de Cristo, com os braços e mãos abertos, na\ncruz; essa figura sublinha o terror da ocupação napoleônica.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            338.70079999999996,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.15769999999998
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

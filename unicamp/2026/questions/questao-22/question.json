@@ -1,0 +1,96 @@
+{
+  "title": "Questão 22 - UNICAMP 2026 - 1ª fase",
+  "index": 22,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Leia os textos 1 e 2.\nTexto 1\nA imagem acima reproduz uma postagem feita pelo ator Chay\nSuede sobre uma feijoada que havia consumido em um restaurante de luxo. As reações na rede social do ator incluíram\ncomentários como \"se isso é feijoada de rico eu prefiro morrer\npobre”.\n(Adaptado de JIMENEZ, K. Saiba quanto Chay Suede pagou pela polêmica 'feijoada de\nrico'!. Portal R7, 17 de abr de 2022. Acesso em 01/09/25.)\nTexto 2\nA forma como as pessoas vivenciam as diferentes classes deve\ngerar as probabilidades dessas pessoas terem certos gostos,\ncertos estilos de vida. No caso das classes altas, essa lógica é a\ndo desinteresse ou da não-necessidade. Uma vez afastada de\ntoda a urgência da vida pela sobrevivência e pela reprodução,\nos sujeitos das classes altas possuem uma relação de distanciamento com o mundo. Esse distanciamento transforma o senso\nde distinção em senso estético nessa classe. O senso estético\né a noção de que o belo se dá pela forma, e não pela função.\n(Adaptado de BERTONCELO, E.; NICOLAU NETTO, M. Captando a distinção empiricamente. Contemporânea, v. 13, p. 363-364, 2024.)\nA partir dos textos, é correto afirmar que a polêmica associada\nà postagem",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "demonstra que a formação do gosto está mais relacionado\na juízos pessoais, pois as práticas alimentares são guiadas\npor necessidades de sobrevivência e não produzem distinção social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "representa uma aproximação social das classes altas em relação às populares, pois reduz a distância simbólica entre o\nuniverso do luxo e o popular, limitando o alcance da distinção social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "demonstra que o gosto está mais relacionado a experiências\nde classe e menos a juízos pessoais, pois simboliza o gosto\ndas classes altas pelo belo e um senso estético formado pela\nnecessidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "representa uma prática de distinção social das classes altas\nem relação às populares, pois simboliza um senso estético\nque valoriza a forma e aquilo que não é necessário, em vez\nda função.\n).2202/40/41\nme\nadacilbup\n,margatsnI\non\nlfirep\nues\nme\nedeuS\nyahC\ned\nmegatsoP(",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia os textos 1 e 2.\nTexto 1\nA imagem acima reproduz uma postagem feita pelo ator Chay\nSuede sobre uma feijoada que havia consumido em um res-\ntaurante de luxo. As reações na rede social do ator incluíram\ncomentários como \"se isso é feijoada de rico eu prefiro morrer\npobre”.\n(Adaptado de JIMENEZ, K. Saiba quanto Chay Suede pagou pela polêmica 'feijoada de\nrico'!. Portal R7, 17 de abr de 2022. Acesso em 01/09/25.)\nTexto 2\nA forma como as pessoas vivenciam as diferentes classes deve\ngerar as probabilidades dessas pessoas terem certos gostos,\ncertos estilos de vida. No caso das classes altas, essa lógica é a\ndo desinteresse ou da não-necessidade. Uma vez afastada de\ntoda a urgência da vida pela sobrevivência e pela reprodução,\nos sujeitos das classes altas possuem uma relação de distancia-\nmento com o mundo. Esse distanciamento transforma o senso\nde distinção em senso estético nessa classe. O senso estético\né a noção de que o belo se dá pela forma, e não pela função.\n(Adaptado de BERTONCELO, E.; NICOLAU NETTO, M. Captando a distinção empiricamen-\nte. Contemporânea, v. 13, p. 363-364, 2024.)\nA partir dos textos, é correto afirmar que a polêmica associada\nà postagem\na) demonstra que a formação do gosto está mais relacionado\na juízos pessoais, pois as práticas alimentares são guiadas\npor necessidades de sobrevivência e não produzem distin-\nção social.\nb) representa uma aproximação social das classes altas em re-\nlação às populares, pois reduz a distância simbólica entre o\nuniverso do luxo e o popular, limitando o alcance da distin-\nção social.\nc) demonstra que o gosto está mais relacionado a experiências\nde classe e menos a juízos pessoais, pois simboliza o gosto\ndas classes altas pelo belo e um senso estético formado pela\nnecessidade.\nd) representa uma prática de distinção social das classes altas\nem relação às populares, pois simboliza um senso estético\nque valoriza a forma e aquilo que não é necessário, em vez\nda função.\n).2202/40/41\nme\nadacilbup\n,margatsnI\non\nlfirep\nues\nme\nedeuS\nyahC\ned\nmegatsoP(",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

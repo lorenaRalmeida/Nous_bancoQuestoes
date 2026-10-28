@@ -1,0 +1,121 @@
+{
+  "title": "Questão 11 - FUVEST 2023 - 1ª fase",
+  "index": 11,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Os cães podem ser treinados para identificar certas\nsubstâncias, dentre elas, a cocaína. Contudo, no treinamento,\nos cães não precisam ser expostos à cocaína para aprenderem\na reconhecer o seu odor. O treinamento pode ser realizado\ncom o benzoato de metila, um éster de odor pungente,\nproduto volátil da degradação da cocaína.\nConsiderando o exposto, qual das reações representadas\npoderia gerar o mesmo éster capaz de atrair um cão treinado\npara a identificação de cocaína?",
+  "files": [
+    "imagem-01.png",
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Os cães podem ser treinados para identificar certas\nsubstâncias, dentre elas, a cocaína. Contudo, no treinamento,\nos cães não precisam ser expostos à cocaína para aprenderem\na reconhecer o seu odor. O treinamento pode ser realizado\ncom o benzoato de metila, um éster de odor pungente,\nproduto volátil da degradação da cocaína.\nConsiderando o exposto, qual das reações representadas\npoderia gerar o mesmo éster capaz de atrair um cão treinado\npara a identificação de cocaína?\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            28,
+            266.8746,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png"
+      ]
+    },
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Esterificação e identificação da cocaína",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

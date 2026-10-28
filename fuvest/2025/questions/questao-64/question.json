@@ -1,0 +1,88 @@
+{
+  "title": "Questão 64 - FUVEST 2025 - 1ª fase",
+  "index": 64,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Alguns motores de foguetes espaciais usam metano como\ncombustível e oxigênio como comburente. Ambos os\ncompostos são armazenados em estado líquido no próprio\nfoguete, o que permite o seu armazenamento em maior\nquantidade do que se estivessem no estado gasoso. Sabe-se\nque o foguete armazena um volume de oxigênio líquido\n1,5 vez maior do que de metano líquido e que ambos são\ncompletamente consumidos na combustão, conforme a\nequação CH\n4\n(l) + 2 O\n2\n(l) → CO\n2\n(g) + 2 H\n2\nO(g).\nNessas condições, é correto afirmar que a razão entre a\ndensidade do metano líquido e a densidade do oxigênio\nlíquido é igual a\n\nNote e adote:\nMassa molar (g/mol): H = 1; C = 12; O = 16",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,186.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,375.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "0,75.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1,5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nAlguns motores de foguetes espaciais usam metano como\ncombustível e oxigênio como comburente. Ambos os\ncompostos são armazenados em estado líquido no próprio\nfoguete, o que permite o seu armazenamento em maior\nquantidade do que se estivessem no estado gasoso. Sabe-se\nque o foguete armazena um volume de oxigênio líquido\n1,5 vez maior do que de metano líquido e que ambos são\ncompletamente consumidos na combustão, conforme a\nequação CH\n4\n(l) + 2 O\n2\n(l) → CO\n2\n(g) + 2 H\n2\nO(g).\nNessas condições, é correto afirmar que a razão entre a\ndensidade do metano líquido e a densidade do oxigênio\nlíquido é igual a\n(A) 0,186.\n(B) 0,375.\n(C) 0,75.\n(D) 1,5.\n(E) 3.\nNote e adote:\nMassa molar (g/mol): H = 1; C = 12; O = 16\n#####",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            345.0847
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Estequiometria e densidade de combustíveis líquidos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

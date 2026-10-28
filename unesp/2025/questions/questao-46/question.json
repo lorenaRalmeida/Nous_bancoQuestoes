@@ -1,0 +1,100 @@
+{
+  "title": "Questão 46 - UNESP 2025 - 1ª fase",
+  "index": 46,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Filtros com nanotecnologia facilitam acesso\nde comunidades da Amazônia à água potável\nUma parceria entre organizações privadas e instituições\ndo terceiro setor tem distribuído filtros coletivos para tratamento de água barrenta em comunidades ribeirinhas dos\nmunicípios amazônicos de Santarém, Óbidos e Oriximiná,\nno oeste do Pará. Uma vantagem do sistema é a incorporação de uma micromembrana produzida com nanotecnologia, isto é, em escala atômica, e que consegue reter\nmais impurezas. Após o processo de filtragem, a água sai\nem condição potável, reduzindo os riscos de veiculação de\ndoenças.\n(www.paraterraboa.com. Adaptado.)\nDo ponto de vista técnico, o uso desses filtros para o tratamento da água na Amazônia é decorrente",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da deficiente oferta de saneamento básico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "do subsídio destinado à manutenção da Zona Franca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da baixa demanda por recursos hídricos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "do compartilhamento de recursos entre os países vizinhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da elevada pluviosidade da faixa temperada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Filtros com nanotecnologia facilitam acesso\nde comunidades da Amazônia à água potável\nUma parceria entre organizações privadas e instituições\ndo terceiro setor tem distribuído filtros coletivos para trata-\nmento de água barrenta em comunidades ribeirinhas dos\nmunicípios amazônicos de Santarém, Óbidos e Oriximiná,\nno oeste do Pará. Uma vantagem do sistema é a incorpo-\nração de uma micromembrana produzida com nanotec-\nnologia, isto é, em escala atômica, e que consegue reter\nmais impurezas. Após o processo de filtragem, a água sai\nem condição potável, reduzindo os riscos de veiculação de\ndoenças.\n(www.paraterraboa.com. Adaptado.)\nDo ponto de vista técnico, o uso desses filtros para o trata-\nmento da água na Amazônia é decorrente\n(A) da deficiente oferta de saneamento básico.\n(B) do subsídio destinado à manutenção da Zona Franca.\n(C) da baixa demanda por recursos hídricos.\n(D) do compartilhamento de recursos entre os países vizinhos.\n(E) da elevada pluviosidade da faixa temperada.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

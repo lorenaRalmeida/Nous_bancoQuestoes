@@ -1,0 +1,98 @@
+{
+  "title": "Questão 31 - FUVEST 2023 - 1ª fase",
+  "index": 31,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "O filósofo David Hume apresenta a seguinte relação entre\nsensações (ou, em suas palavras, sentimentos) e ideias:\n“Em suma, todos os materiais do pensamento são derivados\ndo nosso sentimento externo e interno. Apenas a mistura e\ncomposição destes materiais compete à mente e à vontade.\nOu, para me expressar em linguagem filosófica, todas as\nnossas ideias ou percepções mais fracas são cópias das nossas\nimpressões, ou percepções mais vívidas”.\nHUME, David. Investigação sobre o entendimento humano. Lisboa: Imprensa\nNacional / Casa da Moeda, 2002.\nÉ possível tornar mais clara a concepção de Hume vinculando-a\na fatos cotidianos. Qual situação confirma a relação proposta\nno excerto?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Algumas pessoas não sabem de onde vêm os seus sonhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Uma pessoa com boa memória pode se lembrar mais\nfacilmente das suas ideias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Uma pessoa que nunca experimentou guaraná não pode\nter ideia do seu sabor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "É possível manter a ideia de um cavalo alado por muito\ntempo na mente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Comer uma maçã envolve experiências sensoriais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O filósofo David Hume apresenta a seguinte relação entre\nsensações (ou, em suas palavras, sentimentos) e ideias:\n“Em suma, todos os materiais do pensamento são derivados\ndo nosso sentimento externo e interno. Apenas a mistura e\ncomposição destes materiais compete à mente e à vontade.\nOu, para me expressar em linguagem filosófica, todas as\nnossas ideias ou percepções mais fracas são cópias das nossas\nimpressões, ou percepções mais vívidas”.\nHUME, David. Investigação sobre o entendimento humano. Lisboa: Imprensa\nNacional / Casa da Moeda, 2002.\nÉ possível tornar mais clara a concepção de Hume vinculando-a\na fatos cotidianos. Qual situação confirma a relação proposta\nno excerto?\n(A) Algumas pessoas não sabem de onde vêm os seus sonhos.\n(B) Uma pessoa com boa memória pode se lembrar mais\nfacilmente das suas ideias.\n(C) Uma pessoa que nunca experimentou guaraná não pode\nter ideia do seu sabor.\n(D) É possível manter a ideia de um cavalo alado por muito\ntempo na mente.\n(E) Comer uma maçã envolve experiências sensoriais.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            297.5,
+            357.17470000000003,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            37.76470000000006
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "topic": "Empirismo de David Hume",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Questão 19 - UNICAMP 2023 - 1ª fase",
+  "index": 19,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Num estudo cientifico publicado em 2022 no Chemical Science,\nos autores aqueceram amostras de casca seca de banana, utilizando, num curto período de tempo, uma lâmpada de alta intensidade luminosa. Essa técnica de aquecimento denomina-se\npirólise por luz. Essa irradiação promoveu a formação de um\ntipo de carvão e produtos gasosos. Em um experimento, a\nquantificação dos gases produzidos encontra-se na figura abaixo.\n100\n80\n60\n40\n20\n0\nananab\ned\nacsac\ned\ngk\n/\nL\nme\notnemidneR\nH2 CH4 CO C2H4 CH3CHO CO2\nA partir dessas informações, pode-se inferir que um possível interesse dos autores era obter combustíveis a partir de biomassa.\nSendo assim, pode-se dizer que o objetivo foi alcançado para\nhidrocarbonetos",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "leves, mas a maior quantidade em mol de gás foi a de hidrogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "leves, mas a maior quantidade em mol de gás foi a de monóxido de carbono.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "pesados, mas a maior quantidade em mol de gás foi a de\nhidrogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pesados, mas a maior quantidade em mol de gás foi a de\nmonóxido de carbono.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Num estudo cientifico publicado em 2022 no Chemical Science,\nos autores aqueceram amostras de casca seca de banana, utili-\nzando, num curto período de tempo, uma lâmpada de alta in-\ntensidade luminosa. Essa técnica de aquecimento denomina-se\npirólise por luz. Essa irradiação promoveu a formação de um\ntipo de carvão e produtos gasosos. Em um experimento, a\nquantificação dos gases produzidos encontra-se na figura abai-\nxo.\n100\n80\n60\n40\n20\n0\nananab\ned\nacsac\ned\ngk\n/\nL\nme\notnemidneR\nH2 CH4 CO C2H4 CH3CHO CO2\nA partir dessas informações, pode-se inferir que um possível in-\nteresse dos autores era obter combustíveis a partir de biomassa.\nSendo assim, pode-se dizer que o objetivo foi alcançado para\nhidrocarbonetos\na) leves, mas a maior quantidade em mol de gás foi a de hi-\ndrogênio.\nb) leves, mas a maior quantidade em mol de gás foi a de mo-\nnóxido de carbono.\nc) pesados, mas a maior quantidade em mol de gás foi a de\nhidrogênio.\nd) pesados, mas a maior quantidade em mol de gás foi a de\nmonóxido de carbono.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            460.611,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            40,
+            568,
+            261.5149
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 9,
+        "bbox": [
+          63.8304311376,
+          610.2061587312,
+          256.2818584048,
+          769.6299407728
+        ]
+      }
+    ],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

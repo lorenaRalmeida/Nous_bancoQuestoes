@@ -1,0 +1,101 @@
+{
+  "title": "Questão 72 - UNESP 2025 - 1ª fase",
+  "index": 72,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Analise a fórmula que representa a estrutura molecular da\nadrenalina.\nadrenalina\nA adrenalina, fórmula molecular , é um hormônio produzido e secretado pelas glândulas .\nNa estrutura desse hormônio, nota-se a presença da função\norgânica nitrogenada denominada .\nAs lacunas do texto são preenchidas, respectivamente, por",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "C H NO , suprarrenais e amina.\n9 7 3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "C H NO , sudoríparas e amina.\n9 13 3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "C H NO , suprarrenais e amida.\n9 13 3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "C H NO , suprarrenais e amina.\n9 13 3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "C H NO , sudoríparas e amida.\n9 7 3",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a fórmula que representa a estrutura molecular da\nadrenalina.\nadrenalina\nA adrenalina, fórmula molecular , é um hormô-\nnio produzido e secretado pelas glândulas .\nNa estrutura desse hormônio, nota-se a presença da função\norgânica nitrogenada denominada .\nAs lacunas do texto são preenchidas, respectivamente, por\n(A) C H NO , suprarrenais e amina.\n9 7 3\n(B) C H NO , sudoríparas e amina.\n9 13 3\n(C) C H NO , suprarrenais e amida.\n9 13 3\n(D) C H NO , suprarrenais e amina.\n9 13 3\n(E) C H NO , sudoríparas e amida.\n9 7 3",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            360.564
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          93.6251,
+          72.48890000000006,
+          232.07920000000001,
+          154.03110000000004
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

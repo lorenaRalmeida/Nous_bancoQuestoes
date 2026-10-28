@@ -1,0 +1,105 @@
+{
+  "title": "Questão 10 - UNICAMP 2026 - 1ª fase",
+  "index": 10,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "Texto para as questões 9, 10 e 11.\nAs baterias são fundamentais no mundo moderno, sendo a\nfonte de energia portátil que alimenta dispositivos como celulares e laptops, veículos elétricos e sistemas de armazenamento\nde energia renovável. Duas grandezas que caracterizam uma\nbateria é a sua capacidade de carga elétrica, expressa em miliampère-hora (mAh) e a energia que ela armazena, usualmente\ndada em watts-hora (Wh).\n\nDe forma simplificada, o comportamento de uma bateria pode\nser modelado com uma fonte ideal de diferença de potencial\nelétrico U em série com um resistor de resistência R . Dessa\nb b\nmaneira, o dispositivo que é alimentado pela bateria pode, muitas vezes, ser representado por um resistor de resistência R.\nvoltímetro\nbateria\nR = 1,2 Ω R = 6,0 Ω\nb\nNa situação exemplificada na figura, a diferença de potencial\nregistrada pelo voltímetro é",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,6 V.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3,0 V.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "3,6 V.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4,3 V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "De forma simplificada, o comportamento de uma bateria pode\nser modelado com uma fonte ideal de diferença de potencial\nelétrico U em série com um resistor de resistência R . Dessa\nb b\nmaneira, o dispositivo que é alimentado pela bateria pode, mui-\ntas vezes, ser representado por um resistor de resistência R.\nvoltímetro\nbateria\nR = 1,2 Ω R = 6,0 Ω\nb\nNa situação exemplificada na figura, a diferença de potencial\nregistrada pelo voltímetro é\na) 0,6 V. c) 3,6 V.\nb) 3,0 V. d) 4,3 V.",
+    "sharedContext": "Texto para as questões 9, 10 e 11.\nAs baterias são fundamentais no mundo moderno, sendo a\nfonte de energia portátil que alimenta dispositivos como celulares e laptops, veículos elétricos e sistemas de armazenamento\nde energia renovável. Duas grandezas que caracterizam uma\nbateria é a sua capacidade de carga elétrica, expressa em miliampère-hora (mAh) e a energia que ela armazena, usualmente\ndada em watts-hora (Wh).",
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            160.09140000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            285.8668,
+            568,
+            596.8769
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 5,
+        "bbox": [
+          334.6942,
+          387.68989999999997,
+          521.0404,
+          520.1179999999999
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

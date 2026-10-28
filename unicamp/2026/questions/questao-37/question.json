@@ -1,0 +1,95 @@
+{
+  "title": "Questão 37 - UNICAMP 2026 - 1ª fase",
+  "index": 37,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "No heredograma a seguir, são representadas raças de animais\nheterozigotos (em preto) e homozigotos (em branco). Os heterozigotos apresentam o alelo deletério recessivo e animais contendo dois alelos iguais recessivos têm menor ganho de peso.\nOs valores na figura indicam a massa corporal dos animais (em\nquilos, kg) em um grupo de animais isolados.\n350 kg 250 kg\n350 kg 500 kg 150 kg\nConsiderando as informações apresentadas, assinale a alternativa correta.",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A heterose ocorre no cruzamento entre indivíduos heterozigotos, levando à maior massa corporal, com probabilidade\nde ocorrer em 66% dos animais da geração F1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A heterozigose tem probabilidade de ocorrer em 33% dos\nanimais da geração F1, proporcionando animais com maior\nmassa corporal e maior variabilidade genética.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A depressão endogâmica tem probabilidade de ocorrer em\n25% dos animais da geração F1, proporcionando animais\ncom menor massa corporal e também menor variabilidade\ngenética.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "A homozigose determina a depressão endogâmica, levando\nà menor massa corporal, com probabilidade de ocorrer em\n50% dos animais da geração F1.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No heredograma a seguir, são representadas raças de animais\nheterozigotos (em preto) e homozigotos (em branco). Os hete-\nrozigotos apresentam o alelo deletério recessivo e animais con-\ntendo dois alelos iguais recessivos têm menor ganho de peso.\nOs valores na figura indicam a massa corporal dos animais (em\nquilos, kg) em um grupo de animais isolados.\n350 kg 250 kg\n350 kg 500 kg 150 kg\nConsiderando as informações apresentadas, assinale a alterna-\ntiva correta.\na) A heterose ocorre no cruzamento entre indivíduos heterozi-\ngotos, levando à maior massa corporal, com probabilidade\nde ocorrer em 66% dos animais da geração F1.\nb) A heterozigose tem probabilidade de ocorrer em 33% dos\nanimais da geração F1, proporcionando animais com maior\nmassa corporal e maior variabilidade genética.\nc) A depressão endogâmica tem probabilidade de ocorrer em\n25% dos animais da geração F1, proporcionando animais\ncom menor massa corporal e também menor variabilidade\ngenética.\nd) A homozigose determina a depressão endogâmica, levando\nà menor massa corporal, com probabilidade de ocorrer em\n50% dos animais da geração F1.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            236.9339,
+            568,
+            700.8615
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 15,
+        "bbox": [
+          304,
+          327.95129999999995,
+          567.6976,
+          474.2877
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

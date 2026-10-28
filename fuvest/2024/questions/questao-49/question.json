@@ -1,0 +1,106 @@
+{
+  "title": "Questão 49 - FUVEST 2024 - 1ª fase",
+  "index": 49,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "No Código de Obras e Edificações da Prefeitura de São Paulo,\nencontra-se a regulamentação para vagas de estacionamento\nem um edifício para diferentes tipos de veículos. De acordo\ncom o código, as dimensões de uma vaga de estacionamento\nsão estabelecidas de acordo com o tipo de veículo, conforme\na seguinte tabela:\nTabela: Dimensões das vagas de estacionamento em função do tipo\nde veículo (medidas em metros).\nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado.\nNa figura a seguir, é apresentada parte de um projeto de\ngaragem para um edifício. Foram projetadas vagas para\nautomóveis e uma vaga para moto, no formato de\nparalelogramo, com ângulo α de medida 60°.\nObservação: A imagem não está em escala.\nApós a vaga da moto, restou um espaço na garagem. Os\nresponsáveis pela obra estão avaliando a possibilidade de\ncolocar algum objeto que possa ser utilizado pelos\ncondôminos do edifício. Qual a medida do segmento\ndestacado (tracejado) nesse espaço?\n\n\nNote e adote:\ncos(60°) = 0,5; sen(60°) = √3/2.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,75 m",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,15 m",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,25 m",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2,20 m",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2,25 m",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "No Código de Obras e Edificações da Prefeitura de São Paulo,\nencontra-se a regulamentação para vagas de estacionamento\nem um edifício para diferentes tipos de veículos. De acordo\ncom o código, as dimensões de uma vaga de estacionamento\nsão estabelecidas de acordo com o tipo de veículo, conforme\na seguinte tabela:\nTabela: Dimensões das vagas de estacionamento em função do tipo\nde veículo (medidas em metros).\nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado.\nNa figura a seguir, é apresentada parte de um projeto de\ngaragem para um edifício. Foram projetadas vagas para\nautomóveis e uma vaga para moto, no formato de\nparalelogramo, com ângulo α de medida 60°.\nObservação: A imagem não está em escala.\nApós a vaga da moto, restou um espaço na garagem. Os\nresponsáveis pela obra estão avaliando a possibilidade de\ncolocar algum objeto que possa ser utilizado pelos\ncondôminos do edifício. Qual a medida do segmento\ndestacado (tracejado) nesse espaço?\n(A) 0,75 m\n(B) 1,15 m\n(C) 1,25 m\n(D) 2,20 m\n(E) 2,25 m\nNote e adote:\n√(cid:2871)\ncos (60°) = 0,5 ; sen (60°) =\n(cid:2870)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Trigonometria em vagas de estacionamento",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

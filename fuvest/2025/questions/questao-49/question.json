@@ -1,0 +1,100 @@
+{
+  "title": "Questão 49 - FUVEST 2025 - 1ª fase",
+  "index": 49,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Observe as imagens de satélite que indicam o desmatamento\nde 12.272 hectares no município de Formosa do Rio Preto\n(BA), região do MATOPIBA, composta pelos estados do\nMaranhão, Tocantins, Piauí e Bahia, no período 2019-2022.\nMapBiomas. 2023. Relatório de desmatamento no Brasil (Adaptado).\nCom base na análise temporal das imagens, assinale a\nalternativa que apresenta, respectivamente, o bioma\ncorrespondente à região do MATOPIBA, a atividade\neconômica desenvolvida nesse local e o possível impacto\nambiental negativo decorrente de tal atividade.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Cerrado, agropecuária e processos erosivos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Cerrado, silvicultura e contaminação do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Amazônia, mineração e poluição das águas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Caatinga, pastagem e impermeabilização da superfície.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Caatinga, extrativismo e perda de biodiversidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nObserve as imagens de satélite que indicam o desmatamento\nde 12.272 hectares no município de Formosa do Rio Preto\n(BA), região do MATOPIBA, composta pelos estados do\nMaranhão, Tocantins, Piauí e Bahia, no período 2019-2022.\nMapBiomas. 2023. Relatório de desmatamento no Brasil (Adaptado).\nCom base na análise temporal das imagens, assinale a\nalternativa que apresenta, respectivamente, o bioma\ncorrespondente à região do MATOPIBA, a atividade\neconômica desenvolvida nesse local e o possível impacto\nambiental negativo decorrente de tal atividade.\n(A) Cerrado, agropecuária e processos erosivos.\n(B) Cerrado, silvicultura e contaminação do solo.\n(C) Amazônia, mineração e poluição das águas.\n(D) Caatinga, pastagem e impermeabilização da superfície.\n(E) Caatinga, extrativismo e perda de biodiversidade.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            28,
+            665.2146,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            534.5346999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "MATOPIBA, agropecuária e desmatamento",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

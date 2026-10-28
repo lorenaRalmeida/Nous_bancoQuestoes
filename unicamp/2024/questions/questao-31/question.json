@@ -1,0 +1,92 @@
+{
+  "title": "Questão 31 - UNICAMP 2024 - 1ª fase",
+  "index": 31,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Dentro de um território nacional, as regiões são hoje atingidas\npor complexos vetores de ordem técnica e política, típicos do\nperíodo da globalização. Neste sentido, as regiões, tanto quanto são internamente construídas, seguem as oscilações econômicas nacionais e internacionais. Isso as torna, diferentemente\ndo passado, mais instáveis e sujeitas a frequentes crises. E, conforme se especializam em diferentes tipos de produção para\natender os mercados internacionais, suas fronteiras tornam-se\nmais cambiáveis.\n(Adaptado de: SMITH, N. Contorno de uma política espacializada: veículos dos sem-teto\ne produção da escala geográfica. In: ARANTES, A. A. (Org.) O espaço da diferença. Campinas: Papirus, p. 152, 2000.)\nTendo em vista seus conhecimentos sobre a dinâmica das regiões no mundo contemporâneo e considerando o texto anterior,\né correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "desapareceram os laços internos de construção regional,\numa vez que a escala de comando internacional regula as\nespecializações produtivas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "múltiplas escalas de ações perpassam e dinamizam a coesão\nregional, ocasionando instabilidade socioeconômica e mutações aceleradas em suas fronteiras.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o comando externo da produção vinculado aos mercados\ninternacionais torna as fronteiras regionais estáveis e duradouras na escala do território nacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a conformação de arranjos produtivos regionais nesse contexto homogeniza o espaço nacional, apagando as antigas\nidentidades e as desigualdades socioterritoriais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Dentro de um território nacional, as regiões são hoje atingidas\npor complexos vetores de ordem técnica e política, típicos do\nperíodo da globalização. Neste sentido, as regiões, tanto quan-\nto são internamente construídas, seguem as oscilações econô-\nmicas nacionais e internacionais. Isso as torna, diferentemente\ndo passado, mais instáveis e sujeitas a frequentes crises. E, con-\nforme se especializam em diferentes tipos de produção para\natender os mercados internacionais, suas fronteiras tornam-se\nmais cambiáveis.\n(Adaptado de: SMITH, N. Contorno de uma política espacializada: veículos dos sem-teto\ne produção da escala geográfica. In: ARANTES, A. A. (Org.) O espaço da diferença. Cam-\npinas: Papirus, p. 152, 2000.)\nTendo em vista seus conhecimentos sobre a dinâmica das regi-\nões no mundo contemporâneo e considerando o texto anterior,\né correto afirmar que\na) desapareceram os laços internos de construção regional,\numa vez que a escala de comando internacional regula as\nespecializações produtivas.\nb) múltiplas escalas de ações perpassam e dinamizam a coesão\nregional, ocasionando instabilidade socioeconômica e mu-\ntações aceleradas em suas fronteiras.\nc) o comando externo da produção vinculado aos mercados\ninternacionais torna as fronteiras regionais estáveis e dura-\ndouras na escala do território nacional.\nd) a conformação de arranjos produtivos regionais nesse con-\ntexto homogeniza o espaço nacional, apagando as antigas\nidentidades e as desigualdades socioterritoriais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            648.3401,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            40,
+            291,
+            289.61109999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

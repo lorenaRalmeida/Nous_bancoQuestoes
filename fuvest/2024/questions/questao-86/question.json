@@ -1,0 +1,88 @@
+{
+  "title": "Questão 86 - FUVEST 2024 - 1ª fase",
+  "index": 86,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“Para praticar a agricultura, os tupis derrubavam árvores e\nfaziam a queimada – técnica que iria ser incorporada pelos\ncolonizadores. Plantavam feijão, milho, abóbora e\nprincipalmente mandioca, cuja farinha se tornou também um\nalimento básico da Colônia. A economia era basicamente de\nsubsistência e destinada ao consumo próprio. Cada aldeia\nproduzia para satisfazer a suas necessidades, havendo poucas\ntrocas de gêneros alimentícios com outras aldeias.\nMas existiam contatos entre elas para a troca de mulheres e de\nbens de luxo, como penas de tucano e pedras para se fazer\nbotoque. Dos contatos resultavam alianças em que grupos de\naldeias se posicionavam uns contra os outros. A guerra e a\ncaptura de inimigos – mortos em meio à celebração de um\nritual canibalístico – eram elementos integrantes da sociedade\ntupi. Dessas atividades, reservadas aos homens, dependiam a\nobtenção de prestígio e a renovação das mulheres.”\nFAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2006. p.40.\nDe acordo com o texto, é correto afirmar que, no período\ncolonial brasileiro, as sociedades pertencentes ao tronco\nlinguístico Tupi",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "praticavam o canibalismo devido à escassez de alimentos\nnas regiões em que viviam.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "desenvolviam uma cultura agrícola de subsistência que\nnão abolia a existência de sistemas de troca.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "cultivavam produtos agrícolas que deixaram de ser\nconsumidos após a chegada dos colonizadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "organizavam-se em unidades políticas autônomas, que\nevitavam contatos comerciais entre si.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "realizavam rituais em que homens e mulheres\ndesempenhavam funções idênticas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Para praticar a agricultura, os tupis derrubavam árvores e\nfaziam a queimada – técnica que iria ser incorporada pelos\ncolonizadores. Plantavam feijão, milho, abóbora e\nprincipalmente mandioca, cuja farinha se tornou também um\nalimento básico da Colônia. A economia era basicamente de\nsubsistência e destinada ao consumo próprio. Cada aldeia\nproduzia para satisfazer a suas necessidades, havendo poucas\ntrocas de gêneros alimentícios com outras aldeias.\nMas existiam contatos entre elas para a troca de mulheres e de\nbens de luxo, como penas de tucano e pedras para se fazer\nbotoque. Dos contatos resultavam alianças em que grupos de\naldeias se posicionavam uns contra os outros. A guerra e a\ncaptura de inimigos – mortos em meio à celebração de um\nritual canibalístico – eram elementos integrantes da sociedade\ntupi. Dessas atividades, reservadas aos homens, dependiam a\nobtenção de prestígio e a renovação das mulheres.”\nFAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2006. p.40.\nDe acordo com o texto, é correto afirmar que, no período\ncolonial brasileiro, as sociedades pertencentes ao tronco\nlinguístico Tupi\n(A) praticavam o canibalismo devido à escassez de alimentos\nnas regiões em que viviam.\n(B) desenvolviam uma cultura agrícola de subsistência que\nnão abolia a existência de sistemas de troca.\n(C) cultivavam produtos agrícolas que deixaram de ser\nconsumidos após a chegada dos colonizadores.\n(D) organizavam-se em unidades políticas autônomas, que\nevitavam contatos comerciais entre si.\n(E) realizavam rituais em que homens e mulheres\ndesempenhavam funções idênticas.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            459.6547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Sociedades tupis no período colonial",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

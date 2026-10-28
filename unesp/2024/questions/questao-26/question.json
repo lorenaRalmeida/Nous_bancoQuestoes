@@ -1,0 +1,156 @@
+{
+  "title": "Questão 26 - UNESP 2024 - 1ª fase",
+  "index": 26,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto e examine o gráfico para responder às questões\nde 21 a 26.\nThe first Game Developers Conference, in 1988, attracted\n25 participants and took place in a programmer’s sitting room\nin California. This 2023 summit, which began on March 20\nin a giant exhibition centre in San Francisco, demonstrates\nhow the industry has grown. Some 3.2 billion people now\nplay, thanks largely to the spread of the smartphone. Women\nare now almost as likely as men to call themselves gamers.\nGaming is catching on among all age groups. In Britain, for\ninstance, half of those aged 55-64 play video games, though\nfor less time than the young. Worldwide there are now more\nconsole owners aged 35-44 than 16-24.\nThe bigger the audience, the bigger the market.\nConsumers will spend 185 billion dollars on games in 2023,\nmore than half on mobile games. That is about five times\nthe value of the cinema box office, and two-thirds more\nthan the video-streaming business. As gaming continues to\ngrow, it is beginning to rival television as the world’s favourite\nentertainment medium.\n(https://view.e.economist.com, 20.03.2023. Adaptado.)\n\nNo trecho do segundo parágrafo “As gaming continues to\ngrow, it is beginning to rival television as the world’s favourite\nentertainment medium”, os termos sublinhados equivalem,\nem português, respectivamente, a",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "se / tal qual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "quando / por exemplo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à medida que / como.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "porque / exceto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "do mesmo modo que / de acordo com.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No trecho do segundo parágrafo “As gaming continues to\ngrow, it is beginning to rival television as the world’s favourite\nentertainment medium”, os termos sublinhados equivalem,\nem português, respectivamente, a\n(A) se / tal qual.\n(B) quando / por exemplo.\n(C) à medida que / como.\n(D) porque / exceto.\n(E) do mesmo modo que / de acordo com.",
+    "sharedContext": "Leia o texto e examine o gráfico para responder às questões\nde 21 a 26.\nThe first Game Developers Conference, in 1988, attracted\n25 participants and took place in a programmer’s sitting room\nin California. This 2023 summit, which began on March 20\nin a giant exhibition centre in San Francisco, demonstrates\nhow the industry has grown. Some 3.2 billion people now\nplay, thanks largely to the spread of the smartphone. Women\nare now almost as likely as men to call themselves gamers.\nGaming is catching on among all age groups. In Britain, for\ninstance, half of those aged 55-64 play video games, though\nfor less time than the young. Worldwide there are now more\nconsole owners aged 35-44 than 16-24.\nThe bigger the audience, the bigger the market.\nConsumers will spend 185 billion dollars on games in 2023,\nmore than half on mobile games. That is about five times\nthe value of the cinema box office, and two-thirds more\nthan the video-streaming business. As gaming continues to\ngrow, it is beginning to rival television as the world’s favourite\nentertainment medium.\n(https://view.e.economist.com, 20.03.2023. Adaptado.)",
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            654.7321
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            198.9269999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 8,
+        "bbox": [
+          44.827400000000004,
+          429.2095,
+          262.9194,
+          629.5604
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 8,
+        "bbox": [
+          252.12040000000002,
+          443.01849999999996,
+          280.04769999999996,
+          464.5018
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 8,
+        "bbox": [
+          252.12040000000002,
+          471.14099999999996,
+          280.04769999999996,
+          492.62399999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 8,
+        "bbox": [
+          252.71000000000004,
+          499.26349999999996,
+          280.04769999999996,
+          520.7467999999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 8,
+        "bbox": [
+          252.71000000000004,
+          527.386,
+          280.04769999999996,
+          548.8689999999999
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

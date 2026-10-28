@@ -1,0 +1,774 @@
+{
+  "board": "FUVEST",
+  "year": 2025,
+  "phase": 1,
+  "version": "V1",
+  "source": "fuvest-2025-fase1-prova.pdf",
+  "sha256": "f512449b47ac31abe1ae00d5f88fb14478c7139fa1db137145b7e33cec1b97c8",
+  "instructions": "                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                        V1        \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n      Universidade de São Paulo                                                   \n      Brasil                                                                      \n                     PROVA DE CONHECIMENTOS GERAIS – FUVEST 2025                  \n                                                                                  \n        Instruções                                                                \n                                                                                  \n         1. Só abra este caderno quando o fiscal autorizar.                       \n         2. Verifique se o seu nome está correto na capa deste caderno e se a folha de respostas pertence\n           ao grupo V1. Informe ao fiscal de sala eventuais divergências.         \n                                                                                  \n         3. Durante a prova, são vedadas a comunicação entre candidatos e a utilização de qualquer\n           material de consulta e de aparelhos de telecomunicação.                \n         4. Duração da prova: 5 horas. Cabe ao candidato controlar o tempo com base nas informações\n           fornecidas pelo fiscal. O(A) candidato(a) poderá retirar-se da sala definitivamente apenas a\n           partir das 16 h. Não haverá tempo adicional para preenchimento da folha de respostas.\n         5. O(A) candidato(a) deverá seguir as orientações estabelecidas pela FUVEST a respeito dos\n           procedimentos adotados para a aplicação deste Concurso Vestibular.     \n                                                                                  \n         6. Lembre-se de que a FUVEST se reserva ao direito de efetuar procedimentos adicionais de\n           identificação e controle do processo, visando a garantir a plena integridade do exame. Assim,\n           durante a realização da prova, será coletada por um fiscal uma foto do(a) candidato(a) para\n           fins de reconhecimento facial, para uso exclusivo da USP e da FUVEST. A imagem não será\n           divulgada nem utilizada para quaisquer outras finalidades, nos termos da lei.\n         7. Após a autorização do fiscal da sala, verifique se o caderno está completo. Ele deve conter 90\n           questões objetivas, com 5 alternativas cada. Informe ao fiscal de sala eventuais divergências.\n         8. Preencha a folha de respostas com cuidado, utilizando caneta esferográfica de tinta azul ou\n           preta. Essa folha não será substituída em caso de rasura.              \n                                                                                  \n         9. Ao final da prova, é obrigatória a devolução da folha de respostas acompanhada deste\n           caderno de questões.                                                   \n                                                                                  \n                                                                                  \n                                     Declaração                                   \n           Declaro que li e estou ciente das informações que constam na capa desta prova, na folha de\n           respostas, bem como dos avisos que foram transmitidos pelo fiscal de sala.\n                                                                                  \n                                                                                  \n                                                                                  \n                      ___________________________________________________         \n                                     ASSINATURA                                   \n                                                                                  \n             O(a) candidato(a) que não assinar a capa da prova será considerado(a) ausente da prova.\n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  ",
+  "questions": [
+    {
+      "index": 1,
+      "file": "questions/questao-1/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Artes"
+    },
+    {
+      "index": 2,
+      "file": "questions/questao-2/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 3,
+      "file": "questions/questao-3/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 4,
+      "file": "questions/questao-4/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 5,
+      "file": "questions/questao-5/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 6,
+      "file": "questions/questao-6/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 7,
+      "file": "questions/questao-7/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 8,
+      "file": "questions/questao-8/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 9,
+      "file": "questions/questao-9/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 10,
+      "file": "questions/questao-10/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 11,
+      "file": "questions/questao-11/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 12,
+      "file": "questions/questao-12/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 13,
+      "file": "questions/questao-13/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 14,
+      "file": "questions/questao-14/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 15,
+      "file": "questions/questao-15/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 16,
+      "file": "questions/questao-16/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 17,
+      "file": "questions/questao-17/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 18,
+      "file": "questions/questao-18/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 19,
+      "file": "questions/questao-19/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 20,
+      "file": "questions/questao-20/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 21,
+      "file": "questions/questao-21/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 22,
+      "file": "questions/questao-22/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 23,
+      "file": "questions/questao-23/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 24,
+      "file": "questions/questao-24/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 25,
+      "file": "questions/questao-25/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 26,
+      "file": "questions/questao-26/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 27,
+      "file": "questions/questao-27/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 28,
+      "file": "questions/questao-28/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 29,
+      "file": "questions/questao-29/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 30,
+      "file": "questions/questao-30/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 31,
+      "file": "questions/questao-31/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 32,
+      "file": "questions/questao-32/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 33,
+      "file": "questions/questao-33/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 34,
+      "file": "questions/questao-34/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 35,
+      "file": "questions/questao-35/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 36,
+      "file": "questions/questao-36/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 37,
+      "file": "questions/questao-37/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 38,
+      "file": "questions/questao-38/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 39,
+      "file": "questions/questao-39/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 40,
+      "file": "questions/questao-40/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Educação Física"
+    },
+    {
+      "index": 41,
+      "file": "questions/questao-41/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 42,
+      "file": "questions/questao-42/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 43,
+      "file": "questions/questao-43/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 44,
+      "file": "questions/questao-44/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 45,
+      "file": "questions/questao-45/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 46,
+      "file": "questions/questao-46/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 47,
+      "file": "questions/questao-47/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 48,
+      "file": "questions/questao-48/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 49,
+      "file": "questions/questao-49/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 50,
+      "file": "questions/questao-50/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 51,
+      "file": "questions/questao-51/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 52,
+      "file": "questions/questao-52/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 53,
+      "file": "questions/questao-53/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 54,
+      "file": "questions/questao-54/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 55,
+      "file": "questions/questao-55/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 56,
+      "file": "questions/questao-56/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 57,
+      "file": "questions/questao-57/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 58,
+      "file": "questions/questao-58/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 59,
+      "file": "questions/questao-59/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 60,
+      "file": "questions/questao-60/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 61,
+      "file": "questions/questao-61/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 62,
+      "file": "questions/questao-62/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 63,
+      "file": "questions/questao-63/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 64,
+      "file": "questions/questao-64/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 65,
+      "file": "questions/questao-65/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 66,
+      "file": "questions/questao-66/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 67,
+      "file": "questions/questao-67/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 68,
+      "file": "questions/questao-68/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 69,
+      "file": "questions/questao-69/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 70,
+      "file": "questions/questao-70/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 71,
+      "file": "questions/questao-71/question.json",
+      "correctAlternative": "C",
+      "warnings": [],
+      "discipline": "Biologia"
+    },
+    {
+      "index": 72,
+      "file": "questions/questao-72/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 73,
+      "file": "questions/questao-73/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Química"
+    },
+    {
+      "index": 74,
+      "file": "questions/questao-74/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Física"
+    },
+    {
+      "index": 75,
+      "file": "questions/questao-75/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 76,
+      "file": "questions/questao-76/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 77,
+      "file": "questions/questao-77/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Matemática"
+    },
+    {
+      "index": 78,
+      "file": "questions/questao-78/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Inglês"
+    },
+    {
+      "index": 79,
+      "file": "questions/questao-79/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 80,
+      "file": "questions/questao-80/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 81,
+      "file": "questions/questao-81/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 82,
+      "file": "questions/questao-82/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 83,
+      "file": "questions/questao-83/question.json",
+      "correctAlternative": "D",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 84,
+      "file": "questions/questao-84/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Português"
+    },
+    {
+      "index": 85,
+      "file": "questions/questao-85/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 86,
+      "file": "questions/questao-86/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "Artes"
+    },
+    {
+      "index": 87,
+      "file": "questions/questao-87/question.json",
+      "correctAlternative": "A",
+      "warnings": [],
+      "discipline": "História"
+    },
+    {
+      "index": 88,
+      "file": "questions/questao-88/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 89,
+      "file": "questions/questao-89/question.json",
+      "correctAlternative": "E",
+      "warnings": [],
+      "discipline": "Geografia"
+    },
+    {
+      "index": 90,
+      "file": "questions/questao-90/question.json",
+      "correctAlternative": "B",
+      "warnings": [],
+      "discipline": "História"
+    }
+  ],
+  "questionCount": 90,
+  "sharedContexts": [
+    {
+      "targets": [
+        10,
+        11
+      ],
+      "text": "TEXTO PARA AS QUESTÕES 10 E 11\n“O que torna possível o surgimento de uma ‘cultura do\ncancelamento’ é um cenário em que os detentores de poder\neconômico e/ou político vislumbram a utilização de valores\nmorais como valores de mercado, seja no campo da\npublicidade, seja no campo da responsabilidade social da\nempresa.\nO conjunto de valores defendidos pelos movimentos sociais\nque lutam por reconhecimento e respeito à diversidade\ntornam-se atributos exigidos por diversas empresas como\nelemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do\n‘cancelamento’ procura atingir não a liberdade do sujeito que\nsupostamente ofende valores morais relevantes, que seria o\ninstrumento coercitivo tradicionalmente previsto no direito\npenal, ou mesmo buscar reparações indenizatórias,\ninstrumento de resposta a atos ilícitos no direito civil, mas sim\nimpedir, restringir ou infligir danos na trajetória econômica\ne/ou profissional do sujeito ‘cancelado’.\nNesse contexto, a ‘cultura do cancelamento’ representa um\nmecanismo de eliminação do mercado, em casos considerados\ngraves, ou, em outros casos, de mera diminuição relativa do\ncapital, de sujeitos ineficientes em fator competitivo específico,\ncomo inadequação de valores morais ostentados, por atos e/ou\npalavras, em determinados ambientes sociais.”\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do\ncancelamento: contribuições de um olhar sociológico. Extraprensa, v.15,\nn. esp., p.39, mai.2022 (Adaptado).\n{",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            390.29470000000003
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        27,
+        28,
+        29
+      ],
+      "text": "TEXTO PARA AS QUESTÕES DE 27 A 29\nClimate change is messing with time\n“The melting of polar ice due to global warming is affecting\nEarth’s rotation and could impact on precision timekeeping,\naccording to a recent study.\nThe planet is not about to jerk to a halt, nor speed up so\nrapidly that everyone gets flung into space. But timekeeping\nis an exact science in a highly technological society, which is\nwhy global authorities more than half a century ago felt\ncompelled by the slight changes in Earth’s rotation to invent\nthe concept of the ‘leap second’.\nClimate change makes these calculations even more\ncomplicated: Soon it may be necessary to insert a ‘negative\nleap second’ into the calendar to get the planet’s rotation in\nsync with Coordinated Universal Time.\nTimekeeping is based on an astronomical basis. Earth is a\ntype of a clock. In simpler times, the planet would spin one full\nrevolution on its axis, and everyone would call it a day.\nBut Earth doesn’t spin at a perfectly constant speed. Our\nplanet is in a complicated gravitational dance with the moon,\nthe sun, the oceanic tides, Earth’s own atmosphere and the\nmotion of the planet’s solid inner core.\nThe planet’s fluctuating spin rate is carefully tracked by the\nInternational Earth Rotation and Reference Systems Service.\nIn the early 1970s, Earth was clearly slowing down in its\nrotation, and a gap was forming between atomic time and\nastronomical time. Thus, was born the ‘leap second’ to adjust\nfor the fact that the ‘day’ was getting a bit longer.\nThe melting of the ice caps in Antarctica and Greenland\nshifts mass — meltwater — toward the equator. That process\nincreases the equatorial bulge of the planet. Meanwhile, at\nthe poles, the land that had been pressed down by ice rises,\nand Earth becomes more spherical.\nAccording to the study, although the core is causing the\nplanet to spin faster, the planetary shape changes caused by\na warming climate are slowing that process. Absent this\neffect, the overall acceleration of the planet’s rotation might\nrequire timekeepers to insert a ‘negative leap second’ at the\nend of 2026. Because of climate change, that might not be\nnecessary until 2029.”\nDisponível em https://www.washingtonpost.com/science/2024/03/27/\n(Adaptado).\n{",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            575.6347000000001
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        37,
+        38
+      ],
+      "text": "TEXTO PARA AS QUESTÕES 37 E 38\nBem-vinda!\n“Eram faíscas suas palavras que me queimavam em\ndoses homeopáticas\ndurante todas as noites…\nForam longos anos, dia após dia perdendo um pouco\nmais minha autoestima,\nabrindo mão das roupas que gostava, dos estudos, do\ntrabalho e das amigas\nfazendo de tudo pra evitar brigas,\nmas ele sempre dizia que a culpa era minha.\nAté que um dia, me empurrou, me acuou\ncomo se eu pudesse caber em qualquer fresta,\nencurralada,\nme mandou ficar calada e, com medo, obedeci.\nEu pedia desculpa toda vez depois de falar\ncomo se fosse um defeito de nascença querer me\ncolocar.\nA minha casa se tornou um ambiente tão hostil e eu,\nprisioneira das minhas próprias ideias,\nacreditando que o amor era isso, esse abismo, onde só\num fala e o outro, fica omisso.\nPrecisei tirar forças de lugares sagrados\npra me afastar e reagir, recolher meus pedaços.\nMeus olhos encheram de mar, eu desaguei,\ndecidi não mais me calar, denunciei!\nE depois do silêncio quebrado, meus pensamentos em\nguerra cessaram,\nrecuperei o fôlego e ouvi meu coração sendo grato.\nEncontrei em mim um porto seguro, entendi que meu\ncorpo é meu lar\ne, no caminho até ele, escolho quem anda comigo e\nquem convido pra entrar.\nHoje, quando olho pra dentro, vejo uma nova mulher\nrenascendo,\neu celebro sua chegada e contemplo essa nova vida.\nSem medo, abro a janela de casa\ne, com olhar de quem há tanto tempo esperava,\nte pego pela mão e digo:\nSeja bem-vinda!”\nMel Duarte. Colmeia - Poemas Reunidos.\n{",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            569.0346999999999
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        41,
+        42
+      ],
+      "text": "TEXTO PARA AS QUESTÕES 41 E 42\n“Quick, quick, tell me something awful\nLike you are a poet trapped inside the body of a finance guy\nTell me all your secrets, all you'll ever be is\nMy eternal consolation prize\nYou see, I was a debutante in another life, but\nNow I seem to be scared to go outside\nIf comfort is a construct, I don't believe in good luck\nNow that I know what's what\nI hate it here so I will go to secret gardens in my mind\nPeople need a key to get to, the only one is mine\nI read about it in a book when I was a precocious child\nNo mid-sized city hopes and small-town fears\nI'm there most of the year 'cause I hate it here\nI hate it here\nMy friends used to play a game where\nWe would pick a decade\nWe wished we could live in instead of this\nI'd say the 1830s but without all the racists\nAnd getting married off for the highest bid\nEveryone would look down 'cause it wasn't fun now\nSeems like it was never even fun back then\nNostalgia is a mind's trick\nIf I'd been there, I'd hate it\nIt was freezing in the palace”\n“I hate it here”, Taylor Swift, do álbum The Tortured Poets Department,\n2024 (Adaptado).\n{",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            410.9347
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        65,
+        66
+      ],
+      "text": "TEXTO PARA AS QUESTÕES 65 E 66\nDa moenda para a célula a combustível: caldo de cana é\nusado para produzir energia elétrica\n“Pesquisadores do Instituto de Pesquisas Energéticas e\nNucleares (Ipen), órgão associado à USP, testaram o uso de\ncaldo de cana para gerar energia elétrica em células a\ncombustível. O processo dispensa a transformação do caldo in\nnatura em etanol, feita nas usinas de álcool, impedindo a\nformação de resíduos nocivos ao meio ambiente. Após o êxito\ndos experimentos em laboratório, os cientistas vão\ndesenvolver a aplicação da técnica em escala industrial.\n‘A célula a combustível tem o mesmo princípio de\nfuncionamento de uma pilha. A diferença é que o combustível\nserve como reagente para ser consumido e gerar\neletricidade’, explica o pesquisador do Ipen, Almir Oliveira\nNeto, que coordenou a pesquisa. ‘No dispositivo que foi\ndesenvolvido na pesquisa, a oxidação do caldo de cana\nacontece no ânodo e a redução de oxigênio no cátodo. O\nobjetivo do experimento era obter energia da biomassa com\no mínimo impacto ambiental possível. Para isso, utilizou-se o\ncaldo de cana em uma célula a combustível para gerar energia\nelétrica’, diz o pesquisador. ‘O uso do caldo de cana direto\nevita a formação de vinhaça, um resíduo ambientalmente\nperigoso decorrente da produção de etanol, contribuindo,\nassim, para a preservação do meio ambiente’.”\nDisponível em https://jornal.usp.br/ciencias/ (Adaptado).\n{",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            28,
+            345.0847,
+            297.5,
+            683.3947000000001
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        73,
+        74
+      ],
+      "text": "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino\nde Física, reporta um curioso estudo sobre a pressão interna\nde “foguetes de garrafa PET”, propulsionados a partir da\nreação química entre ácido acético e bicarbonato de sódio.[1]\nUma mistura de vinagre (que contém ácido\nacético, CH COOH) com bicarbonato de sódio (NaHCO )\n3 3\nproduz gás carbônico (CO ) por meio da reação química\n2\nrepresentada pela seguinte equação:\nCH COOH + NaHCO → CH COONa + CO + H O\n3 3 3 2 2\nA reação ocorre no interior de uma\ngarrafa PET de 2 L de volume útil total,\nda qual foi retirado todo o ar. Insere-se\nna garrafa um volume inicial V de\nvin\nvinagre líquido e bicarbonato de sódio,\nsendo a garrafa posteriormente selada\ncom uma tampa acoplada a um\nmanômetro. A reação produzirá gás\ncarbônico que ocupará um volume V\nCO2\ne exercerá uma pressão P sobre a\nCO2\ntampa da garrafa, medida pelo\nmanômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504\n(2018). Disponível em\nhttp://dx.doi.org/10.1590/1806-9126-RBEF-\n2017-0340.\n{",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            376.97470000000004
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "questionSequence": true,
+    "keySequence": true,
+    "keyCorrespondence": true,
+    "disciplinesAssigned": 90
+  },
+  "notes": "Enunciados em context; figuras locais e alternativas gráficas mantidas. Sem recortes completos. Processamento offline.",
+  "disciplineCounts": {
+    "Artes": 2,
+    "Biologia": 9,
+    "Educação Física": 1,
+    "Filosofia": 3,
+    "Física": 10,
+    "Geografia": 12,
+    "História": 9,
+    "Inglês": 6,
+    "Matemática": 10,
+    "Português": 13,
+    "Química": 11,
+    "Sociologia": 4
+  }
+}

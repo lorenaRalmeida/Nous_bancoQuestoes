@@ -1,0 +1,90 @@
+{
+  "title": "Questão 68 - FUVEST 2024 - 1ª fase",
+  "index": 68,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "[...]\nUm sino de vidro claro,\numa ampola cristalina e contrátil,\nflutua calma no seu caminho.\n“Peixinho, peixinho, deixe-a ir!\nPeixinho, peixinho, se apresse em fugir!”\nAli atrás, longos fios transparentes se arrastam\ne os olhos do peixinho a um banquete convidam.\n“Serão, por acaso, minhocas o que eu vejo de repente?”\n“Peixinho, peixinho, deixe-me alertar!\nPeixinho, peixinho, não se deixe enganar!”\nPróximo demais o peixinho chegou:\n“Ai, ai, ai, agora ela me pegou!\nFirme me amarrou e não consigo me soltar!\nFirme me envolve e arde de matar!”\n[...]\nTradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.\nO fragmento de poema apresentado foi escrito pelo\nnaturalista Fritz Müller para suas filhas. O trecho do poema\npermite afirmar que a predação é realizada por um/uma",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "camarão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "água-viva.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "tubarão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "lula.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "plâncton.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "[...]\nUm sino de vidro claro,\numa ampola cristalina e contrátil,\nflutua calma no seu caminho.\n“Peixinho, peixinho, deixe-a ir!\nPeixinho, peixinho, se apresse em fugir!”\nAli atrás, longos fios transparentes se arrastam\ne os olhos do peixinho a um banquete convidam.\n“Serão, por acaso, minhocas o que eu vejo de repente?”\n“Peixinho, peixinho, deixe-me alertar!\nPeixinho, peixinho, não se deixe enganar!”\nPróximo demais o peixinho chegou:\n“Ai, ai, ai, agora ela me pegou!\nFirme me amarrou e não consigo me soltar!\nFirme me envolve e arde de matar!”\n[...]\nTradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.\nO fragmento de poema apresentado foi escrito pelo\nnaturalista Fritz Müller para suas filhas. O trecho do poema\npermite afirmar que a predação é realizada por um/uma\n(A) camarão.\n(B) água-viva.\n(C) tubarão.\n(D) lula.\n(E) plâncton.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            416.6347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "topic": "Zoologia e predação por cnidários",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

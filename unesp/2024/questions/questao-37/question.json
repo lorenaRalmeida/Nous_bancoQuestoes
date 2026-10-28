@@ -1,0 +1,100 @@
+{
+  "title": "Questão 37 - UNESP 2024 - 1ª fase",
+  "index": 37,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Observe as imagens. A da esquerda é intitulada “Plantas do\nOrquidário Moderno” (1845). A da direita intitula-se “Madame\nProfessora” (1846).\n(In: Peter Gay. A experiência burguesa da Rainha Vitória a Freud:\na educação dos sentidos, 1988.)\nAs duas imagens referem-se a algumas sociedades europeias do século XIX e",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "representam, com ironia, os novos papéis exercidos\npelas mulheres nas sociedades do período.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "aludem, com humor, ao avanço das pesquisas e do ensino nas sociedades do período.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "constatam a substituição da estrutura patriarcal pelo\nmatriarcalismo nas sociedades industriais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ilustram, com surpresa, a padronização do trabalho feminino nas sociedades de economia industrial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "celebram a liderança política feminina numa sociedade\nde hegemonia liberal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Observe as imagens. A da esquerda é intitulada “Plantas do\nOrquidário Moderno” (1845). A da direita intitula-se “Madame\nProfessora” (1846).\n(In: Peter Gay. A experiência burguesa da Rainha Vitória a Freud:\na educação dos sentidos, 1988.)\nAs duas imagens referem-se a algumas sociedades euro-\npeias do século XIX e\n(A) representam, com ironia, os novos papéis exercidos\npelas mulheres nas sociedades do período.\n(B) aludem, com humor, ao avanço das pesquisas e do ensi-\nno nas sociedades do período.\n(C) constatam a substituição da estrutura patriarcal pelo\nmatriarcalismo nas sociedades industriais.\n(D) ilustram, com surpresa, a padronização do trabalho femi-\nnino nas sociedades de economia industrial.\n(E) celebram a liderança política feminina numa sociedade\nde hegemonia liberal.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

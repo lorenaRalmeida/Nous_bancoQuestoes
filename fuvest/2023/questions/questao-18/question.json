@@ -1,0 +1,100 @@
+{
+  "title": "Questão 18 - FUVEST 2023 - 1ª fase",
+  "index": 18,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Observe a imagem de satélite a seguir:\nGoogle Earth, 2022.\nParte dos topos do Chapadão Ocidental Baiano, divisor de\náguas das bacias hidrográficas dos rios Tocantins e São\nFrancisco, é dominada por monocultura para exportação.\nCom base na imagem e em seus conhecimentos, é correto\nafirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "tanto a bacia do rio Tocantins quanto a do São Francisco\nsão ameaçadas por contaminação de agrotóxicos nas\náreas do Chapadão, cujos divisores topográficos não\nimpedem os fluxos subterrâneos das substâncias utilizadas\nnas monoculturas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a maior parte das áreas cultivadas localiza-se no estado do\nTocantins, sendo erodidas pelos rios sem conexão com o\ntopo do Chapadão Ocidental Baiano, o que dificulta a\ndispersão dos agrotóxicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a bacia do rio São Francisco é ameaçada pelos agrotóxicos,\npois os divisores de águas nas áreas do Chapadão tendem\na fluir as substâncias nas drenagens somente para o\nestado da Bahia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "tanto a bacia do rio Tocantins quanto do rio São Francisco\nse encontram distantes das áreas de topo do Chapadão\nOcidental Baiano onde estão as monoculturas,\ndificultando a efluência dos agrotóxicos em ambos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a bacia do rio Tocantins é mais ameaçada do que a do São\nFrancisco pela contaminação originada do uso de\nagrotóxicos, pois os divisores de águas convergem para o\nestado do Tocantins.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Observe a imagem de satélite a seguir:\nGoogle Earth, 2022.\nParte dos topos do Chapadão Ocidental Baiano, divisor de\náguas das bacias hidrográficas dos rios Tocantins e São\nFrancisco, é dominada por monocultura para exportação.\nCom base na imagem e em seus conhecimentos, é correto\nafirmar que\n(A) tanto a bacia do rio Tocantins quanto a do São Francisco\nsão ameaçadas por contaminação de agrotóxicos nas\náreas do Chapadão, cujos divisores topográficos não\nimpedem os fluxos subterrâneos das substâncias utilizadas\nnas monoculturas.\n(B) a maior parte das áreas cultivadas localiza-se no estado do\nTocantins, sendo erodidas pelos rios sem conexão com o\ntopo do Chapadão Ocidental Baiano, o que dificulta a\ndispersão dos agrotóxicos.\n(C) a bacia do rio São Francisco é ameaçada pelos agrotóxicos,\npois os divisores de águas nas áreas do Chapadão tendem\na fluir as substâncias nas drenagens somente para o\nestado da Bahia.\n(D) tanto a bacia do rio Tocantins quanto do rio São Francisco\nse encontram distantes das áreas de topo do Chapadão\nOcidental Baiano onde estão as monoculturas,\ndificultando a efluência dos agrotóxicos em ambos.\n(E) a bacia do rio Tocantins é mais ameaçada do que a do São\nFrancisco pela contaminação originada do uso de\nagrotóxicos, pois os divisores de águas convergem para o\nestado do Tocantins.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            28,
+            533.8746,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            381.23470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Fronteira agrícola e hidrografia no oeste baiano",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

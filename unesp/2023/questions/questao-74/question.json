@@ -1,0 +1,88 @@
+{
+  "title": "Questão 74 - UNESP 2023 - 1ª fase",
+  "index": 74,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "O óxido de cério (CeO ), utilizado em catalisadores auto-\n2\nmotivos, é obtido pela reação entre cério metálico e oxigênio. Nessa reação, o número de oxidação do cério varia\nde para , sendo, portanto, o agente .\nAs lacunas do texto são preenchidas, respectivamente, por",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "zero, +4 e redutor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "zero, +4 e oxidante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "zero, +2 e redutor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "+1, +4 e redutor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "+1, +2 e oxidante.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O óxido de cério (CeO ), utilizado em catalisadores auto-\n2\nmotivos, é obtido pela reação entre cério metálico e oxigê-\nnio. Nessa reação, o número de oxidação do cério varia\nde para , sendo, por-\ntanto, o agente .\nAs lacunas do texto são preenchidas, respectivamente, por\n(A) zero, +4 e redutor.\n(B) zero, +4 e oxidante.\n(C) zero, +2 e redutor.\n(D) +1, +4 e redutor.\n(E) +1, +2 e oxidante.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            246.80999999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

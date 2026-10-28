@@ -1,0 +1,113 @@
+{
+  "title": "Questão 77 - UNESP 2026 - 1ª fase",
+  "index": 77,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "Oslo é uma cidade norueguesa cujas coordenadas geográficas\nsão, aproximadamente, 60º de latitude norte e 11º de longitude\nleste. A figura apresenta meridianos e paralelos que permitem\na localização geográfica dessa cidade no globo terrestre.\n(https://amigopai.wordpress.com. Adaptado.)\nConsidere um morador de Oslo que esteja em repouso em\nrelação ao solo. Levando em consideração apenas o movimento de rotação da Terra e admitindo-a perfeitamente esférica, o ângulo entre o vetor aceleração centrípeta desse morador e a força gravitacional que atua sobre ele é de",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "45º.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "60º.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "30º.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "11º.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "49º.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Oslo é uma cidade norueguesa cujas coordenadas geográficas\nsão, aproximadamente, 60º de latitude norte e 11º de longitude\nleste. A figura apresenta meridianos e paralelos que permitem\na localização geográfica dessa cidade no globo terrestre.\n(https://amigopai.wordpress.com. Adaptado.)\nConsidere um morador de Oslo que esteja em repouso em\nrelação ao solo. Levando em consideração apenas o movi-\nmento de rotação da Terra e admitindo-a perfeitamente esfé-\nrica, o ângulo entre o vetor aceleração centrípeta desse mo-\nrador e a força gravitacional que atua sobre ele é de\n(A) 45º.\n(B) 60º.\n(C) 30º.\n(D) 11º.\n(E) 49º.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 32,
+        "bbox": [
+          41.803000000000004,
+          107.73219999999992,
+          283.66540000000003,
+          375.30109999999996
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

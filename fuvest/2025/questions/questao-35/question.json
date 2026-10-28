@@ -1,0 +1,100 @@
+{
+  "title": "Questão 35 - FUVEST 2025 - 1ª fase",
+  "index": 35,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "“Ele vê o gesto do advogado Dr. Otávio Conti, no café,\nmetendo a mão no bolso, tirando uma cédula de cem mil-\nréis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você\nme devolve depois.’ Não é bem caridade... Ele não sabe\nexplicar... Há nisso um certo tom de versatilidade... de\nfacilidade... de um tal ou qual afrouxamento do caráter... Ele\nvê o Andrade tirando, com o gesto do Dr. Otávio Conti, a\n‘mesma’ cédula do bolso e entregando-lha... A casa\naristocrática acha-se perto. A numeração já está em quase\ntrezentos. Uma pequena aragem que sopra levemente nesta\nparte alta da rua passa-lhe pelas mãos e esfria-as... O seu\ncorpo suado fica como que um bloco gelado e dá-lhe a\nsensação de que se encolhe, se retrai dentro da sua roupa\nquente e assoleada, que dela se despega como duma\ncarapaça. Ao mesmo tempo o coração, que batia lá no fundo\ndo peito, veio palpitar bem à superfície, quase à flor da pele,\nmeio engasgando-o.”\nDyonélio Machado. Os ratos.\nDentre as frases em destaque, a que caracteriza os efeitos\nfisiológicos em Naziazeno da reação de luta ou fuga pela\nativação do sistema nervoso simpático é:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ele vê o gesto do advogado Dr. Otávio Conti, no café,\nmetendo a mão no bolso, tirando uma cédula de cem mil-\nréis e entregando-a ao Duque.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Ele não sabe explicar... Há nisso um certo tom de\nversatilidade... de facilidade... de um tal ou qual\nafrouxamento do caráter...",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti,\na “mesma” cédula do bolso e entregando-lha...",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Uma pequena aragem que sopra levemente nesta parte\nalta da rua passa-lhe pelas mãos e esfria-as.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Ao mesmo tempo o coração, que batia lá no fundo do\npeito, veio palpitar bem à superfície, quase à flor da pele,\nmeio engasgando-o.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“Ele vê o gesto do advogado Dr. Otávio Conti, no café,\nmetendo a mão no bolso, tirando uma cédula de cem mil-\nréis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você\nme devolve depois.’ Não é bem caridade... Ele não sabe\nexplicar... Há nisso um certo tom de versatilidade... de\nfacilidade... de um tal ou qual afrouxamento do caráter... Ele\nvê o Andrade tirando, com o gesto do Dr. Otávio Conti, a\n‘mesma’ cédula do bolso e entregando-lha... A casa\naristocrática acha-se perto. A numeração já está em quase\ntrezentos. Uma pequena aragem que sopra levemente nesta\nparte alta da rua passa-lhe pelas mãos e esfria-as... O seu\ncorpo suado fica como que um bloco gelado e dá-lhe a\nsensação de que se encolhe, se retrai dentro da sua roupa\nquente e assoleada, que dela se despega como duma\ncarapaça. Ao mesmo tempo o coração, que batia lá no fundo\ndo peito, veio palpitar bem à superfície, quase à flor da pele,\nmeio engasgando-o.”\nDyonélio Machado. Os ratos.\nDentre as frases em destaque, a que caracteriza os efeitos\nfisiológicos em Naziazeno da reação de luta ou fuga pela\nativação do sistema nervoso simpático é:\n(A) Ele vê o gesto do advogado Dr. Otávio Conti, no café,\nmetendo a mão no bolso, tirando uma cédula de cem mil-\nréis e entregando-a ao Duque.\n(B) Ele não sabe explicar... Há nisso um certo tom de\nversatilidade... de facilidade... de um tal ou qual\nafrouxamento do caráter...\n(C) Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti,\na “mesma” cédula do bolso e entregando-lha...\n(D) Uma pequena aragem que sopra levemente nesta parte\nalta da rua passa-lhe pelas mãos e esfria-as.\n(E) Ao mesmo tempo o coração, que batia lá no fundo do\npeito, veio palpitar bem à superfície, quase à flor da pele,\nmeio engasgando-o.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            28,
+            401.6347,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            121.61469999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "topic": "Sistema nervoso simpático e respostas fisiológicas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

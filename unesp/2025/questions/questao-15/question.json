@@ -1,0 +1,142 @@
+{
+  "title": "Questão 15 - UNESP 2025 - 1ª fase",
+  "index": 15,
+  "year": 2025,
+  "discipline": "Artes",
+  "language": null,
+  "context": "Para responder às questões de 13 a 15, leia um trecho do\nartigo “Quantos jovens sabem que o adjetivo ‘surreal’ deriva\nde um movimento centenário?”, do escritor e jornalista Sérgio\nAugusto, publicado em 25.02.2024.\nQuantos de nossos jovens saberão que o adjetivo “surreal”, por eles usado a torto e a direito para qualificar qualquer coisa que lhes pareça absurda, deriva de um dos movimentos de vanguarda mais controversos e influentes do\nséculo passado? Tão do século passado, que está fazendo\n100 anos. O surrealismo, fruto de uma época quase tão conturbada quanto a nossa e também assolada por uma pandemia (a gripe espanhola), nasceu oficialmente em 1924,\nimpulsionado pelo manifesto de André Breton.\nNesse manifesto, Breton detonava o equilíbrio, o realismo (“hostil a todo impulso de liberação intelectual e moral” e\nrefúgio dos medíocres), proclamava a prevalência absoluta\ndo sonho, do inconsciente, do instinto e do desejo, pregava a\nrenovação de todos os valores filosóficos, morais, políticos e\ncientíficos, preconizando uma nova maneira radical de ver as\nartes, o mundo – e a vida.\n“Não é o medo da loucura que nos vai obrigar a hastear a\nmeio pau a bandeira da imaginação”, ameaçava Breton numa\ndas melhores imprecações do manifesto, visceralmente antimilitarista (a Grande Guerra terminara seis anos antes) e anticlerical. Porém, esperançoso. Augurou que um dia a poesia\ndecretasse o fim do dinheiro, utopia que a poesia não logrou,\nnem o Pix deverá consumar.\n(www.estadao.com.br. Adaptado.)\n\nUma obra representativa do movimento explorado no artigo\nestá reproduzida em:",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma obra representativa do movimento explorado no artigo\nestá reproduzida em:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": "Para responder às questões de 13 a 15, leia um trecho do\nartigo “Quantos jovens sabem que o adjetivo ‘surreal’ deriva\nde um movimento centenário?”, do escritor e jornalista Sérgio\nAugusto, publicado em 25.02.2024.\nQuantos de nossos jovens saberão que o adjetivo “surreal”, por eles usado a torto e a direito para qualificar qualquer coisa que lhes pareça absurda, deriva de um dos movimentos de vanguarda mais controversos e influentes do\nséculo passado? Tão do século passado, que está fazendo\n100 anos. O surrealismo, fruto de uma época quase tão conturbada quanto a nossa e também assolada por uma pandemia (a gripe espanhola), nasceu oficialmente em 1924,\nimpulsionado pelo manifesto de André Breton.\nNesse manifesto, Breton detonava o equilíbrio, o realismo (“hostil a todo impulso de liberação intelectual e moral” e\nrefúgio dos medíocres), proclamava a prevalência absoluta\ndo sonho, do inconsciente, do instinto e do desejo, pregava a\nrenovação de todos os valores filosóficos, morais, políticos e\ncientíficos, preconizando uma nova maneira radical de ver as\nartes, o mundo – e a vida.\n“Não é o medo da loucura que nos vai obrigar a hastear a\nmeio pau a bandeira da imaginação”, ameaçava Breton numa\ndas melhores imprecações do manifesto, visceralmente antimilitarista (a Grande Guerra terminara seis anos antes) e anticlerical. Porém, esperançoso. Augurou que um dia a poesia\ndecretasse o fim do dinheiro, utopia que a poesia não logrou,\nnem o Pix deverá consumar.\n(www.estadao.com.br. Adaptado.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            403.98789999999997
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            22,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Artes",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

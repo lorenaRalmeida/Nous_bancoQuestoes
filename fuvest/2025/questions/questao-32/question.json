@@ -1,0 +1,102 @@
+{
+  "title": "Questão 32 - FUVEST 2025 - 1ª fase",
+  "index": 32,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "O fenômeno físico conhecido como iridescência ocorre nas\nasas de certas espécies de borboletas e caracteriza-se pela\nvariação das cores de acordo com o ângulo de observação. A\nexistência de faixas coloridas na superfície das asas das\nborboletas ocorre devido a diferentes formas de superposição\nentre raios luminosos refletidos por uma fina camada de\nsubstância transparente existente na superfície das asas.\nDisponível em https://www.pbs.org/wgbh/.\nOs fenômenos físicos diretamente relacionados com a\niridescência são",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dilatação e reflexão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "interferência e dilatação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "dissipação e difração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "convecção e dispersão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reflexão e interferência.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nO fenômeno físico conhecido como iridescência ocorre nas\nasas de certas espécies de borboletas e caracteriza-se pela\nvariação das cores de acordo com o ângulo de observação. A\nexistência de faixas coloridas na superfície das asas das\nborboletas ocorre devido a diferentes formas de superposição\nentre raios luminosos refletidos por uma fina camada de\nsubstância transparente existente na superfície das asas.\nDisponível em https://www.pbs.org/wgbh/.\nOs fenômenos físicos diretamente relacionados com a\niridescência são\n(A) dilatação e reflexão.\n(B) interferência e dilatação.\n(C) dissipação e difração.\n(D) convecção e dispersão.\n(E) reflexão e interferência.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            28,
+            434.5147,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Interferência e iridescência",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

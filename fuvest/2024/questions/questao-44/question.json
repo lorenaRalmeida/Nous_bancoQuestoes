@@ -1,0 +1,88 @@
+{
+  "title": "Questão 44 - FUVEST 2024 - 1ª fase",
+  "index": 44,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“Industrializar é uma condição de vida, é uma absoluta e\nimperiosa necessidade, é mesmo um dever de que já não está\nao nosso alcance declinar. Nem que o quiséssemos, não\npoderíamos sobreviver conservando-nos nação pastoril e\nagrícola, no velho estilo, exportando café e umas poucas\nmatérias-primas [...] Industrializar um país não é uma obra\nmágica que possa ser feita sem preparo, ao simples sopro de\numa aspiração. É necessário que exista uma mentalidade\nindustrial, um estado de espírito propício ao\ndesenvolvimento, é necessário que existam gerações\npreparadas para a ação.”\nOLIVEIRA, Juscelino Kubitschek de. Industrialização: batalha pela própria\nsobrevivência da nacionalidade. São Paulo: Serviço de Publicações da\nFederação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10.\nA “mentalidade industrial”, proposta pelo então presidente\nJuscelino Kubitschek, concretiza-se em seu governo (1956-\n1961) sob a forma",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "de grandes investimentos na educação básica e na\nfundação de centros de pesquisa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "de incentivos à diversificação e mecanização da produção\nagrícola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da implantação de formas racionais de organização do\ntrabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da ação governamental embasada em concepção\nnacionalista e trabalhista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "de um projeto desenvolvimentista amparado por incentivos\ne captação de recursos estrangeiros.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Industrializar é uma condição de vida, é uma absoluta e\nimperiosa necessidade, é mesmo um dever de que já não está\nao nosso alcance declinar. Nem que o quiséssemos, não\npoderíamos sobreviver conservando-nos nação pastoril e\nagrícola, no velho estilo, exportando café e umas poucas\nmatérias-primas [...] Industrializar um país não é uma obra\nmágica que possa ser feita sem preparo, ao simples sopro de\numa aspiração. É necessário que exista uma mentalidade\nindustrial, um estado de espírito propício ao\ndesenvolvimento, é necessário que existam gerações\npreparadas para a ação.”\nOLIVEIRA, Juscelino Kubitschek de. Industrialização: batalha pela própria\nsobrevivência da nacionalidade. São Paulo: Serviço de Publicações da\nFederação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10.\nA “mentalidade industrial”, proposta pelo então presidente\nJuscelino Kubitschek, concretiza-se em seu governo (1956-\n1961) sob a forma\n(A) de grandes investimentos na educação básica e na\nfundação de centros de pesquisa.\n(B) de incentivos à diversificação e mecanização da produção\nagrícola.\n(C) da implantação de formas racionais de organização do\ntrabalho.\n(D) da ação governamental embasada em concepção\nnacionalista e trabalhista.\n(E) de um projeto desenvolvimentista amparado por incentivos\ne captação de recursos estrangeiros.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            415.73470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Desenvolvimentismo de Juscelino Kubitschek",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

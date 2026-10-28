@@ -1,0 +1,114 @@
+{
+  "title": "Questão 77 - UNESP 2024 - 1ª fase",
+  "index": 77,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "A figura 1 representa uma molécula de DNA, que se assemelha a uma escada contorcida, isto é, tem o formato de uma\ndupla hélice. Analisado quimicamente, o DNA apresenta duas\nfitas complementares unidas por ligações existentes entre os\npares de bases nitrogenadas, que podem ser adenina, citosina, timina ou guanina.\nFigura 1\n(www.biologianet.com. Adaptado.)\nConsidere que as duas bases nitrogenadas, B e B , repre-\n1 2\nsentadas na figura 2 por suas fórmulas estruturais, sejam ligadas uma à outra apenas pelas ações das forças elétricas\nF , F , F e F decorrentes das combinações O H – N e\n1 2 3 4\nN – H N, mostradas em destaque, e que essas combinações sejam paralelas entre si.\nFigura 2\n(Hugh D. Young e Roger A. Freedman. Física III.\nEletromagnetismo, 2016. Adaptado.)\nSabendo que as intensidades das forças são F = 8,0 × 10– 9 N,\n1\nF = 3,0 × 10– 9 N, F = 2,6 × 10– 9 N e F = 6,4 × 10– 9 N,\n2 3 4\ne considerando os possíveis pareamentos entre as bases\nnitrogenadas no DNA, as bases B e B são, respectivamente,\n1 2",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "guanina e timina, e a intensidade da força elétrica resultante que B exerce em B é 8,8 × 10– 9 N.\n2 1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "citosina e adenina, e a intensidade da força elétrica resultante que B exerce em B é 2,0 × 10– 9 N.\n2 1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "timina e adenina, e a intensidade da força elétrica resultante que B exerce em B é 8,8 × 10– 9 N.\n2 1",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "timina e adenina, e a intensidade da força elétrica resultante que B exerce em B é 2,0 × 10– 8 N.\n2 1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "citosina e guanina, e a intensidade da força elétrica resultante que B exerce em B é 1,2 × 10– 9 N.\n2 1",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura 1 representa uma molécula de DNA, que se asseme-\nlha a uma escada contorcida, isto é, tem o formato de uma\ndupla hélice. Analisado quimicamente, o DNA apresenta duas\nfitas complementares unidas por ligações existentes entre os\npares de bases nitrogenadas, que podem ser adenina, citosi-\nna, timina ou guanina.\nFigura 1\n(www.biologianet.com. Adaptado.)\nConsidere que as duas bases nitrogenadas, B e B , repre-\n1 2\nsentadas na figura 2 por suas fórmulas estruturais, sejam li-\ngadas uma à outra apenas pelas ações das forças elétricas\nF , F , F e F decorrentes das combinações O H – N e\n1 2 3 4\nN – H N, mostradas em destaque, e que essas combina-\nções sejam paralelas entre si.\nFigura 2\n(Hugh D. Young e Roger A. Freedman. Física III.\nEletromagnetismo, 2016. Adaptado.)\nSabendo que as intensidades das forças são F = 8,0 × 10– 9 N,\n1\nF = 3,0 × 10– 9 N, F = 2,6 × 10– 9 N e F = 6,4 × 10– 9 N,\n2 3 4\ne considerando os possíveis pareamentos entre as bases\nnitrogenadas no DNA, as bases B e B são, respectivamente,\n1 2\n(A) guanina e timina, e a intensidade da força elétrica resul-\ntante que B exerce em B é 8,8 × 10– 9 N.\n2 1\n(B) citosina e adenina, e a intensidade da força elétrica resul-\ntante que B exerce em B é 2,0 × 10– 9 N.\n2 1\n(C) timina e adenina, e a intensidade da força elétrica resul-\ntante que B exerce em B é 8,8 × 10– 9 N.\n2 1\n(D) timina e adenina, e a intensidade da força elétrica resul-\ntante que B exerce em B é 2,0 × 10– 8 N.\n2 1\n(E) citosina e guanina, e a intensidade da força elétrica resul-\ntante que B exerce em B é 1,2 × 10– 9 N.\n2 1",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 29,
+        "bbox": [
+          30,
+          423.7345,
+          291,
+          554.6301
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

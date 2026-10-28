@@ -1,0 +1,98 @@
+{
+  "title": "Questão 37 - UNESP 2023 - 1ª fase",
+  "index": 37,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Muitos escravos e libertos recorriam aos orixás para\nresolver diferentes tipos de problema. Aos poucos, a crença nos orixás foi se desenvolvendo e, no século XIX, deu\norigem ao Candomblé. Essa religião era formada por “irmãos de fé”, pessoas que acreditavam nos orixás e que se\nreuniam em torno de uma mesma casa ou terreiro. Nesse\nespaço, que era comandado por uma mãe de santo ou um\npai de santo, além de realizar suas cerimônias religiosas,\nentrar em contato com seus deuses e buscar respostas\npor meio de jogos de adivinhação (como o jogo de búzios),\nmuitos escravos e libertos conseguiram formar outra família, família essa que muito se assemelhava com as grandes\nlinhagens existentes em diversas localidades africanas.\n(Ynaê Lopes dos Santos.\nHistória da África e do Brasil afrodescendente, 2017.)\nO texto caracteriza o Candomblé como",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uma estratégia de recusa e resistência dos escravizados\ndiante dos esforços de catequização empreendidos pelos\njesuítas portugueses.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uma tentativa de conciliar características de distintas religiosidades de matriz africana, como o politeísmo e as\nidolatrias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uma religião derivada de crenças de origem africana, que\npossibilitou o surgimento de espaços de sociabilidade e\nsolidariedade entre escravizados.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "uma religião trazida da África e praticada no Brasil pelos\nescravizados como uma forma de manter contato com as\norigens e os antepassados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "uma religião de matriz islâmica que permitia a unificação\ndos escravizados procedentes de diversas regiões da\nÁfrica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Muitos escravos e libertos recorriam aos orixás para\nresolver diferentes tipos de problema. Aos poucos, a cren-\nça nos orixás foi se desenvolvendo e, no século XIX, deu\norigem ao Candomblé. Essa religião era formada por “ir-\nmãos de fé”, pessoas que acreditavam nos orixás e que se\nreuniam em torno de uma mesma casa ou terreiro. Nesse\nespaço, que era comandado por uma mãe de santo ou um\npai de santo, além de realizar suas cerimônias religiosas,\nentrar em contato com seus deuses e buscar respostas\npor meio de jogos de adivinhação (como o jogo de búzios),\nmuitos escravos e libertos conseguiram formar outra famí-\nlia, família essa que muito se assemelhava com as grandes\nlinhagens existentes em diversas localidades africanas.\n(Ynaê Lopes dos Santos.\nHistória da África e do Brasil afrodescendente, 2017.)\nO texto caracteriza o Candomblé como\n(A) uma estratégia de recusa e resistência dos escravizados\ndiante dos esforços de catequização empreendidos pelos\njesuítas portugueses.\n(B) uma tentativa de conciliar características de distintas re-\nligiosidades de matriz africana, como o politeísmo e as\nidolatrias.\n(C) uma religião derivada de crenças de origem africana, que\npossibilitou o surgimento de espaços de sociabilidade e\nsolidariedade entre escravizados.\n(D) uma religião trazida da África e praticada no Brasil pelos\nescravizados como uma forma de manter contato com as\norigens e os antepassados.\n(E) uma religião de matriz islâmica que permitia a unificação\ndos escravizados procedentes de diversas regiões da\nÁfrica.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

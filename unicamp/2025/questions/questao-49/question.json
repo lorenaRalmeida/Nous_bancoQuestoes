@@ -1,0 +1,97 @@
+{
+  "title": "Questão 49 - UNICAMP 2025 - 1ª fase",
+  "index": 49,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Um telefone celular custava R$ 2.000,00 em janeiro. Em abril,\nseu preço foi reajustado em 10%. Em junho, o preço foi novamente reajustado em 10%. Numa promoção, em novembro,\nRogério finalmente comprou, com um desconto de 20%, o celular. Quanto ele pagou pelo aparelho?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 1.896,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 1.936,00.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "R$ 2.000,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "R$ 2.052,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um telefone celular custava R$ 2.000,00 em janeiro. Em abril,\nseu preço foi reajustado em 10%. Em junho, o preço foi nova-\nmente reajustado em 10%. Numa promoção, em novembro,\nRogério finalmente comprou, com um desconto de 20%, o ce-\nlular. Quanto ele pagou pelo aparelho?\na) R$ 1.896,00.\nb) R$ 1.936,00.\nacitámetaM\narutieL\nsaicnêiC\nMédia\nOCDE\nBrasil\nMédia\nOCDE\n868\n2025\n289\n2025\n675\n2025\n951\n2025\nc) R$ 2.000,00.\nd) R$ 2.052,00.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            670.0771,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            40,
+            291,
+            101.10820000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

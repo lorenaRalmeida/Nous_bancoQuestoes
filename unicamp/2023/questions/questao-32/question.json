@@ -1,0 +1,92 @@
+{
+  "title": "Questão 32 - UNICAMP 2023 - 1ª fase",
+  "index": 32,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o\nmundo, oferece um belo espetáculo para os observadores no\nsolo. Um maçarico é usado para aquecer o ar no interior do\nbalão, o que faz variar a densidade do ar, permitindo o controle\ndo movimento de subida e descida do balão.\n\nUm balão tem um volume V = 1,6 × 103 m3 de ar quente no\nseu interior na temperatura T = 400 K e na pressão atmosférica\np = 1,0 atm = 1,0 × 105 Pa. Sabendo-se que o ar quente se\n0\ncomporta como um gás ideal e que a constante universal dos\ngases é R ≅ 8 J/mol.K, quantos mols de ar n há no interior do\nbalão?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5,0 × 10−1 mol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4,0 × 100 mol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "5,0 × 104 mol.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "4,0 × 105 mol.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um balão tem um volume V = 1,6 × 103 m3 de ar quente no\nseu interior na temperatura T = 400 K e na pressão atmosférica\np = 1,0 atm = 1,0 × 105 Pa. Sabendo-se que o ar quente se\n0\ncomporta como um gás ideal e que a constante universal dos\ngases é R ≅ 8 J/mol.K, quantos mols de ar n há no interior do\nbalão?\na) 5,0 × 10−1 mol. c) 5,0 × 104 mol.\nb) 4,0 × 100 mol. d) 4,0 × 105 mol.",
+    "sharedContext": "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o\nmundo, oferece um belo espetáculo para os observadores no\nsolo. Um maçarico é usado para aquecer o ar no interior do\nbalão, o que faz variar a densidade do ar, permitindo o controle\ndo movimento de subida e descida do balão.",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            139.69799999999998,
+            568,
+            244.5752
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            542.2378,
+            568,
+            711.4552
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

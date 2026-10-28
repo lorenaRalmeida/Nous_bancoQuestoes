@@ -1,0 +1,102 @@
+{
+  "title": "Questão 57 - FUVEST 2025 - 1ª fase",
+  "index": 57,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Em países frios, é comum o uso de pequenos aquecedores de\nmãos, normalmente descartáveis, que podem ser colocados\ndentro de luvas. Uma alternativa mais sustentável é o\naquecedor de mão reutilizável, que é constituído por uma\nsolução aquosa supersaturada de acetato de sódio\narmazenada em um reservatório maleável, conforme\nmostrado na figura a seguir.\nUm choque mecânico nesse reservatório perturba a solução\nsupersaturada e leva à precipitação do sal, resultando no seu\naquecimento. Após o uso, o aquecedor pode ser regenerado\npor imersão em água quente, que dissolve o sal, deixando-o\npronto para ser reutilizado.\nEm relação à operação desse aquecedor, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A precipitação do acetato de sódio é exotérmica e sua\nsolubilização é endotérmica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "A diminuição da temperatura aumenta a solubilidade do\nacetato de sódio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A solubilização do acetato de sódio para a regeneração do\naquecedor libera energia, aquecendo o banho de água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Quando o aquecedor é regenerado, a solução interna\npassa de supersaturada para uma solução diluída.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A concentração de acetato de sódio na solução dentro do\nreservatório não muda durante a regeneração do aquecedor.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nEm países frios, é comum o uso de pequenos aquecedores de\nmãos, normalmente descartáveis, que podem ser colocados\ndentro de luvas. Uma alternativa mais sustentável é o\naquecedor de mão reutilizável, que é constituído por uma\nsolução aquosa supersaturada de acetato de sódio\narmazenada em um reservatório maleável, conforme\nmostrado na figura a seguir.\nUm choque mecânico nesse reservatório perturba a solução\nsupersaturada e leva à precipitação do sal, resultando no seu\naquecimento. Após o uso, o aquecedor pode ser regenerado\npor imersão em água quente, que dissolve o sal, deixando-o\npronto para ser reutilizado.\nEm relação à operação desse aquecedor, é correto afirmar:\n(A) A precipitação do acetato de sódio é exotérmica e sua\nsolubilização é endotérmica.\n(B) A diminuição da temperatura aumenta a solubilidade do\nacetato de sódio.\n(C) A solubilização do acetato de sódio para a regeneração do\naquecedor libera energia, aquecendo o banho de água.\n(D) Quando o aquecedor é regenerado, a solução interna\npassa de supersaturada para uma solução diluída.\n(E) A concentração de acetato de sódio na solução dentro do\nreservatório não muda durante a regeneração do aquecedor.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            297.5,
+            289.3147,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Soluções supersaturadas e calor de cristalização",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

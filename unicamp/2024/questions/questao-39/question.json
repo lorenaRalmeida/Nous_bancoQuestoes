@@ -1,0 +1,106 @@
+{
+  "title": "Questão 39 - UNICAMP 2024 - 1ª fase",
+  "index": 39,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Texto comum às questões 39 e 40.\nA neurotransmissão no organismo humano pode ter origem\nquímica ou elétrica. O entendimento das sinapses elétricas\nocorreu só mais recentemente, graças a estudos avançados das\npropriedades elétricas dos neurônios. As propriedades mecânicas dos neurônios – como a elasticidade – são, por seu turno,\nimportantes para a compreensão do desenvolvimento deles.\n\nEm um estudo do comportamento elétrico de neurônios, aplica-se uma diferença de potencial elétrico (ddp, da ordem de\n10 –3 V) e mede-se a corrente elétrica (da ordem de 10 –12 A) que\npassa pelo sistema. A partir dos resultados desse experimento,\nrepresentados no gráfico da figura a seguir, conclui-se que a\nresistência elétrica do sistema é igual a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "14 Ω.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "70 mΩ.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "70 MΩ.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "14 GΩ.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em um estudo do comportamento elétrico de neurônios, apli-\nca-se uma diferença de potencial elétrico (ddp, da ordem de\n10 –3 V) e mede-se a corrente elétrica (da ordem de 10 –12 A) que\npassa pelo sistema. A partir dos resultados desse experimento,\nrepresentados no gráfico da figura a seguir, conclui-se que a\nresistência elétrica do sistema é igual a\na) 14 Ω. c) 70 MΩ.\nb) 70 mΩ. d) 14 GΩ.",
+    "sharedContext": "Texto comum às questões 39 e 40.\nA neurotransmissão no organismo humano pode ter origem\nquímica ou elétrica. O entendimento das sinapses elétricas\nocorreu só mais recentemente, graças a estudos avançados das\npropriedades elétricas dos neurônios. As propriedades mecânicas dos neurônios – como a elasticidade – são, por seu turno,\nimportantes para a compreensão do desenvolvimento deles.",
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            578.2398,
+            568,
+            680.2823
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            680.2823,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            40,
+            291,
+            266.77070000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

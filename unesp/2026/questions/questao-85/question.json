@@ -1,0 +1,118 @@
+{
+  "title": "Questão 85 - UNESP 2026 - 1ª fase",
+  "index": 85,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Leia o excerto e considere os dados da tabela.\nJohn Galbraith, no prefácio do Human Development\nReport do Programa de Desenvolvimento Humano das\nNações Unidas, em 1998, documentou que os 20% mais\npobres da população mundial consumiam 1,3% do PIB\nmundial. Em 2013, os 20% mais pobres da população\nmundial passaram a consumir 1% do PIB mundial.\n(Zygmunt Bauman. A riqueza de\npoucos beneficia todos nós?, 2015. Adaptado.)\nPopulação mundial PIB mundial aproximado\nAno\naproximada (em US$)\n1998 6 × 10⁹ 3,2 × 10¹³\n2013 7,3 × 10⁹ 7,8 × 10¹³\n(https://data.worldbank.org, 30.07.2025. Adaptado.)\nApesar de a tabela indicar um crescimento do PIB mundial\nem cerca de 144% de 1998 para 2013, as informações contidas no texto, em associação com os dados da tabela, indicam que o aumento do consumo do PIB mundial, per capita,\ndos 20% mais pobres da população mundial, no período de\n1998 a 2013, esteve entre",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "70% e 80%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "60% e 70%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "80% e 90%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "50% e 60%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "90% e 100%.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o excerto e considere os dados da tabela.\nJohn Galbraith, no prefácio do Human Development\nReport do Programa de Desenvolvimento Humano das\nNações Unidas, em 1998, documentou que os 20% mais\npobres da população mundial consumiam 1,3% do PIB\nmundial. Em 2013, os 20% mais pobres da população\nmundial passaram a consumir 1% do PIB mundial.\n(Zygmunt Bauman. A riqueza de\npoucos beneficia todos nós?, 2015. Adaptado.)\nPopulação mundial PIB mundial aproximado\nAno\naproximada (em US$)\n1998 6 × 109 3,2 × 1013\n2013 7,3 × 109 7,8 × 1013\n(https://data.worldbank.org, 30.07.2025. Adaptado.)\nApesar de a tabela indicar um crescimento do PIB mundial\nem cerca de 144% de 1998 para 2013, as informações con-\ntidas no texto, em associação com os dados da tabela, indi-\ncam que o aumento do consumo do PIB mundial, per capita,\ndos 20% mais pobres da população mundial, no período de\n1998 a 2013, esteve entre\n(A) 70% e 80%.\n(B) 60% e 70%.\n(C) 80% e 90%.\n(D) 50% e 60%.\n(E) 90% e 100%.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 36,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 36,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 36,
+        "bbox": [
+          30,
+          172.73699999999997,
+          291,
+          251.0992
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

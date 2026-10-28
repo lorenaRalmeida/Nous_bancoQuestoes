@@ -1,0 +1,96 @@
+{
+  "title": "Questão 69 - UNICAMP 2023 - 1ª fase",
+  "index": 69,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored\nmultiple waves of political unrest. The use of this avantgarde art style for political activism has spread to the Bay\nArea, California. As an influx of white upper-class residents\ndisplaced low-income households, the anger of local people\nfueled a movement to take back the streets via spray paint,\nvideo projections, stenciling — any street art medium.\nBay Area activists are weaponizing street art to unite the\nmasses and reclaim their communities’ stolen narratives,\nre-imagining better futures alongside comrades across the\nnation. Their freeing and colorful art combats the virulent\nsystems of oppression that white supremacy has entrenched\nin our society, those same systems which mark their craft as\nillegal under the guise of vandalism. Street art democratizes\npublic spaces and takes back the streets as effectively as\nphysical protests. As a street artist, Nancypili Hernandez says\nthat her art transforms “locations that feel like a parking\nlot or private property, to feeling like a collective community\ncommons.”\n(Adaptado de: https://harvardpolitics.com/street-art-activism/. Acesso em 20/06/2022.)\nTexto 2\n(Disponível em: https://banksy.co.uk/out.html. Acesso em 07/07/2022.)\n\nConsiderando os Textos 1 e 2, assinale a alternativa que preenche corretamente as lacunas do trecho a seguir.\nA construção de sentidos na fotografia (Texto 2) se dá, entre\noutras coisas, por meio da (i) _____________ da palavra pintada\nno muro. Além disso, a fotografia retrata (ii) ______________\ncitada no texto apresentado anteriormente (Texto 1).",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(i) composição imagética; (ii) a desigualdade social",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(i) exploração da polissemia; (ii) uma prática",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "(i) supressão dos afixos; (ii) a supremacia branca",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(i) mudança de tempo verbal; (ii) uma localidade",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considerando os Textos 1 e 2, assinale a alternativa que preen-\nche corretamente as lacunas do trecho a seguir.\nA construção de sentidos na fotografia (Texto 2) se dá, entre\noutras coisas, por meio da (i) _____________ da palavra pintada\nno muro. Além disso, a fotografia retrata (ii) ______________\ncitada no texto apresentado anteriormente (Texto 1).\na) (i) composição imagética; (ii) a desigualdade social\nb) (i) exploração da polissemia; (ii) uma prática\nc) (i) supressão dos afixos; (ii) a supremacia branca\nd) (i) mudança de tempo verbal; (ii) uma localidade",
+    "sharedContext": "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored\nmultiple waves of political unrest. The use of this avantgarde art style for political activism has spread to the Bay\nArea, California. As an influx of white upper-class residents\ndisplaced low-income households, the anger of local people\nfueled a movement to take back the streets via spray paint,\nvideo projections, stenciling — any street art medium.\nBay Area activists are weaponizing street art to unite the\nmasses and reclaim their communities’ stolen narratives,\nre-imagining better futures alongside comrades across the\nnation. Their freeing and colorful art combats the virulent\nsystems of oppression that white supremacy has entrenched\nin our society, those same systems which mark their craft as\nillegal under the guise of vandalism. Street art democratizes\npublic spaces and takes back the streets as effectively as\nphysical protests. As a street artist, Nancypili Hernandez says\nthat her art transforms “locations that feel like a parking\nlot or private property, to feeling like a collective community\ncommons.”\n(Adaptado de: https://harvardpolitics.com/street-art-activism/. Acesso em 20/06/2022.)\nTexto 2\n(Disponível em: https://banksy.co.uk/out.html. Acesso em 07/07/2022.)",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            132.82209999999998,
+            291,
+            668.8804
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            141.8646,
+            568,
+            380.0694
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

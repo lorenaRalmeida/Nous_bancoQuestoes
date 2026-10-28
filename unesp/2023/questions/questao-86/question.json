@@ -1,0 +1,149 @@
+{
+  "title": "Questão 86 - UNESP 2023 - 1ª fase",
+  "index": 86,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Na figura, BELO é um losango com vértices E e O nos lados BA e LU, respectivamente, do retângulo BALU. A diagonal BL de BALU forma um ângulo de 30º com o lado LU, como\nmostra a figura.\nSe a medida do lado do losango BELO é igual a 2 cm, a área\ndo retângulo BALU será igual a:",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(3√3)/2 cm²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3√3 cm²",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "5√3 cm²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(7√3)/2 cm²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2√3 cm²",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na figura, BELO é um losango com vértices E e O nos lados\n, respectivamente, do retângulo BALU. A diagonal\nde BALU forma um ângulo de 30º com o lado , como\nmostra a figura.\nSe a medida do lado do losango BELO é igual a 2 cm, a área\ndo retângulo BALU será igual a:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 32,
+        "bbox": [
+          304,
+          53.928699999999935,
+          345.3288,
+          78.15340000000003
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 32,
+        "bbox": [
+          512.3075,
+          68.31190000000004,
+          539.4145,
+          92.51790000000005
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 32,
+        "bbox": [
+          304,
+          68.79750000000001,
+          325.05240000000003,
+          92.89419999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 32,
+        "bbox": [
+          324.3813,
+          95.03790000000004,
+          542.9399,
+          242.1495
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

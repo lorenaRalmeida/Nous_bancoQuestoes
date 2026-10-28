@@ -1,0 +1,123 @@
+{
+  "title": "Questão 48 - UNESP 2026 - 1ª fase",
+  "index": 48,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O mapa a seguir está dividido segundo a regionalização dos\nQuatro Brasis e apresenta os prazos de entrega do comércio\neletrônico no Brasil, em 2023.\n(Igor Venceslau. Confins, no 65, 2024. Adaptado.)\nA variação no prazo de entrega do comércio eletrônico no\nterritório brasileiro e a regionalização adotada na elaboração\ndesse mapa são determinadas",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pela delimitação das unidades político-administrativas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pelo poder de compra equiparado entre as unidades\nda federação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pela desconcentração das unidades produtivas no país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pela densidade do meio técnico-científico-informacional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "pelo grau de desenvolvimento socioambiental das cidades.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O mapa a seguir está dividido segundo a regionalização dos\nQuatro Brasis e apresenta os prazos de entrega do comércio\neletrônico no Brasil, em 2023.\n(Igor Venceslau. Confins, no 65, 2024. Adaptado.)\nA variação no prazo de entrega do comércio eletrônico no\nterritório brasileiro e a regionalização adotada na elaboração\ndesse mapa são determinadas\n(A) pela delimitação das unidades político-administrativas.\n(B) pelo poder de compra equiparado entre as unidades\nda federação.\n(C) pela desconcentração das unidades produtivas no país.\n(D) pela densidade do meio técnico-científico-informacional.\n(E) pelo grau de desenvolvimento socioambiental das cidades.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 19,
+        "bbox": [
+          304.601,
+          326.35949999999997,
+          329.255,
+          349.59349999999995
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 19,
+        "bbox": [
+          322.8934,
+          327.3198,
+          411.2505,
+          350.2526
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

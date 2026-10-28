@@ -1,0 +1,117 @@
+{
+  "title": "Questão 66 - UNICAMP 2026 - 1ª fase",
+  "index": 66,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "O desafio de ensinar como as reações químicas acontecem está\nno fato de que elas geralmente ocorrem por meio de sinais detectáveis pelos nossos sentidos, enquanto que sua explicação\ngeralmente ocorre em um nível invisível ou abstrato. Johnstone,\npesquisador escocês em educação científica, propôs que, para\nse entender um fenômeno do ponto de vista químico, qualquer\npessoa precisa ser capaz de pensá-lo em três domínios distintos: o macroscópico, o submicroscópico e o simbólico. A seguir,\na figura mostra o triângulo de Johnstone que correlaciona os\ntrês domínios, identificados como (1), (2) e (3). Já as ilustrações\napresentam os domínios de forma aleatória.\n(Adaptado de https://edu.rsc.org/feature/develop-deeper-understanding-with-models/30\n105 19.article. Acesso em 09/10/2025.)\nIlustrações dos domínios\nA E\nCH + 2O = CO + 2H O\n4 2 2 2\nB F\nH\nH C\nH C H O + O 2\nH H\nO\nH\nC\nC + H 2 O\nH OH\nH\nC G\nD H\nC H OH + 3O =\n2 5 (l) 2(g)\n2CO + 3H O\n2(g) 2 (l)\nCom base nas informações do enunciado, da figura e das ilustrações, é correto afirmar que os domínios (1), (2) e (3) do triângulo de Johnstone são representados respectivamente pelas\nilustrações",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(F), (H) e (G), enquanto a ilustração (C) apresenta uma combinação dos domínios simbólico e submicroscópico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(G), (D) e (A), enquanto a ilustração (E) apresenta uma combinação dos domínios simbólico e submicroscópico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(B), (A) e (H), enquanto a ilustração (E) apresenta uma combinação dos domínios simbólico e submicroscópico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(D), (G) e (H), enquanto a ilustração (C) apresenta uma combinação dos domínios simbólico e submicroscópico.\naigrenE\n+\nProgresso da Reação +",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O desafio de ensinar como as reações químicas acontecem está\nno fato de que elas geralmente ocorrem por meio de sinais de-\ntectáveis pelos nossos sentidos, enquanto que sua explicação\ngeralmente ocorre em um nível invisível ou abstrato. Johnstone,\npesquisador escocês em educação científica, propôs que, para\nse entender um fenômeno do ponto de vista químico, qualquer\npessoa precisa ser capaz de pensá-lo em três domínios distin-\ntos: o macroscópico, o submicroscópico e o simbólico. A seguir,\na figura mostra o triângulo de Johnstone que correlaciona os\ntrês domínios, identificados como (1), (2) e (3). Já as ilustrações\napresentam os domínios de forma aleatória.\n(Adaptado de https://edu.rsc.org/feature/develop-deeper-understanding-with-models/30\n105 19.article. Acesso em 09/10/2025.)\nIlustrações dos domínios\nA E\nCH + 2O = CO + 2H O\n4 2 2 2\nB F\nH\nH C\nH C H O + O 2\nH H\nO\nH\nC\nC + H 2 O\nH OH\nH\nC G\nD H\nC H OH + 3O =\n2 5 (l) 2(g)\n2CO + 3H O\n2(g) 2 (l)\nCom base nas informações do enunciado, da figura e das ilus-\ntrações, é correto afirmar que os domínios (1), (2) e (3) do tri-\nângulo de Johnstone são representados respectivamente pelas\nilustrações\na) (F), (H) e (G), enquanto a ilustração (C) apresenta uma com-\nbinação dos domínios simbólico e submicroscópico.\nb) (G), (D) e (A), enquanto a ilustração (E) apresenta uma com-\nbinação dos domínios simbólico e submicroscópico.\nc) (B), (A) e (H), enquanto a ilustração (E) apresenta uma com-\nbinação dos domínios simbólico e submicroscópico.\nd) (D), (G) e (H), enquanto a ilustração (C) apresenta uma com-\nbinação dos domínios simbólico e submicroscópico.\naigrenE\n+\nProgresso da Reação +",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            656.7128,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            40,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 24,
+        "bbox": [
+          304,
+          252.98739999999998,
+          568,
+          631.822
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 16 - UNICAMP 2023 - 1ª fase",
+  "index": 16,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Com o objetivo de mitigar problemas ambientais e encontrar\nalternativas viáveis para a produção de combustíveis, muitas\npropostas têm sido sugeridas. As figuras a seguir mostram rotas\nde transformação que possibilitariam alcançar o objetivo citado.\nLegenda:\nA\nB\nC\nD\nAs figuras anteriores trazem a representação esquemática de diferentes sistemas catalíticos para a reação de transformação de",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png",
+    "imagem-04.png",
+    "imagem-05.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dióxido de carbono em etanol, sendo que A, B, C e D representam, respectivamente: biocatálise, catálise homogênea,\ncatálise heterogênea e fotocatálise.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "dióxido de carbono em etanol, sendo que A, B, C e D representam, respectivamente: biocatálise, catálise homogênea,\nfotocatálise e catálise heterogênea.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "metano em metanol, sendo que A, B, C e D representam,\nrespectivamente: biocatálise, catálise homogênea, catálise\nheterogênea e fotocatálise.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "metano em metanol, sendo que A, B, C e D representam,\nrespectivamente: biocatálise, catálise homogênea, fotocatálise e catálise heterogênea.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Com o objetivo de mitigar problemas ambientais e encontrar\nalternativas viáveis para a produção de combustíveis, muitas\npropostas têm sido sugeridas. As figuras a seguir mostram rotas\nde transformação que possibilitariam alcançar o objetivo citado.\nLegenda:\nA\nB\nC\nD\nAs figuras anteriores trazem a representação esquemática de di-\nferentes sistemas catalíticos para a reação de transformação de\na) dióxido de carbono em etanol, sendo que A, B, C e D repre-\nsentam, respectivamente: biocatálise, catálise homogênea,\ncatálise heterogênea e fotocatálise.\nb) dióxido de carbono em etanol, sendo que A, B, C e D repre-\nsentam, respectivamente: biocatálise, catálise homogênea,\nfotocatálise e catálise heterogênea.\nc) metano em metanol, sendo que A, B, C e D representam,\nrespectivamente: biocatálise, catálise homogênea, catálise\nheterogênea e fotocatálise.\nd) metano em metanol, sendo que A, B, C e D representam,\nrespectivamente: biocatálise, catálise homogênea, fotocatá-\nlise e catálise heterogênea.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            40,
+            568,
+            160.19529999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

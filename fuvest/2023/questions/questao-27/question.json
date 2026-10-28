@@ -1,0 +1,90 @@
+{
+  "title": "Questão 27 - FUVEST 2023 - 1ª fase",
+  "index": 27,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O estado de São Paulo, por suas características climáticas,\napresenta, no outono e no inverno, probabilidade de\nocorrência de geada.\nMARTINELLI, Marcelo. Clima do Estado de São Paulo, Confins, 2010.\nCom base em seu conhecimento sobre o estado de São Paulo\ne os fatores que contribuem para a formação de geadas, é\ncorreto inferir que a maior ocorrência de geadas no estado de\nSão Paulo está associada",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "às maiores altitudes da Serra da Mantiqueira, que\ncontribuem para reduzir a temperatura do ar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "às baixas altitudes do Vale do rio Ribeira de Iguape, que\ncontribuem para a entrada de ar frio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ao efeito da maritimidade, que injeta ar frio para o\ncontinente, diminuindo a temperatura do ar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "às grandes extensões do Planalto Ocidental Paulista, que\nfavorecem o acúmulo de ar frio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "à ausência de cobertura vegetal em grande parte do\nterritório paulista, que potencializa o resfriamento noturno.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O estado de São Paulo, por suas características climáticas,\napresenta, no outono e no inverno, probabilidade de\nocorrência de geada.\nMARTINELLI, Marcelo. Clima do Estado de São Paulo, Confins, 2010.\nCom base em seu conhecimento sobre o estado de São Paulo\ne os fatores que contribuem para a formação de geadas, é\ncorreto inferir que a maior ocorrência de geadas no estado de\nSão Paulo está associada\n(A) às maiores altitudes da Serra da Mantiqueira, que\ncontribuem para reduzir a temperatura do ar.\n(B) às baixas altitudes do Vale do rio Ribeira de Iguape, que\ncontribuem para a entrada de ar frio.\n(C) ao efeito da maritimidade, que injeta ar frio para o\ncontinente, diminuindo a temperatura do ar.\n(D) às grandes extensões do Planalto Ocidental Paulista, que\nfavorecem o acúmulo de ar frio.\n(E) à ausência de cobertura vegetal em grande parte do\nterritório paulista, que potencializa o resfriamento noturno.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            297.5,
+            40.07470000000001,
+            567,
+            524.4547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Geadas e fatores climáticos paulistas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

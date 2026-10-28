@@ -1,0 +1,84 @@
+{
+  "title": "Questão 29 - UNICAMP 2024 - 1ª fase",
+  "index": 29,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Moradores em situação de rua em São Paulo/SP\n(Ronaldo Silva/Photopress/Estadão Conteúdo. https://www.cnnbrasil.com.br/nacional/\nprefeitura-faz-moradores-de-rua-desmontarem-barracas-durante-o-dia/ – Acesso em\n18/06/2023.)\nNas grandes cidades de todo o planeta, com maior ou menor\nintensidade, cresce o número de pessoas em situação de rua.\nNo caso brasileiro, todavia, essa é uma realidade urbana perene,\nagravada em momentos de crise. Segundo estimativa do Instituto de Pesquisa Econômica Aplicada (IPEA), em 2022, existiam\n281.472 pessoas em situação de rua no Brasil.\n(MONTFERRE, H., População em situação de rua supera 281,4 mil pessoas no Brasil.\nIPEA, 08/12/2022)\nO fenômeno descrito no excerto, e reportado na imagem, se\nconstituiu historicamente nas cidades brasileiras em função",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da crise conjuntural da última década, agravada com a pandemia de covid-19; muitas vezes, a gestão urbana impõe a\nessa população a precariedade da circulação sem fim pela\ncidade e mesmo pela rede urbana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "do processo de modernização-urbanização excludente; as\nações de política urbana implementam programas de habitação popular nas áreas centrais para viabilizar a gentrificação e o direito à cidade a essa população.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da crise conjuntural da última década, agravada pela pandemia de covid-19; a gestão urbana busca formas de integrar\nessa população aos espaços urbanos por meio das casas de\nacolhimento e de programas de emprego e renda.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "do processo de modernização-urbanização excludente; a\ngestão urbana promove, muitas vezes, práticas de “higienização” do espaço, isto é, de expulsão, com o apoio de\nsetores da sociedade.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Moradores em situação de rua em São Paulo/SP\n(Ronaldo Silva/Photopress/Estadão Conteúdo. https://www.cnnbrasil.com.br/nacional/\nprefeitura-faz-moradores-de-rua-desmontarem-barracas-durante-o-dia/ – Acesso em\n18/06/2023.)\nNas grandes cidades de todo o planeta, com maior ou menor\nintensidade, cresce o número de pessoas em situação de rua.\nNo caso brasileiro, todavia, essa é uma realidade urbana perene,\nagravada em momentos de crise. Segundo estimativa do Insti-\ntuto de Pesquisa Econômica Aplicada (IPEA), em 2022, existiam\n281.472 pessoas em situação de rua no Brasil.\n(MONTFERRE, H., População em situação de rua supera 281,4 mil pessoas no Brasil.\nIPEA, 08/12/2022)\nO fenômeno descrito no excerto, e reportado na imagem, se\nconstituiu historicamente nas cidades brasileiras em função\na) da crise conjuntural da última década, agravada com a pan-\ndemia de covid-19; muitas vezes, a gestão urbana impõe a\nessa população a precariedade da circulação sem fim pela\ncidade e mesmo pela rede urbana.\nb) do processo de modernização-urbanização excludente; as\nações de política urbana implementam programas de habi-\ntação popular nas áreas centrais para viabilizar a gentrifica-\nção e o direito à cidade a essa população.\nc) da crise conjuntural da última década, agravada pela pande-\nmia de covid-19; a gestão urbana busca formas de integrar\nessa população aos espaços urbanos por meio das casas de\nacolhimento e de programas de emprego e renda.\nd) do processo de modernização-urbanização excludente; a\ngestão urbana promove, muitas vezes, práticas de “higie-\nnização” do espaço, isto é, de expulsão, com o apoio de\nsetores da sociedade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            667.0964
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

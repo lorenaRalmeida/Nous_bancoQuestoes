@@ -1,0 +1,102 @@
+{
+  "title": "Questão 55 - UNICAMP 2026 - 1ª fase",
+  "index": 55,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Texto para as questões 55 e 56.\nA rua é nóix! Sempre com letra minúscula, porque não é o Nós\nda totalidade, uma vez que não sabemos exatamente quem ou\nquantos somos, quem faz parte ou não, quem está dentro ou\nfora. Mas, se pegar para um, vai pegar pra geral. O nóix é sempre mais que um. Mesmo sozinho, na missão, existe algo para\nalém da presença física do eu e do outro. Assumindo nossas\nancestralidades, convivemos com os espíritos daqueles que já\nse foram. O nóix opera pela lógica dos bondes de galera, do\nlado A ou lado B. Quem é amigo fecha com a gente, quem é\nalemão rala. Porque o fechamento é o fundamento ético das\nruas. Recebe-se quem chega de boa, na paz, mas, se vacila, vai.\nCom i e x, o nóix demarca um sotaque, um registro local, um\nlugar, o Pretuguês de Lélia Gonzalez. Desobedecendo à instituída norma culta, o nóix – escrito ou falado – revela sua potência operando à margem da obediência à linguagem fonética\ndominante. O nóix é a potência da contaminação diferencial\ndas diversidades de um povo em tempos e espaços múltiplos,\nque se repete numa atmosfera espectral que ultrapassa a lógica\ntemporal predominante.\n(Adaptado de MORAES, M. J. D. A rua é nóix, Revista Cult, ed. 271, 1 jul. de 2021.)\n\nSobre a diferença que o texto estabelece entre Nós e nóix, podemos afirmar que está relacionada a uma distinção",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "sociocultural, pois esses termos se referem a grupos demarcados distintamente: enquanto Nós é bem delimitado, nóix\ndiz respeito a uma coletividade difusa, mas marcada por\ncompartilhar vivências específicas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "gramatical, pois esses termos não pertencem à mesma classe de palavras: enquanto Nós é um pronome típico da norma culta, nóix é um substantivo popular que serve à expressão da diversidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "histórica, pois esses termos caracterizam os indivíduos em\nfunção do seu passado: enquanto Nós abrange aqueles sem\nancestralidade, nóix reúne os que assumem os ancestrais\ncomo parte de sua história.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "política, pois esses termos revelam uma polarização na forma de se relacionar com o poder: enquanto Nós simboliza\no apoio à opressão social, nóix caracteriza uma rejeição aos\npoderes instituídos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Sobre a diferença que o texto estabelece entre Nós e nóix, po-\ndemos afirmar que está relacionada a uma distinção\na) sociocultural, pois esses termos se referem a grupos demar-\ncados distintamente: enquanto Nós é bem delimitado, nóix\ndiz respeito a uma coletividade difusa, mas marcada por\ncompartilhar vivências específicas.\nb) gramatical, pois esses termos não pertencem à mesma clas-\nse de palavras: enquanto Nós é um pronome típico da nor-\nma culta, nóix é um substantivo popular que serve à expres-\nsão da diversidade.\nc) histórica, pois esses termos caracterizam os indivíduos em\nfunção do seu passado: enquanto Nós abrange aqueles sem\nancestralidade, nóix reúne os que assumem os ancestrais\ncomo parte de sua história.\nd) política, pois esses termos revelam uma polarização na for-\nma de se relacionar com o poder: enquanto Nós simboliza\no apoio à opressão social, nóix caracteriza uma rejeição aos\npoderes instituídos.",
+    "sharedContext": "Texto para as questões 55 e 56.\nA rua é nóix! Sempre com letra minúscula, porque não é o Nós\nda totalidade, uma vez que não sabemos exatamente quem ou\nquantos somos, quem faz parte ou não, quem está dentro ou\nfora. Mas, se pegar para um, vai pegar pra geral. O nóix é sempre mais que um. Mesmo sozinho, na missão, existe algo para\nalém da presença física do eu e do outro. Assumindo nossas\nancestralidades, convivemos com os espíritos daqueles que já\nse foram. O nóix opera pela lógica dos bondes de galera, do\nlado A ou lado B. Quem é amigo fecha com a gente, quem é\nalemão rala. Porque o fechamento é o fundamento ético das\nruas. Recebe-se quem chega de boa, na paz, mas, se vacila, vai.\nCom i e x, o nóix demarca um sotaque, um registro local, um\nlugar, o Pretuguês de Lélia Gonzalez. Desobedecendo à instituída norma culta, o nóix – escrito ou falado – revela sua potência operando à margem da obediência à linguagem fonética\ndominante. O nóix é a potência da contaminação diferencial\ndas diversidades de um povo em tempos e espaços múltiplos,\nque se repete numa atmosfera espectral que ultrapassa a lógica\ntemporal predominante.\n(Adaptado de MORAES, M. J. D. A rua é nóix, Revista Cult, ed. 271, 1 jul. de 2021.)",
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            632.4618,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            40,
+            568,
+            142.3229
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            142.3229,
+            568,
+            423.8504
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

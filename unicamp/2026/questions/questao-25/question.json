@@ -1,0 +1,94 @@
+{
+  "title": "Questão 25 - UNICAMP 2026 - 1ª fase",
+  "index": 25,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "A OMS, e não uma associação trans-gay-lésbica-anarcofeminista, afirma hoje que “o gênero tipicamente descrito como masculino e feminino é uma construção social que varia segundo as\nculturas e épocas”. A partir desse princípio, a OMS reconhece a\ndimensão arbitrária e inatural da taxonomia binária com a qual\nas instituições sociais e políticas trabalham no Ocidente e abre\na porta para uma revisão mais profunda do paradigma da diferença sexual. Nos próximos anos, deveremos elaborar coletivamente uma epistemologia capaz de dar conta da multiplicidade\nradical dos seres vivos, que não reduza o corpo à sua força reprodutiva heterossexual, que não legitime a violência heteropatriarcal e colonial. Quando falo de uma nova epistemologia me\nrefiro também a um processo de ampliação radical do horizonte\ndemocrático para reconhecer como sujeito político todo corpo\nvivo sem que a designação sexual ou de gênero seja a condição\ndesse reconhecimento social e político (84).\n(Adaptado de PRECIADO, P. Eu sou o monstro que vos fala. Zahar Editora, p. 78-84,\n2022.)\nConsiderando o texto assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A diferença sexual entre homem e mulher é informada pela\nbiologia e indiferente a variações culturais, a despeito do\nque dizem a OMS e as associações feministas, gays, lésbicas\ne trans.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Embora seja inevitável admitir que haja pessoas que não\nse enquadram na taxonomia binária, é necessário elaborar\ncoletivamente caminhos para ajudá-las a uma reconciliação\ncom a própria natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "As instituições sociais e políticas operam normalmente com\numa taxonomia binária violenta e excludente da multiplicidade de seres humanos, que precisa ser revista em nome da\nampliação do nosso horizonte democrático.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Gênero e sexualidade são categorias identitárias inadequadas ao processo de ampliação do horizonte democrático\ncom vistas ao reconhecimento social e político de todos os\nindivíduos em função do seu próprio mérito.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A OMS, e não uma associação trans-gay-lésbica-anarcofeminis-\nta, afirma hoje que “o gênero tipicamente descrito como mas-\nculino e feminino é uma construção social que varia segundo as\nculturas e épocas”. A partir desse princípio, a OMS reconhece a\ndimensão arbitrária e inatural da taxonomia binária com a qual\nas instituições sociais e políticas trabalham no Ocidente e abre\na porta para uma revisão mais profunda do paradigma da dife-\nrença sexual. Nos próximos anos, deveremos elaborar coletiva-\nmente uma epistemologia capaz de dar conta da multiplicidade\nradical dos seres vivos, que não reduza o corpo à sua força re-\nprodutiva heterossexual, que não legitime a violência heteropa-\ntriarcal e colonial. Quando falo de uma nova epistemologia me\nrefiro também a um processo de ampliação radical do horizonte\ndemocrático para reconhecer como sujeito político todo corpo\nvivo sem que a designação sexual ou de gênero seja a condição\ndesse reconhecimento social e político (84).\n(Adaptado de PRECIADO, P. Eu sou o monstro que vos fala. Zahar Editora, p. 78-84,\n2022.)\nConsiderando o texto assinale a alternativa correta.\na) A diferença sexual entre homem e mulher é informada pela\nbiologia e indiferente a variações culturais, a despeito do\nque dizem a OMS e as associações feministas, gays, lésbicas\ne trans.\nb) Embora seja inevitável admitir que haja pessoas que não\nse enquadram na taxonomia binária, é necessário elaborar\ncoletivamente caminhos para ajudá-las a uma reconciliação\ncom a própria natureza.\nc) As instituições sociais e políticas operam normalmente com\numa taxonomia binária violenta e excludente da multiplici-\ndade de seres humanos, que precisa ser revista em nome da\nampliação do nosso horizonte democrático.\nd) Gênero e sexualidade são categorias identitárias inadequa-\ndas ao processo de ampliação do horizonte democrático\ncom vistas ao reconhecimento social e político de todos os\nindivíduos em função do seu próprio mérito.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            435.27799999999996,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            40,
+            568,
+            163.05989999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Filosofia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

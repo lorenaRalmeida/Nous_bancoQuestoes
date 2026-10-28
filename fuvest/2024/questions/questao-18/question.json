@@ -1,0 +1,100 @@
+{
+  "title": "Questão 18 - FUVEST 2024 - 1ª fase",
+  "index": 18,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Em 2023, a imprensa mundial anunciou a criação da\nalmôndega de carne de mamute. A ilustração a seguir resume\na biotecnologia envolvida nesse processo.\nDisponível em https://www.dailymail.co.uk/. Adaptado.\nA almôndega de mamute possui células",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "com mitocôndrias de elefante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "musculares recriadas de mamute.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "que produzem gordura de mamute.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "com mais genes de ovelha que de mamute.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "de diferentes tecidos do elefante.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Em 2023, a imprensa mundial anunciou a criação da\nalmôndega de carne de mamute. A ilustração a seguir resume\na biotecnologia envolvida nesse processo.\nDisponível em https://www.dailymail.co.uk/. Adaptado.\nA almôndega de mamute possui células\n(A) com mitocôndrias de elefante.\n(B) musculares recriadas de mamute.\n(C) que produzem gordura de mamute.\n(D) com mais genes de ovelha que de mamute.\n(E) de diferentes tecidos do elefante.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            28,
+            355.91470000000004,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Biotecnologia e cultivo celular",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

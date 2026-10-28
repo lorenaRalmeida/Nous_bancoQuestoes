@@ -1,0 +1,92 @@
+{
+  "title": "Questão 7 - UNICAMP 2026 - 1ª fase",
+  "index": 7,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia a carta a seguir.\nDear Members of the Harvard Community,\nFor years, the federal government’s grants to Harvard have\nhelped lead to groundbreaking innovations. Recently, the federal government has threatened its partnerships over accusations\nof antisemitism on our campuses. A list of demands was issued,\nwarning that Harvard must comply if we intend to “maintain\nour financial relationship with the government.” Most of these\ndemands are unprecedented and represent direct governmental\nregulation of the “intellectual conditions” at Harvard.\nThey include requirements to audit the viewpoints of our students and faculty, and to “reduce their power” for their ideological views. We will not accept that. The University will not\nsurrender its independence or relinquish its constitutional\nrights. No government should dictate what universities can\nteach and which areas of inquiry they can pursue.\nWe do not take our moral duties lightly and we have taken\nmany steps to address and fight antisemitism on campus.\nHowever, this will not be achieved by assertions of power,\nunmoored from the law, to dictate how we operate.\nSincerely,\nAlan M. Garber\n(President of Harvard University)\n(Adaptado de https://www.harvard.edu/president/news/2025/the-promise-of-american-\n-higher-education/. Acesso em 07/05/2025.)\nAssinale a alternativa correta em relação ao posicionamento do\npresidente de Harvard em sua carta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "As acusações de antissemitismo feitas à universidade são\ninconstitucionais, por isso Garber se recusa a aceitar as demandas propostas pelo governo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "As comparações entre as ideologias de professores e de alunos são sem precedentes, por isso Garber se nega a abrir\nmão da liberdade de expressão da comunidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "As justificativas do governo para interromper o financiamento são falhas, por isso Garber se nega a tomar medidas\npara resolver os problemas apontados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "As demandas do governo são uma tentativa de controle da\nautonomia das universidades, por isso Garber se recusa a\nacatar as exigências impostas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia a carta a seguir.\nDear Members of the Harvard Community,\nFor years, the federal government’s grants to Harvard have\nhelped lead to groundbreaking innovations. Recently, the fed-\neral government has threatened its partnerships over accusations\nof antisemitism on our campuses. A list of demands was issued,\nwarning that Harvard must comply if we intend to “maintain\nour financial relationship with the government.” Most of these\ndemands are unprecedented and represent direct governmental\nregulation of the “intellectual conditions” at Harvard.\nThey include requirements to audit the viewpoints of our stu-\ndents and faculty, and to “reduce their power” for their ideo-\nlogical views. We will not accept that. The University will not\nsurrender its independence or relinquish its constitutional\nrights. No government should dictate what universities can\nteach and which areas of inquiry they can pursue.\nWe do not take our moral duties lightly and we have taken\nmany steps to address and fight antisemitism on campus.\nHowever, this will not be achieved by assertions of power,\nunmoored from the law, to dictate how we operate.\nSincerely,\nAlan M. Garber\n(President of Harvard University)\n(Adaptado de https://www.harvard.edu/president/news/2025/the-promise-of-american-\n-higher-education/. Acesso em 07/05/2025.)\nAssinale a alternativa correta em relação ao posicionamento do\npresidente de Harvard em sua carta.\na) As acusações de antissemitismo feitas à universidade são\ninconstitucionais, por isso Garber se recusa a aceitar as de-\nmandas propostas pelo governo.\nb) As comparações entre as ideologias de professores e de alu-\nnos são sem precedentes, por isso Garber se nega a abrir\nmão da liberdade de expressão da comunidade.\nc) As justificativas do governo para interromper o financia-\nmento são falhas, por isso Garber se nega a tomar medidas\npara resolver os problemas apontados.\nd) As demandas do governo são uma tentativa de controle da\nautonomia das universidades, por isso Garber se recusa a\nacatar as exigências impostas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            713.904,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            40,
+            291,
+            499.0141
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

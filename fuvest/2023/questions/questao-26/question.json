@@ -1,0 +1,100 @@
+{
+  "title": "Questão 26 - FUVEST 2023 - 1ª fase",
+  "index": 26,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "A tabela fornece informações sobre fatores ambientais\nrelacionados a duas regiões de floresta, uma com alto grau de\ndegradação (I) e outra com baixo grau de degradação (II).\nFator Região I Região II\nFrequência de geadas baixa moderada\nTemperatura máxima\nmoderada alta\nno verão\nDisponibilidade de\nalta moderada\nágua no solo\nConcentração de SO\n2 alta baixa\nna atmosfera\nConcentração de CO\n2 moderada moderada\nna atmosfera\nCom base nos dados da tabela, qual fenômeno pode causar\nmaior grau de degradação das florestas da região I em\ncomparação com aquelas da região II?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Chuva ácida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Aquecimento global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Congelamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Déficit hídrico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Calor extremo no verão.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A tabela fornece informações sobre fatores ambientais\nrelacionados a duas regiões de floresta, uma com alto grau de\ndegradação (I) e outra com baixo grau de degradação (II).\nFator Região I Região II\nFrequência de geadas baixa moderada\nTemperatura máxima\nmoderada alta\nno verão\nDisponibilidade de\nalta moderada\nágua no solo\nConcentração de SO\n2 alta baixa\nna atmosfera\nConcentração de CO\n2 moderada moderada\nna atmosfera\nCom base nos dados da tabela, qual fenômeno pode causar\nmaior grau de degradação das florestas da região I em\ncomparação com aquelas da região II?\n(A) Chuva ácida.\n(B) Aquecimento global.\n(C) Congelamento.\n(D) Déficit hídrico.\n(E) Calor extremo no verão.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            28,
+            385.0747,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.07470000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Poluição por SO2 e chuva ácida",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 56 - FUVEST 2025 - 1ª fase",
+  "index": 56,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "O processo de mumificação usado pelos egípcios começava\ncom a retirada dos órgãos e desidratação do corpo utilizando\numa mistura natural, obtida em leito de lagos, de sais solúveis\nde sódio, como carbonato, hidrogenocarbonato, cloreto e\nsulfato. Após a desidratação, o corpo era preenchido com uma\nmistura de serragem e ervas aromáticas como canela, cássia,\nmirra e até mesmo cebola, que, por conterem álcoois e\naldeídos com propriedades antimicrobianas, dificultavam a\ndecomposição do corpo. Por fim, o corpo era envolvido em\ntecido embebido em resinas insolúveis em água, como\nbetume ou óleo de cedro, que, após seco, formava uma\ncamada impermeabilizante.\nA partir dessas informações, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Os sais de sódio mencionados, por serem hidrofílicos,\nrepelem a água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Propanona e hexano são exemplos de álcoois e aldeídos\nantimicrobianos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Assim como o betume e óleo de cedro, qualquer outro\ncomposto orgânico serviria como impermeabilizante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Todo sal iônico poderia ser utilizado em substituição aos\nsais de sódio mencionados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A impermeabilidade conferida pelas resinas se deve às\nsuas características apolares ou muito pouco polares.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nO processo de mumificação usado pelos egípcios começava\ncom a retirada dos órgãos e desidratação do corpo utilizando\numa mistura natural, obtida em leito de lagos, de sais solúveis\nde sódio, como carbonato, hidrogenocarbonato, cloreto e\nsulfato. Após a desidratação, o corpo era preenchido com uma\nmistura de serragem e ervas aromáticas como canela, cássia,\nmirra e até mesmo cebola, que, por conterem álcoois e\naldeídos com propriedades antimicrobianas, dificultavam a\ndecomposição do corpo. Por fim, o corpo era envolvido em\ntecido embebido em resinas insolúveis em água, como\nbetume ou óleo de cedro, que, após seco, formava uma\ncamada impermeabilizante.\nA partir dessas informações, assinale a alternativa correta.\n(A) Os sais de sódio mencionados, por serem hidrofílicos,\nrepelem a água.\n(B) Propanona e hexano são exemplos de álcoois e aldeídos\nantimicrobianos.\n(C) Assim como o betume e óleo de cedro, qualquer outro\ncomposto orgânico serviria como impermeabilizante.\n(D) Todo sal iônico poderia ser utilizado em substituição aos\nsais de sódio mencionados.\n(E) A impermeabilidade conferida pelas resinas se deve às\nsuas características apolares ou muito pouco polares.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            715.6147,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            289.3147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "topic": "Processos físico-químicos de mumificação",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

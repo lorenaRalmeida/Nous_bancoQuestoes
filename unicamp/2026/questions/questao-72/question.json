@@ -1,0 +1,86 @@
+{
+  "title": "Questão 72 - UNICAMP 2026 - 1ª fase",
+  "index": 72,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Uma patente é uma concessão pública, conferida pelo Estado,\nque garante ao seu titular a exclusividade de explorar comercialmente a sua criação. É necessário que a patente seja de\numa criação inédita. Para ser explorada comercialmente, deve\napresentar vantagens para quem vai adquiri-la e utilizá-la na\nprodução a que se propõe. É com base nesses pressupostos\nque cientistas entraram com pedido de patente para um processo de produção de lítio a partir do minério α-espodumênio\n(α-LiAlSi O ). Para explicar o seu novo método e compará-lo\n2 6\na um método convencional, os pesquisadores apresentaram a\nfigura a seguir.\nConsiderando apenas essas informações, é correto afirmar que,\nem relação ao método convencional, esse novo método é",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mais rápido e apresenta maior rendimento, porém consome\nmais carbonato na etapa final de separação do lítio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mais intensivo em energia e com maior consumo de carbonato na etapa final de separação do lítio, porém com maior\nrendimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mais lento e apresenta menor rendimento, porém consome\nmenos carbonato na etapa final de separação do lítio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "menos intensivo em energia e com menor consumo de carbonato na etapa final de separação do lítio, porém nada se\npode afirmar acerca do rendimento.\n).5202\n,166951\n.n\n,505\n.v\n,lanruoJ\nreenignE\nlacimehC\n.la\nte\n.T.D.A.S\n,EHGNISABUS\ned\nodatpadA(",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma patente é uma concessão pública, conferida pelo Estado,\nque garante ao seu titular a exclusividade de explorar comer-\ncialmente a sua criação. É necessário que a patente seja de\numa criação inédita. Para ser explorada comercialmente, deve\napresentar vantagens para quem vai adquiri-la e utilizá-la na\nprodução a que se propõe. É com base nesses pressupostos\nque cientistas entraram com pedido de patente para um pro-\ncesso de produção de lítio a partir do minério α-espodumênio\n(α-LiAlSi O ). Para explicar o seu novo método e compará-lo\n2 6\na um método convencional, os pesquisadores apresentaram a\nfigura a seguir.\nConsiderando apenas essas informações, é correto afirmar que,\nem relação ao método convencional, esse novo método é\na) mais rápido e apresenta maior rendimento, porém consome\nmais carbonato na etapa final de separação do lítio.\nb) mais intensivo em energia e com maior consumo de carbo-\nnato na etapa final de separação do lítio, porém com maior\nrendimento.\nc) mais lento e apresenta menor rendimento, porém consome\nmenos carbonato na etapa final de separação do lítio.\nd) menos intensivo em energia e com menor consumo de car-\nbonato na etapa final de separação do lítio, porém nada se\npode afirmar acerca do rendimento.\n).5202\n,166951\n.n\n,505\n.v\n,lanruoJ\nreenignE\nlacimehC\n.la\nte\n.T.D.A.S\n,EHGNISABUS\ned\nodatpadA(",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            94.52599999999995,
+            568,
+            807
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Direito"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

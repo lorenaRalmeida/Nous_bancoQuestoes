@@ -1,0 +1,88 @@
+{
+  "title": "Questão 42 - FUVEST 2023 - 1ª fase",
+  "index": 42,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "“Os vadios são o ódio de todas as nações civilizadas, e contra\neles se tem muitas vezes legislado; porém as regras comuns\nrelativas a este ponto não podem ser aplicáveis ao território\nde Minas; porque estes vadios, que em outra parte seriam\nprejudiciais, são ali úteis”.\nDesembargador J.J. Teixeira Coelho. “Instruções para o governo da capitania\nde Minas Gerais (1780)”. Apud SOUZA, Laura de Mello e. Os desclassificados\ndo ouro. A pobreza mineira no século XVIII. Rio de Janeiro: Graal, 1982.\nA partir da leitura do excerto, que aborda aspectos da\nsociedade mineira do século XVIII, é correto afirmar que,\nnessa sociedade,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os vadios viviam na ociosidade, o que provocava\npreocupações constantes nos administradores coloniais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a legislação colonial limitava a circulação dos vadios pela\ncolônia, impedindo-os de ingressar na região das Minas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os vadios participavam de atividades complementares à\nmineração, o que justificava a tolerância das autoridades\nlocais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "os contratadores preferiam engajar vadios no trabalho nas\nminas, gerando revoltas dos trabalhadores especializados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os vadios participavam ativamente do contrabando de\nouro, o que motivava sucessivas ações policiais\nrepressivas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Os vadios são o ódio de todas as nações civilizadas, e contra\neles se tem muitas vezes legislado; porém as regras comuns\nrelativas a este ponto não podem ser aplicáveis ao território\nde Minas; porque estes vadios, que em outra parte seriam\nprejudiciais, são ali úteis”.\nDesembargador J.J. Teixeira Coelho. “Instruções para o governo da capitania\nde Minas Gerais (1780)”. Apud SOUZA, Laura de Mello e. Os desclassificados\ndo ouro. A pobreza mineira no século XVIII. Rio de Janeiro: Graal, 1982.\nA partir da leitura do excerto, que aborda aspectos da\nsociedade mineira do século XVIII, é correto afirmar que,\nnessa sociedade,\n(A) os vadios viviam na ociosidade, o que provocava\npreocupações constantes nos administradores coloniais.\n(B) a legislação colonial limitava a circulação dos vadios pela\ncolônia, impedindo-os de ingressar na região das Minas.\n(C) os vadios participavam de atividades complementares à\nmineração, o que justificava a tolerância das autoridades\nlocais.\n(D) os contratadores preferiam engajar vadios no trabalho nas\nminas, gerando revoltas dos trabalhadores especializados.\n(E) os vadios participavam ativamente do contrabando de\nouro, o que motivava sucessivas ações policiais\nrepressivas.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            297.5,
+            152.4547,
+            567,
+            495.0546
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Sociedade mineradora colonial",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

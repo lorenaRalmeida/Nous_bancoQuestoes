@@ -1,0 +1,90 @@
+{
+  "title": "Questão 23 - FUVEST 2023 - 1ª fase",
+  "index": 23,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Alguns aviões empregam fibra de carbono em uma\nporcentagem significativa de suas estruturas, tornando-as\nmuito menos densas. Partes da estrutura, no entanto, são\ncompostas por metais. Devido à baixa densidade, o alumínio\nseria uma boa alternativa de metal a ser usado. Entretanto,\nquando em contato com fibra de carbono, o alumínio é\ncorroído. Esse processo é denominado corrosão galvânica e\nacontece quando dois materiais que possuem potencial\nelétrico diferentes são colocados em contato com um\neletrólito, como uma solução salina. Para abordar esse\nproblema, pode-se avaliar os potenciais elétricos, densidade\ne preço aproximado de diversos materiais apresentados na\nfigura a seguir.\nConsiderando o exposto, o elemento mais adequado para ser\nutilizado no lugar do alumínio de forma a obter os menores\ncusto e densidade possíveis, com a máxima resistência a\ncorrosão possível, é:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ouro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Titânio.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Prata.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Cádmio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Zinco.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Alguns aviões empregam fibra de carbono em uma\nporcentagem significativa de suas estruturas, tornando-as\nmuito menos densas. Partes da estrutura, no entanto, são\ncompostas por metais. Devido à baixa densidade, o alumínio\nseria uma boa alternativa de metal a ser usado. Entretanto,\nquando em contato com fibra de carbono, o alumínio é\ncorroído. Esse processo é denominado corrosão galvânica e\nacontece quando dois materiais que possuem potencial\nelétrico diferentes são colocados em contato com um\neletrólito, como uma solução salina. Para abordar esse\nproblema, pode-se avaliar os potenciais elétricos, densidade\ne preço aproximado de diversos materiais apresentados na\nfigura a seguir.\nConsiderando o exposto, o elemento mais adequado para ser\nutilizado no lugar do alumínio de forma a obter os menores\ncusto e densidade possíveis, com a máxima resistência a\ncorrosão possível, é:\n(A) Ouro.\n(B) Titânio.\n(C) Prata.\n(D) Cádmio.\n(E) Zinco.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            297.5,
+            116.09469999999999,
+            567,
+            579.8347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Corrosão e propriedades de metais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

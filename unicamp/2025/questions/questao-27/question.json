@@ -1,0 +1,94 @@
+{
+  "title": "Questão 27 - UNICAMP 2025 - 1ª fase",
+  "index": 27,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "“A terra [Rio de Janeiro] continua ainda a parecer-me muito mal.\nÉ rodeada de serras inacessíveis, a maior parte delas são uma\nrocha viva, e de todas fazem uma vista sumamente desagradável. Acho estes povos sumamente pobres e, como não têm\ngêneros seus que lhes constituam ao menos um ramo certo de\ncomércio, pouca esperança tenho de os pôr melhor nesta parte.\nEm uma palavra, meu colega, isto está um cadáver que vai para\na sepultura [...]; parece-me ser este o mais próprio retrato em\nque presentemente se acha o Governo do Rio de Janeiro.”\n(Marquês de Lavradio (Governador do Rio de Janeiro, 1769-1779). Carta de Amizade\nEscrita a Manuel da Cunha de Menezes em Pernambuco, em 13 de dezembro de 1769.\nIn: Marquês de Lavradio. Cartas do Rio de Janeiro, 1769-1776. Rio de Janeiro: Secretaria\nde Estado de Educação e Cultura, p. 10, 1978.)\nTendo em vista seus conhecimentos sobre o século XVIII e considerando as informações do excerto, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A geografia montanhosa e rochosa impedia tanto o desenvolvimento do Rio de Janeiro quanto o uso do porto dessa\ncidade, no Brasil colonial, como centro de trocas comerciais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A concepção que se tem sobre o que seja “paisagem” é um\nconstruto histórico que envolve projeções políticas e ideológicas a respeito do que se vê.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A concepção sobre o que seja uma paisagem bonita foi um\nargumento utilizado pela elite para convencer, contra a vontade de Lavradio, a corte portuguesa a migrar para o Brasil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O eurocentrismo impediu Lavradio de reconhecer o sucesso\ne a beleza dos arcos de pedra construídos com técnicas indígenas locais no Rio de Janeiro.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“A terra [Rio de Janeiro] continua ainda a parecer-me muito mal.\nÉ rodeada de serras inacessíveis, a maior parte delas são uma\nrocha viva, e de todas fazem uma vista sumamente desagra-\ndável. Acho estes povos sumamente pobres e, como não têm\ngêneros seus que lhes constituam ao menos um ramo certo de\ncomércio, pouca esperança tenho de os pôr melhor nesta parte.\nEm uma palavra, meu colega, isto está um cadáver que vai para\na sepultura [...]; parece-me ser este o mais próprio retrato em\nque presentemente se acha o Governo do Rio de Janeiro.”\n(Marquês de Lavradio (Governador do Rio de Janeiro, 1769-1779). Carta de Amizade\nEscrita a Manuel da Cunha de Menezes em Pernambuco, em 13 de dezembro de 1769.\nIn: Marquês de Lavradio. Cartas do Rio de Janeiro, 1769-1776. Rio de Janeiro: Secretaria\nde Estado de Educação e Cultura, p. 10, 1978.)\nTendo em vista seus conhecimentos sobre o século XVIII e con-\nsiderando as informações do excerto, assinale a alternativa cor-\nreta.\na) A geografia montanhosa e rochosa impedia tanto o desen-\nvolvimento do Rio de Janeiro quanto o uso do porto dessa\ncidade, no Brasil colonial, como centro de trocas comerciais.\nb) A concepção que se tem sobre o que seja “paisagem” é um\nconstruto histórico que envolve projeções políticas e ideoló-\ngicas a respeito do que se vê.\nc) A concepção sobre o que seja uma paisagem bonita foi um\nargumento utilizado pela elite para convencer, contra a von-\ntade de Lavradio, a corte portuguesa a migrar para o Brasil.\nd) O eurocentrismo impediu Lavradio de reconhecer o sucesso\ne a beleza dos arcos de pedra construídos com técnicas indí-\ngenas locais no Rio de Janeiro.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            686.2308,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            40,
+            568,
+            338.70079999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

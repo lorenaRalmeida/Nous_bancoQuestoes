@@ -1,0 +1,141 @@
+{
+  "title": "Questão 88 - UNESP 2023 - 1ª fase",
+  "index": 88,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "O alumínio é um metal valorizado por ter baixa densidade e\nbaixa temperatura de fusão, o que o torna ideal para a fabricação de embalagens baratas, resistentes e de fácil reciclagem, além de amplo uso na fabricação de veículos.\nO gráfico mostra um comparativo de cinco metais, incluindo o\nalumínio, para cinco propriedades.\n(www.nexojornal.com.br, 27.02.2022. Adaptado.)\nConsiderando-se que em determinado projeto industrial são\ndesejáveis os menores valores possíveis das propriedades 1\ne 4 e os maiores valores possíveis das propriedades 2, 3 e 5,\ndos cinco metais comparados, o alumínio é o mais vantajoso",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "nas propriedades 1 e 4, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "nas propriedades 3 e 4, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "na propriedade 4, apenas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "na propriedade 1, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "na propriedade 3, apenas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O alumínio é um metal valorizado por ter baixa densidade e\nbaixa temperatura de fusão, o que o torna ideal para a fabri-\ncação de embalagens baratas, resistentes e de fácil recicla-\ngem, além de amplo uso na fabricação de veículos.\nO gráfico mostra um comparativo de cinco metais, incluindo o\nalumínio, para cinco propriedades.\n(www.nexojornal.com.br, 27.02.2022. Adaptado.)\nConsiderando-se que em determinado projeto industrial são\ndesejáveis os menores valores possíveis das propriedades 1\ne 4 e os maiores valores possíveis das propriedades 2, 3 e 5,\ndos cinco metais comparados, o alumínio é o mais vantajoso\n(A) nas propriedades 1 e 4, apenas.\n(B) nas propriedades 3 e 4, apenas.\n(C) na propriedade 4, apenas.\n(D) na propriedade 1, apenas.\n(E) na propriedade 3, apenas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 34,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 33,
+        "bbox": [
+          401.0873,
+          126.06489999999997,
+          488.2621,
+          148.7308999999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 33,
+        "bbox": [
+          339.67,
+          126.14499999999998,
+          404.7517,
+          148.7269
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 33,
+        "bbox": [
+          304,
+          148.75619999999992,
+          568,
+          479.65489999999994
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

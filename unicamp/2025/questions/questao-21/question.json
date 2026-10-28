@@ -1,0 +1,94 @@
+{
+  "title": "Questão 21 - UNICAMP 2025 - 1ª fase",
+  "index": 21,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o resumo de uma pesquisa que, em 2021, já alertava para\nquestões climáticas e fatores a elas relacionados.\nPolitics of attributing extreme events\nto climate change\nClimate change shapes weather events. However, describing it\nas the cause of disasters can be misleading, since disasters are\ncaused by pre-existing fragilities and inequalities on the ground.\nAttribution is not neutral. Hence, analytic frames that attribute\ndisaster to climate can divert attention from place-based vulnerabilities and their sociopolitical causes. While politicians may\nblame climate change, the public may hold the government\naccountable for inadequate investments in flood or drought\nprevention. To be strategic and moral, framing choices must\ntherefore be sensitive to context and to how the values implicit\nwithin analytic frames about the causes of disasters shape\npolicy responses. Such sensitivity requires multicausal analysis\nof weather-linked disasters to reduce the damages. Through\nexamples from around the world, especially Brazil, we discuss\nhow and why climate-centric disaster framing can erase from\nview—and, thus, from policy agendas—the very socioeconomic\nand political factors that centrally cause vulnerability and suffering\nin weather extremes.\n(Adaptado de https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.750. Acesso em\n15/05/2024.)\nQual alternativa expressa corretamente os argumentos dos autores do texto?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Culpar, por desastres ambientais, os locais de vulnerabilidade é uma estratégia para neutralizar a responsabilidade\nhumana por esses acontecimentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "É importante que a discussão sobre desastres ambientais\nconsidere o clima como fator central para a redução dos\ndanos decorrentes desses eventos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Os políticos e o público falham por não reconhecerem que\nas políticas públicas são cruciais para a criação de estratégias\nde prevenção contra enchentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Ignorar o protagonismo de questões políticas em casos de\ndesastres ambientais omite a relação direta entre a esfera\npolítica e as causas e efeitos dessas catástrofes.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o resumo de uma pesquisa que, em 2021, já alertava para\nquestões climáticas e fatores a elas relacionados.\nPolitics of attributing extreme events\nto climate change\nClimate change shapes weather events. However, describing it\nas the cause of disasters can be misleading, since disasters are\ncaused by pre-existing fragilities and inequalities on the ground.\nAttribution is not neutral. Hence, analytic frames that attribute\ndisaster to climate can divert attention from place-based vul-\nnerabilities and their sociopolitical causes. While politicians may\nblame climate change, the public may hold the government\naccountable for inadequate investments in flood or drought\nprevention. To be strategic and moral, framing choices must\ntherefore be sensitive to context and to how the values implicit\nwithin analytic frames about the causes of disasters shape\npolicy responses. Such sensitivity requires multicausal analysis\nof weather-linked disasters to reduce the damages. Through\nexamples from around the world, especially Brazil, we discuss\nhow and why climate-centric disaster framing can erase from\nview—and, thus, from policy agendas—the very socioeconomic\nand political factors that centrally cause vulnerability and suffering\nin weather extremes.\n(Adaptado de https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.750. Acesso em\n15/05/2024.)\nQual alternativa expressa corretamente os argumentos dos au-\ntores do texto?\na) Culpar, por desastres ambientais, os locais de vulnerabili-\ndade é uma estratégia para neutralizar a responsabilidade\nhumana por esses acontecimentos.\nb) É importante que a discussão sobre desastres ambientais\nconsidere o clima como fator central para a redução dos\ndanos decorrentes desses eventos.\nc) Os políticos e o público falham por não reconhecerem que\nas políticas públicas são cruciais para a criação de estratégias\nde prevenção contra enchentes.\nd) Ignorar o protagonismo de questões políticas em casos de\ndesastres ambientais omite a relação direta entre a esfera\npolítica e as causas e efeitos dessas catástrofes.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            239.70709999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

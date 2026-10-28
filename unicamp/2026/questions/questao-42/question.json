@@ -1,0 +1,123 @@
+{
+  "title": "Questão 42 - UNICAMP 2026 - 1ª fase",
+  "index": 42,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Uma regra estabelecida pelo papa Paulo VI, em 1970, define\nque somente cardeais com menos de 80 anos participam e votam no conclave. Em 2025, 135 pessoas cumpriram esse critério\nde idade. O vencedor só é definido após garantir o apoio de\ndois terços dos votantes. Os últimos 3 conclaves aconteceram\nem 2005, 2013 e 2025.\n(Adaptado de https://www.nexojornal.com.br/grafico/2025/04/24/eleicao-papa-conclave-quem-faz-parte-cardeais/. Acesso em 30/05/2025.)\nDistribuição dos cardeais votantes, por região, em cada conclave\ndesde 2005\n50%\n40% 39,3% EUROPA\n30%\n20% 20,0% ÁSIA E OCEANIA\n17,0% AMÉRICA LATINA\n13,3% ÁFRICA\n10% 10,4% EUA e CANADÁ\n0\n2005 2013 2025\nConsiderando o gráfico anterior, é correto afirmar que, desde\n2005, em cada conclave,",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "América Latina e África juntas corresponderam a mais que\n40% da quantidade de cardeais votantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Ásia, Oceania e África juntas corresponderam a mais que\n30% da quantidade de cardeais votantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Europa e África juntas corresponderam a mais que 50% da\nquantidade de cardeais votantes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Ásia, Oceania, Estados Unidos e Canadá juntos corresponderam a 30% da quantidade de cardeais votantes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma regra estabelecida pelo papa Paulo VI, em 1970, define\nque somente cardeais com menos de 80 anos participam e vo-\ntam no conclave. Em 2025, 135 pessoas cumpriram esse critério\nde idade. O vencedor só é definido após garantir o apoio de\ndois terços dos votantes. Os últimos 3 conclaves aconteceram\nem 2005, 2013 e 2025.\n(Adaptado de https://www.nexojornal.com.br/grafico/2025/04/24/eleicao-papa-concla-\nve-quem-faz-parte-cardeais/. Acesso em 30/05/2025.)\nDistribuição dos cardeais votantes, por região, em cada conclave\ndesde 2005\n50%\n40% 39,3% EUROPA\n30%\n20% 20,0% ÁSIA E OCEANIA\n17,0% AMÉRICA LATINA\n13,3% ÁFRICA\n10% 10,4% EUA e CANADÁ\n0\n2005 2013 2025\nConsiderando o gráfico anterior, é correto afirmar que, desde\n2005, em cada conclave,\na) América Latina e África juntas corresponderam a mais que\n40% da quantidade de cardeais votantes.\nb) Ásia, Oceania e África juntas corresponderam a mais que\n30% da quantidade de cardeais votantes.\nc) Europa e África juntas corresponderam a mais que 50% da\nquantidade de cardeais votantes.\nd) Ásia, Oceania, Estados Unidos e Canadá juntos correspon-\nderam a 30% da quantidade de cardeais votantes.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            313.8379,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 17,
+        "bbox": [
+          43.009699999999995,
+          457.41959999999995,
+          203.5531,
+          514.4023
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 17,
+        "bbox": [
+          42.924299999999995,
+          551.852,
+          203.5335,
+          602.2285999999999
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

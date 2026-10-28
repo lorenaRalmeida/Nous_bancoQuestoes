@@ -1,0 +1,98 @@
+{
+  "title": "Questão 48 - FUVEST 2025 - 1ª fase",
+  "index": 48,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Os gráficos a seguir apresentam a evolução do abate de\nbovinos e da participação de machos e fêmeas, por trimestre\n(indicado por algarismo romano), segundo informações\nobtidas pelo IBGE.\nEvolução do abate de bovinos no Brasil por trimestre (2019-2024)\nEvolução da participação de machos e fêmeas no abate de bovinos\nno Brasil por trimestre (2019-2024)\nIBGE: Diretoria de Pesquisas. Coordenação de Estatísticas Agropecuárias.\nPesquisa Trimestral do Abate de Animais 2019-2024 (Adaptado).\nA partir dos dados observados nos gráficos, é correto afirmar:",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "No primeiro trimestre de 2023, a diferença entre as\nquantidades de machos e fêmeas abatidos foi menor que\na do primeiro trimestre de 2019.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "No primeiro trimestre de 2023, a quantidade de fêmeas\nabatidas foi de, aproximadamente, 2 milhões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "No primeiro trimestre de 2021 e de 2022, a diferença entre\nas quantidades de machos e fêmeas abatidos foi igual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "No primeiro trimestre de 2024, a quantidade de fêmeas\nabatidas foi de, aproximadamente, 4,3 milhões.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "No primeiro trimestre de 2024, a quantidade de fêmeas\nabatidas foi igual à do primeiro trimestre de 2019.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nOs gráficos a seguir apresentam a evolução do abate de\nbovinos e da participação de machos e fêmeas, por trimestre\n(indicado por algarismo romano), segundo informações\nobtidas pelo IBGE.\nEvolução do abate de bovinos no Brasil por trimestre (2019-2024)\nEvolução da participação de machos e fêmeas no abate de bovinos\nno Brasil por trimestre (2019-2024)\nIBGE: Diretoria de Pesquisas. Coordenação de Estatísticas Agropecuárias.\nPesquisa Trimestral do Abate de Animais 2019-2024 (Adaptado).\nA partir dos dados observados nos gráficos, é correto afirmar:\n(A) No primeiro trimestre de 2023, a diferença entre as\nquantidades de machos e fêmeas abatidos foi menor que\na do primeiro trimestre de 2019.\n(B) No primeiro trimestre de 2023, a quantidade de fêmeas\nabatidas foi de, aproximadamente, 2 milhões.\n(C) No primeiro trimestre de 2021 e de 2022, a diferença entre\nas quantidades de machos e fêmeas abatidos foi igual.\n(D) No primeiro trimestre de 2024, a quantidade de fêmeas\nabatidas foi de, aproximadamente, 4,3 milhões.\n(E) No primeiro trimestre de 2024, a quantidade de fêmeas\nabatidas foi igual à do primeiro trimestre de 2019.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            665.2146
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Leitura numérica de séries e percentuais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

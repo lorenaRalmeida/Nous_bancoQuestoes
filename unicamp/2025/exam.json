@@ -1,0 +1,673 @@
+{
+  "board": "UNICAMP",
+  "year": 2025,
+  "phase": 1,
+  "version": "Q e Z",
+  "source": "unicamp-2025-fase1-prova.pdf",
+  "sha256": "41564e9bbd20e03a9b62356c0ccf29b6070bf615b9ac8ecfe660021548cd0710",
+  "instructions": "INSCRIÇÃO ESCOLA SALA LUGAR NA SALA\nNOME ASSINATURA DO CANDIDATO\nCONHECIMENTOS GERAIS\nInstruções para a realização da prova\n— A prova de Conhecimentos Gerais é composta de 72 questões de múltipla escolha. Para cada questão, há 4 alternativas,\ndevendo ser marcada apenas uma.\n— Assine, com caneta esferográfica preta, a folha de respostas. Transcreva para aquela folha as respostas escolhidas.\n— Ao marcar o item correto, preencha completamente o campo correspondente, utilizando caneta esferográfica preta.\n— Na folha de respostas, não deixe em branco nenhuma das 72 questões.\n— A duração total da prova é de 5 horas. NÃO haverá tempo adicional para transcrição de gabarito.\n— Você só poderá deixar a sala – levando APENAS o Controle de Respostas do Candidato e a Declaração de Presença (abai-\nxo) – 2 horas após o início da prova.\nQ e Z\nUNICAMP VESTIBULAR 2025 – 1ª FASE\nCONHECIMENTOS GERAIS\nNOME: INSCRIÇÃO:\nCONTROLE DE RESPOSTAS DO CANDIDATO / PROVA Q e Z\n1 7 13 19 25 31 37 43 49 55 61 67\n2 8 14 20 26 32 38 44 50 56 62 68\n3 9 15 21 27 33 39 45 51 57 63 69\n4 10 16 22 28 34 40 46 52 58 64 70\n5 11 17 23 29 35 41 47 53 59 65 71\n6 12 18 24 30 36 42 48 54 60 66 72",
+  "questions": [
+    {
+      "index": 1,
+      "file": "questions/questao-1/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 2,
+      "file": "questions/questao-2/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 3,
+      "file": "questions/questao-3/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 4,
+      "file": "questions/questao-4/question.json",
+      "correctAlternative": "C",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 5,
+      "file": "questions/questao-5/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 6,
+      "file": "questions/questao-6/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 7,
+      "file": "questions/questao-7/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 8,
+      "file": "questions/questao-8/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 9,
+      "file": "questions/questao-9/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 10,
+      "file": "questions/questao-10/question.json",
+      "correctAlternative": "A",
+      "discipline": "Física"
+    },
+    {
+      "index": 11,
+      "file": "questions/questao-11/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 12,
+      "file": "questions/questao-12/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 13,
+      "file": "questions/questao-13/question.json",
+      "correctAlternative": "A",
+      "discipline": "Física"
+    },
+    {
+      "index": 14,
+      "file": "questions/questao-14/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 15,
+      "file": "questions/questao-15/question.json",
+      "correctAlternative": "B",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 16,
+      "file": "questions/questao-16/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 17,
+      "file": "questions/questao-17/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 18,
+      "file": "questions/questao-18/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 19,
+      "file": "questions/questao-19/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 20,
+      "file": "questions/questao-20/question.json",
+      "correctAlternative": "B",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 21,
+      "file": "questions/questao-21/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 22,
+      "file": "questions/questao-22/question.json",
+      "correctAlternative": "C",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 23,
+      "file": "questions/questao-23/question.json",
+      "correctAlternative": "D",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 24,
+      "file": "questions/questao-24/question.json",
+      "correctAlternative": "B",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 25,
+      "file": "questions/questao-25/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 26,
+      "file": "questions/questao-26/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 27,
+      "file": "questions/questao-27/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 28,
+      "file": "questions/questao-28/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 29,
+      "file": "questions/questao-29/question.json",
+      "correctAlternative": "A",
+      "discipline": "História"
+    },
+    {
+      "index": 30,
+      "file": "questions/questao-30/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 31,
+      "file": "questions/questao-31/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 32,
+      "file": "questions/questao-32/question.json",
+      "correctAlternative": "D",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 33,
+      "file": "questions/questao-33/question.json",
+      "correctAlternative": "B",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 34,
+      "file": "questions/questao-34/question.json",
+      "correctAlternative": "A",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 35,
+      "file": "questions/questao-35/question.json",
+      "correctAlternative": "B",
+      "discipline": "Artes"
+    },
+    {
+      "index": 36,
+      "file": "questions/questao-36/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 37,
+      "file": "questions/questao-37/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 38,
+      "file": "questions/questao-38/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 39,
+      "file": "questions/questao-39/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 40,
+      "file": "questions/questao-40/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 41,
+      "file": "questions/questao-41/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 42,
+      "file": "questions/questao-42/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 43,
+      "file": "questions/questao-43/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 44,
+      "file": "questions/questao-44/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 45,
+      "file": "questions/questao-45/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 46,
+      "file": "questions/questao-46/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 47,
+      "file": "questions/questao-47/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 48,
+      "file": "questions/questao-48/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 49,
+      "file": "questions/questao-49/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 50,
+      "file": "questions/questao-50/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 51,
+      "file": "questions/questao-51/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 52,
+      "file": "questions/questao-52/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 53,
+      "file": "questions/questao-53/question.json",
+      "correctAlternative": null,
+      "discipline": "Matemática"
+    },
+    {
+      "index": 54,
+      "file": "questions/questao-54/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 55,
+      "file": "questions/questao-55/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 56,
+      "file": "questions/questao-56/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 57,
+      "file": "questions/questao-57/question.json",
+      "correctAlternative": "D",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 58,
+      "file": "questions/questao-58/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 59,
+      "file": "questions/questao-59/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 60,
+      "file": "questions/questao-60/question.json",
+      "correctAlternative": "A",
+      "discipline": "Química"
+    },
+    {
+      "index": 61,
+      "file": "questions/questao-61/question.json",
+      "correctAlternative": "D",
+      "discipline": "Química"
+    },
+    {
+      "index": 62,
+      "file": "questions/questao-62/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 63,
+      "file": "questions/questao-63/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 64,
+      "file": "questions/questao-64/question.json",
+      "correctAlternative": "D",
+      "discipline": "Química"
+    },
+    {
+      "index": 65,
+      "file": "questions/questao-65/question.json",
+      "correctAlternative": "C",
+      "discipline": "Química"
+    },
+    {
+      "index": 66,
+      "file": "questions/questao-66/question.json",
+      "correctAlternative": "A",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 67,
+      "file": "questions/questao-67/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 68,
+      "file": "questions/questao-68/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 69,
+      "file": "questions/questao-69/question.json",
+      "correctAlternative": "A",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 70,
+      "file": "questions/questao-70/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 71,
+      "file": "questions/questao-71/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 72,
+      "file": "questions/questao-72/question.json",
+      "correctAlternative": "D",
+      "discipline": "Biologia"
+    }
+  ],
+  "questionCount": 72,
+  "sharedContexts": [
+    {
+      "targets": [
+        5,
+        6
+      ],
+      "lines": [
+        "Leia o texto e observe a figura a seguir para responder às",
+        "questões 5 e 6.",
+        "Os meses de abril e maio de 2024 foram marcados tanto pela",
+        "ocorrência de ondas de calor, que elevaram acima da média as",
+        "temperaturas em estados das regiões Centro-Oeste, Sudeste e",
+        "parte do Sul, quanto pela ocorrência de precipitações intensas e",
+        "concentradas, que desencadearam alagamentos, inundações e",
+        "movimentos gravitacionais de massa no Rio Grande do Sul. Es-",
+        "sas regiões são marcadamente urbanizadas, abrigando grande",
+        "contingente da população brasileira que vive em cidades, agora",
+        "sujeitas à incidência de eventos extremos.",
+        "Frente a esse cenário, são imprescindíveis, no enfrentamento",
+        "dos problemas a curto, médio e longo prazos, as ações de pla-",
+        "nejamento territorial.",
+        "(Elaboração COMVEST (2024), baseado nas seguintes fontes: https://noticias.uol.com.br/",
+        "cotidiano/ultimas-noticias/2024/04/30/calor-espantoso-onda-nao-da-tregua-e-sp-pode-",
+        "-bater-recorde-historico.htm/;https://www.marinha.mil.br/chm/dados-do-smm-cartas-",
+        "-sinoticas/cartas-sinoticas. Acesso em 10/05/2024.)"
+      ],
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            618.5558,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            40,
+            568,
+            454.2913
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        9,
+        10
+      ],
+      "lines": [
+        "Texto comum às questões 9 e 10.",
+        "Os últimos anos testemunharam a retomada do interesse de al-",
+        "guns países pela exploração da Lua. Diversas missões com desti-",
+        "no a esse satélite foram lançadas: Chandrayaan-3 (Índia, 2023),",
+        "Luna 25 (Rússia, 2023), Peregrine Mission One (EUA, 2024),",
+        "Slim (Japão, 2024) e Chang´e 6 (China, 2024)."
+      ],
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            695.3614,
+            568,
+            807
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            40,
+            291,
+            48.02729999999997
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        13,
+        14
+      ],
+      "lines": [
+        "Texto comum às questões 13 e 14.",
+        "A energia solar desempenha papel substancial nas soluções",
+        "energéticas de desenvolvimento sustentável: além de fazer uso",
+        "de tecnologia pouco agressiva ao ambiente, é uma enorme fon-",
+        "te de energia renovável."
+      ],
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            131.9357
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        18,
+        19
+      ],
+      "lines": [
+        "Texto comum às questões 18 e 19.",
+        "Texto 1",
+        "The fact that so few African Americans write science fiction is",
+        "perplexing since they, in a very real sense, inhabit a sci-fi nightmare",
+        "in which unseen but no less palpable acts of intolerance frustrate",
+        "their movement; official histories undo what has been done;",
+        "and technology is too often brought to bear on black bodies.",
+        "Moreover, the sublegitimate status of science fiction in literature",
+        "mirrors the subaltern position to which blacks have been relegated",
+        "throughout American history. The notion of Afrofuturism gives",
+        "rise to a troubling antinomy: can a community whose past has",
+        "been deliberately rubbed out, and whose energies have been",
+        "consumed by the search for legible traces of its history, imagine",
+        "possible futures?",
+        "(Adaptado de DERY, M. Black to the future: interviews with Samuel R. Delany, Greg Tate,",
+        "and Tricia Rose. In: ___. (Ed.) The Discourse of cyberculture. Durham; London: Duke",
+        "University Press, p. 179-222, 1994.)"
+      ],
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            148.67520000000002,
+            568,
+            365.5177
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        35,
+        36
+      ],
+      "lines": [
+        "Texto comum às questões 35 e 36.",
+        "Leia o trabalho da grafiteira e muralista Simone Siss (Texto 1),",
+        "reconhecida por abordar temáticas femininas em sua obra.",
+        "Texto 1",
+        "Abri 1 livro. Me li inteira!",
+        "Sim... Eu falo meus nãos.",
+        "Sou Maria... E vou com as outras!",
+        "Moro mesmo dentro de mim.",
+        "(SISS, S. O que tenho dentro de nós. Grafite em muro no centro de Campinas. 2024.",
+        "Reprodução fotográfica.)"
+      ],
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            340.53569999999996
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        37,
+        38
+      ],
+      "lines": [
+        "Texto comum às questões 37 e 38.",
+        "*Legenda das falas do último quadrinho:",
+        "“Quantos títulos eu tenho? / Quem foi meu avô?”",
+        "(Quadrinhos de Wesley Samp. Disponível em https://westrips.com.br/author/wesley-",
+        "samp/. Acesso em 04/05/2024.)"
+      ],
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            313.19489999999996,
+            568,
+            724.1414
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "sequenceComplete": true,
+    "alternativesComplete": true,
+    "answerCount": 72,
+    "cancelled": [
+      53
+    ],
+    "disciplinesAssigned": 72,
+    "localFilesPresent": true
+  },
+  "graphicAlternatives": [
+    {
+      "index": 58,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ],
+  "disciplineCounts": {
+    "Artes": 1,
+    "Biologia": 7,
+    "Filosofia": 3,
+    "Física": 7,
+    "Geografia": 7,
+    "História": 7,
+    "Inglês": 7,
+    "Matemática": 12,
+    "Português": 11,
+    "Química": 7,
+    "Sociologia": 3
+  }
+}

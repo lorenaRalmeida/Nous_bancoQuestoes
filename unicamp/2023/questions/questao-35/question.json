@@ -1,0 +1,96 @@
+{
+  "title": "Questão 35 - UNICAMP 2023 - 1ª fase",
+  "index": 35,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Sabemos que correntes elétricas acima de um décimo de Ampère podem provocar paradas cardíacas. Imediatamente após\num raio atingir o solo, o potencial elétrico na superfície diminui\ngradativamente em função da distância ao ponto de impacto,\ncomo ilustrado pelas curvas equipotenciais da figura. Sendo a\nresistência do corpo humano R = 80 kΩ, a corrente elétrica que\natravessa o corpo da pessoa ilustrada na figura, com os dois pés\nem contato com o chão, será igual a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,800 A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,25 A.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "10,0 A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "11,25 A.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Sabemos que correntes elétricas acima de um décimo de Am-\npère podem provocar paradas cardíacas. Imediatamente após\num raio atingir o solo, o potencial elétrico na superfície diminui\ngradativamente em função da distância ao ponto de impacto,\ncomo ilustrado pelas curvas equipotenciais da figura. Sendo a\nresistência do corpo humano R = 80 kΩ, a corrente elétrica que\natravessa o corpo da pessoa ilustrada na figura, com os dois pés\nem contato com o chão, será igual a\na) 0,800 A.\nb) 1,25 A.\nc) 10,0 A.\nd) 11,25 A.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            735.1865,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            40,
+            568,
+            250.61109999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

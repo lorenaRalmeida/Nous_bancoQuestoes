@@ -1,0 +1,88 @@
+{
+  "title": "Questão 43 - UNESP 2026 - 1ª fase",
+  "index": 43,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "No cenário geopolítico contemporâneo, marcado por mudanças e desafios significativos, o conceito de “Sul Global”\nvem ganhando destaque como um vetor crucial para o debate sobre desenvolvimento inclusivo e equitativo. Esse termo\ntranscende as fronteiras geográficas tradicionais, reunindo\npaíses que compartilham desafios socioeconômicos similares e uma história de marginalização nas relações internacionais. A presidência brasileira do G20, entre 2023 e 2024,\nseguida pela da África do Sul, simboliza a emergência das\nnações do “Sul Global” no cenário mundial, redefinindo as\ndinâmicas de cooperação internacional.\n(https://relacoesexteriores.com.br. Adaptado.)\nA construção geopolítica do termo “Sul Global” evidencia uma",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "maior representatividade e relevância para os países periféricos no cenário internacional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "autonomia ao mundo oriental para o crescimento econômico sustentável.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "participação político-militar dos países emergentes em\ndecisões de âmbito global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "transferência do centro do poder mundial para os países\nsubdesenvolvidos do hemisfério Sul.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "menor dependência política e econômica dos países ocidentais perante os organismos internacionais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No cenário geopolítico contemporâneo, marcado por mu-\ndanças e desafios significativos, o conceito de “Sul Global”\nvem ganhando destaque como um vetor crucial para o deba-\nte sobre desenvolvimento inclusivo e equitativo. Esse termo\ntranscende as fronteiras geográficas tradicionais, reunindo\npaíses que compartilham desafios socioeconômicos simila-\nres e uma história de marginalização nas relações interna-\ncionais. A presidência brasileira do G20, entre 2023 e 2024,\nseguida pela da África do Sul, simboliza a emergência das\nnações do “Sul Global” no cenário mundial, redefinindo as\ndinâmicas de cooperação internacional.\n(https://relacoesexteriores.com.br. Adaptado.)\nA construção geopolítica do termo “Sul Global” evidencia uma\n(A) maior representatividade e relevância para os países pe-\nriféricos no cenário internacional.\n(B) autonomia ao mundo oriental para o crescimento econô-\nmico sustentável.\n(C) participação político-militar dos países emergentes em\ndecisões de âmbito global.\n(D) transferência do centro do poder mundial para os países\nsubdesenvolvidos do hemisfério Sul.\n(E) menor dependência política e econômica dos países oci-\ndentais perante os organismos internacionais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            387.3927
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

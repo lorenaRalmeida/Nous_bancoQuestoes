@@ -1,0 +1,94 @@
+{
+  "title": "Questão 70 - UNICAMP 2024 - 1ª fase",
+  "index": 70,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Netflix’s “Wednesday” draws many real-world parallels. It features unusual creatures (werewolves and psychics) collectively\nreferred to as Outcasts, while they refer to non-supernatural\nhumans as Normies. The Outcasts are stand-ins for anyone\nothered by society, such as indigenous people, People of\nColor, the LGBT+, and the neurodivergent. Every so often, the\nNormies’ distrust in the Outcasts boils over into hatred and\nviolence, and the othering and dehumanization normalizes\nviolence against the Outcasts in day-to-day life. In the show, the\ntown’s colonial era saw Outcasts not only being “othered”, but\nalso murdered by Pilgrims. These acts of butchery were all but\nerased from their history books. It’s a distressingly familiar story.\n(Adaptado de: https://atribecalledgeek.com/woe-to-the-colonizer-an-indigenous-perspective-of-wednesday/. Acesso em 12/05/2023.)\nA análise do autor sobre “Wednesday” se apoia em",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "paralelos entre ficção e realidade para discutir como a existência de grupos marginalizados tem sido historicamente\napagada dos livros de história.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "elementos fictícios presentes na série para aludir ao modo\ncomo a desumanização da alteridade é um processo histórico e violento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "fatos históricos para traçar a origem da exploração de povos\nindígenas e o modo como foram violentamente desumanizados na série.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "comparações históricas sobre os conflitos entre colonizadores e peregrinos para criticar o modo como esse conflito é\nretratado na série.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Netflix’s “Wednesday” draws many real-world parallels. It fea-\ntures unusual creatures (werewolves and psychics) collectively\nreferred to as Outcasts, while they refer to non-supernatural\nhumans as Normies. The Outcasts are stand-ins for anyone\nothered by society, such as indigenous people, People of\nColor, the LGBT+, and the neurodivergent. Every so often, the\nNormies’ distrust in the Outcasts boils over into hatred and\nviolence, and the othering and dehumanization normalizes\nviolence against the Outcasts in day-to-day life. In the show, the\ntown’s colonial era saw Outcasts not only being “othered”, but\nalso murdered by Pilgrims. These acts of butchery were all but\nerased from their history books. It’s a distressingly familiar story.\n(Adaptado de: https://atribecalledgeek.com/woe-to-the-colonizer-an-indigenous-pers-\npective-of-wednesday/. Acesso em 12/05/2023.)\nA análise do autor sobre “Wednesday” se apoia em\na) paralelos entre ficção e realidade para discutir como a exis-\ntência de grupos marginalizados tem sido historicamente\napagada dos livros de história.\nb) elementos fictícios presentes na série para aludir ao modo\ncomo a desumanização da alteridade é um processo histó-\nrico e violento.\nc) fatos históricos para traçar a origem da exploração de povos\nindígenas e o modo como foram violentamente desumani-\nzados na série.\nd) comparações históricas sobre os conflitos entre colonizado-\nres e peregrinos para criticar o modo como esse conflito é\nretratado na série.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            418.4247,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 77 - FUVEST 2024 - 1ª fase",
+  "index": 77,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha\nsendo modernizado e ocidentalizado pelas sucessivas\ngerações de xás, que viam na observância estrita da religião\num atraso a ser superado. País de numerosa população xiita,\nno entanto, o regime modernizante sempre precisou contar\ncom uma grande dose de repressão, para conter a oposição\ndos grupos religiosos, que se fazia cada vez mais popular. Na\ndécada de 1970, este movimento conheceu um líder, que,\nrefugiado na França, preparava-se para voltar ao país: era o\naiatolá Khomeini, que apelava aos muçulmanos para que\nrestaurassem a autoridade do islã na sociedade.”\nGRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS\nFILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o\ntempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.\nO texto descreve o contexto histórico que antecedeu",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uma intervenção norte-americana em território iraniano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a integração do Irã aos países do bloco socialista soviético.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a laicização integral do Estado iraniano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o estabelecimento de uma república teocrática no Irã.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "uma cooperação militar entre Irã e Iraque contra o\nOcidente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha\nsendo modernizado e ocidentalizado pelas sucessivas\ngerações de xás, que viam na observância estrita da religião\num atraso a ser superado. País de numerosa população xiita,\nno entanto, o regime modernizante sempre precisou contar\ncom uma grande dose de repressão, para conter a oposição\ndos grupos religiosos, que se fazia cada vez mais popular. Na\ndécada de 1970, este movimento conheceu um líder, que,\nrefugiado na França, preparava-se para voltar ao país: era o\naiatolá Khomeini, que apelava aos muçulmanos para que\nrestaurassem a autoridade do islã na sociedade.”\nGRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS\nFILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o\ntempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.\nO texto descreve o contexto histórico que antecedeu\n(A) uma intervenção norte-americana em território iraniano.\n(B) a integração do Irã aos países do bloco socialista soviético.\n(C) a laicização integral do Estado iraniano.\n(D) o estabelecimento de uma república teocrática no Irã.\n(E) uma cooperação militar entre Irã e Iraque contra o\nOcidente.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            297.5,
+            252.7147,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Antecedentes da Revolução Iraniana",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

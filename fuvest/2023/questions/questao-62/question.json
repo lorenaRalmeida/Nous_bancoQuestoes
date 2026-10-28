@@ -1,0 +1,90 @@
+{
+  "title": "Questão 62 - FUVEST 2023 - 1ª fase",
+  "index": 62,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Os gráficos mostram a variação da biomassa de duas\npopulações (A e B) de uma planta herbácea ao longo da\nsucessão primária. Em ambos os casos, em um dado momento\nindicado no gráfico, ocorre a chegada de indivíduos de uma\noutra espécie que interagem com essa planta na comunidade.\nOs dois tipos de interagentes que poderiam causar os efeitos\nrepresentados nos gráficos para as populações A e B,\nrespectivamente, são",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um competidor e um herbívoro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "um parasita e um comensal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "um competidor e um parasita.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um mutualista e um herbívoro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "um comensal e um mutualista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Os gráficos mostram a variação da biomassa de duas\npopulações (A e B) de uma planta herbácea ao longo da\nsucessão primária. Em ambos os casos, em um dado momento\nindicado no gráfico, ocorre a chegada de indivíduos de uma\noutra espécie que interagem com essa planta na comunidade.\nOs dois tipos de interagentes que poderiam causar os efeitos\nrepresentados nos gráficos para as populações A e B,\nrespectivamente, são\n(A) um competidor e um herbívoro.\n(B) um parasita e um comensal.\n(C) um competidor e um parasita.\n(D) um mutualista e um herbívoro.\n(E) um comensal e um mutualista.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            357.47470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Interações ecológicas e sucessão",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

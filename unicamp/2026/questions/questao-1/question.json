@@ -1,0 +1,98 @@
+{
+  "title": "Questão 1 - UNICAMP 2026 - 1ª fase",
+  "index": 1,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto 1 e as informações do texto 2.\nTexto 1\n(Disponível em https://www.latimes.com/entertainment-arts/awards/story/2025-01-05/\nfernanda-torres-golden-globes-2025-im-still-here. Acesso em 22/05/2025.)\nTexto 2\nUPSET\n1. noun [C]\n− an outcome that goes against what was considered to be the\nmost likely result.\n2. adjective\n− unhappy, worried, angry, or disappointed because something\nunpleasant has happened.\n(Adaptado de https://www.collinsdictionary.com/dictionary/english/upset. Acesso em\n22/05/2025.)\nO texto 1 causou indignação nas redes sociais. Algumas pessoas comentaram: “Se eles estão upset, a gente tá happy!”.\nO mal-entendido se deve à polissemia, em inglês, da palavra\n\"upset\". É correto afirmar que, no texto 1, “upset” é usada\ncom o sentido da",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "primeira definição mostrada no texto 2 e, por isso, tem conotação sarcástica ao comparar as atrizes citadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "segunda definição mostrada no texto 2 e, por isso, não assume conotação crítica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "primeira definição mostrada no texto 2 e, por isso, não desqualifica a vitória da atriz.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "segunda definição mostrada no texto 2 e, por isso, estabelece uma hierarquia entre as atrizes citadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o texto 1 e as informações do texto 2.\nTexto 1\n(Disponível em https://www.latimes.com/entertainment-arts/awards/story/2025-01-05/\nfernanda-torres-golden-globes-2025-im-still-here. Acesso em 22/05/2025.)\nTexto 2\nUPSET\n1. noun [C]\n− an outcome that goes against what was considered to be the\nmost likely result.\n2. adjective\n− unhappy, worried, angry, or disappointed because something\nunpleasant has happened.\n(Adaptado de https://www.collinsdictionary.com/dictionary/english/upset. Acesso em\n22/05/2025.)\nO texto 1 causou indignação nas redes sociais. Algumas pes-\nsoas comentaram: “Se eles estão upset, a gente tá happy!”.\nO mal-entendido se deve à polissemia, em inglês, da palavra\n\"upset\". É correto afirmar que, no texto 1, “upset” é usada\ncom o sentido da\na) primeira definição mostrada no texto 2 e, por isso, tem co-\nnotação sarcástica ao comparar as atrizes citadas.\nb) segunda definição mostrada no texto 2 e, por isso, não as-\nsume conotação crítica.\nc) primeira definição mostrada no texto 2 e, por isso, não des-\nqualifica a vitória da atriz.\nd) segunda definição mostrada no texto 2 e, por isso, estabe-\nlece uma hierarquia entre as atrizes citadas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            665.2712
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 3,
+        "bbox": [
+          30,
+          338.02799,
+          291,
+          448.697
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

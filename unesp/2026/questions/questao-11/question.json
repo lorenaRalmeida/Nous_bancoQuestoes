@@ -1,0 +1,118 @@
+{
+  "title": "Questão 11 - UNESP 2026 - 1ª fase",
+  "index": 11,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões de 07 a 11, leia o primeiro poema\nda seção intitulada “Homenagem a Ricardo Reis”, da poeta\nportuguesa Sophia de Mello Breyner Andresen (1919-2004),\npublicado originalmente em 1972 no livro Dual.\nNão creias, Lídia, que nenhum estio1\nPor nós perdido possa regressar\nOferecendo a flor\nQue adiamos colher.\nCada dia te é dado uma só vez\nE no redondo círculo da noite\nNão existe piedade\nPara aquele que hesita.\nMais tarde será tarde e já é tarde.\nO tempo apaga tudo menos esse\nLongo indelével rasto2\nQue o não-vivido deixa.\nNão creias na demora em que te medes.\nJamais se detém Kronos3 cujo passo\nVai sempre mais à frente\nDo que o teu próprio passo.\n(Sophia de Mello Breyner Andresen. Coral e outros poemas, 2018.)\n1 estio: verão.\n2 rasto: rastro.\n3 Kronos: do grego khrónos, “tempo”. Na mitologia grega, titã do tempo.\n\nCom a intenção de obter maior expressividade, o eu lírico\nlança mão de uma construção pleonástica no seguinte verso:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“E no redondo círculo da noite” (2a estrofe)",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "“Por nós perdido possa regressar” (1a estrofe)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“Para aquele que hesita.” (2a estrofe)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“O tempo apaga tudo menos esse” (3a estrofe)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“Não creias na demora em que te medes.” (4a estrofe)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Com a intenção de obter maior expressividade, o eu lírico\nlança mão de uma construção pleonástica no seguinte verso:\n(A) “E no redondo círculo da noite” (2a estrofe)\n(B) “Por nós perdido possa regressar” (1a estrofe)\n(C) “Para aquele que hesita.” (2a estrofe)\n(D) “O tempo apaga tudo menos esse” (3a estrofe)\n(E) “Não creias na demora em que te medes.” (4a estrofe)",
+    "sharedContext": "Para responder às questões de 07 a 11, leia o primeiro poema\nda seção intitulada “Homenagem a Ricardo Reis”, da poeta\nportuguesa Sophia de Mello Breyner Andresen (1919-2004),\npublicado originalmente em 1972 no livro Dual.\nNão creias, Lídia, que nenhum estio1\nPor nós perdido possa regressar\nOferecendo a flor\nQue adiamos colher.\nCada dia te é dado uma só vez\nE no redondo círculo da noite\nNão existe piedade\nPara aquele que hesita.\nMais tarde será tarde e já é tarde.\nO tempo apaga tudo menos esse\nLongo indelével rasto2\nQue o não-vivido deixa.\nNão creias na demora em que te medes.\nJamais se detém Kronos3 cujo passo\nVai sempre mais à frente\nDo que o teu próprio passo.\n(Sophia de Mello Breyner Andresen. Coral e outros poemas, 2018.)\n1 estio: verão.\n2 rasto: rastro.\n3 Kronos: do grego khrónos, “tempo”. Na mitologia grega, titã do tempo.",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            391.22839999999997,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            380,
+            568,
+            394.0326
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            394.7549,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

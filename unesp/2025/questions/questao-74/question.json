@@ -1,0 +1,101 @@
+{
+  "title": "Questão 74 - UNESP 2025 - 1ª fase",
+  "index": 74,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Em 1932, James Chadwick descobriu o nêutron pelo bombardeamento do isótopo berílio-9 com partículas α, conforme a\nequação nuclear:\nα + 9Be X +\nO número de nêutrons do isótopo X formado nesse bombardeamento é",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "9.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "6.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "13.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em 1932, James Chadwick descobriu o nêutron pelo bombar-\ndeamento do isótopo berílio-9 com partículas α, conforme a\nequação nuclear:\nα + 9Be X +\nO número de nêutrons do isótopo X formado nesse bombar-\ndeamento é\n(A) 9.\n(B) 6.\n(C) 8.\n(D) 4.\n(E) 13.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            245.19730000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          457.2433,
+          76.78869999999995,
+          481.9138,
+          103.80349999999999
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

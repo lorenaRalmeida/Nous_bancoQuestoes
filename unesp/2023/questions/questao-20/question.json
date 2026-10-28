@@ -1,0 +1,100 @@
+{
+  "title": "Questão 20 - UNESP 2023 - 1ª fase",
+  "index": 20,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "The literary principle according to which the writing and\ncriticism of poetry and drama were to be guided by rules\nand precedents derived from the best ancient Greek and\nRoman authors; a codified form of classicism that dominated\nFrench literature in the 17th and 18th centuries, with a\nsignificant influence on English writing, especially from\nc.1660 to c.1780. In a more general sense, often employed\nin contrast with romanticism, the term has also been used\nto describe the characteristic world-view or value-system of\nthis “Age of Reason”, denoting a preference for rationality,\nclarity, restraint, order, and decorum, and for general truths\nrather than particular insights.\n(Chris Baldick. The Concise Oxford Dictionary of Literary Terms, 2001.)\nO termo literário a que o texto se refere é o",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Renascimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Barroco.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Romantismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Naturalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Neoclassicismo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "The literary principle according to which the writing and\ncriticism of poetry and drama were to be guided by rules\nand precedents derived from the best ancient Greek and\nRoman authors; a codified form of classicism that dominated\nFrench literature in the 17th and 18th centuries, with a\nsignificant influence on English writing, especially from\nc.1660 to c.1780. In a more general sense, often employed\nin contrast with romanticism, the term has also been used\nto describe the characteristic world-view or value-system of\nthis “Age of Reason”, denoting a preference for rationality,\nclarity, restraint, order, and decorum, and for general truths\nrather than particular insights.\n(Chris Baldick. The Concise Oxford Dictionary of Literary Terms, 2001.)\nO termo literário a que o texto se refere é o\n(A) Renascimento.\n(B) Barroco.\n(C) Romantismo.\n(D) Naturalismo.\n(E) Neoclassicismo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            229.89660000000003,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            22,
+            291,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

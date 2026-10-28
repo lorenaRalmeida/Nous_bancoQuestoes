@@ -1,0 +1,90 @@
+{
+  "title": "Questão 30 - FUVEST 2023 - 1ª fase",
+  "index": 30,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "“Mas não medimos os tempos que passam, quando os\nmedimos pela sensibilidade. Quem pode medir os tempos\npassados que já não existem ou os futuros que ainda não\nchegaram? Só se alguém se atrever a dizer que pode medir o\nque não existe! Quando está decorrendo o tempo, pode\npercebê-lo e medi-lo. Quando, porém, já estiver decorrido,\nnão o pode perceber nem medir, porque esse tempo já não\nexiste”.\nSanto Agostinho. Confissões.\nO tempo físico e o tempo psicológico se diferenciam na\nmedida em que o primeiro se firma na objetividade e o\nsegundo, na subjetividade. De acordo com os argumentos de\nSanto Agostinho, pode-se dizer que, no romance Angústia, de\nGraciliano Ramos, a passagem que melhor exprime a duração\ninterior é:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“– 1910. Minto, 1911. 1911, Manuel?”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“Os galos marcavam o tempo, importunavam mais que os\nrelógios.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“Julião Tavares ia afastar-se, dissipar-se, virar neblina.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“Mas no tempo não havia horas.”",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "“O espírito de Deus boiava sobre as águas.”",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Mas não medimos os tempos que passam, quando os\nmedimos pela sensibilidade. Quem pode medir os tempos\npassados que já não existem ou os futuros que ainda não\nchegaram? Só se alguém se atrever a dizer que pode medir o\nque não existe! Quando está decorrendo o tempo, pode\npercebê-lo e medi-lo. Quando, porém, já estiver decorrido,\nnão o pode perceber nem medir, porque esse tempo já não\nexiste”.\nSanto Agostinho. Confissões.\nO tempo físico e o tempo psicológico se diferenciam na\nmedida em que o primeiro se firma na objetividade e o\nsegundo, na subjetividade. De acordo com os argumentos de\nSanto Agostinho, pode-se dizer que, no romance Angústia, de\nGraciliano Ramos, a passagem que melhor exprime a duração\ninterior é:\n(A) “– 1910. Minto, 1911. 1911, Manuel?”\n(B) “Os galos marcavam o tempo, importunavam mais que os\nrelógios.”\n(C) “Julião Tavares ia afastar-se, dissipar-se, virar neblina.”\n(D) “Mas no tempo não havia horas.”\n(E) “O espírito de Deus boiava sobre as águas.”",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            357.17470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Filosofia"
+      ],
+      "topic": "Tempo psicológico no romance Angústia",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

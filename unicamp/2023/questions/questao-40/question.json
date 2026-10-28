@@ -1,0 +1,114 @@
+{
+  "title": "Questão 40 - UNICAMP 2023 - 1ª fase",
+  "index": 40,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Leia o texto a seguir para responder às questões 39 e 40.\nA proteína verde fluorescente, do inglês green fluorescence\nprotein (GFP) – observada pela primeira vez na água-viva (Aequorea victoria) –, tornou-se uma das ferramentas mais importantes usadas na biociência contemporânea. Evolutivamente, a\ndistribuição filogenética dos genes homólogos de GFP foi encontrada apenas nos filos Cnidaria, Arthropoda e Chordata.\n(Adaptado de MACEL, Marie-Lyne et al. Zoological Letters, Londres. v. 6, p.2-11, 2020.)\n\nCom o uso de biotecnologia, pesquisadores podem ligar a GFP\na outras proteínas de interesse, antes invisíveis. Assim, esse\nmarcador brilhante permite a observação dos movimentos, das\nposições e das interações das proteínas marcadas. A figura a\nseguir apresenta a variação da localização celular da proteína\nMRTFA-GFP em função do tempo. Após um estímulo em t = 0\nmin, a localização da proteína MRTFA-GFP se modifica devido\nao seu correto enovelamento (quando a estrutura de uma proteína assume a sua configuração funcional).\n(Adaptado de INFANTE, Elvira et al. Nature Physics, Londres, v. 15, p. 973-981, set. 2019.)\nSobre a localização celular da proteína MRTFA-GFP entre o tempo inicial (t = 0 min) e o final (t = 20 min), assinale a alternativa\ncorreta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A transcrição ocorre inicialmente no citoplasma celular;\nposteriormente, o enovelamento da proteína MRTFA-GFP\nmostra-se completo no núcleo celular, exceto nas regiões\ndos nucléolos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A tradução ocorre inicialmente no núcleo celular, exceto nas\nregiões dos nucléolos; posteriormente, o enovelamento da\nproteína MRTFA-GFP mostra-se completo no citoplasma celular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A transcrição ocorre inicialmente no núcleo celular; posteriormente, após o enovelamento, a proteína MRTFA-GFP\ntransloca-se gradualmente ao citoplasma celular pelo complexo de poro nuclear.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A tradução ocorre inicialmente no citoplasma celular; posteriormente, após o enovelamento, a proteína MRTFA-GFP\ntransloca-se gradualmente ao núcleo celular pelo complexo\nde poro nuclear.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Com o uso de biotecnologia, pesquisadores podem ligar a GFP\na outras proteínas de interesse, antes invisíveis. Assim, esse\nmarcador brilhante permite a observação dos movimentos, das\nposições e das interações das proteínas marcadas. A figura a\nseguir apresenta a variação da localização celular da proteína\nMRTFA-GFP em função do tempo. Após um estímulo em t = 0\nmin, a localização da proteína MRTFA-GFP se modifica devido\nao seu correto enovelamento (quando a estrutura de uma pro-\nteína assume a sua configuração funcional).\n(Adaptado de INFANTE, Elvira et al. Nature Physics, Londres, v. 15, p. 973-981, set. 2019.)\nSobre a localização celular da proteína MRTFA-GFP entre o tem-\npo inicial (t = 0 min) e o final (t = 20 min), assinale a alternativa\ncorreta.\na) A transcrição ocorre inicialmente no citoplasma celular;\nposteriormente, o enovelamento da proteína MRTFA-GFP\nmostra-se completo no núcleo celular, exceto nas regiões\ndos nucléolos.\nb) A tradução ocorre inicialmente no núcleo celular, exceto nas\nregiões dos nucléolos; posteriormente, o enovelamento da\nproteína MRTFA-GFP mostra-se completo no citoplasma ce-\nlular.\nc) A transcrição ocorre inicialmente no núcleo celular; poste-\nriormente, após o enovelamento, a proteína MRTFA-GFP\ntransloca-se gradualmente ao citoplasma celular pelo com-\nplexo de poro nuclear.\nd) A tradução ocorre inicialmente no citoplasma celular; pos-\nteriormente, após o enovelamento, a proteína MRTFA-GFP\ntransloca-se gradualmente ao núcleo celular pelo complexo\nde poro nuclear.",
+    "sharedContext": "Leia o texto a seguir para responder às questões 39 e 40.\nA proteína verde fluorescente, do inglês green fluorescence\nprotein (GFP) – observada pela primeira vez na água-viva (Aequorea victoria) –, tornou-se uma das ferramentas mais importantes usadas na biociência contemporânea. Evolutivamente, a\ndistribuição filogenética dos genes homólogos de GFP foi encontrada apenas nos filos Cnidaria, Arthropoda e Chordata.\n(Adaptado de MACEL, Marie-Lyne et al. Zoological Letters, Londres. v. 6, p.2-11, 2020.)",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            654.3215,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            264.89,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            40,
+            291,
+            124.85669999999993
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 63 - UNESP 2026 - 1ª fase",
+  "index": 63,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Cientistas da Faculdade de Ciências Farmacêuticas da\nUniversidade Estadual Paulista (Unesp) estão propondo\no uso como combustível da lentilha-d’água (Lemna minor),\numa planta aquática de água doce comumente usada para\nretirar poluentes da água em criações de peixes. O trabalho\nfaz parte de um amplo projeto de pesquisa em economia circular e biotecnologia premiado pela Organização das Nações\nUnidas (ONU). A lentilha-d’água foi submetida a um pré-tratamento para dela se obter um substrato, ao qual foram adicionados microrganismos capazes de converter a biomassa da\nlentilha-d’água em biogás. O composto final foi colocado em\nfrascos e monitorado quanto à produção de metano e hidrogênio. O volume de gases gerados foi medido em diferentes\nmomentos, revelando que a produção de metano alcançou\n78% e a de hidrogênio, 42% em relação ao total de gases\nemitidos, confirmando a eficiência do processo.\n(www.estadao.com.br, 23.10.2024. Adaptado.)\nRelacionada com o conceito de economia circular e com a\nprodução de gás metano, a pesquisa tratada no excerto",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "permite incorporar subprodutos de atividades econômicas para gerar energia renovável de baixo custo, a partir\ndo metabolismo de arqueas anaeróbicas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "possibilita a extração de energia da biomassa orgânica descartada nas águas, a partir da ação de bactérias\naeróbicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "impede a emissão de gases responsáveis pelo fenômeno\ndo aquecimento global, a partir da oferta de energia limpa\ngerada pela atividade de arqueas aeróbicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "busca gerar um modelo de produção de energia autossuficiente para áreas rurais, a partir da ação de bactérias\nanaeróbicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "produz compostos orgânicos reutilizáveis destinados\nao setor primário da economia, a partir do metabolismo\nde cianobactérias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Cientistas da Faculdade de Ciências Farmacêuticas da\nUniversidade Estadual Paulista (Unesp) estão propondo\no uso como combustível da lentilha-d’água (Lemna minor),\numa planta aquática de água doce comumente usada para\nretirar poluentes da água em criações de peixes. O trabalho\nfaz parte de um amplo projeto de pesquisa em economia cir-\ncular e biotecnologia premiado pela Organização das Nações\nUnidas (ONU). A lentilha-d’água foi submetida a um pré-trata-\nmento para dela se obter um substrato, ao qual foram adicio-\nnados microrganismos capazes de converter a biomassa da\nlentilha-d’água em biogás. O composto final foi colocado em\nfrascos e monitorado quanto à produção de metano e hidro-\ngênio. O volume de gases gerados foi medido em diferentes\nmomentos, revelando que a produção de metano alcançou\n78% e a de hidrogênio, 42% em relação ao total de gases\nemitidos, confirmando a eficiência do processo.\n(www.estadao.com.br, 23.10.2024. Adaptado.)\nRelacionada com o conceito de economia circular e com a\nprodução de gás metano, a pesquisa tratada no excerto\n(A) permite incorporar subprodutos de atividades econômi-\ncas para gerar energia renovável de baixo custo, a partir\ndo metabolismo de arqueas anaeróbicas.\n(B) possibilita a extração de energia da biomassa orgâni-\nca descartada nas águas, a partir da ação de bactérias\naeróbicas.\n(C) impede a emissão de gases responsáveis pelo fenômeno\ndo aquecimento global, a partir da oferta de energia limpa\ngerada pela atividade de arqueas aeróbicas.\n(D) busca gerar um modelo de produção de energia autos-\nsuficiente para áreas rurais, a partir da ação de bactérias\nanaeróbicas.\n(E) produz compostos orgânicos reutilizáveis destinados\nao setor primário da economia, a partir do metabolismo\nde cianobactérias.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

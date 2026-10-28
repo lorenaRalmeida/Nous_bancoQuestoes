@@ -1,0 +1,119 @@
+{
+  "title": "Questão 68 - UNICAMP 2025 - 1ª fase",
+  "index": 68,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A infecção por Covid-19 (SARS-CoV-2) resulta em maior acúmulo de muco nas vias aéreas, o que pode facilitar infecções\nfúngicas ou bacterianas em humanos, contribuindo para o aumento da severidade da doença e da mortalidade. A figura I\nilustra o epitélio respiratório normal; a seta aponta uma importante estrutura. O funcionamento dessa estrutura é definido\npela amplitude do movimento em função do tempo. A figura II\ndemonstra os efeitos da infecção viral e suas alterações estruturais e funcionais nas células epiteliais.\nI SARS-CoV-2 II\nTempo (s) Tempo (s)\n(Adaptado de LI, Q. et al. JCI Insight, Ann Arbor, v. 8, e163962, jan. 2023.)\nÉ correto afirmar que as setas indicam",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os cílios, cuja função de absorção é estimulada durante a\ninfecção, o que justifica a maior velocidade de transporte de\nmuco e seu acúmulo nas vias aéreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as microvilosidades, cuja função de absorção é prejudicada\ndurante a infecção, o que justifica a menor velocidade de\ntransporte de muco e seu acúmulo nas vias aéreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os cílios, cuja função de motilidade é prejudicada durante a\ninfecção, o que justifica a menor velocidade de transporte\nde muco e seu acúmulo nas vias aéreas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "as microvilosidades, cuja função de motilidade é estimulada\ndurante a infecção, o que justifica a maior velocidade de\ntransporte de muco e seu acúmulo nas vias aéreas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A infecção por Covid-19 (SARS-CoV-2) resulta em maior acú-\nmulo de muco nas vias aéreas, o que pode facilitar infecções\nfúngicas ou bacterianas em humanos, contribuindo para o au-\nmento da severidade da doença e da mortalidade. A figura I\nilustra o epitélio respiratório normal; a seta aponta uma impor-\ntante estrutura. O funcionamento dessa estrutura é definido\npela amplitude do movimento em função do tempo. A figura II\ndemonstra os efeitos da infecção viral e suas alterações estrutu-\nrais e funcionais nas células epiteliais.\nI SARS-CoV-2 II\nTempo (s) Tempo (s)\n(Adaptado de LI, Q. et al. JCI Insight, Ann Arbor, v. 8, e163962, jan. 2023.)\nÉ correto afirmar que as setas indicam\na) os cílios, cuja função de absorção é estimulada durante a\ninfecção, o que justifica a maior velocidade de transporte de\nmuco e seu acúmulo nas vias aéreas.\nb) as microvilosidades, cuja função de absorção é prejudicada\ndurante a infecção, o que justifica a menor velocidade de\ntransporte de muco e seu acúmulo nas vias aéreas.\nc) os cílios, cuja função de motilidade é prejudicada durante a\ninfecção, o que justifica a menor velocidade de transporte\nde muco e seu acúmulo nas vias aéreas.\nd) as microvilosidades, cuja função de motilidade é estimulada\ndurante a infecção, o que justifica a maior velocidade de\ntransporte de muco e seu acúmulo nas vias aéreas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            134.3338,
+            568,
+            670.2866
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 22,
+        "bbox": [
+          316.6484,
+          262.674,
+          568,
+          370.6651
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 22,
+        "bbox": [
+          332.447,
+          368.8657,
+          438.3513,
+          425.1894
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 22,
+        "bbox": [
+          457.74569999999994,
+          369.6781,
+          562.8607,
+          425.2965
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

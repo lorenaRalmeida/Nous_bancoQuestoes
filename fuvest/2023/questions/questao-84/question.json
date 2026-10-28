@@ -1,0 +1,93 @@
+{
+  "title": "Questão 84 - FUVEST 2023 - 1ª fase",
+  "index": 84,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Um professor precisa elaborar uma prova multidisciplinar que\nconsta de duas questões de Matemática e seis de Física. Ele\ndeve escolher questões de um banco de dados que contém\ntrês questões de Matemática e oito de Física. O número de\nprovas distintas possíveis, sem levar em conta a ordem em\nque as questões aparecem, é:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "42",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "54",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "62",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "72",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "84",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Um professor precisa elaborar uma prova multidisciplinar que\nconsta de duas questões de Matemática e seis de Física. Ele\ndeve escolher questões de um banco de dados que contém\ntrês questões de Matemática e oito de Física. O número de\nprovas distintas possíveis, sem levar em conta a ordem em\nque as questões aparecem, é:\n(A) 42\n(B) 54\n(C) 62\n(D) 72\n(E) 84",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            28,
+            388.2547,
+            297.5,
+            572.9947
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Análise combinatória de provas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

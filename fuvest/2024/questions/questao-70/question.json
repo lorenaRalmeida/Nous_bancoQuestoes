@@ -1,0 +1,102 @@
+{
+  "title": "Questão 70 - FUVEST 2024 - 1ª fase",
+  "index": 70,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Observe o mapa da distribuição da pesca no globo em\ntoneladas por quilômetro quadrado, por ano.\nDisponível em https://animalbusiness.com.br/negocios-e-mercado/.\nBaseado em seus conhecimentos sobre correntes marítimas\nquentes e frias em superfície, bem como nos dados\nrepresentados no mapa, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "No Hemisfério Sul, as regiões de maior potencial de pesca\nsão aquelas que margeiam a costa leste dos continentes\namericano, africano e asiático, marcadas pela presença de\ncorrentes marítimas quentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "No Hemisfério Norte, as regiões de maior potencial de\npesca são registradas na costa leste e oeste do continente\namericano, margeadas pelas correntes marítimas frias do\nLabrador e do Golfo, respectivamente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Em todo o globo, as áreas que demarcam as águas\ninternacionais ou alto-mar são as mais piscosas\nindependentemente da presença de correntes marítimas\nquentes ou frias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "No Hemisfério Sul, as regiões de maior potencial de pesca\nocorrem na costa oeste do continente americano e do\ncontinente africano, com a presença, respectivamente,\ndas correntes marítimas de Humboldt e de Benguela.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "As regiões polares apresentam potencial reduzido de\npesca em função das dificuldades de acesso, baixa\nreprodução das espécies nesses locais e presença de\ncorrentes marítimas frias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Observe o mapa da distribuição da pesca no globo em\ntoneladas por quilômetro quadrado, por ano.\nDisponível em https://animalbusiness.com.br/negocios-e-mercado/.\nBaseado em seus conhecimentos sobre correntes marítimas\nquentes e frias em superfície, bem como nos dados\nrepresentados no mapa, assinale a alternativa correta.\n(A) No Hemisfério Sul, as regiões de maior potencial de pesca\nsão aquelas que margeiam a costa leste dos continentes\namericano, africano e asiático, marcadas pela presença de\ncorrentes marítimas quentes.\n(B) No Hemisfério Norte, as regiões de maior potencial de\npesca são registradas na costa leste e oeste do continente\namericano, margeadas pelas correntes marítimas frias do\nLabrador e do Golfo, respectivamente.\n(C) Em todo o globo, as áreas que demarcam as águas\ninternacionais ou alto-mar são as mais piscosas\nindependentemente da presença de correntes marítimas\nquentes ou frias.\n(D) No Hemisfério Sul, as regiões de maior potencial de pesca\nocorrem na costa oeste do continente americano e do\ncontinente africano, com a presença, respectivamente,\ndas correntes marítimas de Humboldt e de Benguela.\n(E) As regiões polares apresentam potencial reduzido de\npesca em função das dificuldades de acesso, baixa\nreprodução das espécies nesses locais e presença de\ncorrentes marítimas frias.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Correntes marítimas e distribuição da pesca",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

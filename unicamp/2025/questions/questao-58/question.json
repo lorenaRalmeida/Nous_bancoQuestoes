@@ -1,0 +1,126 @@
+{
+  "title": "Questão 58 - UNICAMP 2025 - 1ª fase",
+  "index": 58,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A poluição de rios, lagos e lagoas é um dos grandes problemas\nenfrentados pela sociedade moderna. Ao longo das últimas décadas, vários mecanismos têm sido utilizados para minimizar os\ndanos causados por ela.\nUma indústria despeja numa lagoa, de forma indevida, água\ncontaminada por um poluente a uma certa taxa. Dependendo\nda vazão da lagoa e da concentração do poluente, é possível\nverificar que a quantidade total desse contaminante na lagoa\nnum tempo t, denotada por Q(t), é dada por\nQ( t ) = 20 + 2 sen( t ) – 4 cos(t),\nem que t representa o tempo medido em anos e Q( t ) é medido\nem quilos. O gráfico que melhor representa a função Q( t ), ou\nseja, a quantidade total do poluente na lagoa num tempo t é:",
+  "files": [
+    "imagem-01.png",
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A poluição de rios, lagos e lagoas é um dos grandes problemas\nenfrentados pela sociedade moderna. Ao longo das últimas dé-\ncadas, vários mecanismos têm sido utilizados para minimizar os\ndanos causados por ela.\nUma indústria despeja numa lagoa, de forma indevida, água\ncontaminada por um poluente a uma certa taxa. Dependendo\nda vazão da lagoa e da concentração do poluente, é possível\nverificar que a quantidade total desse contaminante na lagoa\nnum tempo t, denotada por Q(t), é dada por\nQ( t ) = 20 + 2 sen( t ) – 4 cos(t),\nem que t representa o tempo medido em anos e Q( t ) é medido\nem quilos. O gráfico que melhor representa a função Q( t ), ou\nseja, a quantidade total do poluente na lagoa num tempo t é:\na)\n25\n20\n15\n10\n5\n0 2 4 6 8\nt\nb)\nc)\nd)\n)t(Q\n25\n20\n15\n10\n5\n0 2 4 6 8\nt\n)t(Q\n25\n20\n15\n10\n5\n0 2 4 6 8\nt\n)t(Q\n25\n20\n15\n10\n5\n0 2 4 6 8\nt\n)t(Q",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            711.7571,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            40,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            40,
+            291,
+            46.889999999999986
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Questão 14 - UNICAMP 2024 - 1ª fase",
+  "index": 14,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“Dos pretos é tão própria e natural a união que a todos os que\ntêm a mesma cor, chamam parentes; a todos os que servem na\nmesma casa, chamam parceiros; e a todos os que se embarcam\nno mesmo navio, chamam malungos.”\n(VIEIRA, Padre Antônio. Sermão XX. Parte II. Lisboa: Impressão Craesbeeckiana, p. 165,\n1688.)\nSobre as comunidades de malungos no período da escravidão,\né correto afirmar, de acordo com o texto, que são formadas",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "nos laços entre africanos de múltiplas etnias, os quais haviam atravessado juntos o Atlântico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "no encontro dos africanos nas senzalas, no exercício de ofícios e no trabalho da lavoura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "no Novo Mundo por pessoas de uma mesma etnia que se\nreconheciam como iguais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "nos quilombos rurais e urbanos, formados por escravizados\nfugidos de muitas etnias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Dos pretos é tão própria e natural a união que a todos os que\ntêm a mesma cor, chamam parentes; a todos os que servem na\nmesma casa, chamam parceiros; e a todos os que se embarcam\nno mesmo navio, chamam malungos.”\n(VIEIRA, Padre Antônio. Sermão XX. Parte II. Lisboa: Impressão Craesbeeckiana, p. 165,\n1688.)\nSobre as comunidades de malungos no período da escravidão,\né correto afirmar, de acordo com o texto, que são formadas\na) nos laços entre africanos de múltiplas etnias, os quais ha-\nviam atravessado juntos o Atlântico.\nb) no encontro dos africanos nas senzalas, no exercício de ofí-\ncios e no trabalho da lavoura.\nc) no Novo Mundo por pessoas de uma mesma etnia que se\nreconheciam como iguais.\nd) nos quilombos rurais e urbanos, formados por escravizados\nfugidos de muitas etnias.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            111.6567,
+            291,
+            396.1826
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

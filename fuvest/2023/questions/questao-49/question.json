@@ -1,0 +1,100 @@
+{
+  "title": "Questão 49 - FUVEST 2023 - 1ª fase",
+  "index": 49,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "“Nos países bálticos, na Ásia central, no Cáucaso, até mesmo\nna Rússia e nas duas outras nações eslavas (Ucrânia e Bielo-\nRússia [ou Belarus]), consideradas o núcleo básico de\nsustentação da União Soviética, [em 1990] os parlamentos\nnacionais proclamavam a própria soberania em relação ao\npoder central da União, ou seja, a primazia das leis nacionais\nsobre as leis soviéticas. Num contexto de predomínio de\nforças centrífugas, qual seria o destino do poder central?”.\nREIS FILHO, Daniel Aarão. As Revoluções Russas e o Socialismo Soviético. São\nPaulo: Editoria Unesp, 2003.\nVALTMAN, Edmund S., Artista. Gorbachev [Mikhail Gorbachev, presidente\nda União Soviética entre 1985-1991] contempla uma foice e um martelo\ndespedaçados. União Soviética, 1991.\nhttps://www.loc.gov/item/2016687304/.\nConsiderando a relação com a charge, o texto apresenta",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uma situação de tranquilidade política na União Soviética,\nenquanto a charge faz alusão à mudança deste cenário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o momento pós-independência das repúblicas que\ncompunham a União Soviética, enquanto a charge\nrepresenta o momento inicial de sua reconstrução.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uma projeção otimista quanto ao futuro da União\nSoviética, enquanto a charge nega esse prognóstico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uma crítica ao nacionalismo das repúblicas soviéticas,\nenquanto a charge celebra o esfacelamento do poder\ncentral.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "uma conjuntura de crise no governo de Gorbachev,\nenquanto a charge representa o subsequente colapso da\nUnião Soviética.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Nos países bálticos, na Ásia central, no Cáucaso, até mesmo\nna Rússia e nas duas outras nações eslavas (Ucrânia e Bielo-\nRússia [ou Belarus]), consideradas o núcleo básico de\nsustentação da União Soviética, [em 1990] os parlamentos\nnacionais proclamavam a própria soberania em relação ao\npoder central da União, ou seja, a primazia das leis nacionais\nsobre as leis soviéticas. Num contexto de predomínio de\nforças centrífugas, qual seria o destino do poder central?”.\nREIS FILHO, Daniel Aarão. As Revoluções Russas e o Socialismo Soviético. São\nPaulo: Editoria Unesp, 2003.\nVALTMAN, Edmund S., Artista. Gorbachev [Mikhail Gorbachev, presidente\nda União Soviética entre 1985-1991] contempla uma foice e um martelo\ndespedaçados. União Soviética, 1991.\nhttps://www.loc.gov/item/2016687304/.\nConsiderando a relação com a charge, o texto apresenta\n(A) uma situação de tranquilidade política na União Soviética,\nenquanto a charge faz alusão à mudança deste cenário.\n(B) o momento pós-independência das repúblicas que\ncompunham a União Soviética, enquanto a charge\nrepresenta o momento inicial de sua reconstrução.\n(C) uma projeção otimista quanto ao futuro da União\nSoviética, enquanto a charge nega esse prognóstico.\n(D) uma crítica ao nacionalismo das repúblicas soviéticas,\nenquanto a charge celebra o esfacelamento do poder\ncentral.\n(E) uma conjuntura de crise no governo de Gorbachev,\nenquanto a charge representa o subsequente colapso da\nUnião Soviética.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            297.5,
+            40.07470000000001,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Desagregação da União Soviética",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

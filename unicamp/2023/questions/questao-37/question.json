@@ -1,0 +1,82 @@
+{
+  "title": "Questão 37 - UNICAMP 2023 - 1ª fase",
+  "index": 37,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O papilomavírus humano (HPV) é um grupo de vírus muito comum no mundo. Existem muitos tipos de HPV e a maioria deles\nnão causa problemas ao organismo humano. Porém, os tipos\nde HPV 16 e 18 estão associados com 70% dos casos de cânceres de colo do útero e lesões genitais pré-cancerosas.\n(Adaptado de https://www.paho.org/pt/topicos/hpv-e-cancer-do-colo-do-utero. Acesso\nem 01/06/2022.)\nÉ correto afirmar que o HPV é transmitido",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "principalmente por contato sexual; o uso de preservativo elimina a possibilidade de infecção pelos HPV 16 e 18, sendo\nindicado quando existe exposição ao vírus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "por contato direto com a pele ou mucosa infectada, sobretudo durante a relação sexual; a vacinação pode tratar a\ninfecção e as doenças associadas aos diversos tipos de HPV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "principalmente por contato sexual; o controle da infecção\ninclui a prevenção pela vacinação contra os HPV 16 e 18,\nsendo indicada antes da exposição ao vírus.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "por contato direto com a pele ou mucosa infectada, sobretudo durante a relação sexual; o uso de preservativo impede\no desenvolvimento das doenças associadas ao HPV.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O papilomavírus humano (HPV) é um grupo de vírus muito co-\nmum no mundo. Existem muitos tipos de HPV e a maioria deles\nnão causa problemas ao organismo humano. Porém, os tipos\nde HPV 16 e 18 estão associados com 70% dos casos de cânce-\nres de colo do útero e lesões genitais pré-cancerosas.\n(Adaptado de https://www.paho.org/pt/topicos/hpv-e-cancer-do-colo-do-utero. Acesso\nem 01/06/2022.)\nÉ correto afirmar que o HPV é transmitido\na) principalmente por contato sexual; o uso de preservativo eli-\nmina a possibilidade de infecção pelos HPV 16 e 18, sendo\nindicado quando existe exposição ao vírus.\nb) por contato direto com a pele ou mucosa infectada, sobre-\ntudo durante a relação sexual; a vacinação pode tratar a\ninfecção e as doenças associadas aos diversos tipos de HPV.\nc) principalmente por contato sexual; o controle da infecção\ninclui a prevenção pela vacinação contra os HPV 16 e 18,\nsendo indicada antes da exposição ao vírus.\nd) por contato direto com a pele ou mucosa infectada, sobre-\ntudo durante a relação sexual; o uso de preservativo impede\no desenvolvimento das doenças associadas ao HPV.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            390.6633
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 81 - FUVEST 2025 - 1ª fase",
+  "index": 81,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“O eixo econômico do país, que já havia se deslocado para a\nzona de mineração, caminhou mais uma vez, deslocando-se\nem direção às ondulações do planalto paulista, que foram se\nrecobrindo pelo verde escuro dos cafezais. Enquanto outras\nregiões brasileiras vegetavam ou iniciavam mesmo um\nprocesso de decadência econômica, a Província, logo depois\nestado de São Paulo, apresentava uma ascensão esplêndida e\nvigorosa.”\nPETRONE, Pasquale. As indústrias paulistanas e os fatores de sua expansão.\nTerra Livre. 1953, p. 27 (Adaptado).\nSobre a industrialização no território brasileiro, é correto\nafirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Tal como São Paulo, a Zona Franca de Manaus teve a\nexpansão de suas indústrias dada pelo potencial do\nmercado consumidor local dos produtos resultantes da\nindustrialização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O Nordeste teve sua expansão industrial durante o Estado\nNovo, em razão da alta concentração de capitais dos\nestados da região, permitindo conexões dos seus polos\nindustriais já consolidados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O boom industrial que aconteceu na região Sul, a partir da\ndécada de 1980, foi similar ao desenvolvimento ocorrido\nno Sudeste, onde a mão de obra especializada aumentou\na produção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A concentração industrial no Sudeste ocorreu devido à\nexistência de mercado consumidor, de capitais, de mão de\nobra disponível e de maior capacidade dos meios de\ntransporte.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "A região Centro-Oeste contou com a facilidade de\nobtenção de energia, por meio de hidrelétricas e\ntermoelétricas, além da densa malha viária para o seu\ndesenvolvimento industrial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“O eixo econômico do país, que já havia se deslocado para a\nzona de mineração, caminhou mais uma vez, deslocando-se\nem direção às ondulações do planalto paulista, que foram se\nrecobrindo pelo verde escuro dos cafezais. Enquanto outras\nregiões brasileiras vegetavam ou iniciavam mesmo um\nprocesso de decadência econômica, a Província, logo depois\nestado de São Paulo, apresentava uma ascensão esplêndida e\nvigorosa.”\nPETRONE, Pasquale. As indústrias paulistanas e os fatores de sua expansão.\nTerra Livre. 1953, p. 27 (Adaptado).\nSobre a industrialização no território brasileiro, é correto\nafirmar:\n(A) Tal como São Paulo, a Zona Franca de Manaus teve a\nexpansão de suas indústrias dada pelo potencial do\nmercado consumidor local dos produtos resultantes da\nindustrialização.\n(B) O Nordeste teve sua expansão industrial durante o Estado\nNovo, em razão da alta concentração de capitais dos\nestados da região, permitindo conexões dos seus polos\nindustriais já consolidados.\n(C) O boom industrial que aconteceu na região Sul, a partir da\ndécada de 1980, foi similar ao desenvolvimento ocorrido\nno Sudeste, onde a mão de obra especializada aumentou\na produção.\n(D) A concentração industrial no Sudeste ocorreu devido à\nexistência de mercado consumidor, de capitais, de mão de\nobra disponível e de maior capacidade dos meios de\ntransporte.\n(E) A região Centro-Oeste contou com a facilidade de\nobtenção de energia, por meio de hidrelétricas e\ntermoelétricas, além da densa malha viária para o seu\ndesenvolvimento industrial.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            28,
+            603.4747,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            304.7347
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "topic": "Industrialização e organização territorial brasileira",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

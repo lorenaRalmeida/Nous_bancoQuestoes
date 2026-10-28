@@ -1,0 +1,84 @@
+{
+  "title": "Questão 66 - UNICAMP 2023 - 1ª fase",
+  "index": 66,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia um trecho de um romance publicado em 1985.\nBut if you happen to be a man sometime in the future, and\nyou’ve made it this far, please remember you will never be subject to the temptation or feeling you must forgive, a man, as\na woman. But remember that forgiveness too is a power. To\nbeg for it is a power, and to withhold or bestow it is a power,\nperhaps the greatest. Maybe none of this is about control. Maybe it isn’t really about who can own whom, who can do what\nto whom and get away with it, even as far as death. Maybe it\nisn’t about who can sit and who has to kneel or stand or lie\ndown (…). Maybe it’s about who can do what to whom and\nbe forgiven for it. Never tell me it amounts to the same thing.\n(Adaptado de ATWOOD, Margaret. The Handmaid’s Tale. New York: HMH, p. 134, 1985.)\nNo depoimento, a personagem explicita a relação entre",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "poder e tentação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "feminismo e violência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "poder e perdão.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "perdão e feminismo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia um trecho de um romance publicado em 1985.\nBut if you happen to be a man sometime in the future, and\nyou’ve made it this far, please remember you will never be sub-\nject to the temptation or feeling you must forgive, a man, as\na woman. But remember that forgiveness too is a power. To\nbeg for it is a power, and to withhold or bestow it is a power,\nperhaps the greatest. Maybe none of this is about control. May-\nbe it isn’t really about who can own whom, who can do what\nto whom and get away with it, even as far as death. Maybe it\nisn’t about who can sit and who has to kneel or stand or lie\ndown (…). Maybe it’s about who can do what to whom and\nbe forgiven for it. Never tell me it amounts to the same thing.\n(Adaptado de ATWOOD, Margaret. The Handmaid’s Tale. New York: HMH, p. 134, 1985.)\nNo depoimento, a personagem explicita a relação entre\na) poder e tentação.\nb) feminismo e violência.\nc) poder e perdão.\nd) perdão e feminismo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            388.20189999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

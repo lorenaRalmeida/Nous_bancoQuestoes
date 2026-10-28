@@ -1,0 +1,98 @@
+{
+  "title": "Questão 32 - UNESP 2023 - 1ª fase",
+  "index": 32,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Durante a Idade Média na Europa Ocidental, as realizações\nartísticas eram",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "relacionadas prioritariamente à exploração científica dos\ncorpos humanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "diversificadas do ponto de vista das linguagens expressivas empregadas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "circunscritas aos espaços de culto popular oriundos do\ncristianismo romano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "caracterizadas pela repetição de conteúdos culturais\nimpostos pelo mecenato.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "limitadas às imitações rigorosas de padrões estéticos da\nAntiguidade clássica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Durante a Idade Média na Europa Ocidental, as realizações\nartísticas eram\n(A) relacionadas prioritariamente à exploração científica dos\ncorpos humanos.\n(B) diversificadas do ponto de vista das linguagens expressi-\nvas empregadas.\n(C) circunscritas aos espaços de culto popular oriundos do\ncristianismo romano.\n(D) caracterizadas pela repetição de conteúdos culturais\nimpostos pelo mecenato.\n(E) limitadas às imitações rigorosas de padrões estéticos da\nAntiguidade clássica.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            441.062,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

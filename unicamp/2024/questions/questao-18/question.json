@@ -1,0 +1,92 @@
+{
+  "title": "Questão 18 - UNICAMP 2024 - 1ª fase",
+  "index": 18,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Prisões e torturas igualmente triplicaram, principalmente as de\njornalistas. Dentre elas, a mais emblemática foi a de Vladimir\nHerzog, diretor da TV Cultura, que, embora fosse militante\ndo PCB, não desenvolvia atividade clandestina nem pertencia aos quadros do partido. Herzog foi assassinado dentro do\nDOI-CODI, sendo a versão oficial de sua morte falsamente atribuída a um enforcamento. Em sua Autobiografia, Rita Lee publicou o bilhete de Elis Regina que fazia menção a uma música\nfeita para “Vlado” e que, obviamente, fora censurada.\n(Adaptado de: LIMA, N. Ditadura no Brasil e Censura nas Canções de Rita Lee. Curitiba:\nAppris, 2019, p.17.)\nA partir da leitura do texto e de seus conhecimentos a respeito\ndesse período da História do Brasil, é correto afirmar, sobre os\neventos narrados, que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Rita Lee, Elis Regina, Caetano Veloso, Chico Buarque, entre\noutros artistas nacionais, tiveram suas músicas censuradas\npela Ditadura Militar, apesar da manutenção da garantia\nconstitucional da liberdade de expressão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A Ditadura Militar permitiu a continuidade do Partido Comunista Brasileiro e perseguia sua atuação revolucionária\nvinculada a Stalin e à União Soviética; por conta disso, prendia e torturava seus filiados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Centros de detenção da Ditadura Militar, como o DOI-CODI,\noperaram dentro da legalidade constitucional, sendo que\nos presos, políticos ou não, eram fichados e tinham direito à\ndefesa garantido por lei.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Vladimir Herzog e outros jornalistas foram vítimas de perseguição política, prisões, torturas e execuções realizadas por\nmilitares, com apoio de parte da sociedade civil, em nome\nda ideologia da segurança nacional.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Prisões e torturas igualmente triplicaram, principalmente as de\njornalistas. Dentre elas, a mais emblemática foi a de Vladimir\nHerzog, diretor da TV Cultura, que, embora fosse militante\ndo PCB, não desenvolvia atividade clandestina nem perten-\ncia aos quadros do partido. Herzog foi assassinado dentro do\nDOI-CODI, sendo a versão oficial de sua morte falsamente atri-\nbuída a um enforcamento. Em sua Autobiografia, Rita Lee pu-\nblicou o bilhete de Elis Regina que fazia menção a uma música\nfeita para “Vlado” e que, obviamente, fora censurada.\n(Adaptado de: LIMA, N. Ditadura no Brasil e Censura nas Canções de Rita Lee. Curitiba:\nAppris, 2019, p.17.)\nA partir da leitura do texto e de seus conhecimentos a respeito\ndesse período da História do Brasil, é correto afirmar, sobre os\neventos narrados, que\na) Rita Lee, Elis Regina, Caetano Veloso, Chico Buarque, entre\noutros artistas nacionais, tiveram suas músicas censuradas\npela Ditadura Militar, apesar da manutenção da garantia\nconstitucional da liberdade de expressão.\nb) A Ditadura Militar permitiu a continuidade do Partido Co-\nmunista Brasileiro e perseguia sua atuação revolucionária\nvinculada a Stalin e à União Soviética; por conta disso, pren-\ndia e torturava seus filiados.\nc) Centros de detenção da Ditadura Militar, como o DOI-CODI,\noperaram dentro da legalidade constitucional, sendo que\nos presos, políticos ou não, eram fichados e tinham direito à\ndefesa garantido por lei.\nd) Vladimir Herzog e outros jornalistas foram vítimas de perse-\nguição política, prisões, torturas e execuções realizadas por\nmilitares, com apoio de parte da sociedade civil, em nome\nda ideologia da segurança nacional.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            280.2527,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.834499999999935
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

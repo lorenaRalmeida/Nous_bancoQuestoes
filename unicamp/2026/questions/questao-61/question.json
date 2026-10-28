@@ -1,0 +1,82 @@
+{
+  "title": "Questão 61 - UNICAMP 2026 - 1ª fase",
+  "index": 61,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia os textos 1 e 2.\nTexto 1\nAos óculos\nSó fingem que põem\no mundo ao alcance\ndos meus olhos míopes.\nNa verdade, me exilam\ndele com filtrar-lhe\na menor imagem.\nJá não vejo as coisas\ncomo são: vejo-as como eles querem\nque as veja.\nLogo, são eles que veem,\nnão eu que, mesmo cônscio\ndo logro, lhes sou grato\npor anteciparem em mim\no Édipo curioso\nde suas próprias trevas.\n(PAES, J. P. Prosas seguidas de Odes mínimas. São Paulo: Companhia das Letras, p. 63,\n1992.)\nTexto 2\n“Do grego odé e do latim ōde (ou ōda), a ode era, na antiguidade clássica, um poema destinado a ser cantado, ou um canto\nalegre, triste ou lírico. Era um poema de alguma extensão, de\nelevado assunto ou nobre, expressando sentimentos ilustres,\nem homenagem a algo ou a alguém. Apresentava também a\nelaboração estrófica, bem como estilo formal nobre e cerimonioso”.\n(Adaptado do verbete “Ode”, elaborado por Ana Ladeira. In: CEIA, C. E-Dicionário de\ntermos literários (projeto abrigado pela Universidade Nova de Lisboa). Disponível em\nhttps://edtl.fcsh.unl.pt/encyclopedia/ode. Acesso em 31/05/2025.)\nÉ correto afirmar que a ode mínima de José Paulo Paes reelabora a definição clássica de “ode” ao",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "respeitar a elevação do assunto, a nobreza do tom e os sentimentos ilustres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "utilizar-se de um tom elevado e cerimonioso para a homenagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "dirigir-se a um objeto, vinculando-se ao gênero canção popular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "celebrar um objeto fundamental, os óculos, e não algo/alguém ilustre.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia os textos 1 e 2.\nTexto 1\nAos óculos\nSó fingem que põem\no mundo ao alcance\ndos meus olhos míopes.\nNa verdade, me exilam\ndele com filtrar-lhe\na menor imagem.\nJá não vejo as coisas\ncomo são: vejo-as como eles querem\nque as veja.\nLogo, são eles que veem,\nnão eu que, mesmo cônscio\ndo logro, lhes sou grato\npor anteciparem em mim\no Édipo curioso\nde suas próprias trevas.\n(PAES, J. P. Prosas seguidas de Odes mínimas. São Paulo: Companhia das Letras, p. 63,\n1992.)\nTexto 2\n“Do grego odé e do latim ōde (ou ōda), a ode era, na antigui-\ndade clássica, um poema destinado a ser cantado, ou um canto\nalegre, triste ou lírico. Era um poema de alguma extensão, de\nelevado assunto ou nobre, expressando sentimentos ilustres,\nem homenagem a algo ou a alguém. Apresentava também a\nelaboração estrófica, bem como estilo formal nobre e cerimo-\nnioso”.\n(Adaptado do verbete “Ode”, elaborado por Ana Ladeira. In: CEIA, C. E-Dicionário de\ntermos literários (projeto abrigado pela Universidade Nova de Lisboa). Disponível em\nhttps://edtl.fcsh.unl.pt/encyclopedia/ode. Acesso em 31/05/2025.)\nÉ correto afirmar que a ode mínima de José Paulo Paes reelabo-\nra a definição clássica de “ode” ao\na) respeitar a elevação do assunto, a nobreza do tom e os sen-\ntimentos ilustres.\nb) utilizar-se de um tom elevado e cerimonioso para a home-\nnagem.\nc) dirigir-se a um objeto, vinculando-se ao gênero canção po-\npular.\nd) celebrar um objeto fundamental, os óculos, e não algo/al-\nguém ilustre.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            117.32600000000002,
+            291,
+            709.3118999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

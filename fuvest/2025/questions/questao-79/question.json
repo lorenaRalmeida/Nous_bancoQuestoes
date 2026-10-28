@@ -1,0 +1,100 @@
+{
+  "title": "Questão 79 - FUVEST 2025 - 1ª fase",
+  "index": 79,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Migrações e invasões no Império Romano, séculos IV e V.\nDisponível em https://www.britannica.com/ (Adaptado).\nA análise do mapa permite identificar deslocamentos de\npovos não romanos caracterizados",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pela concentração de rotas migratórias em território\nbizantino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pela inexistência de invasões direcionadas para o norte da\nÁfrica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pela inexpressiva diversidade de povos das correntes\nmigratórias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pela proeminência de migrações na porção ocidental do\nImpério Romano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "pelo predomínio de invasões por rotas marítimas em\ndetrimento das rotas terrestres.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nMigrações e invasões no Império Romano, séculos IV e V.\nDisponível em https://www.britannica.com/ (Adaptado).\nA análise do mapa permite identificar deslocamentos de\npovos não romanos caracterizados\n(A) pela concentração de rotas migratórias em território\nbizantino.\n(B) pela inexistência de invasões direcionadas para o norte da\nÁfrica.\n(C) pela inexpressiva diversidade de povos das correntes\nmigratórias.\n(D) pela proeminência de migrações na porção ocidental do\nImpério Romano.\n(E) pelo predomínio de invasões por rotas marítimas em\ndetrimento das rotas terrestres.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Migrações no Império Romano",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

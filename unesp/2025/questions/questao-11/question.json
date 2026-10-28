@@ -1,0 +1,108 @@
+{
+  "title": "Questão 11 - UNESP 2025 - 1ª fase",
+  "index": 11,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões de 09 a 11, leia um trecho do\nManifesto da Poesia Pau-Brasil, de Oswald de Andrade, publicado há exatos 100 anos, em 1924.\nA poesia existe nos fatos. Os casebres de açafrão e de\nocre nos verdes da Favela, sob o azul cabralino, são fatos\nestéticos.\nO Carnaval no Rio é o acontecimento religioso da raça.\nPau-Brasil. Wagner submerge ante os cordões de Botafogo.\nBárbaro e nosso. A formação étnica rica. Riqueza vegetal. O\nminério. A cozinha. O vatapá, o ouro e a dança. [...]\nA nunca exportação de poesia. A poesia anda oculta nos\ncipós maliciosos da sabedoria. Nas lianas1 da saudade universitária. [...]\nA língua sem arcaísmos, sem erudição. Natural e neológica. A contribuição milionária de todos os erros. Como falamos. Como somos. [...]\nA reação contra o assunto invasor, diverso da finalidade.\nA peça de tese era um arranjo monstruoso. O romance de\nideias, uma mistura. O quadro histórico, uma aberração. A\nescultura eloquente, um pavor sem sentido.\n(Gilberto Mendonça Teles (org.).\nVanguarda europeia e modernismo brasileiro, 1992.)\n1 liana: cipó.\n\nEmprega-se vírgula para assinalar a supressão de um verbo\nno seguinte trecho:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“A língua sem arcaísmos, sem erudição.” (4o parágrafo)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“O quadro histórico, uma aberração.” (5o parágrafo)",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "“Os casebres de açafrão e de ocre nos verdes da Favela,\nsob o azul cabralino, são fatos estéticos.” (1o parágrafo)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“O vatapá, o ouro e a dança.” (2o parágrafo)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“A reação contra o assunto invasor, diverso da finalidade.” (5o parágrafo)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Emprega-se vírgula para assinalar a supressão de um verbo\nno seguinte trecho:\n(A) “A língua sem arcaísmos, sem erudição.” (4o parágrafo)\n(B) “O quadro histórico, uma aberração.” (5o parágrafo)\n(C) “Os casebres de açafrão e de ocre nos verdes da Favela,\nsob o azul cabralino, são fatos estéticos.” (1o parágrafo)\n(D) “O vatapá, o ouro e a dança.” (2o parágrafo)\n(E) “A reação contra o assunto invasor, diverso da finalida-\nde.” (5o parágrafo)",
+    "sharedContext": "Para responder às questões de 09 a 11, leia um trecho do\nManifesto da Poesia Pau-Brasil, de Oswald de Andrade, publicado há exatos 100 anos, em 1924.\nA poesia existe nos fatos. Os casebres de açafrão e de\nocre nos verdes da Favela, sob o azul cabralino, são fatos\nestéticos.\nO Carnaval no Rio é o acontecimento religioso da raça.\nPau-Brasil. Wagner submerge ante os cordões de Botafogo.\nBárbaro e nosso. A formação étnica rica. Riqueza vegetal. O\nminério. A cozinha. O vatapá, o ouro e a dança. [...]\nA nunca exportação de poesia. A poesia anda oculta nos\ncipós maliciosos da sabedoria. Nas lianas1 da saudade universitária. [...]\nA língua sem arcaísmos, sem erudição. Natural e neológica. A contribuição milionária de todos os erros. Como falamos. Como somos. [...]\nA reação contra o assunto invasor, diverso da finalidade.\nA peça de tese era um arranjo monstruoso. O romance de\nideias, uma mistura. O quadro histórico, uma aberração. A\nescultura eloquente, um pavor sem sentido.\n(Gilberto Mendonça Teles (org.).\nVanguarda europeia e modernismo brasileiro, 1992.)\n1 liana: cipó.",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            226.30610000000001,
+            291,
+            413.0856
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

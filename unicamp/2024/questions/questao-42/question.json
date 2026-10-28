@@ -1,0 +1,84 @@
+{
+  "title": "Questão 42 - UNICAMP 2024 - 1ª fase",
+  "index": 42,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O conceito apresentado na figura a seguir é importante para\nfundamentar a classificação biológica baseada nas relações evolutivas entre os organismos.\n(Adaptado de: https://evolution.berkeley.edu/similarities-and-differences-understanding-\n-homology-and-analogy-ms/.../. Acesso em 22/8/2023.)\nÉ correto afirmar que as estruturas anatômicas indicadas",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "no humano e no lagarto são consideradas análogas; trata-se\nde um caso de evolução convergente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "na baleia e no pássaro são consideradas homólogas; trata-se\nde um caso de evolução divergente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "no lagarto e no pássaro são consideradas homólogas; trata-\n-se de um caso de evolução convergente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "no humano e na baleia são consideradas análogas; trata-se\nde um caso de evolução divergente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O conceito apresentado na figura a seguir é importante para\nfundamentar a classificação biológica baseada nas relações evo-\nlutivas entre os organismos.\n(Adaptado de: https://evolution.berkeley.edu/similarities-and-differences-understanding-\n-homology-and-analogy-ms/.../. Acesso em 22/8/2023.)\nÉ correto afirmar que as estruturas anatômicas indicadas\na) no humano e no lagarto são consideradas análogas; trata-se\nde um caso de evolução convergente.\nb) na baleia e no pássaro são consideradas homólogas; trata-se\nde um caso de evolução divergente.\nc) no lagarto e no pássaro são consideradas homólogas; trata-\n-se de um caso de evolução convergente.\nd) no humano e na baleia são consideradas análogas; trata-se\nde um caso de evolução divergente.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            101.45669999999996,
+            568,
+            516.2441
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

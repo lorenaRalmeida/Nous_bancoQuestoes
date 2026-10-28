@@ -1,0 +1,155 @@
+{
+  "title": "Questão 76 - UNESP 2024 - 1ª fase",
+  "index": 76,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Uma pessoa estava parada com seu veículo em um semáforo. Quando a luz verde do semáforo se acendeu, o veículo\npartiu e o movimento realizado até o seu destino pode ser\ndividido em quatro trechos:\nTrecho 1: veículo em movimento acelerado;\nTrecho 2: veículo em movimento uniforme;\nTrecho 3: percebendo que havia passado do endereço para\nonde ia, a pessoa freou o veículo até parar, e\ninverteu o sentido de seu movimento, com a mesma aceleração escalar com que havia freado;\nTrecho 4: nova frenagem, chegando ao seu destino, onde\nparou o veículo.\nOs três gráficos, I, II e III, mostram como variaram, em função do tempo, três grandezas escalares associadas ao movimento desse veículo, sem identificá-las, nos quatro trechos\ndescritos.\nSabendo que, enquanto se movia nesse trajeto, o veículo só\nesteve em movimento uniforme ou em movimento uniformemente variado, os gráficos I, II e III representam, respectivamente, as grandezas",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "posição, aceleração e velocidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "velocidade, aceleração e posição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "velocidade, posição e aceleração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aceleração, posição e velocidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "aceleração, velocidade e posição.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma pessoa estava parada com seu veículo em um semá-\nforo. Quando a luz verde do semáforo se acendeu, o veículo\npartiu e o movimento realizado até o seu destino pode ser\ndividido em quatro trechos:\nTrecho 1: veículo em movimento acelerado;\nTrecho 2: veículo em movimento uniforme;\nTrecho 3: percebendo que havia passado do endereço para\nonde ia, a pessoa freou o veículo até parar, e\ninverteu o sentido de seu movimento, com a mes-\nma aceleração escalar com que havia freado;\nTrecho 4: nova frenagem, chegando ao seu destino, onde\nparou o veículo.\nOs três gráficos, I, II e III, mostram como variaram, em fun-\nção do tempo, três grandezas escalares associadas ao mo-\nvimento desse veículo, sem identificá-las, nos quatro trechos\ndescritos.\nSabendo que, enquanto se movia nesse trajeto, o veículo só\nesteve em movimento uniforme ou em movimento uniforme-\nmente variado, os gráficos I, II e III representam, respectiva-\nmente, as grandezas\n(A) posição, aceleração e velocidade.\n(B) velocidade, aceleração e posição.\n(C) velocidade, posição e aceleração.\n(D) aceleração, posição e velocidade.\n(E) aceleração, velocidade e posição.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 28,
+        "bbox": [
+          305.0057,
+          282.7827,
+          532.8109999999999,
+          350.9828
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 28,
+        "bbox": [
+          537.0687,
+          316.4479,
+          561.6871,
+          342.6374
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 28,
+        "bbox": [
+          305.0057,
+          344.53299999999996,
+          533.0169,
+          509.2504
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 28,
+        "bbox": [
+          537.0687,
+          418.0226,
+          561.6871,
+          444.2121
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 28,
+        "bbox": [
+          537.0687,
+          474.71549999999996,
+          561.6871,
+          500.9049
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

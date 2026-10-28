@@ -1,0 +1,108 @@
+{
+  "title": "Questão 39 - FUVEST 2023 - 1ª fase",
+  "index": 39,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 38 E 39\nO QUINTO IMPÉRIO\nTriste de quem vive em casa,\nContente com o seu lar,\nSem que um sonho, no erguer de asa,\nFaça até mais rubra a brasa\nDa lareira a abandonar!\nTriste de quem é feliz!\nVive porque a vida dura.\nNada na alma lhe diz\nMais que a lição da raiz —\nTer por vida a sepultura.\nEras sobre eras se somem\nNo tempo que em eras vem.\nSer descontente é ser homem.\nQue as forças cegas se domem\nPela visão que a alma tem!\nE assim, passados os quatro\nTempos do ser que sonhou,\nA terra será teatro\nDo dia claro, que no atro\nDa erma noite começou.\nGrécia, Roma, Cristandade,\nEuropa — os quatro se vão\nPara onde vai toda idade.\nQuem vem viver a verdade\nQue morreu D. Sebastião?\nFernando Pessoa. Mensagem.\n\nMensagem reconduz a história de Portugal a partir de uma\nreinterpretação do tempo histórico. No poema, o tempo é\nencarado segundo uma concepção",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "nostálgica, devido à presença de modelos situados no\npassado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "materialista, por efeito da aspiração burguesa de um lar\nconfortável.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mística, em razão do prognóstico de um futuro metafísico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "biológica, por mérito da aceitação do ciclo natural da\nexistência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "psicológica, em virtude da referência ao substantivo\n“sonho”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Mensagem reconduz a história de Portugal a partir de uma\nreinterpretação do tempo histórico. No poema, o tempo é\nencarado segundo uma concepção\n(A) nostálgica, devido à presença de modelos situados no\npassado.\n(B) materialista, por efeito da aspiração burguesa de um lar\nconfortável.\n(C) mística, em razão do prognóstico de um futuro metafísico.\n(D) biológica, por mérito da aceitação do ciclo natural da\nexistência.\n(E) psicológica, em virtude da referência ao substantivo\n“sonho”.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 38 E 39\nO QUINTO IMPÉRIO\nTriste de quem vive em casa,\nContente com o seu lar,\nSem que um sonho, no erguer de asa,\nFaça até mais rubra a brasa\nDa lareira a abandonar!\nTriste de quem é feliz!\nVive porque a vida dura.\nNada na alma lhe diz\nMais que a lição da raiz —\nTer por vida a sepultura.\nEras sobre eras se somem\nNo tempo que em eras vem.\nSer descontente é ser homem.\nQue as forças cegas se domem\nPela visão que a alma tem!\nE assim, passados os quatro\nTempos do ser que sonhou,\nA terra será teatro\nDo dia claro, que no atro\nDa erma noite começou.\nGrécia, Roma, Cristandade,\nEuropa — os quatro se vão\nPara onde vai toda idade.\nQuem vem viver a verdade\nQue morreu D. Sebastião?\nFernando Pessoa. Mensagem.",
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            297.5,
+            37.76999999999987,
+            567,
+            440.0347
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            297.5,
+            572.2147,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Tempo e história na poética de Mensagem",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

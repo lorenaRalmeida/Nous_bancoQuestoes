@@ -1,0 +1,98 @@
+{
+  "title": "Questão 82 - FUVEST 2024 - 1ª fase",
+  "index": 82,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Os trechos transcritos foram retirados dos livros dos\nmoçambicanos Luís Bernardo Honwana e Paulina Chiziane.\nEm ambos, observa-se a ocorrência da palavra “machamba”.\nA respeito do uso desse termo, é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "No texto I, machamba refere-se a um matagal, em sentido\ndenotativo; no texto II, ao papel de esposa de Sarnau, em\nsentido conotativo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "No texto I, machamba possui sentido literal, referindo-se\nàs terras para cultivo; no texto II, o sentido é figurado,\nreferindo-se ao útero de Sarnau.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "No texto I, machamba possui sentido figurado, referindo-\nse à colheita; no texto II, o sentido é literal, referindo-se a\num problema.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Em ambos os textos, machamba apresenta sentido literal\ne refere-se a um terreno agrícola de produção familiar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Em ambos os textos, machamba possui sentido figurado e\nrefere-se às terras férteis ocupadas pelos portugueses.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Os trechos transcritos foram retirados dos livros dos\nmoçambicanos Luís Bernardo Honwana e Paulina Chiziane.\nEm ambos, observa-se a ocorrência da palavra “machamba”.\nA respeito do uso desse termo, é correto afirmar:\n(A) No texto I, machamba refere-se a um matagal, em sentido\ndenotativo; no texto II, ao papel de esposa de Sarnau, em\nsentido conotativo.\n(B) No texto I, machamba possui sentido literal, referindo-se\nàs terras para cultivo; no texto II, o sentido é figurado,\nreferindo-se ao útero de Sarnau.\n(C) No texto I, machamba possui sentido figurado, referindo-\nse à colheita; no texto II, o sentido é literal, referindo-se a\num problema.\n(D) Em ambos os textos, machamba apresenta sentido literal\ne refere-se a um terreno agrícola de produção familiar.\n(E) Em ambos os textos, machamba possui sentido figurado e\nrefere-se às terras férteis ocupadas pelos portugueses.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 31,
+          "bbox": [
+            297.5,
+            449.8147,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Léxico e variação linguística moçambicana",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

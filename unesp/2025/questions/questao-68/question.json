@@ -1,0 +1,100 @@
+{
+  "title": "Questão 68 - UNESP 2025 - 1ª fase",
+  "index": 68,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Paleontólogos encontraram o fóssil de um anfíbio\nque viveu há cerca de 250 milhões de anos. Batizado de\nKwatisuchus rosai, o animal era aparentado a espécies já\ndescritas na Rússia. O achado confirma a suspeita de que\nos animais da época circulavam pela Pangeia. As falhas do\nregistro fóssil tornam difícil dizer qual caminho os anfíbios\npercorreram entre os territórios dos atuais Brasil e Rússia.\nO K. rosai fazia parte de um grupo de anfíbios chamados\ntemnospôndilos, predadores de peixes, caçava em terra e\ncontou com a vantagem de uma dieta variada e com a provável capacidade de construir buracos revestidos de muco,\nonde se protegeria da seca.\n(https://revistapesquisa.fapesp.br. Adaptado.)\nAs forças que configuraram a atual posição dos continentes\ne a importância fisiológica do muco nos buracos construídos\npelo K. rosai são, respectivamente,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as correntes de convecção da água oceânica e a manutenção da temperatura corporal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as correntes de condução do magma e a manutenção da\nrespiração cutânea.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as correntes de convecção do magma e a manutenção\nda respiração cutânea.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "as correntes de convecção do magma e a manutenção\nda respiração pulmonar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as correntes de condução da água oceânica e a manutenção da temperatura corporal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Paleontólogos encontraram o fóssil de um anfíbio\nque viveu há cerca de 250 milhões de anos. Batizado de\nKwatisuchus rosai, o animal era aparentado a espécies já\ndescritas na Rússia. O achado confirma a suspeita de que\nos animais da época circulavam pela Pangeia. As falhas do\nregistro fóssil tornam difícil dizer qual caminho os anfíbios\npercorreram entre os territórios dos atuais Brasil e Rússia.\nO K. rosai fazia parte de um grupo de anfíbios chamados\ntemnospôndilos, predadores de peixes, caçava em terra e\ncontou com a vantagem de uma dieta variada e com a pro-\nvável capacidade de construir buracos revestidos de muco,\nonde se protegeria da seca.\n(https://revistapesquisa.fapesp.br. Adaptado.)\nAs forças que configuraram a atual posição dos continentes\ne a importância fisiológica do muco nos buracos construídos\npelo K. rosai são, respectivamente,\n(A) as correntes de convecção da água oceânica e a manu-\ntenção da temperatura corporal.\n(B) as correntes de condução do magma e a manutenção da\nrespiração cutânea.\n(C) as correntes de convecção do magma e a manutenção\nda respiração cutânea.\n(D) as correntes de convecção do magma e a manutenção\nda respiração pulmonar.\n(E) as correntes de condução da água oceânica e a manu-\ntenção da temperatura corporal.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

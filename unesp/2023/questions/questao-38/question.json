@@ -1,0 +1,100 @@
+{
+  "title": "Questão 38 - UNESP 2023 - 1ª fase",
+  "index": 38,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Observe o anúncio do sabonete Pears, difundido em 1887.\n(In: Eric J. Hobsbawm. A era dos impérios: 1875-1914, 2008. Adaptado.)\nO anúncio revela",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o esforço britânico de obter apoio político, por meio da\noferta de alimentos às populações africanas carentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a exploração imperialista britânica, que retirava minérios\ne frutas tropicais das possessões coloniais na África e\nna Ásia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a ausência de recursos sanitários nas áreas mais afastadas do Império britânico, o qual promoveu ações de estímulo à higiene pessoal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o sentido religioso impresso na conquista britânica da\nÁfrica, gerado pela crença nativa de que os colonizadores teriam origem divina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a dimensão mercantil da expansão imperialista britânica,\nque implicava a expansão do comércio com regiões da\nÁsia e da África.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Observe o anúncio do sabonete Pears, difundido em 1887.\n(In: Eric J. Hobsbawm. A era dos impérios: 1875-1914, 2008. Adaptado.)\nO anúncio revela\n(A) o esforço britânico de obter apoio político, por meio da\noferta de alimentos às populações africanas carentes.\n(B) a exploração imperialista britânica, que retirava minérios\ne frutas tropicais das possessões coloniais na África e\nna Ásia.\n(C) a ausência de recursos sanitários nas áreas mais afasta-\ndas do Império britânico, o qual promoveu ações de estí-\nmulo à higiene pessoal.\n(D) o sentido religioso impresso na conquista britânica da\nÁfrica, gerado pela crença nativa de que os colonizado-\nres teriam origem divina.\n(E) a dimensão mercantil da expansão imperialista britânica,\nque implicava a expansão do comércio com regiões da\nÁsia e da África.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

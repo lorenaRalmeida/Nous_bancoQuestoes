@@ -1,0 +1,101 @@
+{
+  "title": "Questão 73 - UNESP 2024 - 1ª fase",
+  "index": 73,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Analise a tabela, que apresenta valores da entalpia padrão de\ncombustão completa (∆ H0) de três substâncias diferentes.\nc\n∆ H0 de\nProdutos da c\ncombustão\nSubstância Fórmula combustão\ncompleta\ncompleta\n(kJ/mol)\nÁcido\nC H O (l) CO (g) e H O (l) – 874\nacético 2 4 2 2 2\nC\nCarbono CO (g) – 394\n(s,grafita) 2\nHidrogênio H (g) H O (l) – 286\n2 2\nA partir desses valores de entalpia de combustão, é possível\ncalcular a entalpia de formação do ácido acético, que é, em\nkJ/mol, igual a",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "– 486.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "+ 1 052.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "– 1 554.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "– 296.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "+ 19,4.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a tabela, que apresenta valores da entalpia padrão de\ncombustão completa (∆ H0) de três substâncias diferentes.\nc\n∆ H0 de\nProdutos da c\ncombustão\nSubstância Fórmula combustão\ncompleta\ncompleta\n(kJ/mol)\nÁcido\nC H O (l) CO (g) e H O (l) – 874\nacético 2 4 2 2 2\nC\nCarbono CO (g) – 394\n(s,grafita) 2\nHidrogênio H (g) H O (l) – 286\n2 2\nA partir desses valores de entalpia de combustão, é possível\ncalcular a entalpia de formação do ácido acético, que é, em\nkJ/mol, igual a\n(A) – 486.\n(B) + 1 052.\n(C) – 1 554.\n(D) – 296.\n(E) + 19,4.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            392.8406
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 27,
+        "bbox": [
+          304,
+          72.74400000000003,
+          568,
+          232.10180000000003
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

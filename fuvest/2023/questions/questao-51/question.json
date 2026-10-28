@@ -1,0 +1,100 @@
+{
+  "title": "Questão 51 - FUVEST 2023 - 1ª fase",
+  "index": 51,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“Em um mapa produzido com a técnica da anamorfose\ngeográfica, cada país é redesenhado de forma que seu\npolígono tenha uma deformação proporcional a um tema de\ninteresse. Com essa técnica, é possível visualizá-lo de uma\nforma mais direta e clara”.\nDisponível em https://educa.ibge.gov.br/. Adaptado.\nObserve o mapa com dados de 2015:\nUnited Nations Development Programme (UNDP), Human Development\nindices and indicators, 2015.\nOs dados representados no mapa são condizentes com:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Número de nascimentos vivos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Produto Interno Bruto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Total de população urbana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Produção de petróleo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Refugiados conforme o país de origem.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Em um mapa produzido com a técnica da anamorfose\ngeográfica, cada país é redesenhado de forma que seu\npolígono tenha uma deformação proporcional a um tema de\ninteresse. Com essa técnica, é possível visualizá-lo de uma\nforma mais direta e clara”.\nDisponível em https://educa.ibge.gov.br/. Adaptado.\nObserve o mapa com dados de 2015:\nUnited Nations Development Programme (UNDP), Human Development\nindices and indicators, 2015.\nOs dados representados no mapa são condizentes com:\n(A) Número de nascimentos vivos.\n(B) Produto Interno Bruto.\n(C) Total de população urbana.\n(D) Produção de petróleo.\n(E) Refugiados conforme o país de origem.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            28,
+            476.9946,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            102.65470000000005
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Anamorfose cartográfica e indicadores sociais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

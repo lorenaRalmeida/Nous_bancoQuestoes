@@ -1,0 +1,102 @@
+{
+  "title": "Questão 41 - FUVEST 2024 - 1ª fase",
+  "index": 41,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "As moléculas de água podem conter o isótopo estável mais\nabundante de oxigênio, 16O, ou o isótopo estável menos\nabundante, 18O.\nEssa pequena diferença de massa entre as moléculas de água\né suficiente para alterar a sua pressão de vapor. Por esse\nmotivo, a análise de isótopos de oxigênio na água da chuva\npossibilita a identificação de períodos secos e de períodos\nchuvosos.\nA figura ilustra a mudança na constituição isotópica da água\nda chuva ao longo do tempo como resultado da diferença na\npressão de vapor.\nCom base nessas informações, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Em períodos de alta pluviosidade, as primeiras\nprecipitações da nuvem são isotopicamente mais leves e a\nnuvem de chuva se enriquece, relativamente, em 18O.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Em períodos de baixa pluviosidade, a constituição\nisotópica das nuvens pouco se altera ao longo do tempo,\ne a pouca chuva dessas nuvens é relativamente\nenriquecida em 18O.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "No período atual, em função do aquecimento global, as\ntemperaturas elevadas fazem com que o fracionamento\nisotópico de 16O e 18O resultante da evaporação e da\nprecipitação da água não ocorra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Em períodos glaciais, em função da maior temperatura do\nplaneta, as chuvas são enriquecidas em 18O, enquanto, nos\noceanos, a água é enriquecida em 16O.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Em períodos interglaciais, em função da menor\ntemperatura do planeta, as chuvas são enriquecidas em\n16O, enquanto, nos oceanos, a água é enriquecida em 18O.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "As moléculas de água podem conter o isótopo estável mais\nabundante de oxigênio, 16O, ou o isótopo estável menos\nabundante, 18O.\nEssa pequena diferença de massa entre as moléculas de água\né suficiente para alterar a sua pressão de vapor. Por esse\nmotivo, a análise de isótopos de oxigênio na água da chuva\npossibilita a identificação de períodos secos e de períodos\nchuvosos.\nA figura ilustra a mudança na constituição isotópica da água\nda chuva ao longo do tempo como resultado da diferença na\npressão de vapor.\nCom base nessas informações, assinale a alternativa correta.\n(A) Em períodos de alta pluviosidade, as primeiras\nprecipitações da nuvem são isotopicamente mais leves e a\nnuvem de chuva se enriquece, relativamente, em 18O.\n(B) Em períodos de baixa pluviosidade, a constituição\nisotópica das nuvens pouco se altera ao longo do tempo,\ne a pouca chuva dessas nuvens é relativamente\nenriquecida em 18O.\n(C) No período atual, em função do aquecimento global, as\ntemperaturas elevadas fazem com que o fracionamento\nisotópico de 16O e 18O resultante da evaporação e da\nprecipitação da água não ocorra.\n(D) Em períodos glaciais, em função da maior temperatura do\nplaneta, as chuvas são enriquecidas em 18O, enquanto, nos\noceanos, a água é enriquecida em 16O.\n(E) Em períodos interglaciais, em função da menor\ntemperatura do planeta, as chuvas são enriquecidas em\n16O, enquanto, nos oceanos, a água é enriquecida em 18O.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Isótopos e pressão de vapor da água",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

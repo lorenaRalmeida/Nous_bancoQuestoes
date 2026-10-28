@@ -1,0 +1,124 @@
+{
+  "title": "Questão 47 - UNICAMP 2025 - 1ª fase",
+  "index": 47,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "O texto e o gráfico a seguir foram adaptados do documento\n“Notas sobre o Brasil no PISA 2022”, do INEP/MEC:\nNo Brasil, 27% dos estudantes atingiram pelo menos o Nível 2\nde proficiência em matemática, percentagem significativamente menor do que a média dos estudantes entre os países da\nOCDE, que é de 69%. No mínimo, esses estudantes podem\ninterpretar e reconhecer, sem instruções diretas, como uma situação simples pode ser representada matematicamente (por\nexemplo, comparar a distância total de duas rotas alternativas\nou converter preços em uma moeda diferente).\nAlunos de baixo desempenho (pontuação abaixo do Nível 2)\nAlunos de alto desempenho (pontuação no Nível 5 ou superior)\nBrasil 73\nMédia 31 9\nOCDE\nBrasil 50 2\n26 7\n55\n24 7\n0% 25% 50% 75% 100%\nConsiderando o texto e o gráfico – que tratam do desempenho\ndos estudantes brasileiros no PISA 2022 –, é correto afirmar que\no percentual de alunos do Brasil",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "que atingiu pelo menos o nível 2 de proficiência em ciências\né de 45%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "que tem baixo desempenho em leitura é maior do que o\npercentual de alunos com baixo desempenho em ciências.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "com baixo desempenho em Matemática é o dobro do percentual da média da OCDE.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "que teve alto desempenho em Leitura é de 5%.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O texto e o gráfico a seguir foram adaptados do documento\n“Notas sobre o Brasil no PISA 2022”, do INEP/MEC:\nNo Brasil, 27% dos estudantes atingiram pelo menos o Nível 2\nde proficiência em matemática, percentagem significativamen-\nte menor do que a média dos estudantes entre os países da\nOCDE, que é de 69%. No mínimo, esses estudantes podem\ninterpretar e reconhecer, sem instruções diretas, como uma si-\ntuação simples pode ser representada matematicamente (por\nexemplo, comparar a distância total de duas rotas alternativas\nou converter preços em uma moeda diferente).\nAlunos de baixo desempenho (pontuação abaixo do Nível 2)\nAlunos de alto desempenho (pontuação no Nível 5 ou superior)\nBrasil 73\nMédia 31 9\nOCDE\nBrasil 50 2\n26 7\n55\n24 7\n0% 25% 50% 75% 100%\nConsiderando o texto e o gráfico – que tratam do desempenho\ndos estudantes brasileiros no PISA 2022 –, é correto afirmar que\no percentual de alunos do Brasil\na) que atingiu pelo menos o nível 2 de proficiência em ciências\né de 45%.\nb) que tem baixo desempenho em leitura é maior do que o\npercentual de alunos com baixo desempenho em ciências.\nc) com baixo desempenho em Matemática é o dobro do per-\ncentual da média da OCDE.\nd) que teve alto desempenho em Leitura é de 5%.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            746.2773,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            40,
+            568,
+            476.211
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 17,
+        "bbox": [
+          335.55789999999996,
+          138.89,
+          360.2685,
+          173.80899999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 17,
+        "bbox": [
+          335.461,
+          165.13099999999997,
+          561.032,
+          288.1585
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Questão 13 - UNICAMP 2023 - 1ª fase",
+  "index": 13,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Um artigo científico relata a construção e a eficiência de um reator fotocatalítico de fluxo contínuo para a degradação de hormônios presentes em águas tratadas para consumo humano.\nNum trecho desse estudo, os autores afirmam: “é interessante\nnotar que 80% de estrogênio foram removidos numa alimentação a 200 ng/L, 25 mW/cm2 e 300 L/(m2 h), enquanto que as\nremoções de progesterona e testosterona ficaram em 44% e\n33%, respectivamente”.\nDe acordo com essas informações, pode-se inferir que o reator\né capaz de degradar",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dois hormônios femininos e um masculino, sendo que degrada melhor um feminino.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "dois hormônios femininos e um masculino, sendo que degrada melhor o masculino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "somente hormônios masculinos, sendo que degrada melhor\no estrogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "somente hormônios femininos, sendo que degrada melhor\no estrogênio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um artigo científico relata a construção e a eficiência de um re-\nator fotocatalítico de fluxo contínuo para a degradação de hor-\nmônios presentes em águas tratadas para consumo humano.\nNum trecho desse estudo, os autores afirmam: “é interessante\nnotar que 80% de estrogênio foram removidos numa alimen-\ntação a 200 ng/L, 25 mW/cm2 e 300 L/(m2 h), enquanto que as\nremoções de progesterona e testosterona ficaram em 44% e\n33%, respectivamente”.\nDe acordo com essas informações, pode-se inferir que o reator\né capaz de degradar\na) dois hormônios femininos e um masculino, sendo que de-\ngrada melhor um feminino.\nb) dois hormônios femininos e um masculino, sendo que de-\ngrada melhor o masculino.\nc) somente hormônios masculinos, sendo que degrada melhor\no estrogênio.\nd) somente hormônios femininos, sendo que degrada melhor\no estrogênio.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            360.0822
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

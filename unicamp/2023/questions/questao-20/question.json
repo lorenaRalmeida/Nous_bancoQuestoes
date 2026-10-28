@@ -1,0 +1,97 @@
+{
+  "title": "Questão 20 - UNICAMP 2023 - 1ª fase",
+  "index": 20,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "O provocativo artigo intitulado, em tradução livre, “O nitrogênio é o próximo carbono?”, publicado em 2017, enfatiza, já no início, que, assim\ncomo o carbono abasteceu a revolução industrial, o nitrogênio\nteria abastecido a revolução na agricultura (a dita “revolução\nverde”), o que continuaria ocorrendo nos dias atuais. O gráfico a seguir mostra o crescimento do nitrogênio antropogênico\nreativo em comparação com o crescimento da emissão de CO ,\n2\napontando para um futuro de potenciais problemas ambientais.\nLevando em conta o comentário sobre o artigo e os dados do\ngráfico, marque a alternativa correta sobre o que representam\nas faixas A, B e C.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A: uso de fertilizantes, B: fixação do nitrogênio e C: emissão\nde NO.\nx",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A: uso de fertilizantes, B: emissão de NO e C: fixação do\nx\nnitrogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A: emissão de NO , B: uso de fertilizantes e C: fixação do\nx\nnitrogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A: fixação do nitrogênio, B: emissão de NO e C: uso de\nx\nfertilizantes.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O provocativo artigo intitulado, em tradu-\nção livre, “O nitrogênio é o próximo car-\nbono?”, publicado em 2017, enfatiza, já no início, que, assim\ncomo o carbono abasteceu a revolução industrial, o nitrogênio\nteria abastecido a revolução na agricultura (a dita “revolução\nverde”), o que continuaria ocorrendo nos dias atuais. O gráfi-\nco a seguir mostra o crescimento do nitrogênio antropogênico\nreativo em comparação com o crescimento da emissão de CO ,\n2\napontando para um futuro de potenciais problemas ambientais.\nLevando em conta o comentário sobre o artigo e os dados do\ngráfico, marque a alternativa correta sobre o que representam\nas faixas A, B e C.\na) A: uso de fertilizantes, B: fixação do nitrogênio e C: emissão\nde NO.\nx\nb) A: uso de fertilizantes, B: emissão de NO e C: fixação do\nx\nnitrogênio.\nc) A: emissão de NO , B: uso de fertilizantes e C: fixação do\nx\nnitrogênio.\nd) A: fixação do nitrogênio, B: emissão de NO e C: uso de\nx\nfertilizantes.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            261.5149,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

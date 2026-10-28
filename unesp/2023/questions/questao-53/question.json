@@ -1,0 +1,90 @@
+{
+  "title": "Questão 53 - UNESP 2023 - 1ª fase",
+  "index": 53,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise a imagem registrada na cidade de São Paulo.\n(https://tab.uol.com.br)\nNa imagem, a frase “aqui nasce o rio Saracura” expõe",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a indiferença dos habitantes à toponímia dos rios que\nmarcaram a construção da cidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o modelo de urbanização que segregou a população dos\nrios que a cercam.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o desconhecimento da população sobre as áreas de risco\nna cidade que habita.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a dificuldade de se delimitar uma bacia hidrográfica\nperante o crescimento urbano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a irrelevância dos recursos hídricos na regulação do clima urbano.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a imagem registrada na cidade de São Paulo.\n(https://tab.uol.com.br)\nNa imagem, a frase “aqui nasce o rio Saracura” expõe\n(A) a indiferença dos habitantes à toponímia dos rios que\nmarcaram a construção da cidade.\n(B) o modelo de urbanização que segregou a população dos\nrios que a cercam.\n(C) o desconhecimento da população sobre as áreas de risco\nna cidade que habita.\n(D) a dificuldade de se delimitar uma bacia hidrográfica\nperante o crescimento urbano.\n(E) a irrelevância dos recursos hídricos na regulação do cli-\nma urbano.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            400.9227
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

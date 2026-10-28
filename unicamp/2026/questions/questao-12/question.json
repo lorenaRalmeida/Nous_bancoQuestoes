@@ -1,0 +1,92 @@
+{
+  "title": "Questão 12 - UNICAMP 2026 - 1ª fase",
+  "index": 12,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "O Centro de Tecnologia da Informação (CTI) Renato Archer, em\nCampinas (SP), possui equipamentos avançados de manufatura\n3D, incluindo uma impressora capaz de produzir uma miniatura\nV\n6,3\n=\nU\nb\ndo Cristo Redentor, com pouco mais de 100 μm. Menor que um\ngrão de areia, a peça só é visível com microscópio óptico, baseado em arranjo de um conjunto de lentes. Se uma lente delgada,\nde distância focal f, é usada para investigar um objeto de altura\no, de forma que a imagem seja direita com altura i maior que\na do objeto ( i > o), é correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a lente é convergente e a distância entre objeto e lente é\nmenor que a distância focal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a lente é divergente e a distância entre objeto e lente é\nmenor que a distância focal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a lente é convergente e a distância entre objeto e lente é\nmaior que a distância focal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a lente é divergente e a distância entre objeto e lente é\nmaior que a distância focal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O Centro de Tecnologia da Informação (CTI) Renato Archer, em\nCampinas (SP), possui equipamentos avançados de manufatura\n3D, incluindo uma impressora capaz de produzir uma miniatura\nV\n6,3\n=\nU\nb\ndo Cristo Redentor, com pouco mais de 100 μm. Menor que um\ngrão de areia, a peça só é visível com microscópio óptico, basea-\ndo em arranjo de um conjunto de lentes. Se uma lente delgada,\nde distância focal f, é usada para investigar um objeto de altura\no, de forma que a imagem seja direita com altura i maior que\na do objeto ( i > o), é correto afirmar que\na) a lente é convergente e a distância entre objeto e lente é\nmenor que a distância focal.\nb) a lente é divergente e a distância entre objeto e lente é\nmenor que a distância focal.\nc) a lente é convergente e a distância entre objeto e lente é\nmaior que a distância focal.\nd) a lente é divergente e a distância entre objeto e lente é\nmaior que a distância focal.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            748.2869,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            40,
+            291,
+            255.8161
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

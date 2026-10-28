@@ -1,0 +1,190 @@
+{
+  "title": "Questão 22 - UNESP 2023 - 1ª fase",
+  "index": 22,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Examine o gráfico e o mapa e leia o texto para responder às\nquestões de 21 a 26.\nIn March 2022, parts of Antarctica have been 40 ºC\nwarmer than their March average\nThe Concordia research station is one of the most\ninhospitable places on Earth. At 3,000 m above sea level on\nthe Antarctic Plateau, the temperature rarely rises above\n-25 ºC even in the summer. In midwinter it can fall to around\n-80 ºC. The air is painfully dry, and fingers, toes and noses\ncan freeze in minutes. The dozen or so crew, mainly French\nand Italian, who live and work in the station would normally\nventure out only for essential work. But Concordia has recently\nexperienced a heatwave. On March 18th the temperature\nreached a high of -11.8 ºC — more than 40 ºC warmer than\nthe average for this time of year.\nSimilarly freakish weather was recorded across eastern\nAntarctica. Temperatures at the Russian-run Vostok\nresearch station rose to -17.7 ºC, more than 15 ºC above the\nprevious record for March, set in 1967. Across the continent\ntemperatures were 4.5 ºC higher than usual (though in recent\ndays they have returned to a normal range).\nMeteorologists have attributed the latest heatwave to\nan atmospheric “river” of warm, damp air blowing towards\nAntarctica from the Southern Ocean near Australia. It is\ndifficult to know whether climate change is to blame for\none-off weather events. But over the past 65 years or\nso there has been an increase in the number of “high\ntemperature” days at Antarctic stations.\nMost regions of Antarctica have been spared global\nwarming. In the late 20th century, a large hole opened\nup in the ozone layer above the South Pole. This has a\nregional cooling effect, which has offset much of the heating\ncaused by rising concentrations of greenhouse gases in the\natmosphere. Temperatures on the continent rarely climb\nabove freezing, which preserves its vast ice sheets (although\nrising sea temperatures do threaten some areas). Even in\nthe recent surge, temperatures stayed well below zero.\n(www.economist.com, 24.03.2022. Adaptado.)\n\nAs informações apresentadas pelo gráfico também podem\nser encontradas",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "no primeiro parágrafo do texto, apenas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "no segundo parágrafo do texto, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "no terceiro parágrafo do texto e no mapa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "no primeiro e no segundo parágrafos do texto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "no segundo e no terceiro parágrafos do texto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As informações apresentadas pelo gráfico também podem\nser encontradas\n(A) no primeiro parágrafo do texto, apenas.\n(B) no segundo parágrafo do texto, apenas.\n(C) no terceiro parágrafo do texto e no mapa.\n(D) no primeiro e no segundo parágrafos do texto.\n(E) no segundo e no terceiro parágrafos do texto.",
+    "sharedContext": "Examine o gráfico e o mapa e leia o texto para responder às\nquestões de 21 a 26.\nIn March 2022, parts of Antarctica have been 40 ºC\nwarmer than their March average\nThe Concordia research station is one of the most\ninhospitable places on Earth. At 3,000 m above sea level on\nthe Antarctic Plateau, the temperature rarely rises above\n-25 ºC even in the summer. In midwinter it can fall to around\n-80 ºC. The air is painfully dry, and fingers, toes and noses\ncan freeze in minutes. The dozen or so crew, mainly French\nand Italian, who live and work in the station would normally\nventure out only for essential work. But Concordia has recently\nexperienced a heatwave. On March 18th the temperature\nreached a high of -11.8 ºC — more than 40 ºC warmer than\nthe average for this time of year.\nSimilarly freakish weather was recorded across eastern\nAntarctica. Temperatures at the Russian-run Vostok\nresearch station rose to -17.7 ºC, more than 15 ºC above the\nprevious record for March, set in 1967. Across the continent\ntemperatures were 4.5 ºC higher than usual (though in recent\ndays they have returned to a normal range).\nMeteorologists have attributed the latest heatwave to\nan atmospheric “river” of warm, damp air blowing towards\nAntarctica from the Southern Ocean near Australia. It is\ndifficult to know whether climate change is to blame for\none-off weather events. But over the past 65 years or\nso there has been an increase in the number of “high\ntemperature” days at Antarctic stations.\nMost regions of Antarctica have been spared global\nwarming. In the late 20th century, a large hole opened\nup in the ozone layer above the South Pole. This has a\nregional cooling effect, which has offset much of the heating\ncaused by rising concentrations of greenhouse gases in the\natmosphere. Temperatures on the continent rarely climb\nabove freezing, which preserves its vast ice sheets (although\nrising sea temperatures do threaten some areas). Even in\nthe recent surge, temperatures stayed well below zero.\n(www.economist.com, 24.03.2022. Adaptado.)",
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            22,
+            568,
+            457.5628
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            662.673,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Inglês"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 8,
+        "bbox": [
+          42.5408,
+          98.54729999999995,
+          209.833,
+          132.3198
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 8,
+        "bbox": [
+          250.74200000000002,
+          241.33359999999993,
+          281.1462,
+          263.1817000000001
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 8,
+        "bbox": [
+          250.74200000000002,
+          284.0303,
+          281.1462,
+          305.87879999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 8,
+        "bbox": [
+          165.2858,
+          291.0039999999999,
+          191.3027,
+          318.78
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 8,
+        "bbox": [
+          231.443,
+          291.0039999999999,
+          257.1387,
+          318.78
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 8,
+        "bbox": [
+          42.7655,
+          346.30659999999995,
+          224.6734,
+          380.6192
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

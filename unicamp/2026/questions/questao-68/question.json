@@ -1,0 +1,107 @@
+{
+  "title": "Questão 68 - UNICAMP 2026 - 1ª fase",
+  "index": 68,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Aviões são os únicos meios de transporte que cruzam continentes em um dia. Apesar dos avanços em eficiência energética,\nas aeronaves contribuem com 3,5% do aquecimento global.\nPor isso, existe o interesse em substituir o querosene usado por\nessas aeronaves por hidrogênio, com destaque para o uso do\nhidrogênio líquido combustível. A tabela a seguir apresenta dados desses dois tipos de combustíveis na aviação.\nEnergia Densidade\nMassa molar\nCombustível combustão do líquido\n(g·mol−1)\n(kJ·mol−1) (g·cm−3)\nQuerosene* 6745 0,804 153\nHidrogênio 240 0,071 2\n* valores médios e aproximados.\nCaracterísticas como massa e volume da aeronave são fatores\nimportantes para seu desempenho. Levando em conta essa informação, para uma mesma quantidade de energia gerada pelo\ncombustível, é correto afirmar que o hidrogênio é melhor que\no querosene, pois",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "sua razão energia por volume é maior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o volume utilizado será menor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "sua razão energia por massa é maior.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a massa utilizada será maior.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Aviões são os únicos meios de transporte que cruzam continen-\ntes em um dia. Apesar dos avanços em eficiência energética,\nas aeronaves contribuem com 3,5% do aquecimento global.\nPor isso, existe o interesse em substituir o querosene usado por\nessas aeronaves por hidrogênio, com destaque para o uso do\nhidrogênio líquido combustível. A tabela a seguir apresenta da-\ndos desses dois tipos de combustíveis na aviação.\nEnergia Densidade\nMassa molar\nCombustível combustão do líquido\n(g·mol−1)\n(kJ·mol−1) (g·cm−3)\nQuerosene* 6745 0,804 153\nHidrogênio 240 0,071 2\n* valores médios e aproximados.\nCaracterísticas como massa e volume da aeronave são fatores\nimportantes para seu desempenho. Levando em conta essa in-\nformação, para uma mesma quantidade de energia gerada pelo\ncombustível, é correto afirmar que o hidrogênio é melhor que\no querosene, pois\na) sua razão energia por volume é maior.\nb) o volume utilizado será menor.\nc) sua razão energia por massa é maior.\nd) a massa utilizada será maior.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            694.3215,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            40,
+            568,
+            288.4352
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 25,
+        "bbox": [
+          304,
+          42.76729999999998,
+          568,
+          126.94229999999993
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

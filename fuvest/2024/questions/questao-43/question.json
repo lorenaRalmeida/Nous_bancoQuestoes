@@ -1,0 +1,102 @@
+{
+  "title": "Questão 43 - FUVEST 2024 - 1ª fase",
+  "index": 43,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "IPCC 4th Report Main Findings. Disponível em: https://www.inforse.org/.\nAdaptado.\nO gráfico apresentado mostra as concentrações atmosféricas\ndos principais gases de efeito estufa até o ano 2000, sendo\neles: CO , quantificado em partes por milhão (ppm), N O e\n2 2\nCH , ambos quantificados em partes por bilhão (ppb). Em\n4\njunho de 2022, a Administração Nacional Oceânica e\nAtmosférica (NOAA) reportou que, naquela data, os níveis de\nCO na atmosfera encontravam-se em torno de 420 ppm. Esse\n2\nvalor é muito superior à concentração média de\naproximadamente 280 ppm, existente antes da Revolução\nIndustrial. Com base nessas informações e em seus\nconhecimentos, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Apesar do grande aumento nas quantidades dos três\nprincipais gases de efeito estufa a partir da Revolução\nIndustrial, seus níveis passaram a estabilizar por volta do\nano 2000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A mecanização resultante da Revolução Industrial, iniciada\nno século XVIII, causou grandes mudanças nos meios de\nprodução, com a utilização de energias renováveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O plantio de árvores em grande escala acentua o\naquecimento global, devido à liberação de gases do efeito\nestufa na atmosfera.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O aquecimento global é um fenômeno recente, já que a\nTerra teve um clima com temperaturas constantes\ndurante sua existência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O efeito estufa é um fenômeno intensificado a partir da\nRevolução Industrial, devido às atividades humanas\nemissoras de CO , que contribuem para o aquecimento\n2\nglobal.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "IPCC 4th Report Main Findings. Disponível em: https://www.inforse.org/.\nAdaptado.\nO gráfico apresentado mostra as concentrações atmosféricas\ndos principais gases de efeito estufa até o ano 2000, sendo\neles: CO , quantificado em partes por milhão (ppm), N O e\n2 2\nCH , ambos quantificados em partes por bilhão (ppb). Em\n4\njunho de 2022, a Administração Nacional Oceânica e\nAtmosférica (NOAA) reportou que, naquela data, os níveis de\nCO na atmosfera encontravam-se em torno de 420 ppm. Esse\n2\nvalor é muito superior à concentração média de\naproximadamente 280 ppm, existente antes da Revolução\nIndustrial. Com base nessas informações e em seus\nconhecimentos, é correto afirmar:\n(A) Apesar do grande aumento nas quantidades dos três\nprincipais gases de efeito estufa a partir da Revolução\nIndustrial, seus níveis passaram a estabilizar por volta do\nano 2000.\n(B) A mecanização resultante da Revolução Industrial, iniciada\nno século XVIII, causou grandes mudanças nos meios de\nprodução, com a utilização de energias renováveis.\n(C) O plantio de árvores em grande escala acentua o\naquecimento global, devido à liberação de gases do efeito\nestufa na atmosfera.\n(D) O aquecimento global é um fenômeno recente, já que a\nTerra teve um clima com temperaturas constantes\ndurante sua existência.\n(E) O efeito estufa é um fenômeno intensificado a partir da\nRevolução Industrial, devido às atividades humanas\nemissoras de CO , que contribuem para o aquecimento\n2\nglobal.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "topic": "Industrialização e intensificação do efeito estufa",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

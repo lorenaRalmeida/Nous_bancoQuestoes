@@ -1,0 +1,100 @@
+{
+  "title": "Questão 40 - UNESP 2024 - 1ª fase",
+  "index": 40,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Era a Índia que nos sustentava nas dificuldades de nossas circunstâncias. Era um aspecto de nossa identidade,\nda identidade comum que tínhamos desenvolvido e que, na\nTrinidad multirracial, se tornara uma identidade racial.\nEra essa a identidade que eu levara para a Índia em\nminha primeira visita em 1962. Ao chegar, percebi que isso\nnada significava na Índia. A ideia de uma comunidade indiana — na verdade uma ideia europeia de nossa identidade\nindiana — apenas tinha sentido quando a comunidade era\nmuito pequena, minoritária e isolada. Na torrente da Índia,\ncom suas centenas de milhões, onde a ameaça eram o caos\ne o vazio, essa noção europeia em nada ajudava.\n(V.S. Naipaul. Índia: um milhão de motins agora, 1997.)\nO excerto traz o relato de um escritor de ascendência indiana, nascido em Trinidad e Tobago, quando de sua primeira\nviagem para a Índia. Segundo ele, há",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um impasse sociopolítico na Índia atual, pois o país teve\num passado glorioso, mas não conseguiu se reorganizar\npolítica e economicamente após o fim do domínio colonial britânico sobre a região.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uma continuidade entre a Índia do período de colonização europeia e a Índia independente, pois os indianos\nque vivem dentro e fora do país sentem-se pertencentes\nao mesmo grupo nacional-identitário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uma identidade comum de origem religiosa, que se manifesta de maneira igual no conjunto de indianos que vivem\nna Índia e nas comunidades de descendentes de indianos organizadas em outros países.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um descompasso entre a percepção da Índia que se tem\nde fora do país asiático, e que é afetada por valores nacionais de origem europeia, e a percepção que os próprios indianos têm de seus vínculos sociais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "uma ruptura entre o passado histórico indiano, que se associa ao domínio político-militar que o país exerceu sobre\no subcontinente asiático, e o presente de superpopulação provocada pela colonização europeia.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Era a Índia que nos sustentava nas dificuldades de nos-\nsas circunstâncias. Era um aspecto de nossa identidade,\nda identidade comum que tínhamos desenvolvido e que, na\nTrinidad multirracial, se tornara uma identidade racial.\nEra essa a identidade que eu levara para a Índia em\nminha primeira visita em 1962. Ao chegar, percebi que isso\nnada significava na Índia. A ideia de uma comunidade india-\nna — na verdade uma ideia europeia de nossa identidade\nindiana — apenas tinha sentido quando a comunidade era\nmuito pequena, minoritária e isolada. Na torrente da Índia,\ncom suas centenas de milhões, onde a ameaça eram o caos\ne o vazio, essa noção europeia em nada ajudava.\n(V.S. Naipaul. Índia: um milhão de motins agora, 1997.)\nO excerto traz o relato de um escritor de ascendência india-\nna, nascido em Trinidad e Tobago, quando de sua primeira\nviagem para a Índia. Segundo ele, há\n(A) um impasse sociopolítico na Índia atual, pois o país teve\num passado glorioso, mas não conseguiu se reorganizar\npolítica e economicamente após o fim do domínio colo-\nnial britânico sobre a região.\n(B) uma continuidade entre a Índia do período de coloniza-\nção europeia e a Índia independente, pois os indianos\nque vivem dentro e fora do país sentem-se pertencentes\nao mesmo grupo nacional-identitário.\n(C) uma identidade comum de origem religiosa, que se mani-\nfesta de maneira igual no conjunto de indianos que vivem\nna Índia e nas comunidades de descendentes de india-\nnos organizadas em outros países.\n(D) um descompasso entre a percepção da Índia que se tem\nde fora do país asiático, e que é afetada por valores na-\ncionais de origem europeia, e a percepção que os pró-\nprios indianos têm de seus vínculos sociais.\n(E) uma ruptura entre o passado histórico indiano, que se as-\nsocia ao domínio político-militar que o país exerceu sobre\no subcontinente asiático, e o presente de superpopula-\nção provocada pela colonização europeia.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

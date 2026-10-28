@@ -1,0 +1,96 @@
+{
+  "title": "Questão 29 - UNICAMP 2023 - 1ª fase",
+  "index": 29,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "A prática esportiva de “pular corda” vem conquistando muitos\nadeptos e se tornando uma modalidade de competição. Numa\nprova de velocidade, um atleta consegue dar 105 saltos em 30\nsegundos. Considerando que o ponto da corda que passa sob\nos pés e acima da cabeça do praticante descreve uma trajetória\ncircular de raio r = 90 cm, qual é a velocidade escalar desse\nponto da corda?",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,18 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3,15 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "18,9 m/s.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "567 m/s.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A prática esportiva de “pular corda” vem conquistando muitos\nadeptos e se tornando uma modalidade de competição. Numa\nprova de velocidade, um atleta consegue dar 105 saltos em 30\nsegundos. Considerando que o ponto da corda que passa sob\nos pés e acima da cabeça do praticante descreve uma trajetória\ncircular de raio r = 90 cm, qual é a velocidade escalar desse\nponto da corda?\na) 0,18 m/s. c) 18,9 m/s.\nb) 3,15 m/s. d) 567 m/s.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            562.9512,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            40,
+            568,
+            139.69799999999998
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Educação Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

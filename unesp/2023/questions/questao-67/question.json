@@ -1,0 +1,100 @@
+{
+  "title": "Questão 67 - UNESP 2023 - 1ª fase",
+  "index": 67,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A imagem mostra um cogumelo que cresceu em meio ao gramado do jardim de uma residência.\nOs nutrientes que o cogumelo obteve para a síntese de ATP\ne para seu crescimento foram obtidos por um processo de\ndigestão análogo àquele realizado",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pela grama.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pelas samambaias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pelos caramujos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pelos pulgões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "pelas aranhas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A imagem mostra um cogumelo que cresceu em meio ao gra-\nmado do jardim de uma residência.\nOs nutrientes que o cogumelo obteve para a síntese de ATP\ne para seu crescimento foram obtidos por um processo de\ndigestão análogo àquele realizado\n(A) pela grama.\n(B) pelas samambaias.\n(C) pelos caramujos.\n(D) pelos pulgões.\n(E) pelas aranhas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            28.943899999999985,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

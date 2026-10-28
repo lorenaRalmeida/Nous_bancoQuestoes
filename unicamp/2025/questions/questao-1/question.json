@@ -1,0 +1,95 @@
+{
+  "title": "Questão 1 - UNICAMP 2025 - 1ª fase",
+  "index": 1,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Em termos cartográficos, o conceito de escala é fundamental\npara qualquer tipo de representação espacial, dado que toda\nvisualização gráfica é elaborada com base em uma redução do\nmundo real. Dessa forma, dependendo da escala adotada, tem-\n-se, no mapa, uma generalização da informação, generalização\nesta que leva em conta o objetivo pretendido. A figura a seguir\nilustra essa relação entre a escala adotada e o nível de generalização da informação no mapa.\nRelação entre escala, área do mapeamento,\ndetalhamento da informação e generalização.\nMaior Menor\nEscala do mapa\nMenor Maior\nÁrea mapeada\nMais Menos\nInformação\nMenos Mais\nGeneralização\n(MENEZES, P. M. L.; FERNANDES, M. C. Roteiros de Cartografia. São Paulo: Oficina de\nTextos, p. 49-53, 2013.)\nTendo em vista seu conhecimento sobre cartografia, informações do texto e a análise da figura, assinale a alternativa correta.",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Atlas escolares apresentam mapas com escala menor e pouca generalização. O objetivo dos mapas que figuram nesses\natlas é a representação espacial de diferentes variáveis físico-\n-naturais, demográficas e socioeconômicas, acessíveis a um\npúblico bastante diversificado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os mapas elaborados para estudos de impactos ambientais,\nestudos estes aplicados a projetos de infraestrutura, precisam ter escala maior e, consequentemente, menos generalização dos dados, pois a intervenção no território deve\nminimizar impactos ambientais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Atlas escolares apresentam mapas com escala maior e menos informação. O objetivo dos mapas que figuram nesses\natlas é a representação espacial de diferentes variáveis (físico-naturais, demográficas e socioeconômicas) que sejam\nacessíveis a um público bastante especializado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os mapas elaborados para estudos de impactos ambientais,\nestudos estes aplicados a projetos de infraestrutura, precisam ter escala menor e, consequentemente, mais informação, pois a intervenção no território deve minimizar impactos ambientais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em termos cartográficos, o conceito de escala é fundamental\npara qualquer tipo de representação espacial, dado que toda\nvisualização gráfica é elaborada com base em uma redução do\nmundo real. Dessa forma, dependendo da escala adotada, tem-\n-se, no mapa, uma generalização da informação, generalização\nesta que leva em conta o objetivo pretendido. A figura a seguir\nilustra essa relação entre a escala adotada e o nível de generali-\nzação da informação no mapa.\nRelação entre escala, área do mapeamento,\ndetalhamento da informação e generalização.\nMaior Menor\nEscala do mapa\nMenor Maior\nÁrea mapeada\nMais Menos\nInformação\nMenos Mais\nGeneralização\n(MENEZES, P. M. L.; FERNANDES, M. C. Roteiros de Cartografia. São Paulo: Oficina de\nTextos, p. 49-53, 2013.)\nTendo em vista seu conhecimento sobre cartografia, informa-\nções do texto e a análise da figura, assinale a alternativa correta.\na) Atlas escolares apresentam mapas com escala menor e pou-\nca generalização. O objetivo dos mapas que figuram nesses\natlas é a representação espacial de diferentes variáveis físico-\n-naturais, demográficas e socioeconômicas, acessíveis a um\npúblico bastante diversificado.\nb) Os mapas elaborados para estudos de impactos ambientais,\nestudos estes aplicados a projetos de infraestrutura, preci-\nsam ter escala maior e, consequentemente, menos gene-\nralização dos dados, pois a intervenção no território deve\nminimizar impactos ambientais.\nc) Atlas escolares apresentam mapas com escala maior e me-\nnos informação. O objetivo dos mapas que figuram nesses\natlas é a representação espacial de diferentes variáveis (fí-\nsico-naturais, demográficas e socioeconômicas) que sejam\nacessíveis a um público bastante especializado.\nd) Os mapas elaborados para estudos de impactos ambientais,\nestudos estes aplicados a projetos de infraestrutura, preci-\nsam ter escala menor e, consequentemente, mais informa-\nção, pois a intervenção no território deve minimizar impac-\ntos ambientais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            642.246
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 3,
+        "bbox": [
+          30,
+          163.99149999999997,
+          291,
+          305.3963
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

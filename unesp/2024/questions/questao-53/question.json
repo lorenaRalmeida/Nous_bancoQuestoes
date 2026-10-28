@@ -1,0 +1,100 @@
+{
+  "title": "Questão 53 - UNESP 2024 - 1ª fase",
+  "index": 53,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O comércio de peixes ornamentais é um mercado que\nmovimenta milhares de dólares no Brasil e no mundo, porém,\nessa atividade também é uma das principais fontes de introdução de espécies exóticas. Só no Brasil, mais de 70 espécies de peixes ornamentais não nativos já foram identificadas\nno ambiente natural, incluindo recentemente o peixe conhecido como paulistinha ou peixe-zebra, nativo do sul da Ásia.\n(https://conexaoplaneta.com.br. Adaptado.)\nOs peixes ornamentais exóticos tratados no excerto, quando\nencontrados em rios brasileiros, caracterizam a chamada",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "biotecnologia, em que o emprego de recursos técnicos se\ntorna uma opção para corrigir as assimetrias dos processos naturais, como o mutualismo e a competição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ressurgência, em que a oferta de condições naturais\nideais para determinada espécie possibilita seu crescimento em números relativos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "invasão biológica, em que uma espécie, fora de seu\nambiente natural, pode crescer de maneira descontrolada e provocar desequilíbrio no ecossistema.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "explosão demográfica, em que uma espécie, por adaptação, reduz a taxa de mortalidade e passa a registrar um\ngrande crescimento natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "biopirataria, em que espécies animais ou conhecimentos tradicionais são explorados, de forma legal,\npor pesquisadores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O comércio de peixes ornamentais é um mercado que\nmovimenta milhares de dólares no Brasil e no mundo, porém,\nessa atividade também é uma das principais fontes de intro-\ndução de espécies exóticas. Só no Brasil, mais de 70 espé-\ncies de peixes ornamentais não nativos já foram identificadas\nno ambiente natural, incluindo recentemente o peixe conhe-\ncido como paulistinha ou peixe-zebra, nativo do sul da Ásia.\n(https://conexaoplaneta.com.br. Adaptado.)\nOs peixes ornamentais exóticos tratados no excerto, quando\nencontrados em rios brasileiros, caracterizam a chamada\n(A) biotecnologia, em que o emprego de recursos técnicos se\ntorna uma opção para corrigir as assimetrias dos proces-\nsos naturais, como o mutualismo e a competição.\n(B) ressurgência, em que a oferta de condições naturais\nideais para determinada espécie possibilita seu cresci-\nmento em números relativos.\n(C) invasão biológica, em que uma espécie, fora de seu\nambiente natural, pode crescer de maneira descontro-\nlada e provocar desequilíbrio no ecossistema.\n(D) explosão demográfica, em que uma espécie, por adapta-\nção, reduz a taxa de mortalidade e passa a registrar um\ngrande crescimento natural.\n(E) biopirataria, em que espécies animais ou conheci-\nmentos tradicionais são explorados, de forma legal,\npor pesquisadores.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            235.47140000000002,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Questão 62 - UNESP 2025 - 1ª fase",
+  "index": 62,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A imagem ilustra a deposição de poluentes atmosféricos particulados sobre as superfícies superior e inferior de uma folha. As micrografias mostram a deposição desses poluentes\nsobre as células da epiderme foliar e em um estômato.\n(Sigi Chen et al. “Composition and size of retained aerosol particles on urban\nplants: insights into related factors and potential impacts”.\nwww.sciencedirect.com, 2022. Adaptado.)\nA deposição desses poluentes atmosféricos particulados na\nepiderme e nos estômatos de uma folha afeta",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o transporte de seiva elaborada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a liberação do hormônio citocinina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a ocorrência de trocas gasosas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o fototropismo do caule.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o desenvolvimento das gemas laterais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A imagem ilustra a deposição de poluentes atmosféricos par-\nticulados sobre as superfícies superior e inferior de uma fo-\nlha. As micrografias mostram a deposição desses poluentes\nsobre as células da epiderme foliar e em um estômato.\n(Sigi Chen et al. “Composition and size of retained aerosol particles on urban\nplants: insights into related factors and potential impacts”.\nwww.sciencedirect.com, 2022. Adaptado.)\nA deposição desses poluentes atmosféricos particulados na\nepiderme e nos estômatos de uma folha afeta\n(A) o transporte de seiva elaborada.\n(B) a liberação do hormônio citocinina.\n(C) a ocorrência de trocas gasosas.\n(D) o fototropismo do caule.\n(E) o desenvolvimento das gemas laterais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            307.64459999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 22,
+        "bbox": [
+          320.83,
+          376.4248,
+          405.7522,
+          399.74109999999996
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

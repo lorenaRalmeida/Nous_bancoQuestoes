@@ -1,0 +1,101 @@
+{
+  "title": "Questão 30 - FUVEST 2024 - 1ª fase",
+  "index": 30,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na\nfigura.\nDurante o processo de geração de H2\nApóso processo de geração de H2\nAo frasco à esquerda adicionou-se uma quantidade pré-\ndeterminada de raspas de zinco metálico e ácido clorídrico.\nEm seguida, o frasco foi fechado com uma rolha conectada a\numa tubulação. À medida que o hidrogênio é produzido pela\nreação Zn0(s) + 2H+(aq) → Zn2+(aq) + H (g), o gás se acumula\n2\nem uma proveta previamente cheia de água. Dado que a\nsolubilidade do hidrogênio na água é desprezível, o volume\nocupado pelo gás na proveta corresponde ao volume de\nhidrogênio produzido durante a reação.\nConsiderando que, nas condições do experimento, foram\ngerados 49,8 mL de hidrogênio, qual a quantidade de Zn\nmetálico, em gramas, que de fato reagiu?\n\nNote e adote:\nVolume molar do gás ideal nas condições do experimento = 24,9 L.\nMassa molar do Zn = 65,4 g/mol.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,07",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,13",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "0,26",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,29",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,48",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na\nfigura.\nDurante o processo de geração de H2\nApóso processo de geração de H2\nAo frasco à esquerda adicionou-se uma quantidade pré-\ndeterminada de raspas de zinco metálico e ácido clorídrico.\nEm seguida, o frasco foi fechado com uma rolha conectada a\numa tubulação. À medida que o hidrogênio é produzido pela\nreação Zn0(s) + 2H+(aq) → Zn2+(aq) + H (g), o gás se acumula\n2\nem uma proveta previamente cheia de água. Dado que a\nsolubilidade do hidrogênio na água é desprezível, o volume\nocupado pelo gás na proveta corresponde ao volume de\nhidrogênio produzido durante a reação.\nConsiderando que, nas condições do experimento, foram\ngerados 49,8 mL de hidrogênio, qual a quantidade de Zn\nmetálico, em gramas, que de fato reagiu?\n(A) 0,07\n(B) 0,13\n(C) 0,26\n(D) 0,29\n(E) 0,48\nNote e adote:\nVolume molar do gás ideal nas condições do experimento = 24,9 L.\nMassa molar do Zn = 65,4 g/mol.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Estequiometria e produção de hidrogênio",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

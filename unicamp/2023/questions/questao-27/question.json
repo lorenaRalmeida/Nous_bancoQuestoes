@@ -1,0 +1,92 @@
+{
+  "title": "Questão 27 - UNICAMP 2023 - 1ª fase",
+  "index": 27,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A Amazônia brasileira ganhou destaque nos últimos anos nos\nnoticiários da mídia nacional e estrangeira, face ao avanço de\ngraves problemas socioambientais. Nesse contexto, as unidades\nde conservação, como as Reservas Extrativistas (RESEX), introduzidas pela Lei 9.985 em 18/07/2000, cumprem um papel importante na preservação ambiental e na proteção social.\nSobre as RESEX no bioma amazônico, é correto afirmar que são\náreas",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "coletivas, demarcadas para populações indígenas, podendo\nser usadas economicamente por meio de pequenas atividades de extrativismo vegetal, mineral e animal. Crescem\ndentro das RESEX a exploração turística e as atividades garimpeiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "públicas, destinadas ao usufruto das populações tradicionais\nribeirinhas para moradia e atividades econômicas de baixo\nimpacto ambiental. Aumentam no entorno das RESEX a exploração de madeira e o desmatamento para a implantação\nde atividades pecuárias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "coletivas, concedidas para uso misto das populações indígenas e quilombolas, que exploram comercialmente as riquezas existentes com atividades extrativistas e agropecuária.\nAumentam no entorno das RESEX núcleos urbanos e atividades de exploração madeireira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "públicas, destinadas às populações tradicionais para residência e extrativismo sustentável; quando autorizado pelo\nEstado, grandes empresas podem explorar recursos naturais\nem larga escala. Crescem dentro das RESEX os impactos ambientais e a expulsão de população.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A Amazônia brasileira ganhou destaque nos últimos anos nos\nnoticiários da mídia nacional e estrangeira, face ao avanço de\ngraves problemas socioambientais. Nesse contexto, as unidades\nde conservação, como as Reservas Extrativistas (RESEX), intro-\nduzidas pela Lei 9.985 em 18/07/2000, cumprem um papel im-\nportante na preservação ambiental e na proteção social.\nSobre as RESEX no bioma amazônico, é correto afirmar que são\náreas\na) coletivas, demarcadas para populações indígenas, podendo\nser usadas economicamente por meio de pequenas ativi-\ndades de extrativismo vegetal, mineral e animal. Crescem\ndentro das RESEX a exploração turística e as atividades ga-\nrimpeiras.\nb) públicas, destinadas ao usufruto das populações tradicionais\nribeirinhas para moradia e atividades econômicas de baixo\nimpacto ambiental. Aumentam no entorno das RESEX a ex-\nploração de madeira e o desmatamento para a implantação\nde atividades pecuárias.\nc) coletivas, concedidas para uso misto das populações indíge-\nnas e quilombolas, que exploram comercialmente as rique-\nzas existentes com atividades extrativistas e agropecuária.\nAumentam no entorno das RESEX núcleos urbanos e ativi-\ndades de exploração madeireira.\nd) públicas, destinadas às populações tradicionais para resi-\ndência e extrativismo sustentável; quando autorizado pelo\nEstado, grandes empresas podem explorar recursos naturais\nem larga escala. Crescem dentro das RESEX os impactos am-\nbientais e a expulsão de população.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            454.7707,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            40,
+            291,
+            136.85669999999993
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Questão 45 - UNESP 2023 - 1ª fase",
+  "index": 45,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise o mapa.\n(Maria Elena R. Simielli. Geoatlas, 2019. Adaptado.)\nConsiderando a economia mundial, as áreas demarcadas no\nmapa pelo número",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5 correspondem à concentração de indústrias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "4 correspondem à prática de agropecuária extensiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3 correspondem à prática de livre comércio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2 correspondem às transações de capital especulativo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 correspondem aos acordos de caráter protecionista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o mapa.\n(Maria Elena R. Simielli. Geoatlas, 2019. Adaptado.)\nConsiderando a economia mundial, as áreas demarcadas no\nmapa pelo número\n(A) 5 correspondem à concentração de indústrias.\n(B) 4 correspondem à prática de agropecuária extensiva.\n(C) 3 correspondem à prática de livre comércio.\n(D) 2 correspondem às transações de capital especulativo.\n(E) 1 correspondem aos acordos de caráter protecionista.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            379.3227
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

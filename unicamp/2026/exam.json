@@ -1,0 +1,605 @@
+{
+  "board": "UNICAMP",
+  "year": 2026,
+  "phase": 1,
+  "version": "Q e X",
+  "source": "unicamp-2026-fase1-prova.pdf",
+  "sha256": "1bf2a2b2825b75b20831e792175f107ef203da15b30f7f1c9a0ad6080c25d3cc",
+  "instructions": "INSCRIÇÃO ESCOLA SALA LUGAR NA SALA\nNOME ASSINATURA DO CANDIDATO\nCONHECIMENTOS GERAIS\nInstruções para a realização da prova\n— A prova de Conhecimentos Gerais é composta de 72 questões de múltipla escolha. Para cada questão, há 4 alternativas,\ndevendo ser marcada apenas uma.\n— Assine, com caneta esferográfica preta, a folha de respostas. Transcreva para aquela folha as respostas escolhidas.\n— Ao marcar o item correto, preencha completamente o campo correspondente, utilizando caneta esferográfica preta.\n— Na folha de respostas, não deixe em branco nenhuma das 72 questões.\n— A duração total da prova é de 5 horas. NÃO haverá tempo adicional para transcrição de gabarito.\n— Você só poderá deixar a sala – levando APENAS o Controle de Respostas do Candidato e a Declaração de Presença (abai-\nxo) – 2 horas após o início da prova.\nQ e X\nUNICAMP VESTIBULAR 2026 – 1ª FASE\nCONHECIMENTOS GERAIS\nNOME: INSCRIÇÃO:\nCONTROLE DE RESPOSTAS DO CANDIDATO / PROVA Q e X\n1 7 13 19 25 31 37 43 49 55 61 67\n2 8 14 20 26 32 38 44 50 56 62 68\n3 9 15 21 27 33 39 45 51 57 63 69\n4 10 16 22 28 34 40 46 52 58 64 70\n5 11 17 23 29 35 41 47 53 59 65 71\n6 12 18 24 30 36 42 48 54 60 66 72",
+  "questions": [
+    {
+      "index": 1,
+      "file": "questions/questao-1/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 2,
+      "file": "questions/questao-2/question.json",
+      "correctAlternative": "B",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 3,
+      "file": "questions/questao-3/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 4,
+      "file": "questions/questao-4/question.json",
+      "correctAlternative": "B",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 5,
+      "file": "questions/questao-5/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 6,
+      "file": "questions/questao-6/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 7,
+      "file": "questions/questao-7/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 8,
+      "file": "questions/questao-8/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 9,
+      "file": "questions/questao-9/question.json",
+      "correctAlternative": "C",
+      "discipline": "Física"
+    },
+    {
+      "index": 10,
+      "file": "questions/questao-10/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 11,
+      "file": "questions/questao-11/question.json",
+      "correctAlternative": "C",
+      "discipline": "Física"
+    },
+    {
+      "index": 12,
+      "file": "questions/questao-12/question.json",
+      "correctAlternative": "A",
+      "discipline": "Física"
+    },
+    {
+      "index": 13,
+      "file": "questions/questao-13/question.json",
+      "correctAlternative": "A",
+      "discipline": "Física"
+    },
+    {
+      "index": 14,
+      "file": "questions/questao-14/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 15,
+      "file": "questions/questao-15/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 16,
+      "file": "questions/questao-16/question.json",
+      "correctAlternative": "C",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 17,
+      "file": "questions/questao-17/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 18,
+      "file": "questions/questao-18/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 19,
+      "file": "questions/questao-19/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 20,
+      "file": "questions/questao-20/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 21,
+      "file": "questions/questao-21/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 22,
+      "file": "questions/questao-22/question.json",
+      "correctAlternative": "D",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 23,
+      "file": "questions/questao-23/question.json",
+      "correctAlternative": "D",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 24,
+      "file": "questions/questao-24/question.json",
+      "correctAlternative": "C",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 25,
+      "file": "questions/questao-25/question.json",
+      "correctAlternative": "C",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 26,
+      "file": "questions/questao-26/question.json",
+      "correctAlternative": "D",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 27,
+      "file": "questions/questao-27/question.json",
+      "correctAlternative": "B",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 28,
+      "file": "questions/questao-28/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 29,
+      "file": "questions/questao-29/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 30,
+      "file": "questions/questao-30/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 31,
+      "file": "questions/questao-31/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 32,
+      "file": "questions/questao-32/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 33,
+      "file": "questions/questao-33/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 34,
+      "file": "questions/questao-34/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 35,
+      "file": "questions/questao-35/question.json",
+      "correctAlternative": "A",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 36,
+      "file": "questions/questao-36/question.json",
+      "correctAlternative": "D",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 37,
+      "file": "questions/questao-37/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 38,
+      "file": "questions/questao-38/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 39,
+      "file": "questions/questao-39/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 40,
+      "file": "questions/questao-40/question.json",
+      "correctAlternative": "D",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 41,
+      "file": "questions/questao-41/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 42,
+      "file": "questions/questao-42/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 43,
+      "file": "questions/questao-43/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 44,
+      "file": "questions/questao-44/question.json",
+      "correctAlternative": "D",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 45,
+      "file": "questions/questao-45/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 46,
+      "file": "questions/questao-46/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 47,
+      "file": "questions/questao-47/question.json",
+      "correctAlternative": "D",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 48,
+      "file": "questions/questao-48/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 49,
+      "file": "questions/questao-49/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 50,
+      "file": "questions/questao-50/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 51,
+      "file": "questions/questao-51/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 52,
+      "file": "questions/questao-52/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 53,
+      "file": "questions/questao-53/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 54,
+      "file": "questions/questao-54/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 55,
+      "file": "questions/questao-55/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 56,
+      "file": "questions/questao-56/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 57,
+      "file": "questions/questao-57/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 58,
+      "file": "questions/questao-58/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 59,
+      "file": "questions/questao-59/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 60,
+      "file": "questions/questao-60/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 61,
+      "file": "questions/questao-61/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 62,
+      "file": "questions/questao-62/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 63,
+      "file": "questions/questao-63/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 64,
+      "file": "questions/questao-64/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 65,
+      "file": "questions/questao-65/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 66,
+      "file": "questions/questao-66/question.json",
+      "correctAlternative": "D",
+      "discipline": "Química"
+    },
+    {
+      "index": 67,
+      "file": "questions/questao-67/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 68,
+      "file": "questions/questao-68/question.json",
+      "correctAlternative": "C",
+      "discipline": "Química"
+    },
+    {
+      "index": 69,
+      "file": "questions/questao-69/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 70,
+      "file": "questions/questao-70/question.json",
+      "correctAlternative": "A",
+      "discipline": "Química"
+    },
+    {
+      "index": 71,
+      "file": "questions/questao-71/question.json",
+      "correctAlternative": "A",
+      "discipline": "Química"
+    },
+    {
+      "index": 72,
+      "file": "questions/questao-72/question.json",
+      "correctAlternative": "D",
+      "discipline": "Química"
+    }
+  ],
+  "questionCount": 72,
+  "sharedContexts": [
+    {
+      "targets": [
+        9,
+        10,
+        11
+      ],
+      "lines": [
+        "Texto para as questões 9, 10 e 11.",
+        "As baterias são fundamentais no mundo moderno, sendo a",
+        "fonte de energia portátil que alimenta dispositivos como celu-",
+        "lares e laptops, veículos elétricos e sistemas de armazenamento",
+        "de energia renovável. Duas grandezas que caracterizam uma",
+        "bateria é a sua capacidade de carga elétrica, expressa em mi-",
+        "liampère-hora (mAh) e a energia que ela armazena, usualmente",
+        "dada em watts-hora (Wh)."
+      ],
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            160.09140000000002
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        13,
+        14
+      ],
+      "lines": [
+        "Texto para as questões 13 e 14.",
+        "Recentemente, grandes cidades iniciaram a implantação de",
+        "faixas exclusivas para motocicletas como, por exemplo, a fai-",
+        "xa azul na cidade de São Paulo. Um motociclista adentra, em",
+        "t = 0, um percurso retilíneo de uma faixa azul com velocidade",
+        "constante v = 36 km/h e mantém essa velocidade até o tempo",
+        "0",
+        "t = 30 s (trecho I). Em seguida, continua o percurso com desa-",
+        "celeração constante (a < 0) até parar completamente diante de",
+        "um semáforo em t = 50 s (trecho II). Após mais 30 s, ele retoma",
+        "o movimento e mantém uma aceleração constante e positiva",
+        "a = 0,8 m/s2 desde t = 80 s até t = 95 s (trecho III). Poste-",
+        "riormente, o motociclista segue com velocidade constante até",
+        "t = 120 s (trecho IV)."
+      ],
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            255.8161,
+            291,
+            428.2837
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        55,
+        56
+      ],
+      "lines": [
+        "Texto para as questões 55 e 56.",
+        "A rua é nóix! Sempre com letra minúscula, porque não é o Nós",
+        "da totalidade, uma vez que não sabemos exatamente quem ou",
+        "quantos somos, quem faz parte ou não, quem está dentro ou",
+        "fora. Mas, se pegar para um, vai pegar pra geral. O nóix é sem-",
+        "pre mais que um. Mesmo sozinho, na missão, existe algo para",
+        "além da presença física do eu e do outro. Assumindo nossas",
+        "ancestralidades, convivemos com os espíritos daqueles que já",
+        "se foram. O nóix opera pela lógica dos bondes de galera, do",
+        "lado A ou lado B. Quem é amigo fecha com a gente, quem é",
+        "alemão rala. Porque o fechamento é o fundamento ético das",
+        "ruas. Recebe-se quem chega de boa, na paz, mas, se vacila, vai.",
+        "Com i e x, o nóix demarca um sotaque, um registro local, um",
+        "lugar, o Pretuguês de Lélia Gonzalez. Desobedecendo à institu-",
+        "ída norma culta, o nóix – escrito ou falado – revela sua potên-",
+        "cia operando à margem da obediência à linguagem fonética",
+        "dominante. O nóix é a potência da contaminação diferencial",
+        "das diversidades de um povo em tempos e espaços múltiplos,",
+        "que se repete numa atmosfera espectral que ultrapassa a lógica",
+        "temporal predominante.",
+        "(Adaptado de MORAES, M. J. D. A rua é nóix, Revista Cult, ed. 271, 1 jul. de 2021.)"
+      ],
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            632.4618,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            40,
+            568,
+            142.3229
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "sequenceComplete": true,
+    "alternativesComplete": true,
+    "answerCount": 72,
+    "cancelled": [],
+    "disciplinesAssigned": 72,
+    "localFilesPresent": true
+  },
+  "graphicAlternatives": [
+    {
+      "index": 13,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "index": 19,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "index": 38,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ],
+  "disciplineCounts": {
+    "Biologia": 7,
+    "Filosofia": 2,
+    "Física": 7,
+    "Geografia": 8,
+    "História": 6,
+    "Inglês": 7,
+    "Matemática": 12,
+    "Português": 12,
+    "Química": 7,
+    "Sociologia": 4
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 33 - UNICAMP 2024 - 1ª fase",
+  "index": 33,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "As convenções cartográficas utilizam símbolos pontuais, lineares, areais, bem como representações proporcionais e gradação\nde cores (coroplética) que permitem certo grau de compreensão\ne intuição de seu significado, possibilitando a leitura da informação contida no mapa por diferentes pessoas.\n(Adaptado de: https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia/\nconvenc-o-es-cartogra-ficas.html. Acesso em: 25/08/2023.)\nCom base no excerto e na figura, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Os símbolos pontuais se prestam a representar fenômenos\nnão hierárquicos, a exemplo da rede urbana e da tipologia\nde cidades.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "As representações lineares qualificam os fenômenos, não\npermitindo a sua hierarquização, a exemplo da tipologia dos\nsistemas de transportes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O uso do gradiente de cores serve para diferenciar fenômenos espaciais com variação contínua, a exemplo da altitude\ne da profundidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Um mesmo fenômeno pode ser representado por meio de\ndiferentes formas e de variadas cores, a exemplo dos cursos\ne corpos de água.\nUse os valores aproximados: g = 10 m/s2 e π = 3.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As convenções cartográficas utilizam símbolos pontuais, linea-\nres, areais, bem como representações proporcionais e gradação\nde cores (coroplética) que permitem certo grau de compreensão\ne intuição de seu significado, possibilitando a leitura da infor-\nmação contida no mapa por diferentes pessoas.\n(Adaptado de: https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia/\nconvenc-o-es-cartogra-ficas.html. Acesso em: 25/08/2023.)\nCom base no excerto e na figura, assinale a alternativa correta.\na) Os símbolos pontuais se prestam a representar fenômenos\nnão hierárquicos, a exemplo da rede urbana e da tipologia\nde cidades.\nb) As representações lineares qualificam os fenômenos, não\npermitindo a sua hierarquização, a exemplo da tipologia dos\nsistemas de transportes.\nc) O uso do gradiente de cores serve para diferenciar fenôme-\nnos espaciais com variação contínua, a exemplo da altitude\ne da profundidade.\nd) Um mesmo fenômeno pode ser representado por meio de\ndiferentes formas e de variadas cores, a exemplo dos cursos\ne corpos de água.\nUse os valores aproximados: g = 10 m/s2 e π = 3.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            92.29139999999995,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            40,
+            291,
+            70.64890000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

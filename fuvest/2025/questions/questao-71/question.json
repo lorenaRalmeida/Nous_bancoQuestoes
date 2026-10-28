@@ -1,0 +1,100 @@
+{
+  "title": "Questão 71 - FUVEST 2025 - 1ª fase",
+  "index": 71,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Aumenta nos hospitais brasileiros a presença de bactérias\nresistentes a antibióticos\n“A disseminação de bactérias resistentes a antibióticos é\num pesadelo mundial. Ela avança rapidamente e representa\numa ameaça a uma das maiores conquistas da medicina\nmoderna: a capacidade de eliminar infecções. Sem\nantibióticos eficientes, fica quase impossível realizar cirurgias,\ntransplantes e outros tratamentos em segurança.\nExpostas à concentração adequada dos antibióticos e por\ntempo suficiente, as bactérias facilmente morrem. Se a\ndosagem e duração do tratamento forem inferiores ao\nnecessário para aniquilá-las, uma parte pode sobreviver e se\nmultiplicar, acumulando alterações no material genético que\nlhes permitem escapar à ação dos fármacos.\nAs bactérias estão em todos os lugares: na água, no solo,\nno ar e nas superfícies, inclusive no nosso corpo. Com o uso\nintensivo de antibióticos na saúde humana e na produção de\nalimentos, as bactérias são continuamente expostas a esses\nfármacos. Esse contato favorece a seleção das variedades\nresistentes.”\nRevista Pesquisa FAPESP – Janeiro/2024 (Adaptado).\nO gráfico a seguir ilustra o crescimento de uma espécie de\nbactéria em meio de cultura, com e sem antibiótico. Foram\ntestados três antibióticos diferentes (1, 2 e 3).\nConsiderando o texto e o gráfico, sobre a resistência de\nbactérias a antibióticos, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A combinação de mais de um antibiótico durante um\ntratamento reduz a quantidade de antibióticos lançada na\nrede de esgoto e as chances de surgirem bactérias\nmutantes na natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Para reduzir as chances de seleção de bactérias\nresistentes, é necessário aumentar a concentração de\nantibióticos presentes na natureza e matar as bactérias\npatogênicas livres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Mutações aleatórias que acontecem nas bactérias,\nassociadas à exposição prolongada a antibióticos,\ncontribuem para a seleção de bactérias resistentes a\nantibióticos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "O antibiótico 3 será eficiente, nas mesmas concentrações\nutilizadas no experimento, para tratar infecções causadas\npelas linhagens de bactérias presentes no dia 16 de cultivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Dentre todos os antibióticos testados, o 2 é o mais\neficiente para combater a bactéria do experimento\nrelatado, enquanto o 1 é o menos eficiente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nAumenta nos hospitais brasileiros a presença de bactérias\nresistentes a antibióticos\n“A disseminação de bactérias resistentes a antibióticos é\num pesadelo mundial. Ela avança rapidamente e representa\numa ameaça a uma das maiores conquistas da medicina\nmoderna: a capacidade de eliminar infecções. Sem\nantibióticos eficientes, fica quase impossível realizar cirurgias,\ntransplantes e outros tratamentos em segurança.\nExpostas à concentração adequada dos antibióticos e por\ntempo suficiente, as bactérias facilmente morrem. Se a\ndosagem e duração do tratamento forem inferiores ao\nnecessário para aniquilá-las, uma parte pode sobreviver e se\nmultiplicar, acumulando alterações no material genético que\nlhes permitem escapar à ação dos fármacos.\nAs bactérias estão em todos os lugares: na água, no solo,\nno ar e nas superfícies, inclusive no nosso corpo. Com o uso\nintensivo de antibióticos na saúde humana e na produção de\nalimentos, as bactérias são continuamente expostas a esses\nfármacos. Esse contato favorece a seleção das variedades\nresistentes.”\nRevista Pesquisa FAPESP – Janeiro/2024 (Adaptado).\nO gráfico a seguir ilustra o crescimento de uma espécie de\nbactéria em meio de cultura, com e sem antibiótico. Foram\ntestados três antibióticos diferentes (1, 2 e 3).\nConsiderando o texto e o gráfico, sobre a resistência de\nbactérias a antibióticos, é correto afirmar:\n(A) A combinação de mais de um antibiótico durante um\ntratamento reduz a quantidade de antibióticos lançada na\nrede de esgoto e as chances de surgirem bactérias\nmutantes na natureza.\n(B) Para reduzir as chances de seleção de bactérias\nresistentes, é necessário aumentar a concentração de\nantibióticos presentes na natureza e matar as bactérias\npatogênicas livres.\n(C) Mutações aleatórias que acontecem nas bactérias,\nassociadas à exposição prolongada a antibióticos,\ncontribuem para a seleção de bactérias resistentes a\nantibióticos.\n(D) O antibiótico 3 será eficiente, nas mesmas concentrações\nutilizadas no experimento, para tratar infecções causadas\npelas linhagens de bactérias presentes no dia 16 de cultivo.\n(E) Dentre todos os antibióticos testados, o 2 é o mais\neficiente para combater a bactéria do experimento\nrelatado, enquanto o 1 é o menos eficiente.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            28,
+            328.3747,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            316.8547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Seleção natural e resistência a antibióticos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

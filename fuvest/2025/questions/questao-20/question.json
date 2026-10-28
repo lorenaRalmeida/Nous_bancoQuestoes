@@ -1,0 +1,100 @@
+{
+  "title": "Questão 20 - FUVEST 2025 - 1ª fase",
+  "index": 20,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "A figura a seguir apresenta a evolução dos modelos atômicos,\ndesde o primeiro, proposto por Dalton em 1803, até o de\nBohr, proposto em 1913.\nSobre os quatro modelos atômicos apresentados, é correto\nafirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Todos os modelos previram a presença de cargas positivas\nno núcleo atômico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O modelo proposto por Thomson, por prever a existência\nde nêutrons, não poderia explicar a radiação alfa (α).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Diferentemente do modelo de Dalton, o modelo de\nRutherford não explica a estrutura de cátions e ânions.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Apenas o modelo de Bohr, com o advento de balanças de\nprecisão, considerou a diferença de massa entre os\nelementos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Elementos radioativos não poderiam ser explicados pelo\nmodelo proposto por Dalton.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA figura a seguir apresenta a evolução dos modelos atômicos,\ndesde o primeiro, proposto por Dalton em 1803, até o de\nBohr, proposto em 1913.\nSobre os quatro modelos atômicos apresentados, é correto\nafirmar:\n(A) Todos os modelos previram a presença de cargas positivas\nno núcleo atômico.\n(B) O modelo proposto por Thomson, por prever a existência\nde nêutrons, não poderia explicar a radiação alfa (α).\n(C) Diferentemente do modelo de Dalton, o modelo de\nRutherford não explica a estrutura de cátions e ânions.\n(D) Apenas o modelo de Bohr, com o advento de balanças de\nprecisão, considerou a diferença de massa entre os\nelementos.\n(E) Elementos radioativos não poderiam ser explicados pelo\nmodelo proposto por Dalton.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            297.5,
+            318.89469999999994,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Evolução dos modelos atômicos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

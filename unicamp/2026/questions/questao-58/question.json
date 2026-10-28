@@ -1,0 +1,94 @@
+{
+  "title": "Questão 58 - UNICAMP 2026 - 1ª fase",
+  "index": 58,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia os textos 1 e 2.\nTexto 1\nO image macro é o mais velho, o mais simples e o mais difundido tipo de meme, provavelmente pela facilidade de criação e\ndifusão, além do inegável apelo visual que permite uma rápida\napreensão do seu conteúdo. Ele corresponde a uma estrutura\nimagético-textual em frame1 único que carrega uma qualidade\nicônica.\nPodemos caracterizar o image macro como um texto em caixa alta e em fonte branca, superposto a uma imagem – quase sempre para fins de humor. Esse jogo memético consiste\ntanto em adicionar o mesmo texto a várias imagens quanto\nem “remixar” uma mesma imagem com diferentes textos. Os\nimage macros têm seus templates2, bem como suas referências\nintertextuais extraídas de diversas fontes, como videoclipes, fotografias, desenhos, filmes, seriados, videogames, comerciais,\nnotícias etc.\nUsando essa estrutura híbrida, os image macros tornam-se\numa espécie de imagens-texto em que o imbricamento desses\ndois elementos ocorre sem subordinação da experiência visual\nnem da verbal – o pictório complementa o discursivo em um\nprocesso de afetação recíproca.\n1 Frame: quadro, moldura; imagem estática que, quando reproduzida em sequência com outras, resultam no efeito de movimento.\n2 Template: modelo.\n(Adaptado de OLIVERA NETA, J. P. Por uma tipologia dos memes da internet. Entremeios,\n13(2), 2017. Disponível em https://entremeios.com.puc-rio.br/media/Juracy%20Oliveira.\npdf. Acesso em 02/06/2025.)\nTexto 2\n(Disponível em https://pt.wikipedia.org/wiki/Nazar%C3%A9_Confusa. Acesso em 02/06/2025.)\nConsiderando as informações do texto 1, o texto 2 pode ser\ncaracterizado como",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um típico image macro, pois utiliza um único frame para\nfundir o visual e o verbal, além de adicionar um mesmo\nelemento textual a várias ocorrências de uma só imagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "um meme composto por vários image macros, nos quais\numa mesma imagem se subordina à linguagem textual matemática em um jogo pictório de afetação recíproca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uma experiência verbal e visual que se aproxima do image\nmacro no que diz respeito à sua estrutura híbrida, mas se\nafasta desse tipo por não permitir a rápida apreensão do\nseu conteúdo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uma peça memética que não reúne todos os elementos de\num image macro, pois apresenta mais de um frame e adiciona conteúdos textuais diferentes a imagens distintas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia os textos 1 e 2.\nTexto 1\nO image macro é o mais velho, o mais simples e o mais difun-\ndido tipo de meme, provavelmente pela facilidade de criação e\ndifusão, além do inegável apelo visual que permite uma rápida\napreensão do seu conteúdo. Ele corresponde a uma estrutura\nimagético-textual em frame1 único que carrega uma qualidade\nicônica.\nPodemos caracterizar o image macro como um texto em cai-\nxa alta e em fonte branca, superposto a uma imagem – qua-\nse sempre para fins de humor. Esse jogo memético consiste\ntanto em adicionar o mesmo texto a várias imagens quanto\nem “remixar” uma mesma imagem com diferentes textos. Os\nimage macros têm seus templates2, bem como suas referências\nintertextuais extraídas de diversas fontes, como videoclipes, fo-\ntografias, desenhos, filmes, seriados, videogames, comerciais,\nnotícias etc.\nUsando essa estrutura híbrida, os image macros tornam-se\numa espécie de imagens-texto em que o imbricamento desses\ndois elementos ocorre sem subordinação da experiência visual\nnem da verbal – o pictório complementa o discursivo em um\nprocesso de afetação recíproca.\n1 Frame: quadro, moldura; imagem estática que, quando reprodu-\nzida em sequência com outras, resultam no efeito de movimento.\n2 Template: modelo.\n(Adaptado de OLIVERA NETA, J. P. Por uma tipologia dos memes da internet. Entremeios,\n13(2), 2017. Disponível em https://entremeios.com.puc-rio.br/media/Juracy%20Oliveira.\npdf. Acesso em 02/06/2025.)\nTexto 2\n(Disponível em https://pt.wikipedia.org/wiki/Nazar%C3%A9_Confusa. Acesso em 02/06/2025.)\nConsiderando as informações do texto 1, o texto 2 pode ser\ncaracterizado como\na) um típico image macro, pois utiliza um único frame para\nfundir o visual e o verbal, além de adicionar um mesmo\nelemento textual a várias ocorrências de uma só imagem.\nb) um meme composto por vários image macros, nos quais\numa mesma imagem se subordina à linguagem textual ma-\ntemática em um jogo pictório de afetação recíproca.\nc) uma experiência verbal e visual que se aproxima do image\nmacro no que diz respeito à sua estrutura híbrida, mas se\nafasta desse tipo por não permitir a rápida apreensão do\nseu conteúdo.\nd) uma peça memética que não reúne todos os elementos de\num image macro, pois apresenta mais de um frame e adicio-\nna conteúdos textuais diferentes a imagens distintas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            47.49270000000001,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

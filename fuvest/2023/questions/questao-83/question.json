@@ -1,0 +1,92 @@
+{
+  "title": "Questão 83 - FUVEST 2023 - 1ª fase",
+  "index": 83,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O heredograma a seguir mostra o aparecimento de AME\n(atrofia muscular espinhal) em um menino, filho de um casal\nde primos.\nA AME é uma doença autossômica recessiva rara, muitas\nvezes fatal na primeira infância, provocada pela morte de\nneurônios motores. Uma das causas da AME é uma mutação\nno gene SMN1, cuja frequência é de 2% na população sem\nAME (uma em cada 50 pessoas tem um alelo mutante).\nConsiderando os genótipos prováveis da mulher II.2 e que não\nhá relação de parentesco com seu parceiro, a probabilidade\nde uma criança deste casal ser portadora da AME é uma em:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "50",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "100",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "200",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "300",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "600",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O heredograma a seguir mostra o aparecimento de AME\n(atrofia muscular espinhal) em um menino, filho de um casal\nde primos.\nA AME é uma doença autossômica recessiva rara, muitas\nvezes fatal na primeira infância, provocada pela morte de\nneurônios motores. Uma das causas da AME é uma mutação\nno gene SMN1, cuja frequência é de 2% na população sem\nAME (uma em cada 50 pessoas tem um alelo mutante).\nConsiderando os genótipos prováveis da mulher II.2 e que não\nhá relação de parentesco com seu parceiro, a probabilidade\nde uma criança deste casal ser portadora da AME é uma em:\n(A) 50\n(B) 100\n(C) 200\n(D) 300\n(E) 600",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            388.2547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "topic": "Probabilidade e herança autossômica recessiva",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Questão 8 - FUVEST 2023 - 1ª fase",
+  "index": 8,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 07 E 08\nDisponível em https://tirasarmandinho.tumblr.com/. Adaptado.\n\nDa leitura da tira, depreende-se que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o filho leva o pai a uma reflexão inócua a respeito do\npatrimônio público.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o patrimônio público é restrito a equipamentos dispostos\nnas vias de uma cidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as lixeiras e as placas de trânsito não fazem parte do\npatrimônio público.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a destruição de hospitais, universidades, florestas e\nestatais é também crime de dano ao patrimônio público.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "o pai e o filho discordam quanto aos efeitos da\ndepreciação do patrimônio público.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Da leitura da tira, depreende-se que\n(A) o filho leva o pai a uma reflexão inócua a respeito do\npatrimônio público.\n(B) o patrimônio público é restrito a equipamentos dispostos\nnas vias de uma cidade.\n(C) as lixeiras e as placas de trânsito não fazem parte do\npatrimônio público.\n(D) a destruição de hospitais, universidades, florestas e\nestatais é também crime de dano ao patrimônio público.\n(E) o pai e o filho discordam quanto aos efeitos da\ndepreciação do patrimônio público.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 07 E 08\nDisponível em https://tirasarmandinho.tumblr.com/. Adaptado.",
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            28,
+            111.98584599999992,
+            297.5,
+            229.31470000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            28,
+            385.91470000000004,
+            297.5,
+            567.8947000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Interpretação verbo-visual de tira",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

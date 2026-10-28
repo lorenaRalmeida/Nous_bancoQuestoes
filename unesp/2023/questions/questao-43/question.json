@@ -1,0 +1,100 @@
+{
+  "title": "Questão 43 - UNESP 2023 - 1ª fase",
+  "index": 43,
+  "year": 2023,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "A necessária redução do tempo é melhor alcançada se\nos consumidores não puderem prestar atenção ou concentrar o desejo por muito tempo em qualquer objeto; isto é, se\nforem impacientes, impetuosos, indóceis e, acima de tudo,\nfacilmente instigáveis e também se facilmente perderem o\ninteresse. […] A relação tradicional entre necessidades e\nsua satisfação é revertida: a promessa e a esperança de satisfação precedem a necessidade que se promete satisfazer\ne serão sempre mais intensas e atraentes que as necessidades efetivas.\n(Zygmunt Bauman. Globalização, 2021.)\nA argumentação apresentada no excerto sobre o tempo do\nconsumo expressa ações características",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dos Estados e das empresas transnacionais, organizações interessadas em acordos supranacionais pró-\n-economia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da publicidade e do marketing, estratégias corporativas\nque influenciam a nossa organização social.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "das instituições financeiras e das ONGs, agentes corporativos pautados pela socialização de capitais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da didática e da neurociência, elementos empregados\npelas empresas para criação de novos produtos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da ciência e da tecnologia, campos de estudo dedicados\nà erradicação das diferenças socioeconômicas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A necessária redução do tempo é melhor alcançada se\nos consumidores não puderem prestar atenção ou concen-\ntrar o desejo por muito tempo em qualquer objeto; isto é, se\nforem impacientes, impetuosos, indóceis e, acima de tudo,\nfacilmente instigáveis e também se facilmente perderem o\ninteresse. […] A relação tradicional entre necessidades e\nsua satisfação é revertida: a promessa e a esperança de sa-\ntisfação precedem a necessidade que se promete satisfazer\ne serão sempre mais intensas e atraentes que as necessi-\ndades efetivas.\n(Zygmunt Bauman. Globalização, 2021.)\nA argumentação apresentada no excerto sobre o tempo do\nconsumo expressa ações características\n(A) dos Estados e das empresas transnacionais, organi-\nzações interessadas em acordos supranacionais pró-\n-economia.\n(B) da publicidade e do marketing, estratégias corporativas\nque influenciam a nossa organização social.\n(C) das instituições financeiras e das ONGs, agentes corpo-\nrativos pautados pela socialização de capitais.\n(D) da didática e da neurociência, elementos empregados\npelas empresas para criação de novos produtos.\n(E) da ciência e da tecnologia, campos de estudo dedicados\nà erradicação das diferenças socioeconômicas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

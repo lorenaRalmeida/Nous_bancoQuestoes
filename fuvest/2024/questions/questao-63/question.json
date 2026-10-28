@@ -1,0 +1,105 @@
+{
+  "title": "Questão 63 - FUVEST 2024 - 1ª fase",
+  "index": 63,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Uma Árvore Pitagórica é uma figura plana que é construída\npor etapas. Na Etapa 1, ela começa com um quadrado de lado\n1 cm. Na Etapa 2, constroem-se dois quadrados acima do\nquadrado da Etapa 1, de tal forma que a medida de seus lados\nseja igual à medida dos catetos do triângulo retângulo\nisósceles que possui hipotenusa igual ao lado do quadrado da\nEtapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos\nquadrados obtidos, e assim por diante. Ou seja, em cada nova\netapa, aplica-se a etapa anterior em cada um dos novos\nquadrados obtidos. A figura a seguir exibe as quatro primeiras\netapas da construção da Árvore Pitagórica.\nDomínio público. Disponível em https://commons.wikimedia.org/.\nA partir de qual etapa da construção o lado de cada um dos\nnovos quadrados obtidos fica, pela primeira vez, menor do\nque 1 décimo de milésimo do lado do quadrado da Etapa 1?\n\n\nNote e adote:\nlog₁₀ 2 = 0,3.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "26",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "27",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "28",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "29",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "30",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Uma Árvore Pitagórica é uma figura plana que é construída\npor etapas. Na Etapa 1, ela começa com um quadrado de lado\n1 cm. Na Etapa 2, constroem-se dois quadrados acima do\nquadrado da Etapa 1, de tal forma que a medida de seus lados\nseja igual à medida dos catetos do triângulo retângulo\nisósceles que possui hipotenusa igual ao lado do quadrado da\nEtapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos\nquadrados obtidos, e assim por diante. Ou seja, em cada nova\netapa, aplica-se a etapa anterior em cada um dos novos\nquadrados obtidos. A figura a seguir exibe as quatro primeiras\netapas da construção da Árvore Pitagórica.\nDomínio público. Disponível em https://commons.wikimedia.org/.\nA partir de qual etapa da construção o lado de cada um dos\nnovos quadrados obtidos fica, pela primeira vez, menor do\nque 1 décimo de milésimo do lado do quadrado da Etapa 1?\n(A) 26\n(B) 27\n(C) 28 Note e adote:\n(D) 29 𝑙𝑜𝑔 (cid:2869)(cid:2868) 2=0,3\n(E) 30",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Progressão geométrica e logaritmos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

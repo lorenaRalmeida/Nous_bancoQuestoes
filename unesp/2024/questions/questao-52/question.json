@@ -1,0 +1,88 @@
+{
+  "title": "Questão 52 - UNESP 2024 - 1ª fase",
+  "index": 52,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Nos últimos séculos, há um descompasso entre os problemas ambientais e a consciência ambiental sobre a gravidade\ndesses problemas. O fato histórico que marca a maior intensidade dos impactos no meio ambiente",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "são as Grandes Navegações, encerradas no século XV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "é a Primeira Guerra Mundial, ocorrida em meados do\nséculo XIX.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "é a Metropolização, instituída no século XXI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "é a Revolução Industrial, iniciada no século XVIII.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "são as Revoluções Técnico-Científico-Informacionais,\nfundadas no século XIX.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Nos últimos séculos, há um descompasso entre os proble-\nmas ambientais e a consciência ambiental sobre a gravidade\ndesses problemas. O fato histórico que marca a maior inten-\nsidade dos impactos no meio ambiente\n(A) são as Grandes Navegações, encerradas no século XV.\n(B) é a Primeira Guerra Mundial, ocorrida em meados do\nséculo XIX.\n(C) é a Metropolização, instituída no século XXI.\n(D) é a Revolução Industrial, iniciada no século XVIII.\n(E) são as Revoluções Técnico-Científico-Informacionais,\nfundadas no século XIX.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            235.47140000000002
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Questão 4 - UNICAMP 2025 - 1ª fase",
+  "index": 4,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Os escudos cristalinos são constituídos por rochas de idades pré-\n-cambrianas que foram soerguidas e expostas; essa estrutura\ngeológica não sofreu deformação no Éon Fanerozoico (período\ngeológico iniciado há 543 milhões de anos e que se estende até\no presente). Suas áreas são exploradas em todo o mundo por\nconcentrarem recursos naturais em grande escala.\nA figura a seguir apresenta a extensão dos escudos cristalinos\nnos diferentes continentes.\n(Adaptado de CHRISTOPERSEN, R. W. Geossistemas: uma introdução à Geografia Física.\n7.ed. Porto Alegre: Bookman, p. 363, 2012.)\nOs escudos cristalinos são formados por rochas",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ígneas e metamórficas; apresentam combustíveis fósseis, a\nexemplo de petróleo e gás, explorados pela indústria petroquímica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sedimentares; apresentam jazidas de combustíveis fósseis,\na exemplo de petróleo e gás, jazidas estas exploradas pela\nindústria siderúrgica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ígneas e metamórficas; apresentam jazidas de minerais metálicos, explorados em larga escala pela indústria siderúrgica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "sedimentares; apresentam jazidas de minerais metálicos e\nnão metálicos, explorados pela indústria petroquímica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os escudos cristalinos são constituídos por rochas de idades pré-\n-cambrianas que foram soerguidas e expostas; essa estrutura\ngeológica não sofreu deformação no Éon Fanerozoico (período\ngeológico iniciado há 543 milhões de anos e que se estende até\no presente). Suas áreas são exploradas em todo o mundo por\nconcentrarem recursos naturais em grande escala.\nA figura a seguir apresenta a extensão dos escudos cristalinos\nnos diferentes continentes.\n(Adaptado de CHRISTOPERSEN, R. W. Geossistemas: uma introdução à Geografia Física.\n7.ed. Porto Alegre: Bookman, p. 363, 2012.)\nOs escudos cristalinos são formados por rochas\na) ígneas e metamórficas; apresentam combustíveis fósseis, a\nexemplo de petróleo e gás, explorados pela indústria petro-\nquímica.\nb) sedimentares; apresentam jazidas de combustíveis fósseis,\na exemplo de petróleo e gás, jazidas estas exploradas pela\nindústria siderúrgica.\nc) ígneas e metamórficas; apresentam jazidas de minerais me-\ntálicos, explorados em larga escala pela indústria siderúrgica.\nd) sedimentares; apresentam jazidas de minerais metálicos e\nnão metálicos, explorados pela indústria petroquímica.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            46.0376,
+            291,
+            618.5558
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

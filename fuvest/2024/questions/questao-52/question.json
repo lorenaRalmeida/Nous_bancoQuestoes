@@ -1,0 +1,100 @@
+{
+  "title": "Questão 52 - FUVEST 2024 - 1ª fase",
+  "index": 52,
+  "year": 2024,
+  "discipline": "Educação Física",
+  "language": null,
+  "context": "“A história do skate no Brasil passou por fases diferentes e até\nmesmo antagônicas. Em 1988, por exemplo, na cidade de São\nPaulo, sob acusação de ser prática displicente, foi promulgada\na Lei n º 25.871, pelo então prefeito Jânio Quadros, que\nproibia a prática da modalidade nas ruas da cidade. Essa\nproibição foi alterada no ano seguinte, quando a nova prefeita\nda cidade, Luiza Erundina, em um de seus primeiros atos,\nrevogou essa mesma lei e liberou a prática do skate nas ruas\nda cidade.\nAnos depois, em 2015, o Brasil somava 8,4 milhões de\npraticantes de skate, segundo pesquisa Datafolha.\nJá em 2021, quando o skate estreou como modalidade\nolímpica nos Jogos de Tóquio, o Brasil se destacou como o\nsegundo país com mais medalhas olímpicas na modalidade.\nNo mesmo ano, a indústria nacional ligada ao esporte foi\nconsiderada a segunda maior do mundo, atrás apenas dos\nEstados Unidos, cujo mercado é estimado em US$ 4,5 bilhões\nao ano.”\nThais Carrança, BBC News Brasil em São Paulo, 26 julho 2021. Adaptado.\nA partir da leitura do texto, é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O skate adentrou o mundo esportivo, entre outros\nmotivos, por pressão dos praticantes da modalidade. No\nentanto, práticas esportivas que surgem pautadas pelo\nlazer ou por atividades cotidianas não deveriam ser\nconsideradas modalidades esportivas por não terem sido\ninstitucionalizadas desde sua origem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Eventos esportivos de grande alcance, tal qual a\nOlimpíada, deveriam considerar as estruturas normativas\nque dão origem aos esportes para inseri-los nas\ncompetições. Apenas dessa forma, seria possível garantir\na autenticidade das modalidades e justificar a inserção do\nskate como esporte olímpico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Os esportes são uma forma de representação das práticas\nsociais. Sendo assim, as transformações sociais podem\nresultar em alterações de regras esportivas, na\nesportivização de práticas de lazer e até na extinção de\nmodalidades esportivas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Os esportes podem sofrer alterações normativas ao longo\ndos tempos. Com tal efeito, torna-se equivocado datar a\ncriação de um esporte, pois ele já pode ter sofrido\nalterações que descaracterizaram sua origem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O skate, bem como outras práticas esportivas, foi criado\nde modo discreto, por grupos pequenos, e ganhou força e\nascensão a partir do aumento de incentivo financeiro para\nsua realização, o que é determinante para um esporte\nalcançar reconhecimento mundial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“A história do skate no Brasil passou por fases diferentes e até\nmesmo antagônicas. Em 1988, por exemplo, na cidade de São\nPaulo, sob acusação de ser prática displicente, foi promulgada\na Lei n º 25.871, pelo então prefeito Jânio Quadros, que\nproibia a prática da modalidade nas ruas da cidade. Essa\nproibição foi alterada no ano seguinte, quando a nova prefeita\nda cidade, Luiza Erundina, em um de seus primeiros atos,\nrevogou essa mesma lei e liberou a prática do skate nas ruas\nda cidade.\nAnos depois, em 2015, o Brasil somava 8,4 milhões de\npraticantes de skate, segundo pesquisa Datafolha.\nJá em 2021, quando o skate estreou como modalidade\nolímpica nos Jogos de Tóquio, o Brasil se destacou como o\nsegundo país com mais medalhas olímpicas na modalidade.\nNo mesmo ano, a indústria nacional ligada ao esporte foi\nconsiderada a segunda maior do mundo, atrás apenas dos\nEstados Unidos, cujo mercado é estimado em US$ 4,5 bilhões\nao ano.”\nThais Carrança, BBC News Brasil em São Paulo, 26 julho 2021. Adaptado.\nA partir da leitura do texto, é correto afirmar:\n(A) O skate adentrou o mundo esportivo, entre outros\nmotivos, por pressão dos praticantes da modalidade. No\nentanto, práticas esportivas que surgem pautadas pelo\nlazer ou por atividades cotidianas não deveriam ser\nconsideradas modalidades esportivas por não terem sido\ninstitucionalizadas desde sua origem.\n(B) Eventos esportivos de grande alcance, tal qual a\nOlimpíada, deveriam considerar as estruturas normativas\nque dão origem aos esportes para inseri-los nas\ncompetições. Apenas dessa forma, seria possível garantir\na autenticidade das modalidades e justificar a inserção do\nskate como esporte olímpico.\n(C) Os esportes são uma forma de representação das práticas\nsociais. Sendo assim, as transformações sociais podem\nresultar em alterações de regras esportivas, na\nesportivização de práticas de lazer e até na extinção de\nmodalidades esportivas.\n(D) Os esportes podem sofrer alterações normativas ao longo\ndos tempos. Com tal efeito, torna-se equivocado datar a\ncriação de um esporte, pois ele já pode ter sofrido\nalterações que descaracterizaram sua origem.\n(E) O skate, bem como outras práticas esportivas, foi criado\nde modo discreto, por grupos pequenos, e ganhou força e\nascensão a partir do aumento de incentivo financeiro para\nsua realização, o que é determinante para um esporte\nalcançar reconhecimento mundial.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            37.87486000000024
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Educação Física",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Esportivização e transformação das práticas corporais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

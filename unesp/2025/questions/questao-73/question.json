@@ -1,0 +1,122 @@
+{
+  "title": "Questão 73 - UNESP 2025 - 1ª fase",
+  "index": 73,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Em uma solução aquosa de cianeto de sódio (NaCN), ocorrem os seguintes equilíbrios simultâneos:\nCN– (aq) + H O (l) HCN (aq) + OH– (aq)\n2\nHCN (aq) HCN (g)\nO cianeto de hidrogênio (HCN) é um gás extremamente\ntóxico, que pode ser fatal quando inalado. Para minimizar o\nescape desse gás para a atmosfera, recomenda-se",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "elevar o pH da solução de NaCN por adição de NaCl.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "diminuir o pH da solução de NaCN por adição de NaOH.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "elevar o pH da solução de NaCN por adição de HCl.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "diminuir o pH da solução de NaCN por adição de HCl.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "elevar o pH da solução de NaCN por adição de NaOH.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em uma solução aquosa de cianeto de sódio (NaCN), ocor-\nrem os seguintes equilíbrios simultâneos:\nCN– (aq) + H O (l) HCN (aq) + OH– (aq)\n2\nHCN (aq) HCN (g)\nO cianeto de hidrogênio (HCN) é um gás extremamente\ntóxico, que pode ser fatal quando inalado. Para minimizar o\nescape desse gás para a atmosfera, recomenda-se\n(A) elevar o pH da solução de NaCN por adição de NaCl.\n(B) diminuir o pH da solução de NaCN por adição de NaOH.\n(C) elevar o pH da solução de NaCN por adição de HCl.\n(D) diminuir o pH da solução de NaCN por adição de HCl.\n(E) elevar o pH da solução de NaCN por adição de NaOH.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            360.564,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          136.3263,
+          405.1942,
+          172.93661,
+          426.3114
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 26,
+        "bbox": [
+          97.44922,
+          422.86343,
+          134.059537,
+          443.98064
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

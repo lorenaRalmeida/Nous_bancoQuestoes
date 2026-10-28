@@ -1,0 +1,98 @@
+{
+  "title": "Questão 29 - UNESP 2025 - 1ª fase",
+  "index": 29,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto para responder às questões 29 e 30.\nIt is well established that some people are genetically\npredisposed to a shorter lifespan. It is also well known that\nlifestyle factors, specifically smoking, alcohol consumption,\ndiet and physical activity, can have an impact on longevity.\nHowever, until now there has been no investigation to\nunderstand the extent to which a healthy lifestyle may\ncounterbalance genetics.\nFindings from several long-term studies suggest a\nhealthy lifestyle could offset effects of life-shortening genes\nby 62% and add as much as five years to your life. The results\nwere published in the journal BMJ Evidence-Based Medicine.\n“This study elucidates the pivotal role of a healthy lifestyle in\nmitigating the impact of genetic factors on lifespan reduction,”\nthe researchers concluded.\n(Andrew Gregory. www.theguardian.com, 30.04.2024. Adaptado.)\n\nThe text is mainly about",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "the role of a healthy lifestyle to compensate unfavourable\ngenetics.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "the necessary lifestyle changes people have to be aware\nof to be productive.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "the effect of smoking and alcohol abuse on quality of life.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ways to improve genetics and live longer by adopting a\ndiet and some exercise.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "manners to overcome the fear of an early death that most\npeople have.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "The text is mainly about\n(A) the role of a healthy lifestyle to compensate unfavourable\ngenetics.\n(B) the necessary lifestyle changes people have to be aware\nof to be productive.\n(C) the effect of smoking and alcohol abuse on quality of life.\n(D) ways to improve genetics and live longer by adopting a\ndiet and some exercise.\n(E) manners to overcome the fear of an early death that most\npeople have.",
+    "sharedContext": "Leia o texto para responder às questões 29 e 30.\nIt is well established that some people are genetically\npredisposed to a shorter lifespan. It is also well known that\nlifestyle factors, specifically smoking, alcohol consumption,\ndiet and physical activity, can have an impact on longevity.\nHowever, until now there has been no investigation to\nunderstand the extent to which a healthy lifestyle may\ncounterbalance genetics.\nFindings from several long-term studies suggest a\nhealthy lifestyle could offset effects of life-shortening genes\nby 62% and add as much as five years to your life. The results\nwere published in the journal BMJ Evidence-Based Medicine.\n“This study elucidates the pivotal role of a healthy lifestyle in\nmitigating the impact of genetic factors on lifespan reduction,”\nthe researchers concluded.\n(Andrew Gregory. www.theguardian.com, 30.04.2024. Adaptado.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            258.5706
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            258.5706,
+            291,
+            457.3502
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 16 - UNICAMP 2026 - 1ª fase",
+  "index": 16,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Atualmente, é comum denominar a divisão político-regional do\nmundo entre Norte e Sul Global. Essa delimitação não segue\nexatamente os pontos cardeais. Há países do Norte que estão\nno Sul e vice-versa, conforme indicado no mapa. Essa forma\nde divisão está baseada no tabuleiro geopolítico e econômico\nmundial e afastada da localização geográfica dos países.\nLocalização dos países do Norte e Sul Global\n(Elaboração: COMVEST, 2025.)\nEm relação à localização dos países do Norte e Sul Global nos\ndiferentes hemisférios, assinale, com base no mapa, a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Austrália e Nova Zelândia são os únicos países do Norte Global situados no hemisfério meridional e hemisfério ocidental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Argentina, Brasil, Chile, Colômbia, Equador e Venezuela estão no Sul Global e têm seus territórios no hemisfério meridional e no hemisfério oriental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Estados Unidos e Canadá são países do continente americano no Norte Global que têm seus territórios localizados no\nhemisfério setentrional e hemisfério ocidental.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "China, Rússia, Índia e Japão, integrantes do Norte Global,\nestão situados no hemisfério setentrional e no hemisfério\noriental.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Atualmente, é comum denominar a divisão político-regional do\nmundo entre Norte e Sul Global. Essa delimitação não segue\nexatamente os pontos cardeais. Há países do Norte que estão\nno Sul e vice-versa, conforme indicado no mapa. Essa forma\nde divisão está baseada no tabuleiro geopolítico e econômico\nmundial e afastada da localização geográfica dos países.\nLocalização dos países do Norte e Sul Global\n(Elaboração: COMVEST, 2025.)\nEm relação à localização dos países do Norte e Sul Global nos\ndiferentes hemisférios, assinale, com base no mapa, a alterna-\ntiva correta.\na) Austrália e Nova Zelândia são os únicos países do Norte Glo-\nbal situados no hemisfério meridional e hemisfério ociden-\ntal.\nb) Argentina, Brasil, Chile, Colômbia, Equador e Venezuela es-\ntão no Sul Global e têm seus territórios no hemisfério meri-\ndional e no hemisfério oriental.\nc) Estados Unidos e Canadá são países do continente america-\nno no Norte Global que têm seus territórios localizados no\nhemisfério setentrional e hemisfério ocidental.\nd) China, Rússia, Índia e Japão, integrantes do Norte Global,\nestão situados no hemisfério setentrional e no hemisfério\noriental.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            296.83000000000004,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

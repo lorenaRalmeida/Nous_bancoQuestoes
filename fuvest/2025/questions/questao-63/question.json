@@ -1,0 +1,100 @@
+{
+  "title": "Questão 63 - FUVEST 2025 - 1ª fase",
+  "index": 63,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "A utilização de matrizes energéticas limpas, tais como aquelas\nque não aumentam a concentração de CO (g) na atmosfera, é\n2\nessencial para evitar a escalada das alterações climáticas\ncausadas pela emissão de gases de efeito estufa. Considere a\nproposta apresentada na figura a seguir para a produção de\numa matriz energética limpa.\n(I) Capturar o CO (g) atmosférico utilizando NaOH(aq) para formar\n2\nNa CO (aq). (II) Tratar essa solução, na presença de um catalisador,\n2 3\ncom H (g) oriundo de fontes renováveis, para gerar CH (g), um gás\n2 4\ncombustível.\nCom base nessas informações e em seus conhecimentos,\nassinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O catalisador participa da reação de produção de metano\ne se decompõe em NaOH.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A combustão do CH não emite CO , motivo pelo qual a\n4 2\nproposta se configura como uma matriz energética limpa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A proposta não representa uma matriz energética limpa,\npois a combustão completa de 1 mol de CH emite mais\n4\nCO do que o que é utilizado para a sua síntese.\n2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A retirada de CO da atmosfera seria maior se a proposta\n2\nde usar uma matriz energética limpa se resumisse\nunicamente em utilizar o H como combustível.\n2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Em relação ao ciclo do carbono, a proposta é semelhante\nao uso do etanol como combustível veicular.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA utilização de matrizes energéticas limpas, tais como aquelas\nque não aumentam a concentração de CO (g) na atmosfera, é\n2\nessencial para evitar a escalada das alterações climáticas\ncausadas pela emissão de gases de efeito estufa. Considere a\nproposta apresentada na figura a seguir para a produção de\numa matriz energética limpa.\n(I) Capturar o CO (g) atmosférico utilizando NaOH(aq) para formar\n2\nNa CO (aq). (II) Tratar essa solução, na presença de um catalisador,\n2 3\ncom H (g) oriundo de fontes renováveis, para gerar CH (g), um gás\n2 4\ncombustível.\nCom base nessas informações e em seus conhecimentos,\nassinale a alternativa correta.\n(A) O catalisador participa da reação de produção de metano\ne se decompõe em NaOH.\n(B) A combustão do CH não emite CO , motivo pelo qual a\n4 2\nproposta se configura como uma matriz energética limpa.\n(C) A proposta não representa uma matriz energética limpa,\npois a combustão completa de 1 mol de CH emite mais\n4\nCO do que o que é utilizado para a sua síntese.\n2\n(D) A retirada de CO da atmosfera seria maior se a proposta\n2\nde usar uma matriz energética limpa se resumisse\nunicamente em utilizar o H como combustível.\n2\n(E) Em relação ao ciclo do carbono, a proposta é semelhante\nao uso do etanol como combustível veicular.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Captura de carbono e reações de combustíveis",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

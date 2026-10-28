@@ -1,0 +1,105 @@
+{
+  "title": "Questão 71 - UNICAMP 2026 - 1ª fase",
+  "index": 71,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "A Agência Nacional do Petróleo (ANP) é responsável por implementar a política nacional de combustíveis e proteger os interesses dos consumidores quanto a preço, qualidade e oferta\nde produtos, além de especificar a qualidade dos derivados de\npetróleo, do gás natural e de seus derivados e dos biocombustíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica\nalgumas características do Etanol Anidro Combustível (EAC),\ndo Etanol Hidratado Combustível (EHC) e do Etanol Hidratado\nCombustível Premium (EHCP). Algumas dessas características\nestão na tabela a seguir e nas alternativas.\nMassa Específica Teor Alcoólico\nCombustível\n(kg/m3) (% massa)\nEAC 791,5 (a) 99,3 (b)\nEHC (c) entre 92,5 e 94,6\nEHCP (d) entre 95,5 e 96,5\n(Adaptado da Resolução ANP nº 907 de 18/11/2022.)\nConsiderando que água e etanol formam uma mistura ideal,\npara preencher corretamente essa tabela, as letras a, b, c e d\ndevem corresponder, respectivamente, a",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "máximo; mínimo; entre 805 e 811 e entre 800 e 803.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "mínimo; máximo; entre 805 e 811 e entre 800 e 803.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "máximo; mínimo; entre 800 e 803 e entre 805 e 811.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mínimo; máximo; entre 800 e 803 e entre 805 e 811.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A Agência Nacional do Petróleo (ANP) é responsável por im-\nplementar a política nacional de combustíveis e proteger os in-\nteresses dos consumidores quanto a preço, qualidade e oferta\nde produtos, além de especificar a qualidade dos derivados de\npetróleo, do gás natural e de seus derivados e dos biocombus-\ntíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica\nalgumas características do Etanol Anidro Combustível (EAC),\ndo Etanol Hidratado Combustível (EHC) e do Etanol Hidratado\nCombustível Premium (EHCP). Algumas dessas características\nestão na tabela a seguir e nas alternativas.\nMassa Específica Teor Alcoólico\nCombustível\n(kg/m3) (% massa)\nEAC 791,5 (a) 99,3 (b)\nEHC (c) entre 92,5 e 94,6\nEHCP (d) entre 95,5 e 96,5\n(Adaptado da Resolução ANP nº 907 de 18/11/2022.)\nConsiderando que água e etanol formam uma mistura ideal,\npara preencher corretamente essa tabela, as letras a, b, c e d\ndevem corresponder, respectivamente, a\na) máximo; mínimo; entre 805 e 811 e entre 800 e 803.\nb) mínimo; máximo; entre 805 e 811 e entre 800 e 803.\nc) máximo; mínimo; entre 800 e 803 e entre 805 e 811.\nd) mínimo; máximo; entre 800 e 803 e entre 805 e 811.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            474.3822,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            40,
+            568,
+            94.52599999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          30,
+          613.5554999999999,
+          291,
+          705.3438
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

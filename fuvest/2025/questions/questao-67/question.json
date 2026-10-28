@@ -1,0 +1,100 @@
+{
+  "title": "Questão 67 - FUVEST 2025 - 1ª fase",
+  "index": 67,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Pesquisas e terapias com células-tronco têm se mostrado cada\nvez mais promissoras pela possibilidade de seu uso no\ntratamento de diferentes tipos de doenças, como câncer e\ndoenças degenerativas. As células-tronco podem se diferenciar\nem células especializadas, conforme exemplificado a seguir.\nDisponível em https://upload.wikimedia.org/wikipedia/ (Adaptado).\nAs células especializadas que derivam de uma mesma célula-\ntronco possuem os(as) mesmos(as)",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "genes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "RNAs.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "proteínas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "lipídeos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "organelas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nPesquisas e terapias com células-tronco têm se mostrado cada\nvez mais promissoras pela possibilidade de seu uso no\ntratamento de diferentes tipos de doenças, como câncer e\ndoenças degenerativas. As células-tronco podem se diferenciar\nem células especializadas, conforme exemplificado a seguir.\nDisponível em https://upload.wikimedia.org/wikipedia/ (Adaptado).\nAs células especializadas que derivam de uma mesma célula-\ntronco possuem os(as) mesmos(as)\n(A) genes.\n(B) RNAs.\n(C) proteínas.\n(D) lipídeos.\n(E) organelas.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            297.5,
+            448.4947,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Diferenciação de células-tronco e identidade genética",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

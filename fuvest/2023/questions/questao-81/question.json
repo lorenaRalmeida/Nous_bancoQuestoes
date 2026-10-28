@@ -1,0 +1,90 @@
+{
+  "title": "Questão 81 - FUVEST 2023 - 1ª fase",
+  "index": 81,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Os três gráficos mostram o comportamento circadiano das\nvariáveis hormônio melatonina (produzida na glândula\npineal), hormônio cortisol (produzido nas glândulas supra-\nrenais) e temperatura corpórea em indivíduos saudáveis ao\nlongo do dia (retângulo claro) e da noite (retângulo escuro).\nAs linhas azuis (pontilhadas) correspondem a indivíduos mais\njovens, e as vermelhas (contínuas), a indivíduos mais idosos.\nHOOD & AMIR, 2017. “The aging clock: circadian rhythms and later life”. The\nJournal of Clinical Investigation, 127(2): 437-446. Adaptado.\nCom base nos gráficos, é correto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as amplitudes das variáveis são menores nos indivíduos\nmais idosos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "indivíduos jovens sentem mais sono durante o dia porque\nproduzem mais melatonina que os mais idosos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "picos de alta na produção desses hormônios diminuem o\nestado de vigília e causam a condição de sono à noite.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o pico de melatonina causa a menor temperatura em\npessoas mais idosas em relação às mais jovens à noite.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o cortisol não demonstra ritmo circadiano, o qual ocorre\napenas na melatonina e na temperatura.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Os três gráficos mostram o comportamento circadiano das\nvariáveis hormônio melatonina (produzida na glândula\npineal), hormônio cortisol (produzido nas glândulas supra-\nrenais) e temperatura corpórea em indivíduos saudáveis ao\nlongo do dia (retângulo claro) e da noite (retângulo escuro).\nAs linhas azuis (pontilhadas) correspondem a indivíduos mais\njovens, e as vermelhas (contínuas), a indivíduos mais idosos.\nHOOD & AMIR, 2017. “The aging clock: circadian rhythms and later life”. The\nJournal of Clinical Investigation, 127(2): 437-446. Adaptado.\nCom base nos gráficos, é correto afirmar que\n(A) as amplitudes das variáveis são menores nos indivíduos\nmais idosos.\n(B) indivíduos jovens sentem mais sono durante o dia porque\nproduzem mais melatonina que os mais idosos.\n(C) picos de alta na produção desses hormônios diminuem o\nestado de vigília e causam a condição de sono à noite.\n(D) o pico de melatonina causa a menor temperatura em\npessoas mais idosas em relação às mais jovens à noite.\n(E) o cortisol não demonstra ritmo circadiano, o qual ocorre\napenas na melatonina e na temperatura.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            414.29470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Ritmos circadianos e hormônios",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 55 - UNESP 2024 - 1ª fase",
+  "index": 55,
+  "year": 2024,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Não existe definição objetiva, nem muito menos neutra,\ndaquilo que é ou não a ciência. Esta tanto pode ser uma\nprocura metódica do saber quanto um modo de interpretar a\nrealidade; tanto pode ser uma instituição, com seus grupos\nde pressão, seus preconceitos, suas recompensas oficiais,\nquanto uma atuação subordinada a instâncias administrativas, políticas ou ideológicas. Se perguntarmos sobre o modo\nde funcionamento da ciência, sobre seu papel social, sobre\nsua maneira de explicar os fenômenos e de compreender\no ser humano no mundo, perceberemos facilmente que as\ncondições reais em que são produzidos os conhecimentos\nobjetivos e racionalizados estão banhadas por uma inegável\natmosfera sócio-político-cultural.\n(Hilton Japiassu. O mito da neutralidade científica, 1975. Adaptado.)\nA consideração de Hilton Japiassu em relação à neutralidade\nda ciência destaca",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a inexistência de método seguro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o enviesamento do fazer científico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a falta de recursos materiais nas pesquisas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a submissão do saber ao senso comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o rompimento com o dogmatismo religioso.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Não existe definição objetiva, nem muito menos neutra,\ndaquilo que é ou não a ciência. Esta tanto pode ser uma\nprocura metódica do saber quanto um modo de interpretar a\nrealidade; tanto pode ser uma instituição, com seus grupos\nde pressão, seus preconceitos, suas recompensas oficiais,\nquanto uma atuação subordinada a instâncias administrati-\nvas, políticas ou ideológicas. Se perguntarmos sobre o modo\nde funcionamento da ciência, sobre seu papel social, sobre\nsua maneira de explicar os fenômenos e de compreender\no ser humano no mundo, perceberemos facilmente que as\ncondições reais em que são produzidos os conhecimentos\nobjetivos e racionalizados estão banhadas por uma inegável\natmosfera sócio-político-cultural.\n(Hilton Japiassu. O mito da neutralidade científica, 1975. Adaptado.)\nA consideração de Hilton Japiassu em relação à neutralidade\nda ciência destaca\n(A) a inexistência de método seguro.\n(B) o enviesamento do fazer científico.\n(C) a falta de recursos materiais nas pesquisas.\n(D) a submissão do saber ao senso comum.\n(E) o rompimento com o dogmatismo religioso.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            241.14070000000004,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

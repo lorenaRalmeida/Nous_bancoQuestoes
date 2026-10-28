@@ -1,0 +1,100 @@
+{
+  "title": "Questão 48 - UNESP 2024 - 1ª fase",
+  "index": 48,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise a charge do cartunista Seri.\n(www.dgabc.com.br, 13.10.2022.)\nAo se referir ao Censo, a charge",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "denuncia o preconceito socioeconômico do Censo e traz\nao debate a angústia da população carente, à margem\ndas conquistas que possam oferecer justiça social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "satiriza a falta de empatia dos recenseadores e demonstra a insatisfação da população com os serviços públicos,\nprecários àqueles que dependem de sua oferta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "associa o atraso ao grau de desenvolvimento da população e transfere às pessoas a responsabilidade por sua\ncondição, distante da noção de equidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "minimiza a importância do Censo e critica o imediatismo\nobservado em nossa sociedade, marcada pela desvalorização da reflexão e do senso crítico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ironiza o atraso na realização do Censo e remete a uma\nde suas funções, a de embasar políticas públicas com\ndados sobre a realidade da população.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a charge do cartunista Seri.\n(www.dgabc.com.br, 13.10.2022.)\nAo se referir ao Censo, a charge\n(A) denuncia o preconceito socioeconômico do Censo e traz\nao debate a angústia da população carente, à margem\ndas conquistas que possam oferecer justiça social.\n(B) satiriza a falta de empatia dos recenseadores e demons-\ntra a insatisfação da população com os serviços públicos,\nprecários àqueles que dependem de sua oferta.\n(C) associa o atraso ao grau de desenvolvimento da popu-\nlação e transfere às pessoas a responsabilidade por sua\ncondição, distante da noção de equidade.\n(D) minimiza a importância do Censo e critica o imediatismo\nobservado em nossa sociedade, marcada pela desvalori-\nzação da reflexão e do senso crítico.\n(E) ironiza o atraso na realização do Censo e remete a uma\nde suas funções, a de embasar políticas públicas com\ndados sobre a realidade da população.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

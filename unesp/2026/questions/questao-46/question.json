@@ -1,0 +1,98 @@
+{
+  "title": "Questão 46 - UNESP 2026 - 1ª fase",
+  "index": 46,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Os latifundiários entenderam que a escravidão, mais\ncedo ou mais tarde, chegaria ao fim e que os seus cafezais\ncorriam o risco de ficar sem mão de obra. Uma vez tornadas\npor lei ilegais a invasão e a ocupação da zona rural, tanto\nos ex-escravizados quanto os imigrantes pobres europeus\nficariam impedidos de ter suas próprias terras, ainda que pequenas, e naturalmente se transformariam em trabalhadores\nabundantes e baratos para os latifúndios.\n(Ricardo Westin. www12.senado.leg.br, 14.09.2020. Adaptado.)\nNo contexto tratado pelo excerto, a lei adotada em meados\ndo século XIX e uma consequência dela percebida ainda hoje\nno Brasil são",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a Lei de Terras e a estrutura fundiária concentrada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a Lei Eusébio de Queirós e a desigualdade de gênero\nno campo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a Lei das Sesmarias e o uso de mão de obra não especializada no campo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a Lei Áurea e a desvalorização social da vida no campo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a Lei do Estatuto da Terra e a precarização do trabalho\nno campo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os latifundiários entenderam que a escravidão, mais\ncedo ou mais tarde, chegaria ao fim e que os seus cafezais\ncorriam o risco de ficar sem mão de obra. Uma vez tornadas\npor lei ilegais a invasão e a ocupação da zona rural, tanto\nos ex-escravizados quanto os imigrantes pobres europeus\nficariam impedidos de ter suas próprias terras, ainda que pe-\nquenas, e naturalmente se transformariam em trabalhadores\nabundantes e baratos para os latifúndios.\n(Ricardo Westin. www12.senado.leg.br, 14.09.2020. Adaptado.)\nNo contexto tratado pelo excerto, a lei adotada em meados\ndo século XIX e uma consequência dela percebida ainda hoje\nno Brasil são\n(A) a Lei de Terras e a estrutura fundiária concentrada.\n(B) a Lei Eusébio de Queirós e a desigualdade de gênero\nno campo.\n(C) a Lei das Sesmarias e o uso de mão de obra não espe-\ncializada no campo.\n(D) a Lei Áurea e a desvalorização social da vida no campo.\n(E) a Lei do Estatuto da Terra e a precarização do trabalho\nno campo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

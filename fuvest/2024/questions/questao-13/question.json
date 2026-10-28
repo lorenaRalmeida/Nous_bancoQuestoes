@@ -1,0 +1,105 @@
+{
+  "title": "Questão 13 - FUVEST 2024 - 1ª fase",
+  "index": 13,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Matrizes podem ser usadas para se obter informações sobre uma rede social. Para compreender como isso pode ser feito, consideremos como exemplo uma pequena rede social formada por 4 pessoas: P₁, P₂, P₃, P₄. A matriz associada a essa rede social é a matriz 4 × 4:\n\nM = [0  1  0  1]\n    [0  0  1  0]\n    [1  1  0  1]\n    [1  0  1  0]\n\nO valor 1 (um) na posição a₃₂ (linha 3, coluna 2) da matriz significa que a pessoa P₃ segue a pessoa P₂, ao passo que o valor 0 (zero) na posição a₂₄ (linha 2, coluna 4) significa que a pessoa P₂ não segue a pessoa P₄. O valor 0 (zero) será atribuído às posições a_ii. O significado do valor da posição b_mn da matriz produto M × M = M² é a quantidade de conexões da pessoa P_m até a pessoa P_n passando exatamente por uma pessoa, diferente delas duas, que chamaremos de conexão de grau 2.\n\nDessa forma, os valores das posições da matriz M² podem refletir o alcance da rede social, suas potencialidades e fraquezas, a influência de certos membros dela, dentre outros aspectos.\n\nCom relação à rede social apresentada, é correto afirmar que:\n\nNote e adote:\nA posição b_mn da matriz produto M × M = M² é dada pela expressão\nb_mn = a_m1 a_1n + a_m2 a_2n + a_m3 a_3n + a_m4 a_4n.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Existem 5 pares de pessoas diferentes (P_i ≠ P_j) que não possuem conexões de grau 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Existem 6 pares de pessoas diferentes (P_i ≠ P_j) que possuem apenas uma conexão de grau 2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Existem 3 pares de pessoas diferentes (P_i ≠ P_j) que possuem 2 conexões de grau 2 diferentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Existem 3 pessoas que possuem conexões de grau 2 com todas as outras pessoas da rede social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Existe apenas 1 pessoa P_i (i ≠ 3) tal que P_i e P₃ seguem-se mutuamente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Matrizes podem ser usadas para se obter informações sobre\numa rede social. Para compreender como isso pode ser feito,\nconsideremos como exemplo uma pequena rede social\nformada por 4 pessoas: 𝑃 ,𝑃 ,𝑃 ,𝑃. A matriz associada a essa\n(cid:2869) (cid:2870) (cid:2871) (cid:2872)\nrede social é a matriz 4×4:\nO valor 1 (um) na posição 𝑎 (linha 3, coluna 2) da matriz\n(cid:2871)(cid:2870)\nsignifica que a pessoa 𝑃 segue a pessoa 𝑃 , ao passo que o\n(cid:2871) (cid:2870)\nvalor 0 (zero) na posição 𝑎 (linha 2, coluna 4) significa que a\n(cid:2870)(cid:2872)\npessoa 𝑃 não segue a pessoa 𝑃. O valor 0 (zero) será\n(cid:2870) (cid:2872)\natribuído às posições 𝑎 . O significado do valor da posição\n(cid:3036)(cid:3036)\n𝑏 da matriz produto 𝑀×𝑀=𝑀(cid:2870) é a quantidade de\n(cid:3040)(cid:3041)\nconexões da pessoa 𝑃 até a pessoa 𝑃 passando exatamente\n(cid:3040) (cid:3041)\npor uma pessoa, diferente delas duas, que chamaremos de\nconexão de grau 2.\nDessa forma, os valores das posições da matriz 𝑀(cid:2870) podem\nrefletir o alcance da rede social, suas potencialidades e\nfraquezas, a influência de certos membros dela, dentre outros\naspectos.\nCom relação à rede social apresentada, é correto afirmar que:\n(A) Existem 5 pares de pessoas diferentes (𝑃 ≠𝑃) que não\n(cid:3036) (cid:3037)\npossuem conexões de grau 2.\n(B) Existem 6 pares de pessoas diferentes (𝑃 ≠𝑃) que\n(cid:3036) (cid:3037)\npossuem apenas uma conexão de grau 2.\n(C) Existem 3 pares de pessoas diferentes (𝑃 ≠𝑃) que\n(cid:3036) (cid:3037)\npossuem 2 conexões de grau 2 diferentes.\n(D) Existem 3 pessoas que possuem conexões de grau 2 com\ntodas as outras pessoas da rede social.\n(E) Existe apenas 1 pessoa 𝑃 (𝑖 ≠3) tal que 𝑃 e 𝑃 seguem-se\n(cid:3036) (cid:3036) (cid:2871)\nmutuamente.\nNote e adote:\nA posição 𝑏 da matriz produto 𝑀×𝑀=𝑀(cid:2870) é dada pela expressão\n(cid:3040)(cid:3041)\n𝑏 =𝑎 𝑎 +𝑎 𝑎 +𝑎 𝑎 +𝑎 𝑎\n(cid:3040)(cid:3041) (cid:3040)(cid:2869) (cid:2869)(cid:3041) (cid:3040)(cid:2870) (cid:2870)(cid:3041) (cid:3040)(cid:2871) (cid:2871)(cid:3041) (cid:3040)(cid:2872) (cid:2872)(cid:3041)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Matrizes e redes de relações",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

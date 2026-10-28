@@ -1,0 +1,100 @@
+{
+  "title": "Questão 34 - UNESP 2023 - 1ª fase",
+  "index": 34,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Observe a imagem de Nossa Senhora do Rosário, produzida\nna região das Minas Gerais no século XVIII.\n(In: Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2018.)\nEssa imagem revela uma prática que ocorria na região das\nMinas durante a exploração de minérios:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a funcionalidade dupla da peça, que podia ser utilizada\ncomo objeto de culto nas igrejas e como porta-moedas\nno cotidiano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a conjugação entre apuro artístico de inspiração barroca\ne estratégia para contrabando de riquezas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o emprego exclusivo de padrões artísticos renascentistas\nna produção das imagens religiosas brasileiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a atitude herética dos artistas, que frequentemente contrariavam a proibição de representar figuras religiosas\nfemininas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a representação apenas de elementos da natureza na\ncomposição de peças de cunho religioso.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Observe a imagem de Nossa Senhora do Rosário, produzida\nna região das Minas Gerais no século XVIII.\n(In: Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2018.)\nEssa imagem revela uma prática que ocorria na região das\nMinas durante a exploração de minérios:\n(A) a funcionalidade dupla da peça, que podia ser utilizada\ncomo objeto de culto nas igrejas e como porta-moedas\nno cotidiano.\n(B) a conjugação entre apuro artístico de inspiração barroca\ne estratégia para contrabando de riquezas.\n(C) o emprego exclusivo de padrões artísticos renascentistas\nna produção das imagens religiosas brasileiras.\n(D) a atitude herética dos artistas, que frequentemente con-\ntrariavam a proibição de representar figuras religiosas\nfemininas.\n(E) a representação apenas de elementos da natureza na\ncomposição de peças de cunho religioso.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

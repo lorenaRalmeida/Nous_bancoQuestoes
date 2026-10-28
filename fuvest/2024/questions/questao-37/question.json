@@ -1,0 +1,88 @@
+{
+  "title": "Questão 37 - FUVEST 2024 - 1ª fase",
+  "index": 37,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "A respeito dos contos “Nós matamos o Cão Tinhoso!”, “Dina”,\n“Papá, cobra e eu” e “Nhinguitimo”, de Nós matamos o Cão\nTinhoso!, é possível afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Os narradores e os protagonistas são crianças.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "São narrados em primeira pessoa, por narradores-\nprotagonistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Os protagonistas são oprimidos socialmente, e a reação\ndeles não é endereçada aos opressores.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "São fábulas, e os protagonistas são animais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O espaço representado é o das grandes cidades\nmoçambicanas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A respeito dos contos “Nós matamos o Cão Tinhoso!”, “Dina”,\n“Papá, cobra e eu” e “Nhinguitimo”, de Nós matamos o Cão\nTinhoso!, é possível afirmar:\n(A) Os narradores e os protagonistas são crianças.\n(B) São narrados em primeira pessoa, por narradores-\nprotagonistas.\n(C) Os protagonistas são oprimidos socialmente, e a reação\ndeles não é endereçada aos opressores.\n(D) São fábulas, e os protagonistas são animais.\n(E) O espaço representado é o das grandes cidades\nmoçambicanas.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            297.5,
+            386.4547,
+            567,
+            567.4747
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Literatura moçambicana em Nós matamos o Cão Tinhoso!",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

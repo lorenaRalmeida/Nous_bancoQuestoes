@@ -1,0 +1,100 @@
+{
+  "title": "Questão 45 - UNESP 2026 - 1ª fase",
+  "index": 45,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Leia a transcrição de uma reportagem publicada no canal\n“Jornalismo TV Cultura”, no YouTube.\nUma prática que movimenta cinco milhões de reais por\nmês em todo o país: os bancos comunitários, regulamentados pelo Banco Central, que funcionam principalmente em\npequenas comunidades. Um exemplo dessa prática ocorre\nno Açougue do Silvestre, na Zona Sul de São Paulo, que\naceita várias formas de pagamento. “Pode pagar com dinheiro real, com moeda Sampaio ou com cartões”. Não, você não\nouviu errado, aqui se aceita o Sampaio, uma moeda social.\nEla foi criada no bairro Jardim Maria Sampaio e só pode ser\nusada por aqui. “Para o comerciante, troca um por um. Dá\num real, recebe um Sampaio. Dá um Sampaio, recebe um\nreal. Então, para a gente, é dinheiro vivo. Mesma coisa do\nque fosse o real”, diz o dono do açougue.\n(www.youtube.com, 03.08.2024. Adaptado.)\nA alternativa ao uso do real para pagamentos, apresentada\nna reportagem, demonstra uma estratégia de",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "problematização da reprodução do capital, já que, emitindo sua própria moeda, as instituições financeiras adotam\npolíticas socialistas de mercado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fomento ao comércio local, já que, mantendo a paridade\ncom o real, a moeda social estimula a circulação da economia entre os moradores do próprio bairro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "resistência ao sistema bancário privado, considerando\nque, ao se desvincular da moeda corrente no país, as\npessoas passam a controlar a economia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "incentivo ao consumo consciente, considerando que as\npessoas, ao utilizarem moedas de menor circulação, enfrentam maior burocracia para comprar novos produtos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "rearranjo de centralidades financeiras, já que, ao emitir\numa moeda própria, os bairros são obrigados a estabelecer novas instituições especulativas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia a transcrição de uma reportagem publicada no canal\n“Jornalismo TV Cultura”, no YouTube.\nUma prática que movimenta cinco milhões de reais por\nmês em todo o país: os bancos comunitários, regulamenta-\ndos pelo Banco Central, que funcionam principalmente em\npequenas comunidades. Um exemplo dessa prática ocorre\nno Açougue do Silvestre, na Zona Sul de São Paulo, que\naceita várias formas de pagamento. “Pode pagar com dinhei-\nro real, com moeda Sampaio ou com cartões”. Não, você não\nouviu errado, aqui se aceita o Sampaio, uma moeda social.\nEla foi criada no bairro Jardim Maria Sampaio e só pode ser\nusada por aqui. “Para o comerciante, troca um por um. Dá\num real, recebe um Sampaio. Dá um Sampaio, recebe um\nreal. Então, para a gente, é dinheiro vivo. Mesma coisa do\nque fosse o real”, diz o dono do açougue.\n(www.youtube.com, 03.08.2024. Adaptado.)\nA alternativa ao uso do real para pagamentos, apresentada\nna reportagem, demonstra uma estratégia de\n(A) problematização da reprodução do capital, já que, emitin-\ndo sua própria moeda, as instituições financeiras adotam\npolíticas socialistas de mercado.\n(B) fomento ao comércio local, já que, mantendo a paridade\ncom o real, a moeda social estimula a circulação da eco-\nnomia entre os moradores do próprio bairro.\n(C) resistência ao sistema bancário privado, considerando\nque, ao se desvincular da moeda corrente no país, as\npessoas passam a controlar a economia.\n(D) incentivo ao consumo consciente, considerando que as\npessoas, ao utilizarem moedas de menor circulação, en-\nfrentam maior burocracia para comprar novos produtos.\n(E) rearranjo de centralidades financeiras, já que, ao emitir\numa moeda própria, os bairros são obrigados a estabele-\ncer novas instituições especulativas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

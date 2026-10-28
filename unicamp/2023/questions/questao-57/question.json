@@ -1,0 +1,84 @@
+{
+  "title": "Questão 57 - UNICAMP 2023 - 1ª fase",
+  "index": 57,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "(Vespúcio descobre a América. Gravura de Jan van der Straet, cerca de 1540.)\nAs gravuras eram um importante e significativo meio de comunicação nas sociedades europeias. Os ecos do Novo Mundo\nchegavam à Europa rapidamente pelas mãos daqueles que nunca tinham pisado no continente recém-descoberto.\n(Adaptado de TATSCH, Flavia Galli. A construção visual da América em gravuras: códigos\nde Percepção e suas transformações. In: III Encontro Nacional de Estudos da Imagem, 03\na 06 de maio de 2011, Londrina – PR.)\nA partir da leitura da imagem e do texto acima – que versam,\nambos, sobre a construção visual, em gravuras, da América do\ninício da Era Moderna –, é correto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a gravura traz elementos greco-romanos para representar a\ndescoberta do Novo Mundo. Nela, o continente foi simbolizado pela paisagem típica da América e pela presença de\nAmérico Vespúcio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o código visual da gravura, produzido em um contexto medieval, traz o encontro de Américo Vespúcio com as terras\namericanas, representado pelos artefatos europeus, como,\npor exemplo, a rede.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a gravura alude ao encontro entre Américo Vespúcio e a\nAmérica, representados, na imagem, pelo navegador e pela\nindígena nua. Essa representação resultava dos relatos escritos sobre o Novo Mundo e da tradição imagética europeia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a gravura usa elementos visuais da cultura europeia para\napresentar a Europa como detentora de civilidade e a América indígena, grotesca, armada e opositora aos domínios\neuropeus.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "(Vespúcio descobre a América. Gravura de Jan van der Straet, cerca de 1540.)\nAs gravuras eram um importante e significativo meio de co-\nmunicação nas sociedades europeias. Os ecos do Novo Mundo\nchegavam à Europa rapidamente pelas mãos daqueles que nun-\nca tinham pisado no continente recém-descoberto.\n(Adaptado de TATSCH, Flavia Galli. A construção visual da América em gravuras: códigos\nde Percepção e suas transformações. In: III Encontro Nacional de Estudos da Imagem, 03\na 06 de maio de 2011, Londrina – PR.)\nA partir da leitura da imagem e do texto acima – que versam,\nambos, sobre a construção visual, em gravuras, da América do\ninício da Era Moderna –, é correto afirmar que\na) a gravura traz elementos greco-romanos para representar a\ndescoberta do Novo Mundo. Nela, o continente foi simbo-\nlizado pela paisagem típica da América e pela presença de\nAmérico Vespúcio.\nb) o código visual da gravura, produzido em um contexto me-\ndieval, traz o encontro de Américo Vespúcio com as terras\namericanas, representado pelos artefatos europeus, como,\npor exemplo, a rede.\nc) a gravura alude ao encontro entre Américo Vespúcio e a\nAmérica, representados, na imagem, pelo navegador e pela\nindígena nua. Essa representação resultava dos relatos escri-\ntos sobre o Novo Mundo e da tradição imagética europeia.\nd) a gravura usa elementos visuais da cultura europeia para\napresentar a Europa como detentora de civilidade e a Amé-\nrica indígena, grotesca, armada e opositora aos domínios\neuropeus.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            662.0019
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

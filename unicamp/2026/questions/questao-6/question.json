@@ -1,0 +1,84 @@
+{
+  "title": "Questão 6 - UNICAMP 2026 - 1ª fase",
+  "index": 6,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o resumo de um artigo científico.\nIncels: Masculinity in the Transition to Adulthood\nIncels are men who are members of an online community that\nexperiences an unmet desire for sex and blame women for\ntheir struggle. Since 2019 there have been several mass murder\nattacks committed by Incels motivated by Incel ideology\ncreating a threat of future violence. While the vast majority of\nIncels do not commit such attacks, researchers have begun to\nstudy Incels to prevent violence and uncover the true nature\nof this community. The study of Incels is incipient; therefore,\nmore knowledge about interventions to address the struggles of\ninvoluntary celibacy is needed. This paper emphasizes the\nmasculinity strain experienced by Incels who attempt to perform\nhegemonic masculinity as part of the transition to adulthood\nbut fall short because of their lack of sexual activity. This work\nproposes the creation and implementation of Incel-specific,\nonline therapeutic interventions and continued research directly\nwith the Incel community to uncover the complexities of Incel\nexperiences.\n(Adaptado de https://link.springer.com/article/10.1007/s12119-024-10201-7. Acesso\nem 16/05/2025.)\nDe acordo com o resumo, é correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“Incel” é uma comunidade majoritariamente constituída\npor homens que culpam mulheres por questionarem sua\nmasculinidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as pesquisas sobre a comunidade “Incel” ainda são escassas, por isso há a necessidade de mais estudos que definam\nteoricamente a abstinência sexual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "homens “Incel”, muitas vezes, tentam exercer uma masculinidade dominante que resulta em expectativas frustradas\ndevido à inatividade sexual.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a pesquisa propõe práticas terapêuticas que integrem homens “Incel” a outros grupos sociais para melhor compreender as complexidades da masculinidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o resumo de um artigo científico.\nIncels: Masculinity in the Transition to Adulthood\nIncels are men who are members of an online community that\nexperiences an unmet desire for sex and blame women for\ntheir struggle. Since 2019 there have been several mass murder\nattacks committed by Incels motivated by Incel ideology\ncreating a threat of future violence. While the vast majority of\nIncels do not commit such attacks, researchers have begun to\nstudy Incels to prevent violence and uncover the true nature\nof this community. The study of Incels is incipient; therefore,\nmore knowledge about interventions to address the struggles of\ninvoluntary celibacy is needed. This paper emphasizes the\nmasculinity strain experienced by Incels who attempt to perform\nhegemonic masculinity as part of the transition to adulthood\nbut fall short because of their lack of sexual activity. This work\nproposes the creation and implementation of Incel-specific,\nonline therapeutic interventions and continued research directly\nwith the Incel community to uncover the complexities of Incel\nexperiences.\n(Adaptado de https://link.springer.com/article/10.1007/s12119-024-10201-7. Acesso\nem 16/05/2025.)\nDe acordo com o resumo, é correto afirmar que\na) “Incel” é uma comunidade majoritariamente constituída\npor homens que culpam mulheres por questionarem sua\nmasculinidade.\nb) as pesquisas sobre a comunidade “Incel” ainda são escas-\nsas, por isso há a necessidade de mais estudos que definam\nteoricamente a abstinência sexual.\nc) homens “Incel”, muitas vezes, tentam exercer uma mascu-\nlinidade dominante que resulta em expectativas frustradas\ndevido à inatividade sexual.\nd) a pesquisa propõe práticas terapêuticas que integrem ho-\nmens “Incel” a outros grupos sociais para melhor compre-\nender as complexidades da masculinidade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            225.53390000000002,
+            568,
+            713.904
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

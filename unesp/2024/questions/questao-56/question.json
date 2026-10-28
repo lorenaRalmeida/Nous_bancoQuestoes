@@ -1,0 +1,113 @@
+{
+  "title": "Questão 56 - UNESP 2024 - 1ª fase",
+  "index": 56,
+  "year": 2024,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Texto 1\n(Gerson Pastre de Oliveira (org.).\nPesquisa em educação e educação matemática:\num olhar sobre a metodologia, 2019. Adaptado.)\nTexto 2\nO conhecimento teórico da natureza — originariamente\nligado à geometria — como visão ideal da perfeição harmoniosa do cosmo foi se desenvolvendo paralelamente à evolução da matemática, deixando, assim, de forma paulatina, de\nser simples forma de contemplação da realidade, para adquirir o caráter de um instrumento de conhecimento da natureza.\n(Milton Vargas. “História da matematização da natureza”.\nEstudos Avançados, 1996.)\nA relação entre Filosofia e Matemática advém de um longo\nperíodo da história da humanidade. Pode-se observar tal\nrelação, a partir dos textos 1 e 2, pela",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "utilização da ideia de primeiro motor na formulação do\nconhecimento medieval.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "influência do dualismo platônico na teoria cartesiana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "presença da causalidade aristotélica em explicações da\nfísica newtoniana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "repercussão da ideia de arché como número na ciência\nmoderna.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "ruptura com o entendimento de cosmos geocêntrico em\nCopérnico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\n(Gerson Pastre de Oliveira (org.).\nPesquisa em educação e educação matemática:\num olhar sobre a metodologia, 2019. Adaptado.)\nTexto 2\nO conhecimento teórico da natureza — originariamente\nligado à geometria — como visão ideal da perfeição harmo-\nniosa do cosmo foi se desenvolvendo paralelamente à evolu-\nção da matemática, deixando, assim, de forma paulatina, de\nser simples forma de contemplação da realidade, para adqui-\nrir o caráter de um instrumento de conhecimento da natureza.\n(Milton Vargas. “História da matematização da natureza”.\nEstudos Avançados, 1996.)\nA relação entre Filosofia e Matemática advém de um longo\nperíodo da história da humanidade. Pode-se observar tal\nrelação, a partir dos textos 1 e 2, pela\n(A) utilização da ideia de primeiro motor na formulação do\nconhecimento medieval.\n(B) influência do dualismo platônico na teoria cartesiana.\n(C) presença da causalidade aristotélica em explicações da\nfísica newtoniana.\n(D) repercussão da ideia de arché como número na ciência\nmoderna.\n(E) ruptura com o entendimento de cosmos geocêntrico em\nCopérnico.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 21,
+        "bbox": [
+          70.458,
+          60.626300000000015,
+          254.4007,
+          263.057
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 2 - FUVEST 2024 - 1ª fase",
+  "index": 2,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 01 E 02\nTempo de nos aquilombar\nÉ tempo de caminhar em fingido silêncio,\ne buscar o momento certo no grito,\naparentar fechar um olho evitando o cisco\ne abrir escancaradamente o outro.\nÉ tempo de fazer os ouvidos moucos\npara os vazios lero-leros,\ne cuidar dos passos assuntando as vias,\nir se vigiando atento, que o buraco é fundo.\nÉ tempo de ninguém se soltar de ninguém,\nmas olhar fundo na palma aberta\na alma de quem lhe oferece o gesto.\nO laçar de mãos não pode ser algemas,\ne sim acertada tática, necessário esquema.\nÉ tempo de formar novos quilombos,\nem qualquer lugar que estejamos\ne que venham dias futuros, salve 2020\nA mística quilombola persiste afirmando:\n“a liberdade é uma luta constante”.\nConceição Evaristo. Jornal O Globo, 31/12/2019.\n\nConsiderando o enfoque do texto na denúncia social, o eu\nlírico revela, predominantemente,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a crítica às reações da nossa sociedade frente aos\nproblemas que ficaram no passado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as justificativas para a segregação social no mundo\ncontemporâneo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as tensões sociais presentes há tempos, sob a luz dos\nembates do momento atual.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a importância de contornar os problemas sociais do\npassado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as peculiaridades das diferentes classes sociais ao\nenfrentar os problemas sociais atuais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Considerando o enfoque do texto na denúncia social, o eu\nlírico revela, predominantemente,\n(A) a crítica às reações da nossa sociedade frente aos\nproblemas que ficaram no passado.\n(B) as justificativas para a segregação social no mundo\ncontemporâneo.\n(C) as tensões sociais presentes há tempos, sob a luz dos\nembates do momento atual.\n(D) a importância de contornar os problemas sociais do\npassado.\n(E) as peculiaridades das diferentes classes sociais ao\nenfrentar os problemas sociais atuais.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 01 E 02\nTempo de nos aquilombar\nÉ tempo de caminhar em fingido silêncio,\ne buscar o momento certo no grito,\naparentar fechar um olho evitando o cisco\ne abrir escancaradamente o outro.\nÉ tempo de fazer os ouvidos moucos\npara os vazios lero-leros,\ne cuidar dos passos assuntando as vias,\nir se vigiando atento, que o buraco é fundo.\nÉ tempo de ninguém se soltar de ninguém,\nmas olhar fundo na palma aberta\na alma de quem lhe oferece o gesto.\nO laçar de mãos não pode ser algemas,\ne sim acertada tática, necessário esquema.\nÉ tempo de formar novos quilombos,\nem qualquer lugar que estejamos\ne que venham dias futuros, salve 2020\nA mística quilombola persiste afirmando:\n“a liberdade é uma luta constante”.\nConceição Evaristo. Jornal O Globo, 31/12/2019.",
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 2,
+          "bbox": [
+            28,
+            43.76470000000006,
+            297.5,
+            341.9947
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 2,
+          "bbox": [
+            28,
+            525.4747,
+            297.5,
+            722.2746999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Interpretação do eu lírico em Conceição Evaristo",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

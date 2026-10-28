@@ -1,0 +1,116 @@
+{
+  "title": "Questão 37 - UNESP 2026 - 1ª fase",
+  "index": 37,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise o mapa que apresenta o crescimento do território dos\nEstados Unidos.\n(Atlas of the North American Indian, 2000. Adaptado.)\nO mapa mostra que",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png",
+    "imagem-04.png",
+    "imagem-05.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as guerras internas e externas e a compra de terras junto\na outras potências europeias definiram os limites do território estadunidense.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a ocupação territorial estadunidense iniciou-se no Leste,\ndurante a colonização inglesa, e avançou para o Oeste\napós a vitória nortista na Guerra de Secessão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as anexações das terras indígenas ao território estadunidense ocorreram por meio de acordos e negociações\npacíficas ao longo dos séculos XVIII e XIX.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as anexações, por meio da compra, de terras antes pertencentes ao México completaram o processo de expansão do território estadunidense.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a diversidade da colonização europeia na América do\nNorte, entre os séculos XVII e XIX, impediu a completa\nunificação territorial estadunidense.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o mapa que apresenta o crescimento do território dos\nEstados Unidos.\n(Atlas of the North American Indian, 2000. Adaptado.)\nO mapa mostra que\n(A) as guerras internas e externas e a compra de terras junto\na outras potências europeias definiram os limites do terri-\ntório estadunidense.\n(B) a ocupação territorial estadunidense iniciou-se no Leste,\ndurante a colonização inglesa, e avançou para o Oeste\napós a vitória nortista na Guerra de Secessão.\n(C) as anexações das terras indígenas ao território estadu-\nnidense ocorreram por meio de acordos e negociações\npacíficas ao longo dos séculos XVIII e XIX.\n(D) as anexações, por meio da compra, de terras antes per-\ntencentes ao México completaram o processo de expan-\nsão do território estadunidense.\n(E) a diversidade da colonização europeia na América do\nNorte, entre os séculos XVII e XIX, impediu a completa\nunificação territorial estadunidense.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 14,
+        "bbox": [
+          304,
+          72.42089999999996,
+          568,
+          269.7939
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

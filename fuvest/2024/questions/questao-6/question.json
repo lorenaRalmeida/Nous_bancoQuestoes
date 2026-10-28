@@ -1,0 +1,98 @@
+{
+  "title": "Questão 6 - FUVEST 2024 - 1ª fase",
+  "index": 6,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“Na coluna do ativo como na do passivo, seria difícil exagerar\no papel do açúcar na história do Brasil colonial. Se ele foi o\nproduto que proporcionou a base inicial solidamente\neconômica para o esforço do colonizador, foi também o que\nplasmou o regime de propriedade latifundiária, instalou a\nescravidão africana na América portuguesa e, no seu\nexclusivismo, inibiu o desenvolvimento da policultura (...),\nembora estimulando, em áreas apartadas, a pecuária e a\nlavoura de subsistência. (...) Ele desenvolveu um estilo de vida\nque marcou a existência de todas as camadas da população\nque integrou, reservando, contudo, seus privilégios a uns\npoucos.”\nMELLO, Evaldo Cabral de. Um imenso Portugal: História e historiografia. São\nPaulo: Ed. 34, 2002. p.110.\nO texto indica que, no Nordeste açucareiro dos séculos XVI e\nXVII,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a mão de obra de escravizados de origem africana e\nindígena era empregada nos canaviais, na pecuária e na\nlavoura de subsistência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a distribuição de terras baseava-se na concessão, pela\nCoroa portuguesa, de privilégios e pequenos lotes a\ndonatários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os privilégios concentravam-se nas mãos dos senhores de\nengenho, em detrimento da população escravizada ou\nlivre e pobre.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o desenvolvimento de relações socioeconômicas fundadas\nna horizontalidade recebia estímulos governamentais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o modo de produção feudal prevaleceu na exploração\nagrícola pela metrópole.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Na coluna do ativo como na do passivo, seria difícil exagerar\no papel do açúcar na história do Brasil colonial. Se ele foi o\nproduto que proporcionou a base inicial solidamente\neconômica para o esforço do colonizador, foi também o que\nplasmou o regime de propriedade latifundiária, instalou a\nescravidão africana na América portuguesa e, no seu\nexclusivismo, inibiu o desenvolvimento da policultura (...),\nembora estimulando, em áreas apartadas, a pecuária e a\nlavoura de subsistência. (...) Ele desenvolveu um estilo de vida\nque marcou a existência de todas as camadas da população\nque integrou, reservando, contudo, seus privilégios a uns\npoucos.”\nMELLO, Evaldo Cabral de. Um imenso Portugal: História e historiografia. São\nPaulo: Ed. 34, 2002. p.110.\nO texto indica que, no Nordeste açucareiro dos séculos XVI e\nXVII,\n(A) a mão de obra de escravizados de origem africana e\nindígena era empregada nos canaviais, na pecuária e na\nlavoura de subsistência.\n(B) a distribuição de terras baseava-se na concessão, pela\nCoroa portuguesa, de privilégios e pequenos lotes a\ndonatários.\n(C) os privilégios concentravam-se nas mãos dos senhores de\nengenho, em detrimento da população escravizada ou\nlivre e pobre.\n(D) o desenvolvimento de relações socioeconômicas fundadas\nna horizontalidade recebia estímulos governamentais.\n(E) o modo de produção feudal prevaleceu na exploração\nagrícola pela metrópole.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            28,
+            587.7547,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            242.93470000000002
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Economia açucareira no Brasil colonial",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

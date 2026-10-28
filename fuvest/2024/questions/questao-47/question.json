@@ -1,0 +1,90 @@
+{
+  "title": "Questão 47 - FUVEST 2024 - 1ª fase",
+  "index": 47,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Modais de transporte, em porcentagem do total, em diferentes\npaíses (2021)\nAssociação Nacional dos Transportadores Ferroviários, 2021.\nA partir dos dados e dos seus conhecimentos, é correto\nafirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O modal aquaviário, com menor custo e maior capacidade\nde carga, predomina em mais da metade dos países\nrepresentados no gráfico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Nos EUA, em decorrência da baixa necessidade de\ntransporte de cargas, predomina o modal rodoviário, com\nmenor custo no transporte de pessoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Predominante no país, o modal aquaviário no Canadá tem\nalto custo, em decorrência das condições climáticas que\nmantêm os cursos d’águas de todo o país congelados na\nmaior parte do ano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Apesar de possuir maior custo, a matriz brasileira,\nassentada no modal rodoviário, é mais eficiente\nconsiderando a capacidade de transporte em grandes\nquantidades e longos percursos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A predominância do modal aquaviário na China faz parte\nda estratégia do país de aliar a diminuição dos custos de\ntransporte à busca de modais menos poluentes.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Modais de transporte, em porcentagem do total, em diferentes\npaíses (2021)\nAssociação Nacional dos Transportadores Ferroviários, 2021.\nA partir dos dados e dos seus conhecimentos, é correto\nafirmar:\n(A) O modal aquaviário, com menor custo e maior capacidade\nde carga, predomina em mais da metade dos países\nrepresentados no gráfico.\n(B) Nos EUA, em decorrência da baixa necessidade de\ntransporte de cargas, predomina o modal rodoviário, com\nmenor custo no transporte de pessoas.\n(C) Predominante no país, o modal aquaviário no Canadá tem\nalto custo, em decorrência das condições climáticas que\nmantêm os cursos d’águas de todo o país congelados na\nmaior parte do ano.\n(D) Apesar de possuir maior custo, a matriz brasileira,\nassentada no modal rodoviário, é mais eficiente\nconsiderando a capacidade de transporte em grandes\nquantidades e longos percursos.\n(E) A predominância do modal aquaviário na China faz parte\nda estratégia do país de aliar a diminuição dos custos de\ntransporte à busca de modais menos poluentes.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            480.5946
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Redes e modais de transporte",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

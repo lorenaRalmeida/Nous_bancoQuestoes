@@ -1,0 +1,88 @@
+{
+  "title": "Questão 49 - UNESP 2025 - 1ª fase",
+  "index": 49,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O parlamento europeu aprovou uma nova lei que obriga\nempresas de todos os setores da economia que fazem negócios com a União Europeia à verificação de suas cadeias de\nvalor. A nova lei engloba desde a extração de matéria-prima à\ndistribuição, venda e marketing do produto ou serviço final, e\nimplica a necessidade de adoção de indicadores ambientais,\nsociais e de governança (ESG), sobretudo no que diz respeito a violações de direitos humanos e do meio ambiente.\nA previsão de especialistas é de que a lei tenha um efeito\ncascata — das grandes empresas às pequenas, com um potencial de transformação difícil de calcular.\n(www.cnnbrasil.com.br, 03.05.2024. Adaptado.)\nDepreende-se do excerto que a nova lei",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "punirá países-membros com estrutura produtiva arcaica,\nobrigando as empresas à adoção de programas de modernização industrial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estimulará novas relações de poder, deslocando os centros econômicos hegemônicos para as periferias do sistema capitalista de produção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "flexibilizará as relações trabalhistas, adotando medidas\nkeynesianas para diminuir os gastos com mão de obra\nna produção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "reestruturará instituições supranacionais, validando novos comportamentos que problematizem o mecanismo\nde reprodução do capital.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "anteverá incidentes socioambientais, gerando como contrapartida impactos econômicos na readequação de contratos já celebrados.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O parlamento europeu aprovou uma nova lei que obriga\nempresas de todos os setores da economia que fazem negó-\ncios com a União Europeia à verificação de suas cadeias de\nvalor. A nova lei engloba desde a extração de matéria-prima à\ndistribuição, venda e marketing do produto ou serviço final, e\nimplica a necessidade de adoção de indicadores ambientais,\nsociais e de governança (ESG), sobretudo no que diz res-\npeito a violações de direitos humanos e do meio ambiente.\nA previsão de especialistas é de que a lei tenha um efeito\ncascata — das grandes empresas às pequenas, com um po-\ntencial de transformação difícil de calcular.\n(www.cnnbrasil.com.br, 03.05.2024. Adaptado.)\nDepreende-se do excerto que a nova lei\n(A) punirá países-membros com estrutura produtiva arcaica,\nobrigando as empresas à adoção de programas de mo-\ndernização industrial.\n(B) estimulará novas relações de poder, deslocando os cen-\ntros econômicos hegemônicos para as periferias do sis-\ntema capitalista de produção.\n(C) flexibilizará as relações trabalhistas, adotando medidas\nkeynesianas para diminuir os gastos com mão de obra\nna produção.\n(D) reestruturará instituições supranacionais, validando no-\nvos comportamentos que problematizem o mecanismo\nde reprodução do capital.\n(E) anteverá incidentes socioambientais, gerando como con-\ntrapartida impactos econômicos na readequação de con-\ntratos já celebrados.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            451.64459999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

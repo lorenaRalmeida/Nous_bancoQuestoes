@@ -1,0 +1,90 @@
+{
+  "title": "Questão 75 - FUVEST 2024 - 1ª fase",
+  "index": 75,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "O mapa a seguir retrata o Nordeste da África e a Península\nArábica, no século IV.\nCARNINE, Douglas et alii. World History: Ancient through Modern Times.\nEvanston, IL: McDougal Littell, 2009. Adaptado.\nConsiderando as rotas comerciais representadas no mapa,\npelas quais se transportavam, por exemplo, cereais, marfim e\nescravizados, e que envolviam sociedades antigas, em especial\nos reinos de Axum, Cuxe e Egito, é correto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o comércio praticado no nordeste da África isolava a\nregião de outras áreas do continente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os comerciantes do Egito participavam apenas de rotas\ncomerciais marítimas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as atividades mercantis do Reino de Axum conectavam o\nMediterrâneo ao Oceano Índico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "as rotas terrestres e marítimas na África e na Península\nArábica não se conectavam umas às outras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a cidade de Berenice se colocava como obstáculo ao\ncomércio do Mediterrâneo com o interior da África.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O mapa a seguir retrata o Nordeste da África e a Península\nArábica, no século IV.\nCARNINE, Douglas et alii. World History: Ancient through Modern Times.\nEvanston, IL: McDougal Littell, 2009. Adaptado.\nConsiderando as rotas comerciais representadas no mapa,\npelas quais se transportavam, por exemplo, cereais, marfim e\nescravizados, e que envolviam sociedades antigas, em especial\nos reinos de Axum, Cuxe e Egito, é correto afirmar que\n(A) o comércio praticado no nordeste da África isolava a\nregião de outras áreas do continente.\n(B) os comerciantes do Egito participavam apenas de rotas\ncomerciais marítimas.\n(C) as atividades mercantis do Reino de Axum conectavam o\nMediterrâneo ao Oceano Índico.\n(D) as rotas terrestres e marítimas na África e na Península\nArábica não se conectavam umas às outras.\n(E) a cidade de Berenice se colocava como obstáculo ao\ncomércio do Mediterrâneo com o interior da África.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            459.41470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Rotas comerciais de sociedades africanas antigas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

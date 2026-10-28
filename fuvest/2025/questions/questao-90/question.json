@@ -1,0 +1,90 @@
+{
+  "title": "Questão 90 - FUVEST 2025 - 1ª fase",
+  "index": 90,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "“Brasil, meu Brasil brasileiro\nMeu mulato inzoneiro\nVou cantar-te nos meus versos\nO Brasil, samba que dá\nBamboleio, que faz gingar\nO Brasil do meu amor\nTerra de Nosso Senhor\nBrasil, pra mim\nÔ, abre a cortina do passado\nTira a mãe preta do cerrado\nBota o Rei Congo no congado\nBrasil, pra mim (...)\nÔ! Esse coqueiro que dá coco\nOnde eu amarro a minha rede\nNas noites claras de luar\nBrasil, pra mim\nÔ! Ouve essas fontes murmurantes\nOnde eu mato a minha sede\nE onde a lua vem brincar\nÔ! Este Brasil lindo e trigueiro\nÉ o meu Brasil, brasileiro\nTerra de samba e pandeiro\nBrasil, pra mim”\nA canção Aquarela do Brasil foi composta por Ari Barroso e\nlançada no ano de 1939. Sua letra permite identificar temas\nque guardam afinidades com a política cultural do Estado\nNovo, podendo ser destacada a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "discriminação em relação a afrodescendentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "exaltação das virtudes naturais e nacionais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "concepção civilizatória assentada na religião católica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "valorização da cultura cabocla e do regionalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "escolha do malandro como símbolo nacional.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“Brasil, meu Brasil brasileiro\nMeu mulato inzoneiro\nVou cantar-te nos meus versos\nO Brasil, samba que dá\nBamboleio, que faz gingar\nO Brasil do meu amor\nTerra de Nosso Senhor\nBrasil, pra mim\nÔ, abre a cortina do passado\nTira a mãe preta do cerrado\nBota o Rei Congo no congado\nBrasil, pra mim (...)\nÔ! Esse coqueiro que dá coco\nOnde eu amarro a minha rede\nNas noites claras de luar\nBrasil, pra mim\nÔ! Ouve essas fontes murmurantes\nOnde eu mato a minha sede\nE onde a lua vem brincar\nÔ! Este Brasil lindo e trigueiro\nÉ o meu Brasil, brasileiro\nTerra de samba e pandeiro\nBrasil, pra mim”\nA canção Aquarela do Brasil foi composta por Ari Barroso e\nlançada no ano de 1939. Sua letra permite identificar temas\nque guardam afinidades com a política cultural do Estado\nNovo, podendo ser destacada a\n(A) discriminação em relação a afrodescendentes.\n(B) exaltação das virtudes naturais e nacionais.\n(C) concepção civilizatória assentada na religião católica.\n(D) valorização da cultura cabocla e do regionalismo.\n(E) escolha do malandro como símbolo nacional.\n#####",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            297.5,
+            324.5947,
+            567,
+            810
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "topic": "Estado Novo e nacionalismo cultural",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

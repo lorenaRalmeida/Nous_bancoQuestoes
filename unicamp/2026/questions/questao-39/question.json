@@ -1,0 +1,105 @@
+{
+  "title": "Questão 39 - UNICAMP 2026 - 1ª fase",
+  "index": 39,
+  "year": 2026,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Nas invasões biológicas, os predadores exóticos são a maior\ncausa de extinção de espécies e perda de biodiversidade. Isso\nacontece porque o predador exótico pode tanto consumir a\npresa nativa quanto competir com o predador nativo. O sucesso da invasão biológica ocorre quando existe a extinção de uma\nou ambas as espécies nativas, ou quando existe a redução da\npopulação nativa na presença do predador exótico. Na figura a\nseguir, considere os cenários I e II da chegada de um predador\nexótico em um sistema nativo de presa-predador em equilíbrio.\nI II\nTempo Tempo\n(Adaptado de V. RIVERA-ESTAYE colaboradores. Scientific Reports, Londres, v.14, p. 4416,\nfev. 2024.)\nA partir dessas informações, assinale a alternativa correta.",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O cenário I representa insucesso da invasão biológica. O\npredador exótico é extinto, causando a redução populacional da presa nativa e o aumento populacional do predador\nnativo.\nseõçalupop\ned\nedadisneD\nII\nIII\nn\nn\n2n\nn\nn\nI\nIV\n25\n20\n15\n10\n5\n0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O cenário I representa sucesso da invasão biológica. O predador exótico se instala, causando a redução populacional\nda presa nativa e a extinção do predador nativo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "O cenário II representa sucesso da invasão biológica. O predador exótico se instala, causando a redução populacional\ndo predador nativo e a extinção da presa nativa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O cenário II representa insucesso da invasão biológica. O\npredador exótico é extinto, causando a redução populacional da presa nativa e o aumento populacional do predador\nnativo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Nas invasões biológicas, os predadores exóticos são a maior\ncausa de extinção de espécies e perda de biodiversidade. Isso\nacontece porque o predador exótico pode tanto consumir a\npresa nativa quanto competir com o predador nativo. O suces-\nso da invasão biológica ocorre quando existe a extinção de uma\nou ambas as espécies nativas, ou quando existe a redução da\npopulação nativa na presença do predador exótico. Na figura a\nseguir, considere os cenários I e II da chegada de um predador\nexótico em um sistema nativo de presa-predador em equilíbrio.\nI II\nTempo Tempo\n(Adaptado de V. RIVERA-ESTAYE colaboradores. Scientific Reports, Londres, v.14, p. 4416,\nfev. 2024.)\nA partir dessas informações, assinale a alternativa correta.\na) O cenário I representa insucesso da invasão biológica. O\npredador exótico é extinto, causando a redução populacio-\nnal da presa nativa e o aumento populacional do predador\nnativo.\nseõçalupop\ned\nedadisneD\nII\nIII\nn\nn\n2n\nn\nn\nI\nIV\n25\n20\n15\n10\n5\n0\nb) O cenário I representa sucesso da invasão biológica. O pre-\ndador exótico se instala, causando a redução populacional\nda presa nativa e a extinção do predador nativo.\nc) O cenário II representa sucesso da invasão biológica. O pre-\ndador exótico se instala, causando a redução populacional\ndo predador nativo e a extinção da presa nativa.\nd) O cenário II representa insucesso da invasão biológica. O\npredador exótico é extinto, causando a redução populacio-\nnal da presa nativa e o aumento populacional do predador\nnativo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            428.07959999999997,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            40,
+            568,
+            191.3954
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 16,
+        "bbox": [
+          39.8764,
+          560.0939,
+          291,
+          694.9639
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

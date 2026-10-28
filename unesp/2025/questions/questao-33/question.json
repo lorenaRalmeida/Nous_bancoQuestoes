@@ -1,0 +1,98 @@
+{
+  "title": "Questão 33 - UNESP 2025 - 1ª fase",
+  "index": 33,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Leia o excerto para responder às questões 33 e 34.\nO boom na mineração do ouro, em Minas Gerais, mudou\npoderosamente o centro de gravidade da economia e da população brasileiras do Norte para o Centro e o Sul. [...] Embora os baianos tivessem voz considerável nos investimentos\nfeitos dentro das zonas de mineração, a logística do transporte pelo interior fez com que a balança comercial para e a\npartir das províncias do interior pendesse para as cidades do\nSul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso\ntornaram-se a hinterlândia crucial do porto do Rio de Janeiro.\nO Rio de Janeiro logo ultrapassou a Bahia em transporte marítimo e comércio internacional, e chegou rapidamente a uma\npopulação de 50 mil habitantes na capital. A Coroa reconheceu esta nova realidade [...], mudando a capital da colônia de\nSalvador para o Rio de Janeiro, em 1763.\n(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)\n\nO excerto registra uma transformação importante no processo de colonização da América portuguesa e caracteriza a conexão entre",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o aumento da densidade demográfica no Nordeste e o\ninício da ocupação dos territórios sertanejos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a preferência por modelos de transporte terrestre e a ausência de uma política de estímulo à navegação fluvial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os interesses financeiros de caráter regional e as disputas pelo controle do poder político na metrópole.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a constituição de novas formas de exploração de recursos naturais e a redefinição das relações entre classes\nsociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os processos de ocupação dos espaços geográficos e a\nreestruturação das dinâmicas político-econômicas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O excerto registra uma transformação importante no proces-\nso de colonização da América portuguesa e caracteriza a co-\nnexão entre\n(A) o aumento da densidade demográfica no Nordeste e o\ninício da ocupação dos territórios sertanejos.\n(B) a preferência por modelos de transporte terrestre e a au-\nsência de uma política de estímulo à navegação fluvial.\n(C) os interesses financeiros de caráter regional e as dispu-\ntas pelo controle do poder político na metrópole.\n(D) a constituição de novas formas de exploração de recur-\nsos naturais e a redefinição das relações entre classes\nsociais.\n(E) os processos de ocupação dos espaços geográficos e a\nreestruturação das dinâmicas político-econômicas.",
+    "sharedContext": "Leia o excerto para responder às questões 33 e 34.\nO boom na mineração do ouro, em Minas Gerais, mudou\npoderosamente o centro de gravidade da economia e da população brasileiras do Norte para o Centro e o Sul. [...] Embora os baianos tivessem voz considerável nos investimentos\nfeitos dentro das zonas de mineração, a logística do transporte pelo interior fez com que a balança comercial para e a\npartir das províncias do interior pendesse para as cidades do\nSul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso\ntornaram-se a hinterlândia crucial do porto do Rio de Janeiro.\nO Rio de Janeiro logo ultrapassou a Bahia em transporte marítimo e comércio internacional, e chegou rapidamente a uma\npopulação de 50 mil habitantes na capital. A Coroa reconheceu esta nova realidade [...], mudando a capital da colônia de\nSalvador para o Rio de Janeiro, em 1763.\n(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            257.15329999999994
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            257.15329999999994,
+            568,
+            503.9328
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

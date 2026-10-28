@@ -1,0 +1,88 @@
+{
+  "title": "Questão 13 - FUVEST 2025 - 1ª fase",
+  "index": 13,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "As formas de colonização ibérica e inglesa na América foram,\ndurante muito tempo, consideradas processos isolados,\nestruturados em dois modelos opostos: as colônias de\nexploração e as de povoamento, respectivamente. No\nentanto, elas constituíram um emaranhado de experiências\ncompartilhadas pelos impérios atlânticos. Os aspectos\ncomuns a essas formas de colonização foram a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "partida dos colonizadores da metrópole, da qual saíram\npor fatores religiosos, e a adoção do trabalho livre como\nbase da produção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "dominação e a exploração dos povos originários e o\nemprego sistemático do trabalho forçado dessas\npopulações.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "introdução de colonos sem interesse na ocupação\ndemográfica e o objetivo exclusivo da extração de riquezas\nminerais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "produção local organizada em pequenas propriedades e a\nutilização primordial da força de trabalho familiar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "falta de interesse metropolitano pela exploração comercial\ne a inexistência de benefícios financeiros para a metrópole.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nAs formas de colonização ibérica e inglesa na América foram,\ndurante muito tempo, consideradas processos isolados,\nestruturados em dois modelos opostos: as colônias de\nexploração e as de povoamento, respectivamente. No\nentanto, elas constituíram um emaranhado de experiências\ncompartilhadas pelos impérios atlânticos. Os aspectos\ncomuns a essas formas de colonização foram a\n(A) partida dos colonizadores da metrópole, da qual saíram\npor fatores religiosos, e a adoção do trabalho livre como\nbase da produção.\n(B) dominação e a exploração dos povos originários e o\nemprego sistemático do trabalho forçado dessas\npopulações.\n(C) introdução de colonos sem interesse na ocupação\ndemográfica e o objetivo exclusivo da extração de riquezas\nminerais.\n(D) produção local organizada em pequenas propriedades e a\nutilização primordial da força de trabalho familiar.\n(E) falta de interesse metropolitano pela exploração comercial\ne a inexistência de benefícios financeiros para a metrópole.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            334.0147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Colonizações ibérica e inglesa nas Américas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

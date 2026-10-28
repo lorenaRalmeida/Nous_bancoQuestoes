@@ -1,0 +1,94 @@
+{
+  "title": "Questão 30 - UNICAMP 2025 - 1ª fase",
+  "index": 30,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "A maioria dos países africanos tornaram-se independentes entre 1950 e 1975. Amílcar Cabral foi uma das lideranças que\nformularam projetos políticos para criar unidades nacionais\nno pós-independência. Ele havia nascido na Guiné-Bissau em\n1924; depois de seu nascimento, sua família se mudou para\nCabo Verde. Em 1945, obteve bolsa para estudar em Portugal; na Europa, entrou, então, em contato com as teorias do\nmovimento da negritude, panafricanismo e marxismo. De volta\nà África em 1952, ajudou a fundar o Partido Africano para a\nIndependência de Guiné e Cabo Verde (PAIGC, 1953), iniciando\na luta armada contra a metrópole em 1963. Em um discurso,\nCabral afirmou: “No nosso Partido ninguém dividiu; pelo contrário, cada dia nos unimos mais. Aqui não há papel, nem fula,\nnem mandinga, nem filhos de caboverdianos, nada disso.”\n(Adaptado de MALACCO, F. Unidade nacional e unidade continental: uma discussão\nacerca dos projetos políticos de Amílcar Cabral e Kwame Nkrumah. Revista Ars Historica,\n17, p. 78-100, jul/dez 2018.)\nCom base no excerto, marque a alternativa correta sobre o\nideário nacional proposto por Amílcar Cabral e pelo movimento\npor ele liderado.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Almejava, com base nas fronteiras dos reinos africanos que\nexistiam antes da chegada dos europeus, construir nações\nindependentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Buscava formar, para o enaltecimento das identidades\nétnicas que antecediam o colonialismo, uma grande unidade pan-africanista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Propunha um movimento de descolonização das culturas\nafricanas, o qual demandava a adoção de dialetos locais e a\nrejeição, como idioma nacional, das línguas europeias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Defendia, para fortalecer a luta contra a colonização e ideologia portuguesa, as unidades políticas nacionais posicionadas acima da diversidade de etnias africanas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A maioria dos países africanos tornaram-se independentes en-\ntre 1950 e 1975. Amílcar Cabral foi uma das lideranças que\nformularam projetos políticos para criar unidades nacionais\nno pós-independência. Ele havia nascido na Guiné-Bissau em\n1924; depois de seu nascimento, sua família se mudou para\nCabo Verde. Em 1945, obteve bolsa para estudar em Portu-\ngal; na Europa, entrou, então, em contato com as teorias do\nmovimento da negritude, panafricanismo e marxismo. De volta\nà África em 1952, ajudou a fundar o Partido Africano para a\nIndependência de Guiné e Cabo Verde (PAIGC, 1953), iniciando\na luta armada contra a metrópole em 1963. Em um discurso,\nCabral afirmou: “No nosso Partido ninguém dividiu; pelo con-\ntrário, cada dia nos unimos mais. Aqui não há papel, nem fula,\nnem mandinga, nem filhos de caboverdianos, nada disso.”\n(Adaptado de MALACCO, F. Unidade nacional e unidade continental: uma discussão\nacerca dos projetos políticos de Amílcar Cabral e Kwame Nkrumah. Revista Ars Historica,\n17, p. 78-100, jul/dez 2018.)\nCom base no excerto, marque a alternativa correta sobre o\nideário nacional proposto por Amílcar Cabral e pelo movimento\npor ele liderado.\na) Almejava, com base nas fronteiras dos reinos africanos que\nexistiam antes da chegada dos europeus, construir nações\nindependentes.\nb) Buscava formar, para o enaltecimento das identidades\nétnicas que antecediam o colonialismo, uma grande unida-\nde pan-africanista.\nc) Propunha um movimento de descolonização das culturas\nafricanas, o qual demandava a adoção de dialetos locais e a\nrejeição, como idioma nacional, das línguas europeias.\nd) Defendia, para fortalecer a luta contra a colonização e ideo-\nlogia portuguesa, as unidades políticas nacionais posiciona-\ndas acima da diversidade de etnias africanas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            603.1373,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            40,
+            568,
+            271.0725
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

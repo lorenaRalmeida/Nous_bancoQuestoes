@@ -1,0 +1,102 @@
+{
+  "title": "Questão 40 - FUVEST 2024 - 1ª fase",
+  "index": 40,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Os jardins de chuva, como o esquematizado na figura, vêm\nsendo implantados em áreas urbanas como uma alternativa\nde baixo custo para minimizar alagamentos. São canteiros de\nplantas que ocupam partes rebaixadas do terreno, com a\nfunção de reter parte das águas pluviais e diminuir sua\nvelocidade de escoamento. Para isso, o solo do jardim deve\nser preparado a fim de absorver a água e facilitar sua\ninfiltração, direcionando-a ao lençol freático. Outra vantagem\ndesses jardins é a retenção e decomposição de poluentes\ncarreados pelas águas pluviais. Ainda, ao mesclar diversos\ntipos de plantas, os jardins de chuva atraem animais e\naumentam a biodiversidade local.\nCom base na descrição e no esquema do jardim de chuva\napresentados, é correto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "esse jardim de chuva pode ser considerado um\necossistema, no qual componentes bióticos e abióticos\ninteragem numa dinâmica de autorregulação e\nautossustentação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "nesse jardim de chuva é possível identificar uma teia\nalimentar com dois níveis tróficos, no qual todos os\nanimais ocupam o nível dos consumidores secundários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "esse jardim contém plantas dicotiledôneas e\nmonocotiledôneas, caracterizadas por possuírem raízes\npivotantes, que aumentam a eficiência na absorção de água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o uso de plantas com grande superfície foliar pode\nprejudicar a eficiência de um jardim de chuva, diminuindo\na evapotranspiração da água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a decomposição que ocorre no jardim de chuva é feita por\norganismos parasitas, que transformam os detritos em\nnutrientes, resultando, na etapa final, em moléculas\norgânicas complexas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Os jardins de chuva, como o esquematizado na figura, vêm\nsendo implantados em áreas urbanas como uma alternativa\nde baixo custo para minimizar alagamentos. São canteiros de\nplantas que ocupam partes rebaixadas do terreno, com a\nfunção de reter parte das águas pluviais e diminuir sua\nvelocidade de escoamento. Para isso, o solo do jardim deve\nser preparado a fim de absorver a água e facilitar sua\ninfiltração, direcionando-a ao lençol freático. Outra vantagem\ndesses jardins é a retenção e decomposição de poluentes\ncarreados pelas águas pluviais. Ainda, ao mesclar diversos\ntipos de plantas, os jardins de chuva atraem animais e\naumentam a biodiversidade local.\nCom base na descrição e no esquema do jardim de chuva\napresentados, é correto afirmar que\n(A) esse jardim de chuva pode ser considerado um\necossistema, no qual componentes bióticos e abióticos\ninteragem numa dinâmica de autorregulação e\nautossustentação.\n(B) nesse jardim de chuva é possível identificar uma teia\nalimentar com dois níveis tróficos, no qual todos os\nanimais ocupam o nível dos consumidores secundários.\n(C) esse jardim contém plantas dicotiledôneas e\nmonocotiledôneas, caracterizadas por possuírem raízes\npivotantes, que aumentam a eficiência na absorção de água.\n(D) o uso de plantas com grande superfície foliar pode\nprejudicar a eficiência de um jardim de chuva, diminuindo\na evapotranspiração da água.\n(E) a decomposição que ocorre no jardim de chuva é feita por\norganismos parasitas, que transformam os detritos em\nnutrientes, resultando, na etapa final, em moléculas\norgânicas complexas.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Ecossistemas e interações bióticas e abióticas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

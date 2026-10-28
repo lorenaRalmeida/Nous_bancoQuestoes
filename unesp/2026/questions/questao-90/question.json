@@ -1,0 +1,106 @@
+{
+  "title": "Questão 90 - UNESP 2026 - 1ª fase",
+  "index": 90,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Uma empresa de apostas lucra 7% de todo o dinheiro apostado pelos jogadores e repassa 93% do dinheiro apostado\nde volta aos jogadores. Admita que, inicialmente, o volume\nde dinheiro apostado pelos jogadores seja igual a R reais, e\nque todos eles reapostem, consecutivamente, x vezes todo\no dinheiro que receberam de volta da empresa a cada nova\naposta.\nConsiderando que a soma dos n termos iniciais de uma progressão geométrica de primeiro termo a₁ e razão q é dada\npor a₁(1 − qⁿ)/(1 − q), se G(x) é o ganho, em reais, acumulado dessa\nempresa de apostas após x vezes em que os jogadores fizeram suas apostas, a fórmula que calcula G(x) é:",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "G(x) = R(1 − 0,07ˣ)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "G(x) = R(1 − 0,93ˣ)",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "G(x) = R(1 − 0,93ˣ)/0,07",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "G(x) = R(1 − 0,07ˣ)/0,93",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "G(x) = R · 0,93(1 − 0,07ˣ)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma empresa de apostas lucra 7% de todo o dinheiro apos-\ntado pelos jogadores e repassa 93% do dinheiro apostado\nde volta aos jogadores. Admita que, inicialmente, o volume\nde dinheiro apostado pelos jogadores seja igual a R reais, e\nque todos eles reapostem, consecutivamente, x vezes todo\no dinheiro que receberam de volta da empresa a cada nova\naposta.\nConsiderando que a soma dos n termos iniciais de uma pro-\ngressão geométrica de primeiro termo a e razão q é dada\n1\npor , se G(x) é o ganho, em reais, acumulado dessa\nempresa de apostas após x vezes em que os jogadores fize-\nram suas apostas, a fórmula que calcula G(x) é:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 38,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 38,
+        "bbox": [
+          313.6451,
+          155.07299999999998,
+          367.4721,
+          194.28999999999996
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

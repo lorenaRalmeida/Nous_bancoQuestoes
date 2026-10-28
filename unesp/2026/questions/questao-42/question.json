@@ -1,0 +1,98 @@
+{
+  "title": "Questão 42 - UNESP 2026 - 1ª fase",
+  "index": 42,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Os movimentos sociais em rede, como todos os movimentos sociais da história, trazem a marca de sua sociedade.\nSão amplamente constituídos de indivíduos que convivem\nconfortavelmente com as tecnologias digitais no mundo híbrido da realidade virtual. Seus valores, objetivos e estilo organizacional referem-se diretamente à cultura da autonomia\nque caracteriza as novas gerações de um novo século. Não\npoderiam existir sem a internet. Mas seu significado é muito\nmais profundo. Eles são talhados para o papel de agentes da\nmudança na sociedade em rede, num contraste agudo com\nas instituições políticas obsoletas herdadas de uma estrutura\nsocial historicamente superada.\n(Manuel Castells. Redes de indignação e esperança:\nmovimentos sociais na era da internet, 2013.)\nO tipo de movimento social caracterizado no excerto é\nexemplificado",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "na invasão russa da Ucrânia, que se concentrou na desmontagem das bases de comunicação digital ucranianas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "nos ataques do Hamas, que capturou pessoas em meio a\num festival de música e impediu que elas se comunicassem com parentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "na recente lei brasileira que proibiu o uso de celulares\npor estudantes nas escolas de educação básica e ensino\nsuperior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "no Occupy Wall Street, que reuniu investidores do mercado financeiro numa campanha de arrecadação de fundos\npela internet.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "na Primavera Árabe, que ocorreu em diversos países e\nrecorreu à circulação ágil de mensagens por redes sociais.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os movimentos sociais em rede, como todos os movi-\nmentos sociais da história, trazem a marca de sua sociedade.\nSão amplamente constituídos de indivíduos que convivem\nconfortavelmente com as tecnologias digitais no mundo hí-\nbrido da realidade virtual. Seus valores, objetivos e estilo or-\nganizacional referem-se diretamente à cultura da autonomia\nque caracteriza as novas gerações de um novo século. Não\npoderiam existir sem a internet. Mas seu significado é muito\nmais profundo. Eles são talhados para o papel de agentes da\nmudança na sociedade em rede, num contraste agudo com\nas instituições políticas obsoletas herdadas de uma estrutura\nsocial historicamente superada.\n(Manuel Castells. Redes de indignação e esperança:\nmovimentos sociais na era da internet, 2013.)\nO tipo de movimento social caracterizado no excerto é\nexemplificado\n(A) na invasão russa da Ucrânia, que se concentrou na des-\nmontagem das bases de comunicação digital ucranianas.\n(B) nos ataques do Hamas, que capturou pessoas em meio a\num festival de música e impediu que elas se comunicas-\nsem com parentes.\n(C) na recente lei brasileira que proibiu o uso de celulares\npor estudantes nas escolas de educação básica e ensino\nsuperior.\n(D) no Occupy Wall Street, que reuniu investidores do merca-\ndo financeiro numa campanha de arrecadação de fundos\npela internet.\n(E) na Primavera Árabe, que ocorreu em diversos países e\nrecorreu à circulação ágil de mensagens por redes sociais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

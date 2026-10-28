@@ -1,0 +1,100 @@
+{
+  "title": "Questão 56 - UNESP 2023 - 1ª fase",
+  "index": 56,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Texto 1\n(Wesley Samp. www.depositodowes.com, 17.12.2008.)\nTexto 2\nA concepção de real e virtual pensados como um contínuo se vê reforçada pela percepção de que um registro afeta o outro. Tal ideia é sustentada por autores que concebem\na internet como uma ferramenta para veicular as subjetividades de nossa época, mas não só. […] Segundo Viganò,\n“o advento da internet contribui potencialmente para fazer\nda assim dita realidade virtual um elemento constitutivo da\nrealidade social”.\n(Flávia Hasky e Isabel Fortes. “Desconstruindo polarizações acerca da\ninternet: entrelaçamentos entre os universos on-line e off-line”.\nPsicologia em Pesquisa, 2022.)\nO contraste entre esses textos permite retomar, na atualidade, uma clássica questão filosófica, “o que é real?”, pois a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "análise das relações virtuais ocorre dissociada das relações presenciais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ação individual segue inalterada ao longo do tempo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "invenção de novas tecnologias reformula o conceito de\nrealidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "disponibilidade de conexão à internet amplia o conhecimento humano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "criação de mídias digitais estimula a imaginação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\n(Wesley Samp. www.depositodowes.com, 17.12.2008.)\nTexto 2\nA concepção de real e virtual pensados como um contí-\nnuo se vê reforçada pela percepção de que um registro afe-\nta o outro. Tal ideia é sustentada por autores que concebem\na internet como uma ferramenta para veicular as subjetivi-\ndades de nossa época, mas não só. […] Segundo Viganò,\n“o advento da internet contribui potencialmente para fazer\nda assim dita realidade virtual um elemento constitutivo da\nrealidade social”.\n(Flávia Hasky e Isabel Fortes. “Desconstruindo polarizações acerca da\ninternet: entrelaçamentos entre os universos on-line e off-line”.\nPsicologia em Pesquisa, 2022.)\nO contraste entre esses textos permite retomar, na atualida-\nde, uma clássica questão filosófica, “o que é real?”, pois a\n(A) análise das relações virtuais ocorre dissociada das rela-\nções presenciais.\n(B) ação individual segue inalterada ao longo do tempo.\n(C) invenção de novas tecnologias reformula o conceito de\nrealidade.\n(D) disponibilidade de conexão à internet amplia o conheci-\nmento humano.\n(E) criação de mídias digitais estimula a imaginação.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            26.109199999999987,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

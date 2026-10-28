@@ -1,0 +1,88 @@
+{
+  "title": "Questão 64 - UNESP 2025 - 1ª fase",
+  "index": 64,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Vendeu seu sangue e nem falou comigo antes? O que as\npessoas vão dizer se souberem que alguém da família andou\nvendendo sangue? Vão dizer que Xu Sanguan vendeu sangue, que Xu Sanguan é um fracassado, que vendeu o próprio\nsangue. Quando eu era pequena, meu pai me dizia que o\nsangue de uma pessoa é passado por seus ancestrais. Uma\npessoa pode vender roscas, vender uma casa, vender sua\nterra, mas nunca vender seu sangue. Mas vender o sangue\né como vender os ancestrais. Você vendeu seus ancestrais,\nXu Sanguan!\n(Yu Hua. Crônica de um vendedor de sangue, 2011. Adaptado.)\nNo excerto, a ideia de que o sangue de uma pessoa é passado por seus ancestrais está relacionada à transmissão hereditária das informações genéticas. Os componentes sanguíneos que contêm informações genéticas ancestrais são\napenas",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o plasma e as plaquetas, pois contêm núcleos compostos\npor moléculas de DNA circulares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os leucócitos, pois apresentam moléculas de DNA nuclear compostas por sequências de nucleotídeos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o plasma e os leucócitos, que apresentam histonas específicas que definem a sequência de aminoácidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as hemácias e as plaquetas, que são células revestidas\npor glicocálix, substâncias que atuam no reconhecimento\ncelular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as hemácias, pois possuem moléculas de hemoglobina\ncompostas por uma sequência de bases nitrogenadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Vendeu seu sangue e nem falou comigo antes? O que as\npessoas vão dizer se souberem que alguém da família andou\nvendendo sangue? Vão dizer que Xu Sanguan vendeu san-\ngue, que Xu Sanguan é um fracassado, que vendeu o próprio\nsangue. Quando eu era pequena, meu pai me dizia que o\nsangue de uma pessoa é passado por seus ancestrais. Uma\npessoa pode vender roscas, vender uma casa, vender sua\nterra, mas nunca vender seu sangue. Mas vender o sangue\né como vender os ancestrais. Você vendeu seus ancestrais,\nXu Sanguan!\n(Yu Hua. Crônica de um vendedor de sangue, 2011. Adaptado.)\nNo excerto, a ideia de que o sangue de uma pessoa é pas-\nsado por seus ancestrais está relacionada à transmissão he-\nreditária das informações genéticas. Os componentes san-\nguíneos que contêm informações genéticas ancestrais são\napenas\n(A) o plasma e as plaquetas, pois contêm núcleos compostos\npor moléculas de DNA circulares.\n(B) os leucócitos, pois apresentam moléculas de DNA nu-\nclear compostas por sequências de nucleotídeos.\n(C) o plasma e os leucócitos, que apresentam histonas espe-\ncíficas que definem a sequência de aminoácidos.\n(D) as hemácias e as plaquetas, que são células revestidas\npor glicocálix, substâncias que atuam no reconhecimento\ncelular.\n(E) as hemácias, pois possuem moléculas de hemoglobina\ncompostas por uma sequência de bases nitrogenadas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            439.64459999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

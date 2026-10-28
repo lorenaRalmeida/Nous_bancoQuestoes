@@ -1,0 +1,100 @@
+{
+  "title": "Questão 39 - UNESP 2024 - 1ª fase",
+  "index": 39,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise a imagem, que mostra a queima de café em Santos,\nSP, em 1931.\n(https://epoca.oglobo.globo.com)\nA cena, ocorrida durante o governo provisório de Getúlio Vargas, resulta",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da ausência de um plano de apoio governamental ao\nagronegócio, motor das exportações brasileiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da disposição de Vargas de destruir estoques de café\npara reduzir a força política e econômica dos cafeicultores paulistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "dos limites do projeto varguista de erradicar a fome no\npaís por meio da proibição da exportação de alimentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "do projeto de industrialização implementado por Vargas,\nque retirava a subvenção ao setor agrário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "dos impasses de uma economia de base agroexportadora, afetada pela contração do mercado consumidor\ninternacional.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a imagem, que mostra a queima de café em Santos,\nSP, em 1931.\n(https://epoca.oglobo.globo.com)\nA cena, ocorrida durante o governo provisório de Getúlio Var-\ngas, resulta\n(A) da ausência de um plano de apoio governamental ao\nagronegócio, motor das exportações brasileiras.\n(B) da disposição de Vargas de destruir estoques de café\npara reduzir a força política e econômica dos cafeiculto-\nres paulistas.\n(C) dos limites do projeto varguista de erradicar a fome no\npaís por meio da proibição da exportação de alimentos.\n(D) do projeto de industrialização implementado por Vargas,\nque retirava a subvenção ao setor agrário.\n(E) dos impasses de uma economia de base agroexporta-\ndora, afetada pela contração do mercado consumidor\ninternacional.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

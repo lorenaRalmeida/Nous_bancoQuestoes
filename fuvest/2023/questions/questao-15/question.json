@@ -1,0 +1,92 @@
+{
+  "title": "Questão 15 - FUVEST 2023 - 1ª fase",
+  "index": 15,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A figura representa três momentos sucessivos da população\nadulta de uma determinada espécie de peixe em uma região\nna qual há atividade pesqueira. O momento I representa a\ncomposição da população adulta antes da pesca. No\nmomento II, observam-se os sobreviventes adultos logo após\na pesca. O momento III representa os indivíduos adultos após\nalguns ciclos de reprodução.\nDisponível em https://blogs.ubc.ca/oceancons/. Adaptado.\nBaseado na figura, é correto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o impacto causado pela atividade de pesca alterou a\nprodutividade primária do local, o que resultou em uma\npopulação de peixes menores ao longo do tempo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a população não conseguiu recuperar sua abundância de\nindivíduos após a atividade de pesca, o que a levará ao\ncolapso a médio e longo prazos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os indivíduos maiores não conseguem se reproduzir\ndepois da pesca devido ao estresse fisiológico causado por\nessa atividade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "essa atividade de pesca é sustentável a longo prazo e não\ncausa impacto à população de peixes daquele local.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a pesca priorizou os peixes maiores, causando uma\nseleção artificial que resultou em uma população de\npeixes menores ao longo do tempo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A figura representa três momentos sucessivos da população\nadulta de uma determinada espécie de peixe em uma região\nna qual há atividade pesqueira. O momento I representa a\ncomposição da população adulta antes da pesca. No\nmomento II, observam-se os sobreviventes adultos logo após\na pesca. O momento III representa os indivíduos adultos após\nalguns ciclos de reprodução.\nDisponível em https://blogs.ubc.ca/oceancons/. Adaptado.\nBaseado na figura, é correto afirmar que\n(A) o impacto causado pela atividade de pesca alterou a\nprodutividade primária do local, o que resultou em uma\npopulação de peixes menores ao longo do tempo.\n(B) a população não conseguiu recuperar sua abundância de\nindivíduos após a atividade de pesca, o que a levará ao\ncolapso a médio e longo prazos.\n(C) os indivíduos maiores não conseguem se reproduzir\ndepois da pesca devido ao estresse fisiológico causado por\nessa atividade.\n(D) essa atividade de pesca é sustentável a longo prazo e não\ncausa impacto à população de peixes daquele local.\n(E) a pesca priorizou os peixes maiores, causando uma\nseleção artificial que resultou em uma população de\npeixes menores ao longo do tempo.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            532.6146
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "topic": "Seleção natural sob pressão de pesca",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

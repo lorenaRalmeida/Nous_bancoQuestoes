@@ -1,0 +1,100 @@
+{
+  "title": "Questão 53 - FUVEST 2025 - 1ª fase",
+  "index": 53,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A Estação Meteorológica Mirante de Santana é a principal\nreferência do Instituto Nacional de Meteorologia (INMET) no\nmunicípio de São Paulo - SP. O climograma a seguir apresenta\ndados referentes ao mês de fevereiro de 2023. Neste mesmo\nmês, o Centro de Gerenciamento de Emergências Climáticas\ndetectou 11 pontos de alagamentos no dia 19 e 14 pontos no\ndia 21.\nDisponível em https://portal.inmet.gov.br/noticias/ (Adaptado).\nCom base no texto e no gráfico, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A menor amplitude térmica ocorreu no dia 19, quando foi\nobservado um dos maiores volumes de chuva do mês.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Os quatro dias mais chuvosos apresentaram as menores\ntemperaturas mínimas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A temperatura máxima no período variou entre 21,5 °C e\n17,8 °C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os cinco dias mais quentes correspondem às maiores\nprecipitações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Os pontos de alagamento nos dias 19 e 21 foram\nprovocados pela chuva acumulada de 428,9 mm.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA Estação Meteorológica Mirante de Santana é a principal\nreferência do Instituto Nacional de Meteorologia (INMET) no\nmunicípio de São Paulo - SP. O climograma a seguir apresenta\ndados referentes ao mês de fevereiro de 2023. Neste mesmo\nmês, o Centro de Gerenciamento de Emergências Climáticas\ndetectou 11 pontos de alagamentos no dia 19 e 14 pontos no\ndia 21.\nDisponível em https://portal.inmet.gov.br/noticias/ (Adaptado).\nCom base no texto e no gráfico, assinale a alternativa correta.\n(A) A menor amplitude térmica ocorreu no dia 19, quando foi\nobservado um dos maiores volumes de chuva do mês.\n(B) Os quatro dias mais chuvosos apresentaram as menores\ntemperaturas mínimas.\n(C) A temperatura máxima no período variou entre 21,5 °C e\n17,8 °C.\n(D) Os cinco dias mais quentes correspondem às maiores\nprecipitações.\n(E) Os pontos de alagamento nos dias 19 e 21 foram\nprovocados pela chuva acumulada de 428,9 mm.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            297.5,
+            97.19470000000001,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Climograma e chuvas urbanas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

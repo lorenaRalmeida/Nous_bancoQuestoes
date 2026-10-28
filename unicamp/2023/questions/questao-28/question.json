@@ -1,0 +1,84 @@
+{
+  "title": "Questão 28 - UNICAMP 2023 - 1ª fase",
+  "index": 28,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "De que se trata essa biopolítica, esse biopoder? A nova tecnologia do poder que se instala se dirige à multiplicidade dos\nhomens, não na medida em que eles se resumem em corpos,\nmas na medida em que ela forma, ao contrário, uma massa\nglobal, afetada por processos de conjunto que são próprios da\nvida, que são processos como o nascimento, a morte, a produção, a doença etc. É com o nascimento da biopolítica que se\nlança mão da medição estatística desses fenômenos para fins\nde regulamentação e de intervenção. Um novo tipo de poder\nque consiste em fazer viver e em deixar morrer.\n(Adaptado de FOUCAULT, Michel. Em defesa da sociedade. São Paulo: WMF Martins\nFontes, 2010, p. 204.)\nComo tecnologia de poder, a biopolítica se inscreve no corpo",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do indivíduo como problema existencial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da família como problema reprodutivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da escola como problema disciplinar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da população como problema político.\nUse os valores aproximados: g = 10 m/s2 e π = 3.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "De que se trata essa biopolítica, esse biopoder? A nova tec-\nnologia do poder que se instala se dirige à multiplicidade dos\nhomens, não na medida em que eles se resumem em corpos,\nmas na medida em que ela forma, ao contrário, uma massa\nglobal, afetada por processos de conjunto que são próprios da\nvida, que são processos como o nascimento, a morte, a produ-\nção, a doença etc. É com o nascimento da biopolítica que se\nlança mão da medição estatística desses fenômenos para fins\nde regulamentação e de intervenção. Um novo tipo de poder\nque consiste em fazer viver e em deixar morrer.\n(Adaptado de FOUCAULT, Michel. Em defesa da sociedade. São Paulo: WMF Martins\nFontes, 2010, p. 204.)\nComo tecnologia de poder, a biopolítica se inscreve no corpo\na) do indivíduo como problema existencial.\nb) da família como problema reprodutivo.\nc) da escola como problema disciplinar.\nd) da população como problema político.\nUse os valores aproximados: g = 10 m/s2 e π = 3.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            136.85669999999993,
+            291,
+            562.9512
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

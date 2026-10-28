@@ -1,0 +1,103 @@
+{
+  "title": "Questão 85 - FUVEST 2023 - 1ª fase",
+  "index": 85,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A FIFA (Federação Internacional de Futebol) implementou, em 2018, a versão mais recente do ranking das seleções. Suponha que as seleções A e B, com pontuações P_A e P_B, respectivamente, disputarão uma final de Copa do Mundo.\n\nA pontuação atualizada da seleção A após a partida será dada por\n\nP′_A = P_A + 60(V_A − E_A),\n\nonde\n\nE_A = 10^((P_A − P_B)/600) / [1 + 10^((P_A − P_B)/600)]\n\ne o valor de V_A depende do resultado da partida de acordo com a tabela:\n\nResultado da partida | Valor de V_A\nVitória de A | 1\nEmpate | 0,5\nDerrota de A | 0\n\nSabendo que P_A − P_B = 360, se a seleção A vencer a partida, sua pontuação aumentará em\n\nNote e adote:\nlog₁₀ 2 = 0,3.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "6 pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "10 pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "12 pontos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "15 pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "20 pontos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A FIFA (Federação Internacional de Futebol) implementou, em\n2018, a versão mais recente do ranking das seleções. Suponha\nque as seleções A e B, com pontuações 𝑃 e 𝑃 ,\n(cid:3002) (cid:3003)\nrespectivamente, disputarão uma final de Copa do Mundo.\nA pontuação atualizada da seleção A após a partida será dada\npor\n𝑃(cid:4593) =𝑃 +60(𝑉 −𝐸 ),\n(cid:3002) (cid:3002) (cid:3002) (cid:3002)\nonde\n(cid:3017)(cid:3250)(cid:2879)(cid:3017)(cid:3251)\n10 (cid:2874)(cid:2868)(cid:2868)\n𝐸 =\n(cid:3002) (cid:3017)(cid:3250)(cid:2879)(cid:3017)(cid:3251)\n1+10 (cid:2874)(cid:2868)(cid:2868)\ne o valor de 𝑉 depende do resultado da partida de acordo\n(cid:3002)\ncom a tabela:\nResultado da partida Valor de 𝑉\n(cid:3002)\nVitória de A 1\nEmpate 0,5\nDerrota de A 0\nSabendo que 𝑃 −𝑃 =360, se a seleção A vencer a partida,\n(cid:3002) (cid:3003)\nsua pontuação aumentará em\n(A) 6 pontos.\n(B) 10 pontos.\n(C) 12 pontos.\n(D) 15 pontos.\n(E) 20 pontos.\nNote e adote:\n𝑙𝑜𝑔 2=0,3\n(cid:2869)(cid:2868)",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            28,
+            572.9947,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            264.53470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Função exponencial e ranking esportivo",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

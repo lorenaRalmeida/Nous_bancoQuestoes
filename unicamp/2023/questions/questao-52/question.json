@@ -1,0 +1,107 @@
+{
+  "title": "Questão 52 - UNICAMP 2023 - 1ª fase",
+  "index": 52,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Uma transformação de Möbius é um quociente de polinômios de grau 1. Considere a função f(x) = (x + 1)/(x − 1), definida para x ∈ ℝ, x ≠ 1.\n\nConsidere a sequência x₁, x₂, …, definida por x₁ = 6, e, para cada n ≥ 1, temos xₙ₊₁ = f(xₙ), ou seja:\n• x₁ = 6;\n• x₂ = f(x₁) = 7/5;\n• x₃ = f(x₂);\ne assim sucessivamente. Então, a soma dos 100 primeiros termos desta sequência vale",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "140.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "370.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "600.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "740.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considere a sequência x,x ,..., definida por x =6, e para\n1 2 1\ncada n≥1, temos x = f(x ), ou seja,\nn+1 n\n• x =6,\n1\n7\n• x = f(x )= ,\n2 1 5\n• x = f(x ),\n3 2\ne assim sucessivamente. Então, a soma dos 100 primeiros ter-\nmos desta sequência vale\na) 140. c) 600.\nb) 370. d) 740.",
+    "sharedContext": "Leia o texto a seguir para responder às questões 51 e 52.\nUma transformação de Möbius é um quociente de polinômios\nde grau 1. Essas transformações são muito importantes em\ncomputação gráfica e também na área da engenharia conhecida como “processamento de sinais”.\nConsidere a função\nx+1\ny= f(x)= ,\nx−1\ndefinida para x∈, x ≠ 1, que é uma versão simplificada de\numa transformação de Möbius.",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            645.2991,
+            568,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            236.73259999999993,
+            291,
+            474.2656
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

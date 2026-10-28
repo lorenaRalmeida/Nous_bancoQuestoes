@@ -1,0 +1,82 @@
+{
+  "title": "Questão 22 - UNICAMP 2023 - 1ª fase",
+  "index": 22,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Tem se tornado lugar comum dizer que o gigantesco volume de\ndados extraídos de nossa vida cotidiana está armazenado “na\nnuvem”. É quase como dizer: estão por toda a parte e em lugar\nnenhum. Flutuam. Se damos, contudo, um passo para além das\nmetáforas, nos depararemos com a robusta infraestrutura do\ncapitalismo digital, que está ancorada em territórios concretos\ne se inscreve numa geografia do poder. É assim que, segundo a\nUNCTAD (2021), de um total de 4.714 data centers existentes\nno mundo, quase 80% estão em países desenvolvidos, principalmente nos EUA e países da Europa ocidental.\nSobre os data centers e sua distribuição, é correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "são infraestruturas concentradas no Norte Global que, por\nserem públicas, controladas pelo Estado, têm seu impacto\nminimizado em questões geopolíticas que perpassam essa\nparte do mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o processo de desenvolvimento geograficamente desigual\npouco atua na distribuição da infraestrutura digital e na coleta, armazenagem e tratamento de dados entre as regiões\ndo mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "sua rarefação no Sul-Global indica que a coleta, a armazenagem e o tratamento dos dados levanta grave problema\nrelativo à soberania dos Estados nacionais dessa parte do\nmundo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "à medida em que se ampliam a coleta e o tratamento massivo de dados das sociedades, países de todos os continentes\nestão adotando robustas políticas de infraestrutura digital.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Tem se tornado lugar comum dizer que o gigantesco volume de\ndados extraídos de nossa vida cotidiana está armazenado “na\nnuvem”. É quase como dizer: estão por toda a parte e em lugar\nnenhum. Flutuam. Se damos, contudo, um passo para além das\nmetáforas, nos depararemos com a robusta infraestrutura do\ncapitalismo digital, que está ancorada em territórios concretos\ne se inscreve numa geografia do poder. É assim que, segundo a\nUNCTAD (2021), de um total de 4.714 data centers existentes\nno mundo, quase 80% estão em países desenvolvidos, princi-\npalmente nos EUA e países da Europa ocidental.\nSobre os data centers e sua distribuição, é correto afirmar que\na) são infraestruturas concentradas no Norte Global que, por\nserem públicas, controladas pelo Estado, têm seu impacto\nminimizado em questões geopolíticas que perpassam essa\nparte do mundo.\nb) o processo de desenvolvimento geograficamente desigual\npouco atua na distribuição da infraestrutura digital e na co-\nleta, armazenagem e tratamento de dados entre as regiões\ndo mundo.\nc) sua rarefação no Sul-Global indica que a coleta, a armaze-\nnagem e o tratamento dos dados levanta grave problema\nrelativo à soberania dos Estados nacionais dessa parte do\nmundo.\nd) à medida em que se ampliam a coleta e o tratamento massi-\nvo de dados das sociedades, países de todos os continentes\nestão adotando robustas políticas de infraestrutura digital.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            308.0901,
+            291,
+            712.6176
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

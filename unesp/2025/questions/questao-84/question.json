@@ -1,0 +1,218 @@
+{
+  "title": "Questão 84 - UNESP 2025 - 1ª fase",
+  "index": 84,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A fórmula de conversão entre a temperatura T_C, em graus Celsius, e a temperatura T_F, em graus Fahrenheit, é T_C = 5(T_F − 32)/9. Para cálculos rápidos, ainda que não totalmente precisos, pode-se usar a fórmula T′_C = (T_F − 30)/2, em que T′_C é a temperatura aproximada, em graus Celsius, da temperatura T_F, em graus Fahrenheit.\nConsiderando que o erro absoluto E(T_F), cometido pela fórmula de valores aproximados em relação à fórmula de valores precisos, seja dado pela função modular E(T_F) = |T_C − T′_C|, seu gráfico pode ser representado por:",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png",
+    "alternativa-E-02.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A fórmula de conversão entre a temperatura , em graus\nCelsius, e a temperatura , em graus Fahrenheit, é\n. Para cálculos rápidos, ainda que não\ntotalmente precisos, pode-se usar a fórmula ,\nem que é a temperatura aproximada, em graus Celsius,\nda temperatura , em graus Fahrenheit.\nConsiderando que o erro absoluto E( ), cometido pela\nfórmula de valores aproximados em relação à fórmula de\nvalores precisos, seja dado pela função modular\n, seu gráfico pode ser representado por:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png",
+        "alternativa-E-02.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 30,
+        "bbox": [
+          224.05630000000002,
+          46.52649999999994,
+          250.7885,
+          68.34929999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 30,
+        "bbox": [
+          150.8752,
+          58.49390000000005,
+          176.9016,
+          82.73689999999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 30,
+        "bbox": [
+          30,
+          71.88159999999993,
+          105.7579,
+          105.49710000000005
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 30,
+        "bbox": [
+          225.6561,
+          88.83549999999991,
+          291,
+          122.2586
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 30,
+        "bbox": [
+          62.5667,
+          112.37060000000008,
+          91.2831,
+          136.95849999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 30,
+        "bbox": [
+          94.2135,
+          127.88930000000005,
+          120.23989999999999,
+          152.1323
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 30,
+        "bbox": [
+          197.64260000000002,
+          142.7088,
+          223.6691,
+          166.95190000000002
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 30,
+        "bbox": [
+          30,
+          184.1169,
+          112.09600247,
+          210.3116
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

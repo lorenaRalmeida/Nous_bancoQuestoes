@@ -1,0 +1,144 @@
+{
+  "title": "Questão 78 - UNESP 2024 - 1ª fase",
+  "index": 78,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Em uma brincadeira, uma pessoa coloca um copo com a\nboca para baixo, encostada na superfície parada da água de\numa piscina e, cuidadosamente, o afunda 2,5 m abaixo da\nsuperfície da água, onde mantém o copo em repouso, ainda\nde boca para baixo, com um pouco de ar aprisionado em seu\ninterior e com um pouco de água que entrou no copo. A figura\nmostra o copo nessas duas posições.\nfora de escala\nConsidere o ar um gás ideal e os valores para a\ndensidade da água da piscina, 105 Pa para a pressão atmosférica local e para a aceleração da gravidade. Sendo\nV o volume ocupado pelo ar no copo na posição inicial, V o\n1 2\nvolume ocupado pelo ar no copo na posição final, e considerando a temperatura do ar dentro do copo constante nesse\nprocesso, o valor da razão é",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,50.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,80.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "0,75.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,25.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,40.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em uma brincadeira, uma pessoa coloca um copo com a\nboca para baixo, encostada na superfície parada da água de\numa piscina e, cuidadosamente, o afunda 2,5 m abaixo da\nsuperfície da água, onde mantém o copo em repouso, ainda\nde boca para baixo, com um pouco de ar aprisionado em seu\ninterior e com um pouco de água que entrou no copo. A figura\nmostra o copo nessas duas posições.\nfora de escala\nConsidere o ar um gás ideal e os valores para a\ndensidade da água da piscina, 105 Pa para a pressão atmos-\nférica local e para a aceleração da gravidade. Sendo\nV o volume ocupado pelo ar no copo na posição inicial, V o\n1 2\nvolume ocupado pelo ar no copo na posição final, e conside-\nrando a temperatura do ar dentro do copo constante nesse\nprocesso, o valor da razão é\n(A) 0,50.\n(B) 0,80.\n(C) 0,75.\n(D) 0,25.\n(E) 0,40.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 29,
+        "bbox": [
+          315.8037,
+          132.33209999999997,
+          550.869,
+          332.83398
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 29,
+        "bbox": [
+          490.5206,
+          340.5457,
+          535.556,
+          376.4756
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 29,
+        "bbox": [
+          355.4991,
+          382.90469999999993,
+          398.172,
+          417.2691
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 29,
+        "bbox": [
+          411.939,
+          457.8744,
+          441.939,
+          487.3427
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

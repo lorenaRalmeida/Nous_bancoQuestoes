@@ -1,0 +1,98 @@
+{
+  "title": "Questão 48 - UNESP 2023 - 1ª fase",
+  "index": 48,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Ao longo do século XIX, os estímulos à ampla imigração para\no Brasil apresentaram como marcos",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a política econômica desenvolvimentista e a formação de\náreas de união aduaneira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a escalada de discursos nacionalistas e a ocupação de\náreas de fronteira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a independência em relação a Portugal e a proibição do\ntráfico de escravizados.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a concessão de terras para projetos industriais e a incorporação de mão de obra fabril qualificada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a superação da segregação racial e a melhora dos elementos que compõem o IDH.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Ao longo do século XIX, os estímulos à ampla imigração para\no Brasil apresentaram como marcos\n(A) a política econômica desenvolvimentista e a formação de\náreas de união aduaneira.\n(B) a escalada de discursos nacionalistas e a ocupação de\náreas de fronteira.\n(C) a independência em relação a Portugal e a proibição do\ntráfico de escravizados.\n(D) a concessão de terras para projetos industriais e a incor-\nporação de mão de obra fabril qualificada.\n(E) a superação da segregação racial e a melhora dos ele-\nmentos que compõem o IDH.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            476.1466,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

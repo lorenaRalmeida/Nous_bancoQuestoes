@@ -1,0 +1,98 @@
+{
+  "title": "Questão 39 - UNESP 2025 - 1ª fase",
+  "index": 39,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Longe de seus pequenos vilarejos, os imigrantes italianos, oriundos de diferentes províncias, nunca estiveram tão\npróximos quanto em São Paulo. Embora sob o manto da recém-unificada Itália, eles não traziam ainda na alma o maior\nelemento de coesão de um povo: uma matriz nacional comum. A unificação italiana era ainda um conceito abstrato,\nque pouco significado tinha para a maioria da população, cuja\nconsciência de pertencer a um grupo não ia muito além dos\nestreitos limites do burgo que habitavam. Em São Paulo partilhariam, talvez pela primeira vez, uma história em comum,\nque seria elaborada coletivamente.\n(Mirian Silva Rossi. Fronteiras da pátria:\ndos campos sem vida aos campos de morte, 2018.)\nO excerto aborda a condição dos imigrantes italianos em São\nPaulo no início do século XX e atesta que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a maioria dos italianos que emigraram para o Brasil foi\nexpulsa de seu país de origem por envolvimento em\nações políticas socialistas e anarquistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a inexistência de um sistema de acolhimento de imigrantes no Brasil gerou a necessidade de eles se associarem\nnuma comunidade solidária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a população italiana que imigrou em São Paulo dedicou-se predominantemente aos trabalhos nas fábricas\nde tecidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a constituição de vínculos na terra de destino foi fundamental para a construção de uma identidade comum\nentre os imigrantes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "a unificação italiana criou rapidamente um sentimento\nde identidade nacional tanto nos italianos que viviam na\nEuropa quanto nos italianos emigrados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Longe de seus pequenos vilarejos, os imigrantes italia-\nnos, oriundos de diferentes províncias, nunca estiveram tão\npróximos quanto em São Paulo. Embora sob o manto da re-\ncém-unificada Itália, eles não traziam ainda na alma o maior\nelemento de coesão de um povo: uma matriz nacional co-\nmum. A unificação italiana era ainda um conceito abstrato,\nque pouco significado tinha para a maioria da população, cuja\nconsciência de pertencer a um grupo não ia muito além dos\nestreitos limites do burgo que habitavam. Em São Paulo par-\ntilhariam, talvez pela primeira vez, uma história em comum,\nque seria elaborada coletivamente.\n(Mirian Silva Rossi. Fronteiras da pátria:\ndos campos sem vida aos campos de morte, 2018.)\nO excerto aborda a condição dos imigrantes italianos em São\nPaulo no início do século XX e atesta que\n(A) a maioria dos italianos que emigraram para o Brasil foi\nexpulsa de seu país de origem por envolvimento em\nações políticas socialistas e anarquistas.\n(B) a inexistência de um sistema de acolhimento de imigran-\ntes no Brasil gerou a necessidade de eles se associarem\nnuma comunidade solidária.\n(C) a população italiana que imigrou em São Paulo dedi-\ncou-se predominantemente aos trabalhos nas fábricas\nde tecidos.\n(D) a constituição de vínculos na terra de destino foi fun-\ndamental para a construção de uma identidade comum\nentre os imigrantes.\n(E) a unificação italiana criou rapidamente um sentimento\nde identidade nacional tanto nos italianos que viviam na\nEuropa quanto nos italianos emigrados.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            310.3061,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

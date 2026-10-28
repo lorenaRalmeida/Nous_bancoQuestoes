@@ -1,0 +1,98 @@
+{
+  "title": "Questão 42 - UNESP 2025 - 1ª fase",
+  "index": 42,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Nenhuma grande crise internacional montou o palco para\n9 de novembro de 1989. A queda do Muro não resultou de\nalgum confronto entre grandes potências. Não houve retórica\nemocionante, qualquer ameaça de guerra, nenhum político\nencenando ante as câmeras. [...]\nO chanceler alemão Helmut Kohl estava em visita oficial\nà Polônia. O presidente George H. W. Bush soube dos acontecimentos por intermédio de seu assessor de segurança nacional Brent Scowcroft, que ficou sabendo pelo noticiário da\ntelevisão. Juntos, os dois foram para o estúdio privado do\npresidente, ao lado da Sala Oval, e ligaram a TV. “Meu Deus”,\ndisse Bush a seus auxiliares, “se os soviéticos vão deixar os\ncomunistas caírem na Alemanha Oriental, eles devem estar\nrealmente falando sério — mais sério do que eu achava”.\n(Michael Meyer. 1989: o ano que mudou o mundo:\na verdadeira história da queda do Muro de Berlim, 2009.)\nO excerto afirma que a queda do Muro de Berlim, em 1989,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "foi resultado exclusivo de uma ação espontânea dos setores trabalhadores da Alemanha Ocidental e da Alemanha Oriental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "surpreendeu lideranças políticas e valeu-se do processo\nde abertura política então em curso na União Soviética.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "contou com planejamento e participação ativa das principais potências do Ocidente capitalista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "determinou um novo panorama nas relações internacionais e abriu espaço para a liderança internacional dos\nEstados Unidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "decorreu da oposição dos socialistas aos comunistas e\nda divisão da Alemanha no pós-Segunda Guerra Mundial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Nenhuma grande crise internacional montou o palco para\n9 de novembro de 1989. A queda do Muro não resultou de\nalgum confronto entre grandes potências. Não houve retórica\nemocionante, qualquer ameaça de guerra, nenhum político\nencenando ante as câmeras. [...]\nO chanceler alemão Helmut Kohl estava em visita oficial\nà Polônia. O presidente George H. W. Bush soube dos acon-\ntecimentos por intermédio de seu assessor de segurança na-\ncional Brent Scowcroft, que ficou sabendo pelo noticiário da\ntelevisão. Juntos, os dois foram para o estúdio privado do\npresidente, ao lado da Sala Oval, e ligaram a TV. “Meu Deus”,\ndisse Bush a seus auxiliares, “se os soviéticos vão deixar os\ncomunistas caírem na Alemanha Oriental, eles devem estar\nrealmente falando sério — mais sério do que eu achava”.\n(Michael Meyer. 1989: o ano que mudou o mundo:\na verdadeira história da queda do Muro de Berlim, 2009.)\nO excerto afirma que a queda do Muro de Berlim, em 1989,\n(A) foi resultado exclusivo de uma ação espontânea dos se-\ntores trabalhadores da Alemanha Ocidental e da Alema-\nnha Oriental.\n(B) surpreendeu lideranças políticas e valeu-se do processo\nde abertura política então em curso na União Soviética.\n(C) contou com planejamento e participação ativa das princi-\npais potências do Ocidente capitalista.\n(D) determinou um novo panorama nas relações internacio-\nnais e abriu espaço para a liderança internacional dos\nEstados Unidos.\n(E) decorreu da oposição dos socialistas aos comunistas e\nda divisão da Alemanha no pós-Segunda Guerra Mundial.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

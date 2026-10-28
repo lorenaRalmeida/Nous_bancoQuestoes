@@ -1,0 +1,108 @@
+{
+  "title": "Questão 35 - FUVEST 2024 - 1ª fase",
+  "index": 35,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Um relógio digital utiliza os seguintes numerais para\nrepresentar um determinado horário:\nEsse relógio está colocado sobre uma mesa de vidro, de forma\nque o vidro reflete o horário em sua superfície. A figura\nmostra um exemplo dessa situação:\nDe 00:00 até as 23:59, quantas vezes o vidro refletirá um\nhorário válido?",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "96",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "360",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "540",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "640",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "960",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Um relógio digital utiliza os seguintes numerais para\nrepresentar um determinado horário:\nEsse relógio está colocado sobre uma mesa de vidro, de forma\nque o vidro reflete o horário em sua superfície. A figura\nmostra um exemplo dessa situação:\nDe 00:00 até as 23:59, quantas vezes o vidro refletirá um\nhorário válido?\n(A) 96\n(B) 360\n(C) 540\n(D) 640\n(E) 960",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            28,
+            245.5747,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Contagem de horários refletidos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

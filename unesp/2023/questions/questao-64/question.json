@@ -1,0 +1,100 @@
+{
+  "title": "Questão 64 - UNESP 2023 - 1ª fase",
+  "index": 64,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Leia o poema “Pneumotórax”, do poeta Manuel Bandeira\n(1886-1968).\nFebre, hemoptise, dispneia e suores noturnos.\nA vida inteira que podia ter sido e que não foi.\nTosse, tosse, tosse.\nMandou chamar o médico:\n— Diga trinta e três.\n— Trinta e três… trinta e três… trinta e três…\n— Respire.\n-----------------------------------------------------------------\n— O senhor tem uma escavação no pulmão esquerdo e o\n[pulmão direito infiltrado.\n— Então, doutor, não é possível tentar o pneumotórax?\n— Não. A única coisa a fazer é tocar um tango argentino.\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\nNo poema, o poeta aborda,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "em tom satírico, recorrendo à crítica social, vários sintomas da varíola, uma doença bacteriana erradicada no\nBrasil na década de 1980, graças às campanhas de vacinação, mas que reaparece em 2022 no país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "em tom melancólico, recorrendo a coloquialismos, vários\nsintomas da tuberculose, uma doença bacteriana erradicada no Brasil desde a década de 1980, graças às campanhas de vacinação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "em tom engajado, recorrendo ao sarcasmo, vários sintomas da varíola, uma doença de etiologia viral, cujo tratamento visa atenuar os sintomas, e que se previne com\nvacinação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "em tom jocoso, recorrendo à autoironia, vários sintomas da tuberculose, uma doença bacteriana tratável\ncom antibióticos e que se previne com vacinação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "em tom fatalista, recorrendo ao humor ácido, vários sintomas da tuberculose, uma doença de etiologia viral, cujo\ntratamento visa atenuar os sintomas, e que se previne\ncom vacinação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o poema “Pneumotórax”, do poeta Manuel Bandeira\n(1886-1968).\nFebre, hemoptise, dispneia e suores noturnos.\nA vida inteira que podia ter sido e que não foi.\nTosse, tosse, tosse.\nMandou chamar o médico:\n— Diga trinta e três.\n— Trinta e três… trinta e três… trinta e três…\n— Respire.\n-----------------------------------------------------------------\n— O senhor tem uma escavação no pulmão esquerdo e o\n[pulmão direito infiltrado.\n— Então, doutor, não é possível tentar o pneumotórax?\n— Não. A única coisa a fazer é tocar um tango argentino.\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\nNo poema, o poeta aborda,\n(A) em tom satírico, recorrendo à crítica social, vários sin-\ntomas da varíola, uma doença bacteriana erradicada no\nBrasil na década de 1980, graças às campanhas de vaci-\nnação, mas que reaparece em 2022 no país.\n(B) em tom melancólico, recorrendo a coloquialismos, vários\nsintomas da tuberculose, uma doença bacteriana erradi-\ncada no Brasil desde a década de 1980, graças às cam-\npanhas de vacinação.\n(C) em tom engajado, recorrendo ao sarcasmo, vários sinto-\nmas da varíola, uma doença de etiologia viral, cujo trata-\nmento visa atenuar os sintomas, e que se previne com\nvacinação.\n(D) em tom jocoso, recorrendo à autoironia, vários sinto-\nmas da tuberculose, uma doença bacteriana tratável\ncom antibióticos e que se previne com vacinação.\n(E) em tom fatalista, recorrendo ao humor ácido, vários sin-\ntomas da tuberculose, uma doença de etiologia viral, cujo\ntratamento visa atenuar os sintomas, e que se previne\ncom vacinação.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

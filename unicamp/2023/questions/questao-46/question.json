@@ -1,0 +1,102 @@
+{
+  "title": "Questão 46 - UNICAMP 2023 - 1ª fase",
+  "index": 46,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A seguir, são apresentadas quatro funções, definidas para x ∈ ℝ; são também apresentados quatro esboços de gráficos.\n\nFunções:\nf(x) = sen(x) + π/4\ng(x) = cos(x + π/4) − sen(x + π/4)\nh(x) = sen(x − π/4)\np(x) = cos(x) + sen(x)\n\nA opção que descreve corretamente a correspondência entre as funções e seus gráficos é:",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png",
+    "imagem-04.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(i) e g(x); (ii) e h(x); (iii) e p(x); (iv) e f(x).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(i) e h(x); (ii) e g(x); (iii) e f(x); (iv) e p(x).",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "(i) e p(x); (ii) e h(x); (iii) e g(x); (iv) e f(x).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(i) e f(x); (ii) e g(x); (iii) e p(x); (iv) e h(x).",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A seguir, são apresentadas quatro funções, definidas para\nx∈; são também apresentados quatro esboços de gráficos.\nFunções:\nf(x)=sen(x)+π/4\n π  π\ng(x)=cosx+ −senx+ \n 4  4\nh(x)=sen(x−π/4)\np(x)=cos(x)+sen(x)\nGráficos:\n(i)\n(ii)\n(iii)\n(iv)\nA opção que descreve corretamente a correspondência entre as\nfunções e seus gráficos é:\na) (i) e g(x); (ii) e h(x); (iii) e p(x); (iv) e f(x).\nb) (i) e h(x); (ii) e g(x); (iii) e f(x); (iv) e p(x).\nc) (i) e p(x); (ii) e h(x); (iii) e g(x); (iv) e f(x).\nd) (i) e f(x); (ii) e g(x); (iii) e p(x); (iv) e h(x).",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

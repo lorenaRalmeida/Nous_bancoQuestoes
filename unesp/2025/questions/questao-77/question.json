@@ -1,0 +1,101 @@
+{
+  "title": "Questão 77 - UNESP 2025 - 1ª fase",
+  "index": 77,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Uma bola é chutada obliquamente, no instante t = 0, com\n0\nvelocidade inicial v , no ponto A de uma elevação. Essa bola\n0\ndescreve a trajetória indicada na figura passando pelo ponto\nB, ponto mais alto de sua trajetória, no instante t = 0,8 s, e\natinge o solo horizontal no ponto C, no instante t = 2 s.\nDesprezando a resistência do ar, adotando g = 10 m/s2 e\nsabendo que a equação da trajetória dessa bola, desde o\nponto A até o ponto C, é y = – 0,2 · x2 + 1,6 · x + 4, o módulo\nde v é\n0",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4 m/s",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "√45 m/s",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6 m/s",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "13 m/s",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "√89 m/s",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma bola é chutada obliquamente, no instante t = 0, com\n0\nvelocidade inicial v , no ponto A de uma elevação. Essa bola\n0\ndescreve a trajetória indicada na figura passando pelo ponto\nB, ponto mais alto de sua trajetória, no instante t = 0,8 s, e\natinge o solo horizontal no ponto C, no instante t = 2 s.\nDesprezando a resistência do ar, adotando g = 10 m/s2 e\nsabendo que a equação da trajetória dessa bola, desde o\nponto A até o ponto C, é y = – 0,2 · x2 + 1,6 · x + 4, o módulo\nde v é\n0\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            441.6407
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 27,
+        "bbox": [
+          316.8921,
+          107.9325,
+          549.2981,
+          261.63009999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

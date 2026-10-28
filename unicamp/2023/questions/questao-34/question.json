@@ -1,0 +1,84 @@
+{
+  "title": "Questão 34 - UNICAMP 2023 - 1ª fase",
+  "index": 34,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "O planeta anão Ceres foi descoberto em 1801 por Giuseppe\nPiazzi. Resultados científicos recentes indicam que Ceres teria sido formado nas zonas mais afastadas do Sistema Solar e\nposteriormente lançado para a região onde se encontra atualmente, entre as órbitas de Marte e Júpiter. A tabela abaixo\napresenta o período de translação T, a distância média ao Sol\nR, bem como T2, R3 e a razão (T2/R3) para alguns planetas do\nSistema Solar. De acordo com a 3ª Lei de Kepler, a razão (T2/R3)\né constante. A partir dos dados da tabela, pode-se concluir que\no período orbital de Ceres, T , é aproximadamente igual a\nCeres",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,00 ano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,77 anos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4,62 anos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "21,3 anos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O planeta anão Ceres foi descoberto em 1801 por Giuseppe\nPiazzi. Resultados científicos recentes indicam que Ceres te-\nria sido formado nas zonas mais afastadas do Sistema Solar e\nposteriormente lançado para a região onde se encontra atu-\nalmente, entre as órbitas de Marte e Júpiter. A tabela abaixo\napresenta o período de translação T, a distância média ao Sol\nR, bem como T2, R3 e a razão (T2/R3) para alguns planetas do\nSistema Solar. De acordo com a 3ª Lei de Kepler, a razão (T2/R3)\né constante. A partir dos dados da tabela, pode-se concluir que\no período orbital de Ceres, T , é aproximadamente igual a\nCeres\na) 1,00 ano. c) 4,62 anos.\nb) 2,77 anos. d) 21,3 anos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            382.7072,
+            291,
+            735.1865
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 45 - UNICAMP 2024 - 1ª fase",
+  "index": 45,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Uma quimera é um indivíduo formado por dois ou mais tipos de\ncélulas, em que cada tipo contém um genoma distinto. Os machos da espécie de formiga Anoplolepis gracilipes são quimeras\nformadas por dois tipos de células haploides, bastante distintas\ndo ponto de vista genético; essas células são provenientes de\nduas linhagens de formigas, podendo ser chamadas de linhagem 1 e linhagem 2. As rainhas (fêmeas capazes de produzir\nóvulos) desta espécie são indivíduos formados pela fusão entre um óvulo com genoma característico da linhagem 1 e um\nespermatozoide com genoma característico da linhagem 1. Já\nas fêmeas operárias (não reprodutivas) são indivíduos formados pela fusão entre um óvulo com genoma característico da\nlinhagem 1 e um espermatozoide com genoma característico\nda linhagem 2.\n(Adaptado de: DARRAS, H. et al. Science, Washington, v. 380, p.55-58, abr. 2023.)\nCom base em seus conhecimentos e considerando o texto apresentado, pode-se dizer que as diferenças genéticas entre rainhas e operárias se explicam pelo fato de",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os gametas se fundirem nos machos e operárias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os machos conterem células haploides das linhagens 1 e 2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "os machos serem homozigotos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os machos serem diploides oriundos das linhagens 1 e 2.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma quimera é um indivíduo formado por dois ou mais tipos de\ncélulas, em que cada tipo contém um genoma distinto. Os ma-\nchos da espécie de formiga Anoplolepis gracilipes são quimeras\nformadas por dois tipos de células haploides, bastante distintas\ndo ponto de vista genético; essas células são provenientes de\nduas linhagens de formigas, podendo ser chamadas de linha-\ngem 1 e linhagem 2. As rainhas (fêmeas capazes de produzir\nóvulos) desta espécie são indivíduos formados pela fusão en-\ntre um óvulo com genoma característico da linhagem 1 e um\nespermatozoide com genoma característico da linhagem 1. Já\nas fêmeas operárias (não reprodutivas) são indivíduos forma-\ndos pela fusão entre um óvulo com genoma característico da\nlinhagem 1 e um espermatozoide com genoma característico\nda linhagem 2.\n(Adaptado de: DARRAS, H. et al. Science, Washington, v. 380, p.55-58, abr. 2023.)\nCom base em seus conhecimentos e considerando o texto apre-\nsentado, pode-se dizer que as diferenças genéticas entre rai-\nnhas e operárias se explicam pelo fato de\na) os gametas se fundirem nos machos e operárias.\nb) os machos conterem células haploides das linhagens 1 e 2.\nc) os machos serem homozigotos.\nd) os machos serem diploides oriundos das linhagens 1 e 2.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            589.0615,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            40,
+            568,
+            168.03779999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

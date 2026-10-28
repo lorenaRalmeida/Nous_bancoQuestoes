@@ -1,0 +1,92 @@
+{
+  "title": "Questão 63 - UNICAMP 2023 - 1ª fase",
+  "index": 63,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Sobre os debates entre os Governos do Mercosul, é importante destacar que existem instâncias de construção de memórias\nregionais. Estas experiências acompanham os processos de verdade e justiça que estão em andamento nos países para revisar,\ninvestigar e julgar os crimes de lesa-humanidade cometidos, no\npassado, pelo Estado. Nesta linha, os lugares de Memória são\ninstâncias que buscam transformar certas marcas a fim de evocar memórias e torná-las inteligíveis ao situá-las no contexto de\num relato mais amplo.\n(Adaptado de: MERCOSUL. Instituto de Políticas Públicas em Direitos Humanos do MER-\nCOSUL (IPPDH). Princípios fundamentais para as políticas públicas sobre lugares de memória. Buenos Aires: Mercosul, p. 5, 2012.)\nA partir do excerto e de seus conhecimentos, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Embora o Mercosul seja definido pela integração econômica, seus países membros também partilham experiências de\nditaduras militares no passado, experiências essas que constituem uma memória regional comum.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "A escolha de lugares de memória comuns ao passado dos\npaíses membros do Mercosul pauta a agenda econômica de\nsua integração e baliza a construção de patrimônios edificados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A reparação dos crimes cometidos pelas ditaduras militares\ndos estados membros do Mercosul se tornou possível com\na criação de instâncias jurídicas supranacionais que julgam\nviolações contra a humanidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Ainda que novas, nota-se que o objetivo das políticas públicas de memória do Mercosul – acerca dos traumas das\nditaduras – é eleger um conjunto de patrimônios edificados\npara pacificar o passado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Sobre os debates entre os Governos do Mercosul, é importan-\nte destacar que existem instâncias de construção de memórias\nregionais. Estas experiências acompanham os processos de ver-\ndade e justiça que estão em andamento nos países para revisar,\ninvestigar e julgar os crimes de lesa-humanidade cometidos, no\npassado, pelo Estado. Nesta linha, os lugares de Memória são\ninstâncias que buscam transformar certas marcas a fim de evo-\ncar memórias e torná-las inteligíveis ao situá-las no contexto de\num relato mais amplo.\n(Adaptado de: MERCOSUL. Instituto de Políticas Públicas em Direitos Humanos do MER-\nCOSUL (IPPDH). Princípios fundamentais para as políticas públicas sobre lugares de me-\nmória. Buenos Aires: Mercosul, p. 5, 2012.)\nA partir do excerto e de seus conhecimentos, assinale a alter-\nnativa correta.\na) Embora o Mercosul seja definido pela integração econômi-\nca, seus países membros também partilham experiências de\nditaduras militares no passado, experiências essas que cons-\ntituem uma memória regional comum.\nb) A escolha de lugares de memória comuns ao passado dos\npaíses membros do Mercosul pauta a agenda econômica de\nsua integração e baliza a construção de patrimônios edifi-\ncados.\nc) A reparação dos crimes cometidos pelas ditaduras militares\ndos estados membros do Mercosul se tornou possível com\na criação de instâncias jurídicas supranacionais que julgam\nviolações contra a humanidade.\nd) Ainda que novas, nota-se que o objetivo das políticas pú-\nblicas de memória do Mercosul – acerca dos traumas das\nditaduras – é eleger um conjunto de patrimônios edificados\npara pacificar o passado.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            552.9172,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            40,
+            568,
+            246.36850000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 71 - UNESP 2025 - 1ª fase",
+  "index": 71,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Uma solução aquosa do sal sulfato de cobre pentahidratado,\nCuSO .5H O, massa molar = 250 g/mol, foi preparada pela\n4 2\ndiluição de 10 mL de uma solução estoque do sal que contém\n10 g do sal /100 mL de solução, até o volume final de 1 L.\nA concentração da solução diluída do sal, expressa em g/L e\nem mol/L, é, respectivamente,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10 e 4 × 10–3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 e 1 × 10– 5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "10 e 1 × 10–1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1 e 4 × 10– 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 e 4 × 10–3.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma solução aquosa do sal sulfato de cobre pentahidratado,\nCuSO .5H O, massa molar = 250 g/mol, foi preparada pela\n4 2\ndiluição de 10 mL de uma solução estoque do sal que contém\n10 g do sal /100 mL de solução, até o volume final de 1 L.\nA concentração da solução diluída do sal, expressa em g/L e\nem mol/L, é, respectivamente,\n(A) 10 e 4 × 10–3.\n(B) 1 e 1 × 10– 5.\n(C) 10 e 1 × 10–1.\n(D) 1 e 4 × 10– 4.\n(E) 1 e 4 × 10–3.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            404.7173,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

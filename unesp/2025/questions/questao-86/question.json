@@ -1,0 +1,149 @@
+{
+  "title": "Questão 86 - UNESP 2025 - 1ª fase",
+  "index": 86,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A figura indica as medidas de três ângulos internos do pentágono convexo UNESP, além da medida do seu ângulo interno NÛP, indicada por x. A partir desse pentágono, foram traçadas as semirretas PU e EN, que se intersectam no ponto V.\nSabendo-se que UV e UN são congruentes, x é igual a",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "122º.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "120º.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "118º.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "128º.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "124º.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura indica as medidas de três ângulos internos do pentá-\ngono convexo UNESP, além da medida do seu ângulo interno\n, indicada por x. A partir desse pentágono, foram traça-\ndas as semirretas , que se intersectam no ponto V.\nSabendo-se que são congruentes, x é igual a\n(A) 122º.\n(B) 120º.\n(C) 118º.\n(D) 128º.\n(E) 124º.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            262.3061,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 30,
+        "bbox": [
+          304,
+          300.30510000000004,
+          331.84499999999997,
+          324.82500000000005
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 30,
+        "bbox": [
+          375.0833,
+          315.2508,
+          424.2153,
+          340.6564
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 30,
+        "bbox": [
+          365.0259,
+          337.3839,
+          501.50350000000003,
+          505.7315
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 30,
+        "bbox": [
+          369.851,
+          500.97139999999996,
+          419.4655,
+          521.3622
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

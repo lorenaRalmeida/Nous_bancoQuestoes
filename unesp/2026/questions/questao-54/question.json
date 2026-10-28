@@ -1,0 +1,98 @@
+{
+  "title": "Questão 54 - UNESP 2026 - 1ª fase",
+  "index": 54,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“O mais ousado projeto desenvolvido pelo homem depois\ndo Apollo”, o conjunto de missões espaciais coordenadas\npela NASA, a agência espacial norte-americana, entre 1961\ne 1972. Era assim que, em 23 de outubro de 1976, a revista Manchete descrevia, com o ufanismo da época, o projeto RadamBrasil. Implementado em 1975, o RadamBrasil era\numa extensão do projeto Radam, sigla de Radar na Amazônia, criado cinco anos antes, e dava início a uma missão ainda mais audaciosa: mapear todo o território brasileiro e seus\nrecursos naturais. Os relatórios técnicos e mapas do projeto\nRadamBrasil foram reunidos nos 38 volumes da série Levantamento de recursos naturais, disponíveis na biblioteca do Instituto Brasileiro de Geografia e Estatística (IBGE). As imagens\nde radar, impressas originalmente em papel comum e fotográfico, foram digitalizadas pelo Serviço Geológico do Brasil\n(SGB), por meio do projeto Radam – D, a partir de 2004.\n(Suzel Tunes. https://revistapesquisa.fapesp.br, 17.05.2025. Adaptado.)\nNo exercício do sensoriamento remoto, diferentes sensores\npodem ser utilizados. A opção pelo uso do radar no projeto\nRadamBrasil, conforme mencionado no excerto, é explicada pela",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dimensão continental do Brasil, característica que demandou radares operando com frequências na faixa da luz\nvisível para otimizar os recursos financeiros empregados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "grande distância em relação ao solo dos voos civis no\nBrasil, condição que prejudicaria a nitidez das imagens\nem sensores ópticos eletromagnéticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "rapidez no processamento das imagens geradas, condição que dispensou revelações fotográficas com sensores\noperando com frequências na faixa da luz visível.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "diversidade de macroformas do relevo ao longo do território brasileiro, característica que impediria o uso de sensores ópticos pela variação na distância focal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "alta nebulosidade em parcelas do território brasileiro, característica que traria dificuldades de registro em sensores que não operam com ondas eletromagnéticas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“O mais ousado projeto desenvolvido pelo homem depois\ndo Apollo”, o conjunto de missões espaciais coordenadas\npela NASA, a agência espacial norte-americana, entre 1961\ne 1972. Era assim que, em 23 de outubro de 1976, a revis-\nta Manchete descrevia, com o ufanismo da época, o proje-\nto RadamBrasil. Implementado em 1975, o RadamBrasil era\numa extensão do projeto Radam, sigla de Radar na Amazô-\nnia, criado cinco anos antes, e dava início a uma missão ain-\nda mais audaciosa: mapear todo o território brasileiro e seus\nrecursos naturais. Os relatórios técnicos e mapas do projeto\nRadamBrasil foram reunidos nos 38 volumes da série Levan-\ntamento de recursos naturais, disponíveis na biblioteca do Ins-\ntituto Brasileiro de Geografia e Estatística (IBGE). As imagens\nde radar, impressas originalmente em papel comum e foto-\ngráfico, foram digitalizadas pelo Serviço Geológico do Brasil\n(SGB), por meio do projeto Radam – D, a partir de 2004.\n(Suzel Tunes. https://revistapesquisa.fapesp.br, 17.05.2025. Adaptado.)\nNo exercício do sensoriamento remoto, diferentes sensores\npodem ser utilizados. A opção pelo uso do radar no projeto\nRadamBrasil, conforme mencionado no excerto, é explica-\nda pela\n(A) dimensão continental do Brasil, característica que deman-\ndou radares operando com frequências na faixa da luz\nvisível para otimizar os recursos financeiros empregados.\n(B) grande distância em relação ao solo dos voos civis no\nBrasil, condição que prejudicaria a nitidez das imagens\nem sensores ópticos eletromagnéticos.\n(C) rapidez no processamento das imagens geradas, condi-\nção que dispensou revelações fotográficas com sensores\noperando com frequências na faixa da luz visível.\n(D) diversidade de macroformas do relevo ao longo do terri-\ntório brasileiro, característica que impediria o uso de sen-\nsores ópticos pela variação na distância focal.\n(E) alta nebulosidade em parcelas do território brasileiro, ca-\nracterística que traria dificuldades de registro em senso-\nres que não operam com ondas eletromagnéticas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

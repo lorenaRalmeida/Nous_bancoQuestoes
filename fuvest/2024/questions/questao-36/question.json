@@ -1,0 +1,88 @@
+{
+  "title": "Questão 36 - FUVEST 2024 - 1ª fase",
+  "index": 36,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "“Todos os dias que depois vieram, eram tempo de doer.\nMiguilim tinha sido arrancado de uma porção de coisas, e\nestava no mesmo lugar. Quando chegava o poder de chorar,\nera até bom – enquanto estava chorando, parecia que a alma\ntoda se sacudia, misturando ao vivo todas as lembranças, as\nmais novas e as muito antigas. Mas, no mais das horas, ele\nestava cansado. Cansado e como que assustado. Sufocado. Ele\nnão era ele mesmo. Diante dele, as pessoas, as coisas,\nperdiam o peso de ser. Os lugares, o Mutum – se esvaziavam,\nnuma ligeireza, vagarosos. E Miguilim mesmo se achava\ndiferente de todos. Ao vago, dava a mesma ideia de uma vez,\nem que, muito pequeno, tinha dormido de dia, fora de seu\ncostume – quando acordou, sentiu o existir do mundo em\nhora estranha, e perguntou assustado: – ‘Uai, Mãe, hoje já é\namanhã?!’”\nJoão Guimarães Rosa. Campo Geral.\nConforme sugere o trecho, o sofrimento perturba a noção que\nMiguilim tinha do tempo, porque",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a falta de acuidade visual não lhe permite distinguir as\népocas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o desamor ao pai o faz romper com a infância cedo demais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o aprendizado da morte embaralha os planos da memória.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a sensação de vazio o leva a se sentir seguro no presente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os dias vividos no Mutum mostram-se cada vez mais curtos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Todos os dias que depois vieram, eram tempo de doer.\nMiguilim tinha sido arrancado de uma porção de coisas, e\nestava no mesmo lugar. Quando chegava o poder de chorar,\nera até bom – enquanto estava chorando, parecia que a alma\ntoda se sacudia, misturando ao vivo todas as lembranças, as\nmais novas e as muito antigas. Mas, no mais das horas, ele\nestava cansado. Cansado e como que assustado. Sufocado. Ele\nnão era ele mesmo. Diante dele, as pessoas, as coisas,\nperdiam o peso de ser. Os lugares, o Mutum – se esvaziavam,\nnuma ligeireza, vagarosos. E Miguilim mesmo se achava\ndiferente de todos. Ao vago, dava a mesma ideia de uma vez,\nem que, muito pequeno, tinha dormido de dia, fora de seu\ncostume – quando acordou, sentiu o existir do mundo em\nhora estranha, e perguntou assustado: – ‘Uai, Mãe, hoje já é\namanhã?!’”\nJoão Guimarães Rosa. Campo Geral.\nConforme sugere o trecho, o sofrimento perturba a noção que\nMiguilim tinha do tempo, porque\n(A) a falta de acuidade visual não lhe permite distinguir as\népocas.\n(B) o desamor ao pai o faz romper com a infância cedo demais.\n(C) o aprendizado da morte embaralha os planos da memória.\n(D) a sensação de vazio o leva a se sentir seguro no presente.\n(E) os dias vividos no Mutum mostram-se cada vez mais curtos.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            386.4547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Tempo e sofrimento em Campo Geral",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

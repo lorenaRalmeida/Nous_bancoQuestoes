@@ -1,0 +1,98 @@
+{
+  "title": "Questão 74 - UNESP 2026 - 1ª fase",
+  "index": 74,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Um dos principais usos do petróleo é na produção da gasolina, uma mistura de hidrocarbonetos com cadeias carbônicas\nde 5 a 11 átomos de carbono. Porém, a fração do petróleo\ncorrespondente à gasolina obtida diretamente pela destilação\nfracionada do petróleo é insuficiente para suprir as necessidades de consumo e, além do mais, é uma gasolina de baixa\nqualidade. A qualidade de uma gasolina é medida por sua\noctanagem. Gasolinas com hidrocarbonetos lineares apresentam baixa octanagem, enquanto as gasolinas com maior\nteor de hidrocarbonetos de cadeias ramificadas apresentam\nmaior octanagem.\nPor essas razões, é necessário, no processo de refino do\npetróleo, aumentar a quantidade e a qualidade da gasolina\nproduzida. Para aumentar a quantidade, são empregados\ndois processos: o craqueamento e a alquilação. Para aumentar a qualidade, emprega-se o processo de isomerização, por meio do qual cadeias lineares dos hidrocarbonetos\nsão transformadas em cadeias ramificadas.\nExamine as seguintes equações de reações químicas:\nI. CH (CH ) CH CH C(CH ) CH CH(CH )CH\n3 2 6 3 3 3 2 2 3 3\nII. C H + C H C H\n4 10 4 8 8 18\nIII. C H C H + C H\n16 34 8 16 8 18\nOs processos de craqueamento, alquilação e isomerização são exemplificados, respectivamente, pelas equações\nde números",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "III, I e II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "III, II e I.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "I, III e II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "II, III e I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "I, II e III.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um dos principais usos do petróleo é na produção da gasoli-\nna, uma mistura de hidrocarbonetos com cadeias carbônicas\nde 5 a 11 átomos de carbono. Porém, a fração do petróleo\ncorrespondente à gasolina obtida diretamente pela destilação\nfracionada do petróleo é insuficiente para suprir as necessi-\ndades de consumo e, além do mais, é uma gasolina de baixa\nqualidade. A qualidade de uma gasolina é medida por sua\noctanagem. Gasolinas com hidrocarbonetos lineares apre-\nsentam baixa octanagem, enquanto as gasolinas com maior\nteor de hidrocarbonetos de cadeias ramificadas apresentam\nmaior octanagem.\nPor essas razões, é necessário, no processo de refino do\npetróleo, aumentar a quantidade e a qualidade da gasolina\nproduzida. Para aumentar a quantidade, são empregados\ndois processos: o craqueamento e a alquilação. Para au-\nmentar a qualidade, emprega-se o processo de isomeriza-\nção, por meio do qual cadeias lineares dos hidrocarbonetos\nsão transformadas em cadeias ramificadas.\nExamine as seguintes equações de reações químicas:\nI. CH (CH ) CH CH C(CH ) CH CH(CH )CH\n3 2 6 3 3 3 2 2 3 3\nII. C H + C H C H\n4 10 4 8 8 18\nIII. C H C H + C H\n16 34 8 16 8 18\nOs processos de craqueamento, alquilação e isomeriza-\nção são exemplificados, respectivamente, pelas equações\nde números\n(A) III, I e II.\n(B) III, II e I.\n(C) I, III e II.\n(D) II, III e I.\n(E) I, II e III.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

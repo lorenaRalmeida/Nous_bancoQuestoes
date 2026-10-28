@@ -1,0 +1,107 @@
+{
+  "title": "Questão 84 - FUVEST 2024 - 1ª fase",
+  "index": 84,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "O Atlas da Violência, publicado em 2019 e organizado pelo\nInstituto de Pesquisa Econômica Aplicada e Fórum Brasileiro\nde Segurança Pública, apresenta um estudo para melhor\ncompreender a violência no país. Os dados que ali constam\nreferem-se ao período de 2007 a 2017. Um dos capítulos\ndesse documento trata, especificamente, da violência contra\na mulher. O gráfico a seguir mostra a evolução da taxa de\nhomicídios de mulheres (equivalente ao número de\nhomicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e\nnas três unidades federativas com as menores taxas em 2017.\nIpea/FBSP. Atlas da Violência, 2019.\nDe acordo com os dados apresentados, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Dentre as unidades federativas citadas, a que teve maior\ndecréscimo na taxa de homicídios de mulheres no período\nentre 2014 e 2017 foi São Paulo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "As três unidades federativas indicadas tiveram um\ndecréscimo na taxa de homicídios de mulheres em 2017\nquando comparada com a taxa de 2007.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A taxa de homicídios de mulheres no Brasil em 2017 é\nmaior que a soma das taxas das três unidades federativas\napresentadas neste mesmo ano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Dentre as unidades federativas apontadas, a que\napresentou a maior taxa de homicídios de mulheres em\n2017 é Santa Catarina, superando a taxa registrada nos\ndemais estados da região Sul.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Dentre as unidades federativas mencionadas, a maior\nredução na taxa de homicídios de mulheres, entre 2016 e\n2017, registrada na pesquisa ocorreu no Distrito Federal.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O Atlas da Violência, publicado em 2019 e organizado pelo\nInstituto de Pesquisa Econômica Aplicada e Fórum Brasileiro\nde Segurança Pública, apresenta um estudo para melhor\ncompreender a violência no país. Os dados que ali constam\nreferem-se ao período de 2007 a 2017. Um dos capítulos\ndesse documento trata, especificamente, da violência contra\na mulher. O gráfico a seguir mostra a evolução da taxa de\nhomicídios de mulheres (equivalente ao número de\nhomicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e\nnas três unidades federativas com as menores taxas em 2017.\nIpea/FBSP. Atlas da Violência, 2019.\nDe acordo com os dados apresentados, é correto afirmar:\n(A) Dentre as unidades federativas citadas, a que teve maior\ndecréscimo na taxa de homicídios de mulheres no período\nentre 2014 e 2017 foi São Paulo.\n(B) As três unidades federativas indicadas tiveram um\ndecréscimo na taxa de homicídios de mulheres em 2017\nquando comparada com a taxa de 2007.\n(C) A taxa de homicídios de mulheres no Brasil em 2017 é\nmaior que a soma das taxas das três unidades federativas\napresentadas neste mesmo ano.\n(D) Dentre as unidades federativas apontadas, a que\napresentou a maior taxa de homicídios de mulheres em\n2017 é Santa Catarina, superando a taxa registrada nos\ndemais estados da região Sul.\n(E) Dentre as unidades federativas mencionadas, a maior\nredução na taxa de homicídios de mulheres, entre 2016 e\n2017, registrada na pesquisa ocorreu no Distrito Federal.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            28,
+            302.9347,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            90.47469999999998
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Leitura quantitativa de taxas e gráficos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Questão 42 - UNICAMP 2025 - 1ª fase",
+  "index": 42,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "A citação a seguir, de Vida e morte de M. J. Gonzaga de Sá, de\nLima Barreto, apresenta como o narrador conheceu o protagonista.\nNum país em que, com tanta facilidade, se fabricam manipansos milagrosos, ídolos aterradores e deuses onipotentes, causa\npasmo que a Secretaria dos Cultos não seja tão conhecida como\na da Viação. Há, entretanto, nela, no seu Museu e nos seus registros, muita cousa interessante e digna de exame.\nFoi, por ocasião de desempenhar-me da incumbência do meu\ndiretor, que vim a conhecer Gonzaga de Sá, afogado num mar\nde papeis, na seção de “alfaias, paramentos e imagens”, informando muito seriamente a consulta do vigário de Sumaré,\nversando sobre o número de setas que devia ter a imagem de\nS. Sebastião.\n(BARRETO, Lima. Vida e morte de M. J. Gonzaga de Sá. São Paulo: Edição da Revista do\nBrasil, p. 17, 1919.)\nA partir dessa citação e da leitura do romance, é correto afirmar\nque Lima Barreto usa a personagem Gonzaga de Sá para",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "criticar um funcionário que prejudica o andamento da burocracia estatal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "representar um sujeito que usa o serviço público para impor\nsua fé ao Estado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mostrar o valor do indivíduo em meio à sátira da burocracia\nestatal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "figurar um sujeito que usa a religião para sua ascensão no\nserviço público.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A citação a seguir, de Vida e morte de M. J. Gonzaga de Sá, de\nLima Barreto, apresenta como o narrador conheceu o protago-\nnista.\nNum país em que, com tanta facilidade, se fabricam manipan-\nsos milagrosos, ídolos aterradores e deuses onipotentes, causa\npasmo que a Secretaria dos Cultos não seja tão conhecida como\na da Viação. Há, entretanto, nela, no seu Museu e nos seus re-\ngistros, muita cousa interessante e digna de exame.\nFoi, por ocasião de desempenhar-me da incumbência do meu\ndiretor, que vim a conhecer Gonzaga de Sá, afogado num mar\nde papeis, na seção de “alfaias, paramentos e imagens”, in-\nformando muito seriamente a consulta do vigário de Sumaré,\nversando sobre o número de setas que devia ter a imagem de\nS. Sebastião.\n(BARRETO, Lima. Vida e morte de M. J. Gonzaga de Sá. São Paulo: Edição da Revista do\nBrasil, p. 17, 1919.)\nA partir dessa citação e da leitura do romance, é correto afirmar\nque Lima Barreto usa a personagem Gonzaga de Sá para\na) criticar um funcionário que prejudica o andamento da bu-\nrocracia estatal.\nb) representar um sujeito que usa o serviço público para impor\nsua fé ao Estado.\nc) mostrar o valor do indivíduo em meio à sátira da burocracia\nestatal.\nd) figurar um sujeito que usa a religião para sua ascensão no\nserviço público.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            236.61379999999997,
+            291,
+            638.0358
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

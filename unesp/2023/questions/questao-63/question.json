@@ -1,0 +1,123 @@
+{
+  "title": "Questão 63 - UNESP 2023 - 1ª fase",
+  "index": 63,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Quando a pandemia de covid-19 alastrou-se pelo Brasil,\ncientistas do Instituto Butantan dedicaram-se à pesquisa de\numa vacina. O método usado foi a inoculação viral em ovos\nde galinha, técnica já utilizada para a produção da vacina\nda gripe (Influenza) e grande especialidade do Butantan.\nNascia assim a ButanVac, imunizante do Butantan contra o\nSARS-CoV-2 inteiramente produzido no Brasil.\n(https://butantan.gov.br. Adaptado.)\nNesta técnica, uma pequena quantidade de vírus modificado,\ninofensivo para humanos, é inoculada em ovos que posteriormente serão incubados por 72 horas. Ao final deste período\nhaverá uma grande quantidade de vírus em um líquido que\ncontém resíduos metabólicos armazenados em uma estrutura do ovo. Esse líquido é então coletado, os vírus são isolados, inativados e utilizados na produção da vacina.\nA imagem representa as estruturas internas de um ovo embrionado de galinha.\n(www.infoescola.com. Adaptado.)\nNa imagem, a estrutura em que ocorre a replicação viral e a\nestrutura da qual os vírus são coletados para purificação e\nprodução de vacina estão representadas, respectivamente,\npelos números",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5 e 6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4 e 5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3 e 4.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "1 e 2.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Quando a pandemia de covid-19 alastrou-se pelo Brasil,\ncientistas do Instituto Butantan dedicaram-se à pesquisa de\numa vacina. O método usado foi a inoculação viral em ovos\nde galinha, técnica já utilizada para a produção da vacina\nda gripe (Influenza) e grande especialidade do Butantan.\nNascia assim a ButanVac, imunizante do Butantan contra o\nSARS-CoV-2 inteiramente produzido no Brasil.\n(https://butantan.gov.br. Adaptado.)\nNesta técnica, uma pequena quantidade de vírus modificado,\ninofensivo para humanos, é inoculada em ovos que posterior-\nmente serão incubados por 72 horas. Ao final deste período\nhaverá uma grande quantidade de vírus em um líquido que\ncontém resíduos metabólicos armazenados em uma estrutu-\nra do ovo. Esse líquido é então coletado, os vírus são isola-\ndos, inativados e utilizados na produção da vacina.\nA imagem representa as estruturas internas de um ovo em-\nbrionado de galinha.\n(www.infoescola.com. Adaptado.)\nNa imagem, a estrutura em que ocorre a replicação viral e a\nestrutura da qual os vírus são coletados para purificação e\nprodução de vacina estão representadas, respectivamente,\npelos números\n(A) 2 e 3.\n(B) 5 e 6.\n(C) 4 e 5.\n(D) 3 e 4.\n(E) 1 e 2.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            27.52660000000003,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 22,
+        "bbox": [
+          462.7688,
+          350.1941,
+          521.143,
+          372.77709999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 22,
+        "bbox": [
+          345.1003,
+          361.4477,
+          413.6028,
+          383.9117
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

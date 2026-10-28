@@ -1,0 +1,100 @@
+{
+  "title": "Questão 36 - FUVEST 2025 - 1ª fase",
+  "index": 36,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "“Madala pensou que devia dizer qualquer coisa ao Djimo,\nmas não se lembrou de repetir a pergunta para si mesmo e\npor isso não soube o que dizer.\nO capataz fazia sinais à Maria, mas esta parecia não\nentender.\nA planta que Madala segurava na mão oferecia ao seu\nesforço uma resistência exagerada. Por isso, o punho de\nMadala tremia.\n(...)\nO tom da voz de Djimo revelava certo nervosismo:\n- Madala...\nMas o nervosismo desapareceu logo. Djimo deu uma\nordem:\n- Madala, não olhes para lá!\nDentro de Madala, qualquer coisa se crispou. Mas não\neram os fios da sua doença.”\nLuís Bernardo Honwana. “Dina”. In: Nós matamos o cão tinhoso!.\nConsiderando o papel da antologia Nós matamos o cão\ntinhoso! na literatura moçambicana e como a sociedade de\nMoçambique dos anos 1950 e 1960 se configura\nliterariamente no conto “Dina”, é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O conto apresenta, de modo documental e objetivo, a\ncondição econômico-social de uma família, mediante a\nenumeração de objetos que conotam a vida difícil dos\nmoçambicanos em busca de um lugar na hierarquia\npreestabelecida pelo colonizador europeu.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O conto demonstra como Luís Bernardo Honwana recria\nconsistentemente a estrutura do português do\ncolonizador a partir das línguas originárias de\nMoçambique, fazendo da linguagem um instrumento de\nluta anticolonial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O conto retrata as primeiras reações dos trabalhadores do\ncampo, como Madala e Djimbo, que se levantam em\narmas contra os aparelhos repressivos do Estado\nportuguês e a violência nas relações de trabalho,\nrepresentados no texto pelo capataz.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "No conto, a sociedade moçambicana vai sendo\napresentada sob o ponto de vista do colonizador, de modo\na comprovar o ideal civilizatório da colonização\nportuguesa na África e a convivência equilibrada entre\ncolonizadores e colonizados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "No conto, embora perceba ter ultrapassado um limite\nmoral ao descobrir o parentesco entre Maria e Madala, o\ncapataz personifica a imposição da violência e do\npatriarcalismo metropolitanos aos homens e mulheres de\nMoçambique.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\n“Madala pensou que devia dizer qualquer coisa ao Djimo,\nmas não se lembrou de repetir a pergunta para si mesmo e\npor isso não soube o que dizer.\nO capataz fazia sinais à Maria, mas esta parecia não\nentender.\nA planta que Madala segurava na mão oferecia ao seu\nesforço uma resistência exagerada. Por isso, o punho de\nMadala tremia.\n(...)\nO tom da voz de Djimo revelava certo nervosismo:\n- Madala...\nMas o nervosismo desapareceu logo. Djimo deu uma\nordem:\n- Madala, não olhes para lá!\nDentro de Madala, qualquer coisa se crispou. Mas não\neram os fios da sua doença.”\nLuís Bernardo Honwana. “Dina”. In: Nós matamos o cão tinhoso!.\nConsiderando o papel da antologia Nós matamos o cão\ntinhoso! na literatura moçambicana e como a sociedade de\nMoçambique dos anos 1950 e 1960 se configura\nliterariamente no conto “Dina”, é correto afirmar:\n(A) O conto apresenta, de modo documental e objetivo, a\ncondição econômico-social de uma família, mediante a\nenumeração de objetos que conotam a vida difícil dos\nmoçambicanos em busca de um lugar na hierarquia\npreestabelecida pelo colonizador europeu.\n(B) O conto demonstra como Luís Bernardo Honwana recria\nconsistentemente a estrutura do português do\ncolonizador a partir das línguas originárias de\nMoçambique, fazendo da linguagem um instrumento de\nluta anticolonial.\n(C) O conto retrata as primeiras reações dos trabalhadores do\ncampo, como Madala e Djimbo, que se levantam em\narmas contra os aparelhos repressivos do Estado\nportuguês e a violência nas relações de trabalho,\nrepresentados no texto pelo capataz.\n(D) No conto, a sociedade moçambicana vai sendo\napresentada sob o ponto de vista do colonizador, de modo\na comprovar o ideal civilizatório da colonização\nportuguesa na África e a convivência equilibrada entre\ncolonizadores e colonizados.\n(E) No conto, embora perceba ter ultrapassado um limite\nmoral ao descobrir o parentesco entre Maria e Madala, o\ncapataz personifica a imposição da violência e do\npatriarcalismo metropolitanos aos homens e mulheres de\nMoçambique.\n#####",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            297.5,
+            121.61469999999997,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            41.42470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "topic": "Representação social no conto Dina",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

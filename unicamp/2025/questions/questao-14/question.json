@@ -1,0 +1,102 @@
+{
+  "title": "Questão 14 - UNICAMP 2025 - 1ª fase",
+  "index": 14,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Texto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções\nenergéticas de desenvolvimento sustentável: além de fazer uso\nde tecnologia pouco agressiva ao ambiente, é uma enorme fonte de energia renovável.\n\nA área de um painel solar que gera uma potência elétrica\nP = 462 W é A = 2,5 m2. A intensidade da radiação solar que\nincide no painel, ou seja, a potência da radiação solar por unidade de área do painel, é I = 924 W/m2. Qual é a eficiência\nsolar\ndo painel solar, ou seja, qual é a razão entre a energia elétrica\ngerada e a energia solar que incide no painel num dado intervalo de tempo?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5 %.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20 %.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "50 %.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "80 %.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A área de um painel solar que gera uma potência elétrica\nP = 462 W é A = 2,5 m2. A intensidade da radiação solar que\nincide no painel, ou seja, a potência da radiação solar por uni-\ndade de área do painel, é I = 924 W/m2. Qual é a eficiência\nsolar\ndo painel solar, ou seja, qual é a razão entre a energia elétrica\ngerada e a energia solar que incide no painel num dado inter-\nvalo de tempo?\na) 5 %.\nb) 20 %.\nc) 50 %.\nd) 80 %.",
+    "sharedContext": "Texto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções\nenergéticas de desenvolvimento sustentável: além de fazer uso\nde tecnologia pouco agressiva ao ambiente, é uma enorme fonte de energia renovável.",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            131.9357
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            513.2711999999999,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 33 - UNICAMP 2026 - 1ª fase",
+  "index": 33,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "As imagens a seguir fazem parte da coleção International Dateline Collection III, exposta em um desfile internacional, organizado pela estilista brasileira Zuzu Angel, em Nova Iorque, no dia\n13 de setembro de 1971.\nLegenda: Vestido de noiva idealizado por Zuzu Angel.\nLegenda: Desenho de quepe militar nas cores verde oliva, amarela, azulão- Legenda: Desenho de canhão nas cores vermelha amarela, e azul. Possui\nverde; com aba na cor verde direcionada para a direita. Possui inscrição do bandeira na cor verde e bola na cor preta. Apresenta inscrição a lápis com\nnúmero \"32\" a lápis e à caneta, bem como o texto \"verde oliva, amarelo, o número \"23\" e assinatura \"Carlos L\" à caneta. Desenho utilizado em\nazulão-verde\" e a palavra \"azulão\" registrados à caneta. Desenho utilizado bordado de vestido.\nem bordado de vestido.\n(Imagens disponíveis em https://www.zuzuangel.com.br. Acesso em 01/08/2025.)\nSobre as criações de Zuzu Angel para a produção das peças e organização do desfile, é correto afirmar que a",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "utilização de um vestido de noiva, decorado com símbolos",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "escolha por desenhos infantis, associados aos motivos mili-",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "banalização de elementos militares, em um desfile de moda,\nmilitares e desenhos infantis, amenizava a percepção inter- mostra uma alienação de parte da classe artística brasileira\nnacional dos anos de chumbo do Brasil pós-AI5. diante do regime militar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "opção pelos motivos militares remonta à valorização do natares, expressa uma denúncia do desaparecimento de pre- cionalismo e à adesão da estilista à política externa do Resos políticos. gime Militar.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As imagens a seguir fazem parte da coleção International Date-\nline Collection III, exposta em um desfile internacional, organi-\nzado pela estilista brasileira Zuzu Angel, em Nova Iorque, no dia\n13 de setembro de 1971.\nLegenda: Vestido de noiva idealizado por Zuzu Angel.\nLegenda: Desenho de quepe militar nas cores verde oliva, amarela, azulão- Legenda: Desenho de canhão nas cores vermelha amarela, e azul. Possui\nverde; com aba na cor verde direcionada para a direita. Possui inscrição do bandeira na cor verde e bola na cor preta. Apresenta inscrição a lápis com\nnúmero \"32\" a lápis e à caneta, bem como o texto \"verde oliva, amarelo, o número \"23\" e assinatura \"Carlos L\" à caneta. Desenho utilizado em\nazulão-verde\" e a palavra \"azulão\" registrados à caneta. Desenho utilizado bordado de vestido.\nem bordado de vestido.\n(Imagens disponíveis em https://www.zuzuangel.com.br. Acesso em 01/08/2025.)\nSobre as criações de Zuzu Angel para a produção das peças e organização do desfile, é correto afirmar que a\na) utilização de um vestido de noiva, decorado com símbolos c) banalização de elementos militares, em um desfile de moda,\nmilitares e desenhos infantis, amenizava a percepção inter- mostra uma alienação de parte da classe artística brasileira\nnacional dos anos de chumbo do Brasil pós-AI5. diante do regime militar.\nb) escolha por desenhos infantis, associados aos motivos mili- d) opção pelos motivos militares remonta à valorização do na-\ntares, expressa uma denúncia do desaparecimento de pre- cionalismo e à adesão da estilista à política externa do Re-\nsos políticos. gime Militar.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            352.0111,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            40,
+            568,
+            353.1656
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

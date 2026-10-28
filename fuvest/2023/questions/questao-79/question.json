@@ -1,0 +1,100 @@
+{
+  "title": "Questão 79 - FUVEST 2023 - 1ª fase",
+  "index": 79,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "O slam ball é um exercício funcional no qual o praticante eleva\numa bola especial acima da cabeça e, após uma breve pausa,\na atira no chão, como mostra figura:\nConsidere uma pessoa de 1,70 m que eleva uma bola de 6 kg\na uma altura de 40 cm acima da sua cabeça. Em seguida, a\npessoa realiza sobre a bola um trabalho adicional de 10\ncalorias para arremessá-la. Se a colisão da bola com o solo for\nperfeitamente inelástica, a energia total dissipada na colisão\nserá de",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10 cal.\nNote e adote:",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20 cal.\nConsidere 1 cal = 4,2 J e g = 10 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "30 cal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "40 cal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "50 cal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O slam ball é um exercício funcional no qual o praticante eleva\numa bola especial acima da cabeça e, após uma breve pausa,\na atira no chão, como mostra figura:\nConsidere uma pessoa de 1,70 m que eleva uma bola de 6 kg\na uma altura de 40 cm acima da sua cabeça. Em seguida, a\npessoa realiza sobre a bola um trabalho adicional de 10\ncalorias para arremessá-la. Se a colisão da bola com o solo for\nperfeitamente inelástica, a energia total dissipada na colisão\nserá de\n(A)10 cal.\nNote e adote:\n(B) 20 cal.\nConsidere 1 cal = 4,2 J e g = 10 m/s2.\n(C) 30 cal.\n(D) 40 cal.\n(E) 50 cal.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            28,
+            494.3347,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            159.11469999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Trabalho mecânico e energia dissipada",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

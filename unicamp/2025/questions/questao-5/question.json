@@ -1,0 +1,105 @@
+{
+  "title": "Questão 5 - UNICAMP 2025 - 1ª fase",
+  "index": 5,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Leia o texto e observe a figura a seguir para responder às\nquestões 5 e 6.\nOs meses de abril e maio de 2024 foram marcados tanto pela\nocorrência de ondas de calor, que elevaram acima da média as\ntemperaturas em estados das regiões Centro-Oeste, Sudeste e\nparte do Sul, quanto pela ocorrência de precipitações intensas e\nconcentradas, que desencadearam alagamentos, inundações e\nmovimentos gravitacionais de massa no Rio Grande do Sul. Essas regiões são marcadamente urbanizadas, abrigando grande\ncontingente da população brasileira que vive em cidades, agora\nsujeitas à incidência de eventos extremos.\nFrente a esse cenário, são imprescindíveis, no enfrentamento\ndos problemas a curto, médio e longo prazos, as ações de planejamento territorial.\n(Elaboração COMVEST (2024), baseado nas seguintes fontes: https://noticias.uol.com.br/\ncotidiano/ultimas-noticias/2024/04/30/calor-espantoso-onda-nao-da-tregua-e-sp-pode-\n-bater-recorde-historico.htm/;https://www.marinha.mil.br/chm/dados-do-smm-cartas-\n-sinoticas/cartas-sinoticas. Acesso em 10/05/2024.)\n\nConsiderando os fenômenos meteorológicos atuantes no Brasil\ne tendo em vista as informações do texto e da figura anterior,\npode-se afirmar que a ocorrência das",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "precipitações extremas no período apresentado ficou restrita ao Rio Grande do Sul, pois a frente fria não avançou, por\nconta do bloqueio decorrente da Baixa Pressão, em direção\nao interior do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ondas de calor no período está associada a eventos de precipitação extrema, pois as Altas Pressões Atmosféricas dão\norigem às nuvens de tempestades que formam as frentes\nfrias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "precipitações extremas no período ocorreu no centro das\náreas de Alta Pressão e de Baixa Pressão, sendo que nas\nbordas desses sistemas se formaram as ondas de calor com\ntempo seco e temperaturas altas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ondas de calor tem origem na formação de zonas de Alta\nPressão; essas zonas, além de formarem tempo seco e, nesse caso, temperatura elevada, bloqueiam o avanço de frentes frias para o interior do país.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considerando os fenômenos meteorológicos atuantes no Brasil\ne tendo em vista as informações do texto e da figura anterior,\npode-se afirmar que a ocorrência das\na) precipitações extremas no período apresentado ficou restri-\nta ao Rio Grande do Sul, pois a frente fria não avançou, por\nconta do bloqueio decorrente da Baixa Pressão, em direção\nao interior do país.\nb) ondas de calor no período está associada a eventos de pre-\ncipitação extrema, pois as Altas Pressões Atmosféricas dão\norigem às nuvens de tempestades que formam as frentes\nfrias.\nc) precipitações extremas no período ocorreu no centro das\náreas de Alta Pressão e de Baixa Pressão, sendo que nas\nbordas desses sistemas se formaram as ondas de calor com\ntempo seco e temperaturas altas.\nd) ondas de calor tem origem na formação de zonas de Alta\nPressão; essas zonas, além de formarem tempo seco e, nes-\nse caso, temperatura elevada, bloqueiam o avanço de fren-\ntes frias para o interior do país.",
+    "sharedContext": "Leia o texto e observe a figura a seguir para responder às\nquestões 5 e 6.\nOs meses de abril e maio de 2024 foram marcados tanto pela\nocorrência de ondas de calor, que elevaram acima da média as\ntemperaturas em estados das regiões Centro-Oeste, Sudeste e\nparte do Sul, quanto pela ocorrência de precipitações intensas e\nconcentradas, que desencadearam alagamentos, inundações e\nmovimentos gravitacionais de massa no Rio Grande do Sul. Essas regiões são marcadamente urbanizadas, abrigando grande\ncontingente da população brasileira que vive em cidades, agora\nsujeitas à incidência de eventos extremos.\nFrente a esse cenário, são imprescindíveis, no enfrentamento\ndos problemas a curto, médio e longo prazos, as ações de planejamento territorial.\n(Elaboração COMVEST (2024), baseado nas seguintes fontes: https://noticias.uol.com.br/\ncotidiano/ultimas-noticias/2024/04/30/calor-espantoso-onda-nao-da-tregua-e-sp-pode-\n-bater-recorde-historico.htm/;https://www.marinha.mil.br/chm/dados-do-smm-cartas-\n-sinoticas/cartas-sinoticas. Acesso em 10/05/2024.)",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            618.5558,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            40,
+            568,
+            454.2913
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            454.2913,
+            568,
+            758.5575
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

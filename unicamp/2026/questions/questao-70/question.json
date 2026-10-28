@@ -1,0 +1,95 @@
+{
+  "title": "Questão 70 - UNICAMP 2026 - 1ª fase",
+  "index": 70,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "A produção industrial de barrilha (carbonato de sódio) é majoritariamente feita pelo processo Solvay. A barrilha é um dos\ncompostos químicos inorgânicos mais importantes globalmente, sendo vital para a fabricação de vidro, sabão, detergente,\npapel, entre muitos outros produtos. As reações envolvidas no\nprocesso Solvay, que ocorrem em fluxo contínuo, estão representadas esquematicamente no fluxograma a seguir.\nNaCl (saturado) CaCO 3 (s)\nNH 3 (g)\nCO 2 (g)\nNa 2 CO 3 (s) NaHCO 3 (s) NH 4 Cl (aq) CaO (s)\nH 2 O (vap) CaCl 2 (s)\n(Adaptado de ARAÚJO A. L. et al. Química Nova, v. 21, n. 1, p. 114, 1998.)\nNesse processo de fabricação, após o fluxo contínuo de produção ser iniciado, é necessário adicionar para sua manutenção",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "salmoura e calcário, pois a amônia é totalmente regenerada\ndurante o processo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "gás carbônico e salmoura, pois a amônia é totalmente regenerada durante o processo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "calcário e amônia, pois o gás carbônico é totalmente regenerado durante o processo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "amônia e salmoura, pois o gás carbônico é totalmente regenerado durante o processo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A produção industrial de barrilha (carbonato de sódio) é ma-\njoritariamente feita pelo processo Solvay. A barrilha é um dos\ncompostos químicos inorgânicos mais importantes globalmen-\nte, sendo vital para a fabricação de vidro, sabão, detergente,\npapel, entre muitos outros produtos. As reações envolvidas no\nprocesso Solvay, que ocorrem em fluxo contínuo, estão repre-\nsentadas esquematicamente no fluxograma a seguir.\nNaCl (saturado) CaCO 3 (s)\nNH 3 (g)\nCO 2 (g)\nNa 2 CO 3 (s) NaHCO 3 (s) NH 4 Cl (aq) CaO (s)\nH 2 O (vap) CaCl 2 (s)\n(Adaptado de ARAÚJO A. L. et al. Química Nova, v. 21, n. 1, p. 114, 1998.)\nNesse processo de fabricação, após o fluxo contínuo de produ-\nção ser iniciado, é necessário adicionar para sua manutenção\na) salmoura e calcário, pois a amônia é totalmente regenerada\ndurante o processo.\nb) gás carbônico e salmoura, pois a amônia é totalmente rege-\nnerada durante o processo.\nc) calcário e amônia, pois o gás carbônico é totalmente rege-\nnerado durante o processo.\nd) amônia e salmoura, pois o gás carbônico é totalmente rege-\nnerado durante o processo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            48.11609999999996,
+            291,
+            474.3822
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 26,
+        "bbox": [
+          30,
+          153.96579999999994,
+          291,
+          297.817
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

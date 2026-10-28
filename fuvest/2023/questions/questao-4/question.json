@@ -1,0 +1,100 @@
+{
+  "title": "Questão 4 - FUVEST 2023 - 1ª fase",
+  "index": 4,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "FAMÍLIA\nTrês meninos e duas meninas,\nsendo uma ainda de colo.\nA cozinheira preta, a copeira mulata,\no papagaio, o gato, o cachorro,\nas galinhas gordas no palmo de horta\ne a mulher que trata de tudo.\nA espreguiçadeira, a cama, a gangorra,\no cigarro, o trabalho, a reza,\na goiabada na sobremesa de domingo,\no palito nos dentes contentes,\no gramofone rouco toda noite\ne a mulher que trata de tudo.\nO agiota, o leiteiro, o turco,\no médico uma vez por mês,\no bilhete todas as semanas\nbranco! mas a esperança sempre verde.\nA mulher que trata de tudo\ne a felicidade.\nCarlos Drummond de Andrade. Alguma poesia.\nNo poema de Drummond,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a hierarquização dos substantivos que compõem a\nprimeira estrofe tem a função de situar essa família na\nsociedade escravagista do século XIX.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a repetição de um verbo de ação, em contraste com o\ncaráter nominal dos versos, destaca a serventia da figura\nfeminina na organização familiar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a ausência de menção direta ao homem produz um retrato\nreativo à família patriarcal, por salientar o protagonismo\nsocial da mulher.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o modo como os elementos que compõem a terceira\nestrofe estão relacionados permite inferir a prosperidade\neconômica familiar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o enquadramento da mulher no ambiente doméstico\nlança luz sobre um regime social que favorece a realização\nplena das potencialidades femininas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "FAMÍLIA\nTrês meninos e duas meninas,\nsendo uma ainda de colo.\nA cozinheira preta, a copeira mulata,\no papagaio, o gato, o cachorro,\nas galinhas gordas no palmo de horta\ne a mulher que trata de tudo.\nA espreguiçadeira, a cama, a gangorra,\no cigarro, o trabalho, a reza,\na goiabada na sobremesa de domingo,\no palito nos dentes contentes,\no gramofone rouco toda noite\ne a mulher que trata de tudo.\nO agiota, o leiteiro, o turco,\no médico uma vez por mês,\no bilhete todas as semanas\nbranco! mas a esperança sempre verde.\nA mulher que trata de tudo\ne a felicidade.\nCarlos Drummond de Andrade. Alguma poesia.\nNo poema de Drummond,\n(A) a hierarquização dos substantivos que compõem a\nprimeira estrofe tem a função de situar essa família na\nsociedade escravagista do século XIX.\n(B) a repetição de um verbo de ação, em contraste com o\ncaráter nominal dos versos, destaca a serventia da figura\nfeminina na organização familiar.\n(C) a ausência de menção direta ao homem produz um retrato\nreativo à família patriarcal, por salientar o protagonismo\nsocial da mulher.\n(D) o modo como os elementos que compõem a terceira\nestrofe estão relacionados permite inferir a prosperidade\neconômica familiar.\n(E) o enquadramento da mulher no ambiente doméstico\nlança luz sobre um regime social que favorece a realização\nplena das potencialidades femininas.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            28,
+            437.6347,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            234.32965000000002
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Leitura literária do poema Família",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

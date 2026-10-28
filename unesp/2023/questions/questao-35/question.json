@@ -1,0 +1,88 @@
+{
+  "title": "Questão 35 - UNESP 2023 - 1ª fase",
+  "index": 35,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Como jurisconsulto, não pretendo tratar da natureza da\nservidão, nem da qualidade do domínio que o homem adquire sobre seu semelhante. Pretendo defender os nossos colonos da reprovação, que muitas pessoas, mais piedosas que\nsábias, lhes fazem, afirmando que eles tratam cristãos como\nescravos, comprando-os, vendendo-os e deles dispondo em\nterritórios regidos pelas leis da França, um país que abomina\na servidão acima de todas as nações do mundo. Todos os\nescravos que desembarcam na França recuperam felizmente\na liberdade perdida.\n(Jean-Baptiste Du Tertre. Apud: Rafael de Bivar Marquese.\nFeitores do corpo, missionários da mente: Senhores, letrados e o\ncontrole dos escravos nas Américas, 1660-1860, 2004. Adaptado.)\nO excerto, publicado na década de 1660 por um padre\ndominicano após ter vivido quase duas décadas em colônias francesas na América,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "propõe conjugar a fé com a razão e aplica os princípios\nda escolástica à análise da condição dos escravos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "confirma a predominância dos valores morais cristãos\ncomo baliza para a definição da política colonial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reproduz princípios do pensamento de Voltaire e sustenta\no valor universal da liberdade de natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "estabelece uma diferenciação entre o respeito à liberdade no território francês e nas possessões coloniais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "endossa a crítica de Rousseau às desigualdades de origem e defende a abolição da escravidão em todo o império francês.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Como jurisconsulto, não pretendo tratar da natureza da\nservidão, nem da qualidade do domínio que o homem adqui-\nre sobre seu semelhante. Pretendo defender os nossos colo-\nnos da reprovação, que muitas pessoas, mais piedosas que\nsábias, lhes fazem, afirmando que eles tratam cristãos como\nescravos, comprando-os, vendendo-os e deles dispondo em\nterritórios regidos pelas leis da França, um país que abomina\na servidão acima de todas as nações do mundo. Todos os\nescravos que desembarcam na França recuperam felizmente\na liberdade perdida.\n(Jean-Baptiste Du Tertre. Apud: Rafael de Bivar Marquese.\nFeitores do corpo, missionários da mente: Senhores, letrados e o\ncontrole dos escravos nas Américas, 1660-1860, 2004. Adaptado.)\nO excerto, publicado na década de 1660 por um padre\ndominicano após ter vivido quase duas décadas em colô-\nnias francesas na América,\n(A) propõe conjugar a fé com a razão e aplica os princípios\nda escolástica à análise da condição dos escravos.\n(B) confirma a predominância dos valores morais cristãos\ncomo baliza para a definição da política colonial.\n(C) reproduz princípios do pensamento de Voltaire e sustenta\no valor universal da liberdade de natureza.\n(D) estabelece uma diferenciação entre o respeito à liberda-\nde no território francês e nas possessões coloniais.\n(E) endossa a crítica de Rousseau às desigualdades de ori-\ngem e defende a abolição da escravidão em todo o im-\npério francês.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            414.3848
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Questão 78 - FUVEST 2025 - 1ª fase",
+  "index": 78,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Disponível em https://andertoons.com/math/cartoon/7359/.\nContribui para o efeito de comicidade do cartum a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "atitude do docente diante da apatia do grupo, incapaz de\nproduzir uma resposta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "certeza do aluno em seu argumento, desafiando a\nautoridade do professor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "interpretação por parte do discente de símbolos\nmatemáticos ligados à teoria dos conjuntos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "adoção pelo professor de duas formas semelhantes e\neficazes de resolver a mesma equação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "rivalidade entre os colegas para determinar quem possui\nmais conhecimento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nDisponível em https://andertoons.com/math/cartoon/7359/.\nContribui para o efeito de comicidade do cartum a\n(A) atitude do docente diante da apatia do grupo, incapaz de\nproduzir uma resposta.\n(B) certeza do aluno em seu argumento, desafiando a\nautoridade do professor.\n(C) interpretação por parte do discente de símbolos\nmatemáticos ligados à teoria dos conjuntos.\n(D) adoção pelo professor de duas formas semelhantes e\neficazes de resolver a mesma equação.\n(E) rivalidade entre os colegas para determinar quem possui\nmais conhecimento.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            28,
+            248.63470000000007,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "topic": "Compreensão de humor e diálogo em inglês",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

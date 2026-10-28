@@ -1,0 +1,231 @@
+{
+  "title": "Questão 18 - UNESP 2026 - 1ª fase",
+  "index": 18,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões 18 e 19, examine o desenho de\nDedé Laurentino, concebido a partir do poema “No meio do\ncaminho”, de Carlos Drummond de Andrade (1902-1987).\n(Dedé Laurentino. Você está aqui, 2023. Adaptado.)\n\nPoucos poemas causaram tanta polêmica na história da literatura brasileira quanto “No meio do caminho”, publicado originalmente em 1928 na Revista de Antropofagia. São características desse poema de Drummond, que o afastam da estética\nparnasiana, ainda em voga no Brasil no início do século XX:",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png",
+    "figura-vetorial-09.png",
+    "figura-vetorial-10.png",
+    "figura-vetorial-11.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o emprego do verso livre e o recurso à coloquialidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a rigorosa contenção lírica e o recurso à coloquialidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a busca pela perfeição formal e o recurso à impessoalidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a rigorosa contenção lírica e o discurso socialmente\nengajado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o emprego do verso livre e o discurso socialmente\nengajado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Poucos poemas causaram tanta polêmica na história da litera-\ntura brasileira quanto “No meio do caminho”, publicado origi-\nnalmente em 1928 na Revista de Antropofagia. São caracterís-\nticas desse poema de Drummond, que o afastam da estética\nparnasiana, ainda em voga no Brasil no início do século XX:\n(A) o emprego do verso livre e o recurso à coloquialidade.\n(B) a rigorosa contenção lírica e o recurso à coloquialidade.\n(C) a busca pela perfeição formal e o recurso à impessoalidade.\n(D) a rigorosa contenção lírica e o discurso socialmente\nengajado.\n(E) o emprego do verso livre e o discurso socialmente\nengajado.",
+    "sharedContext": "Para responder às questões 18 e 19, examine o desenho de\nDedé Laurentino, concebido a partir do poema “No meio do\ncaminho”, de Carlos Drummond de Andrade (1902-1987).\n(Dedé Laurentino. Você está aqui, 2023. Adaptado.)",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            363.8128
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            363.8128,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 8,
+        "bbox": [
+          57.935,
+          66.81999999999994,
+          266.28699,
+          99.78197599999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 8,
+        "bbox": [
+          58.275999999999996,
+          94.1320078,
+          241.86399999999998,
+          239.657012
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 8,
+        "bbox": [
+          58.336,
+          238.54997809999998,
+          122.7555,
+          264.87199999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          238.54997809999998,
+          247.227,
+          264.87199999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 8,
+        "bbox": [
+          58.336,
+          255.08597810000003,
+          137.53730000000002,
+          281.408
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          255.08597810000003,
+          248.9411,
+          281.408
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 8,
+        "bbox": [
+          58.336,
+          271.6209781,
+          132.00900000000001,
+          297.943
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          271.6209781,
+          267.05649999999997,
+          297.943
+        ]
+      },
+      {
+        "file": "figura-vetorial-09.png",
+        "page": 8,
+        "bbox": [
+          58.336,
+          288.15697810000006,
+          115.7222,
+          314.47900000000004
+        ]
+      },
+      {
+        "file": "figura-vetorial-10.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          288.15697810000006,
+          217.71380000000002,
+          314.47900000000004
+        ]
+      },
+      {
+        "file": "figura-vetorial-11.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          307.05497809999997,
+          176.34140000000002,
+          333.37699999999995
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

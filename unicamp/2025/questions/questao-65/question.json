@@ -1,0 +1,107 @@
+{
+  "title": "Questão 65 - UNICAMP 2025 - 1ª fase",
+  "index": 65,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Os repelentes tópicos para a pele foram projetados para proteger – por contato ou à pequena distância – contra picadas\nde insetos. Além desses, há os repelentes ditos “espaciais”,\ncompostos cuja ação repelente é garantida para distâncias um\npouco maiores. Um repelente espacial cria uma zona livre de\nmosquitos causadores de arboviroses. Óleo de cravo, icaridina\ne transflutrina foram então testados para a prevenção contra\nfêmeas do mosquito Aedes aegypti, que são as responsáveis\npela transmissão dessas doenças. Os resultados desses testes\nsão mostrados na figura a seguir.\nTransflutrina (repelência) Transflutrina (mortalidade após 24 h)\nIcaradina (repelência)\nÓleo de cravo (repelência)\n100\n80\n60\n40\n20\n0\n0.001 mg0.003 mg0.01 mg0.03 mg 0.1 mg 0.3 mg 1 mg 3 mg 6 mg 15 mg 30 mg 60 mg\nConcentração (mg de princípio ativo/80 L)\nCom base nos resultados experimentais, é correto afirmar que,\nna faixa considerada,",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a transflutrina, a icaridina e o óleo de cravo têm ação repelente, mas não ação inseticida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apenas a transflutrina e a icaridina têm ação repelente, mas\nnão ação inseticida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a transflutrina, a icaridina e o óleo de cravo têm ação repelente, mas somente um deles tem ação inseticida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "apenas a transflutrina e a icaridina têm ação repelente, mas\nsomente uma delas tem ação inseticida.\netnelepeR\notiefE\nIcaradina (mortalidade após 24 h)\nÓleo de cravo (mortalidade após 24 h)\nadicitesnI\notiefE",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os repelentes tópicos para a pele foram projetados para pro-\nteger – por contato ou à pequena distância – contra picadas\nde insetos. Além desses, há os repelentes ditos “espaciais”,\ncompostos cuja ação repelente é garantida para distâncias um\npouco maiores. Um repelente espacial cria uma zona livre de\nmosquitos causadores de arboviroses. Óleo de cravo, icaridina\ne transflutrina foram então testados para a prevenção contra\nfêmeas do mosquito Aedes aegypti, que são as responsáveis\npela transmissão dessas doenças. Os resultados desses testes\nsão mostrados na figura a seguir.\nTransflutrina (repelência) Transflutrina (mortalidade após 24 h)\nIcaradina (repelência)\nÓleo de cravo (repelência)\n100\n80\n60\n40\n20\n0\n0.001 mg0.003 mg0.01 mg0.03 mg 0.1 mg 0.3 mg 1 mg 3 mg 6 mg 15 mg 30 mg 60 mg\nConcentração (mg de princípio ativo/80 L)\nCom base nos resultados experimentais, é correto afirmar que,\nna faixa considerada,\na) a transflutrina, a icaridina e o óleo de cravo têm ação repe-\nlente, mas não ação inseticida.\nb) apenas a transflutrina e a icaridina têm ação repelente, mas\nnão ação inseticida.\nc) a transflutrina, a icaridina e o óleo de cravo têm ação repe-\nlente, mas somente um deles tem ação inseticida.\nd) apenas a transflutrina e a icaridina têm ação repelente, mas\nsomente uma delas tem ação inseticida.\netnelepeR\notiefE\nIcaradina (mortalidade após 24 h)\nÓleo de cravo (mortalidade após 24 h)\nadicitesnI\notiefE",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            293.318,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 21,
+        "bbox": [
+          312.8643,
+          434.0174,
+          568,
+          576.061
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

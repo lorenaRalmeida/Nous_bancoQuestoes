@@ -1,0 +1,133 @@
+{
+  "title": "Questão 68 - UNESP 2024 - 1ª fase",
+  "index": 68,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A Agência Nacional de Vigilância Sanitária (Anvisa) estabelece que produtos alimentícios que contenham algum nutriente\nem quantidade elevada e prejudicial à saúde, como açúcar,\nsódio e gordura, apresentem essa informação em seus rótulos por meio de figuras padronizadas.\n(www.gov.br)\nAs gorduras são constituídas por misturas de triglicerídeos\nque, quando hidrolisados no organismo humano, produzem\ndiferentes moléculas de ácidos graxos. O quadro mostra as\nfórmulas químicas dos ácidos graxos obtidos em maior porcentagem na hidrólise enzimática de dois tipos de gorduras,\nX e Y.\nÁcido graxo obtido em maior\nTipo de gordura\nporcentagem na hidrólise enzimática\nX CH – (CH ) – COOH\n3 2 8\nY CH – (CH ) – CH = CH – (CH ) – COOH\n3 2 2 5\nA hidrólise enzimática da gordura produz maior\nporcentagem de ácidos graxos , que contribuem\npara a manutenção dos níveis adequados de lipoproteínas\ndo tipo . Essas lipoproteínas ajudam a eliminar o\nexcesso de colesterol do sangue e a prevenir a obstrução de\nvasos sanguíneos.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Y – insaturados – LDL.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "X – saturados – LDL.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Y – saturados – HDL.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "X – insaturados – HDL.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Y – insaturados – HDL.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A Agência Nacional de Vigilância Sanitária (Anvisa) estabele-\nce que produtos alimentícios que contenham algum nutriente\nem quantidade elevada e prejudicial à saúde, como açúcar,\nsódio e gordura, apresentem essa informação em seus rótu-\nlos por meio de figuras padronizadas.\n(www.gov.br)\nAs gorduras são constituídas por misturas de triglicerídeos\nque, quando hidrolisados no organismo humano, produzem\ndiferentes moléculas de ácidos graxos. O quadro mostra as\nfórmulas químicas dos ácidos graxos obtidos em maior por-\ncentagem na hidrólise enzimática de dois tipos de gorduras,\nX e Y.\nÁcido graxo obtido em maior\nTipo de gordura\nporcentagem na hidrólise enzimática\nX CH – (CH ) – COOH\n3 2 8\nY CH – (CH ) – CH = CH – (CH ) – COOH\n3 2 2 5\nA hidrólise enzimática da gordura produz maior\nporcentagem de ácidos graxos , que contribuem\npara a manutenção dos níveis adequados de lipoproteínas\ndo tipo . Essas lipoproteínas ajudam a eliminar o\nexcesso de colesterol do sangue e a prevenir a obstrução de\nvasos sanguíneos.\nAs lacunas do texto são preenchidas, respectivamente, por:\n(A) Y – insaturados – LDL.\n(B) X – saturados – LDL.\n(C) Y – saturados – HDL.\n(D) X – insaturados – HDL.\n(E) Y – insaturados – HDL.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 25,
+        "bbox": [
+          304,
+          109.92219999999998,
+          428.8863,
+          153.67219999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 25,
+        "bbox": [
+          437.2823,
+          109.92219999999998,
+          563.5323000000001,
+          153.67219999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 25,
+        "bbox": [
+          304,
+          240.24599999999998,
+          568,
+          336.1586
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Questão 83 - UNESP 2024 - 1ª fase",
+  "index": 83,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Analise o gráfico, que contém dados de matrículas no ensino superior presencial das 27 unidades da nossa Federação. Considere que essa rede de ensino superior presencial\ndistribui-se apenas em privada ou pública.\nRazão, por unidade da Federação, entre o número de matrículas no\nensino superior privado e o número de matrículas no ensino superior\npúblico – Brasil 2021\n(“Censo da educação superior 2021”.\nhttps://inep.gov.br, 2022. Adaptado.)\nA análise do gráfico revela que o número de unidades da\nFederação com 60% ou mais de matrículas no ensino superior presencial sendo da rede privada é igual a",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "13.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "19.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "12.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o gráfico, que contém dados de matrículas no en-\nsino superior presencial das 27 unidades da nossa Federa-\nção. Considere que essa rede de ensino superior presencial\ndistribui-se apenas em privada ou pública.\nRazão, por unidade da Federação, entre o número de matrículas no\nensino superior privado e o número de matrículas no ensino superior\npúblico – Brasil 2021\n(“Censo da educação superior 2021”.\nhttps://inep.gov.br, 2022. Adaptado.)\nA análise do gráfico revela que o número de unidades da\nFederação com 60% ou mais de matrículas no ensino supe-\nrior presencial sendo da rede privada é igual a\n(A) 10.\n(B) 13.\n(C) 7.\n(D) 19.\n(E) 12.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            439.312
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 32,
+        "bbox": [
+          30,
+          138.082,
+          291,
+          261.9534
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

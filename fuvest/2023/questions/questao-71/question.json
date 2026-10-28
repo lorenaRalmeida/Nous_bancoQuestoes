@@ -1,0 +1,90 @@
+{
+  "title": "Questão 71 - FUVEST 2023 - 1ª fase",
+  "index": 71,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Uma das apostas para a produção de energia limpa, sem\nemissão de gases de efeito estufa e sem geração de resíduos\nradioativos, é a fusão nuclear, como a que ocorre nas estrelas.\nEm laboratório, são utilizados os isótopos de hidrogênio\ndeutério ((cid:2870)𝐻) e trítio ((cid:2871)𝐻), que, dentro de um intenso campo\n(cid:2869) (cid:2869)\nmagnético, são aquecidos a 150 milhões de graus Celsius.\nNessas condições, (cid:2870)𝐻 e (cid:2871)𝐻 fundem-se formando (cid:2872)𝐻𝑒 e um\n(cid:2869) (cid:2869) (cid:2870)\noutro subproduto, além de liberar uma grande quantidade de\nenergia.\nCom base nessas informações, assinale a alternativa que traz\nas informações corretas sobre qual é o subproduto formado e\nsobre a variação de entalpia desse processo.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Próton; ΔH<0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Próton; ΔH>0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Nêutron; ΔH<0",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Nêutron; ΔH>0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Elétron; ΔH<0",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Uma das apostas para a produção de energia limpa, sem\nemissão de gases de efeito estufa e sem geração de resíduos\nradioativos, é a fusão nuclear, como a que ocorre nas estrelas.\nEm laboratório, são utilizados os isótopos de hidrogênio\ndeutério ((cid:2870)𝐻) e trítio ((cid:2871)𝐻), que, dentro de um intenso campo\n(cid:2869) (cid:2869)\nmagnético, são aquecidos a 150 milhões de graus Celsius.\nNessas condições, (cid:2870)𝐻 e (cid:2871)𝐻 fundem-se formando (cid:2872)𝐻𝑒 e um\n(cid:2869) (cid:2869) (cid:2870)\noutro subproduto, além de liberar uma grande quantidade de\nenergia.\nCom base nessas informações, assinale a alternativa que traz\nas informações corretas sobre qual é o subproduto formado e\nsobre a variação de entalpia desse processo.\n(A) Próton; ΔH<0\n(B) Próton; ΔH>0\n(C) Nêutron; ΔH<0\n(D) Nêutron; ΔH>0\n(E) Elétron; ΔH<0",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            297.5,
+            370.67470000000003,
+            567,
+            630.9547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Fusão nuclear e variação de entalpia",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

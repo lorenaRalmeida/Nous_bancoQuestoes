@@ -1,0 +1,919 @@
+{
+  "board": "UNESP",
+  "year": 2023,
+  "phase": 1,
+  "version": "1",
+  "source": "unesp-2023-fase1-prova.pdf",
+  "sha256": "d08b8daf2570f63174b8a01c48dfe6c7e40e01dc989b1d1974a8b9c115be171d",
+  "instructions": "veStIBULaR 2023\n001. PRova de CoNheCImeNtoS GeRaIS\nConfira seus dados impressos neste caderno.\nA ssine com caneta de tinta preta a Folha de Respostas apenas no local indicado.\nE sta prova contém 90 questões objetivas.\nQ uando for permitido abrir o caderno, verifique se está completo ou se apresenta imperfeições. Caso haja algum pro-\nblema, informe ao fiscal da sala para a devida substituição.\nPara cada questão, o candidato deverá assinalar apenas uma alternativa na Folha de Respostas, utilizando caneta de\ntinta preta.\nE ncontra-se neste caderno a Classificação Periódica, que poderá ser útil para a resolução de questões.\nEsta prova terá duração total de 5h e o candidato somente poderá sair do prédio depois de transcorridas 3h, contadas\na partir do início da prova.\nO s últimos três candidatos deverão se retirar juntos da sala.\nA o final da prova, antes de sair da sala, entregue ao fiscal a Folha de Respostas e o Caderno de Questões.\n(Questões 01 – 90)\nNome do candidato\nRG Inscrição Prédio Sala Carteira\nConfidencial até o momento da aplicação.",
+  "questions": [
+    {
+      "index": 1,
+      "file": "questions/questao-1/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 2,
+      "file": "questions/questao-2/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 3,
+      "file": "questions/questao-3/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 4,
+      "file": "questions/questao-4/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 5,
+      "file": "questions/questao-5/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 6,
+      "file": "questions/questao-6/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 7,
+      "file": "questions/questao-7/question.json",
+      "correctAlternative": "E",
+      "discipline": "Português"
+    },
+    {
+      "index": 8,
+      "file": "questions/questao-8/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 9,
+      "file": "questions/questao-9/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 10,
+      "file": "questions/questao-10/question.json",
+      "correctAlternative": "A",
+      "discipline": "História"
+    },
+    {
+      "index": 11,
+      "file": "questions/questao-11/question.json",
+      "correctAlternative": "E",
+      "discipline": "Português"
+    },
+    {
+      "index": 12,
+      "file": "questions/questao-12/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 13,
+      "file": "questions/questao-13/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 14,
+      "file": "questions/questao-14/question.json",
+      "correctAlternative": "A",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 15,
+      "file": "questions/questao-15/question.json",
+      "correctAlternative": "E",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 16,
+      "file": "questions/questao-16/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 17,
+      "file": "questions/questao-17/question.json",
+      "correctAlternative": "D",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 18,
+      "file": "questions/questao-18/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 19,
+      "file": "questions/questao-19/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 20,
+      "file": "questions/questao-20/question.json",
+      "correctAlternative": "E",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 21,
+      "file": "questions/questao-21/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 22,
+      "file": "questions/questao-22/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 23,
+      "file": "questions/questao-23/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 24,
+      "file": "questions/questao-24/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 25,
+      "file": "questions/questao-25/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 26,
+      "file": "questions/questao-26/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 27,
+      "file": "questions/questao-27/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 28,
+      "file": "questions/questao-28/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 29,
+      "file": "questions/questao-29/question.json",
+      "correctAlternative": "E",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 30,
+      "file": "questions/questao-30/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 31,
+      "file": "questions/questao-31/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 32,
+      "file": "questions/questao-32/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 33,
+      "file": "questions/questao-33/question.json",
+      "correctAlternative": "E",
+      "discipline": "História"
+    },
+    {
+      "index": 34,
+      "file": "questions/questao-34/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 35,
+      "file": "questions/questao-35/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 36,
+      "file": "questions/questao-36/question.json",
+      "correctAlternative": "A",
+      "discipline": "História"
+    },
+    {
+      "index": 37,
+      "file": "questions/questao-37/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 38,
+      "file": "questions/questao-38/question.json",
+      "correctAlternative": "E",
+      "discipline": "História"
+    },
+    {
+      "index": 39,
+      "file": "questions/questao-39/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 40,
+      "file": "questions/questao-40/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 41,
+      "file": "questions/questao-41/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 42,
+      "file": "questions/questao-42/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 43,
+      "file": "questions/questao-43/question.json",
+      "correctAlternative": "B",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 44,
+      "file": "questions/questao-44/question.json",
+      "correctAlternative": "E",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 45,
+      "file": "questions/questao-45/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 46,
+      "file": "questions/questao-46/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 47,
+      "file": "questions/questao-47/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 48,
+      "file": "questions/questao-48/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 49,
+      "file": "questions/questao-49/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 50,
+      "file": "questions/questao-50/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 51,
+      "file": "questions/questao-51/question.json",
+      "correctAlternative": "E",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 52,
+      "file": "questions/questao-52/question.json",
+      "correctAlternative": "C",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 53,
+      "file": "questions/questao-53/question.json",
+      "correctAlternative": "B",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 54,
+      "file": "questions/questao-54/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 55,
+      "file": "questions/questao-55/question.json",
+      "correctAlternative": "E",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 56,
+      "file": "questions/questao-56/question.json",
+      "correctAlternative": "C",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 57,
+      "file": "questions/questao-57/question.json",
+      "correctAlternative": "A",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 58,
+      "file": "questions/questao-58/question.json",
+      "correctAlternative": "A",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 59,
+      "file": "questions/questao-59/question.json",
+      "correctAlternative": "A",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 60,
+      "file": "questions/questao-60/question.json",
+      "correctAlternative": "E",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 61,
+      "file": "questions/questao-61/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 62,
+      "file": "questions/questao-62/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 63,
+      "file": "questions/questao-63/question.json",
+      "correctAlternative": "D",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 64,
+      "file": "questions/questao-64/question.json",
+      "correctAlternative": "D",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 65,
+      "file": "questions/questao-65/question.json",
+      "correctAlternative": "A",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 66,
+      "file": "questions/questao-66/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 67,
+      "file": "questions/questao-67/question.json",
+      "correctAlternative": "E",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 68,
+      "file": "questions/questao-68/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 69,
+      "file": "questions/questao-69/question.json",
+      "correctAlternative": "D",
+      "discipline": "Química"
+    },
+    {
+      "index": 70,
+      "file": "questions/questao-70/question.json",
+      "correctAlternative": "E",
+      "discipline": "Física"
+    },
+    {
+      "index": 71,
+      "file": "questions/questao-71/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 72,
+      "file": "questions/questao-72/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 73,
+      "file": "questions/questao-73/question.json",
+      "correctAlternative": "C",
+      "discipline": "Química"
+    },
+    {
+      "index": 74,
+      "file": "questions/questao-74/question.json",
+      "correctAlternative": "A",
+      "discipline": "Química"
+    },
+    {
+      "index": 75,
+      "file": "questions/questao-75/question.json",
+      "correctAlternative": "A",
+      "discipline": "Química"
+    },
+    {
+      "index": 76,
+      "file": "questions/questao-76/question.json",
+      "correctAlternative": "C",
+      "discipline": "Física"
+    },
+    {
+      "index": 77,
+      "file": "questions/questao-77/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 78,
+      "file": "questions/questao-78/question.json",
+      "correctAlternative": "E",
+      "discipline": "Física"
+    },
+    {
+      "index": 79,
+      "file": "questions/questao-79/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 80,
+      "file": "questions/questao-80/question.json",
+      "correctAlternative": "C",
+      "discipline": "Física"
+    },
+    {
+      "index": 81,
+      "file": "questions/questao-81/question.json",
+      "correctAlternative": "A",
+      "discipline": "Física"
+    },
+    {
+      "index": 82,
+      "file": "questions/questao-82/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 83,
+      "file": "questions/questao-83/question.json",
+      "correctAlternative": "E",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 84,
+      "file": "questions/questao-84/question.json",
+      "correctAlternative": "E",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 85,
+      "file": "questions/questao-85/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 86,
+      "file": "questions/questao-86/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 87,
+      "file": "questions/questao-87/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 88,
+      "file": "questions/questao-88/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 89,
+      "file": "questions/questao-89/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 90,
+      "file": "questions/questao-90/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    }
+  ],
+  "questionCount": 90,
+  "sharedContexts": [
+    {
+      "targets": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "lines": [
+        "Para responder às questões de 02 a 07, leia o trecho do con-",
+        "to “A menina, as aves e o sangue”, do escritor moçambicano",
+        "Mia Couto (1955- ).",
+        "Aconteceu, certa vez, uma menina a quem o coração ba-",
+        "tia só de quando em enquantos. A mãe sabia que o sangue",
+        "estava parado pelo roxo dos lábios, palidez nas unhas. Se o",
+        "coração estancava por demasia de tempo a menina come-",
+        "çava a esfriar e se cansava muito. A mãe, então, se afligia:",
+        "roía o dedo e deixava a unha intacta. Até que o peito da filha",
+        "voltava a dar sinal:",
+        "— Mãe, venha ouvir: está a bater!",
+        "A mãe acorria, debruçando a orelha sobre o peito estreito",
+        "que soletrava pulsação. E pareciam, as duas, presenciando",
+        "pingo de água em pleno deserto. Depois, o sangue dela vol-",
+        "tava a calar, resina empurrando a arrastosa vida.",
+        "Até que, certa noite, a mulher ganhou para o susto. Foi",
+        "quando ela escutou os pássaros. Sentou na cama: não eram",
+        "só piares, chilreinações. Eram rumores de asas, brancos dra-",
+        "pejos de plumas. A mãe se ergueu, pé descalço pelo corre-",
+        "dor. Foi ao quarto da menina e joelhou-se junto ao leito. Sen-",
+        "tiu a transpiração, reconheceu o seu próprio cheiro. Quando",
+        "lhe ia tocar na fronte a menina despertou:",
+        "— Mãe, que bom, me acordou! Eu estava sonhar",
+        "pássaros.",
+        "A mãe sortiu-se de medo, aconchegou o lençol como se",
+        "protegesse a filha de uma maldição. Ao tocar no lençol uma",
+        "pena se desprendeu e subiu, levinha, volteando pelo ar. A",
+        "menina suspirou e a pluma, algodão em asa, de novo se er-",
+        "gueu, rodopiando por alturas do tecto. A mãe tentou apanhar",
+        "a errante plumagem. Em vão, a pena saiu voando pela jane-",
+        "la. A senhora ficou espreitando a noite, na ilusão de escutar",
+        "a voz de um pássaro. Depois, retirou-se, adentrando-se na",
+        "solidão do seu quarto. Dos pássaros selou-se o segredo, só",
+        "entre as duas.[...]",
+        "Com o tempo, porém, cada vez menos o coração se fazia",
+        "frequente. Quase deixou de dar sinais à vida. Até que essa",
+        "imobilidade se prolongou por consecutivas demoras. A meni-",
+        "na falecera? Não se vislumbravam sinais dessa derradeira-",
+        "gem. Pois ela seguia praticando vivências, brincando, sem-",
+        "pre cansadinha, resfriorenta. Uma só diferença se contava.",
+        "Já à noite a mãe não escutava os piares.",
+        "— Agora não sonha, filha?",
+        "— Ai mãe, está tão escuro no meu sonho!",
+        "Só então a mãe arrepiou decisão e foi à cidade:",
+        "— Doutor, lhe respeito a permissão: queria saber a saúde",
+        "de minha única. É seu peito... nunca mais deu sinal.",
+        "O médico corrigiu os óculos como se entendesse rectifi-",
+        "car a própria visão. Clareou a voz, para melhor se autorizar.",
+        "E disse:",
+        "— Senhora, vou dizer: a sua menina já morreu.",
+        "— Morta, a minha menina? Mas, assim...?",
+        "— Esta é a sua maneira de estar morta.",
+        "A senhora escutou, mãos juntas, na educação do colo.",
+        "Anuindo com o queixo, ia esbugolhando o médico. Todo seu",
+        "corpo dizia sim, mas ela, dentro do seu centro, duvidava.",
+        "Pode-se morrer assim com tanta leveza, que nem se nota",
+        "a retirada da vida? E o médico, lhe amparando, já na porta:",
+        "— Não se entristonhe, a morte é o fim sem finalidade.",
+        "A mãe regressou à casa e encontrou a filha entoando",
+        "danças, cantarolando canções que nem existem. Se chegou",
+        "a ela, tocou-lhe como se a miúda inexistisse. A sua pele não",
+        "desprendia calor.",
+        "— Então, minha querida não escutou nada?",
+        "Ela negou. A mãe percorreu o quarto, vasculhou recan-",
+        "tos. Buscava uma pena, o sinal de um pássaro. Mas nada",
+        "não encontrou. E assim, ficou sendo, então e adiante.",
+        "Cada vez mais fria, a moça brinca, se aquece na torreira",
+        "do sol. Quando acorda, manhã alta, encontra flores que a",
+        "mãe depositou ao pé da cama. Ao fim da tarde, as duas, mãe",
+        "e filha, passeiam pela praça e os velhos descobrem a cabeça",
+        "em sinal de respeito.",
+        "E o caso se vai seguindo, estória sem história. Uma úni-",
+        "ca, silenciosa, sombra se instalou: de noite, a mãe deixou de",
+        "dormir. Horas a fio a sua cabeça anda em serviço de escutar,",
+        "a ver se regressam as vozearias das aves.",
+        "(Mia Couto. A menina sem palavra, 2013.)"
+      ],
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            366.3472999999999,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            22,
+            568,
+            576.2399
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "lines": [
+        "Leia o soneto “Descreve o que era naquele tempo a cida-",
+        "de da Bahia”, do poeta Gregório de Matos (1636-1696), para",
+        "responder às questões de 09 a 12.",
+        "A cada canto um grande conselheiro,",
+        "Que nos quer governar cabana e vinha;",
+        "Não sabem governar sua cozinha,",
+        "E podem governar o mundo inteiro.",
+        "Em cada porta um bem frequente olheiro,",
+        "Que a vida do vizinho e da vizinha",
+        "Pesquisa, escuta, espreita e esquadrinha,",
+        "Para o levar à praça e ao terreiro.",
+        "Muitos mulatos desavergonhados,",
+        "Trazidos sob os pés os homens nobres¹,",
+        "Posta nas palmas toda a picardia,",
+        "Estupendas usuras nos mercados,",
+        "Todos os que não furtam muito pobres:",
+        "E eis aqui a cidade da Bahia.",
+        "(Gregório de Matos. Poemas escolhidos, 2010.)",
+        "1 Trazidos sob os pés os homens nobres: na visão de Gregório de",
+        "Matos, os mulatos em ascensão subjugam com esperteza os verdadei-",
+        "ros “homens nobres”."
+      ],
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            363.925
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "lines": [
+        "Para responder às questões de 14 a 19, leia o trecho de um",
+        "ensaio de Michel de Montaigne (1533-1592).",
+        "Há alguma razão em fazer o julgamento de um homem",
+        "pelos aspectos mais comuns de sua vida; mas, tendo em",
+        "vista a natural instabilidade de nossos costumes e opiniões,",
+        "muitas vezes me pareceu que mesmo os bons autores estão",
+        "errados em se obstinarem em formar de nós uma ideia cons-",
+        "tante e sólida. Escolhem um caráter universal e, seguindo",
+        "essa imagem, vão arrumando e interpretando todas as ações",
+        "de um personagem, e, se não conseguem torcê-las o sufi-",
+        "ciente, atribuem-nas à dissimulação. Creio mais dificilmente",
+        "na constância dos homens do que em qualquer outra coisa,",
+        "e em nada mais facilmente do que na inconstância. Quem os",
+        "julgasse nos pormenores e separadamente, peça por peça,",
+        "teria mais ocasiões de dizer a verdade.",
+        "Em toda a Antiguidade é difícil escolher uma dúzia de",
+        "homens que tenham ordenado sua vida num projeto definido",
+        "e seguro, que é o principal objetivo da sabedoria. Pois para",
+        "resumi-la por inteiro numa só palavra e abranger em uma só",
+        "todas as regras de nossa vida, “a sabedoria”, diz um antigo,",
+        "“é sempre querer a mesma coisa, é sempre não querer a",
+        "mesma coisa”, “eu não me dignaria”, diz ele, “a acrescentar",
+        "‘contanto que a tua vontade esteja certa’, pois se não está",
+        "certa, é impossível que sempre seja uma só e a mesma.” Na",
+        "verdade, aprendi outrora que o vício é apenas o desregra-",
+        "mento e a falta de moderação; e, por conseguinte, é impos-",
+        "sível o imaginarmos constante. É uma frase de Demóstenes,",
+        "dizem, que “o começo de toda virtude são a reflexão e a de-",
+        "liberação, e seu fim e sua perfeição, a constância”. Se, guia-",
+        "dos pela reflexão, pegássemos certa via, pegaríamos a mais",
+        "bela, mas ninguém pensa antes de agir: “O que ele pediu,",
+        "desdenha; exige o que acaba de abandonar; agita-se e sua",
+        "vida não se dobra a nenhuma ordem.”",
+        "(Michel de Montaigne. Os ensaios: uma seleção, 2010. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "lines": [
+        "Examine o gráfico e o mapa e leia o texto para responder às",
+        "questões de 21 a 26.",
+        "In March 2022, parts of Antarctica have been 40 ºC",
+        "warmer than their March average",
+        "The Concordia research station is one of the most",
+        "inhospitable places on Earth. At 3,000 m above sea level on",
+        "the Antarctic Plateau, the temperature rarely rises above",
+        "-25 ºC even in the summer. In midwinter it can fall to around",
+        "-80 ºC. The air is painfully dry, and fingers, toes and noses",
+        "can freeze in minutes. The dozen or so crew, mainly French",
+        "and Italian, who live and work in the station would normally",
+        "venture out only for essential work. But Concordia has recently",
+        "experienced a heatwave. On March 18th the temperature",
+        "reached a high of -11.8 ºC — more than 40 ºC warmer than",
+        "the average for this time of year.",
+        "Similarly freakish weather was recorded across eastern",
+        "Antarctica. Temperatures at the Russian-run Vostok",
+        "research station rose to -17.7 ºC, more than 15 ºC above the",
+        "previous record for March, set in 1967. Across the continent",
+        "temperatures were 4.5 ºC higher than usual (though in recent",
+        "days they have returned to a normal range).",
+        "Meteorologists have attributed the latest heatwave to",
+        "an atmospheric “river” of warm, damp air blowing towards",
+        "Antarctica from the Southern Ocean near Australia. It is",
+        "difficult to know whether climate change is to blame for",
+        "one-off weather events. But over the past 65 years or",
+        "so there has been an increase in the number of “high",
+        "temperature” days at Antarctic stations.",
+        "Most regions of Antarctica have been spared global",
+        "warming. In the late 20th century, a large hole opened",
+        "up in the ozone layer above the South Pole. This has a",
+        "regional cooling effect, which has offset much of the heating",
+        "caused by rising concentrations of greenhouse gases in the",
+        "atmosphere. Temperatures on the continent rarely climb",
+        "above freezing, which preserves its vast ice sheets (although",
+        "rising sea temperatures do threaten some areas). Even in",
+        "the recent surge, temperatures stayed well below zero.",
+        "(www.economist.com, 24.03.2022. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            22,
+            568,
+            457.5628
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        27,
+        28,
+        29
+      ],
+      "lines": [
+        "Leia o texto para responder às questões de 27 a 29.",
+        "World’s happiest ranking goes to",
+        "Finland for fifth year in a row",
+        "People enjoy sunny weather on the waterfront in Helsinki.",
+        "Finland was crowned the happiest country in the world for",
+        "the fifth consecutive year, with a score significantly ahead of its",
+        "peers in the World Happiness Report 2022 ranking, published",
+        "by a body linked to the United Nations. However, the authors",
+        "detected, on average, a long-term moderate upward trend in",
+        "stress, worry, and sadness in most countries, as well as “a",
+        "slight long-term decline in the enjoyment of life,” they wrote.",
+        "The report uses global survey data to report on how",
+        "people evaluate their own lives in more than 150 countries",
+        "around the world, with the ranking based on a three-year",
+        "average. Key variables that contribute to explaining people’s",
+        "life evaluations include healthy life expectancy, generosity,",
+        "social support, freedom to make life choices, perceptions of",
+        "corruption, and the gross domestic product per capita (an",
+        "indicator that measures a country’s economic output per",
+        "person, that is calculated by dividing the total gross domestic",
+        "product of a country by its population).",
+        "“World leaders should take heed,” Jeffrey Sachs, director",
+        "of the Center for Sustainable Development at Columbia",
+        "University, said. “Politics should be directed as the great",
+        "sages long ago insisted: to the well-being of the people, not",
+        "the power of the rulers.”",
+        "(Kati Pohjanpalo. www.bloomberg.com, 18.03.2022. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            562.2457999999999
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "sequenceComplete": true,
+    "alternativesComplete": true,
+    "answerCount": 90,
+    "cancelled": [],
+    "disciplinesAssigned": 90,
+    "localFilesPresent": true
+  },
+  "graphicAlternatives": [
+    {
+      "index": 80,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "disciplineCounts": {
+    "Biologia": 8,
+    "Filosofia": 9,
+    "Física": 10,
+    "Geografia": 13,
+    "História": 13,
+    "Inglês": 10,
+    "Matemática": 7,
+    "Português": 14,
+    "Química": 5,
+    "Sociologia": 1
+  }
+}

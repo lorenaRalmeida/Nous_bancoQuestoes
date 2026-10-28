@@ -1,0 +1,94 @@
+{
+  "title": "Questão 5 - UNICAMP 2023 - 1ª fase",
+  "index": 5,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "(Fonte: Twitter. https://twitter.com/_paulo_bruno/status/1513855458456616969. Acesso em 03/06/2022.)\nO texto apresenta a reprodução de uma postagem em Twitter\ndo ilustrador e quadrinista Paulo Bruno. Considerando o texto\ne as duas imagens do tuíte, assinale a alternativa que melhor\ndescreve o sentido de “interpretação” nesse contexto particular\nde uso.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A imaginação, em desenho, do ponto de vista da selfie que\né tematizada na foto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "A adulteração, no desenho, do significado da foto pela mudança de perspectiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A cópia, em ilustração, de uma fotografia que mostra a produção de uma selfie.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A recriação, em fotografia, da ilustração que simula uma\nselfie em grupo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "(Fonte: Twitter. https://twitter.com/_paulo_bruno/status/1513855458456616969. Aces-\nso em 03/06/2022.)\nO texto apresenta a reprodução de uma postagem em Twitter\ndo ilustrador e quadrinista Paulo Bruno. Considerando o texto\ne as duas imagens do tuíte, assinale a alternativa que melhor\ndescreve o sentido de “interpretação” nesse contexto particular\nde uso.\na) A imaginação, em desenho, do ponto de vista da selfie que\né tematizada na foto.\nb) A adulteração, no desenho, do significado da foto pela mu-\ndança de perspectiva.\nc) A cópia, em ilustração, de uma fotografia que mostra a pro-\ndução de uma selfie.\nd) A recriação, em fotografia, da ilustração que simula uma\nselfie em grupo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            533.5908,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            40,
+            568,
+            281.48040000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

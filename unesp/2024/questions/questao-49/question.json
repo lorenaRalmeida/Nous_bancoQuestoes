@@ -1,0 +1,111 @@
+{
+  "title": "Questão 49 - UNESP 2024 - 1ª fase",
+  "index": 49,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise o mapa que apresenta as placas tectônicas envolvidas no terremoto ocorrido na região de Anatólia, na Turquia,\nem fevereiro de 2023.\n(www.ipma.pt. Adaptado.)\nSegundo a classificação das placas tectônicas quanto ao\ntipo de deslocamento, o terremoto na região de Anatólia está\nrelacionado",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ao movimento de uma placa sobre a outra, ao longo de\numa fossa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ao afundamento de uma placa em relação à outra, ao\nlongo de uma montanha.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ao movimento de uma placa em relação à outra, ao longo\nde uma falha.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "ao afundamento de uma placa sob a outra, ao longo de\num continente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ao distanciamento de uma placa em relação à outra, ao\nlongo de uma dorsal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o mapa que apresenta as placas tectônicas envolvi-\ndas no terremoto ocorrido na região de Anatólia, na Turquia,\nem fevereiro de 2023.\n(www.ipma.pt. Adaptado.)\nSegundo a classificação das placas tectônicas quanto ao\ntipo de deslocamento, o terremoto na região de Anatólia está\nrelacionado\n(A) ao movimento de uma placa sobre a outra, ao longo de\numa fossa.\n(B) ao afundamento de uma placa em relação à outra, ao\nlongo de uma montanha.\n(C) ao movimento de uma placa em relação à outra, ao longo\nde uma falha.\n(D) ao afundamento de uma placa sob a outra, ao longo de\num continente.\n(E) ao distanciamento de uma placa em relação à outra, ao\nlongo de uma dorsal.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 18,
+        "bbox": [
+          312.3066,
+          84.42109999999991,
+          553.6273,
+          336.3038
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

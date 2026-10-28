@@ -1,0 +1,90 @@
+{
+  "title": "Questão 50 - FUVEST 2023 - 1ª fase",
+  "index": 50,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Disponível em https://incrivel.club/admiracao-fotografia/. Adaptado.\nCom base na peça publicitária da Anistia Internacional, é\ncorreto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a correlação verbo-visual, reforçada pela polissemia do verbo\n“desligar”, contrapõe quem vive e quem observa a guerra.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "os pronomes “você” e “eles” indicam compatibilidade\nideológica entre grupos de regiões diferentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a linguagem visual impede a conscientização acerca das\nrealidades das zonas de guerra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a omissão do verbo no segundo período do texto coloca o\nleitor como participante da guerra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os recursos visuais possuem independência da expressão\nlinguística na interpretação da publicidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Disponível em https://incrivel.club/admiracao-fotografia/. Adaptado.\nCom base na peça publicitária da Anistia Internacional, é\ncorreto afirmar que\n(A) a correlação verbo-visual, reforçada pela polissemia do verbo\n“desligar”, contrapõe quem vive e quem observa a guerra.\n(B) os pronomes “você” e “eles” indicam compatibilidade\nideológica entre grupos de regiões diferentes.\n(C) a linguagem visual impede a conscientização acerca das\nrealidades das zonas de guerra.\n(D) a omissão do verbo no segundo período do texto coloca o\nleitor como participante da guerra.\n(E) os recursos visuais possuem independência da expressão\nlinguística na interpretação da publicidade.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            476.9946
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Polissemia e relação verbo-visual na publicidade",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

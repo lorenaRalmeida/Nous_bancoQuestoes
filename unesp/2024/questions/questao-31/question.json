@@ -1,0 +1,102 @@
+{
+  "title": "Questão 31 - UNESP 2024 - 1ª fase",
+  "index": 31,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Observe as fachadas de duas igrejas. À esquerda, a Basílica\nde San Michele, construída no século XII em Pavia, na Itália.\nÀ direita, a Catedral de Reims, erguida a partir do século XIII\nem Reims, na França.\n(Georges Duby e Michel Laclotte (orgs.). História artística da Europa:\na Idade Média II, 1998.)\nAs duas fachadas",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diferenciam-se pela pouca ornamentação de San Michele,\nque expressa o estilo românico, e pela monumentalidade\ne sofisticação de Reims.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "diferenciam-se pela solidez de San Michele, que simboliza a força espiritual do catolicismo, e pela carência de\ndetalhes na sede papal em Reims.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "igualam-se na suntuosidade e no rebuscamento arquitetônico, indicando o poderio econômico da Igreja católica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "diferenciam-se pela discrição de San Michele, que revela\no rigor na conduta dos protestantes, e pela ostentação da\nriqueza católica de Reims.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "igualam-se na caracterização gótica, revelando a busca\nda verticalidade como símbolo do poder divino.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Observe as fachadas de duas igrejas. À esquerda, a Basílica\nde San Michele, construída no século XII em Pavia, na Itália.\nÀ direita, a Catedral de Reims, erguida a partir do século XIII\nem Reims, na França.\n(Georges Duby e Michel Laclotte (orgs.). História artística da Europa:\na Idade Média II, 1998.)\nAs duas fachadas\n(A) diferenciam-se pela pouca ornamentação de San Michele,\nque expressa o estilo românico, e pela monumentalidade\ne sofisticação de Reims.\n(B) diferenciam-se pela solidez de San Michele, que simbo-\nliza a força espiritual do catolicismo, e pela carência de\ndetalhes na sede papal em Reims.\n(C) igualam-se na suntuosidade e no rebuscamento arquite-\ntônico, indicando o poderio econômico da Igreja católica.\n(D) diferenciam-se pela discrição de San Michele, que revela\no rigor na conduta dos protestantes, e pela ostentação da\nriqueza católica de Reims.\n(E) igualam-se na caracterização gótica, revelando a busca\nda verticalidade como símbolo do poder divino.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

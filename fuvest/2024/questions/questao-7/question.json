@@ -1,0 +1,100 @@
+{
+  "title": "Questão 7 - FUVEST 2024 - 1ª fase",
+  "index": 7,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "A charge de Angelo Agostini foi publicada em 1880, em meio\naos debates sobre a Lei dos Sexagenários no parlamento\nbrasileiro.\nAngelo Agostini. “Escravidão ou morte”, Revista Illustrada n.222 (RJ), 1880.\nA charge",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "endossa a defesa, pelos setores políticos liberais, do\nemprego de trabalhadores brancos, representados nas\nlaterais do monumento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "critica a concepção de independência manifesta na\nestátua equestre de Pedro I e a defesa da extinção do\ntráfico de escravizados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "expõe a contradição entre a liberdade expressa na estátua\nequestre de Pedro I e as mazelas enfrentadas pelos\nescravizados.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "defende a manutenção da escravidão, em oposição à\nexploração do trabalho compulsório de indígenas e de\nimigrantes europeus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "expressa a indignação dos proprietários rurais, grupo\nsocial hegemônico, diante da redução gradual do trabalho\nescravo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A charge de Angelo Agostini foi publicada em 1880, em meio\naos debates sobre a Lei dos Sexagenários no parlamento\nbrasileiro.\nAngelo Agostini. “Escravidão ou morte”, Revista Illustrada n.222 (RJ), 1880.\nA charge\n(A) endossa a defesa, pelos setores políticos liberais, do\nemprego de trabalhadores brancos, representados nas\nlaterais do monumento.\n(B) critica a concepção de independência manifesta na\nestátua equestre de Pedro I e a defesa da extinção do\ntráfico de escravizados.\n(C) expõe a contradição entre a liberdade expressa na estátua\nequestre de Pedro I e as mazelas enfrentadas pelos\nescravizados.\n(D) defende a manutenção da escravidão, em oposição à\nexploração do trabalho compulsório de indígenas e de\nimigrantes europeus.\n(E) expressa a indignação dos proprietários rurais, grupo\nsocial hegemônico, diante da redução gradual do trabalho\nescravo.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            297.5,
+            242.93470000000002,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Abolicionismo e representação da escravidão",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

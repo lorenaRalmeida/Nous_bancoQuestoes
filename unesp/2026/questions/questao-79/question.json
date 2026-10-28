@@ -1,0 +1,166 @@
+{
+  "title": "Questão 79 - UNESP 2026 - 1ª fase",
+  "index": 79,
+  "year": 2026,
+  "discipline": "Física",
+  "language": null,
+  "context": "A figura 1 mostra um veículo em marcha à ré com velocidade\nconstante , aproximando-se de um muro, em uma direção\nperpendicular a ele. Nessa situação, o espelho esférico\nconvexo externo esquerdo do veículo está a uma distância d\ndo muro.\nA figura 2 representa uma visão superior desse espelho, do\nmuro e da imagem do muro em dois instantes, t = 0 e t = 2 s.\n0 1\nNo instante t , o espelho está a uma distância d do muro e a\n0 0\nimagem do muro dista m do espelho. No instante t , o\n1\nespelho está a uma distância d do muro e a imagem do muro\n1\ndista m do espelho.\nSabendo que a distância focal desse espelho é f = - 0,8 m,\no módulo da velocidade v com que o carro se aproxima do\nmuro é",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,5 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,2 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,5 m/s.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "0,8 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,0 m/s.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura 1 mostra um veículo em marcha à ré com velocidade\nconstante , aproximando-se de um muro, em uma direção\nperpendicular a ele. Nessa situação, o espelho esférico\nconvexo externo esquerdo do veículo está a uma distância d\ndo muro.\nA figura 2 representa uma visão superior desse espelho, do\nmuro e da imagem do muro em dois instantes, t = 0 e t = 2 s.\n0 1\nNo instante t , o espelho está a uma distância d do muro e a\n0 0\nimagem do muro dista m do espelho. No instante t , o\n1\nespelho está a uma distância d do muro e a imagem do muro\n1\ndista m do espelho.\nSabendo que a distância focal desse espelho é f = - 0,8 m,\no módulo da velocidade v com que o carro se aproxima do\nmuro é\n(A) 0,5 m/s.\n(B) 1,2 m/s.\n(C) 1,5 m/s.\n(D) 0,8 m/s.\n(E) 1,0 m/s.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 33,
+        "bbox": [
+          136.8398,
+          110.50200000000007,
+          188.1115,
+          133.42489999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 33,
+        "bbox": [
+          40.6703,
+          123.94899999999996,
+          280.901,
+          232.03049999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 33,
+        "bbox": [
+          128.838,
+          284.624,
+          154.695,
+          321.01099999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 33,
+        "bbox": [
+          49.4596,
+          320.8687,
+          77.3876,
+          357.3716
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 33,
+        "bbox": [
+          135.2723,
+          359.7192,
+          187.7885,
+          382.6418
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 33,
+        "bbox": [
+          30,
+          381.25,
+          291,
+          630.65
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

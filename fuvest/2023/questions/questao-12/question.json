@@ -1,0 +1,91 @@
+{
+  "title": "Questão 12 - FUVEST 2023 - 1ª fase",
+  "index": 12,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Em um estudo, pesquisadores mostraram que a energia de\ninteração (E) de SO com diversas espécies tem relação com a\n3\ndistância da ligação S=O (D ), como representado na figura.\nS=O\nA energia de interação de uma espécie com outra pode ser\nentendida como a energia\nnecessária para desfazer a\ninteração entre o SO e os\n3\ncompostos estudados (X), como\nrepresentado na figura ao lado.\nConsiderando essas informações, é correto afirmar que",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a interação mais forte ocorre entre SO e MeCN.\n3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "quanto mais forte a interação entre moléculas, mais longa\né a ligação S=O.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a interação de SO e NH é a que faz com que a ligação S=O\n3 3\nse alongue mais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a ligação S=O se torna mais curta com o aumento da\nenergia de interação entre moléculas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a energia de interação do SO com uma molécula de HCN\n3\né do mesmo valor do que com uma molécula de NH .\n3",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Em um estudo, pesquisadores mostraram que a energia de\ninteração (E) de SO com diversas espécies tem relação com a\n3\ndistância da ligação S=O (D ), como representado na figura.\nS=O\nA energia de interação de uma espécie com outra pode ser\nentendida como a energia\nnecessária para desfazer a\ninteração entre o SO e os\n3\ncompostos estudados (X), como\nrepresentado na figura ao lado.\nConsiderando essas informações, é correto afirmar que\n(A) a interação mais forte ocorre entre SO e MeCN.\n3\n(B) quanto mais forte a interação entre moléculas, mais longa\né a ligação S=O.\n(C) a interação de SO e NH é a que faz com que a ligação S=O\n3 3\nse alongue mais.\n(D) a ligação S=O se torna mais curta com o aumento da\nenergia de interação entre moléculas.\n(E) a energia de interação do SO com uma molécula de HCN\n3\né do mesmo valor do que com uma molécula de NH .\n3",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            514.1347000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Interações químicas e ligação S=O",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

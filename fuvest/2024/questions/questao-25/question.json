@@ -1,0 +1,103 @@
+{
+  "title": "Questão 25 - FUVEST 2024 - 1ª fase",
+  "index": 25,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Quando uma solução de NaCl é colocada em contato com uma\nchama, observa-se uma luz amarela (figura I). Quando esse\nmesmo experimento é realizado na presença de uma lâmpada\nde Na, a chama aparenta estar preta (figura II).\n(I) Chama na presença de (II) Chama na presença de solução de\nsolução de NaCl. NaCl, irradiada com lâmpada de Na.\nConsiderando que um material emite e absorve radiação em\num mesmo comprimento de onda, assinale a afirmação\ncorreta sobre o experimento.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Na figura (I), a chama é amarela devido à absorção de luz\npelos átomos de Na; enquanto, em (II), a chama está preta\nporque o Na deixa de absorver quando a chama é irradiada\npela lâmpada de sódio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Na figura (I), a chama é amarela porque esta é a cor de\nqualquer chama; enquanto, em (II), a chama está preta\nporque o Na absorve a energia da chama.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Na figura (I), a chama é amarela porque esta é a cor de\nqualquer chama; enquanto, em (II), a chama está preta\ndevido à combustão incompleta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Na figura (I), a chama é amarela devido à emissão de luz\npelos átomos de Na; enquanto, em (II), a chama está preta\ndevido à combustão incompleta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Na figura (I), a chama é amarela devido à emissão de luz\npelos átomos de Na; enquanto, em (II), a chama está preta\nporque os átomos de Na da chama absorvem a luz\nproveniente da lâmpada de Na.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Quando uma solução de NaCl é colocada em contato com uma\nchama, observa-se uma luz amarela (figura I). Quando esse\nmesmo experimento é realizado na presença de uma lâmpada\nde Na, a chama aparenta estar preta (figura II).\n(I) Chama na presença de (II) Chama na presença de solução de\nsolução de NaCl. NaCl, irradiada com lâmpada de Na.\nConsiderando que um material emite e absorve radiação em\num mesmo comprimento de onda, assinale a afirmação\ncorreta sobre o experimento.\n(A) Na figura (I), a chama é amarela devido à absorção de luz\npelos átomos de Na; enquanto, em (II), a chama está preta\nporque o Na deixa de absorver quando a chama é irradiada\npela lâmpada de sódio.\n(B) Na figura (I), a chama é amarela porque esta é a cor de\nqualquer chama; enquanto, em (II), a chama está preta\nporque o Na absorve a energia da chama.\n(C) Na figura (I), a chama é amarela porque esta é a cor de\nqualquer chama; enquanto, em (II), a chama está preta\ndevido à combustão incompleta.\n(D) Na figura (I), a chama é amarela devido à emissão de luz\npelos átomos de Na; enquanto, em (II), a chama está preta\ndevido à combustão incompleta.\n(E) Na figura (I), a chama é amarela devido à emissão de luz\npelos átomos de Na; enquanto, em (II), a chama está preta\nporque os átomos de Na da chama absorvem a luz\nproveniente da lâmpada de Na.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Emissão e absorção atômica do sódio",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

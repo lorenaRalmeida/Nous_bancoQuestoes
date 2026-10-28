@@ -1,0 +1,94 @@
+{
+  "title": "Questão 24 - UNICAMP 2023 - 1ª fase",
+  "index": 24,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A figura a seguir apresenta um cenário em que se distinguem\ndois compartimentos de relevo na paisagem.\n(Adaptado de AB’SABER, Aziz Nacib. Formas de Relevo: Texto básico. São Paulo: FUN-\nBEC/Edart, 1975.)\nNo que se refere aos compartimentos de relevo na paisagem, é\ncorreto afirmar que o compartimento",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A é uma planície formada por processos exógenos que ocasionam a acumulação de materiais de fontes diversas. As\nplanícies podem sofrer a influência de falhamentos das rochas que servem de substrato ao processo deposicional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "B é um planalto formado por rochas ígneas extrusivas, e\napresenta formas de relevo esculpidas pela atuação dos processos exógenos, a exemplo das chapadas, dos morros, das\nserras e das depressões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A é uma planície formada por depósitos arenosos e argilosos de origem exclusivamente fluvial. A presença dos meandros abandonados indica que as formas de relevo desse\ncompartimento não evoluem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "B é um planalto formado por rochas ígneas, metamórficas\nou sedimentares. Sua principal característica está na atividade ativa dos processos tectônicos responsáveis pelo soerguimento das elevações e manutenção das formas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A figura a seguir apresenta um cenário em que se distinguem\ndois compartimentos de relevo na paisagem.\n(Adaptado de AB’SABER, Aziz Nacib. Formas de Relevo: Texto básico. São Paulo: FUN-\nBEC/Edart, 1975.)\nNo que se refere aos compartimentos de relevo na paisagem, é\ncorreto afirmar que o compartimento\na) A é uma planície formada por processos exógenos que oca-\nsionam a acumulação de materiais de fontes diversas. As\nplanícies podem sofrer a influência de falhamentos das ro-\nchas que servem de substrato ao processo deposicional.\nb) B é um planalto formado por rochas ígneas extrusivas, e\napresenta formas de relevo esculpidas pela atuação dos pro-\ncessos exógenos, a exemplo das chapadas, dos morros, das\nserras e das depressões.\nc) A é uma planície formada por depósitos arenosos e argilo-\nsos de origem exclusivamente fluvial. A presença dos me-\nandros abandonados indica que as formas de relevo desse\ncompartimento não evoluem.\nd) B é um planalto formado por rochas ígneas, metamórficas\nou sedimentares. Sua principal característica está na ativida-\nde ativa dos processos tectônicos responsáveis pelo soergui-\nmento das elevações e manutenção das formas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            598.9092,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            40,
+            291,
+            337.61109999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

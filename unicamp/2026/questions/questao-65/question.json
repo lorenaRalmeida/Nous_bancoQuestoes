@@ -1,0 +1,82 @@
+{
+  "title": "Questão 65 - UNICAMP 2026 - 1ª fase",
+  "index": 65,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia os versos da canção abaixo e assinale a alternativa correta.\nALVORADA\nAlvorada lá no morro, que beleza,\nNinguém chora, não há tristeza,\nNinguém sente dissabor.\nO sol colorindo é tão lindo, é tão lindo.\nE a natureza sorrindo, tingindo, tingindo.\nVocê também me lembra a alvorada\nQuando chega iluminando\nMeus caminhos tão sem vida.\nE o que me resta\né bem pouco, quase nada,\ndo que ir assim vagando\nnuma estrada perdida.\n(CARTOLA. Alvorada. In: Cartola. Rio de Janeiro: Marcus Pereira Discos, 1974.)",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O eu-lírico enfatiza a harmonia entre a cena idílica do morro\nno momento da alvorada e a alegria de sua vida junto à\npessoa amada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O eu-lírico enfatiza um contraste entre a alegria da alvorada no morro e a pobreza das pessoas que habitam aquele\nespaço.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A alvorada no morro é, para o eu-lírico, como a imagem da\npessoa amada, que lhe traz alegria, apesar de sua desilusão\ne desesperança.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "A alvorada no morro funciona, no poema, como imagem\ndo futuro que pode ser transformado pelo amor, apesar das\ncondições de vida difíceis.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia os versos da canção abaixo e assinale a alternativa correta.\nALVORADA\nAlvorada lá no morro, que beleza,\nNinguém chora, não há tristeza,\nNinguém sente dissabor.\nO sol colorindo é tão lindo, é tão lindo.\nE a natureza sorrindo, tingindo, tingindo.\nVocê também me lembra a alvorada\nQuando chega iluminando\nMeus caminhos tão sem vida.\nE o que me resta\né bem pouco, quase nada,\ndo que ir assim vagando\nnuma estrada perdida.\n(CARTOLA. Alvorada. In: Cartola. Rio de Janeiro: Marcus Pereira Discos, 1974.)\na) O eu-lírico enfatiza a harmonia entre a cena idílica do morro\nno momento da alvorada e a alegria de sua vida junto à\npessoa amada.\nb) O eu-lírico enfatiza um contraste entre a alegria da alvora-\nda no morro e a pobreza das pessoas que habitam aquele\nespaço.\nc) A alvorada no morro é, para o eu-lírico, como a imagem da\npessoa amada, que lhe traz alegria, apesar de sua desilusão\ne desesperança.\nd) A alvorada no morro funciona, no poema, como imagem\ndo futuro que pode ser transformado pelo amor, apesar das\ncondições de vida difíceis.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            256.08129999999994,
+            291,
+            656.7128
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

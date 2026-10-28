@@ -1,0 +1,91 @@
+{
+  "title": "Questão 55 - FUVEST 2024 - 1ª fase",
+  "index": 55,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Como ilustrado pela foto, o gerador de Van de Graaf,\nequipamento popular em parques de ciência, permite o\nacúmulo de cargas elétricas em uma cúpula metálica. A\ndistribuição de cargas na cúpula de um desses geradores,\nquando ninguém a toca, pode ser considerada esférica. Dois\ndesses geradores, A e B, estão separados por uma certa\ndistância. O gerador A contém uma carga +𝑄, e o gerador B,\numa carga +2𝑄, com 𝑄 >0.\nEntre as alternativas, assinale aquela que melhor corresponde\nao vetor campo elétrico resultante produzido pelos geradores\nno ponto médio P entre eles.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "→",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "↑",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "←",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "↓",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "nulo",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Como ilustrado pela foto, o gerador de Van de Graaf,\nequipamento popular em parques de ciência, permite o\nacúmulo de cargas elétricas em uma cúpula metálica. A\ndistribuição de cargas na cúpula de um desses geradores,\nquando ninguém a toca, pode ser considerada esférica. Dois\ndesses geradores, A e B, estão separados por uma certa\ndistância. O gerador A contém uma carga +𝑄, e o gerador B,\numa carga +2𝑄, com 𝑄 >0.\nEntre as alternativas, assinale aquela que melhor corresponde\nao vetor campo elétrico resultante produzido pelos geradores\nno ponto médio P entre eles.\n(A) →\n(B) ↑\n(C) ←\n(D) ↓\n(E) nulo",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            485.7547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Campo elétrico resultante de cargas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

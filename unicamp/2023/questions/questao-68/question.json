@@ -1,0 +1,104 @@
+{
+  "title": "Questão 68 - UNICAMP 2023 - 1ª fase",
+  "index": 68,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored\nmultiple waves of political unrest. The use of this avantgarde art style for political activism has spread to the Bay\nArea, California. As an influx of white upper-class residents\ndisplaced low-income households, the anger of local people\nfueled a movement to take back the streets via spray paint,\nvideo projections, stenciling — any street art medium.\nBay Area activists are weaponizing street art to unite the\nmasses and reclaim their communities’ stolen narratives,\nre-imagining better futures alongside comrades across the\nnation. Their freeing and colorful art combats the virulent\nsystems of oppression that white supremacy has entrenched\nin our society, those same systems which mark their craft as\nillegal under the guise of vandalism. Street art democratizes\npublic spaces and takes back the streets as effectively as\nphysical protests. As a street artist, Nancypili Hernandez says\nthat her art transforms “locations that feel like a parking\nlot or private property, to feeling like a collective community\ncommons.”\n(Adaptado de: https://harvardpolitics.com/street-art-activism/. Acesso em 20/06/2022.)\nTexto 2\n(Disponível em: https://banksy.co.uk/out.html. Acesso em 07/07/2022.)\n\nSegundo o Texto 1, é correto afirmar que a arte de rua é",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uma representação vanguardista de arte, originada na Califórnia, que busca combater o preconceito que associa essa\nmanifestação artística ao vandalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "um movimento político no qual os artistas buscam difundir\na diversidade através da união entre diferentes classes da\nsociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uma manifestação artística, com motivações políticas, que\nbusca defender os direitos de pessoas em situação de rua.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um estilo artístico que materializa a luta de alguns grupos\ncontra mecanismos sociais que buscam apagar suas vozes.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Segundo o Texto 1, é correto afirmar que a arte de rua é\na) uma representação vanguardista de arte, originada na Cali-\nfórnia, que busca combater o preconceito que associa essa\nmanifestação artística ao vandalismo.\nb) um movimento político no qual os artistas buscam difundir\na diversidade através da união entre diferentes classes da\nsociedade.\nc) uma manifestação artística, com motivações políticas, que\nbusca defender os direitos de pessoas em situação de rua.\nd) um estilo artístico que materializa a luta de alguns grupos\ncontra mecanismos sociais que buscam apagar suas vozes.",
+    "sharedContext": "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored\nmultiple waves of political unrest. The use of this avantgarde art style for political activism has spread to the Bay\nArea, California. As an influx of white upper-class residents\ndisplaced low-income households, the anger of local people\nfueled a movement to take back the streets via spray paint,\nvideo projections, stenciling — any street art medium.\nBay Area activists are weaponizing street art to unite the\nmasses and reclaim their communities’ stolen narratives,\nre-imagining better futures alongside comrades across the\nnation. Their freeing and colorful art combats the virulent\nsystems of oppression that white supremacy has entrenched\nin our society, those same systems which mark their craft as\nillegal under the guise of vandalism. Street art democratizes\npublic spaces and takes back the streets as effectively as\nphysical protests. As a street artist, Nancypili Hernandez says\nthat her art transforms “locations that feel like a parking\nlot or private property, to feeling like a collective community\ncommons.”\n(Adaptado de: https://harvardpolitics.com/street-art-activism/. Acesso em 20/06/2022.)\nTexto 2\n(Disponível em: https://banksy.co.uk/out.html. Acesso em 07/07/2022.)",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            132.82209999999998,
+            291,
+            668.8804
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            668.8804,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            40,
+            568,
+            141.8646
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

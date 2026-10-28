@@ -1,0 +1,90 @@
+{
+  "title": "Questão 77 - FUVEST 2023 - 1ª fase",
+  "index": 77,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Um tradicional brinquedo infantil, conhecido como bate-bate,\né composto por duas esferas (bolinhas) de massas iguais\nconectadas cada qual por uma corda e amarradas num ponto\ncomum. Desloca-se a bolinha 1 de uma altura ℎ, conforme\nilustrado no arranjo:\nAo soltar a esfera 1, ela colidirá com a bolinha 2, inicialmente\nem repouso. Supondo que a colisão seja perfeitamente\nelástica, verifica-se que, após a colisão, a esfera 2 subirá para\na mesma altura ℎ. Imagine agora que uma pequena goma\ncolante seja colocada numa das esferas de modo que, após a\ncolisão, ambas permaneçam unidas. Neste caso, após a\ncolisão, a altura alcançada pelo sistema formado pelas duas\nbolinhas unidas será:\n\nNote e adote:\nDesconsiderar a massa da goma.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ℎ/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ℎ/4",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "ℎ/3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ℎ/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ℎ",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Um tradicional brinquedo infantil, conhecido como bate-bate,\né composto por duas esferas (bolinhas) de massas iguais\nconectadas cada qual por uma corda e amarradas num ponto\ncomum. Desloca-se a bolinha 1 de uma altura ℎ, conforme\nilustrado no arranjo:\nAo soltar a esfera 1, ela colidirá com a bolinha 2, inicialmente\nem repouso. Supondo que a colisão seja perfeitamente\nelástica, verifica-se que, após a colisão, a esfera 2 subirá para\na mesma altura ℎ. Imagine agora que uma pequena goma\ncolante seja colocada numa das esferas de modo que, após a\ncolisão, ambas permaneçam unidas. Neste caso, após a\ncolisão, a altura alcançada pelo sistema formado pelas duas\nbolinhas unidas será:\n(A) ℎ/8\nNote e adote:\n(B) ℎ/4 Desconsiderar a massa da goma.\n(C) ℎ/3\n(D) ℎ/2\n(E) ℎ",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            297.5,
+            240.53470000000004,
+            567,
+            633.6547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Colisão inelástica e conservação de energia",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

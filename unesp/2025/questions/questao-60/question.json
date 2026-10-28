@@ -1,0 +1,100 @@
+{
+  "title": "Questão 60 - UNESP 2025 - 1ª fase",
+  "index": 60,
+  "year": 2025,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "O que chamamos arte não mais nos demanda contemplação, mas sim reflexão sobre o sentido da palavra “arte”.\nOu seja, o valor “arte” deserta o objeto para se ancorar no\ndiscurso de um indivíduo que se declara artista e que declara algo, uma ação, uma instrução, um ritual — não importa\n— como “arte”. Nesse momento, importam menos as qualidades intrínsecas (linhas, planos, luminosidade, textura etc.)\ndesse objeto do que reconstituir um questionamento que nos\nconvida à reflexão. [...] o artista não pode mais ser reconhecido por suas habilidades técnicas, mas sim porque se instala\nno centro de uma rede de discursos, ele mesmo assumindo o\ndiscurso sobre sua obra/fazer.\n(Luzia Gontijo Rodrigues. “A arte para além da estética: arte contemporânea\ne o discurso dos artistas”. Artefilosofia, 2008.)\nConsiderando o objeto referido no excerto, a mudança na\nconcepção de arte, mencionada pela autora, corresponde",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ao status artístico definido por museus e galerias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à submissão da arte a fins políticos e teológicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à importância do processo manual no modo de fazer\nartesanal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à qualidade dos materiais utilizados na confecção da\nobra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ao conceito elaborado pelo artista sobre sua produção.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O que chamamos arte não mais nos demanda contem-\nplação, mas sim reflexão sobre o sentido da palavra “arte”.\nOu seja, o valor “arte” deserta o objeto para se ancorar no\ndiscurso de um indivíduo que se declara artista e que decla-\nra algo, uma ação, uma instrução, um ritual — não importa\n— como “arte”. Nesse momento, importam menos as quali-\ndades intrínsecas (linhas, planos, luminosidade, textura etc.)\ndesse objeto do que reconstituir um questionamento que nos\nconvida à reflexão. [...] o artista não pode mais ser reconheci-\ndo por suas habilidades técnicas, mas sim porque se instala\nno centro de uma rede de discursos, ele mesmo assumindo o\ndiscurso sobre sua obra/fazer.\n(Luzia Gontijo Rodrigues. “A arte para além da estética: arte contemporânea\ne o discurso dos artistas”. Artefilosofia, 2008.)\nConsiderando o objeto referido no excerto, a mudança na\nconcepção de arte, mencionada pela autora, corresponde\n(A) ao status artístico definido por museus e galerias.\n(B) à submissão da arte a fins políticos e teológicos.\n(C) à importância do processo manual no modo de fazer\nartesanal.\n(D) à qualidade dos materiais utilizados na confecção da\nobra.\n(E) ao conceito elaborado pelo artista sobre sua produção.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            466.7313,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

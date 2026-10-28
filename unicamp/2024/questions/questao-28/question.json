@@ -1,0 +1,94 @@
+{
+  "title": "Questão 28 - UNICAMP 2024 - 1ª fase",
+  "index": 28,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O litoral brasileiro tem uma história fisiográfica e ecológica rica\ne complexa, influenciada por uma variedade de fatores e processos interligados. O Brasil conta com um litoral intertropical e\nsubtropical onde é possível observar uma diversidade de ocorrências geomorfológicas e paisagísticas que se sucedem ao longo de sua costa.\n(Adaptado de: AB'SABER, A. Litoral do Brasil/Brazilian coast. São Paulo: Metalivros,\np. 281, 2005.)\nA partir de seus conhecimentos sobre o litoral brasileiro, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Os manguezais localizam-se nas planícies marinhas recobertas por espécies herbáceas e arbóreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os campos de dunas associam-se aos depósitos argilosos e\narenosos, fixados por vegetação pioneira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "As falésias ativas evoluem de processos continentais e marinhos, com ausência de vegetação na sua base.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Os deltas são formados por sedimentos fluviais e cobertos\npor espécies arbóreas de grande porte.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O litoral brasileiro tem uma história fisiográfica e ecológica rica\ne complexa, influenciada por uma variedade de fatores e pro-\ncessos interligados. O Brasil conta com um litoral intertropical e\nsubtropical onde é possível observar uma diversidade de ocor-\nrências geomorfológicas e paisagísticas que se sucedem ao lon-\ngo de sua costa.\n(Adaptado de: AB'SABER, A. Litoral do Brasil/Brazilian coast. São Paulo: Metalivros,\np. 281, 2005.)\nA partir de seus conhecimentos sobre o litoral brasileiro, assina-\nle a alternativa correta.\na) Os manguezais localizam-se nas planícies marinhas recober-\ntas por espécies herbáceas e arbóreas.\nb) Os campos de dunas associam-se aos depósitos argilosos e\narenosos, fixados por vegetação pioneira.\nc) As falésias ativas evoluem de processos continentais e mari-\nnhos, com ausência de vegetação na sua base.\nd) Os deltas são formados por sedimentos fluviais e cobertos\npor espécies arbóreas de grande porte.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            514.4806,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

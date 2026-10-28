@@ -1,0 +1,92 @@
+{
+  "title": "Questão 31 - UNICAMP 2023 - 1ª fase",
+  "index": 31,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o\nmundo, oferece um belo espetáculo para os observadores no\nsolo. Um maçarico é usado para aquecer o ar no interior do\nbalão, o que faz variar a densidade do ar, permitindo o controle\ndo movimento de subida e descida do balão.\n\nA massa total de um balão em um movimento de descida, desde a altura inicial h = 80 m até o solo, é m = 2000 kg. Qual é o\ntrabalho da força peso sobre o balão durante a descida?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,0 × 104 J.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,6 × 105 J.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2,0 × 105 J.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1,6 × 106 J.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A massa total de um balão em um movimento de descida, des-\nde a altura inicial h = 80 m até o solo, é m = 2000 kg. Qual é o\ntrabalho da força peso sobre o balão durante a descida?\na) 2,0 × 104 J. c) 2,0 × 105 J.\nb) 1,6 × 105 J. d) 1,6 × 106 J.",
+    "sharedContext": "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o\nmundo, oferece um belo espetáculo para os observadores no\nsolo. Um maçarico é usado para aquecer o ar no interior do\nbalão, o que faz variar a densidade do ar, permitindo o controle\ndo movimento de subida e descida do balão.",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            139.69799999999998,
+            568,
+            244.5752
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            397.6891,
+            568,
+            542.2378
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

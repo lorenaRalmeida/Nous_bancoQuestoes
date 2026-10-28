@@ -1,0 +1,82 @@
+{
+  "title": "Questão 7 - UNICAMP 2023 - 1ª fase",
+  "index": 7,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Na última crônica da série “Bons dias!”, de 29 de agosto de\n1889, série na qual um tema são as questões gerais em torno\ndo curandeirismo, o narrador enuncia:\n“Hão de fazer-me esta justiça, ainda os meus mais ferrenhos\ninimigos; é que não sou curandeiro, eu não tenho parente\ncurandeiro, não conheço curandeiro, e nunca vi cara, fotografia ou relíquia, sequer, de curandeiro. Quando adoeço,\nnão é de espinhela caída*, — coisa que podia aconselhar-me\na curanderia; é sempre de moléstias latinas ou gregas. Estou\nna regra; pago impostos, sou jurado, não me podem arguir\na menor quebra de dever público.”\n(ASSIS, Machado de. Bons dias! Campinas: Editora da UNICAMP, p. 295, 2008.)\n*espinhela caída: designação popular para doenças caracterizadas por dores pelo corpo (peito, costas e pernas), além de\ncansaço físico.\nNa “profissão de fé”, feita pelo narrador da crônica no parágrafo citado, percebe-se",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a distinção do narrador como uma figura avessa ao curandeirismo, por crença na ciência dos filósofos e pensadores\ngregos e latinos, o que marca o tom crítico da série.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a caracterização do narrador como uma figura superior à\npopulação em geral, o que ecoa o tom analítico das crônicas\ndessa série.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a repetição exagerada da palavra “curandeiro” (e “curanderia”) no trecho, como marca estilística da simplicidade\nlinguística das crônicas dessa série.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a personificação gerada por “quando adoeço (...) é sempre\nde moléstias latinas ou gregas”, como marca do estilo empolado do narrador nessa série de crônicas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na última crônica da série “Bons dias!”, de 29 de agosto de\n1889, série na qual um tema são as questões gerais em torno\ndo curandeirismo, o narrador enuncia:\n“Hão de fazer-me esta justiça, ainda os meus mais ferrenhos\ninimigos; é que não sou curandeiro, eu não tenho parente\ncurandeiro, não conheço curandeiro, e nunca vi cara, foto-\ngrafia ou relíquia, sequer, de curandeiro. Quando adoeço,\nnão é de espinhela caída*, — coisa que podia aconselhar-me\na curanderia; é sempre de moléstias latinas ou gregas. Estou\nna regra; pago impostos, sou jurado, não me podem arguir\na menor quebra de dever público.”\n(ASSIS, Machado de. Bons dias! Campinas: Editora da UNICAMP, p. 295, 2008.)\n*espinhela caída: designação popular para doenças caracteri-\nzadas por dores pelo corpo (peito, costas e pernas), além de\ncansaço físico.\nNa “profissão de fé”, feita pelo narrador da crônica no parágra-\nfo citado, percebe-se\na) a distinção do narrador como uma figura avessa ao curan-\ndeirismo, por crença na ciência dos filósofos e pensadores\ngregos e latinos, o que marca o tom crítico da série.\nb) a caracterização do narrador como uma figura superior à\npopulação em geral, o que ecoa o tom analítico das crônicas\ndessa série.\nc) a repetição exagerada da palavra “curandeiro” (e “curan-\nderia”) no trecho, como marca estilística da simplicidade\nlinguística das crônicas dessa série.\nd) a personificação gerada por “quando adoeço (...) é sempre\nde moléstias latinas ou gregas”, como marca do estilo em-\npolado do narrador nessa série de crônicas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            551.6711
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

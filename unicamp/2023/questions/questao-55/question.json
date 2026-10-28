@@ -1,0 +1,87 @@
+{
+  "title": "Questão 55 - UNICAMP 2023 - 1ª fase",
+  "index": 55,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Em um sorteio com cartelas numeradas de 0001 a 2000, João\ndecidiu comprar todas as cartelas em que a numeração exibisse\nos números 2 e 5, e nenhuma a mais. Por exemplo, João comprou as cartelas 1205 e 0025, mas não comprou as cartelas\n0514 e 2000.\nConsidere as afirmações:\nI) João comprou 108 cartelas.\nII) Se ao invés das cartelas com 2 e 5, João tivesse comprado\nas cartelas com 1 e 5, ele teria comprado menos cartelas.\nIII) João comprou 18 cartelas que possuem o número 3.\nAssinale a alternativa correta:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Todas as afirmações são verdadeiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Apenas a afirmação I é verdadeira.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Apenas a afirmação II é verdadeira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Apenas as afirmações I e III são verdadeiras.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em um sorteio com cartelas numeradas de 0001 a 2000, João\ndecidiu comprar todas as cartelas em que a numeração exibisse\nos números 2 e 5, e nenhuma a mais. Por exemplo, João com-\nprou as cartelas 1205 e 0025, mas não comprou as cartelas\n0514 e 2000.\nConsidere as afirmações:\nI) João comprou 108 cartelas.\nII) Se ao invés das cartelas com 2 e 5, João tivesse comprado\nas cartelas com 1 e 5, ele teria comprado menos cartelas.\nIII) João comprou 18 cartelas que possuem o número 3.\nAssinale a alternativa correta:\na) Todas as afirmações são verdadeiras.\nb) Apenas a afirmação I é verdadeira.\nc) Apenas a afirmação II é verdadeira.\nd) Apenas as afirmações I e III são verdadeiras.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            139.09540000000004,
+            568,
+            470.83869999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

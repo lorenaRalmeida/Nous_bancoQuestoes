@@ -1,0 +1,116 @@
+{
+  "title": "Questão 26 - UNICAMP 2023 - 1ª fase",
+  "index": 26,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A tabela a seguir destaca, para o ano de 2019, os 11 municípios\nbrasileiros que mais emitiram gases do efeito estufa causadores\ndo aquecimento global, conforme o total emitido de CO em\n2\ntoneladas.\nEmissão de Área Densidade\nMunicípio CO territorial Demográfica\n2\n(em toneladas) (em km²) (pop/área)\nAltamira (PA) 35,2 159.533,31 0,72\nApuí (AM) 12,5 54.240,55 0,41\nColniza (MT) 13,5 27.960,24 1,38\nLábrea (AM) 23,2 68.262,68 0,67\nNovo Progresso (AM) 14,9 38.162,00 0,68\nNovo Repartimento (PA) 11,9 15.398,72 4,93\nPacajá (PA) 16,2 11.832,32 4,03\nPorto Velho (RO) 23,3 34.090,95 15,53\nRio de Janeiro (RJ) 13,8 1.200,33 5.597,55\nSão Félix do Xingu (PA) 28,9 84.212,90 1,53\nSão Paulo (SP) 16,6 1.521,20 8.054,17\n(Fonte: www. seeg.eco.br; IBGE Cidades – Acessado em: 24/06/2022.)\nA partir da análise dos dados anteriores e de seu conhecimento,\né correto afirmar que os municípios com",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "menor extensão territorial e alta densidade demográfica foram responsáveis pela maior emissão de CO decorrente da\n2\ndecomposição dos resíduos sólidos em aterros sanitários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "grande extensão territorial e baixa densidade demográfica\nforam responsáveis pela maior emissão de CO , o que se\n2\ncorrelaciona com o avanço da mineração e a construção de\nhidrelétricas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "menor extensão territorial e alta densidade demográfica foram responsáveis pela maior emissão de CO decorrente da\n2\ninstalação de novas indústrias de bens de capital.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "grande extensão territorial e baixa densidade demográfica\nforam responsáveis pela maior emissão de CO , o que se\n2\ncorrelaciona com o avanço do desmatamento e incêndio\nflorestal.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A tabela a seguir destaca, para o ano de 2019, os 11 municípios\nbrasileiros que mais emitiram gases do efeito estufa causadores\ndo aquecimento global, conforme o total emitido de CO em\n2\ntoneladas.\nEmissão de Área Densidade\nMunicípio CO territorial Demográfica\n2\n(em toneladas) (em km²) (pop/área)\nAltamira (PA) 35,2 159.533,31 0,72\nApuí (AM) 12,5 54.240,55 0,41\nColniza (MT) 13,5 27.960,24 1,38\nLábrea (AM) 23,2 68.262,68 0,67\nNovo Progresso (AM) 14,9 38.162,00 0,68\nNovo Repartimento (PA) 11,9 15.398,72 4,93\nPacajá (PA) 16,2 11.832,32 4,03\nPorto Velho (RO) 23,3 34.090,95 15,53\nRio de Janeiro (RJ) 13,8 1.200,33 5.597,55\nSão Félix do Xingu (PA) 28,9 84.212,90 1,53\nSão Paulo (SP) 16,6 1.521,20 8.054,17\n(Fonte: www. seeg.eco.br; IBGE Cidades – Acessado em: 24/06/2022.)\nA partir da análise dos dados anteriores e de seu conhecimento,\né correto afirmar que os municípios com\na) menor extensão territorial e alta densidade demográfica fo-\nram responsáveis pela maior emissão de CO decorrente da\n2\ndecomposição dos resíduos sólidos em aterros sanitários.\nb) grande extensão territorial e baixa densidade demográfica\nforam responsáveis pela maior emissão de CO , o que se\n2\ncorrelaciona com o avanço da mineração e a construção de\nhidrelétricas.\nc) menor extensão territorial e alta densidade demográfica fo-\nram responsáveis pela maior emissão de CO decorrente da\n2\ninstalação de novas indústrias de bens de capital.\nd) grande extensão territorial e baixa densidade demográfica\nforam responsáveis pela maior emissão de CO , o que se\n2\ncorrelaciona com o avanço do desmatamento e incêndio\nflorestal.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            627.1465,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            40,
+            568,
+            454.7707
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 11,
+        "bbox": [
+          30,
+          697.6698,
+          291,
+          807
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 11,
+        "bbox": [
+          304,
+          43.273900000000026,
+          568,
+          165.1467
+        ]
+      }
+    ],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

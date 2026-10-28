@@ -1,0 +1,100 @@
+{
+  "title": "Questão 80 - FUVEST 2024 - 1ª fase",
+  "index": 80,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A figura mostra dados do Fundo Monetário Internacional\n(FMI) sobre a série histórica (1992 e 2010) e uma projeção\n(2028) dos 10 países com o maior Produto Interno Bruto (PIB).\nDisponível em https://www.statista.com/chart/22256/. Adaptado.\nSobre esses dados, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Entre 2010 e 2028, a Indonésia, que não figurava entre os\ndez maiores PIBs, aparecerá no ranking em razão da\nprodução agrícola e do extrativismo mineral, enquanto\nque a Itália sofrerá queda na economia devido à\ninstabilidade política do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Entre 1992 e 2028, o Brasil apresentou elevação na sua\nprodução e sofrerá declínio no ranking, assim como o\nReino Unido, em razão desses países terem declinado de\ntratados econômicos globais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Entre 1992 e 2010, China e Índia apresentaram\ncrescimento de suas economias em razão do aumento da\ncapacidade produtiva, do potencial de consumo interno e\nda infraestrutura na produção industrial.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Entre 1992 e 2010, Japão e Alemanha sofreram queda e\nestabilização no seu Produto Interno Bruto justificada pelo\nfato de ambos os países serem potências hegemônicas na\nprodução de tecnologia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Entre 2010 e 2028, Rússia e França terão declínio nas suas\neconomias por se encontrarem enfraquecidas por\nconflitos bélicos, dependência energética e redução\npopulacional em seus países.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A figura mostra dados do Fundo Monetário Internacional\n(FMI) sobre a série histórica (1992 e 2010) e uma projeção\n(2028) dos 10 países com o maior Produto Interno Bruto (PIB).\nDisponível em https://www.statista.com/chart/22256/. Adaptado.\nSobre esses dados, é correto afirmar:\n(A) Entre 2010 e 2028, a Indonésia, que não figurava entre os\ndez maiores PIBs, aparecerá no ranking em razão da\nprodução agrícola e do extrativismo mineral, enquanto\nque a Itália sofrerá queda na economia devido à\ninstabilidade política do país.\n(B) Entre 1992 e 2028, o Brasil apresentou elevação na sua\nprodução e sofrerá declínio no ranking, assim como o\nReino Unido, em razão desses países terem declinado de\ntratados econômicos globais.\n(C) Entre 1992 e 2010, China e Índia apresentaram\ncrescimento de suas economias em razão do aumento da\ncapacidade produtiva, do potencial de consumo interno e\nda infraestrutura na produção industrial.\n(D) Entre 1992 e 2010, Japão e Alemanha sofreram queda e\nestabilização no seu Produto Interno Bruto justificada pelo\nfato de ambos os países serem potências hegemônicas na\nprodução de tecnologia.\n(E) Entre 2010 e 2028, Rússia e França terão declínio nas suas\neconomias por se encontrarem enfraquecidas por\nconflitos bélicos, dependência energética e redução\npopulacional em seus países.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            297.5,
+            249.17470000000003,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Produto Interno Bruto e economia mundial",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

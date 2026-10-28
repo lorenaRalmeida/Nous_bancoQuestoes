@@ -1,0 +1,254 @@
+{
+  "title": "Questão 19 - UNESP 2026 - 1ª fase",
+  "index": 19,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões 18 e 19, examine o desenho de\nDedé Laurentino, concebido a partir do poema “No meio do\ncaminho”, de Carlos Drummond de Andrade (1902-1987).\n(Dedé Laurentino. Você está aqui, 2023. Adaptado.)\n\nEm 1968, o próprio Drummond reuniu, no livro intitulado\nUma pedra no meio do caminho: biografia de um poema, centenas de comentários — tanto de enaltecimento quanto de\nrepúdio — sobre o seu poema. Na apresentação desse livro,\no crítico literário Arnaldo Saraiva anotou:\nTrata-se de um poema de apenas dez versos. Mas alguns dos versos são exatamente iguais: versos 1, 4 e 10;\nversos 2 e 9; versos 3 e 8, o que praticamente reduz a seis o\nnúmero de versos “válidos”. Se bem atentarmos, porém, verificaremos que os versos 2, 3, 7, 8 e 9 não são mais do que\na repetição em ordem inversa do verso 1, ou a repetição de\n“metade” desse mesmo verso (o que, aliás, também ocorre\nno verso 7 em relação ao verso 5), pelo que o valor lógico do\npoema caberia todo em apenas três versos.\n(Arnaldo Saraiva apud Carlos Drummond de Andrade. Uma pedra\nno meio do caminho: biografia de um poema, 2010. Adaptado.)\nA se considerar apenas seu “valor lógico”, o poema assumiria\na seguinte configuração:",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png",
+    "alternativa-E-02.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png",
+    "figura-vetorial-09.png",
+    "figura-vetorial-10.png",
+    "figura-vetorial-11.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em 1968, o próprio Drummond reuniu, no livro intitulado\nUma pedra no meio do caminho: biografia de um poema, cen-\ntenas de comentários — tanto de enaltecimento quanto de\nrepúdio — sobre o seu poema. Na apresentação desse livro,\no crítico literário Arnaldo Saraiva anotou:\nTrata-se de um poema de apenas dez versos. Mas al-\nguns dos versos são exatamente iguais: versos 1, 4 e 10;\nversos 2 e 9; versos 3 e 8, o que praticamente reduz a seis o\nnúmero de versos “válidos”. Se bem atentarmos, porém, ve-\nrificaremos que os versos 2, 3, 7, 8 e 9 não são mais do que\na repetição em ordem inversa do verso 1, ou a repetição de\n“metade” desse mesmo verso (o que, aliás, também ocorre\nno verso 7 em relação ao verso 5), pelo que o valor lógico do\npoema caberia todo em apenas três versos.\n(Arnaldo Saraiva apud Carlos Drummond de Andrade. Uma pedra\nno meio do caminho: biografia de um poema, 2010. Adaptado.)\nA se considerar apenas seu “valor lógico”, o poema assumiria\na seguinte configuração:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": "Para responder às questões 18 e 19, examine o desenho de\nDedé Laurentino, concebido a partir do poema “No meio do\ncaminho”, de Carlos Drummond de Andrade (1902-1987).\n(Dedé Laurentino. Você está aqui, 2023. Adaptado.)",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            363.8128
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png",
+        "alternativa-E-02.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 8,
+        "bbox": [
+          57.935,
+          66.81999999999994,
+          266.28699,
+          99.78197599999999
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 8,
+        "bbox": [
+          58.275999999999996,
+          94.1320078,
+          241.86399999999998,
+          239.657012
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 8,
+        "bbox": [
+          58.336,
+          238.54997809999998,
+          122.7555,
+          264.87199999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          238.54997809999998,
+          247.227,
+          264.87199999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 8,
+        "bbox": [
+          58.336,
+          255.08597810000003,
+          137.53730000000002,
+          281.408
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          255.08597810000003,
+          248.9411,
+          281.408
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 8,
+        "bbox": [
+          58.336,
+          271.6209781,
+          132.00900000000001,
+          297.943
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          271.6209781,
+          267.05649999999997,
+          297.943
+        ]
+      },
+      {
+        "file": "figura-vetorial-09.png",
+        "page": 8,
+        "bbox": [
+          58.336,
+          288.15697810000006,
+          115.7222,
+          314.47900000000004
+        ]
+      },
+      {
+        "file": "figura-vetorial-10.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          288.15697810000006,
+          217.71380000000002,
+          314.47900000000004
+        ]
+      },
+      {
+        "file": "figura-vetorial-11.png",
+        "page": 8,
+        "bbox": [
+          129.202,
+          307.05497809999997,
+          176.34140000000002,
+          333.37699999999995
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

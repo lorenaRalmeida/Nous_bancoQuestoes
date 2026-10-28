@@ -1,0 +1,84 @@
+{
+  "title": "Questão 46 - UNICAMP 2024 - 1ª fase",
+  "index": 46,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A dinâmica populacional de duas espécies que compartilham o\nmesmo habitat é representada na figura a seguir. O tamanho\nmáximo da população de cada espécie é limitado pela disponibilidade de recursos no habitat.\nConsiderando seus conhecimentos e os dados apresentados, é\ncorreto afirmar que as espécies",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "competem por recursos e apresentam diferenças na eficiência de utilização do alimento disponível.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ocupam nichos ecológicos distintos e têm crescimento populacional até o limite imposto pela resistência ambiental.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "são generalistas e assim têm nichos ecológicos mais restritos, o que diminui a competição entre elas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "apresentam uma relação de cooperação, facilitando o crescimento populacional na ausência da resistência ambiental.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A dinâmica populacional de duas espécies que compartilham o\nmesmo habitat é representada na figura a seguir. O tamanho\nmáximo da população de cada espécie é limitado pela disponi-\nbilidade de recursos no habitat.\nConsiderando seus conhecimentos e os dados apresentados, é\ncorreto afirmar que as espécies\na) competem por recursos e apresentam diferenças na eficiên-\ncia de utilização do alimento disponível.\nb) ocupam nichos ecológicos distintos e têm crescimento po-\npulacional até o limite imposto pela resistência ambiental.\nc) são generalistas e assim têm nichos ecológicos mais restri-\ntos, o que diminui a competição entre elas.\nd) apresentam uma relação de cooperação, facilitando o cres-\ncimento populacional na ausência da resistência ambiental.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            168.03779999999995,
+            568,
+            556.9039
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,1520 @@
+{
+  "criterion": "Classificação editorial pelo conhecimento predominante exigido pelo comando e alternativas. Português inclui literatura. Não é classificação oficial da banca.",
+  "years": [
+    {
+      "year": 2023,
+      "count": 90,
+      "disciplines": {
+        "Biologia": 8,
+        "Filosofia": 9,
+        "Física": 10,
+        "Geografia": 13,
+        "História": 13,
+        "Inglês": 10,
+        "Matemática": 7,
+        "Português": 14,
+        "Química": 5,
+        "Sociologia": 1
+      },
+      "questions": [
+        {
+          "index": 1,
+          "discipline": "Português"
+        },
+        {
+          "index": 2,
+          "discipline": "Português"
+        },
+        {
+          "index": 3,
+          "discipline": "Português"
+        },
+        {
+          "index": 4,
+          "discipline": "Português"
+        },
+        {
+          "index": 5,
+          "discipline": "Português"
+        },
+        {
+          "index": 6,
+          "discipline": "Português"
+        },
+        {
+          "index": 7,
+          "discipline": "Português"
+        },
+        {
+          "index": 8,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 9,
+          "discipline": "Português"
+        },
+        {
+          "index": 10,
+          "discipline": "História"
+        },
+        {
+          "index": 11,
+          "discipline": "Português"
+        },
+        {
+          "index": 12,
+          "discipline": "Português"
+        },
+        {
+          "index": 13,
+          "discipline": "Português"
+        },
+        {
+          "index": 14,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 15,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 16,
+          "discipline": "Português"
+        },
+        {
+          "index": 17,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 18,
+          "discipline": "Português"
+        },
+        {
+          "index": 19,
+          "discipline": "Português"
+        },
+        {
+          "index": 20,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 21,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 22,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 23,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 24,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 25,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 26,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 27,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 28,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 29,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 30,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 31,
+          "discipline": "História"
+        },
+        {
+          "index": 32,
+          "discipline": "História"
+        },
+        {
+          "index": 33,
+          "discipline": "História"
+        },
+        {
+          "index": 34,
+          "discipline": "História"
+        },
+        {
+          "index": 35,
+          "discipline": "História"
+        },
+        {
+          "index": 36,
+          "discipline": "História"
+        },
+        {
+          "index": 37,
+          "discipline": "História"
+        },
+        {
+          "index": 38,
+          "discipline": "História"
+        },
+        {
+          "index": 39,
+          "discipline": "História"
+        },
+        {
+          "index": 40,
+          "discipline": "História"
+        },
+        {
+          "index": 41,
+          "discipline": "História"
+        },
+        {
+          "index": 42,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 43,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 44,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 45,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 46,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 47,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 48,
+          "discipline": "História"
+        },
+        {
+          "index": 49,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 50,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 51,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 52,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 53,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 54,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 55,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 56,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 57,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 58,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 59,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 60,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 61,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 62,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 63,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 64,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 65,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 66,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 67,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 68,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 69,
+          "discipline": "Química"
+        },
+        {
+          "index": 70,
+          "discipline": "Física"
+        },
+        {
+          "index": 71,
+          "discipline": "Química"
+        },
+        {
+          "index": 72,
+          "discipline": "Física"
+        },
+        {
+          "index": 73,
+          "discipline": "Química"
+        },
+        {
+          "index": 74,
+          "discipline": "Química"
+        },
+        {
+          "index": 75,
+          "discipline": "Química"
+        },
+        {
+          "index": 76,
+          "discipline": "Física"
+        },
+        {
+          "index": 77,
+          "discipline": "Física"
+        },
+        {
+          "index": 78,
+          "discipline": "Física"
+        },
+        {
+          "index": 79,
+          "discipline": "Física"
+        },
+        {
+          "index": 80,
+          "discipline": "Física"
+        },
+        {
+          "index": 81,
+          "discipline": "Física"
+        },
+        {
+          "index": 82,
+          "discipline": "Física"
+        },
+        {
+          "index": 83,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 84,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 85,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 86,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 87,
+          "discipline": "Física"
+        },
+        {
+          "index": 88,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 89,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 90,
+          "discipline": "Matemática"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 90,
+      "disciplines": {
+        "Artes": 1,
+        "Biologia": 9,
+        "Filosofia": 4,
+        "Física": 8,
+        "Geografia": 11,
+        "História": 14,
+        "Inglês": 10,
+        "Matemática": 7,
+        "Português": 18,
+        "Química": 7,
+        "Sociologia": 1
+      },
+      "questions": [
+        {
+          "index": 1,
+          "discipline": "Português"
+        },
+        {
+          "index": 2,
+          "discipline": "Português"
+        },
+        {
+          "index": 3,
+          "discipline": "Português"
+        },
+        {
+          "index": 4,
+          "discipline": "Português"
+        },
+        {
+          "index": 5,
+          "discipline": "Português"
+        },
+        {
+          "index": 6,
+          "discipline": "Português"
+        },
+        {
+          "index": 7,
+          "discipline": "Português"
+        },
+        {
+          "index": 8,
+          "discipline": "Português"
+        },
+        {
+          "index": 9,
+          "discipline": "História"
+        },
+        {
+          "index": 10,
+          "discipline": "Português"
+        },
+        {
+          "index": 11,
+          "discipline": "Português"
+        },
+        {
+          "index": 12,
+          "discipline": "Português"
+        },
+        {
+          "index": 13,
+          "discipline": "Português"
+        },
+        {
+          "index": 14,
+          "discipline": "Português"
+        },
+        {
+          "index": 15,
+          "discipline": "Português"
+        },
+        {
+          "index": 16,
+          "discipline": "Português"
+        },
+        {
+          "index": 17,
+          "discipline": "História"
+        },
+        {
+          "index": 18,
+          "discipline": "Português"
+        },
+        {
+          "index": 19,
+          "discipline": "Português"
+        },
+        {
+          "index": 20,
+          "discipline": "Português"
+        },
+        {
+          "index": 21,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 22,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 23,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 24,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 25,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 26,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 27,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 28,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 29,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 30,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 31,
+          "discipline": "História"
+        },
+        {
+          "index": 32,
+          "discipline": "História"
+        },
+        {
+          "index": 33,
+          "discipline": "História"
+        },
+        {
+          "index": 34,
+          "discipline": "História"
+        },
+        {
+          "index": 35,
+          "discipline": "História"
+        },
+        {
+          "index": 36,
+          "discipline": "História"
+        },
+        {
+          "index": 37,
+          "discipline": "História"
+        },
+        {
+          "index": 38,
+          "discipline": "História"
+        },
+        {
+          "index": 39,
+          "discipline": "História"
+        },
+        {
+          "index": 40,
+          "discipline": "História"
+        },
+        {
+          "index": 41,
+          "discipline": "História"
+        },
+        {
+          "index": 42,
+          "discipline": "História"
+        },
+        {
+          "index": 43,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 44,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 45,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 46,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 47,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 48,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 49,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 50,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 51,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 52,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 53,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 54,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 55,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 56,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 57,
+          "discipline": "Artes"
+        },
+        {
+          "index": 58,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 59,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 60,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 61,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 62,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 63,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 64,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 65,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 66,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 67,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 68,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 69,
+          "discipline": "Química"
+        },
+        {
+          "index": 70,
+          "discipline": "Química"
+        },
+        {
+          "index": 71,
+          "discipline": "Química"
+        },
+        {
+          "index": 72,
+          "discipline": "Química"
+        },
+        {
+          "index": 73,
+          "discipline": "Química"
+        },
+        {
+          "index": 74,
+          "discipline": "Química"
+        },
+        {
+          "index": 75,
+          "discipline": "Química"
+        },
+        {
+          "index": 76,
+          "discipline": "Física"
+        },
+        {
+          "index": 77,
+          "discipline": "Física"
+        },
+        {
+          "index": 78,
+          "discipline": "Física"
+        },
+        {
+          "index": 79,
+          "discipline": "Física"
+        },
+        {
+          "index": 80,
+          "discipline": "Física"
+        },
+        {
+          "index": 81,
+          "discipline": "Física"
+        },
+        {
+          "index": 82,
+          "discipline": "Física"
+        },
+        {
+          "index": 83,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 84,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 85,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 86,
+          "discipline": "Física"
+        },
+        {
+          "index": 87,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 88,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 89,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 90,
+          "discipline": "Matemática"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "count": 90,
+      "disciplines": {
+        "Artes": 1,
+        "Biologia": 8,
+        "Filosofia": 4,
+        "Física": 7,
+        "Geografia": 10,
+        "História": 12,
+        "Inglês": 10,
+        "Matemática": 9,
+        "Português": 19,
+        "Química": 7,
+        "Sociologia": 3
+      },
+      "questions": [
+        {
+          "index": 1,
+          "discipline": "Português"
+        },
+        {
+          "index": 2,
+          "discipline": "Português"
+        },
+        {
+          "index": 3,
+          "discipline": "Português"
+        },
+        {
+          "index": 4,
+          "discipline": "Português"
+        },
+        {
+          "index": 5,
+          "discipline": "Português"
+        },
+        {
+          "index": 6,
+          "discipline": "Português"
+        },
+        {
+          "index": 7,
+          "discipline": "Português"
+        },
+        {
+          "index": 8,
+          "discipline": "Português"
+        },
+        {
+          "index": 9,
+          "discipline": "Português"
+        },
+        {
+          "index": 10,
+          "discipline": "Português"
+        },
+        {
+          "index": 11,
+          "discipline": "Português"
+        },
+        {
+          "index": 12,
+          "discipline": "Português"
+        },
+        {
+          "index": 13,
+          "discipline": "Português"
+        },
+        {
+          "index": 14,
+          "discipline": "Português"
+        },
+        {
+          "index": 15,
+          "discipline": "Artes"
+        },
+        {
+          "index": 16,
+          "discipline": "Português"
+        },
+        {
+          "index": 17,
+          "discipline": "Português"
+        },
+        {
+          "index": 18,
+          "discipline": "Português"
+        },
+        {
+          "index": 19,
+          "discipline": "Português"
+        },
+        {
+          "index": 20,
+          "discipline": "Português"
+        },
+        {
+          "index": 21,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 22,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 23,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 24,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 25,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 26,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 27,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 28,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 29,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 30,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 31,
+          "discipline": "História"
+        },
+        {
+          "index": 32,
+          "discipline": "História"
+        },
+        {
+          "index": 33,
+          "discipline": "História"
+        },
+        {
+          "index": 34,
+          "discipline": "História"
+        },
+        {
+          "index": 35,
+          "discipline": "História"
+        },
+        {
+          "index": 36,
+          "discipline": "História"
+        },
+        {
+          "index": 37,
+          "discipline": "História"
+        },
+        {
+          "index": 38,
+          "discipline": "História"
+        },
+        {
+          "index": 39,
+          "discipline": "História"
+        },
+        {
+          "index": 40,
+          "discipline": "História"
+        },
+        {
+          "index": 41,
+          "discipline": "História"
+        },
+        {
+          "index": 42,
+          "discipline": "História"
+        },
+        {
+          "index": 43,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 44,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 45,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 46,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 47,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 48,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 49,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 50,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 51,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 52,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 53,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 54,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 55,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 56,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 57,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 58,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 59,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 60,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 61,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 62,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 63,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 64,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 65,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 66,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 67,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 68,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 69,
+          "discipline": "Química"
+        },
+        {
+          "index": 70,
+          "discipline": "Química"
+        },
+        {
+          "index": 71,
+          "discipline": "Química"
+        },
+        {
+          "index": 72,
+          "discipline": "Química"
+        },
+        {
+          "index": 73,
+          "discipline": "Química"
+        },
+        {
+          "index": 74,
+          "discipline": "Química"
+        },
+        {
+          "index": 75,
+          "discipline": "Química"
+        },
+        {
+          "index": 76,
+          "discipline": "Física"
+        },
+        {
+          "index": 77,
+          "discipline": "Física"
+        },
+        {
+          "index": 78,
+          "discipline": "Física"
+        },
+        {
+          "index": 79,
+          "discipline": "Física"
+        },
+        {
+          "index": 80,
+          "discipline": "Física"
+        },
+        {
+          "index": 81,
+          "discipline": "Física"
+        },
+        {
+          "index": 82,
+          "discipline": "Física"
+        },
+        {
+          "index": 83,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 84,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 85,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 86,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 87,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 88,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 89,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 90,
+          "discipline": "Matemática"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "count": 90,
+      "disciplines": {
+        "Artes": 2,
+        "Biologia": 7,
+        "Filosofia": 4,
+        "Física": 7,
+        "Geografia": 12,
+        "História": 12,
+        "Inglês": 11,
+        "Matemática": 7,
+        "Português": 15,
+        "Química": 8,
+        "Sociologia": 5
+      },
+      "questions": [
+        {
+          "index": 1,
+          "discipline": "Português"
+        },
+        {
+          "index": 2,
+          "discipline": "Português"
+        },
+        {
+          "index": 3,
+          "discipline": "História"
+        },
+        {
+          "index": 4,
+          "discipline": "Português"
+        },
+        {
+          "index": 5,
+          "discipline": "Português"
+        },
+        {
+          "index": 6,
+          "discipline": "Português"
+        },
+        {
+          "index": 7,
+          "discipline": "Português"
+        },
+        {
+          "index": 8,
+          "discipline": "Português"
+        },
+        {
+          "index": 9,
+          "discipline": "Português"
+        },
+        {
+          "index": 10,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 11,
+          "discipline": "Português"
+        },
+        {
+          "index": 12,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 13,
+          "discipline": "Artes"
+        },
+        {
+          "index": 14,
+          "discipline": "Português"
+        },
+        {
+          "index": 15,
+          "discipline": "Português"
+        },
+        {
+          "index": 16,
+          "discipline": "Artes"
+        },
+        {
+          "index": 17,
+          "discipline": "Português"
+        },
+        {
+          "index": 18,
+          "discipline": "Português"
+        },
+        {
+          "index": 19,
+          "discipline": "Português"
+        },
+        {
+          "index": 20,
+          "discipline": "Português"
+        },
+        {
+          "index": 21,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 22,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 23,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 24,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 25,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 26,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 27,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 28,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 29,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 30,
+          "discipline": "Inglês"
+        },
+        {
+          "index": 31,
+          "discipline": "História"
+        },
+        {
+          "index": 32,
+          "discipline": "História"
+        },
+        {
+          "index": 33,
+          "discipline": "História"
+        },
+        {
+          "index": 34,
+          "discipline": "História"
+        },
+        {
+          "index": 35,
+          "discipline": "História"
+        },
+        {
+          "index": 36,
+          "discipline": "História"
+        },
+        {
+          "index": 37,
+          "discipline": "História"
+        },
+        {
+          "index": 38,
+          "discipline": "História"
+        },
+        {
+          "index": 39,
+          "discipline": "História"
+        },
+        {
+          "index": 40,
+          "discipline": "História"
+        },
+        {
+          "index": 41,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 42,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 43,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 44,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 45,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 46,
+          "discipline": "História"
+        },
+        {
+          "index": 47,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 48,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 49,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 50,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 51,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 52,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 53,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 54,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 55,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 56,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 57,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 58,
+          "discipline": "Filosofia"
+        },
+        {
+          "index": 59,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 60,
+          "discipline": "Sociologia"
+        },
+        {
+          "index": 61,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 62,
+          "discipline": "Química"
+        },
+        {
+          "index": 63,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 64,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 65,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 66,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 67,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 68,
+          "discipline": "Biologia"
+        },
+        {
+          "index": 69,
+          "discipline": "Química"
+        },
+        {
+          "index": 70,
+          "discipline": "Química"
+        },
+        {
+          "index": 71,
+          "discipline": "Química"
+        },
+        {
+          "index": 72,
+          "discipline": "Química"
+        },
+        {
+          "index": 73,
+          "discipline": "Química"
+        },
+        {
+          "index": 74,
+          "discipline": "Química"
+        },
+        {
+          "index": 75,
+          "discipline": "Química"
+        },
+        {
+          "index": 76,
+          "discipline": "Física"
+        },
+        {
+          "index": 77,
+          "discipline": "Física"
+        },
+        {
+          "index": 78,
+          "discipline": "Física"
+        },
+        {
+          "index": 79,
+          "discipline": "Física"
+        },
+        {
+          "index": 80,
+          "discipline": "Física"
+        },
+        {
+          "index": 81,
+          "discipline": "Física"
+        },
+        {
+          "index": 82,
+          "discipline": "Física"
+        },
+        {
+          "index": 83,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 84,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 85,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 86,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 87,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 88,
+          "discipline": "Matemática"
+        },
+        {
+          "index": 89,
+          "discipline": "Geografia"
+        },
+        {
+          "index": 90,
+          "discipline": "Matemática"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Questão 10 - FUVEST 2024 - 1ª fase",
+  "index": 10,
+  "year": 2024,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "“Por quê? Porque pensar em direitos humanos tem um\npressuposto: reconhecer que aquilo que consideramos\nindispensável para nós é também indispensável para o\npróximo. (...).\nNesse ponto as pessoas são frequentemente vítimas de uma\ncuriosa obnubilação. Elas afirmam que o próximo tem direito,\nsem dúvida, a certos bens fundamentais, como casa, comida,\ninstrução, saúde, coisas que ninguém bem formado admite\nhoje em dia que sejam privilégio de minorias, como são no\nBrasil. Mas será que pensam que seu semelhante pobre teria\ndireito a ler Dostoievski ou ouvir os quartetos de Beethoven?\n(...). Ora, o esforço para incluir o semelhante no mesmo\nelenco de bens que reivindicamos está na base da reflexão\nsobre os direitos humanos.”\nCANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo:\nDuas Cidades, 1995.\nCom base na leitura do texto, pode-se afirmar que Antonio\nCandido defende que o acesso a bens como a literatura e a\nmúsica",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "é privilégio de minorias, pois são bens que exigem\nreflexão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "deve ser reivindicado como um direito, e não como um\nprivilégio.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "vitimiza as pessoas que não têm acesso a bens\nfundamentais para viver.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "humaniza as minorias privilegiadas, incentivando-as a\ncompartilhar seu conhecimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "é indispensável para quem luta pelos direitos humanos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Por quê? Porque pensar em direitos humanos tem um\npressuposto: reconhecer que aquilo que consideramos\nindispensável para nós é também indispensável para o\npróximo. (...).\nNesse ponto as pessoas são frequentemente vítimas de uma\ncuriosa obnubilação. Elas afirmam que o próximo tem direito,\nsem dúvida, a certos bens fundamentais, como casa, comida,\ninstrução, saúde, coisas que ninguém bem formado admite\nhoje em dia que sejam privilégio de minorias, como são no\nBrasil. Mas será que pensam que seu semelhante pobre teria\ndireito a ler Dostoievski ou ouvir os quartetos de Beethoven?\n(...). Ora, o esforço para incluir o semelhante no mesmo\nelenco de bens que reivindicamos está na base da reflexão\nsobre os direitos humanos.”\nCANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo:\nDuas Cidades, 1995.\nCom base na leitura do texto, pode-se afirmar que Antonio\nCandido defende que o acesso a bens como a literatura e a\nmúsica\n(A) é privilégio de minorias, pois são bens que exigem\nreflexão.\n(B) deve ser reivindicado como um direito, e não como um\nprivilégio.\n(C) vitimiza as pessoas que não têm acesso a bens\nfundamentais para viver.\n(D) humaniza as minorias privilegiadas, incentivando-as a\ncompartilhar seu conhecimento.\n(E) é indispensável para quem luta pelos direitos humanos.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.224699999999984
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Português",
+        "Filosofia"
+      ],
+      "topic": "Direitos humanos e acesso a bens culturais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

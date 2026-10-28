@@ -1,0 +1,102 @@
+{
+  "title": "Questão 73 - FUVEST 2025 - 1ª fase",
+  "index": 73,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino\nde Física, reporta um curioso estudo sobre a pressão interna\nde “foguetes de garrafa PET”, propulsionados a partir da\nreação química entre ácido acético e bicarbonato de sódio.[1]\nUma mistura de vinagre (que contém ácido\nacético, CH COOH) com bicarbonato de sódio (NaHCO )\n3 3\nproduz gás carbônico (CO ) por meio da reação química\n2\nrepresentada pela seguinte equação:\nCH COOH + NaHCO → CH COONa + CO + H O\n3 3 3 2 2\nA reação ocorre no interior de uma\ngarrafa PET de 2 L de volume útil total,\nda qual foi retirado todo o ar. Insere-se\nna garrafa um volume inicial V de\nvin\nvinagre líquido e bicarbonato de sódio,\nsendo a garrafa posteriormente selada\ncom uma tampa acoplada a um\nmanômetro. A reação produzirá gás\ncarbônico que ocupará um volume V\nCO2\ne exercerá uma pressão P sobre a\nCO2\ntampa da garrafa, medida pelo\nmanômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504\n(2018). Disponível em\nhttp://dx.doi.org/10.1590/1806-9126-RBEF-\n2017-0340.\n\nSuponha que a reação produza 2 mols de CO para cada 3\n2\nlitros de vinagre. Nas condições do experimento, em que o\nvolume de líquido é 1/3 de litro à temperatura T = 300 K, a\npressão P medida pelo manômetro será por volta de\nCO2\n\nNote e adote:\nConsidere o CO2 como um gás ideal.\nConstante dos gases ideais: R = 0,08 atm.L/(K.mol).\nAssuma que todo o ácido acético do vinagre reagiu com o bicarbonato de\nsódio e que o líquido resultante da reação ocupa aproximadamente o\nmesmo volume do vinagre antes da reação (Vvin).",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3,2 atm.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "4,1 atm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6,2 atm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "9,0 atm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "12 atm.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nSuponha que a reação produza 2 mols de CO para cada 3\n2\nlitros de vinagre. Nas condições do experimento, em que o\nvolume de líquido é 1/3 de litro à temperatura T = 300 K, a\npressão P medida pelo manômetro será por volta de\nCO2\n(A) 3,2 atm.\n(B) 4,1 atm.\n(C) 6,2 atm.\n(D) 9,0 atm.\n(E) 12 atm.\nNote e adote:\nConsidere o CO2 como um gás ideal.\nConstante dos gases ideais: R = 0,08 atm.L/(K.mol).\nAssuma que todo o ácido acético do vinagre reagiu com o bicarbonato de\nsódio e que o líquido resultante da reação ocupa aproximadamente o\nmesmo volume do vinagre antes da reação (Vvin).\n#####\n{",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino\nde Física, reporta um curioso estudo sobre a pressão interna\nde “foguetes de garrafa PET”, propulsionados a partir da\nreação química entre ácido acético e bicarbonato de sódio.[1]\nUma mistura de vinagre (que contém ácido\nacético, CH COOH) com bicarbonato de sódio (NaHCO )\n3 3\nproduz gás carbônico (CO ) por meio da reação química\n2\nrepresentada pela seguinte equação:\nCH COOH + NaHCO → CH COONa + CO + H O\n3 3 3 2 2\nA reação ocorre no interior de uma\ngarrafa PET de 2 L de volume útil total,\nda qual foi retirado todo o ar. Insere-se\nna garrafa um volume inicial V de\nvin\nvinagre líquido e bicarbonato de sódio,\nsendo a garrafa posteriormente selada\ncom uma tampa acoplada a um\nmanômetro. A reação produzirá gás\ncarbônico que ocupará um volume V\nCO2\ne exercerá uma pressão P sobre a\nCO2\ntampa da garrafa, medida pelo\nmanômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504\n(2018). Disponível em\nhttp://dx.doi.org/10.1590/1806-9126-RBEF-\n2017-0340.\n{",
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            376.97470000000004
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            28,
+            376.97470000000004,
+            297.5,
+            619.3747000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Estequiometria de gases em foguete de garrafa",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

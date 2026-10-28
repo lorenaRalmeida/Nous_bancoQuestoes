@@ -1,0 +1,105 @@
+{
+  "title": "Questão 85 - UNESP 2023 - 1ª fase",
+  "index": 85,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Considere o trecho da notícia veiculada no Reino Unido.\nA YouGov survey of more than 16,000 adults found that\nof the 40% of people who asked for a pay rise, just over a\nquarter succeeded.\n(www.theguardian.com, 03.04.2022.)\nDe acordo com os dados da notícia, do total de entrevistados,\naqueles que conseguiram aumento salarial representam",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "25%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "10%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1,6%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "15%.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Considere o trecho da notícia veiculada no Reino Unido.\nA YouGov survey of more than 16,000 adults found that\nof the 40% of people who asked for a pay rise, just over a\nquarter succeeded.\n(www.theguardian.com, 03.04.2022.)\nDe acordo com os dados da notícia, do total de entrevistados,\naqueles que conseguiram aumento salarial representam\n(A) 4%.\n(B) 25%.\n(C) 10%.\n(D) 1,6%.\n(E) 15%.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Inglês"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

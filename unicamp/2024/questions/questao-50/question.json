@@ -1,0 +1,82 @@
+{
+  "title": "Questão 50 - UNICAMP 2024 - 1ª fase",
+  "index": 50,
+  "year": 2024,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "As sociólogas Patrícia Hill Collins e Sirma Bilge procuram explicar as relações entre mérito, oportunidade e desigualdades\nutilizando a metáfora de um campo de futebol. Elas imaginam\numa situação na qual o campo seria um terreno levemente em\ndeclive, na qual o gol do Time 1 fica no topo e o do Time 2, na\nparte baixa. Quando o Time 1 tenta marcar um gol, a topografia do campo ajuda, o que não ocorre com o Time 2, que pode\nter talento e disciplina, mas sempre trava uma batalha morro\nacima para marcar um gol. No caso de uma partida de futebol,\ntorcedores ficariam indignados se os campos de verdade fossem inclinados dessa maneira. No entanto, é isso que fazem\nas divisões sociais de classe, gênero e raça, ou seja, achamos\nque estamos jogando em igualdade de condições quando, na\nverdade, não estamos.\n(Adaptado de: HILL COLLINS, P.; BILGE, S. Interseccionalidades. São Paulo: Boitempo, p.\n32-33, 2016.)\nA partir do texto, é correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "divisões sociais de classe, gênero e raça permitem que todas as pessoas tenham acesso às mesmas oportunidades e\npossam igualmente desenvolver suas habilidades e aptidões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "condições de competição individual são marcadas por divisões de classe, gênero e raça, e são influenciadas pelo contexto social, político e econômico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o mérito e o esforço individual podem ser isolados das divisões de classe, gênero e raça e considerados como parâmetros justos para a dinâmica da vida social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "divisões de classe, gênero e raça estão presentes na vida\nem sociedade e têm relação marginal com o fenômeno da\ndesigualdade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "As sociólogas Patrícia Hill Collins e Sirma Bilge procuram ex-\nplicar as relações entre mérito, oportunidade e desigualdades\nutilizando a metáfora de um campo de futebol. Elas imaginam\numa situação na qual o campo seria um terreno levemente em\ndeclive, na qual o gol do Time 1 fica no topo e o do Time 2, na\nparte baixa. Quando o Time 1 tenta marcar um gol, a topogra-\nfia do campo ajuda, o que não ocorre com o Time 2, que pode\nter talento e disciplina, mas sempre trava uma batalha morro\nacima para marcar um gol. No caso de uma partida de futebol,\ntorcedores ficariam indignados se os campos de verdade fos-\nsem inclinados dessa maneira. No entanto, é isso que fazem\nas divisões sociais de classe, gênero e raça, ou seja, achamos\nque estamos jogando em igualdade de condições quando, na\nverdade, não estamos.\n(Adaptado de: HILL COLLINS, P.; BILGE, S. Interseccionalidades. São Paulo: Boitempo, p.\n32-33, 2016.)\nA partir do texto, é correto afirmar que\na) divisões sociais de classe, gênero e raça permitem que to-\ndas as pessoas tenham acesso às mesmas oportunidades e\npossam igualmente desenvolver suas habilidades e aptidões.\nb) condições de competição individual são marcadas por divi-\nsões de classe, gênero e raça, e são influenciadas pelo con-\ntexto social, político e econômico.\nc) o mérito e o esforço individual podem ser isolados das divi-\nsões de classe, gênero e raça e considerados como parâme-\ntros justos para a dinâmica da vida social.\nd) divisões de classe, gênero e raça estão presentes na vida\nem sociedade e têm relação marginal com o fenômeno da\ndesigualdade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            148.7953,
+            568,
+            573.7307
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

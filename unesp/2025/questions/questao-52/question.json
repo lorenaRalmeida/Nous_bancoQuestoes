@@ -1,0 +1,133 @@
+{
+  "title": "Questão 52 - UNESP 2025 - 1ª fase",
+  "index": 52,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Analise os esquemas que demonstram o funcionamento da\ndinâmica dos ventos na faixa litorânea.\n(Francisco Mendonça e Inês M. Danni-Oliveira.\nClimatologia, 2007. Adaptado.)\nEsse funcionamento é explicado",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pelo aquecimento diferencial da superfície e a consequente formação de um gradiente de pressão.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "pela advecção do ar na vertente a barlavento e a seguinte saturação do vapor nos níveis mais elevados da\natmosfera.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pelo encontro de ventos alíseos em baixas latitudes e a\ndecorrente ascendência das massas de ar úmidas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pela formação de movimentos turbilhadores do ar em\ngrande escala e a subsequente chuva forte sobre os\noceanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "pela ascensão forçada do ar úmido nas áreas de contato\nde massas de ar e a posterior formação de nuvens cumuliformes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise os esquemas que demonstram o funcionamento da\ndinâmica dos ventos na faixa litorânea.\n(Francisco Mendonça e Inês M. Danni-Oliveira.\nClimatologia, 2007. Adaptado.)\nEsse funcionamento é explicado\n(A) pelo aquecimento diferencial da superfície e a conse-\nquente formação de um gradiente de pressão.\n(B) pela advecção do ar na vertente a barlavento e a se-\nguinte saturação do vapor nos níveis mais elevados da\natmosfera.\n(C) pelo encontro de ventos alíseos em baixas latitudes e a\ndecorrente ascendência das massas de ar úmidas.\n(D) pela formação de movimentos turbilhadores do ar em\ngrande escala e a subsequente chuva forte sobre os\noceanos.\n(E) pela ascensão forçada do ar úmido nas áreas de contato\nde massas de ar e a posterior formação de nuvens cumu-\nliformes.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            331.64459999999997,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 19,
+        "bbox": [
+          67.6211,
+          390.7174,
+          110.9214,
+          411.9874
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 19,
+        "bbox": [
+          203.5433,
+          390.7179,
+          246.8435,
+          411.98789999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 19,
+        "bbox": [
+          30,
+          402.2821,
+          291,
+          479.6808
+        ]
+      }
+    ],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

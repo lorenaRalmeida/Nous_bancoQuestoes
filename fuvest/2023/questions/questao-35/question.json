@@ -1,0 +1,100 @@
+{
+  "title": "Questão 35 - FUVEST 2023 - 1ª fase",
+  "index": 35,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Disponível em https://br.pinterest.com/.\nEm relação à compreensão do idioma inglês, o texto ilustra",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a disparidade entre ortografia e fonética.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "circunstâncias de tempo e modo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a ordem dos elementos na oração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um conjunto de locuções adjetivas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "um problema de concordância verbal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Disponível em https://br.pinterest.com/.\nEm relação à compreensão do idioma inglês, o texto ilustra\n(A) a disparidade entre ortografia e fonética.\n(B) circunstâncias de tempo e modo.\n(C) a ordem dos elementos na oração.\n(D) um conjunto de locuções adjetivas.\n(E) um problema de concordância verbal.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            297.5,
+            328.91470000000004,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.07470000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "topic": "Compreensão e uso do idioma inglês",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

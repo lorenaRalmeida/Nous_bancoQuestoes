@@ -1,0 +1,98 @@
+{
+  "title": "Questão 46 - UNESP 2023 - 1ª fase",
+  "index": 46,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Em 2009, em sua primeira Reunião de Cúpula, países emergentes que compartilhavam grandes perspectivas econômicas firmaram acordos de cooperação econômico-financeira.\nEsses países correspondem",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ao MERCOSUL, bloco econômico que integrou infraestruturas de transporte regionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ao G8, bloco econômico que modernizou setores de ciência, educação e inovação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ao USCMA, grupo que descentralizou a produção para\nganhar competitividade no mercado global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ao BRICS, grupo que articulou projetos em áreas de tecnologia, saúde e energia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "ao G20, coletivo que estabeleceu metas para o fortalecimento de seus setores agrícola e extrativista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em 2009, em sua primeira Reunião de Cúpula, países emer-\ngentes que compartilhavam grandes perspectivas econômi-\ncas firmaram acordos de cooperação econômico-financeira.\nEsses países correspondem\n(A) ao MERCOSUL, bloco econômico que integrou infraes-\ntruturas de transporte regionais.\n(B) ao G8, bloco econômico que modernizou setores de ciên-\ncia, educação e inovação.\n(C) ao USCMA, grupo que descentralizou a produção para\nganhar competitividade no mercado global.\n(D) ao BRICS, grupo que articulou projetos em áreas de tec-\nnologia, saúde e energia.\n(E) ao G20, coletivo que estabeleceu metas para o fortaleci-\nmento de seus setores agrícola e extrativista.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            379.3227,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

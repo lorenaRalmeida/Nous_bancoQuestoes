@@ -1,0 +1,90 @@
+{
+  "title": "Questão 40 - UNESP 2025 - 1ª fase",
+  "index": 40,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise a fotografia de 1964.\n(Juliana Sayuri. www.nexojornal.com.br, 28.12.2023.)\nA fotografia expõe",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a tensão entre as forças armadas e o funcionamento das\ninstituições políticas constitucionais no ano de 1964.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o prevalecimento do poder armado em relação ao poder\ncivil no período que antecedeu o golpe de 1964.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a disposição dos militares que participaram do golpe de\n1964 para proteger e defender as instituições políticas\ndemocráticas brasileiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o confronto entre representantes das forças armadas\nbrasileiras e o Supremo Tribunal Federal durante o golpe\nde 1964.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a destruição de parte da Capital Federal provocada pelos\nconflitos armados durante o golpe de 1964.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise a fotografia de 1964.\n(Juliana Sayuri. www.nexojornal.com.br, 28.12.2023.)\nA fotografia expõe\n(A) a tensão entre as forças armadas e o funcionamento das\ninstituições políticas constitucionais no ano de 1964.\n(B) o prevalecimento do poder armado em relação ao poder\ncivil no período que antecedeu o golpe de 1964.\n(C) a disposição dos militares que participaram do golpe de\n1964 para proteger e defender as instituições políticas\ndemocráticas brasileiras.\n(D) o confronto entre representantes das forças armadas\nbrasileiras e o Supremo Tribunal Federal durante o golpe\nde 1964.\n(E) a destruição de parte da Capital Federal provocada pelos\nconflitos armados durante o golpe de 1964.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            468.6934
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

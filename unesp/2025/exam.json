@@ -1,0 +1,1135 @@
+{
+  "board": "UNESP",
+  "year": 2025,
+  "phase": 1,
+  "version": "1",
+  "source": "unesp-2025-fase1-prova.pdf",
+  "sha256": "c3f177176d93cbbcf91397e1ad1e5dc638842a2ac7a611fde8b83b1dc5128e93",
+  "instructions": "veStIBULaR 2025\n001. PRova de CoNheCImeNtoS GeRaIS\nConfira seus dados impressos neste caderno.\nA ssine com caneta de tinta preta a Folha de Respostas apenas no local indicado.\nE sta prova contém 90 questões objetivas.\nQ uando for permitido abrir o caderno, verifique se está completo ou se apresenta imperfeições. Caso haja algum pro-\nblema, informe ao fiscal da sala para a devida substituição.\nPara cada questão, o candidato deverá assinalar apenas uma alternativa na Folha de Respostas, utilizando caneta de\ntinta preta.\nE ncontra-se neste caderno a Classificação Periódica, que poderá ser útil para a resolução de questões.\nEsta prova terá duração total de 5h e o candidato somente poderá sair do prédio depois de transcorridas 3h, contadas\na partir do início da prova.\nO s últimos três candidatos deverão se retirar juntos da sala.\nA o final da prova, antes de sair da sala, entregue ao fiscal a Folha de Respostas e o Caderno de Questões.\n(Questões 01 – 90)\nNome do candidato\nRG Inscrição Prédio Sala Carteira\nConfidencial até o momento da aplicação.",
+  "questions": [
+    {
+      "index": 1,
+      "file": "questions/questao-1/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 2,
+      "file": "questions/questao-2/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 3,
+      "file": "questions/questao-3/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 4,
+      "file": "questions/questao-4/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 5,
+      "file": "questions/questao-5/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 6,
+      "file": "questions/questao-6/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 7,
+      "file": "questions/questao-7/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 8,
+      "file": "questions/questao-8/question.json",
+      "correctAlternative": "E",
+      "discipline": "Português"
+    },
+    {
+      "index": 9,
+      "file": "questions/questao-9/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 10,
+      "file": "questions/questao-10/question.json",
+      "correctAlternative": "C",
+      "discipline": "Português"
+    },
+    {
+      "index": 11,
+      "file": "questions/questao-11/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 12,
+      "file": "questions/questao-12/question.json",
+      "correctAlternative": "E",
+      "discipline": "Português"
+    },
+    {
+      "index": 13,
+      "file": "questions/questao-13/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 14,
+      "file": "questions/questao-14/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 15,
+      "file": "questions/questao-15/question.json",
+      "correctAlternative": "C",
+      "discipline": "Artes"
+    },
+    {
+      "index": 16,
+      "file": "questions/questao-16/question.json",
+      "correctAlternative": "A",
+      "discipline": "Português"
+    },
+    {
+      "index": 17,
+      "file": "questions/questao-17/question.json",
+      "correctAlternative": "B",
+      "discipline": "Português"
+    },
+    {
+      "index": 18,
+      "file": "questions/questao-18/question.json",
+      "correctAlternative": "D",
+      "discipline": "Português"
+    },
+    {
+      "index": 19,
+      "file": "questions/questao-19/question.json",
+      "correctAlternative": "E",
+      "discipline": "Português"
+    },
+    {
+      "index": 20,
+      "file": "questions/questao-20/question.json",
+      "correctAlternative": "E",
+      "discipline": "Português"
+    },
+    {
+      "index": 21,
+      "file": "questions/questao-21/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 22,
+      "file": "questions/questao-22/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 23,
+      "file": "questions/questao-23/question.json",
+      "correctAlternative": "D",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 24,
+      "file": "questions/questao-24/question.json",
+      "correctAlternative": "B",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 25,
+      "file": "questions/questao-25/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 26,
+      "file": "questions/questao-26/question.json",
+      "correctAlternative": "E",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 27,
+      "file": "questions/questao-27/question.json",
+      "correctAlternative": "E",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 28,
+      "file": "questions/questao-28/question.json",
+      "correctAlternative": "B",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 29,
+      "file": "questions/questao-29/question.json",
+      "correctAlternative": "A",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 30,
+      "file": "questions/questao-30/question.json",
+      "correctAlternative": "C",
+      "discipline": "Inglês"
+    },
+    {
+      "index": 31,
+      "file": "questions/questao-31/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 32,
+      "file": "questions/questao-32/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 33,
+      "file": "questions/questao-33/question.json",
+      "correctAlternative": "E",
+      "discipline": "História"
+    },
+    {
+      "index": 34,
+      "file": "questions/questao-34/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 35,
+      "file": "questions/questao-35/question.json",
+      "correctAlternative": "A",
+      "discipline": "História"
+    },
+    {
+      "index": 36,
+      "file": "questions/questao-36/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 37,
+      "file": "questions/questao-37/question.json",
+      "correctAlternative": "E",
+      "discipline": "História"
+    },
+    {
+      "index": 38,
+      "file": "questions/questao-38/question.json",
+      "correctAlternative": "E",
+      "discipline": "História"
+    },
+    {
+      "index": 39,
+      "file": "questions/questao-39/question.json",
+      "correctAlternative": "D",
+      "discipline": "História"
+    },
+    {
+      "index": 40,
+      "file": "questions/questao-40/question.json",
+      "correctAlternative": "A",
+      "discipline": "História"
+    },
+    {
+      "index": 41,
+      "file": "questions/questao-41/question.json",
+      "correctAlternative": "C",
+      "discipline": "História"
+    },
+    {
+      "index": 42,
+      "file": "questions/questao-42/question.json",
+      "correctAlternative": "B",
+      "discipline": "História"
+    },
+    {
+      "index": 43,
+      "file": "questions/questao-43/question.json",
+      "correctAlternative": "E",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 44,
+      "file": "questions/questao-44/question.json",
+      "correctAlternative": "C",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 45,
+      "file": "questions/questao-45/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 46,
+      "file": "questions/questao-46/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 47,
+      "file": "questions/questao-47/question.json",
+      "correctAlternative": "B",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 48,
+      "file": "questions/questao-48/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 49,
+      "file": "questions/questao-49/question.json",
+      "correctAlternative": "E",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 50,
+      "file": "questions/questao-50/question.json",
+      "correctAlternative": "C",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 51,
+      "file": "questions/questao-51/question.json",
+      "correctAlternative": "D",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 52,
+      "file": "questions/questao-52/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 53,
+      "file": "questions/questao-53/question.json",
+      "correctAlternative": "A",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 54,
+      "file": "questions/questao-54/question.json",
+      "correctAlternative": "C",
+      "discipline": "Geografia"
+    },
+    {
+      "index": 55,
+      "file": "questions/questao-55/question.json",
+      "correctAlternative": "E",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 56,
+      "file": "questions/questao-56/question.json",
+      "correctAlternative": "B",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 57,
+      "file": "questions/questao-57/question.json",
+      "correctAlternative": "B",
+      "discipline": "Sociologia"
+    },
+    {
+      "index": 58,
+      "file": "questions/questao-58/question.json",
+      "correctAlternative": "D",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 59,
+      "file": "questions/questao-59/question.json",
+      "correctAlternative": "A",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 60,
+      "file": "questions/questao-60/question.json",
+      "correctAlternative": "E",
+      "discipline": "Filosofia"
+    },
+    {
+      "index": 61,
+      "file": "questions/questao-61/question.json",
+      "correctAlternative": "A",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 62,
+      "file": "questions/questao-62/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 63,
+      "file": "questions/questao-63/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 64,
+      "file": "questions/questao-64/question.json",
+      "correctAlternative": "B",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 65,
+      "file": "questions/questao-65/question.json",
+      "correctAlternative": "E",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 66,
+      "file": "questions/questao-66/question.json",
+      "correctAlternative": "D",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 67,
+      "file": "questions/questao-67/question.json",
+      "correctAlternative": "A",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 68,
+      "file": "questions/questao-68/question.json",
+      "correctAlternative": "C",
+      "discipline": "Biologia"
+    },
+    {
+      "index": 69,
+      "file": "questions/questao-69/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 70,
+      "file": "questions/questao-70/question.json",
+      "correctAlternative": "C",
+      "discipline": "Química"
+    },
+    {
+      "index": 71,
+      "file": "questions/questao-71/question.json",
+      "correctAlternative": "E",
+      "discipline": "Química"
+    },
+    {
+      "index": 72,
+      "file": "questions/questao-72/question.json",
+      "correctAlternative": "D",
+      "discipline": "Química"
+    },
+    {
+      "index": 73,
+      "file": "questions/questao-73/question.json",
+      "correctAlternative": "E",
+      "discipline": "Química"
+    },
+    {
+      "index": 74,
+      "file": "questions/questao-74/question.json",
+      "correctAlternative": "B",
+      "discipline": "Química"
+    },
+    {
+      "index": 75,
+      "file": "questions/questao-75/question.json",
+      "correctAlternative": "C",
+      "discipline": "Química"
+    },
+    {
+      "index": 76,
+      "file": "questions/questao-76/question.json",
+      "correctAlternative": "A",
+      "discipline": "Física"
+    },
+    {
+      "index": 77,
+      "file": "questions/questao-77/question.json",
+      "correctAlternative": "E",
+      "discipline": "Física"
+    },
+    {
+      "index": 78,
+      "file": "questions/questao-78/question.json",
+      "correctAlternative": "A",
+      "discipline": "Física"
+    },
+    {
+      "index": 79,
+      "file": "questions/questao-79/question.json",
+      "correctAlternative": "D",
+      "discipline": "Física"
+    },
+    {
+      "index": 80,
+      "file": "questions/questao-80/question.json",
+      "correctAlternative": "B",
+      "discipline": "Física"
+    },
+    {
+      "index": 81,
+      "file": "questions/questao-81/question.json",
+      "correctAlternative": "E",
+      "discipline": "Física"
+    },
+    {
+      "index": 82,
+      "file": "questions/questao-82/question.json",
+      "correctAlternative": "C",
+      "discipline": "Física"
+    },
+    {
+      "index": 83,
+      "file": "questions/questao-83/question.json",
+      "correctAlternative": "D",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 84,
+      "file": "questions/questao-84/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 85,
+      "file": "questions/questao-85/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 86,
+      "file": "questions/questao-86/question.json",
+      "correctAlternative": "E",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 87,
+      "file": "questions/questao-87/question.json",
+      "correctAlternative": "D",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 88,
+      "file": "questions/questao-88/question.json",
+      "correctAlternative": "B",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 89,
+      "file": "questions/questao-89/question.json",
+      "correctAlternative": "C",
+      "discipline": "Matemática"
+    },
+    {
+      "index": 90,
+      "file": "questions/questao-90/question.json",
+      "correctAlternative": "A",
+      "discipline": "Matemática"
+    }
+  ],
+  "questionCount": 90,
+  "sharedContexts": [
+    {
+      "targets": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "lines": [
+        "Para responder às questões de 01 a 07, leia o conto “Passei",
+        "por um sonho”, do escritor angolano José Eduardo Agualusa",
+        "(1960- ).",
+        "1 Começou com um sonho. Afinal, é como começa quase",
+        "tudo. Justo Santana, enfermeiro de profissão, sonhou um",
+        "pássaro.",
+        "— Passei por um sonho — disse à mulher quando esta",
+        "acordou —, e vi um pássaro.",
+        "A mulher quis saber que espécie de pássaro, mas Justo",
+        "Santana não foi capaz de precisar. Era um pássaro grande,",
+        "grave, branco como um ferro incandescente, e com umas",
+        "asas ainda mais brilhosas, que o dito pássaro usava sempre",
+        "abertas, de tal maneira que fazia lembrar Jesus Cristo prega-",
+        "do na cruz.",
+        "— Fui sonhado por ti — disse-lhe o pássaro —, com o fim",
+        "de esclarecer o espírito dos Homens e de trazer a liberdade",
+        "a este pobre país.",
+        "5 O discurso do pássaro assustou o enfermeiro, homem",
+        "simples, tímido, avesso a confrontos, e sem qualquer voca-",
+        "ção para a política.",
+        "— Foi apenas um sonho — disse à mulher —, um sonho",
+        "estúpido.",
+        "Na noite seguinte, porém, o pássaro voltou a aparecer-",
+        "-lhe. Estava ainda mais branco, mais trágico, e parecia abor-",
+        "recido com o desinteresse do enfermeiro:",
+        "— Ordeno-te que vás por esse país fora e digas a todos",
+        "os homens que se preparem para um mundo novo. Os bran-",
+        "cos vão partir e os pretos ocuparão as casas, os palácios, as",
+        "igrejas e os quartéis, e a liberdade há de reinar para sempre.",
+        "Dizendo isto sacudiu as asas e as suas penas espalha-",
+        "ram-se pelo quarto:",
+        "10 — Com estas minhas penas hás de curar os enfermos",
+        "— disse o pássaro —, e assim até os mais incrédulos acredi-",
+        "tarão em ti e seguirão os teus passos.",
+        "Quando Justo Santana despertou o quarto brilhava com",
+        "o esplendor das penas. Na manhã desse mesmo dia o en-",
+        "fermeiro serviu-se de uma delas para curar um homem com",
+        "elefantíase e à tardinha devolveu a vista a um cego. Passado",
+        "apenas um mês a sua fama de santo e milagreiro já se es-",
+        "palhara muito para além das margens do Rio Zaire e à porta",
+        "da sua casa ia crescendo uma multidão de padecentes. [...]",
+        "Justo Santana colocava na boca dos enfermos uma pena",
+        "do pássaro, como se fosse uma hóstia, e estes imediatamen-",
+        "te ganhavam renovado alento. Enquanto fazia isto o enfer-",
+        "meiro repetia os discursos do pássaro, incapaz de compre-",
+        "ender a fúria daquelas palavras e o alcance delas. Todas as",
+        "noites sonhava com a ave e todas as noites esta o forçava a",
+        "decorar um discurso novo, após o que sacudia as asas, espa-",
+        "lhando pelo ar morto do quarto as penas milagrosas:",
+        "— Se esse pássaro continuar assim tão generoso — dis-",
+        "se Justo Santana à mulher —, ainda o veremos transformado",
+        "numa alma despenada.",
+        "Isto durou um ano. Então, numa manhã de cacimbo1,",
+        "apareceram quatro soldados à porta da casa, afastaram com",
+        "rancor a multidão de desvalidos, e levaram Justo Santana. O",
+        "infeliz foi acusado de fomentar o terrorismo e a sublevação,",
+        "e desterrado para uma praia remota, em pleno deserto do",
+        "Namibe, onde passou a exercer o ofício de faroleiro.",
+        "15 Quando o encontrei, muitos anos depois, em Luanda2, ele",
+        "falou-me desse desterro com nostalgia:",
+        "— Foi a melhor época da minha vida.",
+        "Encontrei-o doente, estendido numa larga cama de ferro,",
+        "sob lençóis muito brancos. No quarto havia apenas a cama",
+        "e um pequeno crucifixo preso à parede. Na sala ao lado os",
+        "devotos rezavam murmurosas ladainhas. Aquela era a sede",
+        "da Igreja do Divino Espírito. Não tinha sido nada fácil chegar",
+        "até junto do enfermeiro: os seus seguidores guardavam-no",
+        "corno a uma relíquia — na verdade mantinham-no preso ali,",
+        "naquele quarto, quase isolado do mundo, desde 19753.",
+        "A melhor época da vida de Justo Santana terminou de",
+        "forma trágica, numa noite de tempestade, quando um bando",
+        "de aves migratórias caiu sobre o farol. Enlouquecidas pela",
+        "luz as avezinhas batiam contra o cristal até quebrarem as",
+        "asas, sendo depois arrastadas pelo vento. Isto está sempre",
+        "a acontecer. Milhares de aves migratórias morrem todos os",
+        "anos traídas pelo fulgor dos faróis. Naquela noite, desrespei-",
+        "tando as normas, Justo Santana foi em socorro das aves e",
+        "desligou o farol. Teve pouca sorte: um barco com tropas, de",
+        "regresso à metrópole, perdeu-se na escuridão e encalhou na",
+        "praia. Dessa vez o enfermeiro foi julgado, condenado a quin-",
+        "ze anos de prisão, e enviado para o Tarrafal4, em Cabo Ver-",
+        "de. Foi solto com a Revolução de Abril5 e regressou a Angola.",
+        "Quando o visitei, antes de me ir embora, quis saber se o",
+        "pássaro ainda lhe frequentava os sonhos. Ele olhou em redor",
+        "para se certificar de que estávamos sozinhos:",
+        "20 — Estrangulei-o — segredou com um sorriso",
+        "cúmplice —, mas enquanto eu for vivo não conte isto a nin-",
+        "guém.",
+        "(Rita Chaves (org.).",
+        "Contos africanos dos países de língua portuguesa, 2009.)",
+        "1 cacimbo: estação com elevado índice de umidade caracterizada pela",
+        "descida gradual da temperatura e pelo aumento da nebulosidade.",
+        "2 Luanda: capital de Angola.",
+        "3 Angola tornou-se um país independente em 1975.",
+        "4 Tarrafal: antiga colônia penal portuguesa.",
+        "5 Ocorrida em 25 de abril de 1974, a Revolução de Abril, também",
+        "conhecida como Revolução dos Cravos, restabeleceu a democracia",
+        "em Portugal, abrindo caminho para o processo de descolonização",
+        "dos países da África."
+      ],
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            22,
+            568,
+            504.3187
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        9,
+        10,
+        11
+      ],
+      "lines": [
+        "Para responder às questões de 09 a 11, leia um trecho do",
+        "Manifesto da Poesia Pau-Brasil, de Oswald de Andrade, pu-",
+        "blicado há exatos 100 anos, em 1924.",
+        "A poesia existe nos fatos. Os casebres de açafrão e de",
+        "ocre nos verdes da Favela, sob o azul cabralino, são fatos",
+        "estéticos.",
+        "O Carnaval no Rio é o acontecimento religioso da raça.",
+        "Pau-Brasil. Wagner submerge ante os cordões de Botafogo.",
+        "Bárbaro e nosso. A formação étnica rica. Riqueza vegetal. O",
+        "minério. A cozinha. O vatapá, o ouro e a dança. [...]",
+        "A nunca exportação de poesia. A poesia anda oculta nos",
+        "cipós maliciosos da sabedoria. Nas lianas1 da saudade uni-",
+        "versitária. [...]",
+        "A língua sem arcaísmos, sem erudição. Natural e neoló-",
+        "gica. A contribuição milionária de todos os erros. Como fala-",
+        "mos. Como somos. [...]",
+        "A reação contra o assunto invasor, diverso da finalidade.",
+        "A peça de tese era um arranjo monstruoso. O romance de",
+        "ideias, uma mistura. O quadro histórico, uma aberração. A",
+        "escultura eloquente, um pavor sem sentido.",
+        "(Gilberto Mendonça Teles (org.).",
+        "Vanguarda europeia e modernismo brasileiro, 1992.)",
+        "1 liana: cipó."
+      ],
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        13,
+        14,
+        15
+      ],
+      "lines": [
+        "Para responder às questões de 13 a 15, leia um trecho do",
+        "artigo “Quantos jovens sabem que o adjetivo ‘surreal’ deriva",
+        "de um movimento centenário?”, do escritor e jornalista Sérgio",
+        "Augusto, publicado em 25.02.2024.",
+        "Quantos de nossos jovens saberão que o adjetivo “sur-",
+        "real”, por eles usado a torto e a direito para qualificar qual-",
+        "quer coisa que lhes pareça absurda, deriva de um dos mo-",
+        "vimentos de vanguarda mais controversos e influentes do",
+        "século passado? Tão do século passado, que está fazendo",
+        "100 anos. O surrealismo, fruto de uma época quase tão con-",
+        "turbada quanto a nossa e também assolada por uma pan-",
+        "demia (a gripe espanhola), nasceu oficialmente em 1924,",
+        "impulsionado pelo manifesto de André Breton.",
+        "Nesse manifesto, Breton detonava o equilíbrio, o realis-",
+        "mo (“hostil a todo impulso de liberação intelectual e moral” e",
+        "refúgio dos medíocres), proclamava a prevalência absoluta",
+        "do sonho, do inconsciente, do instinto e do desejo, pregava a",
+        "renovação de todos os valores filosóficos, morais, políticos e",
+        "científicos, preconizando uma nova maneira radical de ver as",
+        "artes, o mundo – e a vida.",
+        "“Não é o medo da loucura que nos vai obrigar a hastear a",
+        "meio pau a bandeira da imaginação”, ameaçava Breton numa",
+        "das melhores imprecações do manifesto, visceralmente anti-",
+        "militarista (a Grande Guerra terminara seis anos antes) e an-",
+        "ticlerical. Porém, esperançoso. Augurou que um dia a poesia",
+        "decretasse o fim do dinheiro, utopia que a poesia não logrou,",
+        "nem o Pix deverá consumar.",
+        "(www.estadao.com.br. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            403.98789999999997
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "lines": [
+        "Para responder às questões de 16 a 20, leia o trecho de",
+        "uma crônica de José de Alencar, publicada originalmente em",
+        "03.09.1854.",
+        "Um belo dia, não sei de que ano, uma linda fada, que cha-",
+        "mareis como quiserdes, a poesia ou a imaginação, tomou-se",
+        "de amores por um moço de talento, um tanto volúvel como de",
+        "ordinário o são as fantasias ricas e brilhantes que se deleitam",
+        "admirando o belo em todas as formas. Ora, dizem que as fa-",
+        "das não podem sofrer a inconstância, no que lhes acho toda",
+        "a razão; e por isso a fada de meu conto, temendo a rivalidade",
+        "dos anjinhos cá deste mundo, onde os há tão belos, tomou as",
+        "formas de uma pena, pena de cisne, linda como os amores, e",
+        "entregou-se ao seu amante de corpo e alma.",
+        "Não serei eu que desvendarei os mistérios desses amo-",
+        "res fantásticos, e vos contarei as horas deliciosas que cor-",
+        "riam no silêncio do gabinete, mudas e sem palavras. Só vos",
+        "direi, e isto mesmo é confidência, que, depois de muito sonho",
+        "e de muita inspiração, a pena se lançava sobre o papel, desli-",
+        "zava docemente, brincava como uma fada que era, bordando",
+        "as flores mais delicadas, destilando perfumes mais esquisitos",
+        "que todos os perfumes do Oriente. As folhas se animavam ao",
+        "seu contato, a poesia corria em ondas de ouro, donde salta-",
+        "vam chispas brilhantes de graça e espírito.",
+        "Por fim, a desoras1, quando já não havia mais papel,",
+        "quando a luz a morrer apenas empalidecia as sombras da",
+        "noite, a pena trêmula e vacilante caía sobre a mesa sem for-",
+        "ças e sem vida, e soltava uns acentos doces, notas estre-",
+        "mecidas como as cordas da harpa ferida pelo vento. Era o",
+        "último beijo da fada que se despedia, o último canto do cisne",
+        "moribundo.",
+        "Assim se passou muito tempo; mas já não há amores",
+        "que durem sempre, principalmente em dias como os nossos,",
+        "nos quais o símbolo da constância é uma borboleta. Acabou",
+        "o poema fantástico no fim de dois anos; e um dia o herói do",
+        "meu conto, chamado a estudos mais graves, lembrou-se de",
+        "um amigo obscuro, e deu-lhe a sua pena de ouro.",
+        "(José de Alencar. Crônicas escolhidas, 1995.)",
+        "1 desoras: altas horas da noite."
+      ],
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            531.0745999999999
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "lines": [
+        "Leia o texto e examine os gráficos para responder às ques-",
+        "tões de 21 a 26.",
+        "If you’re a chocoholic you may have noticed that your",
+        "habit has lately become more expensive. The price of cocoa",
+        "began creeping up in the second half of 2022. Since then",
+        "it has doubled, reaching an all-time high in January 2024.",
+        "That steep rise spells trouble for the chocolate business and",
+        "sweet-toothed consumers alike.",
+        "Graph 1",
+        "Graph 2",
+        "Climate patterns are partly to blame for rising costs. Cocoa",
+        "is mostly produced by small farmers in West Africa. Ghana",
+        "and Ivory Coast grow about 60% of the world’s crop.",
+        "Last season, in 2023, the El Niño weather pattern led to",
+        "unseasonably high temperatures and rainfall that ravaged",
+        "crops. Total rainfall in Ivory Coast’s cocoa-growing areas",
+        "in 2023 was the highest in 20 years, according to Gro",
+        "Intelligence, a data firm.",
+        "This year El Niño has brought severe drought to the cocoa",
+        "farms, reducing production further. ING, a bank, estimates",
+        "that this year the gap between global production and",
+        "consumption will be at its widest since at least 2014. Extreme",
+        "weather patterns have hit other commodities, too. Droughts",
+        "in Thailand and India are affecting rice plantations. Torrential",
+        "rain in Brazil, the world’s biggest sugar exporter, has affected",
+        "its exports. Besides, other price pressures are specific to the",
+        "cocoa industry. Swollen-shoot virus and black-pod disease —",
+        "killers of cocoa trees — spread across Ghana and Ivory Coast",
+        "during heavy rainfall last year. Tropical Research Services,",
+        "a research company, estimates that by the end of 2023 the",
+        "swollen-shoot virus had infected around 20% of Ivory Coast’s",
+        "cocoa trees.",
+        "(www.economist.com, 28.02.2024. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            302.7726999999999,
+            291,
+            807
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            22,
+            568,
+            312.80679999999995
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        27,
+        28
+      ],
+      "lines": [
+        "Leia a tirinha de Alex Hallatt para responder às questões",
+        "27 e 28.",
+        "(www.alexhallatt.com. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            342.9913
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        29,
+        30
+      ],
+      "lines": [
+        "Leia o texto para responder às questões 29 e 30.",
+        "It is well established that some people are genetically",
+        "predisposed to a shorter lifespan. It is also well known that",
+        "lifestyle factors, specifically smoking, alcohol consumption,",
+        "diet and physical activity, can have an impact on longevity.",
+        "However, until now there has been no investigation to",
+        "understand the extent to which a healthy lifestyle may",
+        "counterbalance genetics.",
+        "Findings from several long-term studies suggest a",
+        "healthy lifestyle could offset effects of life-shortening genes",
+        "by 62% and add as much as five years to your life. The results",
+        "were published in the journal BMJ Evidence-Based Medicine.",
+        "“This study elucidates the pivotal role of a healthy lifestyle in",
+        "mitigating the impact of genetic factors on lifespan reduction,”",
+        "the researchers concluded.",
+        "(Andrew Gregory. www.theguardian.com, 30.04.2024. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            258.5706
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        33,
+        34
+      ],
+      "lines": [
+        "Leia o excerto para responder às questões 33 e 34.",
+        "O boom na mineração do ouro, em Minas Gerais, mudou",
+        "poderosamente o centro de gravidade da economia e da po-",
+        "pulação brasileiras do Norte para o Centro e o Sul. [...] Em-",
+        "bora os baianos tivessem voz considerável nos investimentos",
+        "feitos dentro das zonas de mineração, a logística do trans-",
+        "porte pelo interior fez com que a balança comercial para e a",
+        "partir das províncias do interior pendesse para as cidades do",
+        "Sul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso",
+        "tornaram-se a hinterlândia crucial do porto do Rio de Janeiro.",
+        "O Rio de Janeiro logo ultrapassou a Bahia em transporte ma-",
+        "rítimo e comércio internacional, e chegou rapidamente a uma",
+        "população de 50 mil habitantes na capital. A Coroa reconhe-",
+        "ceu esta nova realidade [...], mudando a capital da colônia de",
+        "Salvador para o Rio de Janeiro, em 1763.",
+        "(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)"
+      ],
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            257.15329999999994
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        35,
+        36
+      ],
+      "lines": [
+        "Leia o excerto para responder às questões 35 e 36.",
+        "Nunca é demais repetir: a nação brasileira não existia",
+        "antes da Independência, embora algumas características e",
+        "acontecimentos da história colonial ajudem a explicar seu",
+        "surgimento. Mas esse surgimento não se fez de repente, em",
+        "algum momento abrupto entre 1820, 1821 ou 1822, embo-",
+        "ra tenha sido entre esses anos que essa nação começou a",
+        "adquirir contornos como uma comunidade política com sua",
+        "alteridade decisiva: uma nação não portuguesa. Mais pre-",
+        "cisamente, o que surgiu naqueles anos foram as condições",
+        "seguras para o nascimento dessa nova nação, e esse é um",
+        "dos sentidos que tornam a Independência uma revolução po-",
+        "lítica. Mas nada havia nesse nascimento que garantisse que",
+        "o bebê teria vida longa.",
+        "(João Paulo Pimenta. Formação da nação brasileira, 2024.)"
+      ],
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            245.15329999999994
+          ]
+        }
+      ]
+    },
+    {
+      "targets": [
+        37,
+        38
+      ],
+      "lines": [
+        "Leia o excerto para responder às questões 37 e 38.",
+        "O ponto central do governo colonial era a questão de",
+        "como extrair riqueza das colônias para o benefício das po-",
+        "tências europeias ocupantes. Para esse fim, na virada do sé-",
+        "culo, a administração colonial britânica começou a construir",
+        "uma linha ferroviária que ligaria várias partes de suas três",
+        "colônias que se tornariam a Nigéria. As mulheres foram am-",
+        "plamente excluídas da força de trabalho assalariada.",
+        "A introdução de relações capitalistas na forma de traba-",
+        "lho assalariado era uma novidade na economia e teve fun-",
+        "damentais repercussões, particularmente na definição de",
+        "trabalho.",
+        "Além do acesso ao dinheiro, o que o trabalho assalaria-",
+        "do significava para os homens, havia efeitos mais sutis, mas",
+        "igualmente profundos. Como os homens recebiam um salá-",
+        "rio, seu trabalho adquiria valor de troca, enquanto o trabalho",
+        "das mulheres retinha apenas seu valor de uso, desvalorizan-",
+        "do o trabalho que se associava às mulheres.",
+        "O trabalho das mulheres tornou-se invisível. Na realida-",
+        "de, os salários de fome pagos aos homens pelo governo co-",
+        "lonial eram insuficientes para manter a família, e o trabalho",
+        "das mulheres continuava tão necessário quanto sempre para",
+        "a sobrevivência da comunidade.",
+        "( A invenção das mulheres:",
+        "construindo um sentido africano para os discursos ocidentais",
+        "de gênero, 2021. Adaptado.)"
+      ],
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            377.4053
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "sequenceComplete": true,
+    "alternativesComplete": true,
+    "answerCount": 90,
+    "cancelled": [],
+    "disciplinesAssigned": 90,
+    "localFilesPresent": true
+  },
+  "graphicAlternatives": [
+    {
+      "index": 15,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "index": 63,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "index": 84,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "disciplineCounts": {
+    "Artes": 1,
+    "Biologia": 8,
+    "Filosofia": 4,
+    "Física": 7,
+    "Geografia": 10,
+    "História": 12,
+    "Inglês": 10,
+    "Matemática": 9,
+    "Português": 19,
+    "Química": 7,
+    "Sociologia": 3
+  }
+}

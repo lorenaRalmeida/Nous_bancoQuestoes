@@ -1,0 +1,95 @@
+{
+  "title": "Questão 24 - UNICAMP 2024 - 1ª fase",
+  "index": 24,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "No início de 2023,\num grupo de pesquisadores estudou\no desenvolvimento\nde uma poliamina\nsólida contendo cobre, capaz de adsorver CO na fase\n2\ngasosa e em baixas\nconcentrações. A figura ao lado mostra\no esquema de adsorção com a representação do sólido:\nDe acordo com os autores do estudo, 1 kg de poliamina contendo cobre é capaz de adsorver até 5 mols de CO , uma quan-\n2\ntidade bem superior ao que se conhece até então. Com base\nnessas informações, pode-se concluir que a porcentagem em\nmassa de cobre no sólido é cerca de",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "16% e que 1 kg do sólido é capaz de absorver até 110 g de\ngás carbônico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "32% e que 1 kg do sólido é capaz de absorver até 110 g de\ngás carbônico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "16% e que 1 kg do sólido é capaz de absorver até 220 g de\ngás carbônico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "32% e que 1 kg do sólido é capaz de absorver até 220 g de\ngás carbônico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No início de 2023,\num grupo de pes-\nquisadores estudou\no desenvolvimento\nde uma poliamina\nsólida contendo co-\nbre, capaz de ad-\nsorver CO na fase\n2\ngasosa e em baixas\nconcentrações. A fi-\ngura ao lado mostra\no esquema de ad-\nsorção com a repre-\nsentação do sólido:\nDe acordo com os autores do estudo, 1 kg de poliamina con-\ntendo cobre é capaz de adsorver até 5 mols de CO , uma quan-\n2\ntidade bem superior ao que se conhece até então. Com base\nnessas informações, pode-se concluir que a porcentagem em\nmassa de cobre no sólido é cerca de\na) 16% e que 1 kg do sólido é capaz de absorver até 110 g de\ngás carbônico.\nb) 32% e que 1 kg do sólido é capaz de absorver até 110 g de\ngás carbônico.\nc) 16% e que 1 kg do sólido é capaz de absorver até 220 g de\ngás carbônico.\nd) 32% e que 1 kg do sólido é capaz de absorver até 220 g de\ngás carbônico.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            509.6269,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            40,
+            568,
+            253.6725
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

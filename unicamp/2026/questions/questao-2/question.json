@@ -1,0 +1,96 @@
+{
+  "title": "Questão 2 - UNICAMP 2026 - 1ª fase",
+  "index": 2,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Em um vídeo publicado no canal do Youtube do The New York\nTimes, o diretor de “Ainda Estou Aqui” descreve cenas do filme. Apresenta-se, a seguir, a transcrição da fala do diretor.\n30 minutes into the film, before any of these scenes, everything in\nthe movie conveys a sense of normalcy. From this point onward,\nthough, this frame revolves around subtraction: of light, as the\ndrapes are shut, of sounds from the outside, of music. In this\nother one, we see the last intimacy moment between the couple,\nframed by the military officers, emphasizing a sense of suffocation\nin what was once a safe place: the family house. Then, we see\nthe first of the only two close-ups in the entire film. We saved it\nfor Eunice’s last glance at Rubens. From here on, we are with her.\n“I'm Still Here” becomes her film.\nObserve três quadros extraídos do filme.\n(Imagens e texto adaptados de https://www.youtube.com/watch?v=mtXCWXkgCFg.\nAcesso em 01/05/2025.)\nAssinale a alternativa que apresenta os quadros na ordem em\nque foram descritos no texto.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Quadro A, Quadro C, Quadro B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Quadro B, Quadro C, Quadro A.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Quadro C, Quadro B, Quadro A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Quadro B, Quadro A, Quadro C.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Em um vídeo publicado no canal do Youtube do The New York\nTimes, o diretor de “Ainda Estou Aqui” descreve cenas do fil-\nme. Apresenta-se, a seguir, a transcrição da fala do diretor.\n30 minutes into the film, before any of these scenes, everything in\nthe movie conveys a sense of normalcy. From this point onward,\nthough, this frame revolves around subtraction: of light, as the\ndrapes are shut, of sounds from the outside, of music. In this\nother one, we see the last intimacy moment between the couple,\nframed by the military officers, emphasizing a sense of suffocation\nin what was once a safe place: the family house. Then, we see\nthe first of the only two close-ups in the entire film. We saved it\nfor Eunice’s last glance at Rubens. From here on, we are with her.\n“I'm Still Here” becomes her film.\nObserve três quadros extraídos do filme.\n(Imagens e texto adaptados de https://www.youtube.com/watch?v=mtXCWXkgCFg.\nAcesso em 01/05/2025.)\nAssinale a alternativa que apresenta os quadros na ordem em\nque foram descritos no texto.\na) Quadro A, Quadro C, Quadro B.\nb) Quadro B, Quadro C, Quadro A.\nc) Quadro C, Quadro B, Quadro A.\nd) Quadro B, Quadro A, Quadro C.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            665.2712,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            40,
+            568,
+            522.5433
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

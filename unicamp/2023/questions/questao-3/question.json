@@ -1,0 +1,102 @@
+{
+  "title": "Questão 3 - UNICAMP 2023 - 1ª fase",
+  "index": 3,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente\ncomo poeta, nunca se definiu assim e não escreveu nenhuma\ndas linhas que estão no livro Reino dos bichos e dos animais é o\nmeu nome, pelo qual ficou conhecida. A potência de suas palavras se encontra no seu falatório (como chamava suas falas),\nque foi preservado em fitas de áudio pela artista plástica Carla\nGuagliardi. As conversas entre as duas foram gravadas durante\noficinas de arte para pacientes psiquiátricos, entre 1986 e 1988,\ne o livro, publicado muitos anos depois da morte de Patrocínio,\né um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi\nlevada à força pela polícia e internada, no Centro Pedro 2º e depois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou\npor trinta anos; quando morreu, foi enterrada como indigente.\nA história de Patrocínio é a história de milhares de vítimas que\nforam encarceradas nos hospícios brasileiros por serem consideradas “desajustadas”. Em sua maioria negras. Ali, elas sofreram\nabusos, violências e torturas, além de serem abandonadas pelo\nEstado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, 05/2022, p. 27.)\n\nExaminando a relação do título com o corpo do excerto da reportagem de revista, o que representa a quebra do “silêncio\ndos hospícios”?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A morte esquecida de Stella do Patrocínio em uma instituição para reclusão de pessoas com transtornos mentais (ou\nassim consideradas).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "As oficinas de arte que permitiram a Stella do Patrocínio\ntornar pública a sua voz e as histórias de mulheres encarceradas em instituições manicomiais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O livro de Stella do Patrocínio que narra as histórias de mulheres vítimas de violência manicomial, abandonadas pelo\nEstado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "As falas gravadas de Stella do Patrocínio que expressam\ntanto o seu percurso individual quanto a história de outras\nmulheres.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examinando a relação do título com o corpo do excerto da re-\nportagem de revista, o que representa a quebra do “silêncio\ndos hospícios”?\na) A morte esquecida de Stella do Patrocínio em uma institui-\nção para reclusão de pessoas com transtornos mentais (ou\nassim consideradas).\nb) As oficinas de arte que permitiram a Stella do Patrocínio\ntornar pública a sua voz e as histórias de mulheres encarce-\nradas em instituições manicomiais.\nc) O livro de Stella do Patrocínio que narra as histórias de mu-\nlheres vítimas de violência manicomial, abandonadas pelo\nEstado.\nd) As falas gravadas de Stella do Patrocínio que expressam\ntanto o seu percurso individual quanto a história de outras\nmulheres.",
+    "sharedContext": "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente\ncomo poeta, nunca se definiu assim e não escreveu nenhuma\ndas linhas que estão no livro Reino dos bichos e dos animais é o\nmeu nome, pelo qual ficou conhecida. A potência de suas palavras se encontra no seu falatório (como chamava suas falas),\nque foi preservado em fitas de áudio pela artista plástica Carla\nGuagliardi. As conversas entre as duas foram gravadas durante\noficinas de arte para pacientes psiquiátricos, entre 1986 e 1988,\ne o livro, publicado muitos anos depois da morte de Patrocínio,\né um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi\nlevada à força pela polícia e internada, no Centro Pedro 2º e depois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou\npor trinta anos; quando morreu, foi enterrada como indigente.\nA história de Patrocínio é a história de milhares de vítimas que\nforam encarceradas nos hospícios brasileiros por serem consideradas “desajustadas”. Em sua maioria negras. Ali, elas sofreram\nabusos, violências e torturas, além de serem abandonadas pelo\nEstado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, 05/2022, p. 27.)",
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            503.3764,
+            568,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            318.5593
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

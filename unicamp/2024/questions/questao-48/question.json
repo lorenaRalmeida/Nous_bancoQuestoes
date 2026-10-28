@@ -1,0 +1,82 @@
+{
+  "title": "Questão 48 - UNICAMP 2024 - 1ª fase",
+  "index": 48,
+  "year": 2024,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Quando desempenho minha tarefa de irmão, de marido ou de\ncidadão, quando executo os compromissos que assumi, eu cumpro deveres que estão definidos fora de mim e de meus atos, no\ndireito e nos costumes. Ainda que eles estejam de acordo com\nos meus sentimentos próprios e que eu sinta interiormente a\nrealidade deles, tal realidade não deixa de ser objetiva, pois não\nfui eu que os fiz, mas os recebi pela educação. Eis aí, portanto,\nmaneiras de agir, de pensar e de sentir que apresentam essa notável propriedade de existirem fora das consciências individuais.\n(Adaptado de: DURKHEIM, E. As regras do método sociológico. São Paulo: Martins Fontes, 2014.)\nÉmile Durkheim é um dos fundadores da Sociologia e analisa a\nrelação entre indivíduo e sociedade. A partir do texto, podemos\nafirmar que os modos de agir, de pensar e de sentir, em uma\nsociedade, são definidos",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pelo livre-arbítrio dos indivíduos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pelos sentimentos próprios dos indivíduos e independem do\nmeio social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pelo direito e pelos costumes, que são, por sua vez, definidos livremente pelos indivíduos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pela própria sociedade, que constitui uma realidade objetiva\nque exerce coerção sobre o indivíduo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Quando desempenho minha tarefa de irmão, de marido ou de\ncidadão, quando executo os compromissos que assumi, eu cum-\npro deveres que estão definidos fora de mim e de meus atos, no\ndireito e nos costumes. Ainda que eles estejam de acordo com\nos meus sentimentos próprios e que eu sinta interiormente a\nrealidade deles, tal realidade não deixa de ser objetiva, pois não\nfui eu que os fiz, mas os recebi pela educação. Eis aí, portanto,\nmaneiras de agir, de pensar e de sentir que apresentam essa no-\ntável propriedade de existirem fora das consciências individuais.\n(Adaptado de: DURKHEIM, E. As regras do método sociológico. São Paulo: Martins Fon-\ntes, 2014.)\nÉmile Durkheim é um dos fundadores da Sociologia e analisa a\nrelação entre indivíduo e sociedade. A partir do texto, podemos\nafirmar que os modos de agir, de pensar e de sentir, em uma\nsociedade, são definidos\na) pelo livre-arbítrio dos indivíduos.\nb) pelos sentimentos próprios dos indivíduos e independem do\nmeio social.\nc) pelo direito e pelos costumes, que são, por sua vez, defini-\ndos livremente pelos indivíduos.\nd) pela própria sociedade, que constitui uma realidade objetiva\nque exerce coerção sobre o indivíduo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            46.889999999999986,
+            291,
+            384.1735
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

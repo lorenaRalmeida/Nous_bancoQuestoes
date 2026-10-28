@@ -1,0 +1,96 @@
+{
+  "title": "Questão 44 - UNICAMP 2023 - 1ª fase",
+  "index": 44,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Relatório publicado pelo MapBiomas apresentou dados referentes à área de mineração – garimpo e mineração industrial – no\nBrasil. Os dados indicam um crescimento de 31 mil para 206 mil\nhectares entre 1985 e 2020.\nO mapa a seguir representa os biomas brasileiros e as respectivas áreas de mineração em 2020.\n(Adaptado de https://mapbiomas.org/area-ocupada-pela-mineracao-no-brasil-cresce-\n-mais-de-6-vezes-entre-1985-e-2020. Acesso em 27/05/2022.)\nConsiderando as informações apresentadas e seus conhecimentos, é correto afirmar que o bioma",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Mata Atlântica tem área de mineração industrial maior do\nque de garimpo. Nesse bioma, ocorre exploração de minério\nde ferro, causando o cinturão do desmatamento e o assoreamento dos rios da maior bacia hidrográfica do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Amazônia tem área de garimpo maior do que a de mineração industrial. Nesse bioma, ocorre exploração de ouro e\ngrande desmatamento nas unidades de conservação e territórios indígenas, com contaminação do rio Tapajós.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Cerrado tem área de garimpo maior do que a de mineração\nindustrial. Nesse bioma, ocorre exploração de minério de\nferro, causando o soterramento de nascentes e comprometendo o potencial hidroelétrico na região.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Caatinga tem área de mineração industrial maior do que a\nde garimpo. Nesse bioma, ocorre exploração de níquel, causando a escassez de água na região, água essa utilizada para\nlavar o metal, o que contamina o rio Tocantins.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Relatório publicado pelo MapBiomas apresentou dados referen-\ntes à área de mineração – garimpo e mineração industrial – no\nBrasil. Os dados indicam um crescimento de 31 mil para 206 mil\nhectares entre 1985 e 2020.\nO mapa a seguir representa os biomas brasileiros e as respecti-\nvas áreas de mineração em 2020.\n(Adaptado de https://mapbiomas.org/area-ocupada-pela-mineracao-no-brasil-cresce-\n-mais-de-6-vezes-entre-1985-e-2020. Acesso em 27/05/2022.)\nConsiderando as informações apresentadas e seus conhecimen-\ntos, é correto afirmar que o bioma\na) Mata Atlântica tem área de mineração industrial maior do\nque de garimpo. Nesse bioma, ocorre exploração de minério\nde ferro, causando o cinturão do desmatamento e o assore-\namento dos rios da maior bacia hidrográfica do país.\nb) Amazônia tem área de garimpo maior do que a de mine-\nração industrial. Nesse bioma, ocorre exploração de ouro e\ngrande desmatamento nas unidades de conservação e terri-\ntórios indígenas, com contaminação do rio Tapajós.\nc) Cerrado tem área de garimpo maior do que a de mineração\nindustrial. Nesse bioma, ocorre exploração de minério de\nferro, causando o soterramento de nascentes e comprome-\ntendo o potencial hidroelétrico na região.\nd) Caatinga tem área de mineração industrial maior do que a\nde garimpo. Nesse bioma, ocorre exploração de níquel, cau-\nsando a escassez de água na região, água essa utilizada para\nlavar o metal, o que contamina o rio Tocantins.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            669.8316,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            40,
+            291,
+            644.6616
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

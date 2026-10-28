@@ -1,0 +1,94 @@
+{
+  "title": "Questão 18 - UNICAMP 2026 - 1ª fase",
+  "index": 18,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Os conflitos entre Índia e Paquistão se acirraram em 2025, entre outros fatores, pela disputa de recursos hídricos na bacia\nhidrográfica do rio Indo. Em setembro de 1960, os dois países firmaram o Tratado das Águas do Indo, que regula o uso\ncompartilhado das águas desse sistema fluvial. Ao longo dos\nanos, a Índia manifestou, em diferentes ocasiões, a intenção de\nse desvincular do acordo. Em resposta, o governo paquistanês\ndeclarou que qualquer tentativa de bloqueio hídrico seria considerada um 'ato de guerra'.\n(Adaptado de https://www.nytimes.com/2025/04/24/world/asia/india-pakistan-indus-\n-waters-treaty.html. Acesso em 12/05/2025.)\nPara entender o conflito, é fundamental analisar o sentido do\nfluxo de drenagem na bacia hidrográfica do rio Indo, conforme\nmostrado pelo mapa a seguir.\nPaíses drenados pela rede hidrográfica do rio Indo\n(Elaboração: COMVEST, 2025. Baseado em https://www.aljazeera.com/news/2011\n/8/1/kashmir-and-the-politics-of-water. e https://www.hydrosheds.org/. Acesso em\n29/06/2025.)\nA partir da leitura do mapa e do texto, é correto afirmar que\nos afluentes",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "são rios drenados para o interior do continente (endorreicos) e escoam em direção à jusante, onde se localizam áreas\nagrícolas do Paquistão. Por isso, eventuais represamentos\npela Índia comprometeriam a economia paquistanesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "são rios drenados para o oceano (exorreicos) situados na\nmontante do território indiano. Isso permitiria ao Paquistão\nrepresar sua vazão e reduzir o abastecimento indiano destinado às atividades agropecuárias e industriais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "são rios drenados para o interior do continente (endorreicos)\ne correm em direção à jusante, comprometendo as atividades econômicas das áreas urbanizadas do Paquistão que dependem da vazão originada nos afluentes situados na Índia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "são rios drenados para o oceano (exorreicos) situados na\nmontante do Paquistão. Isso permitiria à Índia controlar seu\nfluxo, afetando as atividades agrícolas paquistanesas e comprometendo a economia do Paquistão.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os conflitos entre Índia e Paquistão se acirraram em 2025, en-\ntre outros fatores, pela disputa de recursos hídricos na bacia\nhidrográfica do rio Indo. Em setembro de 1960, os dois paí-\nses firmaram o Tratado das Águas do Indo, que regula o uso\ncompartilhado das águas desse sistema fluvial. Ao longo dos\nanos, a Índia manifestou, em diferentes ocasiões, a intenção de\nse desvincular do acordo. Em resposta, o governo paquistanês\ndeclarou que qualquer tentativa de bloqueio hídrico seria consi-\nderada um 'ato de guerra'.\n(Adaptado de https://www.nytimes.com/2025/04/24/world/asia/india-pakistan-indus-\n-waters-treaty.html. Acesso em 12/05/2025.)\nPara entender o conflito, é fundamental analisar o sentido do\nfluxo de drenagem na bacia hidrográfica do rio Indo, conforme\nmostrado pelo mapa a seguir.\nPaíses drenados pela rede hidrográfica do rio Indo\n(Elaboração: COMVEST, 2025. Baseado em https://www.aljazeera.com/news/2011\n/8/1/kashmir-and-the-politics-of-water. e https://www.hydrosheds.org/. Acesso em\n29/06/2025.)\nA partir da leitura do mapa e do texto, é correto afirmar que\nos afluentes\na) são rios drenados para o interior do continente (endorrei-\ncos) e escoam em direção à jusante, onde se localizam áreas\nagrícolas do Paquistão. Por isso, eventuais represamentos\npela Índia comprometeriam a economia paquistanesa.\nb) são rios drenados para o oceano (exorreicos) situados na\nmontante do território indiano. Isso permitiria ao Paquistão\nrepresar sua vazão e reduzir o abastecimento indiano desti-\nnado às atividades agropecuárias e industriais.\nc) são rios drenados para o interior do continente (endorreicos)\ne correm em direção à jusante, comprometendo as ativida-\ndes econômicas das áreas urbanizadas do Paquistão que de-\npendem da vazão originada nos afluentes situados na Índia.\nd) são rios drenados para o oceano (exorreicos) situados na\nmontante do Paquistão. Isso permitiria à Índia controlar seu\nfluxo, afetando as atividades agrícolas paquistanesas e com-\nprometendo a economia do Paquistão.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            30,
+            47.14269999999999,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            40,
+            568,
+            109.6327
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

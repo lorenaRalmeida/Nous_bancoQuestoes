@@ -1,0 +1,84 @@
+{
+  "title": "Questão 71 - UNICAMP 2023 - 1ª fase",
+  "index": 71,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia, a seguir, parte de um discurso da abolicionista estadunidense Sojourner Truth, feito em 1851.\n“I think that ‘twixt the negroes of the South and the women\nat the North, all talking about rights, the white men will be\nin a fix pretty soon. But what’s all this here talking about?\nThat man over there says that women need to be helped\ninto carriages, and lifted over ditches, and to have the best\nplace everywhere. Nobody ever helps me into carriages, or\nover mud-puddles, or gives me any best place! And ain’t I a\nwoman? Look at me! Look at my arm! I have ploughed and\nplanted, and gathered into barns, and no man could head\nme! And ain’t I a woman? I could work as much and eat as\nmuch as a man – when I could get it – and bear the lash as\nwell! And ain’t I a woman? I have borne thirteen children,\nand seen most all sold off to slavery, and when I cried out\nwith my mother’s grief, none but Jesus heard me! And ain’t\nI a woman? (…)”\n(Disponível em: https://www.nps.gov/articles/sojourner-truth.htm. Acesso em\n24/05/2022.)\nAo longo do discurso, Sojourner Truth repete a mesma pergunta com a finalidade de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ilustrar atitudes sexistas vivenciadas por mulheres negras e\nbrancas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "problematizar a diferença de tratamento dispensado a mulheres negras e brancas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "advogar pela igualdade de direitos entre homens e mulheres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "criticar a separação entre brancos e negros de diferentes\nclasses sociais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia, a seguir, parte de um discurso da abolicionista estaduni-\ndense Sojourner Truth, feito em 1851.\n“I think that ‘twixt the negroes of the South and the women\nat the North, all talking about rights, the white men will be\nin a fix pretty soon. But what’s all this here talking about?\nThat man over there says that women need to be helped\ninto carriages, and lifted over ditches, and to have the best\nplace everywhere. Nobody ever helps me into carriages, or\nover mud-puddles, or gives me any best place! And ain’t I a\nwoman? Look at me! Look at my arm! I have ploughed and\nplanted, and gathered into barns, and no man could head\nme! And ain’t I a woman? I could work as much and eat as\nmuch as a man – when I could get it – and bear the lash as\nwell! And ain’t I a woman? I have borne thirteen children,\nand seen most all sold off to slavery, and when I cried out\nwith my mother’s grief, none but Jesus heard me! And ain’t\nI a woman? (…)”\n(Disponível em: https://www.nps.gov/articles/sojourner-truth.htm. Acesso em\n24/05/2022.)\nAo longo do discurso, Sojourner Truth repete a mesma pergun-\nta com a finalidade de\na) ilustrar atitudes sexistas vivenciadas por mulheres negras e\nbrancas.\nb) problematizar a diferença de tratamento dispensado a mu-\nlheres negras e brancas.\nc) advogar pela igualdade de direitos entre homens e mulhe-\nres.\nd) criticar a separação entre brancos e negros de diferentes\nclasses sociais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            200.60310000000004,
+            291,
+            690.4157
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

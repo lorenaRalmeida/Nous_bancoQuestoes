@@ -1,0 +1,102 @@
+{
+  "title": "Questão 12 - UNESP 2025 - 1ª fase",
+  "index": 12,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Examine o cartum de Rafael Corrêa, publicado em sua conta\nno Instagram em 19.12.2020.\nNa construção do sentido de seu cartum, Rafael Corrêa mobiliza fundamentalmente uma figura de retórica e um conceito\ngeográfico, a saber,",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "personificação e erosão marítima.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "eufemismo e abalo sísmico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "eufemismo e vulcanismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "paradoxo e intemperismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "personificação e deriva continental.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine o cartum de Rafael Corrêa, publicado em sua conta\nno Instagram em 19.12.2020.\nNa construção do sentido de seu cartum, Rafael Corrêa mo-\nbiliza fundamentalmente uma figura de retórica e um conceito\ngeográfico, a saber,\n(A) personificação e erosão marítima.\n(B) eufemismo e abalo sísmico.\n(C) eufemismo e vulcanismo.\n(D) paradoxo e intemperismo.\n(E) personificação e deriva continental.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            413.0856,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            22,
+            568,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

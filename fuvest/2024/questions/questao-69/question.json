@@ -1,0 +1,100 @@
+{
+  "title": "Questão 69 - FUVEST 2024 - 1ª fase",
+  "index": 69,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A partir do cladograma apresentado, que expressa algumas\nrelações filogenéticas entre vertebrados, é correto afirmar\nque",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a lampreia é o ancestral comum de todos os vertebrados\nincluídos no cladograma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o tubarão surgiu da lampreia e deu origem aos\nvertebrados tetrápodes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os peixes (lampreia e tubarão) possuem um ancestral\ncompartilhado com os tetrápodes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o lagarto é mais proximamente relacionado ao tubarão\nque ao ser humano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o ser humano é o mais evoluído dentre todos os\nvertebrados incluídos no cladograma.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A partir do cladograma apresentado, que expressa algumas\nrelações filogenéticas entre vertebrados, é correto afirmar\nque\n(A) a lampreia é o ancestral comum de todos os vertebrados\nincluídos no cladograma.\n(B) o tubarão surgiu da lampreia e deu origem aos\nvertebrados tetrápodes.\n(C) os peixes (lampreia e tubarão) possuem um ancestral\ncompartilhado com os tetrápodes.\n(D) o lagarto é mais proximamente relacionado ao tubarão\nque ao ser humano.\n(E) o ser humano é o mais evoluído dentre todos os\nvertebrados incluídos no cladograma.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            297.5,
+            416.6347,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 27,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Cladograma e evolução de vertebrados",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

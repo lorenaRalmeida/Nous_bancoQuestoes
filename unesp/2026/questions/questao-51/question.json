@@ -1,0 +1,188 @@
+{
+  "title": "Questão 51 - UNESP 2026 - 1ª fase",
+  "index": 51,
+  "year": 2026,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Leia as instruções para um experimento de diferenciação dos\ntipos de solos.\nPara fazer um teste de solo em um recipiente, primeiramente preencha-o até a metade com a amostra de solo. Em\nseguida, preencha o espaço restante com água, deixando\num pouco de ar na parte superior. Após tampar o recipiente,\nagite-o vigorosamente até que todos os torrões de solo sejam\ndesfeitos. Deixe o recipiente em um local onde não haja perturbação. Após 24 horas, o solo terá se sedimentado em camadas visíveis de argila, silte e areia. Ao medir as proporções\nrelativas dessas três texturas no solo, é possível determinar\nqual tipo de solo você possui:\n(https://ameliamurtha.wordpress.com. Adaptado.)\nUma aplicação prática do experimento descrito é",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a investigação das condições para a formação de laterita\nno solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a investigação sobre a estratificação de voçorocas no solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o prognóstico das condições de assoreamento do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a classificação dos diferentes tipos de horizontes do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o estudo na construção civil sobre a estabilidade do solo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia as instruções para um experimento de diferenciação dos\ntipos de solos.\nPara fazer um teste de solo em um recipiente, primeira-\nmente preencha-o até a metade com a amostra de solo. Em\nseguida, preencha o espaço restante com água, deixando\num pouco de ar na parte superior. Após tampar o recipiente,\nagite-o vigorosamente até que todos os torrões de solo sejam\ndesfeitos. Deixe o recipiente em um local onde não haja per-\nturbação. Após 24 horas, o solo terá se sedimentado em ca-\nmadas visíveis de argila, silte e areia. Ao medir as proporções\nrelativas dessas três texturas no solo, é possível determinar\nqual tipo de solo você possui:\n(https://ameliamurtha.wordpress.com. Adaptado.)\nUma aplicação prática do experimento descrito é\n(A) a investigação das condições para a formação de laterita\nno solo.\n(B) a investigação sobre a estratificação de voçorocas no solo.\n(C) o prognóstico das condições de assoreamento do solo.\n(D) a classificação dos diferentes tipos de horizontes do solo.\n(E) o estudo na construção civil sobre a estabilidade do solo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 21,
+        "bbox": [
+          134.4501,
+          199.56000000000006,
+          186.1458,
+          232.25559999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 21,
+        "bbox": [
+          56.9725,
+          210.17229999999995,
+          109.8712,
+          232.7043
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 21,
+        "bbox": [
+          212.1702,
+          210.17229999999995,
+          266.67379999999997,
+          232.7043
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 21,
+        "bbox": [
+          40.999,
+          223.05899999999997,
+          126.09299999999999,
+          378.65799999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 21,
+        "bbox": [
+          119.619,
+          223.05899999999997,
+          204.994,
+          346.024002
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 21,
+        "bbox": [
+          198.28,
+          223.05899999999997,
+          283.37399700000003,
+          345.46300299999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 21,
+        "bbox": [
+          122.13379999999998,
+          335.62,
+          200.0214,
+          378.65799999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 21,
+        "bbox": [
+          199.3749,
+          335.62,
+          282.16769999999997,
+          378.65799999999996
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

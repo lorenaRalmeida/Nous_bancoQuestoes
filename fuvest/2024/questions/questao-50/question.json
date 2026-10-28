@@ -1,0 +1,91 @@
+{
+  "title": "Questão 50 - FUVEST 2024 - 1ª fase",
+  "index": 50,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Um carro movimentava-se por uma rua de mão única, com\nsentido da esquerda para a direita, e deixou no asfalto o\npadrão de pingos de óleo indicado na figura I.\nFigura I\nEntre as curvas no gráfico da figura II, indique aquela que\nmelhor corresponde à dependência da posição do carro com\no tempo, segundo esses pingos. Adote como positivo o\nsentido para a direita, conforme a indicação da seta em I.\nFigura II\n\nNote e adote:\nAssuma que o intervalo de tempo\nentre os pingos seja o mesmo.",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Curva 𝑎.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Curva 𝑏.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Curva 𝑐.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Curva 𝑑.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Curva 𝑒.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Um carro movimentava-se por uma rua de mão única, com\nsentido da esquerda para a direita, e deixou no asfalto o\npadrão de pingos de óleo indicado na figura I.\nFigura I\nEntre as curvas no gráfico da figura II, indique aquela que\nmelhor corresponde à dependência da posição do carro com\no tempo, segundo esses pingos. Adote como positivo o\nsentido para a direita, conforme a indicação da seta em I.\nFigura II\n(A) Curva 𝑎.\n(B) Curva 𝑏. Note e adote:\nAssuma que o intervalo de tempo\n(C) Curva 𝑐.\nentre os pingos seja o mesmo.\n(D) Curva 𝑑.\n(E) Curva 𝑒.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            470.5147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Gráfico de posição e movimento",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Questão 23 - UNICAMP 2026 - 1ª fase",
+  "index": 23,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Leia os textos 1 e 2.\nTexto 1\nMuitos povos, de diferentes matrizes culturais, têm a compreensão de que nós e a Terra somos uma mesma entidade. Até o\ncomeço do século XX, o mundo do trabalho e da produção se\ndava com ferramentas e meios que não tinham a potência de\nexaurir os recursos da Terra como hoje. Desse tempo para cá,\nsobraram poucas humanidades espalhadas pelo planeta.\n(Adaptado de KRENAK, A. A vida não é útil. São Paulo, Companhia das Letras, p. 38,\n2020.)\nTexto 2\nA Terra é um denso conjunto de relações que articula seres vivos, oceanos, atmosfera, clima e solos. Ela é dotada de uma\nhistória e de um regime de atividades próprio, resultado da articulação de múltiplos processos. Hoje, já não estamos lidando\ncom uma natureza selvagem e ameaçadora, nem com uma natureza frágil, que deve ser protegida, nem com uma natureza\nque pode ser explorada à vontade. A hipótese é nova. A Terra\nnão está ameaçada, diferentemente das inúmeras espécies vivas que serão varridas pelas mudanças de seu meio, com uma\nrapidez sem precedente.\n(Adaptado de STENGERS, I. No tempo das catástrofes. São Paulo: Cosac & Naify, p. 23,\n2015.)\nA partir da leitura dos textos é correto afirmar que natureza e\nsociedade",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "passaram a se influenciar por meio do desenvolvimento das\nforças produtivas e do trabalho ao longo da história, o que\ncoloca a natureza em risco.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estão articuladas por múltiplos processos que envolvem\nagentes humanos e não humanos (oceanos, atmosfera, clima, solo, etc.), o que coloca a natureza em risco.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "possuem uma história comum e articulada, fato percebido\npor povos de diferentes matrizes culturais, o que coloca a\nsociedade em risco.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "possuem um regime de atividades próprio, que envolve\nagentes humanos e não humanos (oceanos, atmosfera, clima, solo, etc.), o que coloca tais agentes em risco.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia os textos 1 e 2.\nTexto 1\nMuitos povos, de diferentes matrizes culturais, têm a compre-\nensão de que nós e a Terra somos uma mesma entidade. Até o\ncomeço do século XX, o mundo do trabalho e da produção se\ndava com ferramentas e meios que não tinham a potência de\nexaurir os recursos da Terra como hoje. Desse tempo para cá,\nsobraram poucas humanidades espalhadas pelo planeta.\n(Adaptado de KRENAK, A. A vida não é útil. São Paulo, Companhia das Letras, p. 38,\n2020.)\nTexto 2\nA Terra é um denso conjunto de relações que articula seres vi-\nvos, oceanos, atmosfera, clima e solos. Ela é dotada de uma\nhistória e de um regime de atividades próprio, resultado da ar-\nticulação de múltiplos processos. Hoje, já não estamos lidando\ncom uma natureza selvagem e ameaçadora, nem com uma na-\ntureza frágil, que deve ser protegida, nem com uma natureza\nque pode ser explorada à vontade. A hipótese é nova. A Terra\nnão está ameaçada, diferentemente das inúmeras espécies vi-\nvas que serão varridas pelas mudanças de seu meio, com uma\nrapidez sem precedente.\n(Adaptado de STENGERS, I. No tempo das catástrofes. São Paulo: Cosac & Naify, p. 23,\n2015.)\nA partir da leitura dos textos é correto afirmar que natureza e\nsociedade\na) passaram a se influenciar por meio do desenvolvimento das\nforças produtivas e do trabalho ao longo da história, o que\ncoloca a natureza em risco.\nb) estão articuladas por múltiplos processos que envolvem\nagentes humanos e não humanos (oceanos, atmosfera, cli-\nma, solo, etc.), o que coloca a natureza em risco.\nc) possuem uma história comum e articulada, fato percebido\npor povos de diferentes matrizes culturais, o que coloca a\nsociedade em risco.\nd) possuem um regime de atividades próprio, que envolve\nagentes humanos e não humanos (oceanos, atmosfera, cli-\nma, solo, etc.), o que coloca tais agentes em risco.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            47.023900000000026,
+            568,
+            559.8978
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "Filosofia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

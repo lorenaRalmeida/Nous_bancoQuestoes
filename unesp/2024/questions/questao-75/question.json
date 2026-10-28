@@ -1,0 +1,155 @@
+{
+  "title": "Questão 75 - UNESP 2024 - 1ª fase",
+  "index": 75,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Uma das etapas da fermentação láctea consiste na transformação de ácido pirúvico em ácido láctico, pela reação representada pela equação:\nNa transformação de ácido pirúvico em ácido láctico\nocorre do grupo de um composto\nopticamente , formando um composto opticamente .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "redução – carbonila – ativo – inativo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "redução – carbonila – inativo – ativo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "redução – carboxila – inativo – ativo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "oxidação – carbonila – inativo – ativo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "oxidação – carboxila – ativo – inativo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma das etapas da fermentação láctea consiste na transfor-\nmação de ácido pirúvico em ácido láctico, pela reação repre-\nsentada pela equação:\nNa transformação de ácido pirúvico em ácido láctico\nocorre do grupo de um composto\nopticamente , formando um composto optica-\nmente .\nAs lacunas do texto são preenchidas, respectivamente, por:\n(A) redução – carbonila – ativo – inativo.\n(B) redução – carbonila – inativo – ativo.\n(C) redução – carboxila – inativo – ativo.\n(D) oxidação – carbonila – inativo – ativo.\n(E) oxidação – carboxila – ativo – inativo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 28,
+        "bbox": [
+          74.3421,
+          90.36350000000004,
+          143.8432,
+          154.72929999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 28,
+        "bbox": [
+          180.6413,
+          90.36350000000004,
+          250.1424,
+          154.72929999999997
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 28,
+        "bbox": [
+          137.7931,
+          104.08990000000006,
+          190.5431,
+          138.80370000000005
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 28,
+        "bbox": [
+          77.57950000000001,
+          147.44270000000006,
+          141.907,
+          170.789
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 28,
+        "bbox": [
+          186.505,
+          147.44280000000003,
+          245.9419,
+          169.293
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

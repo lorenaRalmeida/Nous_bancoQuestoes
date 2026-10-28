@@ -1,0 +1,98 @@
+{
+  "title": "Questão 38 - UNESP 2024 - 1ª fase",
+  "index": 38,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "A América independente, a América Latina, traz no\níntimo a América pré-colombiana, que desponta por todos\nos seus poros, resistindo ao novo cerco, agora em forma\nde Estados nacionais que se estabeleceram violentando\nas linhas históricas de demarcação das diferentes culturas. Em muitos casos, os povos foram fragmentados pelas fronteiras nacionais, e seus fluxos, interrompidos ou\nentorpecidos.\n(Ana Esther Ceceña. “Uma versão mesoamericana da América Latina”. In:\nAdauto Novaes (org.). Oito visões da América Latina, 2006.)\nCom base no trecho, conclui-se que “a América independente, a América Latina, traz no íntimo a América pré-\n-colombiana”,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pois as lutas pela emancipação política do continente\nincorporaram valores e princípios culturais dos povos\nnativos americanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pois os caminhos da história latino-americana permitiram\na integração e a miscigenação dos povos originários do\ncontinente com europeus e africanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "apesar de os processos históricos posteriores à Conquista europeia e à formação nacional terem imposto\noutra configuração territorial ao continente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "apesar de o avanço dos interesses econômicos britânicos no continente ter provocado um maior interesse pelas tradições culturais anglo-saxônicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "apesar de os povos originários do continente terem sido\ndizimados no momento da Conquista europeia e substituídos por africanos escravizados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A América independente, a América Latina, traz no\níntimo a América pré-colombiana, que desponta por todos\nos seus poros, resistindo ao novo cerco, agora em forma\nde Estados nacionais que se estabeleceram violentando\nas linhas históricas de demarcação das diferentes cultu-\nras. Em muitos casos, os povos foram fragmentados pe-\nlas fronteiras nacionais, e seus fluxos, interrompidos ou\nentorpecidos.\n(Ana Esther Ceceña. “Uma versão mesoamericana da América Latina”. In:\nAdauto Novaes (org.). Oito visões da América Latina, 2006.)\nCom base no trecho, conclui-se que “a América indepen-\ndente, a América Latina, traz no íntimo a América pré-\n-colombiana”,\n(A) pois as lutas pela emancipação política do continente\nincorporaram valores e princípios culturais dos povos\nnativos americanos.\n(B) pois os caminhos da história latino-americana permitiram\na integração e a miscigenação dos povos originários do\ncontinente com europeus e africanos.\n(C) apesar de os processos históricos posteriores à Con-\nquista europeia e à formação nacional terem imposto\noutra configuração territorial ao continente.\n(D) apesar de o avanço dos interesses econômicos britâni-\ncos no continente ter provocado um maior interesse pe-\nlas tradições culturais anglo-saxônicas.\n(E) apesar de os povos originários do continente terem sido\ndizimados no momento da Conquista europeia e substi-\ntuídos por africanos escravizados.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

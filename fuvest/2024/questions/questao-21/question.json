@@ -1,0 +1,100 @@
+{
+  "title": "Questão 21 - FUVEST 2024 - 1ª fase",
+  "index": 21,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "Um estudante (FV), intrigado com a escala de pH entre 0 e 14,\nperguntou a um sistema de inteligência artificial (IA) sobre a\npossibilidade de existirem valores negativos de pH, conforme\ndescrito na figura:\nA resposta fornecida pelo sistema de inteligência artificial está",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "errada, pois pH negativo refere-se à concentração de H+\nmaior que 1 mol/L, resultando em um valor de pH menor\nque zero.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "correta, pois pH negativo refere-se à concentração de OH−\nmaior que 1 mol/L, resultando em um valor de pH menor\nque zero.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "correta, assim como é possível existir pH maior que 14 em\nsoluções com concentração de H+ maior que 14 mol/L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "errada, pois a escala de pH é fixa entre 0 e 14,\nindependentemente da concentração de H+.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "correta, pois o pH tende a diminuir e tornar-se negativo\nem soluções com concentração de íons H+ extremamente\nbaixa.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Um estudante (FV), intrigado com a escala de pH entre 0 e 14,\nperguntou a um sistema de inteligência artificial (IA) sobre a\npossibilidade de existirem valores negativos de pH, conforme\ndescrito na figura:\nA resposta fornecida pelo sistema de inteligência artificial está\n(A) errada, pois pH negativo refere-se à concentração de H+\nmaior que 1 mol/L, resultando em um valor de pH menor\nque zero.\n(B) correta, pois pH negativo refere-se à concentração de OH−\nmaior que 1 mol/L, resultando em um valor de pH menor\nque zero.\n(C) correta, assim como é possível existir pH maior que 14 em\nsoluções com concentração de H+ maior que 14 mol/L.\n(D) errada, pois a escala de pH é fixa entre 0 e 14,\nindependentemente da concentração de H+.\n(E) correta, pois o pH tende a diminuir e tornar-se negativo\nem soluções com concentração de íons H+ extremamente\nbaixa.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            28,
+            433.97470000000004,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 8,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Conceito e limites de pH",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

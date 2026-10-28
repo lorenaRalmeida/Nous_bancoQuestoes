@@ -1,0 +1,97 @@
+{
+  "title": "Questão 56 - UNICAMP 2024 - 1ª fase",
+  "index": 56,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Luísa estava conversando com seu irmão ao telefone quando\npassou perto de uma feira de adoção de animais. Ela comentou\nque, na feira, havia cachorros, gatos e pintinhos.\nO irmão, curioso, perguntou-lhe quantos gatos havia. Luísa, que adora charadas matemáticas, limitou-se a dizer que a\nquantidade de gatos somada à quantidade de pintinhos era 4 a\nmais do que a quantidade de cachorros, e que a quantidade de\ngatos somada à quantidade de cachorros era 6 a mais do que a\nquantidade de pintinhos.\nO irmão de Luísa, que adora as aulas de matemática, rapidamente chegou à resposta correta. Havia quantos gatos para\nadoção?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "7.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Luísa estava conversando com seu irmão ao telefone quando\npassou perto de uma feira de adoção de animais. Ela comentou\nque, na feira, havia cachorros, gatos e pintinhos.\nO irmão, curioso, perguntou-lhe quantos gatos havia. Luí-\nsa, que adora charadas matemáticas, limitou-se a dizer que a\nquantidade de gatos somada à quantidade de pintinhos era 4 a\nmais do que a quantidade de cachorros, e que a quantidade de\ngatos somada à quantidade de cachorros era 6 a mais do que a\nquantidade de pintinhos.\nO irmão de Luísa, que adora as aulas de matemática, rapida-\nmente chegou à resposta correta. Havia quantos gatos para\nadoção?\na) 4. c) 6.\nb) 5. d) 7.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            673.5069,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            40,
+            291,
+            141.55499999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

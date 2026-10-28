@@ -1,0 +1,90 @@
+{
+  "title": "Questão 31 - UNESP 2023 - 1ª fase",
+  "index": 31,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "No pensamento grego, tudo o que é “musical” se relaciona intimamente com o ritual, sobretudo com as festas, nas\nquais, evidentemente, o ritual possui sua função específica.\nTalvez não haja uma descrição mais lúcida das relações entre o ritual, a dança, a música e o jogo do que a das Leis\nde Platão. Os deuses, diz ele, cheios de piedade pela raça\nhumana, condenada ao sofrimento, ordenaram que se realizassem as festas de ação de graças como descanso para\nsuas preocupações, e deram-lhes Apolo, as Musas e Dionísio\ncomo companheiros dessas festas, a fim de que essa divina\ncomunidade festiva restabelecesse a ordem das coisas entre\nos homens.\n(Johan Huizinga. Homo ludens, 2007.)\nO excerto, que aborda história e pensamento na Grécia\nAntiga, caracteriza",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a dimensão material dos sentimentos e das ações políticas dos homens, sustentada pela filosofia clássica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a centralidade do mito na sociedade antiga grega e o vínculo desse mito com manifestações de caráter público.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a fragilidade do politeísmo perante a lógica e a incapacidade desse politeísmo de mobilizar politicamente a\nsociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as origens filosóficas da piedade e do sentimento de culpa posteriormente apropriados pelo cristianismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as matrizes religiosas da democracia grega e o reconhecimento por essa democracia da igualdade entre os homens livres.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No pensamento grego, tudo o que é “musical” se relacio-\nna intimamente com o ritual, sobretudo com as festas, nas\nquais, evidentemente, o ritual possui sua função específica.\nTalvez não haja uma descrição mais lúcida das relações en-\ntre o ritual, a dança, a música e o jogo do que a das Leis\nde Platão. Os deuses, diz ele, cheios de piedade pela raça\nhumana, condenada ao sofrimento, ordenaram que se rea-\nlizassem as festas de ação de graças como descanso para\nsuas preocupações, e deram-lhes Apolo, as Musas e Dionísio\ncomo companheiros dessas festas, a fim de que essa divina\ncomunidade festiva restabelecesse a ordem das coisas entre\nos homens.\n(Johan Huizinga. Homo ludens, 2007.)\nO excerto, que aborda história e pensamento na Grécia\nAntiga, caracteriza\n(A) a dimensão material dos sentimentos e das ações políti-\ncas dos homens, sustentada pela filosofia clássica.\n(B) a centralidade do mito na sociedade antiga grega e o vín-\nculo desse mito com manifestações de caráter público.\n(C) a fragilidade do politeísmo perante a lógica e a inca-\npacidade desse politeísmo de mobilizar politicamente a\nsociedade.\n(D) as origens filosóficas da piedade e do sentimento de cul-\npa posteriormente apropriados pelo cristianismo.\n(E) as matrizes religiosas da democracia grega e o reconhe-\ncimento por essa democracia da igualdade entre os ho-\nmens livres.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            441.062
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

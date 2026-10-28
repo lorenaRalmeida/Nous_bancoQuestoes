@@ -1,0 +1,89 @@
+{
+  "title": "Questão 50 - UNICAMP 2023 - 1ª fase",
+  "index": 50,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Um recipiente cilíndrico de altura h tem água em seu interior.\nAo mergulhar uma esfera de chumbo de raio R neste recipiente,\na água cobre a esfera e nenhuma quantidade de água se perde,\ncomo ilustrado na figura a seguir.\nSabendo que o raio da base do cilindro é o dobro do raio da\nesfera, a diferença entre a altura da água antes e depois do\nmergulho da esfera é igual a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2R.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R/3.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2R/3.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um recipiente cilíndrico de altura h tem água em seu interior.\nAo mergulhar uma esfera de chumbo de raio R neste recipiente,\na água cobre a esfera e nenhuma quantidade de água se perde,\ncomo ilustrado na figura a seguir.\nSabendo que o raio da base do cilindro é o dobro do raio da\nesfera, a diferença entre a altura da água antes e depois do\nmergulho da esfera é igual a\na) 2R.\nb) R.\nc) R/3.\nd) 2R/3.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            270.85579999999993,
+            568,
+            645.2991
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

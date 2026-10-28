@@ -1,0 +1,84 @@
+{
+  "title": "Questão 10 - UNICAMP 2024 - 1ª fase",
+  "index": 10,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "“Um deles viu umas contas brancas de rosário, acenou que lhas\ndessem e divertiu-se muito com elas. Enrolou-as ao pescoço,\ndepois tirou-as e embrulhou-as no braço, e acenava para a terra\ne depois para as contas, e em seguida para o colar do capitão,\ndando a entender que eles dariam ouro por aquilo. Isto nós\nentendíamos assim porque queríamos. Mas se ele queria dizer\nque levaria as contas e mais o colar, isto nós não queríamos\nentender, porque não lho daríamos.\"\n(CAMINHA, Pero Vaz de. Carta de Achamento do Brasil. Campinas: Editora da UNICAMP,\np. 108, 2001.)\nEm seu relato de viagem, Pero Vaz de Caminha",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "descreve a natureza e as pessoas que os portugueses encontraram no Novo Mundo, inventariando os detalhes da\nviagem, com vistas à preservação da História Colonial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "descreve e interpreta os fatos, mostrando que a compreensão dos portugueses sobre os povos originários era mediada\npelos interesses do colonizador.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "descreve como os povos originários do Novo Mundo auxiliaram os colonizadores na prospecção por riquezas, antevendo a realização do projeto colonizador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "descreve e interpreta os fatos, sugerindo que, na visão dos\npovos originários, era possível a convivência pacífica com o\ncolonizador, já que compartilhavam os mesmos interesses.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Um deles viu umas contas brancas de rosário, acenou que lhas\ndessem e divertiu-se muito com elas. Enrolou-as ao pescoço,\ndepois tirou-as e embrulhou-as no braço, e acenava para a terra\ne depois para as contas, e em seguida para o colar do capitão,\ndando a entender que eles dariam ouro por aquilo. Isto nós\nentendíamos assim porque queríamos. Mas se ele queria dizer\nque levaria as contas e mais o colar, isto nós não queríamos\nentender, porque não lho daríamos.\"\n(CAMINHA, Pero Vaz de. Carta de Achamento do Brasil. Campinas: Editora da UNICAMP,\np. 108, 2001.)\nEm seu relato de viagem, Pero Vaz de Caminha\na) descreve a natureza e as pessoas que os portugueses en-\ncontraram no Novo Mundo, inventariando os detalhes da\nviagem, com vistas à preservação da História Colonial.\nb) descreve e interpreta os fatos, mostrando que a compreen-\nsão dos portugueses sobre os povos originários era mediada\npelos interesses do colonizador.\nc) descreve como os povos originários do Novo Mundo auxilia-\nram os colonizadores na prospecção por riquezas, anteven-\ndo a realização do projeto colonizador.\nd) descreve e interpreta os fatos, sugerindo que, na visão dos\npovos originários, era possível a convivência pacífica com o\ncolonizador, já que compartilhavam os mesmos interesses.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            385.61109999999996,
+            568,
+            748.6332
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

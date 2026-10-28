@@ -1,0 +1,88 @@
+{
+  "title": "Questão 44 - UNESP 2024 - 1ª fase",
+  "index": 44,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Leia as manchetes.\nCom o premiado filme “Parasita”, Coreia do Sul espalha seu\n“soft power” pelo mundo\n(https://tab.uol.com.br, 07.11.2019. Adaptado.)\nDa banda de música pop “BTS” ao filme “Parasita”, entenda\ncomo a Coreia do Sul aplica o “soft power”\n(www.poder360.com.br, 05.04.2022. Adaptado.)\nDa série “Round 6” ao estilo musical “K-pop”, cultura sul-\n-coreana é novo vetor do “soft power” de Seul\n(www.rfi.fr/br, 14.10.2021. Adaptado.)\nO “soft power” citado nas manchetes corresponde",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à alienação de consumidores quanto à origem de seus\nprodutos, ou seja, ao desconhecimento sobre a atual\ndivisão internacional do trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ao domínio do mercado pelo uso da coerção, ou seja, à\nconstrução de uma relação de dependência dos mercados em relação ao mundo oriental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à busca de uma hegemonia por consenso, ou seja, à utilização da indústria cultural para se fazer presente em\ndiversos países.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "à estratégia de combate à xenofobia nos países ocidentais, ou seja, ao fortalecimento da democratização do\nconsumo de produtos culturais em escala supranacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ao redesenho da hierarquia político-econômica, ou seja,\nao retorno à velha ordem mundial pautada pelo consumo\ncultural.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia as manchetes.\nCom o premiado filme “Parasita”, Coreia do Sul espalha seu\n“soft power” pelo mundo\n(https://tab.uol.com.br, 07.11.2019. Adaptado.)\nDa banda de música pop “BTS” ao filme “Parasita”, entenda\ncomo a Coreia do Sul aplica o “soft power”\n(www.poder360.com.br, 05.04.2022. Adaptado.)\nDa série “Round 6” ao estilo musical “K-pop”, cultura sul-\n-coreana é novo vetor do “soft power” de Seul\n(www.rfi.fr/br, 14.10.2021. Adaptado.)\nO “soft power” citado nas manchetes corresponde\n(A) à alienação de consumidores quanto à origem de seus\nprodutos, ou seja, ao desconhecimento sobre a atual\ndivisão internacional do trabalho.\n(B) ao domínio do mercado pelo uso da coerção, ou seja, à\nconstrução de uma relação de dependência dos merca-\ndos em relação ao mundo oriental.\n(C) à busca de uma hegemonia por consenso, ou seja, à uti-\nlização da indústria cultural para se fazer presente em\ndiversos países.\n(D) à estratégia de combate à xenofobia nos países ociden-\ntais, ou seja, ao fortalecimento da democratização do\nconsumo de produtos culturais em escala supranacional.\n(E) ao redesenho da hierarquia político-econômica, ou seja,\nao retorno à velha ordem mundial pautada pelo consumo\ncultural.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            451.9911
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

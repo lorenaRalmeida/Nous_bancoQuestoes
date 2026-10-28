@@ -1,0 +1,100 @@
+{
+  "title": "Questão 27 - UNESP 2024 - 1ª fase",
+  "index": 27,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia a tira de Bill Amend para responder às questões de\n27 a 29.\n(www.pressthebuttons.com)\n\nFrom the comic strip, one can say that",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "there is a generation conflict between mother and son.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Eileen Jacobson and the boy are not friends anymore.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "the final level of the game is the boy’s target before going\nto school.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "the ice cream is the boy’s prize for winning the game.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "games exert an irresistible attraction on the boy.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "From the comic strip, one can say that\n(A) there is a generation conflict between mother and son.\n(B) Eileen Jacobson and the boy are not friends anymore.\n(C) the final level of the game is the boy’s target before going\nto school.\n(D) the ice cream is the boy’s prize for winning the game.\n(E) games exert an irresistible attraction on the boy.",
+    "sharedContext": "Leia a tira de Bill Amend para responder às questões de\n27 a 29.\n(www.pressthebuttons.com)",
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            198.9269999999999,
+            291,
+            505.3907
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            505.3907,
+            291,
+            658.249
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

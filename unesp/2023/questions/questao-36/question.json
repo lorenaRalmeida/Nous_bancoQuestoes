@@ -1,0 +1,98 @@
+{
+  "title": "Questão 36 - UNESP 2023 - 1ª fase",
+  "index": 36,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "[...] Foi sem dúvida entre os meses de janeiro e outubro\nde 1822 que o Brasil, finalmente, se fez independente: isto\né, separou-se de Portugal. Nada garantia que essa independência seria duradoura, é verdade, mas foi entre esses meses que ela se concretizou, exigindo esforços posteriores de\nconsolidação; mas seriam antes esforços de reforço de algo\nque já existia do que de criação abrupta de algo novo.\nE o que, afinal, ocorreu no dia 7 de setembro de 1822?\nUm pequeno acontecimento que não foi imediatamente valorizado justamente por não ser de grande importância em\ncomparação com os demais que tinham ocorrido e ainda\nocorreriam naquele ano; mas que posteriormente se tornaria\no principal marco da memória da Independência. Um marco\nda memória, e não da história.\n(João Paulo Pimenta. Independência do Brasil, 2022.)\nAo tratar da Independência do Brasil em relação a Portugal,\no excerto enfatiza",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o caráter processual da emancipação, que resultou de\ndiversas articulações e ações políticas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a negociação entre colônia e metrópole, que assegurou o\ncaráter pacífico da emancipação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o esforço do príncipe regente, que visava promover a\nconsolidação da emancipação política brasileira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o imediatismo do gesto ruptural, que provocou surpresa\nna população de toda a colônia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a percepção imediata da importância dos eventos ocorridos às margens do riacho do Ipiranga, que mudaram\npoliticamente o país.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "[...] Foi sem dúvida entre os meses de janeiro e outubro\nde 1822 que o Brasil, finalmente, se fez independente: isto\né, separou-se de Portugal. Nada garantia que essa indepen-\ndência seria duradoura, é verdade, mas foi entre esses me-\nses que ela se concretizou, exigindo esforços posteriores de\nconsolidação; mas seriam antes esforços de reforço de algo\nque já existia do que de criação abrupta de algo novo.\nE o que, afinal, ocorreu no dia 7 de setembro de 1822?\nUm pequeno acontecimento que não foi imediatamente va-\nlorizado justamente por não ser de grande importância em\ncomparação com os demais que tinham ocorrido e ainda\nocorreriam naquele ano; mas que posteriormente se tornaria\no principal marco da memória da Independência. Um marco\nda memória, e não da história.\n(João Paulo Pimenta. Independência do Brasil, 2022.)\nAo tratar da Independência do Brasil em relação a Portugal,\no excerto enfatiza\n(A) o caráter processual da emancipação, que resultou de\ndiversas articulações e ações políticas.\n(B) a negociação entre colônia e metrópole, que assegurou o\ncaráter pacífico da emancipação.\n(C) o esforço do príncipe regente, que visava promover a\nconsolidação da emancipação política brasileira.\n(D) o imediatismo do gesto ruptural, que provocou surpresa\nna população de toda a colônia.\n(E) a percepção imediata da importância dos eventos ocor-\nridos às margens do riacho do Ipiranga, que mudaram\npoliticamente o país.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            414.3848,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

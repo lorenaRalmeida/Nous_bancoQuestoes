@@ -1,0 +1,100 @@
+{
+  "title": "Questão 4 - FUVEST 2024 - 1ª fase",
+  "index": 4,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 04 E 05\nDisponível em https://www.tate.org.uk/art/artworks/.\n\nNo anúncio, o segmento “won’t bestow mega-buck prices”\nindica",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a tentativa de angariar fundos para patrocinar artistas\niniciantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a falta de incentivo dos museus a pintores vanguardistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a possibilidade de redução dos valores financeiros de\nobras de arte consagradas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a ausência de qualidade artística de quadros tradicionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a crise financeira vivida por galerias de arte famosas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "No anúncio, o segmento “won’t bestow mega-buck prices”\nindica\n(A) a tentativa de angariar fundos para patrocinar artistas\niniciantes.\n(B) a falta de incentivo dos museus a pintores vanguardistas.\n(C) a possibilidade de redução dos valores financeiros de\nobras de arte consagradas.\n(D) a ausência de qualidade artística de quadros tradicionais.\n(E) a crise financeira vivida por galerias de arte famosas.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 04 E 05\nDisponível em https://www.tate.org.uk/art/artworks/.",
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            28,
+            37.76470000000006,
+            297.5,
+            298.91470000000004
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            28,
+            298.91470000000004,
+            297.5,
+            455.5147
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "topic": "Compreensão de anúncio em inglês",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

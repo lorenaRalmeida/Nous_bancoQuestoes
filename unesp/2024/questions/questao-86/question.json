@@ -1,0 +1,135 @@
+{
+  "title": "Questão 86 - UNESP 2024 - 1ª fase",
+  "index": 86,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Uma placa quadrada de massa 2 kg e lado 2 e uma placa\nretangular de massa 3 kg e lados 2 por 4 possuem suas respectivas massas homogeneamente distribuídas, espessuras\ndesprezíveis e estão dispostas, uma a uma, em um plano\ncartesiano de eixos ortogonais. Nesse plano cartesiano, as\ncoordenadas do centro de massa C do conjunto das duas\nplacas são calculadas da seguinte forma:\nAcrescentando-se nesse plano uma placa circular também\nde espessura desprezível, com centro (2, 1), raio 1 e massa\n3 kg, o centro de massa do novo conjunto, agora com as três\nplacas, passará a ter coordenadas",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(4,75; 3).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(3,5; 2,25).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(6; 3,5).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(5; 3).",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "(6; 4).",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Uma placa quadrada de massa 2 kg e lado 2 e uma placa\nretangular de massa 3 kg e lados 2 por 4 possuem suas res-\npectivas massas homogeneamente distribuídas, espessuras\ndesprezíveis e estão dispostas, uma a uma, em um plano\ncartesiano de eixos ortogonais. Nesse plano cartesiano, as\ncoordenadas do centro de massa C do conjunto das duas\nplacas são calculadas da seguinte forma:\nAcrescentando-se nesse plano uma placa circular também\nde espessura desprezível, com centro (2, 1), raio 1 e massa\n3 kg, o centro de massa do novo conjunto, agora com as três\nplacas, passará a ter coordenadas\n(A) (4,75; 3).\n(B) (3,5; 2,25).\n(C) (6; 3,5).\n(D) (5; 3).\n(E) (6; 4).",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 33,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 33,
+        "bbox": [
+          106.4647,
+          137.90329999999994,
+          218.0373,
+          170.5417
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 33,
+        "bbox": [
+          106.3338,
+          167.6346000000001,
+          210.2481,
+          200.27250000000004
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 33,
+        "bbox": [
+          45.3408,
+          201.95010000000002,
+          279.82050000000004,
+          382.95509999999996
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

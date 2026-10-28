@@ -1,0 +1,86 @@
+{
+  "title": "Questão 66 - UNICAMP 2025 - 1ª fase",
+  "index": 66,
+  "year": 2025,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Rosana Paulino é uma artista visual brasileira e suas obras têm\nfoco nas questões sociais, étnicas e de gênero. A obra a seguir foi exposta na 35ª Bienal de São Paulo (2023) e promove\na integração da arte com a natureza brasileira, retratando um\nimportante ecossistema costeiro.\n(Adaptado de https://www.rosanapaulino.com.br/blank-5. Acesso em 02/04/2024.)\nTendo em vista seus conhecimentos sobre biologia e considerando a obra apresentada, é correto afirmar que",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as árvores com raízes expostas representam a vegetação\nhalófita característica de áreas alagadiças dos manguezais,\nsendo o solo úmido, salino, pobre em oxigênio e rico em\nnutrientes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "os caranguejos são crustáceos e constituem a base de uma\nextensa cadeia alimentar, característica de áreas lodosas das\nrestingas, com solo arenoso, pobre em nutrientes e em oxigênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as árvores com raízes aéreas representam a vegetação xerófita característica de áreas lodosas das restingas, sendo o\nsolo arenoso, salobre, rico em carbono e em matéria orgânica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os caranguejos são moluscos característicos de áreas alagadiças dos manguezais, habitam o solo úmido e salino, se\nalimentam da matéria orgânica em decomposição e de uma\nvariedade de pequenos animais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Rosana Paulino é uma artista visual brasileira e suas obras têm\nfoco nas questões sociais, étnicas e de gênero. A obra a se-\nguir foi exposta na 35ª Bienal de São Paulo (2023) e promove\na integração da arte com a natureza brasileira, retratando um\nimportante ecossistema costeiro.\n(Adaptado de https://www.rosanapaulino.com.br/blank-5. Acesso em 02/04/2024.)\nTendo em vista seus conhecimentos sobre biologia e conside-\nrando a obra apresentada, é correto afirmar que\na) as árvores com raízes expostas representam a vegetação\nhalófita característica de áreas alagadiças dos manguezais,\nsendo o solo úmido, salino, pobre em oxigênio e rico em\nnutrientes.\nb) os caranguejos são crustáceos e constituem a base de uma\nextensa cadeia alimentar, característica de áreas lodosas das\nrestingas, com solo arenoso, pobre em nutrientes e em oxi-\ngênio.\nc) as árvores com raízes aéreas representam a vegetação xe-\nrófita característica de áreas lodosas das restingas, sendo o\nsolo arenoso, salobre, rico em carbono e em matéria orgâ-\nnica.\nd) os caranguejos são moluscos característicos de áreas alaga-\ndiças dos manguezais, habitam o solo úmido e salino, se\nalimentam da matéria orgânica em decomposição e de uma\nvariedade de pequenos animais.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            530.2285999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Questão 57 - FUVEST 2023 - 1ª fase",
+  "index": 57,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "O carbono 14, um isótopo radioativo com meia-vida de 5700\nanos, é gerado de forma constante na atmosfera a partir da\ninteração de nêutrons com o nitrogênio atmosférico. Esse 14C\nreage com o O e produz 14CO . Em função de seu decaimento\n2 2\ne de suas taxas de deposição e formação, a proporção de\n14CO e de 12CO na atmosfera é razoavelmente constante ao\n2 2\nlongo da história geológica da Terra. Esses gases são\nabsorvidos por produtores primários pela fotossíntese, e os\nisótopos de C são transferidos aos organismos heterotróficos\npela teia alimentar.\nCom a queima de combustíveis fósseis, produzidos há milhões\nde anos, quantidades significativas de CO têm sido lançadas\n2\nna atmosfera, aumentando a concentração desse gás.\nCom base no exposto, o CO emitido a partir da queima de\n2\ncombustíveis fósseis",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mantém constante a proporção 12C/14C na atmosfera em\nrelação à encontrada no período pré-industrial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apresenta maior concentração de 14CO em relação à\n2\nconcentração de CO atmosférico encontrado no período\n2\npré-industrial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "contém quantidades iguais de 14C e 12C, dado que as taxas\nde formação e deposição de ambos são as mesmas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aumenta a proporção 12C/14C na atmosfera em relação à\nencontrada no período pré-industrial.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "contém apenas 14CO , que é o real causador do\n2\naquecimento global por ser um gás de efeito estufa mais\neficiente que o 12CO .\n2",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O carbono 14, um isótopo radioativo com meia-vida de 5700\nanos, é gerado de forma constante na atmosfera a partir da\ninteração de nêutrons com o nitrogênio atmosférico. Esse 14C\nreage com o O e produz 14CO . Em função de seu decaimento\n2 2\ne de suas taxas de deposição e formação, a proporção de\n14CO e de 12CO na atmosfera é razoavelmente constante ao\n2 2\nlongo da história geológica da Terra. Esses gases são\nabsorvidos por produtores primários pela fotossíntese, e os\nisótopos de C são transferidos aos organismos heterotróficos\npela teia alimentar.\nCom a queima de combustíveis fósseis, produzidos há milhões\nde anos, quantidades significativas de CO têm sido lançadas\n2\nna atmosfera, aumentando a concentração desse gás.\nCom base no exposto, o CO emitido a partir da queima de\n2\ncombustíveis fósseis\n(A) mantém constante a proporção 12C/14C na atmosfera em\nrelação à encontrada no período pré-industrial.\n(B) apresenta maior concentração de 14CO em relação à\n2\nconcentração de CO atmosférico encontrado no período\n2\npré-industrial.\n(C) contém quantidades iguais de 14C e 12C, dado que as taxas\nde formação e deposição de ambos são as mesmas.\n(D) aumenta a proporção 12C/14C na atmosfera em relação à\nencontrada no período pré-industrial.\n(E) contém apenas 14CO , que é o real causador do\n2\naquecimento global por ser um gás de efeito estufa mais\neficiente que o 12CO .\n2",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            421.2547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Isótopos de carbono e combustíveis fósseis",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

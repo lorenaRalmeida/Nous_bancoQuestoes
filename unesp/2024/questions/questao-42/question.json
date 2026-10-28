@@ -1,0 +1,113 @@
+{
+  "title": "Questão 42 - UNESP 2024 - 1ª fase",
+  "index": 42,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "Examine a tabela de investimentos em infraestrutura econômica no Brasil, no período de 1990 a 1998, com os volumes\nde capitais expressos em bilhões de dólares e suas respectivas proporções em relação ao Produto Interno Bruto (PIB).\nTele-\nSetores Energia Transportes Total\ncomunicações\nUS$ bi % PIB US$ bi % PIB US$ bi % PIB US$ bi % PIB\n1990 8,8 2,40 1,6 0,44 0,6 0,16 11,0 3,0\n1991 5,7 1,52 2,8 0,74 0,9 0,24 9,4 2,5\n1992 4,9 1,18 2,8 0,68 1,0 0,24 8,7 2,1\n1993 4,5 0,99 3,2 0,71 0,9 0,20 8,6 1,9\n1994 3,9 0,66 3,2 0,54 1,2 0,20 8,3 1,4\n1995 4,2 0,68 4,0 0,65 1,1 0,18 9,3 1,5\n1996 4,0 0,59 6,0 0,88 1,6 0,23 11,6 1,7\n1997 4,8 0,56 7,5 0,87 1,5 0,17 13,8 1,6\n1998 5,4 0,60 3,7 0,41 0,8 0,09 9,9 1,1\n(Ricardo Carneiro. Desenvolvimento em crise:\na economia brasileira no último quarto do século XX, 2002. Adaptado.)\nA partir dos dados da tabela e considerando a experiência\nhistórica brasileira no período, tem-se que",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o investimento no setor de transportes teve aumento contínuo após 1994, em virtude da aceleração do crescimento econômico provocado pelo Plano Real.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o setor de telecomunicações, impulsionado pelas mudanças tecnológicas em curso, recebeu, em 1996 e 1997,\nmais da metade dos investimentos realizados nos três\nsetores nestes dois anos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o percentual do PIB foi reduzido, em 1998, à metade do\nque era no primeiro ano do período analisado, indicando\na retração econômica provocada pelos planos de estabilização da inflação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o setor energético recebeu maiores investimentos no período posterior ao Plano Real, devido à exploração de\npetróleo nas áreas do Pré-Sal, realizada ao longo de todo\no período analisado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o setor de transportes recebeu suas maiores porcentagens de investimentos em 1995 e em 1997, em razão do\nforte aumento do percentual do PIB ocorrido nestes dois\nanos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Examine a tabela de investimentos em infraestrutura econô-\nmica no Brasil, no período de 1990 a 1998, com os volumes\nde capitais expressos em bilhões de dólares e suas respec-\ntivas proporções em relação ao Produto Interno Bruto (PIB).\nTele-\nSetores Energia Transportes Total\ncomunicações\nUS$ bi % PIB US$ bi % PIB US$ bi % PIB US$ bi % PIB\n1990 8,8 2,40 1,6 0,44 0,6 0,16 11,0 3,0\n1991 5,7 1,52 2,8 0,74 0,9 0,24 9,4 2,5\n1992 4,9 1,18 2,8 0,68 1,0 0,24 8,7 2,1\n1993 4,5 0,99 3,2 0,71 0,9 0,20 8,6 1,9\n1994 3,9 0,66 3,2 0,54 1,2 0,20 8,3 1,4\n1995 4,2 0,68 4,0 0,65 1,1 0,18 9,3 1,5\n1996 4,0 0,59 6,0 0,88 1,6 0,23 11,6 1,7\n1997 4,8 0,56 7,5 0,87 1,5 0,17 13,8 1,6\n1998 5,4 0,60 3,7 0,41 0,8 0,09 9,9 1,1\n(Ricardo Carneiro. Desenvolvimento em crise:\na economia brasileira no último quarto do século XX, 2002. Adaptado.)\nA partir dos dados da tabela e considerando a experiência\nhistórica brasileira no período, tem-se que\n(A) o investimento no setor de transportes teve aumento con-\ntínuo após 1994, em virtude da aceleração do crescimen-\nto econômico provocado pelo Plano Real.\n(B) o setor de telecomunicações, impulsionado pelas mudan-\nças tecnológicas em curso, recebeu, em 1996 e 1997,\nmais da metade dos investimentos realizados nos três\nsetores nestes dois anos.\n(C) o percentual do PIB foi reduzido, em 1998, à metade do\nque era no primeiro ano do período analisado, indicando\na retração econômica provocada pelos planos de estabi-\nlização da inflação.\n(D) o setor energético recebeu maiores investimentos no pe-\nríodo posterior ao Plano Real, devido à exploração de\npetróleo nas áreas do Pré-Sal, realizada ao longo de todo\no período analisado.\n(E) o setor de transportes recebeu suas maiores porcenta-\ngens de investimentos em 1995 e em 1997, em razão do\nforte aumento do percentual do PIB ocorrido nestes dois\nanos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 15,
+        "bbox": [
+          304,
+          96.74400000000003,
+          568,
+          283.5594
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

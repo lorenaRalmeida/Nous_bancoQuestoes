@@ -1,0 +1,105 @@
+{
+  "title": "Questão 17 - FUVEST 2025 - 1ª fase",
+  "index": 17,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "A imagem a seguir mostra um cruzamento da Rua da\nConsolação, na região central da cidade de São Paulo, em que\nhá faixas de pedestre em diferentes direções. Essas faixas\nagilizam a travessia das ruas. Uma pessoa parte do ponto O e\ndeseja chegar ao ponto C. Para tanto, percorre o trajeto pela\nfaixa que liga O a B e, em seguida, utiliza a faixa que liga B a C.\nConsidere que as coordenadas dos pontos indicados na figura,\nem metros, são: O(0,0), B(13,-15) e C(29,-8).\nSeja d a distância, em metros, que essa pessoa deixaria de\npercorrer se tivesse optado por fazer a travessia pela faixa de\npedestre que liga O a C. Nesse contexto, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "d < 2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2 ≤ d < 5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "5 ≤ d ≤ 8",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "8 < d ≤ 11",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "11 < d",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nA imagem a seguir mostra um cruzamento da Rua da\nConsolação, na região central da cidade de São Paulo, em que\nhá faixas de pedestre em diferentes direções. Essas faixas\nagilizam a travessia das ruas. Uma pessoa parte do ponto O e\ndeseja chegar ao ponto C. Para tanto, percorre o trajeto pela\nfaixa que liga O a B e, em seguida, utiliza a faixa que liga B a C.\nConsidere que as coordenadas dos pontos indicados na figura,\nem metros, são: O(0,0), B(13,-15) e C(29,-8).\nSeja 𝑑 a distância, em metros, que essa pessoa deixaria de\npercorrer se tivesse optado por fazer a travessia pela faixa de\npedestre que liga O a C. Nesse contexto, é correto afirmar:\n(A) 𝑑 (cid:3407) 2\n(B) 2 (cid:3409)𝑑(cid:3407) 5\n(C) 5 (cid:3409) 𝑑 (cid:3409) 8\n(D) 8 (cid:3407)𝑑(cid:3409) 11\n(E) 11 (cid:3407)𝑑\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Distâncias no plano cartesiano",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

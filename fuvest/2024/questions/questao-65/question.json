@@ -1,0 +1,100 @@
+{
+  "title": "Questão 65 - FUVEST 2024 - 1ª fase",
+  "index": 65,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Em fevereiro de 2023, ocorreu uma precipitação pluviométrica\nextrema no litoral norte de São Paulo, com volume que excedeu\nos 600 mm de chuva em menos de 24 horas. Foi um dos\nmaiores índices pluviométricos já registrados no Brasil para um\ndia. Essa grande quantidade de chuva provocou muitos\ndeslizamentos de terra, como o retratado na imagem.\nDeslizamento de terra entre Camburi e Boiçucanga, SP.\nDisponível em Portal g1.globo.com 22/2/2023 - Foto: CREATIVE\nPRODUÇÕES/ Cristian Santos.\nConsiderando o contexto socioambiental em que esse\nepisódio ocorreu, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Apesar das altas declividades nas encostas da Serra do\nMar, eventos como esse são raros, uma vez que os solos\nprofundos e a vegetação primária dificultam os\ndeslizamentos de terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "No local do deslizamento de terra, ocorrerá um processo\nde sucessão primária e, após poucos anos, uma floresta\nmadura estará estabelecida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A baixa umidade da região e a indisponibilidade de\nnutrientes no solo retardarão a instalação de organismos\npioneiros, como os líquens, que iniciarão o processo de\nsucessão nesse local.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Fenômenos desse tipo são causados por fatores naturais da\nregião, relacionados ao clima, à geologia e ao relevo, mas\nsão agravados pela ocupação desordenada das encostas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "No local do deslizamento de terra, a biomassa vegetal\naumentará ao longo da sucessão ecológica graças a um\nequilíbrio energético no sistema, em que as taxas de\nfotossíntese e respiração permanecerão equivalentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Em fevereiro de 2023, ocorreu uma precipitação pluviométrica\nextrema no litoral norte de São Paulo, com volume que excedeu\nos 600 mm de chuva em menos de 24 horas. Foi um dos\nmaiores índices pluviométricos já registrados no Brasil para um\ndia. Essa grande quantidade de chuva provocou muitos\ndeslizamentos de terra, como o retratado na imagem.\nDeslizamento de terra entre Camburi e Boiçucanga, SP.\nDisponível em Portal g1.globo.com 22/2/2023 - Foto: CREATIVE\nPRODUÇÕES/ Cristian Santos.\nConsiderando o contexto socioambiental em que esse\nepisódio ocorreu, é correto afirmar:\n(A) Apesar das altas declividades nas encostas da Serra do\nMar, eventos como esse são raros, uma vez que os solos\nprofundos e a vegetação primária dificultam os\ndeslizamentos de terra.\n(B) No local do deslizamento de terra, ocorrerá um processo\nde sucessão primária e, após poucos anos, uma floresta\nmadura estará estabelecida.\n(C) A baixa umidade da região e a indisponibilidade de\nnutrientes no solo retardarão a instalação de organismos\npioneiros, como os líquens, que iniciarão o processo de\nsucessão nesse local.\n(D) Fenômenos desse tipo são causados por fatores naturais da\nregião, relacionados ao clima, à geologia e ao relevo, mas\nsão agravados pela ocupação desordenada das encostas.\n(E) No local do deslizamento de terra, a biomassa vegetal\naumentará ao longo da sucessão ecológica graças a um\nequilíbrio energético no sistema, em que as taxas de\nfotossíntese e respiração permanecerão equivalentes.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Chuvas extremas, ocupação e deslizamentos",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

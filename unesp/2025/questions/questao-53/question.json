@@ -1,0 +1,102 @@
+{
+  "title": "Questão 53 - UNESP 2025 - 1ª fase",
+  "index": 53,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "(www.instagram.com. Adaptado.)\nA manutenção da serrapilheira caracteriza uma estratégia de\nconservação dos solos, contribuindo com",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a ciclagem de nutrientes e o combate à erosão.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o processo de litificação e a estratificação dos horizontes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a formação de voçorocas e o incremento do intemperismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a retenção de umidade e a interrupção da pedogênese.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o fim da lixiviação e o aumento da continentalidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "(www.instagram.com. Adaptado.)\nA manutenção da serrapilheira caracteriza uma estratégia de\nconservação dos solos, contribuindo com\n(A) a ciclagem de nutrientes e o combate à erosão.\n(B) o processo de litificação e a estratificação dos horizontes.\n(C) a formação de voçorocas e o incremento do intemperismo.\n(D) a retenção de umidade e a interrupção da pedogênese.\n(E) o fim da lixiviação e o aumento da continentalidade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

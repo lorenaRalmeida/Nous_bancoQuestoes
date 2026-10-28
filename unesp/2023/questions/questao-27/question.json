@@ -1,0 +1,110 @@
+{
+  "title": "Questão 27 - UNESP 2023 - 1ª fase",
+  "index": 27,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto para responder às questões de 27 a 29.\nWorld’s happiest ranking goes to\nFinland for fifth year in a row\nPeople enjoy sunny weather on the waterfront in Helsinki.\nFinland was crowned the happiest country in the world for\nthe fifth consecutive year, with a score significantly ahead of its\npeers in the World Happiness Report 2022 ranking, published\nby a body linked to the United Nations. However, the authors\ndetected, on average, a long-term moderate upward trend in\nstress, worry, and sadness in most countries, as well as “a\nslight long-term decline in the enjoyment of life,” they wrote.\nThe report uses global survey data to report on how\npeople evaluate their own lives in more than 150 countries\naround the world, with the ranking based on a three-year\naverage. Key variables that contribute to explaining people’s\nlife evaluations include healthy life expectancy, generosity,\nsocial support, freedom to make life choices, perceptions of\ncorruption, and the gross domestic product per capita (an\nindicator that measures a country’s economic output per\nperson, that is calculated by dividing the total gross domestic\nproduct of a country by its population).\n“World leaders should take heed,” Jeffrey Sachs, director\nof the Center for Sustainable Development at Columbia\nUniversity, said. “Politics should be directed as the great\nsages long ago insisted: to the well-being of the people, not\nthe power of the rulers.”\n(Kati Pohjanpalo. www.bloomberg.com, 18.03.2022. Adaptado.)\n\nAccording to the text, the World Happiness Report 2022",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "defines “enjoyment of life” as the most significant feeling\nthat contributes to happiness.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "is unreliable since it collected subjective data without\nscientifically established criteria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "showed that Finland is a surprisingly happy country\nalthough its score is not so high.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ranks countries based on global survey information on\nhow people appraise their lives according to some key\nvariables.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "identified a slight increase in happiness among the 150\ncountries surveyed.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "According to the text, the World Happiness Report 2022\n(A) defines “enjoyment of life” as the most significant feeling\nthat contributes to happiness.\n(B) is unreliable since it collected subjective data without\nscientifically established criteria.\n(C) showed that Finland is a surprisingly happy country\nalthough its score is not so high.\n(D) ranks countries based on global survey information on\nhow people appraise their lives according to some key\nvariables.\n(E) identified a slight increase in happiness among the 150\ncountries surveyed.",
+    "sharedContext": "Leia o texto para responder às questões de 27 a 29.\nWorld’s happiest ranking goes to\nFinland for fifth year in a row\nPeople enjoy sunny weather on the waterfront in Helsinki.\nFinland was crowned the happiest country in the world for\nthe fifth consecutive year, with a score significantly ahead of its\npeers in the World Happiness Report 2022 ranking, published\nby a body linked to the United Nations. However, the authors\ndetected, on average, a long-term moderate upward trend in\nstress, worry, and sadness in most countries, as well as “a\nslight long-term decline in the enjoyment of life,” they wrote.\nThe report uses global survey data to report on how\npeople evaluate their own lives in more than 150 countries\naround the world, with the ranking based on a three-year\naverage. Key variables that contribute to explaining people’s\nlife evaluations include healthy life expectancy, generosity,\nsocial support, freedom to make life choices, perceptions of\ncorruption, and the gross domestic product per capita (an\nindicator that measures a country’s economic output per\nperson, that is calculated by dividing the total gross domestic\nproduct of a country by its population).\n“World leaders should take heed,” Jeffrey Sachs, director\nof the Center for Sustainable Development at Columbia\nUniversity, said. “Politics should be directed as the great\nsages long ago insisted: to the well-being of the people, not\nthe power of the rulers.”\n(Kati Pohjanpalo. www.bloomberg.com, 18.03.2022. Adaptado.)",
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            562.2457999999999
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            304,
+            562.2457999999999,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

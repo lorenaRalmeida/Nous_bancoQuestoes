@@ -1,0 +1,98 @@
+{
+  "title": "Questão 38 - FUVEST 2024 - 1ª fase",
+  "index": 38,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia o texto a seguir:\nUma vida inteira pela frente.\nO tiro veio por trás.\nCíntia Moscovich, Os cem menores contos brasileiros do século (organização:\nMarcelino Freire).\nEmbora seja um texto composto por apenas duas linhas, é\npossível caracterizá-lo como uma narrativa. Nesse texto, essa\ncaracterização deve-se ao fato de que ele apresenta",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "adjetivação de tempos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "diálogo entre narradores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "referenciação de espaços.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "descrição de personagens.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sequência de ações.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Leia o texto a seguir:\nUma vida inteira pela frente.\nO tiro veio por trás.\nCíntia Moscovich, Os cem menores contos brasileiros do século (organização:\nMarcelino Freire).\nEmbora seja um texto composto por apenas duas linhas, é\npossível caracterizá-lo como uma narrativa. Nesse texto, essa\ncaracterização deve-se ao fato de que ele apresenta\n(A) adjetivação de tempos.\n(B) diálogo entre narradores.\n(C) referenciação de espaços.\n(D) descrição de personagens.\n(E) sequência de ações.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            297.5,
+            567.4747,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Estrutura narrativa de microconto",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Questão 32 - UNESP 2025 - 1ª fase",
+  "index": 32,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "Analise o afresco que representa a vida de São Francisco de\nAssis, pintado por Giotto, a partir de 1288, na igreja superior\nde Assis (Itália).\n(In: Georges Duby e Michel Laclotte (orgs.).\nHistória artística da Europa: A Idade Média II, 1998.)\nA representação expõe",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a determinação papal de que as ordens religiosas\nabandonassem a riqueza e as práticas de usura e venda de indulgências para se dedicarem exclusivamente\naos pobres e aos doentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o paradoxo entre a arquitetura sofisticada da edificação\ne o chão pedregoso, simbolizando as diferenças entre o\nreino eterno do céu e a precariedade da vida humana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o contraste dos trajes simples dos franciscanos com o\nvestuário suntuoso dos representantes do Papado e a\nsubordinação da ordem mendicante ao poder central da\nIgreja católica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a condenação papal das ordens mendicantes como heréticas e o início dos processos da Inquisição provocados\npela crítica dos franciscanos e dos dominicanos aos dogmas do catolicismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o caráter divino das lideranças religiosas da Igreja católica e a obrigação papal de acolher, perdoar e abençoar\ntodos os pecadores, mesmo aqueles que desrespeitassem suas ordens.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o afresco que representa a vida de São Francisco de\nAssis, pintado por Giotto, a partir de 1288, na igreja superior\nde Assis (Itália).\n(In: Georges Duby e Michel Laclotte (orgs.).\nHistória artística da Europa: A Idade Média II, 1998.)\nA representação expõe\n(A) a determinação papal de que as ordens religiosas\nabandonassem a riqueza e as práticas de usura e ven-\nda de indulgências para se dedicarem exclusivamente\naos pobres e aos doentes.\n(B) o paradoxo entre a arquitetura sofisticada da edificação\ne o chão pedregoso, simbolizando as diferenças entre o\nreino eterno do céu e a precariedade da vida humana.\n(C) o contraste dos trajes simples dos franciscanos com o\nvestuário suntuoso dos representantes do Papado e a\nsubordinação da ordem mendicante ao poder central da\nIgreja católica.\n(D) a condenação papal das ordens mendicantes como heré-\nticas e o início dos processos da Inquisição provocados\npela crítica dos franciscanos e dos dominicanos aos dog-\nmas do catolicismo.\n(E) o caráter divino das lideranças religiosas da Igreja cató-\nlica e a obrigação papal de acolher, perdoar e abençoar\ntodos os pecadores, mesmo aqueles que desrespeitas-\nsem suas ordens.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            22,
+            568,
+            24.850399999999922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

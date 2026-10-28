@@ -1,0 +1,100 @@
+{
+  "title": "Questão 72 - FUVEST 2023 - 1ª fase",
+  "index": 72,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "“De acordo com o órgão responsável pela área de\ntelecomunicações e radiodifusão dos Estados Unidos,\nconsidera-se ionizante qualquer radiação eletromagnética\nque transporte energia maior que 10 eV (elétron-volts). Essa\nenergia é equivalente àquela transportada pelo ultravioleta\nlongínquo, uma das faixas mais energéticas do ultravioleta,\nque se estende entre 122 nm e 200 nm de comprimento de\nonda.”\nDisponível em https://mundoeducacao.uol.com.br/. Adaptado.\n“De acordo com a professora Patricia Nicolucci, da USP, há\ndois tipos de radiação: a ionizante e a não ionizante. Mas elas\npossuem características diferentes de interação com o corpo\nhumano. ‘[Alguns tipos de radiação] são consideradas não\nionizantes porque a energia não é suficiente para liberar\nelétrons quando interagem com o tecido do corpo humano ou\nqualquer outro material. Já a radiação ionizante, utilizada em\nmedicina nuclear e em radioterapia, tem uma energia maior,\no que lhe confere essa característica de tirar elétrons dos\nátomos da matéria com a qual interage’.”\nDisponível em https://www5.usp.br/noticias/. Adaptado.\nCom base nos textos e nos seus conhecimentos, assinale a\nalternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A luz de lâmpadas brancas, as micro-ondas e o laser\nvermelho podem ser considerados exemplos de radiação\nnão ionizante.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Radiação eletromagnética de comprimentos de onda\nmaiores tem um efeito ionizante mais acentuado do que a\nde comprimentos de onda menores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Luz visível não pode ser considerada uma forma de\nradiação, uma vez que tem efeitos desprezíveis sobre\ntecidos do corpo humano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O efeito fotoelétrico é um exemplo de interação de\nradiação não ionizante com a matéria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A liberação de elétrons de moléculas de tecidos do corpo\nhumano por radiações ionizantes não afeta as\npropriedades químicas dessas moléculas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“De acordo com o órgão responsável pela área de\ntelecomunicações e radiodifusão dos Estados Unidos,\nconsidera-se ionizante qualquer radiação eletromagnética\nque transporte energia maior que 10 eV (elétron-volts). Essa\nenergia é equivalente àquela transportada pelo ultravioleta\nlongínquo, uma das faixas mais energéticas do ultravioleta,\nque se estende entre 122 nm e 200 nm de comprimento de\nonda.”\nDisponível em https://mundoeducacao.uol.com.br/. Adaptado.\n“De acordo com a professora Patricia Nicolucci, da USP, há\ndois tipos de radiação: a ionizante e a não ionizante. Mas elas\npossuem características diferentes de interação com o corpo\nhumano. ‘[Alguns tipos de radiação] são consideradas não\nionizantes porque a energia não é suficiente para liberar\nelétrons quando interagem com o tecido do corpo humano ou\nqualquer outro material. Já a radiação ionizante, utilizada em\nmedicina nuclear e em radioterapia, tem uma energia maior,\no que lhe confere essa característica de tirar elétrons dos\nátomos da matéria com a qual interage’.”\nDisponível em https://www5.usp.br/noticias/. Adaptado.\nCom base nos textos e nos seus conhecimentos, assinale a\nalternativa correta.\n(A) A luz de lâmpadas brancas, as micro-ondas e o laser\nvermelho podem ser considerados exemplos de radiação\nnão ionizante.\n(B) Radiação eletromagnética de comprimentos de onda\nmaiores tem um efeito ionizante mais acentuado do que a\nde comprimentos de onda menores.\n(C) Luz visível não pode ser considerada uma forma de\nradiação, uma vez que tem efeitos desprezíveis sobre\ntecidos do corpo humano.\n(D) O efeito fotoelétrico é um exemplo de interação de\nradiação não ionizante com a matéria.\n(E) A liberação de elétrons de moléculas de tecidos do corpo\nhumano por radiações ionizantes não afeta as\npropriedades químicas dessas moléculas.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            297.5,
+            630.9547,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            404.9947
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "topic": "Radiações ionizantes e espectro eletromagnético",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

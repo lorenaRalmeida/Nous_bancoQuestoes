@@ -1,0 +1,98 @@
+{
+  "title": "Questão 11 - UNESP 2023 - 1ª fase",
+  "index": 11,
+  "year": 2023,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia o soneto “Descreve o que era naquele tempo a cidade da Bahia”, do poeta Gregório de Matos (1636-1696), para\nresponder às questões de 09 a 12.\nA cada canto um grande conselheiro,\nQue nos quer governar cabana e vinha;\nNão sabem governar sua cozinha,\nE podem governar o mundo inteiro.\nEm cada porta um bem frequente olheiro,\nQue a vida do vizinho e da vizinha\nPesquisa, escuta, espreita e esquadrinha,\nPara o levar à praça e ao terreiro.\nMuitos mulatos desavergonhados,\nTrazidos sob os pés os homens nobres¹,\nPosta nas palmas toda a picardia,\nEstupendas usuras nos mercados,\nTodos os que não furtam muito pobres:\nE eis aqui a cidade da Bahia.\n(Gregório de Matos. Poemas escolhidos, 2010.)\n1 Trazidos sob os pés os homens nobres: na visão de Gregório de\nMatos, os mulatos em ascensão subjugam com esperteza os verdadeiros “homens nobres”.\n\nNo soneto, o pronome “o” refere-se a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“mundo”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“terreiro”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“conselheiro”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“olheiro”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“vizinho”.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No soneto, o pronome “o” refere-se a\n(A) “mundo”.\n(B) “terreiro”.\n(C) “conselheiro”.\n(D) “olheiro”.\n(E) “vizinho”.",
+    "sharedContext": "Leia o soneto “Descreve o que era naquele tempo a cidade da Bahia”, do poeta Gregório de Matos (1636-1696), para\nresponder às questões de 09 a 12.\nA cada canto um grande conselheiro,\nQue nos quer governar cabana e vinha;\nNão sabem governar sua cozinha,\nE podem governar o mundo inteiro.\nEm cada porta um bem frequente olheiro,\nQue a vida do vizinho e da vizinha\nPesquisa, escuta, espreita e esquadrinha,\nPara o levar à praça e ao terreiro.\nMuitos mulatos desavergonhados,\nTrazidos sob os pés os homens nobres¹,\nPosta nas palmas toda a picardia,\nEstupendas usuras nos mercados,\nTodos os que não furtam muito pobres:\nE eis aqui a cidade da Bahia.\n(Gregório de Matos. Poemas escolhidos, 2010.)\n1 Trazidos sob os pés os homens nobres: na visão de Gregório de\nMatos, os mulatos em ascensão subjugam com esperteza os verdadeiros “homens nobres”.",
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            363.925
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            178.30610000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

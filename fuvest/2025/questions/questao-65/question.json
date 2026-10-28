@@ -1,0 +1,110 @@
+{
+  "title": "Questão 65 - FUVEST 2025 - 1ª fase",
+  "index": 65,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 65 E 66\nDa moenda para a célula a combustível: caldo de cana é\nusado para produzir energia elétrica\n“Pesquisadores do Instituto de Pesquisas Energéticas e\nNucleares (Ipen), órgão associado à USP, testaram o uso de\ncaldo de cana para gerar energia elétrica em células a\ncombustível. O processo dispensa a transformação do caldo in\nnatura em etanol, feita nas usinas de álcool, impedindo a\nformação de resíduos nocivos ao meio ambiente. Após o êxito\ndos experimentos em laboratório, os cientistas vão\ndesenvolver a aplicação da técnica em escala industrial.\n‘A célula a combustível tem o mesmo princípio de\nfuncionamento de uma pilha. A diferença é que o combustível\nserve como reagente para ser consumido e gerar\neletricidade’, explica o pesquisador do Ipen, Almir Oliveira\nNeto, que coordenou a pesquisa. ‘No dispositivo que foi\ndesenvolvido na pesquisa, a oxidação do caldo de cana\nacontece no ânodo e a redução de oxigênio no cátodo. O\nobjetivo do experimento era obter energia da biomassa com\no mínimo impacto ambiental possível. Para isso, utilizou-se o\ncaldo de cana em uma célula a combustível para gerar energia\nelétrica’, diz o pesquisador. ‘O uso do caldo de cana direto\nevita a formação de vinhaça, um resíduo ambientalmente\nperigoso decorrente da produção de etanol, contribuindo,\nassim, para a preservação do meio ambiente’.”\nDisponível em https://jornal.usp.br/ciencias/ (Adaptado).\n\nDe acordo com o texto, a pesquisa com caldo de cana\napresentou resultados promissores em relação à\nsustentabilidade ambiental, porque",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o caldo in natura é obtido com facilidade, demandando\nsomente a utilização das moendas, o que barateia os\ncustos do processo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a energia elétrica proveniente da célula a combustível é\nconsiderada limpa, já que esse dispositivo dispensa o uso de\npilhas, cujo descarte constitui um problema ambiental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a vinhaça, resíduo danoso ao meio ambiente, deixa de ser\nproduzida ao se evitar a transformação do caldo de cana\nem álcool.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a célula a combustível se destaca pela economia energética\ngerada ao funcionar como uma pilha, reduzindo a\nquantidade de caldo de cana utilizada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o Ipen não produz o caldo de cana em escala industrial, o\nque diminui a produção da vinhaça poluidora do meio\nambiente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nDe acordo com o texto, a pesquisa com caldo de cana\napresentou resultados promissores em relação à\nsustentabilidade ambiental, porque\n(A) o caldo in natura é obtido com facilidade, demandando\nsomente a utilização das moendas, o que barateia os\ncustos do processo.\n(B) a energia elétrica proveniente da célula a combustível é\nconsiderada limpa, já que esse dispositivo dispensa o uso de\npilhas, cujo descarte constitui um problema ambiental.\n(C) a vinhaça, resíduo danoso ao meio ambiente, deixa de ser\nproduzida ao se evitar a transformação do caldo de cana\nem álcool.\n(D) a célula a combustível se destaca pela economia energética\ngerada ao funcionar como uma pilha, reduzindo a\nquantidade de caldo de cana utilizada.\n(E) o Ipen não produz o caldo de cana em escala industrial, o\nque diminui a produção da vinhaça poluidora do meio\nambiente.\n#####\n{",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 65 E 66\nDa moenda para a célula a combustível: caldo de cana é\nusado para produzir energia elétrica\n“Pesquisadores do Instituto de Pesquisas Energéticas e\nNucleares (Ipen), órgão associado à USP, testaram o uso de\ncaldo de cana para gerar energia elétrica em células a\ncombustível. O processo dispensa a transformação do caldo in\nnatura em etanol, feita nas usinas de álcool, impedindo a\nformação de resíduos nocivos ao meio ambiente. Após o êxito\ndos experimentos em laboratório, os cientistas vão\ndesenvolver a aplicação da técnica em escala industrial.\n‘A célula a combustível tem o mesmo princípio de\nfuncionamento de uma pilha. A diferença é que o combustível\nserve como reagente para ser consumido e gerar\neletricidade’, explica o pesquisador do Ipen, Almir Oliveira\nNeto, que coordenou a pesquisa. ‘No dispositivo que foi\ndesenvolvido na pesquisa, a oxidação do caldo de cana\nacontece no ânodo e a redução de oxigênio no cátodo. O\nobjetivo do experimento era obter energia da biomassa com\no mínimo impacto ambiental possível. Para isso, utilizou-se o\ncaldo de cana em uma célula a combustível para gerar energia\nelétrica’, diz o pesquisador. ‘O uso do caldo de cana direto\nevita a formação de vinhaça, um resíduo ambientalmente\nperigoso decorrente da produção de etanol, contribuindo,\nassim, para a preservação do meio ambiente’.”\nDisponível em https://jornal.usp.br/ciencias/ (Adaptado).\n{",
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            28,
+            345.0847,
+            297.5,
+            683.3947000000001
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            28,
+            683.3947000000001,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            207.05470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [
+        "Química"
+      ],
+      "topic": "Interpretação de divulgação científica sobre energia",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Questão 25 - FUVEST 2023 - 1ª fase",
+  "index": 25,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "Combustíveis fósseis, como o diesel, contém em sua\ncomposição uma fração de enxofre. Durante o processo de\ncombustão, o enxofre é convertido em SO , tornando-se um\n2\npoluente ambiental. Em postos de combustível, normalmente\nsão comercializados dois tipos de diesel, o Diesel S10 e o\nDiesel S500. O primeiro contém 10 ppm de enxofre, e o\nsegundo, 500 ppm de enxofre.\nConsidere que na combustão do diesel, todo enxofre seja\nconvertido em SO , conforme reação a seguir:\n2\nS(s) + O (g) → SO (g)\n2 2\nNesse caso, a diferença de massa de SO emitido para a\n2\natmosfera por kg de diesel quando cada um dos dois tipos é\nqueimado é de\n\nNote e adote:\nMassas molares (g/mol): O = 16; S = 32.\n1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "245 mg/kg.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "490 mg/kg.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "980 mg/kg.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1960 mg/kg.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3920 mg/kg.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Combustíveis fósseis, como o diesel, contém em sua\ncomposição uma fração de enxofre. Durante o processo de\ncombustão, o enxofre é convertido em SO , tornando-se um\n2\npoluente ambiental. Em postos de combustível, normalmente\nsão comercializados dois tipos de diesel, o Diesel S10 e o\nDiesel S500. O primeiro contém 10 ppm de enxofre, e o\nsegundo, 500 ppm de enxofre.\nConsidere que na combustão do diesel, todo enxofre seja\nconvertido em SO , conforme reação a seguir:\n2\nS(s) + O (g) → SO (g)\n2 2\nNesse caso, a diferença de massa de SO emitido para a\n2\natmosfera por kg de diesel quando cada um dos dois tipos é\nqueimado é de\n(A) 245 mg/kg.\n(B) 490 mg/kg.\n(C) 980 mg/kg.\n(D) 1960 mg/kg.\n(E) 3920 mg/kg.\nNote e adote:\nMassas molares (g/mol): O = 16; S = 32.\n1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 9,
+          "bbox": [
+            28,
+            40.07470000000001,
+            297.5,
+            385.0747
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Estequiometria de enxofre em combustíveis",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

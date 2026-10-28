@@ -1,0 +1,88 @@
+{
+  "title": "Questão 62 - UNESP 2024 - 1ª fase",
+  "index": 62,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "O clima quente do país [Brasil] exige a utilização, em\ngrandes quantidades, de defensivos agrícolas, a fim de proteger as lavouras de pragas e de ervas daninhas. Esses defensivos podem gerar impactos significativos sobre a flora\ne a fauna. Desde meados dos anos 2000, toda uma linha\nde pesquisa na Unesp tem procurado investigar o impacto\ndesses defensivos sobre as populações de abelhas, animais\nque desempenham um trabalho ambiental fundamental para\na manutenção tanto das matas quanto das próprias lavouras.\n(https://jornal.unesp.br, 20.05.2022. Adaptado.)\nO trabalho ambiental fundamental realizado pelas abelhas,\ncitado no excerto,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumenta a chance de ocorrer fecundação cruzada em\ncertos vegetais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "elimina as pragas agrícolas resistentes aos inseticidas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reduz a necessidade do uso frequente de defensivos\nagrícolas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "impede a autofecundação em plantas que produzem\nflores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aumenta a quantidade de insetos resistentes aos inseticidas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O clima quente do país [Brasil] exige a utilização, em\ngrandes quantidades, de defensivos agrícolas, a fim de pro-\nteger as lavouras de pragas e de ervas daninhas. Esses de-\nfensivos podem gerar impactos significativos sobre a flora\ne a fauna. Desde meados dos anos 2000, toda uma linha\nde pesquisa na Unesp tem procurado investigar o impacto\ndesses defensivos sobre as populações de abelhas, animais\nque desempenham um trabalho ambiental fundamental para\na manutenção tanto das matas quanto das próprias lavouras.\n(https://jornal.unesp.br, 20.05.2022. Adaptado.)\nO trabalho ambiental fundamental realizado pelas abelhas,\ncitado no excerto,\n(A) aumenta a chance de ocorrer fecundação cruzada em\ncertos vegetais.\n(B) elimina as pragas agrícolas resistentes aos inseticidas.\n(C) reduz a necessidade do uso frequente de defensivos\nagrícolas.\n(D) impede a autofecundação em plantas que produzem\nflores.\n(E) aumenta a quantidade de insetos resistentes aos inseti-\ncidas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            370.4793
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Questão 13 - UNICAMP 2025 - 1ª fase",
+  "index": 13,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "Texto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções\nenergéticas de desenvolvimento sustentável: além de fazer uso\nde tecnologia pouco agressiva ao ambiente, é uma enorme fonte de energia renovável.\n\nOperando em condições ótimas, um painel solar gera energia\nelétrica numa potência P = 462 W, com uma diferença de potencial U = 42 V nos seus terminais. Para que a energia gepainel\nrada seja armazenada numa bateria de diferença de potencial\nU = 12 V, usa-se um dispositivo que ajusta a diferença de pobat\ntencial, dispositivo este chamado de controlador de carga (ver\nfigura). Se, numa situação ideal, toda a energia gerada pelo\npainel é armazenada na bateria, quais os valores das correntes\nelétricas i e i nos terminais do painel e da bateria, respecpainel bat\ntivamente?\nppaaiinneell\nssoollaarr i\ni bat\npainel\nbateria\n12 V\ni\nbat\n42 V\ncontrolador\nde carga\ni\npainel",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "i =11 A e i = 38,5 A.\npainel bat",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "i =11 A e i = 3,1 A.\npainel bat",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "i =134,75 A e i = 38,5 A.\npainel bat",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "i =134,75 A e i = 3,1 A.\npainel bat",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Operando em condições ótimas, um painel solar gera energia\nelétrica numa potência P = 462 W, com uma diferença de po-\ntencial U = 42 V nos seus terminais. Para que a energia ge-\npainel\nrada seja armazenada numa bateria de diferença de potencial\nU = 12 V, usa-se um dispositivo que ajusta a diferença de po-\nbat\ntencial, dispositivo este chamado de controlador de carga (ver\nfigura). Se, numa situação ideal, toda a energia gerada pelo\npainel é armazenada na bateria, quais os valores das correntes\nelétricas i e i nos terminais do painel e da bateria, respec-\npainel bat\ntivamente?\nppaaiinneell\nssoollaarr i\ni bat\npainel\nbateria\n12 V\ni\nbat\n42 V\ncontrolador\nde carga\ni\npainel\na) i =11 A e i = 38,5 A.\npainel bat\nb) i =11 A e i = 3,1 A.\npainel bat\nc) i =134,75 A e i = 38,5 A.\npainel bat\nd) i =134,75 A e i = 3,1 A.\npainel bat",
+    "sharedContext": "Texto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções\nenergéticas de desenvolvimento sustentável: além de fazer uso\nde tecnologia pouco agressiva ao ambiente, é uma enorme fonte de energia renovável.",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            131.9357
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            131.9357,
+            291,
+            513.2711999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

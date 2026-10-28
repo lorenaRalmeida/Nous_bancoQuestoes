@@ -1,0 +1,110 @@
+{
+  "title": "Questão 74 - FUVEST 2025 - 1ª fase",
+  "index": 74,
+  "year": 2025,
+  "discipline": "Física",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino\nde Física, reporta um curioso estudo sobre a pressão interna\nde “foguetes de garrafa PET”, propulsionados a partir da\nreação química entre ácido acético e bicarbonato de sódio.[1]\nUma mistura de vinagre (que contém ácido\nacético, CH COOH) com bicarbonato de sódio (NaHCO )\n3 3\nproduz gás carbônico (CO ) por meio da reação química\n2\nrepresentada pela seguinte equação:\nCH COOH + NaHCO → CH COONa + CO + H O\n3 3 3 2 2\nA reação ocorre no interior de uma\ngarrafa PET de 2 L de volume útil total,\nda qual foi retirado todo o ar. Insere-se\nna garrafa um volume inicial V de\nvin\nvinagre líquido e bicarbonato de sódio,\nsendo a garrafa posteriormente selada\ncom uma tampa acoplada a um\nmanômetro. A reação produzirá gás\ncarbônico que ocupará um volume V\nCO2\ne exercerá uma pressão P sobre a\nCO2\ntampa da garrafa, medida pelo\nmanômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504\n(2018). Disponível em\nhttp://dx.doi.org/10.1590/1806-9126-RBEF-\n2017-0340.\n\nConsidere agora um outro experimento feito em condições\nsemelhantes, em que o manômetro indica uma pressão de\n5 atm e, sem que a pressão no interior da garrafa se altere, ele\né cuidadosamente substituído por uma rolha de 10 g de massa\ne 2 cm de diâmetro (igual ao diâmetro interno do bocal da\ngarrafa). Logo após a rolha ser encaixada no local, ela é\nexpelida devido à pressão interna da garrafa ser maior que a\npressão atmosférica.\nA aceleração da rolha no momento em que ela é expelida é\nde, aproximadamente,\n\nNote e adote:\nAssuma que a pressão atmosférica seja de 1 atm = 105 Pa.\nUtilize π = 3.\nConsidere que as forças relevantes atuando sobre a rolha no momento\nem que é expelida são apenas aquelas relativas à diferença de pressão\nentre os seus lados interno e externo.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "12 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "120 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1200 m/s2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "12000 m/s2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "120000 m/s2.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nConsidere agora um outro experimento feito em condições\nsemelhantes, em que o manômetro indica uma pressão de\n5 atm e, sem que a pressão no interior da garrafa se altere, ele\né cuidadosamente substituído por uma rolha de 10 g de massa\ne 2 cm de diâmetro (igual ao diâmetro interno do bocal da\ngarrafa). Logo após a rolha ser encaixada no local, ela é\nexpelida devido à pressão interna da garrafa ser maior que a\npressão atmosférica.\nA aceleração da rolha no momento em que ela é expelida é\nde, aproximadamente,\n(A) 12 m/s2.\n(B) 120 m/s2.\n(C) 1200 m/s2.\n(D) 12000 m/s2.\n(E) 120000 m/s2.\nNote e adote:\nAssuma que a pressão atmosférica seja de 1 atm = 105 Pa.\nUtilize π = 3.\nConsidere que as forças relevantes atuando sobre a rolha no momento\nem que é expelida são apenas aquelas relativas à diferença de pressão\nentre os seus lados interno e externo.\n#####\n{",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino\nde Física, reporta um curioso estudo sobre a pressão interna\nde “foguetes de garrafa PET”, propulsionados a partir da\nreação química entre ácido acético e bicarbonato de sódio.[1]\nUma mistura de vinagre (que contém ácido\nacético, CH COOH) com bicarbonato de sódio (NaHCO )\n3 3\nproduz gás carbônico (CO ) por meio da reação química\n2\nrepresentada pela seguinte equação:\nCH COOH + NaHCO → CH COONa + CO + H O\n3 3 3 2 2\nA reação ocorre no interior de uma\ngarrafa PET de 2 L de volume útil total,\nda qual foi retirado todo o ar. Insere-se\nna garrafa um volume inicial V de\nvin\nvinagre líquido e bicarbonato de sódio,\nsendo a garrafa posteriormente selada\ncom uma tampa acoplada a um\nmanômetro. A reação produzirá gás\ncarbônico que ocupará um volume V\nCO2\ne exercerá uma pressão P sobre a\nCO2\ntampa da garrafa, medida pelo\nmanômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504\n(2018). Disponível em\nhttp://dx.doi.org/10.1590/1806-9126-RBEF-\n2017-0340.\n{",
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            28,
+            41.42470000000003,
+            297.5,
+            376.97470000000004
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            28,
+            619.3747000000001,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            184.01470000000006
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "topic": "Pressão e aceleração de uma rolha",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

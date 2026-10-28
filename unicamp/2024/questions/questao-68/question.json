@@ -1,0 +1,94 @@
+{
+  "title": "Questão 68 - UNICAMP 2024 - 1ª fase",
+  "index": 68,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "O texto a seguir é parte de uma chamada para publicação de\nartigos em uma edição especial da revista Nature.\nThe environmental and ethical implications of traditional\nlivestock rearing, combined with an increasing global\npopulation and demand for protein-rich nutrition, has led to\ninvestments in alternative protein research. One emerging\napproach is cellular agriculture, in which traditional ‘meat’\ntissues, such as muscle and fat cells from cows, chicken\nand fish, or alternative protein sources, such as algae, are\ncultivated under controlled laboratory conditions. However, the\noptimisation of these protocols is highly dependent on cell types,\nand further development is required to make cellular agriculture an economically viable alternative to traditional sources of\nprotein. This special issue welcomes research on improvements to\ncellular agriculture protocols to maximize sustainable protein\nproduction.\n(Adaptado de: https://www.nature.com/collections/chhdggaffd. Acesso em 12/05/2023.)\nQual seria o tópico específico da edição especial ao qual o texto\nse refere?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Alternativas economicamente viáveis dentro da agricultura\ntradicional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Desafios éticos e ambientais da pecuária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Sustentabilidade na pesquisa de novos protocolos para agricultura tradicional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Agricultura celular de diversas fontes de proteína.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O texto a seguir é parte de uma chamada para publicação de\nartigos em uma edição especial da revista Nature.\nThe environmental and ethical implications of traditional\nlivestock rearing, combined with an increasing global\npopulation and demand for protein-rich nutrition, has led to\ninvestments in alternative protein research. One emerging\napproach is cellular agriculture, in which traditional ‘meat’\ntissues, such as muscle and fat cells from cows, chicken\nand fish, or alternative protein sources, such as algae, are\ncultivated under controlled laboratory conditions. However, the\noptimisation of these protocols is highly dependent on cell types,\nand further development is required to make cellular agricul-\nture an economically viable alternative to traditional sources of\nprotein. This special issue welcomes research on improvements to\ncellular agriculture protocols to maximize sustainable protein\nproduction.\n(Adaptado de: https://www.nature.com/collections/chhdggaffd. Acesso em 12/05/2023.)\nQual seria o tópico específico da edição especial ao qual o texto\nse refere?\na) Alternativas economicamente viáveis dentro da agricultura\ntradicional.\nb) Desafios éticos e ambientais da pecuária.\nc) Sustentabilidade na pesquisa de novos protocolos para agri-\ncultura tradicional.\nd) Agricultura celular de diversas fontes de proteína.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            429.7376,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.523900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

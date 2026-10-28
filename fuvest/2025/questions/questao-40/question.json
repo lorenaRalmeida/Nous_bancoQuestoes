@@ -1,0 +1,102 @@
+{
+  "title": "Questão 40 - FUVEST 2025 - 1ª fase",
+  "index": 40,
+  "year": 2025,
+  "discipline": "Educação Física",
+  "language": null,
+  "context": "Atingir a igualdade de gênero é uma das\nmetas do Objetivo de Desenvolvimento\nSustentável (ODS) de número 5 da Agenda\n2030, adotada pela ONU em 2015.\nNo cenário esportivo, é possível\nidentificar alguns avanços em relação ao\nalcance dessa meta, conforme reconheceu a jogadora\nbrasileira de futebol Marta:\n“Quando as atletas do sexo feminino têm a chance de se\ndestacar, os resultados são enormes. E para isso, a Copa do\nMundo Feminina de 2019 foi realmente uma virada no jogo. A\naudiência global do torneio ultrapassou 1 bilhão de pessoas.”\nDisponível em https://brasil.un.org/.\nA Olimpíada de Paris 2024, por sua vez, estabeleceu, pela\nprimeira vez na história, a paridade de gênero em todos os\nesportes olímpicos, com 5.250 vagas destinadas a cada sexo.\nApesar das conquistas, o caminho rumo à igualdade de gênero\ncontinua.\nCom base no exposto, é correto afirmar:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "As práticas esportivas devem ser consideradas como\npráticas sociais, pois claramente refletem em sua\nrealidade as potencialidades e os retrocessos da\nsociedade. Sendo assim, as mulheres já atingiram o\nmesmo nível de destaque que os homens na sociedade\ncontemporânea, haja vista a ascensão e visibilidade\nfeminina no cenário esportivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os grandes eventos esportivos conferem às mulheres uma\nvisibilidade muitas vezes camuflada na sociedade. A\nvisibilidade gerada para as atletas em cenário esportivo, a\npartir dos grandes eventos, demonstra o quanto elas já\natingiram em totalidade seu status social e caminham no\nsentido de alcançar a agenda dos ODS.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "As mulheres atletas têm, vagarosamente, alcançado mais\npossibilidades de inclusão e participação junto ao mundo\nesportivo, porém a igualdade de gênero ainda se mostra\numa meta distante de ser alcançada quando se observa a\nbaixa proporção de mulheres ocupando cargos de gestão\ne liderança no cenário esportivo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "O mundo esportivo não tem implicação direta junto ao\nalcance das metas dos ODS, uma vez que possui\norganização e regramento específicos, além de uma\nconstituição social própria. Dessa maneira, a instituição\nesportiva não deve ser padrão de referência para revelar\navanços ou retrocessos da sociedade como um todo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O esporte tem sido importante fenômeno de promoção\ndas mulheres, mas sua influência é limitada à prática\nprofissional de modalidades esportivas mais populares,\nsem potencial de contribuir para a igualdade de\noportunidades para as mulheres em todos os níveis de\ntomada de decisão na vida política, econômica e pública.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nAtingir a igualdade de gênero é uma das\nmetas do Objetivo de Desenvolvimento\nSustentável (ODS) de número 5 da Agenda\n2030, adotada pela ONU em 2015.\nNo cenário esportivo, é possível\nidentificar alguns avanços em relação ao\nalcance dessa meta, conforme reconheceu a jogadora\nbrasileira de futebol Marta:\n“Quando as atletas do sexo feminino têm a chance de se\ndestacar, os resultados são enormes. E para isso, a Copa do\nMundo Feminina de 2019 foi realmente uma virada no jogo. A\naudiência global do torneio ultrapassou 1 bilhão de pessoas.”\nDisponível em https://brasil.un.org/.\nA Olimpíada de Paris 2024, por sua vez, estabeleceu, pela\nprimeira vez na história, a paridade de gênero em todos os\nesportes olímpicos, com 5.250 vagas destinadas a cada sexo.\nApesar das conquistas, o caminho rumo à igualdade de gênero\ncontinua.\nCom base no exposto, é correto afirmar:\n(A) As práticas esportivas devem ser consideradas como\npráticas sociais, pois claramente refletem em sua\nrealidade as potencialidades e os retrocessos da\nsociedade. Sendo assim, as mulheres já atingiram o\nmesmo nível de destaque que os homens na sociedade\ncontemporânea, haja vista a ascensão e visibilidade\nfeminina no cenário esportivo.\n(B) Os grandes eventos esportivos conferem às mulheres uma\nvisibilidade muitas vezes camuflada na sociedade. A\nvisibilidade gerada para as atletas em cenário esportivo, a\npartir dos grandes eventos, demonstra o quanto elas já\natingiram em totalidade seu status social e caminham no\nsentido de alcançar a agenda dos ODS.\n(C) As mulheres atletas têm, vagarosamente, alcançado mais\npossibilidades de inclusão e participação junto ao mundo\nesportivo, porém a igualdade de gênero ainda se mostra\numa meta distante de ser alcançada quando se observa a\nbaixa proporção de mulheres ocupando cargos de gestão\ne liderança no cenário esportivo.\n(D) O mundo esportivo não tem implicação direta junto ao\nalcance das metas dos ODS, uma vez que possui\norganização e regramento específicos, além de uma\nconstituição social própria. Dessa maneira, a instituição\nesportiva não deve ser padrão de referência para revelar\navanços ou retrocessos da sociedade como um todo.\n(E) O esporte tem sido importante fenômeno de promoção\ndas mulheres, mas sua influência é limitada à prática\nprofissional de modalidades esportivas mais populares,\nsem potencial de contribuir para a igualdade de\noportunidades para as mulheres em todos os níveis de\ntomada de decisão na vida política, econômica e pública.\n#####",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            297.5,
+            40.134700000000066,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            41.42470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Educação Física",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "topic": "Gênero e participação nas práticas esportivas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

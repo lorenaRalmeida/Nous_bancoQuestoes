@@ -1,0 +1,98 @@
+{
+  "title": "Questão 33 - UNESP 2024 - 1ª fase",
+  "index": 33,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "O mundo natural é o concreto, que tocamos, sentimos,\nno qual vivemos. O mundo social é resultado da nossa vida\nem grupo e em determinado meio ambiente. O mundo sobrenatural é o das religiões, da magia, ao qual os homens só têm\nacesso parcial, por meio de determinados ritos e cerimônias.\nEle é mais ou menos importante, dependendo da sociedade.\nNuma sociedade como a nossa, na qual quase tudo é explicado pela ciência e pelo pensamento lógico e racional, o espaço do sobrenatural é bastante limitado. Já nas sociedades\nafricanas, onde foram capturados os escravizados trazidos\npara o Brasil, toda a vida na terra estava ligada ao além, a\ndimensões que só conhecedores dos ritos e objetos sacralizados podiam atingir.\n(Marina de Mello e Souza. África e Brasil africano, 2007. Adaptado.)\nAo comparar o pensamento lógico predominante no Ocidente\ncontemporâneo com as mentalidades das sociedades africanas de onde foi proveniente a maioria das pessoas trazidas\nao Brasil como escravizadas, o excerto",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "critica a relativização dos valores morais e religiosos nas\nsociedades africanas e europeias no período do tráfico\nde escravizados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "identifica o descompasso entre o primitivismo dos povos\nafricanos e o avanço civilizatório da Europa colonizadora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "caracteriza duas percepções de mundo, enfatizando\nsua diferença na relação com as dimensões míticas e\nsagradas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "distingue dois modelos de pensamento, sustentando\na superioridade daquele que é movido pelo esforço\nracional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "valoriza a religiosidade do mundo atual, destacando\na centralidade das crenças e das práticas religiosas\ncotidianas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O mundo natural é o concreto, que tocamos, sentimos,\nno qual vivemos. O mundo social é resultado da nossa vida\nem grupo e em determinado meio ambiente. O mundo sobre-\nnatural é o das religiões, da magia, ao qual os homens só têm\nacesso parcial, por meio de determinados ritos e cerimônias.\nEle é mais ou menos importante, dependendo da sociedade.\nNuma sociedade como a nossa, na qual quase tudo é expli-\ncado pela ciência e pelo pensamento lógico e racional, o es-\npaço do sobrenatural é bastante limitado. Já nas sociedades\nafricanas, onde foram capturados os escravizados trazidos\npara o Brasil, toda a vida na terra estava ligada ao além, a\ndimensões que só conhecedores dos ritos e objetos sacrali-\nzados podiam atingir.\n(Marina de Mello e Souza. África e Brasil africano, 2007. Adaptado.)\nAo comparar o pensamento lógico predominante no Ocidente\ncontemporâneo com as mentalidades das sociedades africa-\nnas de onde foi proveniente a maioria das pessoas trazidas\nao Brasil como escravizadas, o excerto\n(A) critica a relativização dos valores morais e religiosos nas\nsociedades africanas e europeias no período do tráfico\nde escravizados.\n(B) identifica o descompasso entre o primitivismo dos povos\nafricanos e o avanço civilizatório da Europa colonizadora.\n(C) caracteriza duas percepções de mundo, enfatizando\nsua diferença na relação com as dimensões míticas e\nsagradas.\n(D) distingue dois modelos de pensamento, sustentando\na superioridade daquele que é movido pelo esforço\nracional.\n(E) valoriza a religiosidade do mundo atual, destacando\na centralidade das crenças e das práticas religiosas\ncotidianas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

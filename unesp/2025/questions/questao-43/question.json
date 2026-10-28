@@ -1,0 +1,98 @@
+{
+  "title": "Questão 43 - UNESP 2025 - 1ª fase",
+  "index": 43,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“Nova Ordem Mundial” — essa expressão foi consagrada por George H. Bush, o Bush sênior, num discurso proferido perante uma sessão conjunta do Congresso americano,\nno dia 11 de setembro de 1990 [...]. Aqueles eram os anos\nmágicos do encerramento da Guerra Fria. E aquela era uma\nprofecia assentada sobre a percepção de um mundo ordenado e liderado pelos Estados Unidos. A expressão não durou\nsequer uma década. No portal do século XXI, teria sido melhor inscrever aquilo que disse um dia Sam Goldwyn, o antigo\nmagnata do cinema: “Nunca profetize, especialmente sobre\no futuro”.\n(Demétrio Magnoli. O grande jogo, 2006.)\nNo excerto, há a desconstrução da percepção sobre a Nova\nOrdem Mundial. Essa desconstrução justifica-se pela",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ascensão de novas potências econômicas mundiais no\ninício da década de 1990, especificamente Brasil, Rússia, Índia, China e África do Sul (BRICS).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "difusão de um modelo de gestão política globalizante, capaz de equiparar o poder geopolítico dos Estados ao da\nONU, em defesa de interesses sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "rápida ascensão econômica da Rússia já no início da\ndécada de 1990, resultado de sua condição de herdeira\ndireta das indústrias da extinta União Soviética.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "importante crise econômica estadunidense ao longo da\ndécada de 1990, responsável por subjugar o país aos interesses do Extremo Oriente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "formação de três polos de poder logo após o fim da era\nbipolar, contemplando os Estados Unidos, a União Europeia e o Japão.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Nova Ordem Mundial” — essa expressão foi consagra-\nda por George H. Bush, o Bush sênior, num discurso profe-\nrido perante uma sessão conjunta do Congresso americano,\nno dia 11 de setembro de 1990 [...]. Aqueles eram os anos\nmágicos do encerramento da Guerra Fria. E aquela era uma\nprofecia assentada sobre a percepção de um mundo ordena-\ndo e liderado pelos Estados Unidos. A expressão não durou\nsequer uma década. No portal do século XXI, teria sido me-\nlhor inscrever aquilo que disse um dia Sam Goldwyn, o antigo\nmagnata do cinema: “Nunca profetize, especialmente sobre\no futuro”.\n(Demétrio Magnoli. O grande jogo, 2006.)\nNo excerto, há a desconstrução da percepção sobre a Nova\nOrdem Mundial. Essa desconstrução justifica-se pela\n(A) ascensão de novas potências econômicas mundiais no\ninício da década de 1990, especificamente Brasil, Rús-\nsia, Índia, China e África do Sul (BRICS).\n(B) difusão de um modelo de gestão política globalizante, ca-\npaz de equiparar o poder geopolítico dos Estados ao da\nONU, em defesa de interesses sociais.\n(C) rápida ascensão econômica da Rússia já no início da\ndécada de 1990, resultado de sua condição de herdeira\ndireta das indústrias da extinta União Soviética.\n(D) importante crise econômica estadunidense ao longo da\ndécada de 1990, responsável por subjugar o país aos in-\nteresses do Extremo Oriente.\n(E) formação de três polos de poder logo após o fim da era\nbipolar, contemplando os Estados Unidos, a União Euro-\npeia e o Japão.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 15,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

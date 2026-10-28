@@ -1,0 +1,112 @@
+{
+  "title": "Questão 72 - UNICAMP 2023 - 1ª fase",
+  "index": 72,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "O Coronavirus Resource Center (CRC) da Johns Hopkins\nUniversity é uma importante plataforma de dados sobre a\nCOVID-19, com atualizações frequentes sobre a evolução\nda pandemia. Os gráficos apresentados nas alternativas que\nrespondem a esta questão foram retirados desta plataforma.\nConsidere, agora, o contexto fictício de uma palestra ministrada em uma universidade estrangeira por um pesquisador\nbrasileiro. Na ocasião, o cientista fez comentários sobre a\nsituação da pandemia no Brasil, valendo-se de dados da plataforma do CRC:\n“As I speak now, in June of 2022, I can say we’ve had a\ntough time during these past two years in our country. This\nchart, indicating the number of daily deaths over time, shows\nhow we’ve had a couple of months during the pandemic in\nwhich the number of daily deaths was over two thousand.\nDespite having the number of deaths spike to 3 thousand\nlast year – our highest peak to date – levels had been steadily\ndecreasing ever since. This year, though, there was a slight\nincrease in the number of daily deaths, which nearly reached\nlevels attained towards the beginning of the pandemic.”\n(Fonte dos gráficos: https://coronavirus.jhu.edu. Acesso em 11/06/2022.)\nQual dos gráficos a seguir ilustraria corretamente a fala do pesquisador?",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O Coronavirus Resource Center (CRC) da Johns Hopkins\nUniversity é uma importante plataforma de dados sobre a\nCOVID-19, com atualizações frequentes sobre a evolução\nda pandemia. Os gráficos apresentados nas alternativas que\nrespondem a esta questão foram retirados desta plataforma.\nConsidere, agora, o contexto fictício de uma palestra minis-\ntrada em uma universidade estrangeira por um pesquisador\nbrasileiro. Na ocasião, o cientista fez comentários sobre a\nsituação da pandemia no Brasil, valendo-se de dados da pla-\ntaforma do CRC:\n“As I speak now, in June of 2022, I can say we’ve had a\ntough time during these past two years in our country. This\nchart, indicating the number of daily deaths over time, shows\nhow we’ve had a couple of months during the pandemic in\nwhich the number of daily deaths was over two thousand.\nDespite having the number of deaths spike to 3 thousand\nlast year – our highest peak to date – levels had been steadily\ndecreasing ever since. This year, though, there was a slight\nincrease in the number of daily deaths, which nearly reached\nlevels attained towards the beginning of the pandemic.”\n(Fonte dos gráficos: https://coronavirus.jhu.edu. Acesso em 11/06/2022.)\nQual dos gráficos a seguir ilustraria corretamente a fala do pes-\nquisador?\na)\nb)\nc)\nd)",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            690.4157,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            40,
+            568,
+            807
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Matemática"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

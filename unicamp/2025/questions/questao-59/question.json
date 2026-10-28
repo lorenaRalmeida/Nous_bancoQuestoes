@@ -1,0 +1,86 @@
+{
+  "title": "Questão 59 - UNICAMP 2025 - 1ª fase",
+  "index": 59,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "O cartum é um gênero de texto que apresenta uma visão crítica\nsobre a realidade por meio da articulação entre diferentes elementos, tais como exagero, humor, ironia, expressões faciais,\nimagens e cores. Além disso, o humor do cartum pode se construir com base em incongruências entre elementos que o compõem. O cartum a seguir foi adaptado. Na sua versão original,\na cor cinza e a cor verde foram usadas.\nPartindo-se do pressuposto de que, do ponto de vista ambiental, a cor cinza denota uma condição desfavorável e a cor verde\ndenota uma condição favorável, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A cor verde, se usada tanto na bicicleta quanto na roupa da\nciclista, estaria de acordo com outros elementos presentes\nno conjunto bicicleta/ciclista. A concepção da ciclista sobre\ntransição energética está correta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A cor verde, se usada tanto na bicicleta quanto na roupa da\nciclista, estaria de acordo com outros elementos presentes\nno conjunto bicicleta/ciclista. A concepção da ciclista sobre\ntransição energética está incorreta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A cor cinza, se usada tanto na bicicleta quanto na roupa da\nciclista, estaria de acordo com outros elementos presentes\nno conjunto bicicleta/ciclista. A concepção da ciclista sobre\ntransição energética está correta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A cor cinza, se usada tanto na bicicleta quanto na roupa da\nciclista, estaria de acordo com outros elementos presentes\nno conjunto bicicleta/ciclista. A concepção da ciclista sobre\ntransição energética está incorreta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O cartum é um gênero de texto que apresenta uma visão crítica\nsobre a realidade por meio da articulação entre diferentes ele-\nmentos, tais como exagero, humor, ironia, expressões faciais,\nimagens e cores. Além disso, o humor do cartum pode se cons-\ntruir com base em incongruências entre elementos que o com-\npõem. O cartum a seguir foi adaptado. Na sua versão original,\na cor cinza e a cor verde foram usadas.\nPartindo-se do pressuposto de que, do ponto de vista ambien-\ntal, a cor cinza denota uma condição desfavorável e a cor verde\ndenota uma condição favorável, assinale a alternativa correta.\na) A cor verde, se usada tanto na bicicleta quanto na roupa da\nciclista, estaria de acordo com outros elementos presentes\nno conjunto bicicleta/ciclista. A concepção da ciclista sobre\ntransição energética está correta.\nb) A cor verde, se usada tanto na bicicleta quanto na roupa da\nciclista, estaria de acordo com outros elementos presentes\nno conjunto bicicleta/ciclista. A concepção da ciclista sobre\ntransição energética está incorreta.\nc) A cor cinza, se usada tanto na bicicleta quanto na roupa da\nciclista, estaria de acordo com outros elementos presentes\nno conjunto bicicleta/ciclista. A concepção da ciclista sobre\ntransição energética está correta.\nd) A cor cinza, se usada tanto na bicicleta quanto na roupa da\nciclista, estaria de acordo com outros elementos presentes\nno conjunto bicicleta/ciclista. A concepção da ciclista sobre\ntransição energética está incorreta.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            46.889999999999986,
+            291,
+            573.4869
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

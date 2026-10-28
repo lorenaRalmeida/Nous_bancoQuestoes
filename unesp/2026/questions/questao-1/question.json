@@ -1,0 +1,279 @@
+{
+  "title": "Questão 1 - UNESP 2026 - 1ª fase",
+  "index": 1,
+  "year": 2026,
+  "discipline": "Português",
+  "language": null,
+  "context": "Para responder às questões de 01 a 05, leia um trecho do\nromance ilustrado As aventuras de Nhô Quim: ou impressões\nde uma viagem à Corte, de Angelo Agostini (1843-1910) e\nCândido Aragonez de Faria (1849-1911), publicado originalmente entre 30 de janeiro de 1869 e 12 de outubro de 1872.\nO Dia do Quadrinho Nacional é celebrado em 30 de janeiro\nem razão justamente da data de publicação do primeiro capítulo desse romance ilustrado.\nNhô1 Quim, jovem de vinte anos, filho único de gente rica\nporém honrada, namorara-se de sinhá Rosa, moça virtuosa,\nmas que... de louça nem um pires. O velho Quim, tendo só\nem vista a felicidade do pequeno, entende que mulher sem\ndinheiro é asneira; e por isso em lugar de mandar o filho plantar batatas, (o que seria muito proveitoso na roça), resolve-o\na dar um passeio à Corte para distraí-lo.\n(Angelo Agostini e Cândido Aragonez de Faria. As aventuras do Nhô\nQuim: ou impressões de uma viagem à Corte, 2024. Adaptado.)\n1 nhô: tratamento reverente dispensado originalmente aos brancos,\nespecialmente aos patrões ou proprietários, pelos escravizados.\n2 ruço: pelo castanho-claro.\n3 selim: sela para montaria.\n4 ratão: indivíduo excêntrico, extravagante.\n5 caiporismo: estado, condição ou qualidade de quem é caipora, infeliz ou\nazarado em tudo ou quase tudo que faz ou que lhe sucede.\n\nDepreende-se do início do romance ilustrado que a viagem\nde Nhô Quim à Corte se deve",
+  "files": [
+    "imagem-01.png",
+    "imagem-02.png",
+    "imagem-03.png",
+    "imagem-04.png",
+    "imagem-05.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png",
+    "figura-vetorial-06.png",
+    "figura-vetorial-07.png",
+    "figura-vetorial-08.png",
+    "figura-vetorial-09.png",
+    "figura-vetorial-10.png",
+    "figura-vetorial-11.png",
+    "figura-vetorial-12.png",
+    "figura-vetorial-13.png",
+    "figura-vetorial-14.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ao seu receio de ter que se casar com uma mulher de\níndole duvidosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à sua falta de habilidade com as atividades agrícolas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à sua falta de interesse pelos negócios do pai na roça.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à sua desconfiança de que a namorada estaria interessada apenas em ascender socialmente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ao seu envolvimento com uma mulher pertencente a um\nestrato social inferior.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Depreende-se do início do romance ilustrado que a viagem\nde Nhô Quim à Corte se deve\n(A) ao seu receio de ter que se casar com uma mulher de\níndole duvidosa.\n(B) à sua falta de habilidade com as atividades agrícolas.\n(C) à sua falta de interesse pelos negócios do pai na roça.\n(D) à sua desconfiança de que a namorada estaria interessa-\nda apenas em ascender socialmente.\n(E) ao seu envolvimento com uma mulher pertencente a um\nestrato social inferior.",
+    "sharedContext": "Para responder às questões de 01 a 05, leia um trecho do\nromance ilustrado As aventuras de Nhô Quim: ou impressões\nde uma viagem à Corte, de Angelo Agostini (1843-1910) e\nCândido Aragonez de Faria (1849-1911), publicado originalmente entre 30 de janeiro de 1869 e 12 de outubro de 1872.\nO Dia do Quadrinho Nacional é celebrado em 30 de janeiro\nem razão justamente da data de publicação do primeiro capítulo desse romance ilustrado.\nNhô1 Quim, jovem de vinte anos, filho único de gente rica\nporém honrada, namorara-se de sinhá Rosa, moça virtuosa,\nmas que... de louça nem um pires. O velho Quim, tendo só\nem vista a felicidade do pequeno, entende que mulher sem\ndinheiro é asneira; e por isso em lugar de mandar o filho plantar batatas, (o que seria muito proveitoso na roça), resolve-o\na dar um passeio à Corte para distraí-lo.\n(Angelo Agostini e Cândido Aragonez de Faria. As aventuras do Nhô\nQuim: ou impressões de uma viagem à Corte, 2024. Adaptado.)\n1 nhô: tratamento reverente dispensado originalmente aos brancos,\nespecialmente aos patrões ou proprietários, pelos escravizados.\n2 ruço: pelo castanho-claro.\n3 selim: sela para montaria.\n4 ratão: indivíduo excêntrico, extravagante.\n5 caiporismo: estado, condição ou qualidade de quem é caipora, infeliz ou\nazarado em tudo ou quase tudo que faz ou que lhe sucede.",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 2,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 2,
+          "bbox": [
+            304,
+            22,
+            568,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            222.05409999999995
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 2,
+        "bbox": [
+          49.7797,
+          316.12919999999997,
+          156.9729949,
+          375.2711
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 2,
+        "bbox": [
+          148.2607,
+          316.19409999999993,
+          268.3742,
+          356.5745
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 2,
+        "bbox": [
+          30,
+          465.7853,
+          184.55899490000002,
+          523.3839
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 2,
+        "bbox": [
+          178.1873,
+          466.59680000000003,
+          280.3156,
+          497.3541
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 2,
+        "bbox": [
+          197.365,
+          642.7074,
+          291,
+          710.901
+        ]
+      },
+      {
+        "file": "figura-vetorial-06.png",
+        "page": 2,
+        "bbox": [
+          30,
+          642.9046,
+          111.9202,
+          700.4729
+        ]
+      },
+      {
+        "file": "figura-vetorial-07.png",
+        "page": 2,
+        "bbox": [
+          104.001,
+          643.0255999999999,
+          184.19289999999998,
+          691.6571
+        ]
+      },
+      {
+        "file": "figura-vetorial-08.png",
+        "page": 2,
+        "bbox": [
+          380.7533,
+          129.97500000000002,
+          447.9715,
+          251.69619999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-09.png",
+        "page": 2,
+        "bbox": [
+          304,
+          130.03229999999996,
+          389.70419999999996,
+          205.5765
+        ]
+      },
+      {
+        "file": "figura-vetorial-10.png",
+        "page": 2,
+        "bbox": [
+          437.4327,
+          130.063,
+          507.9238,
+          242.87469999999996
+        ]
+      },
+      {
+        "file": "figura-vetorial-11.png",
+        "page": 2,
+        "bbox": [
+          500.3901,
+          130.47479999999996,
+          566.2095999999999,
+          331.03650000000005
+        ]
+      },
+      {
+        "file": "figura-vetorial-12.png",
+        "page": 2,
+        "bbox": [
+          304,
+          432.5735,
+          406.9728,
+          499.0791
+        ]
+      },
+      {
+        "file": "figura-vetorial-13.png",
+        "page": 2,
+        "bbox": [
+          396.7648,
+          433.0085,
+          494.92901079999996,
+          518.9858
+        ]
+      },
+      {
+        "file": "figura-vetorial-14.png",
+        "page": 2,
+        "bbox": [
+          486.5518,
+          433.1112,
+          558.1847,
+          581.5466
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

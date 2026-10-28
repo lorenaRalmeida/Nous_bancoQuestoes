@@ -1,0 +1,108 @@
+{
+  "title": "Questão 34 - UNICAMP 2026 - 1ª fase",
+  "index": 34,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "Nas concepções de cidadania e nacionalidade em vigor a partir do século XIX, a filiação formal a um país é geralmente adquirida no\nnascimento, seja pelo jus soli (direito de solo) ou pelo jus sanguinis (direito de sangue). O jus soli atribui a nacionalidade com base\nno nascimento no território de um país; o jus sanguinis atribui às crianças a nacionalidade de seus pais. A dicotomia soli/sanguinis\nfoi uma invenção do século XIX. Os impérios europeus do Antigo Regime atribuíam a pertença à comunidade com base em um ou\noutro princípio único de direito natural.\n(Adaptado de PERL-ROSENTHAL, N. E.; ERMAN, S. Inventing Birthright: The Nineteenth-Century Fabrication of Jus Soli and Jus Sanguinis. Law and History Review 42, n. 3, p. 421-48, 2024.)\nDistribuição do princípio de nacionalidade no mundo contemporâneo\nLegenda:\nPredomínio do princípio do jus soli\nPredomínio do jus sanguinis\nSem definição\n(Adaptado de The Law Library of Congress, 2020.)\nConsiderando o texto e o mapa, assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Filhos de estrangeiros nascidos em países europeus adqui-",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "As ex-colônias europeias nas Américas eram importantes",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Regimes populistas proibiram que os nascidos nos novos\nriam a nacionalidade e a cidadania ao nascer, após o fim das países reivindicassem cidadania europeia, após as indepenrevoluções burguesas. dências americanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O jus sanguinis era utilizado nas colônias como um instrudestinos de imigrantes, o que influenciou suas definições de mento de controle pela Europa para dificultar o acesso à\ncidadania e nacionalidade. cidadania dos povos nativos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Nas concepções de cidadania e nacionalidade em vigor a partir do século XIX, a filiação formal a um país é geralmente adquirida no\nnascimento, seja pelo jus soli (direito de solo) ou pelo jus sanguinis (direito de sangue). O jus soli atribui a nacionalidade com base\nno nascimento no território de um país; o jus sanguinis atribui às crianças a nacionalidade de seus pais. A dicotomia soli/sanguinis\nfoi uma invenção do século XIX. Os impérios europeus do Antigo Regime atribuíam a pertença à comunidade com base em um ou\noutro princípio único de direito natural.\n(Adaptado de PERL-ROSENTHAL, N. E.; ERMAN, S. Inventing Birthright: The Nineteenth-Century Fabrication of Jus Soli and Jus Sanguinis. Law and History Review 42, n. 3, p. 421-48, 2024.)\nDistribuição do princípio de nacionalidade no mundo contemporâneo\nLegenda:\nPredomínio do princípio do jus soli\nPredomínio do jus sanguinis\nSem definição\n(Adaptado de The Law Library of Congress, 2020.)\nConsiderando o texto e o mapa, assinale a alternativa correta.\na) Filhos de estrangeiros nascidos em países europeus adqui- c) Regimes populistas proibiram que os nascidos nos novos\nriam a nacionalidade e a cidadania ao nascer, após o fim das países reivindicassem cidadania europeia, após as indepen-\nrevoluções burguesas. dências americanas.\nb) As ex-colônias europeias nas Américas eram importantes d) O jus sanguinis era utilizado nas colônias como um instru-\ndestinos de imigrantes, o que influenciou suas definições de mento de controle pela Europa para dificultar o acesso à\ncidadania e nacionalidade. cidadania dos povos nativos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            353.1656,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.30740000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 14,
+        "bbox": [
+          30,
+          636.806,
+          221.08249999999998,
+          698.1813
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Geografia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

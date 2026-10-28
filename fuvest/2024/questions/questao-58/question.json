@@ -1,0 +1,90 @@
+{
+  "title": "Questão 58 - FUVEST 2024 - 1ª fase",
+  "index": 58,
+  "year": 2024,
+  "discipline": "Química",
+  "language": null,
+  "context": "No processo de compra e venda de artigos de ouro, é comum\ntestar os objetos para verificar se eles realmente são feitos de\nouro ou se são alguma falsificação feita com metais menos\nnobres. Esse teste pode ser feito adicionando um pequeno\nvolume de ácido forte concentrado às raspas do objeto a ser\ntestado, conforme figura a seguir. Caso o objeto seja feito com\nouro, as raspas permanecem visíveis, enquanto as raspas de\nfalsificações são dissolvidas.\nConsiderando apenas o potencial de redução padrão, qual das\nalternativas apresenta um material que poderia gerar um\nfalso positivo para o objeto de ouro no teste descrito?\n\nNote e adote:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Mg",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Al Mg 2++ 2eꟷ ⇌ Mg0 E° = −2,37 V",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Fe Al 3+ + 3eꟷ ⇌ Al 0 E° = − 1,66 V",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Pt Fe2+ + 2eꟷ ⇌ Fe0 E° = − 0,44 V",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "F\n2H+ + 2eꟷ ⇌ H2 E° = 0,00 V\n2 Pt 2+ + 2eꟷ ⇌ Pt0 E° = + 1,20 V\nAu 3+ + 3eꟷ ⇌ Au0 E° = + 1,50 V\nF2 + 2eꟷ ⇌ 2F ꟷ E° = + 2,87 V",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "No processo de compra e venda de artigos de ouro, é comum\ntestar os objetos para verificar se eles realmente são feitos de\nouro ou se são alguma falsificação feita com metais menos\nnobres. Esse teste pode ser feito adicionando um pequeno\nvolume de ácido forte concentrado às raspas do objeto a ser\ntestado, conforme figura a seguir. Caso o objeto seja feito com\nouro, as raspas permanecem visíveis, enquanto as raspas de\nfalsificações são dissolvidas.\nConsiderando apenas o potencial de redução padrão, qual das\nalternativas apresenta um material que poderia gerar um\nfalso positivo para o objeto de ouro no teste descrito?\n(A) Mg Note e adote:\n(B) Al Mg 2++ 2eꟷ ⇌ Mg0 E° = −2,37 V\n(C) Fe Al 3+ + 3eꟷ ⇌ Al 0 E° = − 1,66 V\n(D) Pt Fe2+ + 2eꟷ ⇌ Fe0 E° = − 0,44 V\n(E) F\n2H+ + 2eꟷ ⇌ H2 E° = 0,00 V\n2 Pt 2+ + 2eꟷ ⇌ Pt0 E° = + 1,20 V\nAu 3+ + 3eꟷ ⇌ Au0 E° = + 1,50 V\nF2 + 2eꟷ ⇌ 2F ꟷ E° = + 2,87 V",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            28,
+            40.134700000000066,
+            297.5,
+            397.79470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "topic": "Potenciais de redução e identificação de metais",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

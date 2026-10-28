@@ -1,0 +1,178 @@
+{
+  "title": "Questão 82 - UNESP 2024 - 1ª fase",
+  "index": 82,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Alguns peixes, como os tubarões, orientam-se sentindo\no campo magnético da Terra. Como cada local na Terra tem\numa assinatura magnética diferente, supõem-se que esses\npeixes possam guardar no cérebro algum tipo de mapa magnético que os informa sobre onde estão. Para verificar essa\nsuposição, foi realizado um experimento colocando tubarões\nem um tanque cercado por um cubo envolto em fios de cobre, pelos quais fez-se passar corrente elétrica. Essa corrente modificou o campo magnético da região, desorientando os\ntubarões.\n(www.nationalgeographicbrasil.com. Adaptado.)\nSuponha que a figura, fora de escala, represente uma das faces do cubo que cercou o tanque em que esse experimento\nfoi realizado, envolvido por um fio de cobre com o formato de\num solenoide, percorrido por uma corrente elétrica contínua (i)\nno sentido indicado. Considere que um tubarão esteja nadando ao longo do eixo longitudinal do solenoide, sujeito, simultaneamente, ao campo magnético criado pela Terra na região,\n, indicado na figura, e ao campo magnético criado pela corrente que circula pelo solenoide.\nConsidere que esteja contido no plano da figura, que\nrepresente um vetor saindo do plano desta folha e que\nrepresente um vetor entrando no plano desta folha. A representação do campo magnético sentido pelo tubarão, devido\naos efeitos simultâneos do campo magnético terrestre e da\ncorrente que circula pelo solenoide, é:",
+  "files": [
+    "alternativa-A-01.png",
+    "alternativa-B-01.png",
+    "alternativa-C-01.png",
+    "alternativa-D-01.png",
+    "alternativa-E-01.png",
+    "alternativa-E-02.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png",
+    "figura-vetorial-05.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "alternativa-A-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "alternativa-B-01.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "alternativa-C-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "alternativa-D-01.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "alternativa-E-01.png",
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Alguns peixes, como os tubarões, orientam-se sentindo\no campo magnético da Terra. Como cada local na Terra tem\numa assinatura magnética diferente, supõem-se que esses\npeixes possam guardar no cérebro algum tipo de mapa mag-\nnético que os informa sobre onde estão. Para verificar essa\nsuposição, foi realizado um experimento colocando tubarões\nem um tanque cercado por um cubo envolto em fios de co-\nbre, pelos quais fez-se passar corrente elétrica. Essa corren-\nte modificou o campo magnético da região, desorientando os\ntubarões.\n(www.nationalgeographicbrasil.com. Adaptado.)\nSuponha que a figura, fora de escala, represente uma das fa-\nces do cubo que cercou o tanque em que esse experimento\nfoi realizado, envolvido por um fio de cobre com o formato de\num solenoide, percorrido por uma corrente elétrica contínua (i)\nno sentido indicado. Considere que um tubarão esteja nadan-\ndo ao longo do eixo longitudinal do solenoide, sujeito, simulta-\nneamente, ao campo magnético criado pela Terra na região,\n, indicado na figura, e ao campo magnético criado pela cor-\nrente que circula pelo solenoide.\nConsidere que esteja contido no plano da figura, que\nrepresente um vetor saindo do plano desta folha e que\nrepresente um vetor entrando no plano desta folha. A repre-\nsentação do campo magnético sentido pelo tubarão, devido\naos efeitos simultâneos do campo magnético terrestre e da\ncorrente que circula pelo solenoide, é:\n(A)\n(B)\n(C)\n(D)\n(E)",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 31,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {
+      "A": [
+        "alternativa-A-01.png"
+      ],
+      "B": [
+        "alternativa-B-01.png"
+      ],
+      "C": [
+        "alternativa-C-01.png"
+      ],
+      "D": [
+        "alternativa-D-01.png"
+      ],
+      "E": [
+        "alternativa-E-01.png",
+        "alternativa-E-02.png"
+      ]
+    },
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 31,
+        "bbox": [
+          304,
+          274.71449999999993,
+          323.1762,
+          302.81769999999995
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 31,
+        "bbox": [
+          311.15166,
+          318.874,
+          524.3711522,
+          502.759
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 31,
+        "bbox": [
+          514.70906,
+          325.99318,
+          547.4556600000001,
+          415.19348
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 31,
+        "bbox": [
+          541.0636,
+          495.973,
+          568,
+          537.4053
+        ]
+      },
+      {
+        "file": "figura-vetorial-05.png",
+        "page": 31,
+        "bbox": [
+          362.9071,
+          496.82529999999997,
+          388.48199999999997,
+          524.9286
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

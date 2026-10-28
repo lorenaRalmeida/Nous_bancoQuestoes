@@ -1,0 +1,123 @@
+{
+  "title": "Questão 81 - UNESP 2023 - 1ª fase",
+  "index": 81,
+  "year": 2023,
+  "discipline": "Física",
+  "language": null,
+  "context": "Nos instrumentos musicais de corda, as cordas apresentam\ndiferentes espessuras e diferentes densidades lineares de\nmassa, para que aquelas que emitem sons mais graves não\nprecisem ser muito longas, o que inviabilizaria a construção\ndo instrumento.\nDetalhes das cordas de um violoncelo\n(pt.wikipedia.org)\nPara ilustrar o fato de que cordas que emitem sons mais graves precisariam ser muito longas, considere duas cordas, 1 e\n2, ambas com extremidades fixas, que apresentem espessuras iguais, mesma densidade linear de massa e que estejam\nsubmetidas à mesma força de tração.\nQuando essas cordas vibram em seus modos fundamentais,\na frequência da onda sonora emitida pela corda 1 é 150 vezes maior do que a frequência da onda sonora emitida pela\ncorda 2. Sabendo que a corda 1 mede L = 5 cm, o compri-\n1\nmento L da corda 2 deve ser de\n2",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7,5 m.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "8,0 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "5,0 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2,5 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,5 m.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Nos instrumentos musicais de corda, as cordas apresentam\ndiferentes espessuras e diferentes densidades lineares de\nmassa, para que aquelas que emitem sons mais graves não\nprecisem ser muito longas, o que inviabilizaria a construção\ndo instrumento.\nDetalhes das cordas de um violoncelo\n(pt.wikipedia.org)\nPara ilustrar o fato de que cordas que emitem sons mais gra-\nves precisariam ser muito longas, considere duas cordas, 1 e\n2, ambas com extremidades fixas, que apresentem espessu-\nras iguais, mesma densidade linear de massa e que estejam\nsubmetidas à mesma força de tração.\nQuando essas cordas vibram em seus modos fundamentais,\na frequência da onda sonora emitida pela corda 1 é 150 ve-\nzes maior do que a frequência da onda sonora emitida pela\ncorda 2. Sabendo que a corda 1 mede L = 5 cm, o compri-\n1\nmento L da corda 2 deve ser de\n2\n(A) 7,5 m.\n(B) 8,0 m.\n(C) 5,0 m.\n(D) 2,5 m.\n(E) 1,5 m.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 30,
+        "bbox": [
+          99.171998,
+          330.9552,
+          232.429002,
+          413.8828
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 30,
+        "bbox": [
+          137.7188,
+          423.08119999999997,
+          187.0255,
+          445.74219999999997
+        ]
+      }
+    ],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

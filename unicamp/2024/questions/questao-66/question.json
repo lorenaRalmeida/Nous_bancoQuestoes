@@ -1,0 +1,84 @@
+{
+  "title": "Questão 66 - UNICAMP 2024 - 1ª fase",
+  "index": 66,
+  "year": 2024,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Texto 1\nI have a dream that one day down in Alabama, with its vicious\nracists, with its governor having his lips dripping with the words\nof interposition and nullification; that one day right down in\nAlabama little black boys and black girls will be able to join\nhands with little white boys and white girls as sisters and\nbrothers (Martin Luther King, 1963).\n(Adaptado de: https://kr.usembassy.gov/martin-luther-king-jr-dream-speech-1963/.\nAcesso em 26/05/2023.)\nTexto 2\nConsidere os dois textos e assinale a alternativa correta.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O texto 2 apresenta uma consequência social advinda do\nfato de que o “sonho” mencionado no texto 1 tornou-se\nrealidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os textos 1 e 2 são complementares porque usam diferentes\nlinguagens para ilustrar a natureza velada do racismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O texto 2 funciona como um indício de que aquilo que se\nalmejava em 1 ainda não se tornou realidade em todos os\ncontextos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Os textos 1 e 2 são contraditórios porque empregam diferentes recursos de linguagem para tratar do racismo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Texto 1\nI have a dream that one day down in Alabama, with its vicious\nracists, with its governor having his lips dripping with the words\nof interposition and nullification; that one day right down in\nAlabama little black boys and black girls will be able to join\nhands with little white boys and white girls as sisters and\nbrothers (Martin Luther King, 1963).\n(Adaptado de: https://kr.usembassy.gov/martin-luther-king-jr-dream-speech-1963/.\nAcesso em 26/05/2023.)\nTexto 2\nConsidere os dois textos e assinale a alternativa correta.\na) O texto 2 apresenta uma consequência social advinda do\nfato de que o “sonho” mencionado no texto 1 tornou-se\nrealidade.\nb) Os textos 1 e 2 são complementares porque usam diferentes\nlinguagens para ilustrar a natureza velada do racismo.\nc) O texto 2 funciona como um indício de que aquilo que se\nalmejava em 1 ainda não se tornou realidade em todos os\ncontextos.\nd) Os textos 1 e 2 são contraditórios porque empregam dife-\nrentes recursos de linguagem para tratar do racismo.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            238.27430000000004,
+            291,
+            701.1105
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

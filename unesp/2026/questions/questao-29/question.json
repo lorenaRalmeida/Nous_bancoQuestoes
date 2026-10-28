@@ -1,0 +1,111 @@
+{
+  "title": "Questão 29 - UNESP 2026 - 1ª fase",
+  "index": 29,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "(www.farmprogress.com, 25.03.2025. Adaptado.)\n1 acreage: an area of land measured in acres.\n2 bushel: a measure internationally used for grains; for soybean, it is\nequivalent to 27,216 kg.\nAccording to the information presented in the chart,",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "the 2016-17 production fell, despite an increase in\nplanted area.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "the planted area is proportional to the soybean production\nin all the periods of time.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "the increase in planted area not necessarily results in\na greater production.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "the planted area has been increasing at a constant\nacreage from 2015 to 2025.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "from 2020 onwards, there has been a steady decrease\nin soybean production.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "(www.farmprogress.com, 25.03.2025. Adaptado.)\n1 acreage: an area of land measured in acres.\n2 bushel: a measure internationally used for grains; for soybean, it is\nequivalent to 27,216 kg.\nAccording to the information presented in the chart,\n(A) the 2016-17 production fell, despite an increase in\nplanted area.\n(B) the planted area is proportional to the soybean production\nin all the periods of time.\n(C) the increase in planted area not necessarily results in\na greater production.\n(D) the planted area has been increasing at a constant\nacreage from 2015 to 2025.\n(E) from 2020 onwards, there has been a steady decrease\nin soybean production.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            193.14070000000004,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 11,
+        "bbox": [
+          30,
+          212.14070000000004,
+          291,
+          408.497
+        ]
+      }
+    ],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

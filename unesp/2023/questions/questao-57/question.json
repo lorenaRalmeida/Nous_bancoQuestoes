@@ -1,0 +1,88 @@
+{
+  "title": "Questão 57 - UNESP 2023 - 1ª fase",
+  "index": 57,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "A ciência avançou tanto que as pessoas acham que não\nprecisam mais morrer. Continuamos usando todos os artifícios da tecnologia, da ciência, para endossar a fantasia de\nque todo mundo vai ter comida, todo mundo vai ter geladeira,\ntodo mundo vai ter leito hospitalar e todo mundo vai morrer\nmais tarde. Isso é uma falsificação da vida. A ciência e a tecnologia acham que a humanidade não só pode incidir impunemente sobre o planeta como será a última espécie sobrevivente e a única a decolar daqui quando tudo for pelo ralo.\n(Ailton Krenak. A vida não é útil, 2020. Adaptado.)\nA situação criticada pelo filósofo e líder indígena Ailton\nKrenak é fruto de uma visão de mundo decorrente do pensamento moderno, qual seja,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o mecanicismo cartesiano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o idealismo hegeliano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o transcendentalismo kantiano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o jusnaturalismo lockiano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o existencialismo sartriano.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A ciência avançou tanto que as pessoas acham que não\nprecisam mais morrer. Continuamos usando todos os artifí-\ncios da tecnologia, da ciência, para endossar a fantasia de\nque todo mundo vai ter comida, todo mundo vai ter geladeira,\ntodo mundo vai ter leito hospitalar e todo mundo vai morrer\nmais tarde. Isso é uma falsificação da vida. A ciência e a tec-\nnologia acham que a humanidade não só pode incidir impu-\nnemente sobre o planeta como será a última espécie sobre-\nvivente e a única a decolar daqui quando tudo for pelo ralo.\n(Ailton Krenak. A vida não é útil, 2020. Adaptado.)\nA situação criticada pelo filósofo e líder indígena Ailton\nKrenak é fruto de uma visão de mundo decorrente do pensa-\nmento moderno, qual seja,\n(A) o mecanicismo cartesiano.\n(B) o idealismo hegeliano.\n(C) o transcendentalismo kantiano.\n(D) o jusnaturalismo lockiano.\n(E) o existencialismo sartriano.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            334.4793
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

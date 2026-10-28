@@ -1,0 +1,108 @@
+{
+  "title": "Questão 60 - UNICAMP 2025 - 1ª fase",
+  "index": 60,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "O percentual da energia metabólica de um macronutriente em\num alimento pode ser obtido levando em conta tanto o percentual em massa desse macronutriente quanto a sua respectiva\nenergia metabólica por massa. Dos macronutrientes que nos\ninteressam, os principais são proteínas, carboidratos e gorduras;\nas fibras só entram nesses cálculos quando são digeríveis. As\ngorduras apresentam um valor de energia metabólica por massa cerca de 2,25 vezes o valor da energia metabólica associada\na carboidratos ou a proteínas.\nConsidere uma barra de chocolate cujos percentuais de energia\nsejam os apresentados conforme a tabela a seguir.\nproteínas gorduras carboidratos\nPercentual de energia 5% 52% 43%\nA partir dessas informações, pode-se afirmar que, em comparação com os respectivos percentuais em energia, os percentuais\nem massa de",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "proteínas e carboidratos serão maiores e o percentual de\ngordura será menor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "proteínas, carboidratos e gorduras serão maiores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "proteínas e carboidratos serão menores e o percentual de\ngordura será maior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "proteínas, carboidratos e gorduras serão menores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O percentual da energia metabólica de um macronutriente em\num alimento pode ser obtido levando em conta tanto o percen-\ntual em massa desse macronutriente quanto a sua respectiva\nenergia metabólica por massa. Dos macronutrientes que nos\ninteressam, os principais são proteínas, carboidratos e gorduras;\nas fibras só entram nesses cálculos quando são digeríveis. As\ngorduras apresentam um valor de energia metabólica por mas-\nsa cerca de 2,25 vezes o valor da energia metabólica associada\na carboidratos ou a proteínas.\nConsidere uma barra de chocolate cujos percentuais de energia\nsejam os apresentados conforme a tabela a seguir.\nproteínas gorduras carboidratos\nPercentual de energia 5% 52% 43%\nA partir dessas informações, pode-se afirmar que, em compara-\nção com os respectivos percentuais em energia, os percentuais\nem massa de\na) proteínas e carboidratos serão maiores e o percentual de\ngordura será menor.\nb) proteínas, carboidratos e gorduras serão maiores.\nc) proteínas e carboidratos serão menores e o percentual de\ngordura será maior.\nd) proteínas, carboidratos e gorduras serão menores.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            573.4869,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            40,
+            568,
+            168.4724
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 20,
+        "bbox": [
+          30,
+          724.06,
+          291,
+          773.6481
+        ]
+      }
+    ],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Questão 83 - UNESP 2025 - 1ª fase",
+  "index": 83,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "O gráfico, feito em papel quadriculado, exibe os preços praticados em reais (R$) por cinco mercados diferentes (I, II, III,\nIV e V), com comercialização, em quilogramas (kg), de um\nmesmo tipo de castanha-de-caju.\nO mercado com preço mais vantajoso para o consumidor\nna compra de uma grande quantidade dessa castanha e o\nmercado em que o consumidor consegue comprar o triplo\ndessa castanha ao mesmo preço praticado pelo mercado II\nsão, respectivamente,",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I e III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "I e IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "I e V.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "V e IV.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "V e I.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O gráfico, feito em papel quadriculado, exibe os preços pra-\nticados em reais (R$) por cinco mercados diferentes (I, II, III,\nIV e V), com comercialização, em quilogramas (kg), de um\nmesmo tipo de castanha-de-caju.\nO mercado com preço mais vantajoso para o consumidor\nna compra de uma grande quantidade dessa castanha e o\nmercado em que o consumidor consegue comprar o triplo\ndessa castanha ao mesmo preço praticado pelo mercado II\nsão, respectivamente,\n(A) I e III.\n(B) I e IV.\n(C) I e V.\n(D) V e IV.\n(E) V e I.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 29,
+        "bbox": [
+          356.021,
+          123.702,
+          510.92100000000005,
+          154.42759999999998
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 29,
+        "bbox": [
+          345.0579,
+          147.37199999999996,
+          510.92100000000005,
+          234.76739999999995
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 29,
+        "bbox": [
+          349.4211,
+          234.54830000000004,
+          520.521,
+          266.02920000000006
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

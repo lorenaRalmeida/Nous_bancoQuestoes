@@ -1,0 +1,100 @@
+{
+  "title": "Questão 80 - FUVEST 2023 - 1ª fase",
+  "index": 80,
+  "year": 2023,
+  "discipline": "Química",
+  "language": null,
+  "context": "O processo de transporte de O para a respiração pode ser\n2\nentendido como um processo de equilíbrio químico entre a\nhemoglobina (Hb) e o O . A Hb é uma proteína do sangue\n2\nresponsável pelo transporte do O que também pode existir\n2\nna forma protonada como HbH+. Dependendo da\nconcentração de CO , podem ocorrer a alcalose ou a acidose\n2\nrespiratória. A ligação do oxigênio com a HbH+ gera a forma\noxigenada (HbO ), como pode ser representado pela equação\n2\nquímica simplificada:\nHbH+(aq) + O (g) ⇌ HbO (aq) + H+(aq)\n2 2\nO dióxido de carbono liberado na respiração pode alterar esse\nequilíbrio devido à formação de ácido carbônico,\nrepresentado pela equação:\nCO\n2\n(g) + H\n2\nO(l) ⇌ H+(aq) + HCO\n3\n−(aq)\nCom base nessas informações, é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Nos pulmões, onde a concentração de oxigênio é mais\nelevada, a forma de hemoglobina favorecida é a\nprotonada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Nos tecidos humanos, onde é consumido O pelo\n2\nmetabolismo, a forma de hemoglobina favorecida é a\nHbO .\n2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Quando uma pessoa expira mais depressa que o normal, a\nconcentração de dióxido de carbono no seu sangue\ndiminui e, nessas situações, a forma de hemoglobina\nfavorecida é a forma protonada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Nos tecidos humanos, onde é liberado dióxido de carbono\nproduzido pelo metabolismo, a forma de hemoglobina\nfavorecida é a forma protonada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Nos tecidos humanos, onde é liberado dióxido de carbono\nproduzido pelo metabolismo, a forma de hemoglobina\nfavorecida é a HbO .\n2",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O processo de transporte de O para a respiração pode ser\n2\nentendido como um processo de equilíbrio químico entre a\nhemoglobina (Hb) e o O . A Hb é uma proteína do sangue\n2\nresponsável pelo transporte do O que também pode existir\n2\nna forma protonada como HbH+. Dependendo da\nconcentração de CO , podem ocorrer a alcalose ou a acidose\n2\nrespiratória. A ligação do oxigênio com a HbH+ gera a forma\noxigenada (HbO ), como pode ser representado pela equação\n2\nquímica simplificada:\nHbH+(aq) + O (g) ⇌ HbO (aq) + H+(aq)\n2 2\nO dióxido de carbono liberado na respiração pode alterar esse\nequilíbrio devido à formação de ácido carbônico,\nrepresentado pela equação:\nCO\n2\n(g) + H\n2\nO(l) ⇌ H+(aq) + HCO\n3\n−(aq)\nCom base nessas informações, é correto afirmar:\n(A) Nos pulmões, onde a concentração de oxigênio é mais\nelevada, a forma de hemoglobina favorecida é a\nprotonada.\n(B) Nos tecidos humanos, onde é consumido O pelo\n2\nmetabolismo, a forma de hemoglobina favorecida é a\nHbO .\n2\n(C) Quando uma pessoa expira mais depressa que o normal, a\nconcentração de dióxido de carbono no seu sangue\ndiminui e, nessas situações, a forma de hemoglobina\nfavorecida é a forma protonada.\n(D) Nos tecidos humanos, onde é liberado dióxido de carbono\nproduzido pelo metabolismo, a forma de hemoglobina\nfavorecida é a forma protonada.\n(E) Nos tecidos humanos, onde é liberado dióxido de carbono\nproduzido pelo metabolismo, a forma de hemoglobina\nfavorecida é a HbO .\n2",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            297.5,
+            159.11469999999997,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 25,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "topic": "Equilíbrio químico da hemoglobina",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 41 - FUVEST 2023 - 1ª fase",
+  "index": 41,
+  "year": 2023,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "“Eu quase fui um índio sacana, como meu tio. (...) Desses índio\nque são índio pela metade. Ou seja, qui nem índio, nem\nbranco, nem cholo, nem negro, nem serrano, nem costeiro,\nnem camponês, nem equatoriano, nem estrangeiro, nem\nnada. Índio sacana, claro. Índio qu’está à vista de toda gente\ne ninguém vê, qu’está mesminho nas ruas todos os dias,\ncaminhando pra lá pra cá, buscando trabalho nas porta de\ngente rica, de jardineiro, de mensageiro, cuidador de\ncachorros, saloneiro, caseiro, criador de crianças, de toda\nclasse de trabalho. Chofer. O Equador está cheinho de índio\nsacana assim. Desse tipo d’índio que não é nada”.\nCARVALHO-NETO, Paulo de. Meu tio Atahualpa. Rio de Janeiro: Salamandra,\n1978.\nA expressão “índio sacana”, presente no texto, faz referência a:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Uma parcela da população indígena caracterizada por sua\nautonomia e resistência às formas pós-coloniais de\ndominação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Um grupo social cuja inserção na sociedade equatoriana\nfoi complexa e limitada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Uma etnia que historicamente alcançou a emancipação\npolítica e social por meio da assimilação da cultura\neuropeia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Um conjunto de indivíduos de nacionalidade estrangeira\ncujos hábitos e costumes contrastavam com os da\npopulação local.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Um segmento que ganhou visibilidade por ocupar\nposições sociais de prestígio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Eu quase fui um índio sacana, como meu tio. (...) Desses índio\nque são índio pela metade. Ou seja, qui nem índio, nem\nbranco, nem cholo, nem negro, nem serrano, nem costeiro,\nnem camponês, nem equatoriano, nem estrangeiro, nem\nnada. Índio sacana, claro. Índio qu’está à vista de toda gente\ne ninguém vê, qu’está mesminho nas ruas todos os dias,\ncaminhando pra lá pra cá, buscando trabalho nas porta de\ngente rica, de jardineiro, de mensageiro, cuidador de\ncachorros, saloneiro, caseiro, criador de crianças, de toda\nclasse de trabalho. Chofer. O Equador está cheinho de índio\nsacana assim. Desse tipo d’índio que não é nada”.\nCARVALHO-NETO, Paulo de. Meu tio Atahualpa. Rio de Janeiro: Salamandra,\n1978.\nA expressão “índio sacana”, presente no texto, faz referência a:\n(A) Uma parcela da população indígena caracterizada por sua\nautonomia e resistência às formas pós-coloniais de\ndominação.\n(B) Um grupo social cuja inserção na sociedade equatoriana\nfoi complexa e limitada.\n(C) Uma etnia que historicamente alcançou a emancipação\npolítica e social por meio da assimilação da cultura\neuropeia.\n(D) Um conjunto de indivíduos de nacionalidade estrangeira\ncujos hábitos e costumes contrastavam com os da\npopulação local.\n(E) Um segmento que ganhou visibilidade por ocupar\nposições sociais de prestígio.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            507.77459999999996,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            152.4547
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [
+        "História"
+      ],
+      "topic": "Identidade e marginalização indígena",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

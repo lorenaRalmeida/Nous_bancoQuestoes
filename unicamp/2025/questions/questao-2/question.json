@@ -1,0 +1,94 @@
+{
+  "title": "Questão 2 - UNICAMP 2025 - 1ª fase",
+  "index": 2,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "Para além das guerras Rússia-Ucrânia e Israel-Palestina, estão\nem curso, em quase todos os continentes, conflitos que retratam mutações geopolíticas aceleradas. Há um movimento de\nredefinição de fronteiras até então reconhecidas pela comunidade internacional e, de certo modo, protegidas por um complexo arcabouço normativo. Na América Latina, por exemplo,\na Venezuela reivindica da Guiana a região de Essequibo, cujo\nlimite fronteiriço foi definido há 125 anos.\n(Adaptado de https://www.courrierinternational.com/article/analyse-depuis-les-guerres-\n-en-ukraine-et-a-gaza-les-frontieres-ne-sont-plus-intangibles. Acesso em 06/06/2024.)\nTendo em vista seus conhecimentos e considerando o texto anterior, é correto dizer que a fronteira entre países é essencialmente",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "geométrica: trata-se de uma linha demarcada por formas\ngeográficas tais como muros, cercas ou vias de circulação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "política: trata-se de uma zona definida por meio de disputas\ne acordos internacionais pelo direito de uso de um determinado território.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "natural: trata-se de uma linha demarcada por meio de marcos geográficos tais como rios, mares, lagos, geleiras e montanhas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "técnica: trata-se de uma zona definida por tratados e convenções locais que protegem a soberania do Estado-nação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Para além das guerras Rússia-Ucrânia e Israel-Palestina, estão\nem curso, em quase todos os continentes, conflitos que retra-\ntam mutações geopolíticas aceleradas. Há um movimento de\nredefinição de fronteiras até então reconhecidas pela comuni-\ndade internacional e, de certo modo, protegidas por um com-\nplexo arcabouço normativo. Na América Latina, por exemplo,\na Venezuela reivindica da Guiana a região de Essequibo, cujo\nlimite fronteiriço foi definido há 125 anos.\n(Adaptado de https://www.courrierinternational.com/article/analyse-depuis-les-guerres-\n-en-ukraine-et-a-gaza-les-frontieres-ne-sont-plus-intangibles. Acesso em 06/06/2024.)\nTendo em vista seus conhecimentos e considerando o texto an-\nterior, é correto dizer que a fronteira entre países é essencial-\nmente\na) geométrica: trata-se de uma linha demarcada por formas\ngeográficas tais como muros, cercas ou vias de circulação.\nb) política: trata-se de uma zona definida por meio de disputas\ne acordos internacionais pelo direito de uso de um determi-\nnado território.\nc) natural: trata-se de uma linha demarcada por meio de mar-\ncos geográficos tais como rios, mares, lagos, geleiras e mon-\ntanhas.\nd) técnica: trata-se de uma zona definida por tratados e con-\nvenções locais que protegem a soberania do Estado-nação.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            642.246,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            40,
+            568,
+            245.37630000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

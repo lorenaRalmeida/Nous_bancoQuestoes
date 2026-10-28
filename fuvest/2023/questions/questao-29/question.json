@@ -1,0 +1,102 @@
+{
+  "title": "Questão 29 - FUVEST 2023 - 1ª fase",
+  "index": 29,
+  "year": 2023,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A figura a seguir ilustra o xiquexique, um cacto nativo da\nCaatinga.\nDisponível em Wikimedia Commons.\nDada sua alta capacidade de armazenamento de água, a\nplanta é muito utilizada para alimentação de bovinos, de\ncaprinos e, inclusive, de seres humanos, especialmente\ndurante os períodos de seca, como aludido em Angústia:\n(...) “Amaro vaqueiro alimentava-se, nas secas, com sementes\nde mucunã lavadas em sete águas, raiz de imbu, miolo de\nxiquexique, e de tempos a tempos furtava uma cabra no\nchiqueiro e atirava a culpa à suçuarana”.(...)\nGraciliano Ramos, Angústia.\nO acúmulo de água no xiquexique é possível pela",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diminuição da perda de água devido às folhas modificadas\nem espinhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "menor taxa de fotossíntese, por apresentarem menor área\nde superfície foliar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "presença de células especializadas no parênquima\naquífero do caule da planta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "raiz avantajada que capta melhor a água disponível na\nsuperfície do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "adaptação das folhas que podem acumular água em seu\ninterior.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A figura a seguir ilustra o xiquexique, um cacto nativo da\nCaatinga.\nDisponível em Wikimedia Commons.\nDada sua alta capacidade de armazenamento de água, a\nplanta é muito utilizada para alimentação de bovinos, de\ncaprinos e, inclusive, de seres humanos, especialmente\ndurante os períodos de seca, como aludido em Angústia:\n(...) “Amaro vaqueiro alimentava-se, nas secas, com sementes\nde mucunã lavadas em sete águas, raiz de imbu, miolo de\nxiquexique, e de tempos a tempos furtava uma cabra no\nchiqueiro e atirava a culpa à suçuarana”.(...)\nGraciliano Ramos, Angústia.\nO acúmulo de água no xiquexique é possível pela\n(A) diminuição da perda de água devido às folhas modificadas\nem espinhos.\n(B) menor taxa de fotossíntese, por apresentarem menor área\nde superfície foliar.\n(C) presença de células especializadas no parênquima\naquífero do caule da planta.\n(D) raiz avantajada que capta melhor a água disponível na\nsuperfície do solo.\n(E) adaptação das folhas que podem acumular água em seu\ninterior.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            28,
+            281.6947,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [
+        "Português"
+      ],
+      "topic": "Adaptações botânicas do xiquexique",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

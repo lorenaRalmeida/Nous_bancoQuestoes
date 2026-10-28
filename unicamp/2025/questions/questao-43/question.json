@@ -1,0 +1,94 @@
+{
+  "title": "Questão 43 - UNICAMP 2025 - 1ª fase",
+  "index": 43,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "“Vou ao espelho tentar descobrir o que há de errado em mim.\nVejo olheiras negras no meu rosto, meu Deus, grandes olheiras!\nTendo andado a chorar muito por estes dias, choro até de mais”.\n(CHIZIANE, Paulina. Niketche. Uma história de Poligamia. São Paulo: Companhia das\nLetras [Companhia de Bolso], p. 14, 2021.)\n“Lembro-me ainda do temor de minha mãe nos dias de fortes\nchuvas. Em cima da cama (...) ela nos protegia com seu abraço\n(...). Nesses momentos os olhos de minha mãe se confundiam\ncom os olhos da natureza. Chovia, chorava! Chorava, chovia!\nEntão, por que eu não conseguia lembrar a cor dos olhos dela?”\n(EVARISTO, Conceição. Olhos D’água. Rio de Janeiro: Pallas; Fundação Biblioteca Nacional, p. 17-18, 2016.)\nA partir da leitura dos trechos e da compreensão do todo da\nnarrativa, podemos afirmar que, comparativamente, os textos\nexprimem,",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pelo par “olheiras/abraço”, o medo feminino diante dos\nproblemas econômicos e ecológicos do Sul Global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pelo par “espelho/águas”, o narcisismo feminino em um\nambiente sociocultural altamente desigual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pela relação entre as águas e as lágrimas, a submissão feminina diante dos problemas econômicos e ecológicos do\nSul Global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pela relação entre as águas e as lágrimas, o desamparo feminino em um ambiente sociocultural altamente desigual.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "“Vou ao espelho tentar descobrir o que há de errado em mim.\nVejo olheiras negras no meu rosto, meu Deus, grandes olheiras!\nTendo andado a chorar muito por estes dias, choro até de mais”.\n(CHIZIANE, Paulina. Niketche. Uma história de Poligamia. São Paulo: Companhia das\nLetras [Companhia de Bolso], p. 14, 2021.)\n“Lembro-me ainda do temor de minha mãe nos dias de fortes\nchuvas. Em cima da cama (...) ela nos protegia com seu abraço\n(...). Nesses momentos os olhos de minha mãe se confundiam\ncom os olhos da natureza. Chovia, chorava! Chorava, chovia!\nEntão, por que eu não conseguia lembrar a cor dos olhos dela?”\n(EVARISTO, Conceição. Olhos D’água. Rio de Janeiro: Pallas; Fundação Biblioteca Nacio-\nnal, p. 17-18, 2016.)\nA partir da leitura dos trechos e da compreensão do todo da\nnarrativa, podemos afirmar que, comparativamente, os textos\nexprimem,\na) pelo par “olheiras/abraço”, o medo feminino diante dos\nproblemas econômicos e ecológicos do Sul Global.\nb) pelo par “espelho/águas”, o narcisismo feminino em um\nambiente sociocultural altamente desigual.\nc) pela relação entre as águas e as lágrimas, a submissão fe-\nminina diante dos problemas econômicos e ecológicos do\nSul Global.\nd) pela relação entre as águas e as lágrimas, o desamparo fe-\nminino em um ambiente sociocultural altamente desigual.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            638.0358,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            40,
+            568,
+            248.2111
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

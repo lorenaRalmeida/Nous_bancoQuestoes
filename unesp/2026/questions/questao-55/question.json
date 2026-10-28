@@ -1,0 +1,98 @@
+{
+  "title": "Questão 55 - UNESP 2026 - 1ª fase",
+  "index": 55,
+  "year": 2026,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "O ponto de partida da filosofia autêntica encontra-se no\nespanto, na admiração ou na angústia. Uma fissura manifesta-se na existência; é preciso cimentar a brecha da dúvida.\nO pensamento vem e põe ordem na desordem. Chamam-\n-se filosofia os primeiros princípios que traduzem a justificação que a pessoa se dá sobre seu lugar no mundo. O que\na reflexão procura é sempre um estado de paz, princípio de\numa orientação ontológica em fé da qual o homem se encontra à vontade na sua paisagem. Neste sentido, a função\nda filosofia não é diferente da do mito. O mito é a primeira\nforma desta adaptação espiritual da comunidade humana ao\nseu contorno. O pensador, uma vez rompida a consciência\ncoletiva, retoma-o por sua conta, com os meios acrescidos\nda reflexão.\n(Georges Gusdorf. Mito e metafísica, 1979. Adaptado.)\nCom base no excerto, a relação entre mito e filosofia pode ser\ncompreendida como a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "superação do saber mitológico enquanto forma de preservação do consenso comunitário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "negação da validade de métodos racionais para as explicações ontológicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "articulação simbólica entre diferentes formas de responder ao conhecimento científico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "substituição progressiva da fabulação mítica pela análise\nconceitual sistemática.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "rejeição filosófica de narrativas pré-reflexivas como\nexpressão do irracional.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O ponto de partida da filosofia autêntica encontra-se no\nespanto, na admiração ou na angústia. Uma fissura manifes-\nta-se na existência; é preciso cimentar a brecha da dúvida.\nO pensamento vem e põe ordem na desordem. Chamam-\n-se filosofia os primeiros princípios que traduzem a justifica-\nção que a pessoa se dá sobre seu lugar no mundo. O que\na reflexão procura é sempre um estado de paz, princípio de\numa orientação ontológica em fé da qual o homem se en-\ncontra à vontade na sua paisagem. Neste sentido, a função\nda filosofia não é diferente da do mito. O mito é a primeira\nforma desta adaptação espiritual da comunidade humana ao\nseu contorno. O pensador, uma vez rompida a consciência\ncoletiva, retoma-o por sua conta, com os meios acrescidos\nda reflexão.\n(Georges Gusdorf. Mito e metafísica, 1979. Adaptado.)\nCom base no excerto, a relação entre mito e filosofia pode ser\ncompreendida como a\n(A) superação do saber mitológico enquanto forma de pre-\nservação do consenso comunitário.\n(B) negação da validade de métodos racionais para as expli-\ncações ontológicas.\n(C) articulação simbólica entre diferentes formas de respon-\nder ao conhecimento científico.\n(D) substituição progressiva da fabulação mítica pela análise\nconceitual sistemática.\n(E) rejeição filosófica de narrativas pré-reflexivas como\nexpressão do irracional.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

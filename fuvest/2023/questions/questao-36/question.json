@@ -1,0 +1,97 @@
+{
+  "title": "Questão 36 - FUVEST 2023 - 1ª fase",
+  "index": 36,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Na teoria musical, o intervalo entre duas notas é medido pela razão entre suas frequências (medidas em Hz). Na escala pitagórica, os intervalos de um tom e de um semitom correspondem, respectivamente, às razões 9/8 e 256/243. A soma de intervalos corresponde ao produto das razões. Por exemplo, no intervalo de dois tons, a razão entre as frequências é de (9/8) × (9/8) = 81/64.\n\nEm um instrumento afinado de acordo com a escala pitagórica, se o intervalo entre uma nota de 220 Hz e outra de 990 Hz é composto por n tons e m semitons, a soma m + n é igual a:",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "13",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "14",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "15",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "16",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "17",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Na teoria musical, o intervalo entre duas notas é medido pela\nrazão entre suas frequências (medidas em Hz). Na escala\npitagórica, os intervalos de um tom e de um semitom\n(cid:2877) (cid:2870)(cid:2873)(cid:2874)\ncorrespondem, respectivamente, às razões e . A soma\n(cid:2876) (cid:2870)(cid:2872)(cid:2871)\nde intervalos corresponde ao produto das razões. Por\nexemplo, no intervalo de dois tons, a razão entre as\n(cid:2877) (cid:2877) (cid:2876)(cid:2869)\nfrequências é de ⋅ = .\n(cid:2876) (cid:2876) (cid:2874)(cid:2872)\nEm um instrumento afinado de acordo com a escala\npitagórica, se o intervalo entre uma nota de 220 Hz e outra de\n990 Hz é composto por 𝑛 tons e 𝑚 semitons, a soma 𝑚+𝑛 é\nigual a:\n(A) 13\n(B) 14\n(C) 15\n(D) 16\n(E) 17",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            28,
+            40.07470000000001,
+            297.5,
+            457.91470000000004
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Razões de frequências e escala pitagórica",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

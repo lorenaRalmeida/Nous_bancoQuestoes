@@ -1,0 +1,92 @@
+{
+  "title": "Questão 62 - UNICAMP 2025 - 1ª fase",
+  "index": 62,
+  "year": 2025,
+  "discipline": "Química",
+  "language": null,
+  "context": "Os submarinos nucleares conseguem submergir por longos\nperíodos, pois geram uma quantidade enorme de energia elétrica para ser usada internamente. Um dos desafios a serem\nenfrentados diz respeito à manutenção da atmosfera interna da\nembarcação, o que garantiria condições respiráveis. Para tanto,\ncontrolam-se as concentrações de oxigênio e gás carbônico. Em\nvista dessa descrição, você, como responsável por essa manutenção, sugeriria a combinação das seguintes ações:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "para gerar O : destilação direta da água do mar; para absor-\n2\nver o CO : uso de uma solução ácida.\n2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "para gerar O : eletrólise da água purificada do mar; para\n2\nabsorver o CO : uso de uma solução básica.\n2",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "para gerar O : destilação da água purificada do mar; para\n2\nabsorver o CO : uso de uma solução básica.\n2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "para gerar O : eletrólise direta da água do mar; para absor-\n2\nver o CO : uso de uma solução ácida.\n2",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Os submarinos nucleares conseguem submergir por longos\nperíodos, pois geram uma quantidade enorme de energia elé-\ntrica para ser usada internamente. Um dos desafios a serem\nenfrentados diz respeito à manutenção da atmosfera interna da\nembarcação, o que garantiria condições respiráveis. Para tanto,\ncontrolam-se as concentrações de oxigênio e gás carbônico. Em\nvista dessa descrição, você, como responsável por essa manu-\ntenção, sugeriria a combinação das seguintes ações:\na) para gerar O : destilação direta da água do mar; para absor-\n2\nver o CO : uso de uma solução ácida.\n2\nb) para gerar O : eletrólise da água purificada do mar; para\n2\nabsorver o CO : uso de uma solução básica.\n2\nc) para gerar O : destilação da água purificada do mar; para\n2\nabsorver o CO : uso de uma solução básica.\n2\nd) para gerar O : eletrólise direta da água do mar; para absor-\n2\nver o CO : uso de uma solução ácida.\n2",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            575.3385,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            40,
+            291,
+            89.23169999999993
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Questão 46 - UNICAMP 2025 - 1ª fase",
+  "index": 46,
+  "year": 2025,
+  "discipline": "Português",
+  "language": null,
+  "context": "Leia os versos da canção “Silêncio de um cipreste” – composição de Cartola e Carlos Cachaça.\nTodo mundo tem o direito\nDe viver cantando.\nO meu único defeito\nÉ viver pensando\nEm que não realizei\nE é difícil realizar.\nSe eu pudesse dar um jeito\nMudaria o meu pensar.\nO pensamento é uma folha desprendida\nDo galho de nossas vidas\nQue o vento leva e conduz,\nÉ uma luz vacilante e cega,\nÉ o silêncio do cipreste\nEscoltado pela cruz.\nNesta canção, é possível afirmar que o eu-lírico",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "acredita que, assim como todas as pessoas, tem o direito de\nviver cantando, embora isso seja algo difícil de ser realizado.\nA principal imagem poética utilizada é a da alegria do canto,\no qual é capaz de mudar a vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "gostaria de mudar o seu pensamento, aproximando-o da\nrealidade de sua vida, da qual ele se desprendeu. A principal\nimagem poética utilizada é a do sonho e do devaneio, dissociados da vida real.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "gostaria de mudar o seu pensamento, porque este é marcado pela tristeza e melancolia. A principal imagem poética\nutilizada é a da morte, presente nas figuras do cipreste e da\ncruz.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "acredita que pensar seja um defeito que ele gostaria de corrigir, mas não consegue. A principal imagem poética utilizada é a do vento, o qual carrega o eu-lírico independentemente de sua vontade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia os versos da canção “Silêncio de um cipreste” – composi-\nção de Cartola e Carlos Cachaça.\nTodo mundo tem o direito\nDe viver cantando.\nO meu único defeito\nÉ viver pensando\nEm que não realizei\nE é difícil realizar.\nSe eu pudesse dar um jeito\nMudaria o meu pensar.\nO pensamento é uma folha desprendida\nDo galho de nossas vidas\nQue o vento leva e conduz,\nÉ uma luz vacilante e cega,\nÉ o silêncio do cipreste\nEscoltado pela cruz.\nNesta canção, é possível afirmar que o eu-lírico\na) acredita que, assim como todas as pessoas, tem o direito de\nviver cantando, embora isso seja algo difícil de ser realizado.\nA principal imagem poética utilizada é a da alegria do canto,\no qual é capaz de mudar a vida.\nb) gostaria de mudar o seu pensamento, aproximando-o da\nrealidade de sua vida, da qual ele se desprendeu. A principal\nimagem poética utilizada é a do sonho e do devaneio, dis-\nsociados da vida real.\nc) gostaria de mudar o seu pensamento, porque este é mar-\ncado pela tristeza e melancolia. A principal imagem poética\nutilizada é a da morte, presente nas figuras do cipreste e da\ncruz.\nd) acredita que pensar seja um defeito que ele gostaria de cor-\nrigir, mas não consegue. A principal imagem poética utili-\nzada é a do vento, o qual carrega o eu-lírico independente-\nmente de sua vontade.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            30,
+            259.61109999999996,
+            291,
+            746.2773
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Questão 52 - UNICAMP 2024 - 1ª fase",
+  "index": 52,
+  "year": 2024,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Excerto 1\nQuase todos estão de acordo que a felicidade é o maior de\ntodos os bens que se pode alcançar pela ação; diferem, porém,\nquanto ao que seja a felicidade. A julgar pela vida que os homens levam em geral, a maioria deles, e os homens de tipo mais\nvulgar, parecem identificar o bem ou a felicidade com o prazer,\ne por isso amam a vida dos gozos.\n(Adaptado de: Aristóteles. Ética a Nicomaco, Livro I, seções 4 e 5.)\nExcerto 2\nO conhecimento seguro dos desejos leva a direcionar toda a escolha e toda recusa para a saúde do corpo e para a serenidade\ndo espírito, visto que essa é a finalidade da vida feliz. O prazer\né o início e o fim de uma vida feliz. Embora o prazer seja nosso\nprimeiro bem inato, nem por isso escolhemos qualquer prazer.\n(Adaptado de: Epicuro. Carta sobre a felicidade. São Paulo: Editora UNESP, p. 35-37,\n2002.)\nConsiderando os excertos dos filósofos gregos Aristóteles e Epicuro, ambos do século IV a.C., é possível afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Aristóteles e Epicuro sustentam a ideia de que há relação\nentre a felicidade e o prazer, pois ambos entendem que o\nprazer é o início e o fim de uma vida feliz.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "diferentemente de Aristóteles, Epicuro defende que a felicidade consiste na realização irrestrita dos nossos desejos,\numa vez que o prazer é o início e o fim de uma vida feliz.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "tanto Aristóteles quanto Epicuro – ainda que com concepções éticas distintas – entendem que não há uma identificação imediata entre felicidade e prazer.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Aristóteles e Epicuro concordam entre si e discordam daqueles que pensam que a felicidade seja o maior dos bens que\nse possa alcançar pela ação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Excerto 1\nQuase todos estão de acordo que a felicidade é o maior de\ntodos os bens que se pode alcançar pela ação; diferem, porém,\nquanto ao que seja a felicidade. A julgar pela vida que os ho-\nmens levam em geral, a maioria deles, e os homens de tipo mais\nvulgar, parecem identificar o bem ou a felicidade com o prazer,\ne por isso amam a vida dos gozos.\n(Adaptado de: Aristóteles. Ética a Nicomaco, Livro I, seções 4 e 5.)\nExcerto 2\nO conhecimento seguro dos desejos leva a direcionar toda a es-\ncolha e toda recusa para a saúde do corpo e para a serenidade\ndo espírito, visto que essa é a finalidade da vida feliz. O prazer\né o início e o fim de uma vida feliz. Embora o prazer seja nosso\nprimeiro bem inato, nem por isso escolhemos qualquer prazer.\n(Adaptado de: Epicuro. Carta sobre a felicidade. São Paulo: Editora UNESP, p. 35-37,\n2002.)\nConsiderando os excertos dos filósofos gregos Aristóteles e Epi-\ncuro, ambos do século IV a.C., é possível afirmar que\na) Aristóteles e Epicuro sustentam a ideia de que há relação\nentre a felicidade e o prazer, pois ambos entendem que o\nprazer é o início e o fim de uma vida feliz.\nb) diferentemente de Aristóteles, Epicuro defende que a feli-\ncidade consiste na realização irrestrita dos nossos desejos,\numa vez que o prazer é o início e o fim de uma vida feliz.\nc) tanto Aristóteles quanto Epicuro – ainda que com concep-\nções éticas distintas – entendem que não há uma identifica-\nção imediata entre felicidade e prazer.\nd) Aristóteles e Epicuro concordam entre si e discordam daque-\nles que pensam que a felicidade seja o maior dos bens que\nse possa alcançar pela ação.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            258.57079999999996,
+            291,
+            697.7755999999999
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

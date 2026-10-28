@@ -1,0 +1,98 @@
+{
+  "title": "Questão 32 - FUVEST 2024 - 1ª fase",
+  "index": 32,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "A tabela a seguir mostra a condição de duas variáveis sociais\nem quatro cidades urbanas genéricas.\n% da população\n% de domicílios com\nimunizada com\ncoleta de esgoto e\ncobertura vacinal\ntratamento de água\ncompleta\ncidade I 89% 19%\ncidade II 12% 13%\ncidade III 98% 15%\ncidade IV 10% 90%\nCom base nesses dados, é correto afirmar que a população\nhumana dessas cidades tem risco aumentado de ter as\nrespectivas doenças:\ncidade I cidade II cidade III cidade IV",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "leptospirose influenza amebíase cólera",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "COVID teníase tétano tuberculose",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "hepatite B amebíase cólera leptospirose",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "influenza teníase pneumonia COVID",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "tuberculose poliomielite hepatite B amebíase",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "A tabela a seguir mostra a condição de duas variáveis sociais\nem quatro cidades urbanas genéricas.\n% da população\n% de domicílios com\nimunizada com\ncoleta de esgoto e\ncobertura vacinal\ntratamento de água\ncompleta\ncidade I 89% 19%\ncidade II 12% 13%\ncidade III 98% 15%\ncidade IV 10% 90%\nCom base nesses dados, é correto afirmar que a população\nhumana dessas cidades tem risco aumentado de ter as\nrespectivas doenças:\ncidade I cidade II cidade III cidade IV\n(A) leptospirose influenza amebíase cólera\n(B) COVID teníase tétano tuberculose\n(C) hepatite B amebíase cólera leptospirose\n(D) influenza teníase pneumonia COVID\n(E) tuberculose poliomielite hepatite B amebíase",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            28,
+            569.7547,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 13,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            184.3746
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "topic": "Saneamento, vacinação e doenças",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

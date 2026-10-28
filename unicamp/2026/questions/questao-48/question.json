@@ -1,0 +1,124 @@
+{
+  "title": "Questão 48 - UNICAMP 2026 - 1ª fase",
+  "index": 48,
+  "year": 2026,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "O movimento de ataque em um jogo de voleibol é mais eficiente se o atleta atingir a bola no ponto mais alto da trajetória do\ncentro de massa da bola. A Figura 1 mostra a trajetória da bola\nque foi lançada pela Atleta A em direção à Atleta B.\nO centro de massa da bola, ao ser lançada pela Atleta A, está\na 2 metros de altura em relação ao solo. Quando a Atleta B\nataca, o centro de massa da bola está a 3 metros de altura em\nrelação ao solo.\nAs jogadoras estão no mesmo plano da trajetória da bola e a\ndistância entre as jogadoras é de 9 metros. Sabe-se que a trajetória do centro de massa da bola é uma parábola e que o\nataque aconteceu justamente no ponto de maior altura da parábola, conforme representado na Figura 2.\nFigura 1\ny Atleta B\nx\nAtleta A\nFigura 2\ny\n3\n2\nx\n9\nA equação da parábola que descreve a trajetória do centro de\nmassa da bola é",
+  "files": [
+    "imagem-01.png",
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "y = (−1 ⁄ 9)x² + (10 ⁄ 9)x + 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "y = (−1 ⁄ 99)x² + (20 ⁄ 99)x + 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "y = (−1 ⁄ 81)x² + (2 ⁄ 9)x + 2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "y = (−1 ⁄ 4)x² + (9 / 2)x + 2.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e X",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O movimento de ataque em um jogo de voleibol é mais eficien-\nte se o atleta atingir a bola no ponto mais alto da trajetória do\ncentro de massa da bola. A Figura 1 mostra a trajetória da bola\nque foi lançada pela Atleta A em direção à Atleta B.\nO centro de massa da bola, ao ser lançada pela Atleta A, está\na 2 metros de altura em relação ao solo. Quando a Atleta B\nataca, o centro de massa da bola está a 3 metros de altura em\nrelação ao solo.\nAs jogadoras estão no mesmo plano da trajetória da bola e a\ndistância entre as jogadoras é de 9 metros. Sabe-se que a tra-\njetória do centro de massa da bola é uma parábola e que o\nataque aconteceu justamente no ponto de maior altura da pa-\nrábola, conforme representado na Figura 2.\nFigura 1\ny Atleta B\nx\nAtleta A\nFigura 2\ny\n3\n2\nx\n9\nA equação da parábola que descreve a trajetória do centro de\nmassa da bola é\na) y = (−1 ⁄ 9)x2 + (10 ⁄ 9)x + 2.\nb) y = (−1 ⁄ 99)x2 + (20 ⁄ 99)x + 2.\nc) y = (−1 ⁄ 81)x2 + (2 ⁄ 9)x + 2.\nd) y = (−1 ⁄ 4)x2 + (9 / 2)x + 2.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            276.7418,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            30,
+            40,
+            291,
+            134.33389999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 18,
+        "bbox": [
+          304,
+          507.1821,
+          568,
+          620.0688
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 18,
+        "bbox": [
+          304,
+          687.35003,
+          568,
+          743.2553593924999
+        ]
+      }
+    ],
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Educação Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unicamp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

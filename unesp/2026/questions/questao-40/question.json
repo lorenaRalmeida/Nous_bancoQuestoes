@@ -1,0 +1,98 @@
+{
+  "title": "Questão 40 - UNESP 2026 - 1ª fase",
+  "index": 40,
+  "year": 2026,
+  "discipline": "História",
+  "language": null,
+  "context": "A norma oficial ditava que a mulher devia ser resguardada em casa, ocupando-se dos afazeres domésticos, enquanto os homens asseguravam o sustento da família trabalhando\nno espaço da rua. Longe de retratar a realidade, tratava-se\nde um estereótipo calcado nos valores da elite colonial [...].\nCom a industrialização, [as mulheres] chegaram, junto com\nas crianças, a compor mais da metade da força de trabalho\nem certas indústrias, notadamente nas de tecidos. As estatísticas sobre o Rio Grande do Sul em 1900 mostram que cerca\nde 42% da população economicamente ativa era feminina\n[...]. No censo de 1920 [...], ainda 49,4% da população economicamente ativa (PEA) do estado e 50,8% da PEA em Porto\nAlegre constavam como feminina. Na indústria, as mulheres\nocupavam 28,4% das vagas no estado, e 29,95% na capital.\n(Cláudia Fonseca. “Ser mulher, mãe e pobre”.\nIn: Mary Del Priore (org.). História das mulheres no Brasil, 2015.)\nOs dados apresentados no excerto mostram que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os papéis dos gêneros no Brasil, da passagem do século\nXIX para o XX, reproduziam padrões de comportamento\nde origem europeia, impostos ao Brasil durante o Período\nRepublicano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "havia uma contradição entre a participação das populações masculina e feminina no mercado de trabalho e as\nconvenções sociais predominantes no Brasil das décadas iniciais do século XX.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "existia um contraste entre as leis trabalhistas que proibiam a presença feminina nas indústrias e as necessidades das famílias pobres que precisavam dos rendimentos\ndas mulheres trabalhadoras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a industrialização transformou o mercado de trabalho\nbrasileiro do início do Período Republicano e alterou radicalmente a percepção acerca do papel e do lugar das\nmulheres na sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "predominava o emprego de mão de obra feminina na indústria têxtil brasileira do princípio do século XX, devido\nà maior especialização e facilidade das mulheres no manejo de tecidos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A norma oficial ditava que a mulher devia ser resguarda-\nda em casa, ocupando-se dos afazeres domésticos, enquan-\nto os homens asseguravam o sustento da família trabalhando\nno espaço da rua. Longe de retratar a realidade, tratava-se\nde um estereótipo calcado nos valores da elite colonial [...].\nCom a industrialização, [as mulheres] chegaram, junto com\nas crianças, a compor mais da metade da força de trabalho\nem certas indústrias, notadamente nas de tecidos. As estatís-\nticas sobre o Rio Grande do Sul em 1900 mostram que cerca\nde 42% da população economicamente ativa era feminina\n[...]. No censo de 1920 [...], ainda 49,4% da população econo-\nmicamente ativa (PEA) do estado e 50,8% da PEA em Porto\nAlegre constavam como feminina. Na indústria, as mulheres\nocupavam 28,4% das vagas no estado, e 29,95% na capital.\n(Cláudia Fonseca. “Ser mulher, mãe e pobre”.\nIn: Mary Del Priore (org.). História das mulheres no Brasil, 2015.)\nOs dados apresentados no excerto mostram que\n(A) os papéis dos gêneros no Brasil, da passagem do século\nXIX para o XX, reproduziam padrões de comportamento\nde origem europeia, impostos ao Brasil durante o Período\nRepublicano.\n(B) havia uma contradição entre a participação das popula-\nções masculina e feminina no mercado de trabalho e as\nconvenções sociais predominantes no Brasil das déca-\ndas iniciais do século XX.\n(C) existia um contraste entre as leis trabalhistas que proi-\nbiam a presença feminina nas indústrias e as necessida-\ndes das famílias pobres que precisavam dos rendimentos\ndas mulheres trabalhadoras.\n(D) a industrialização transformou o mercado de trabalho\nbrasileiro do início do Período Republicano e alterou ra-\ndicalmente a percepção acerca do papel e do lugar das\nmulheres na sociedade.\n(E) predominava o emprego de mão de obra feminina na in-\ndústria têxtil brasileira do princípio do século XX, devido\nà maior especialização e facilidade das mulheres no ma-\nnejo de tecidos.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 16,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 16,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

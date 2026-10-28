@@ -1,0 +1,98 @@
+{
+  "title": "Questão 45 - FUVEST 2023 - 1ª fase",
+  "index": 45,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "“Quatro anos atrás, neste dia, a esta mesma hora, chegava ao\nPanteão, em Roma, o carro fúnebre que levava o cadáver de\nVittorio Emanuele II, primeiro rei da Itália, morto depois de 29\nanos de reinado, durante os quais a grande pátria italiana,\nantes despedaçada em sete estados e oprimida por\nestrangeiros e tiranos, tinha renascido como um só país,\nindependente e livre (...)”.\nAMICIS, Edmondo de. Coração: um livro para jovens. São Paulo: CosacNaify,\n2011.\nEsse livro foi publicado pela primeira vez na Itália em 1886.\nObteve grande sucesso entre os jovens leitores e foi, desde\ncedo, amplamente utilizado como livro de leitura nas escolas\ndo país. O texto mobiliza representações que iam ao encontro\ndo culto",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à nação na Itália recém-unificada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "à divisão da Itália por Vittorio Emanuele II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aos ideais republicanos que deram origem ao país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aos antigos reinos e ao domínio estrangeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "à reconstrução do antigo Império romano.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“Quatro anos atrás, neste dia, a esta mesma hora, chegava ao\nPanteão, em Roma, o carro fúnebre que levava o cadáver de\nVittorio Emanuele II, primeiro rei da Itália, morto depois de 29\nanos de reinado, durante os quais a grande pátria italiana,\nantes despedaçada em sete estados e oprimida por\nestrangeiros e tiranos, tinha renascido como um só país,\nindependente e livre (...)”.\nAMICIS, Edmondo de. Coração: um livro para jovens. São Paulo: CosacNaify,\n2011.\nEsse livro foi publicado pela primeira vez na Itália em 1886.\nObteve grande sucesso entre os jovens leitores e foi, desde\ncedo, amplamente utilizado como livro de leitura nas escolas\ndo país. O texto mobiliza representações que iam ao encontro\ndo culto\n(A) à nação na Itália recém-unificada.\n(B) à divisão da Itália por Vittorio Emanuele II.\n(C) aos ideais republicanos que deram origem ao país.\n(D) aos antigos reinos e ao domínio estrangeiro.\n(E) à reconstrução do antigo Império romano.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            28,
+            512.2746,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "topic": "Unificação italiana e culto nacional",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

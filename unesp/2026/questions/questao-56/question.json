@@ -1,0 +1,100 @@
+{
+  "title": "Questão 56 - UNESP 2026 - 1ª fase",
+  "index": 56,
+  "year": 2026,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Até meados do século XIX, a maior parte das pessoas\nvia tanto os humanos quanto os chimpanzés como seres que\nmantinham, sem qualquer mudança, as formas com as quais\nhaviam surgido. Essa era uma visão de mundo denominada\n“fixismo”. Outra visão começou a deitar suas raízes em meados do século XVIII, defendendo o papel central da mudança\nno mundo natural: o “evolucionismo”. As teorias da evolução\nbiológica propõem que os seres vivos que são vistos atualmente nem sempre existiram, nem sempre tiveram a mesma\nforma e nem sempre existirão. Desde o século XVIII, diversas\nteorias de evolução biológica foram discutidas, entre elas, as\nde Buffon e Lamarck. A grande mudança teve lugar ao final\nda década de 1850 com a apresentação de uma nova teoria\nevolutiva, de autoria de Charles Darwin, publicada em forma\nde livro, A origem das espécies. Darwin argumentou que a\ntransformação das espécies ocorria de um modo muito diferente daquele proposto por Buffon, Lamarck e outros evolucionistas anteriores.\n(Diogo Meyer e Charbel Niño El-Hani.\nEvolução: o sentido da biologia, 2005. Adaptado.)\nA reorganização do campo da biologia descrito no excerto\nrepresenta, para a filosofia da ciência,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a consolidação do modelo explicativo dogmático.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o processo sucessivo de ruptura de paradigmas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a conciliação entre as diferentes concepções de vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o limite dos avanços no campo epistemológico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a rejeição da investigação baseada em evidências.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Até meados do século XIX, a maior parte das pessoas\nvia tanto os humanos quanto os chimpanzés como seres que\nmantinham, sem qualquer mudança, as formas com as quais\nhaviam surgido. Essa era uma visão de mundo denominada\n“fixismo”. Outra visão começou a deitar suas raízes em mea-\ndos do século XVIII, defendendo o papel central da mudança\nno mundo natural: o “evolucionismo”. As teorias da evolução\nbiológica propõem que os seres vivos que são vistos atual-\nmente nem sempre existiram, nem sempre tiveram a mesma\nforma e nem sempre existirão. Desde o século XVIII, diversas\nteorias de evolução biológica foram discutidas, entre elas, as\nde Buffon e Lamarck. A grande mudança teve lugar ao final\nda década de 1850 com a apresentação de uma nova teoria\nevolutiva, de autoria de Charles Darwin, publicada em forma\nde livro, A origem das espécies. Darwin argumentou que a\ntransformação das espécies ocorria de um modo muito dife-\nrente daquele proposto por Buffon, Lamarck e outros evolu-\ncionistas anteriores.\n(Diogo Meyer e Charbel Niño El-Hani.\nEvolução: o sentido da biologia, 2005. Adaptado.)\nA reorganização do campo da biologia descrito no excerto\nrepresenta, para a filosofia da ciência,\n(A) a consolidação do modelo explicativo dogmático.\n(B) o processo sucessivo de ruptura de paradigmas.\n(C) a conciliação entre as diferentes concepções de vida.\n(D) o limite dos avanços no campo epistemológico.\n(E) a rejeição da investigação baseada em evidências.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

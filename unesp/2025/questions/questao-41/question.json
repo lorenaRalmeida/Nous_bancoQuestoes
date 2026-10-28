@@ -1,0 +1,100 @@
+{
+  "title": "Questão 41 - UNESP 2025 - 1ª fase",
+  "index": 41,
+  "year": 2025,
+  "discipline": "História",
+  "language": null,
+  "context": "O antigo imaginário referente à dupla “a bela e a fera” foi\ninúmeras vezes utilizado para distinguir o feminino do masculino. Mas, a partir dos anos 1970, uma nova organização\nda virilidade transformou parte da graça feminina em sensibilidade masculina. Ao mesmo tempo, a suposta ferocidade\ndos homens deixou de ser vista como um atributo exclusivo\na seu sexo.\n(Denise Bernuzzi de Sant’Anna. História da beleza no Brasil, 2014.)\nAs mudanças apresentadas no excerto estão associadas,\nentre outros fatores,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à inexistência de padrões de masculinidade e feminilidade após a conquista do direito de voto pelas mulheres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "às pautas progressistas da religião católica em defesa\ndos direitos das mulheres no mundo ocidental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aos efeitos dos métodos contraceptivos na ampliação da\nparticipação das mulheres nos mercados de trabalho.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "à diminuição das jornadas de trabalho das mulheres\ncom a diversificação de suas atividades na economia\nde mercado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "à exploração do trabalho mal remunerado das mulheres\npelas empresas na crise provocada pela Segunda Guerra Mundial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O antigo imaginário referente à dupla “a bela e a fera” foi\ninúmeras vezes utilizado para distinguir o feminino do mas-\nculino. Mas, a partir dos anos 1970, uma nova organização\nda virilidade transformou parte da graça feminina em sensi-\nbilidade masculina. Ao mesmo tempo, a suposta ferocidade\ndos homens deixou de ser vista como um atributo exclusivo\na seu sexo.\n(Denise Bernuzzi de Sant’Anna. História da beleza no Brasil, 2014.)\nAs mudanças apresentadas no excerto estão associadas,\nentre outros fatores,\n(A) à inexistência de padrões de masculinidade e feminilida-\nde após a conquista do direito de voto pelas mulheres.\n(B) às pautas progressistas da religião católica em defesa\ndos direitos das mulheres no mundo ocidental.\n(C) aos efeitos dos métodos contraceptivos na ampliação da\nparticipação das mulheres nos mercados de trabalho.\n(D) à diminuição das jornadas de trabalho das mulheres\ncom a diversificação de suas atividades na economia\nde mercado.\n(E) à exploração do trabalho mal remunerado das mulheres\npelas empresas na crise provocada pela Segunda Guer-\nra Mundial.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            468.6934,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [
+        "Sociologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

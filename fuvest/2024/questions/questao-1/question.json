@@ -1,0 +1,98 @@
+{
+  "title": "Questão 1 - FUVEST 2024 - 1ª fase",
+  "index": 1,
+  "year": 2024,
+  "discipline": "Português",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES 01 E 02\nTempo de nos aquilombar\nÉ tempo de caminhar em fingido silêncio,\ne buscar o momento certo no grito,\naparentar fechar um olho evitando o cisco\ne abrir escancaradamente o outro.\nÉ tempo de fazer os ouvidos moucos\npara os vazios lero-leros,\ne cuidar dos passos assuntando as vias,\nir se vigiando atento, que o buraco é fundo.\nÉ tempo de ninguém se soltar de ninguém,\nmas olhar fundo na palma aberta\na alma de quem lhe oferece o gesto.\nO laçar de mãos não pode ser algemas,\ne sim acertada tática, necessário esquema.\nÉ tempo de formar novos quilombos,\nem qualquer lugar que estejamos\ne que venham dias futuros, salve 2020\nA mística quilombola persiste afirmando:\n“a liberdade é uma luta constante”.\nConceição Evaristo. Jornal O Globo, 31/12/2019.\n\nO verso “É tempo de formar novos quilombos” é um exemplo de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "paradoxo, na medida em que propõe retomar o passado\nnum contexto atual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "metonímia, já que os quilombos fazem parte de um novo\ncontexto cultural, sem relação com o passado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "metáfora, representando uma união coletiva como forma\nde resistência social.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "antítese, ao relacionar a noção de tempo passado a uma\nnova configuração de futuro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "hipérbole, apresentando o termo “quilombos” no plural\npara indicar o grau de difusão do movimento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O verso “É tempo de formar novos quilombos” é um exemplo de\n(A) paradoxo, na medida em que propõe retomar o passado\nnum contexto atual.\n(B) metonímia, já que os quilombos fazem parte de um novo\ncontexto cultural, sem relação com o passado.\n(C) metáfora, representando uma união coletiva como forma\nde resistência social.\n(D) antítese, ao relacionar a noção de tempo passado a uma\nnova configuração de futuro.\n(E) hipérbole, apresentando o termo “quilombos” no plural\npara indicar o grau de difusão do movimento.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES 01 E 02\nTempo de nos aquilombar\nÉ tempo de caminhar em fingido silêncio,\ne buscar o momento certo no grito,\naparentar fechar um olho evitando o cisco\ne abrir escancaradamente o outro.\nÉ tempo de fazer os ouvidos moucos\npara os vazios lero-leros,\ne cuidar dos passos assuntando as vias,\nir se vigiando atento, que o buraco é fundo.\nÉ tempo de ninguém se soltar de ninguém,\nmas olhar fundo na palma aberta\na alma de quem lhe oferece o gesto.\nO laçar de mãos não pode ser algemas,\ne sim acertada tática, necessário esquema.\nÉ tempo de formar novos quilombos,\nem qualquer lugar que estejamos\ne que venham dias futuros, salve 2020\nA mística quilombola persiste afirmando:\n“a liberdade é uma luta constante”.\nConceição Evaristo. Jornal O Globo, 31/12/2019.",
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 2,
+          "bbox": [
+            28,
+            43.76470000000006,
+            297.5,
+            341.9947
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 2,
+          "bbox": [
+            28,
+            341.9947,
+            297.5,
+            525.4747
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Português",
+      "relatedDisciplines": [],
+      "topic": "Metáfora e linguagem poética",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

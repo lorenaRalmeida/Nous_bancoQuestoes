@@ -1,0 +1,92 @@
+{
+  "title": "Questão 59 - UNICAMP 2023 - 1ª fase",
+  "index": 59,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "No livro “A invenção dos direitos humanos”, a historiadora Lynn\nHunt nomeou dois mecanismos de transformação na França de\nfins do século XVIII. O primeiro seria a popularização dos chamados romances epistolares. As cartas enviadas pelas protagonistas discorrem sobre as emoções humanas para os leitores. As\nlutas das personagens Clarissa e Pâmela, descritas por Samuel\nRichardson, ou as questões de Júlia, personagem de Jean-Jacques Rousseau, fizeram com que os leitores reconhecessem a\nlegitimidade de seus desejos e de suas vivências. Outro mecanismo de transformação social foi a campanha contra a tortura,\nmarcada por uma nova visão de corpo. Para Hunt, ler relatos de\ntortura e romances epistolares ajudou a moldar o foro íntimo de\ncada um, o que teve repercussão na política.\nConsiderando o texto acima e o contexto histórico comentado,\nassinale a alternativa correta sobre os direitos humanos.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O nascimento dos direitos humanos ligou-se ao aparecimento do sentimento de empatia entre diferentes sujeitos\nsociais, independentemente de sua condição social, como\nse podia ver nos romances epistolares. Isso influenciou os\npreceitos de liberdade individual e de igualdade social.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Conhecidas através dos romances policiais editados pela\nimprensa revolucionária francesa, as personagens literárias\nfemininas subalternas ganharam importância ao se oporem\nà tortura, defendida pelo Terceiro Estado nos debates sobre\ndireitos humanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O nascimento dos direitos humanos envolveu a contestação,\npela imprensa francesa, da tortura como prática de obtenção de testemunho ou como castigo. Isso se devia ao fato\nde que a tortura feria a concepção cristã de corpo, defendida pela Declaração dos Direitos do Homem e do Cidadão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Ao afirmar que todos são iguais perante a lei e que todos\ngozam dos mesmos direitos, independentemente de sua\norigem social ou nascimento, a Declaração dos Direitos do\nHomem e do Cidadão defendia o cidadão passivo, indiferente à violência e à humilhação na convivência cotidiana.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No livro “A invenção dos direitos humanos”, a historiadora Lynn\nHunt nomeou dois mecanismos de transformação na França de\nfins do século XVIII. O primeiro seria a popularização dos cha-\nmados romances epistolares. As cartas enviadas pelas protago-\nnistas discorrem sobre as emoções humanas para os leitores. As\nlutas das personagens Clarissa e Pâmela, descritas por Samuel\nRichardson, ou as questões de Júlia, personagem de Jean-Jac-\nques Rousseau, fizeram com que os leitores reconhecessem a\nlegitimidade de seus desejos e de suas vivências. Outro meca-\nnismo de transformação social foi a campanha contra a tortura,\nmarcada por uma nova visão de corpo. Para Hunt, ler relatos de\ntortura e romances epistolares ajudou a moldar o foro íntimo de\ncada um, o que teve repercussão na política.\nConsiderando o texto acima e o contexto histórico comentado,\nassinale a alternativa correta sobre os direitos humanos.\na) O nascimento dos direitos humanos ligou-se ao apareci-\nmento do sentimento de empatia entre diferentes sujeitos\nsociais, independentemente de sua condição social, como\nse podia ver nos romances epistolares. Isso influenciou os\npreceitos de liberdade individual e de igualdade social.\nb) Conhecidas através dos romances policiais editados pela\nimprensa revolucionária francesa, as personagens literárias\nfemininas subalternas ganharam importância ao se oporem\nà tortura, defendida pelo Terceiro Estado nos debates sobre\ndireitos humanos.\nc) O nascimento dos direitos humanos envolveu a contestação,\npela imprensa francesa, da tortura como prática de obten-\nção de testemunho ou como castigo. Isso se devia ao fato\nde que a tortura feria a concepção cristã de corpo, defendi-\nda pela Declaração dos Direitos do Homem e do Cidadão.\nd) Ao afirmar que todos são iguais perante a lei e que todos\ngozam dos mesmos direitos, independentemente de sua\norigem social ou nascimento, a Declaração dos Direitos do\nHomem e do Cidadão defendia o cidadão passivo, indife-\nrente à violência e à humilhação na convivência cotidiana.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 19,
+          "bbox": [
+            304,
+            456.4111,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 20,
+          "bbox": [
+            30,
+            40,
+            291,
+            208.19529999999997
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

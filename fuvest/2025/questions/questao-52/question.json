@@ -1,0 +1,105 @@
+{
+  "title": "Questão 52 - FUVEST 2025 - 1ª fase",
+  "index": 52,
+  "year": 2025,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias relativas às enchentes ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior.\n\nUma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda.\n\nComo exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM:\n\ns(t) = A[1 + k m(t)] cos(2π f t),\n\nem que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e m(t) o sinal que contém a informação.\n\nQuando a frequência f é multiplicada por 3, o comprimento da onda sofre alteração. Por causa dessa multiplicação, qual transformação ocorre no gráfico da função cosseno original?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Expansão vertical.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Translação horizontal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Expansão horizontal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Contração horizontal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Contração vertical.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V1",
+    "rawText": "}\nAs enchentes ocorridas no Rio Grande do Sul, em maio de\n2024, prejudicaram a infraestrutura de comunicação. A\npopulação afetada era informada sobre as notícias relativas às\nenchentes ao sintonizar, por rádio de pilhas, frequências de\nonda AM, cujo alcance é maior.\nUma onda AM é modelada matematicamente por equações\nque envolvem a função cosseno, cuja variável independente é\no tempo t, que aparece multiplicado pela frequência f da\nonda.\nComo exemplo, pode-se considerar a equação referente ao\nprocesso de modulação de uma onda AM:\n𝑠(cid:4666)𝑡(cid:4667)(cid:3404)𝐴 (cid:4670)1(cid:3397)𝑘 𝑚(cid:4666)𝑡(cid:4667)(cid:4671)cos(cid:4666) 2𝜋 𝑓 𝑡(cid:4667) ,\nem que 𝐴 é a amplitude, 𝑓 a frequência, 𝑘 a constante da\nsensibilidade à amplitude e 𝑚(cid:4666)𝑡(cid:4667) o sinal que contém a\ninformação.\nQuando a frequência f é multiplicada por 3, o comprimento\nda onda sofre alteração. Por causa dessa multiplicação, qual\ntransformação ocorre no gráfico da função cosseno original?\n(A) Expansão vertical.\n(B) Translação horizontal.\n(C) Expansão horizontal.\n(D) Contração horizontal.\n(E) Contração vertical.\n#####\n{",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            28,
+            489.35470000000004,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            97.19470000000001
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2025-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Transformação de função trigonométrica",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

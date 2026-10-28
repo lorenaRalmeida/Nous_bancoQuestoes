@@ -1,0 +1,92 @@
+{
+  "title": "Questão 61 - UNICAMP 2023 - 1ª fase",
+  "index": 61,
+  "year": 2023,
+  "discipline": "História",
+  "language": null,
+  "context": "Na Greve de 1917 em São Paulo, os conflitos propagaram-se a\npartir do Cotonifício* Crespi, com cerca de 2 mil trabalhadores;\nem pouco tempo, congregaram 50 mil pessoas numa cidade de\n400 mil habitantes. Entre sociedades de classes, as quais eram\ncombativas, políticas e de identidade étnica, havia sido organizado em março daquele ano, pouco antes da eclosão da greve,\no Comitê Popular de Agitação contra a exploração das crianças.\nPor meio de enquetes, reuniões e palestras, o Comitê procurava revelar as relações de trabalho a que os menores estavam\nsujeitos: jornadas extenuantes e graves acidentes. Nas notícias\nde jornais, era comum encontrar casos como o de José, de 12\nanos, que teve o braço esmagado por uma máquina amassadeira da fábrica de biscoitos “A Fidelidade”, e Henrique Guido,\nde 8 anos, que teve os dedos decepados numa oficina da Barra\nFunda.\n(Adaptado de FRACCARO, Glaucia. Mulheres, sindicato e organização política nas greves\nde 1917 em São Paulo. Revista Brasileira de História, São Paulo, v. 37, n. 76, p. 76-77,\n2017.)\n*Cotonifício: algodoaria.\nCom base no excerto e em seus conhecimentos sobre a história\ndo trabalho no Brasil, é correto afirmar que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as mobilizações da greve de 1917 tinham por objetivo implementar a Consolidação das Leis Trabalhistas (CLT), base\nlegal da igualdade salarial entre homens, mulheres e crianças, reconhecida nos anos de 1990.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "em resposta à greve de 1917, o presidente Venceslau Brás\ninstitui, no ano seguinte, para a indústria brasileira, a igualdade de salário entre homens e mulheres e torna ilegal o\ntrabalho infantil no setor têxtil de todo o país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a greve de 1917 foi impulsionada, entre outros fatores, pelos baixos salários (não obstante o cenário de alta inflação),\nmultas contra os trabalhadores, acidentes, jornadas extenuantes, e falta de regulamentação do trabalho de menores.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "na época da greve de 1917, o trabalho das crianças nas\nfábricas era considerado ilegal; o trabalho infantil foi regulamentado posteriormente por Getúlio Vargas por meio das\nleis trabalhistas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Na Greve de 1917 em São Paulo, os conflitos propagaram-se a\npartir do Cotonifício* Crespi, com cerca de 2 mil trabalhadores;\nem pouco tempo, congregaram 50 mil pessoas numa cidade de\n400 mil habitantes. Entre sociedades de classes, as quais eram\ncombativas, políticas e de identidade étnica, havia sido organi-\nzado em março daquele ano, pouco antes da eclosão da greve,\no Comitê Popular de Agitação contra a exploração das crianças.\nPor meio de enquetes, reuniões e palestras, o Comitê procura-\nva revelar as relações de trabalho a que os menores estavam\nsujeitos: jornadas extenuantes e graves acidentes. Nas notícias\nde jornais, era comum encontrar casos como o de José, de 12\nanos, que teve o braço esmagado por uma máquina amassa-\ndeira da fábrica de biscoitos “A Fidelidade”, e Henrique Guido,\nde 8 anos, que teve os dedos decepados numa oficina da Barra\nFunda.\n(Adaptado de FRACCARO, Glaucia. Mulheres, sindicato e organização política nas greves\nde 1917 em São Paulo. Revista Brasileira de História, São Paulo, v. 37, n. 76, p. 76-77,\n2017.)\n*Cotonifício: algodoaria.\nCom base no excerto e em seus conhecimentos sobre a história\ndo trabalho no Brasil, é correto afirmar que\na) as mobilizações da greve de 1917 tinham por objetivo im-\nplementar a Consolidação das Leis Trabalhistas (CLT), base\nlegal da igualdade salarial entre homens, mulheres e crian-\nças, reconhecida nos anos de 1990.\nb) em resposta à greve de 1917, o presidente Venceslau Brás\ninstitui, no ano seguinte, para a indústria brasileira, a igual-\ndade de salário entre homens e mulheres e torna ilegal o\ntrabalho infantil no setor têxtil de todo o país.\nc) a greve de 1917 foi impulsionada, entre outros fatores, pe-\nlos baixos salários (não obstante o cenário de alta inflação),\nmultas contra os trabalhadores, acidentes, jornadas extenu-\nantes, e falta de regulamentação do trabalho de menores.\nd) na época da greve de 1917, o trabalho das crianças nas\nfábricas era considerado ilegal; o trabalho infantil foi regu-\nlamentado posteriormente por Getúlio Vargas por meio das\nleis trabalhistas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            184.19529999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

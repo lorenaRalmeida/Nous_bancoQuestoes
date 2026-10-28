@@ -1,0 +1,116 @@
+{
+  "title": "Questão 84 - UNESP 2024 - 1ª fase",
+  "index": 84,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Um trapézio retângulo ABCD foi dividido em um paralelogramo EBCF, um triângulo retângulo EFG e um retângulo AEGD\nde áreas denotadas por S , S e S , respectivamente. O\n1 2 3\ntrapézio, representado no plano cartesiano, mostra que os\nvértices dos três polígonos estão perfeitamente situados na\ninterseção de linhas da malha quadriculada.\nA relação entre as três áreas mencionadas é:",
+  "files": [
+    "figura-vetorial-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "25 · S = 12 · S = 10 · S\n1 2 3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2 · S = S = S\n1 2 3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "5 · S = 2 · S = 2 · S\n1 2 3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "12 · S = 5 · S = 5 · S\n1 2 3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "25 · S = 10 · S = 12 · S\n1 2 3",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Um trapézio retângulo ABCD foi dividido em um paralelogra-\nmo EBCF, um triângulo retângulo EFG e um retângulo AEGD\nde áreas denotadas por S , S e S , respectivamente. O\n1 2 3\ntrapézio, representado no plano cartesiano, mostra que os\nvértices dos três polígonos estão perfeitamente situados na\ninterseção de linhas da malha quadriculada.\nA relação entre as três áreas mencionadas é:\n(A) 25 · S = 12 · S = 10 · S\n1 2 3\n(B) 2 · S = S = S\n1 2 3\n(C) 5 · S = 2 · S = 2 · S\n1 2 3\n(D) 12 · S = 5 · S = 5 · S\n1 2 3\n(E) 25 · S = 10 · S = 12 · S\n1 2 3",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            30,
+            439.312,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 32,
+        "bbox": [
+          30,
+          532.2357999999999,
+          291,
+          689.7692
+        ]
+      }
+    ],
+    "mathTextRevision": {
+      "notation": "Texto Unicode local. / indica divisão; ^ potência; _ índice.",
+      "source": "PDF fornecido; fórmulas vetoriais preservadas também em imagens locais.",
+      "rawTextPreserved": true
+    },
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "title": "Questão 65 - UNESP 2024 - 1ª fase",
+  "index": 65,
+  "year": 2024,
+  "discipline": "Biologia",
+  "language": null,
+  "context": "Analise o gráfico que apresenta a porcentagem de células\nsanguíneas (hematopoiese) que diferentes órgãos humanos\nproduzem ao longo das fases pré-natal e pós-natal.\n(https://basicmedicalkey.com. Adaptado.)\nDe acordo com o gráfico, as células sanguíneas são produzidas,",
+  "files": [
+    "figura-vetorial-01.png",
+    "figura-vetorial-02.png",
+    "figura-vetorial-03.png",
+    "figura-vetorial-04.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "no início da fase pré-natal, por um anexo embrionário que\nreserva excretas nitrogenadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "no final da fase pré-natal, pela medula óssea amarela e\npela medula óssea vermelha.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "na fase pré-natal, por um órgão responsável pela produção de sais biliares.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "na fase pós-natal, por órgãos do sistema locomotor ligados a músculos lisos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "na fase pós-natal e a partir dos 30 anos de idade, pelos\nossos do sistema esquelético axial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Analise o gráfico que apresenta a porcentagem de células\nsanguíneas (hematopoiese) que diferentes órgãos humanos\nproduzem ao longo das fases pré-natal e pós-natal.\n(https://basicmedicalkey.com. Adaptado.)\nDe acordo com o gráfico, as células sanguíneas são produ-\nzidas,\n(A) no início da fase pré-natal, por um anexo embrionário que\nreserva excretas nitrogenadas.\n(B) no final da fase pré-natal, pela medula óssea amarela e\npela medula óssea vermelha.\n(C) na fase pré-natal, por um órgão responsável pela produ-\nção de sais biliares.\n(D) na fase pós-natal, por órgãos do sistema locomotor liga-\ndos a músculos lisos.\n(E) na fase pós-natal e a partir dos 30 anos de idade, pelos\nossos do sistema esquelético axial.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Biologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [
+      {
+        "file": "figura-vetorial-01.png",
+        "page": 24,
+        "bbox": [
+          189.2966,
+          90.4253,
+          237.9140029,
+          112.27530000000002
+        ]
+      },
+      {
+        "file": "figura-vetorial-02.png",
+        "page": 24,
+        "bbox": [
+          72.9358,
+          90.69589999999994,
+          120.2170029,
+          112.54600000000005
+        ]
+      },
+      {
+        "file": "figura-vetorial-03.png",
+        "page": 24,
+        "bbox": [
+          51.798399999999994,
+          103.95870000000002,
+          291,
+          229.78070000000002
+        ]
+      },
+      {
+        "file": "figura-vetorial-04.png",
+        "page": 24,
+        "bbox": [
+          30,
+          115.09539999999993,
+          60.9163,
+          219.54020000000003
+        ]
+      }
+    ],
+    "answerSource": "unesp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

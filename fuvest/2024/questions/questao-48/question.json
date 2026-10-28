@@ -1,0 +1,105 @@
+{
+  "title": "Questão 48 - FUVEST 2024 - 1ª fase",
+  "index": 48,
+  "year": 2024,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "Uma empresa de alimentos utiliza embalagens, no formato de\nparalelepípedo reto-retângulo, de dimensões 2 cm x 3 cm x\n11 cm, para armazenar biscoitos. Para o transporte desse\nproduto, são utilizadas caixas para acondicionar essas\nembalagens, também no formato de paralelepípedo reto-\nretângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a\nseguir ilustra um paralelepípedo reto-retângulo.\nDetermine o número máximo de embalagens que podem ser\nacondicionadas em cada caixa fechada para transporte, sem\nque o produto seja danificado.",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "48",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "52",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "56",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "60",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "61",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Uma empresa de alimentos utiliza embalagens, no formato de\nparalelepípedo reto-retângulo, de dimensões 2 cm x 3 cm x\n11 cm, para armazenar biscoitos. Para o transporte desse\nproduto, são utilizadas caixas para acondicionar essas\nembalagens, também no formato de paralelepípedo reto-\nretângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a\nseguir ilustra um paralelepípedo reto-retângulo.\nDetermine o número máximo de embalagens que podem ser\nacondicionadas em cada caixa fechada para transporte, sem\nque o produto seja danificado.\n(A) 48\n(B) 52\n(C) 56\n(D) 60\n(E) 61",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            297.5,
+            480.5946,
+            567,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 19,
+          "bbox": [
+            28,
+            34,
+            297.5,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": "Gabarito retificado em 24/11/2023: D riscado e substituído por E.",
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Geometria espacial e acondicionamento de caixas",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

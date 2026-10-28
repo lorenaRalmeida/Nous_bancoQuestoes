@@ -1,0 +1,100 @@
+{
+  "title": "Questão 70 - UNESP 2026 - 1ª fase",
+  "index": 70,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Chumbo vira ouro de verdade — ou quase de verdade\nPela primeira vez, colisões entre núcleos de chumbo,\nacelerados até velocidades altíssimas no maior colisor de\npartículas do mundo, geraram campos eletromagnéticos intensos o suficiente para eliminar prótons e transformar chumbo em ouro. Isso não significa que teremos uma fábrica de\nouro, já que as quantidades produzidas são mínimas e o ouro\nproduzido nem mesmo pode ser coletado, porque se desfaz\nem frações de segundo.\nDurante quatro anos de colisões, foram criados 86 bilhões\nde núcleos de ouro nos quatro experimentos principais. Em\ntermos de massa, isso corresponde a apenas 29 picogramas\n(2,9 × 10–11g). Mas não é isso o que importa, porque este é um\nfeito de grande significado para a história da ciência.\n(www.inovacaotecnologica.com.br. Adaptado.)\nO número total de prótons que foram eliminados dos núcleos\nde chumbo durante quatro anos de colisões foi de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "89 bilhões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "774 bilhões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "258 bilhões.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "43 bilhões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "172 bilhões.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Chumbo vira ouro de verdade — ou quase de verdade\nPela primeira vez, colisões entre núcleos de chumbo,\nacelerados até velocidades altíssimas no maior colisor de\npartículas do mundo, geraram campos eletromagnéticos in-\ntensos o suficiente para eliminar prótons e transformar chum-\nbo em ouro. Isso não significa que teremos uma fábrica de\nouro, já que as quantidades produzidas são mínimas e o ouro\nproduzido nem mesmo pode ser coletado, porque se desfaz\nem frações de segundo.\nDurante quatro anos de colisões, foram criados 86 bilhões\nde núcleos de ouro nos quatro experimentos principais. Em\ntermos de massa, isso corresponde a apenas 29 picogramas\n(2,9 × 10–11g). Mas não é isso o que importa, porque este é um\nfeito de grande significado para a história da ciência.\n(www.inovacaotecnologica.com.br. Adaptado.)\nO número total de prótons que foram eliminados dos núcleos\nde chumbo durante quatro anos de colisões foi de\n(A) 89 bilhões.\n(B) 774 bilhões.\n(C) 258 bilhões.\n(D) 43 bilhões.\n(E) 172 bilhões.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            469.4754,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

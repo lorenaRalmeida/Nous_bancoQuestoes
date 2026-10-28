@@ -1,0 +1,108 @@
+{
+  "title": "Questão 30 - UNESP 2025 - 1ª fase",
+  "index": 30,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto para responder às questões 29 e 30.\nIt is well established that some people are genetically\npredisposed to a shorter lifespan. It is also well known that\nlifestyle factors, specifically smoking, alcohol consumption,\ndiet and physical activity, can have an impact on longevity.\nHowever, until now there has been no investigation to\nunderstand the extent to which a healthy lifestyle may\ncounterbalance genetics.\nFindings from several long-term studies suggest a\nhealthy lifestyle could offset effects of life-shortening genes\nby 62% and add as much as five years to your life. The results\nwere published in the journal BMJ Evidence-Based Medicine.\n“This study elucidates the pivotal role of a healthy lifestyle in\nmitigating the impact of genetic factors on lifespan reduction,”\nthe researchers concluded.\n(Andrew Gregory. www.theguardian.com, 30.04.2024. Adaptado.)\n\nNo trecho do segundo parágrafo “a healthy lifestyle could\noffset effects of life-shortening genes by 62%”, o termo\nsublinhado pode ser substituído, sem alteração de sentido,\npor:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ought to.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "must.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "may.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "has to.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "is going to.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No trecho do segundo parágrafo “a healthy lifestyle could\noffset effects of life-shortening genes by 62%”, o termo\nsublinhado pode ser substituído, sem alteração de sentido,\npor:\n(A) ought to.\n(B) must.\n(C) may.\n(D) has to.\n(E) is going to.",
+    "sharedContext": "Leia o texto para responder às questões 29 e 30.\nIt is well established that some people are genetically\npredisposed to a shorter lifespan. It is also well known that\nlifestyle factors, specifically smoking, alcohol consumption,\ndiet and physical activity, can have an impact on longevity.\nHowever, until now there has been no investigation to\nunderstand the extent to which a healthy lifestyle may\ncounterbalance genetics.\nFindings from several long-term studies suggest a\nhealthy lifestyle could offset effects of life-shortening genes\nby 62% and add as much as five years to your life. The results\nwere published in the journal BMJ Evidence-Based Medicine.\n“This study elucidates the pivotal role of a healthy lifestyle in\nmitigating the impact of genetic factors on lifespan reduction,”\nthe researchers concluded.\n(Andrew Gregory. www.theguardian.com, 30.04.2024. Adaptado.)",
+    "source": {
+      "file": "unesp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            258.5706
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            457.3502,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

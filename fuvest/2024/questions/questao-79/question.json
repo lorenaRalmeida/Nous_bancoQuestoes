@@ -1,0 +1,98 @@
+{
+  "title": "Questão 79 - FUVEST 2024 - 1ª fase",
+  "index": 79,
+  "year": 2024,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "“A China enviou ontem navios de guerra e dezenas de caças\npara Taiwan, em retaliação a uma reunião entre a presidente\nda ilha, Tsai Ing-Wen, e o presidente da Câmara dos\nDeputados do EUA, Kevin McCarty, na Califórnia”.\nO Estado de São Paulo, 08/04/2023. Adaptado.\nA reportagem faz alusão ao aumento das tensões geopolíticas\nentre China e Taiwan. Sobre esse tema, é correto afirmar:",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "As tensões iniciaram-se no final de década de 1970, em\ndecorrência das mudanças políticas e econômicas\nperpetradas pelo então presidente chinês Deng Xiaoping,\nque resultaram na declaração de independência de\nTaiwan em relação à China.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Iniciadas ainda na primeira metade do século XX, as\ntensões entre China e Taiwan aumentaram desde então\nem decorrência da presença militar dos EUA no território\ntaiwanês, o que contraria os interesses geopolíticos\nchineses na região.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "As tensões decorreram do aumento da influência russa\nsobre o território taiwanês, com foco na exploração do\npotencial mercado consumidor, considerado estratégico\npara o aumento das exportações do gás natural russo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Com apoio soviético, Taiwan conseguiu independência do\nterritório chinês no final da década de 1960. Após o fim da\nGuerra Fria, tornou-se uma potência tecnológica, o que\nampliou o interesse geopolítico chinês na retomada desse\nterritório.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Taiwan é reconhecido como país independente pelos EUA\ne tem emergido na rota dos conflitos entre os governos\nestadunidense e chinês, o que pode ser interpretado como\nindício do deslocamento do eixo geopolítico do mundo\npara o sudeste asiático.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "“A China enviou ontem navios de guerra e dezenas de caças\npara Taiwan, em retaliação a uma reunião entre a presidente\nda ilha, Tsai Ing-Wen, e o presidente da Câmara dos\nDeputados do EUA, Kevin McCarty, na Califórnia”.\nO Estado de São Paulo, 08/04/2023. Adaptado.\nA reportagem faz alusão ao aumento das tensões geopolíticas\nentre China e Taiwan. Sobre esse tema, é correto afirmar:\n(A) As tensões iniciaram-se no final de década de 1970, em\ndecorrência das mudanças políticas e econômicas\nperpetradas pelo então presidente chinês Deng Xiaoping,\nque resultaram na declaração de independência de\nTaiwan em relação à China.\n(B) Iniciadas ainda na primeira metade do século XX, as\ntensões entre China e Taiwan aumentaram desde então\nem decorrência da presença militar dos EUA no território\ntaiwanês, o que contraria os interesses geopolíticos\nchineses na região.\n(C) As tensões decorreram do aumento da influência russa\nsobre o território taiwanês, com foco na exploração do\npotencial mercado consumidor, considerado estratégico\npara o aumento das exportações do gás natural russo.\n(D) Com apoio soviético, Taiwan conseguiu independência do\nterritório chinês no final da década de 1960. Após o fim da\nGuerra Fria, tornou-se uma potência tecnológica, o que\nampliou o interesse geopolítico chinês na retomada desse\nterritório.\n(E) Taiwan é reconhecido como país independente pelos EUA\ne tem emergido na rota dos conflitos entre os governos\nestadunidense e chinês, o que pode ser interpretado como\nindício do deslocamento do eixo geopolítico do mundo\npara o sudeste asiático.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            28,
+            566.3347,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            249.17470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2024-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [],
+      "topic": "Relações entre China e Taiwan",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

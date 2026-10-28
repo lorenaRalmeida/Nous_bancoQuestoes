@@ -1,0 +1,100 @@
+{
+  "title": "Questão 71 - UNESP 2026 - 1ª fase",
+  "index": 71,
+  "year": 2026,
+  "discipline": "Química",
+  "language": null,
+  "context": "Manganês é um metal muito utilizado para a produção de aço\ne outras ligas metálicas. Uma das principais fontes naturais\ndesse metal é o mineral pirolusita (MnO ).\n2\n(https://museuhe.com.br)\nUma das etapas iniciais do processo de obtenção do manganês envolve a reação representada pela equação não\nbalanceada:\n__MnO (s) + __H SO (aq)\n2 2 4\n__MnSO (aq) + __O (g) + __H O (l)\n4 2 2\nA solução aquosa de sulfato de manganês(II) obtida nessa\netapa é submetida à eletrólise, em que íons Mn2+ capturam\nelétrons, formando o metal.\nQuando 869 kg de MnO puro reagem completamente com\n2\nexcesso de ácido sulfúrico, é produzida uma quantidade, em\nmol, de íons Mn2+ igual a",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "50.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "10 000.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "10.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Manganês é um metal muito utilizado para a produção de aço\ne outras ligas metálicas. Uma das principais fontes naturais\ndesse metal é o mineral pirolusita (MnO ).\n2\n(https://museuhe.com.br)\nUma das etapas iniciais do processo de obtenção do man-\nganês envolve a reação representada pela equação não\nbalanceada:\n__MnO (s) + __H SO (aq)\n2 2 4\n__MnSO (aq) + __O (g) + __H O (l)\n4 2 2\nA solução aquosa de sulfato de manganês(II) obtida nessa\netapa é submetida à eletrólise, em que íons Mn2+ capturam\nelétrons, formando o metal.\nQuando 869 kg de MnO puro reagem completamente com\n2\nexcesso de ácido sulfúrico, é produzida uma quantidade, em\nmol, de íons Mn2+ igual a\n(A) 50.\n(B) 5 000.\n(C) 10 000.\n(D) 1 000.\n(E) 10.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Química",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

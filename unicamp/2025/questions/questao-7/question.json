@@ -1,0 +1,96 @@
+{
+  "title": "Questão 7 - UNICAMP 2025 - 1ª fase",
+  "index": 7,
+  "year": 2025,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "O mar contém uma grande quantidade de recursos vivos e não\nvivos e, por isso, se torna cada vez mais um espaço de disputa\nno contexto global. O Estado brasileiro vem utilizando o termo “Amazônia Azul”, em analogia com “Amazônia Verde”,\npara, com isso, designar uma extensa faixa oceânica costeira\ndo Atlântico Sul, de elevada importância para o país. Essa faixa\nconta com grandes reservas de petróleo do pré-sal, elevada biodiversidade e outras riquezas naturais.\nA figura a seguir apresenta a compartimentação do espaço marítimo brasileiro.\n(Elaboração: COMVEST (2024), baseado na Agência de Notícias Marítimas (Marinha do\nBrasil).https://www.marinha.mil.br/agenciadenoticias/novo-mapa-do-brasil-e-expandido-com-5-7-milhoes-de-km2-de-area-maritima. Acesso em 04/07/2024.)\nConsiderando o espaço marítimo brasileiro e tendo como referência o traçado da linha da costa, é correto afirmar que o\nBrasil tem",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o controle da plataforma continental estendida, mas não o\ndireito exclusivo de exploração econômica dos recursos no\nlimite do Mar Territorial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "soberania de exploração de recursos em toda a extensão da\nárea da plataforma continental, conforme os tratados internacionais sobre o Direito do Mar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o controle das águas em alto mar com a autorização das\nNações Unidas (ONU), ampliando a exploração para além do\nlimite da Zona Econômica Exclusiva (ZEE).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "soberania sobre a área do Mar Territorial e detém o direito\nde exploração e de uso dos recursos até o limite da Zona\nEconômica Exclusiva (ZEE).",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O mar contém uma grande quantidade de recursos vivos e não\nvivos e, por isso, se torna cada vez mais um espaço de disputa\nno contexto global. O Estado brasileiro vem utilizando o ter-\nmo “Amazônia Azul”, em analogia com “Amazônia Verde”,\npara, com isso, designar uma extensa faixa oceânica costeira\ndo Atlântico Sul, de elevada importância para o país. Essa faixa\nconta com grandes reservas de petróleo do pré-sal, elevada bio-\ndiversidade e outras riquezas naturais.\nA figura a seguir apresenta a compartimentação do espaço ma-\nrítimo brasileiro.\n(Elaboração: COMVEST (2024), baseado na Agência de Notícias Marítimas (Marinha do\nBrasil).https://www.marinha.mil.br/agenciadenoticias/novo-mapa-do-brasil-e-expandi-\ndo-com-5-7-milhoes-de-km2-de-area-maritima. Acesso em 04/07/2024.)\nConsiderando o espaço marítimo brasileiro e tendo como re-\nferência o traçado da linha da costa, é correto afirmar que o\nBrasil tem\na) o controle da plataforma continental estendida, mas não o\ndireito exclusivo de exploração econômica dos recursos no\nlimite do Mar Territorial.\nb) soberania de exploração de recursos em toda a extensão da\nárea da plataforma continental, conforme os tratados inter-\nnacionais sobre o Direito do Mar.\nc) o controle das águas em alto mar com a autorização das\nNações Unidas (ONU), ampliando a exploração para além do\nlimite da Zona Econômica Exclusiva (ZEE).\nd) soberania sobre a área do Mar Territorial e detém o direito\nde exploração e de uso dos recursos até o limite da Zona\nEconômica Exclusiva (ZEE).",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            339.4111,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            40,
+            568,
+            194.16840000000002
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Filosofia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Questão 58 - FUVEST 2023 - 1ª fase",
+  "index": 58,
+  "year": 2023,
+  "discipline": "Matemática",
+  "language": null,
+  "context": "O gráfico mostra a quantidade de emissão de CO₂ (em bilhões de toneladas) em função do ano.\n\nDisponível em https://www.bbc.com/. Adaptado.\n\nO total de emissão de CO₂, em bilhões de toneladas, entre os anos de 1950 e 1990, está entre",
+  "files": [
+    "imagem-01.png"
+  ],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 e 5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5 e 100.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "100 e 300.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "300 e 800.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "800 e 1000.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "O gráfico mostra a quantidade de emissão de CO (em bilhões\n2\nde toneladas) em função do ano.\nDisponível em https://www.bbc.com/. Adaptado.\nO total de emissão de CO , em bilhões de toneladas, entre os\n2\nanos de 1950 e 1990, está entre\n(A) 1 e 5.\n(B) 5 e 100.\n(C) 100 e 300.\n(D) 300 e 800.\n(E) 800 e 1000.",
+    "sharedContext": null,
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            28,
+            421.2547,
+            297.5,
+            810
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            297.5,
+            34,
+            567,
+            40.134700000000066
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Matemática",
+      "relatedDisciplines": [],
+      "topic": "Estimativa de total de emissões por gráfico",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    },
+    "mathTextRevision": {
+      "notation": "Unicode e texto matemático local; ^ indica potência, / indica divisão e _ indica índice.",
+      "source": "Conferência com o PDF fornecido; sem biblioteca ou serviço externo.",
+      "rawTextPreserved": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questão 51 - UNESP 2023 - 1ª fase",
+  "index": 51,
+  "year": 2023,
+  "discipline": "Geografia",
+  "language": null,
+  "context": "A produção de metano (CH ), chamado de “gás dos pân-\n4\ntanos”, na Amazônia representou 8% de suas emissões globais. Cerca de três quartos desse gás liberado na região, que\ncorta nove países e concentra 60% de sua área no Brasil,\nforam produzidos por um processo natural, em razão da decomposição de biomassa, essencialmente árvores e vegetação, em áreas parcial ou totalmente alagadas durante o ano.\n(https://revistapesquisa.fapesp.br. Adaptado.)\nNa Amazônia, o “gás dos pântanos” está associado, dentre\noutros fatores,",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ao processo de lixiviação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à incorporação da água de afluentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ao assoreamento dos rios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à transposição de rios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aos reservatórios das usinas hidrelétricas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "A produção de metano (CH ), chamado de “gás dos pân-\n4\ntanos”, na Amazônia representou 8% de suas emissões glo-\nbais. Cerca de três quartos desse gás liberado na região, que\ncorta nove países e concentra 60% de sua área no Brasil,\nforam produzidos por um processo natural, em razão da de-\ncomposição de biomassa, essencialmente árvores e vegeta-\nção, em áreas parcial ou totalmente alagadas durante o ano.\n(https://revistapesquisa.fapesp.br. Adaptado.)\nNa Amazônia, o “gás dos pântanos” está associado, dentre\noutros fatores,\n(A) ao processo de lixiviação.\n(B) à incorporação da água de afluentes.\n(C) ao assoreamento dos rios.\n(D) à transposição de rios.\n(E) aos reservatórios das usinas hidrelétricas.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Geografia",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Questão 60 - UNESP 2026 - 1ª fase",
+  "index": 60,
+  "year": 2026,
+  "discipline": "Sociologia",
+  "language": null,
+  "context": "Leia o trecho de uma entrevista concedida por Tarcízio Silva,\nautor do livro Racismo Algorítmico: mídia, inteligência artificial\ne discriminação nas redes digitais.\nQuais os impactos do racismo algorítmico, principalmente em relação a minorias raciais no Brasil e no mundo?\n— As tecnologias digitais possuem dualidades que podem pender para a opressão em sociedades marcadas pelas desigualdades. Manifestações mais individualizadas do\nracismo algorítmico podem acontecer em quase todas as\nesferas da vida e são cada vez mais mediadas por tecnologias digitais como plataformas, aplicativos e sistemas de\nclassificação e ranqueamento. Assim, a mediação algorítmica de decisões em áreas como serviços públicos, liberdade de expressão, trabalho, remuneração, segurança e até\nacesso à saúde pode aumentar as disparidades já conhecidas socialmente.\nSeria o racismo algorítmico apenas uma consequência\ndo racismo estrutural?\n— O racismo algorítmico é uma espécie de atualização\ndo racismo estrutural. Nesse contexto, o desenvolvimento de\ntecnologias algorítmicas se alimenta do histórico social para\noferecer uma pretensa inteligência artificial, ou seja, que, na\nverdade, é comprometida com o patriarcado e o colonialismo.\nEssa desinteligência artificial atualiza opressões como o racismo estrutural.\n(Daiane Batista. “Tarcízio Silva: ‘O racismo algorítmico é\numa espécie de atualização do racismo estrutural’”.\nhttps://cee.fiocruz.br, 30.03.2023. Adaptado.)\nCom base nas respostas de Tarcízio Silva, compreender o\nracismo algorítmico como uma forma atualizada de racismo\nestrutural implica reconhecer que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a falta de domínio técnico sobre algoritmos justifica efeitos desiguais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os dados imparciais podem corrigir desigualdades\nhistóricas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os vieses algorítmicos são falhas técnicas facilmente\najustáveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o avanço tecnológico auxilia na superação dos conflitos sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as estruturas de dominação são preservadas sob aparência neutra.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "correctAlternative": "E",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o trecho de uma entrevista concedida por Tarcízio Silva,\nautor do livro Racismo Algorítmico: mídia, inteligência artificial\ne discriminação nas redes digitais.\nQuais os impactos do racismo algorítmico, principalmen-\nte em relação a minorias raciais no Brasil e no mundo?\n— As tecnologias digitais possuem dualidades que po-\ndem pender para a opressão em sociedades marcadas pe-\nlas desigualdades. Manifestações mais individualizadas do\nracismo algorítmico podem acontecer em quase todas as\nesferas da vida e são cada vez mais mediadas por tecno-\nlogias digitais como plataformas, aplicativos e sistemas de\nclassificação e ranqueamento. Assim, a mediação algorítmi-\nca de decisões em áreas como serviços públicos, liberda-\nde de expressão, trabalho, remuneração, segurança e até\nacesso à saúde pode aumentar as disparidades já conheci-\ndas socialmente.\nSeria o racismo algorítmico apenas uma consequência\ndo racismo estrutural?\n— O racismo algorítmico é uma espécie de atualização\ndo racismo estrutural. Nesse contexto, o desenvolvimento de\ntecnologias algorítmicas se alimenta do histórico social para\noferecer uma pretensa inteligência artificial, ou seja, que, na\nverdade, é comprometida com o patriarcado e o colonialismo.\nEssa desinteligência artificial atualiza opressões como o ra-\ncismo estrutural.\n(Daiane Batista. “Tarcízio Silva: ‘O racismo algorítmico é\numa espécie de atualização do racismo estrutural’”.\nhttps://cee.fiocruz.br, 30.03.2023. Adaptado.)\nCom base nas respostas de Tarcízio Silva, compreender o\nracismo algorítmico como uma forma atualizada de racismo\nestrutural implica reconhecer que\n(A) a falta de domínio técnico sobre algoritmos justifica efei-\ntos desiguais.\n(B) os dados imparciais podem corrigir desigualdades\nhistóricas.\n(C) os vieses algorítmicos são falhas técnicas facilmente\najustáveis.\n(D) o avanço tecnológico auxilia na superação dos confli-\ntos sociais.\n(E) as estruturas de dominação são preservadas sob apa-\nrência neutra.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Sociologia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

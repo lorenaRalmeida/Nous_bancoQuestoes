@@ -1,0 +1,92 @@
+{
+  "title": "Questão 67 - UNICAMP 2023 - 1ª fase",
+  "index": 67,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "O texto a seguir focaliza o termo “audism”, que pode ser traduzido para o português como “ouvintismo”.\nAudism is an attitude based on thinking that results in a\nnegative stigma toward anyone who does not hear. Like racism\nor sexism, audism judges, labels, and limits individuals based on\nwhether a person hears and speaks. Audism reflects the medical\nview of deafness as a disability that must be fixed. It is rooted\nin the historical belief that deaf people were savages without\nlanguage. Because many deaf people grew up in hearing\nfamilies who did not learn to sign, audism may be ingrained.\nAudism occurs when one:\n— Asks a deaf person to read your lips or write when s/he has\nindicated this isn’t preferred.\n— Asks a deaf person to “tone down” their facial expressions\nbecause they make others uncomfortable.\n— Devotes a significant amount of instructional time for a deaf\nchild to lipreading and speech therapy, rather than educational subjects.\n(Adaptado de: https://vawnet.org/sc/audism-oppression-lives-deaf-individuals. Acesso\nem 21/06/2022.)\nÉ correto afirmar que o texto",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "argumenta que o ouvintismo é um conceito médico e lista\nmodos de ser menos ouvintista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apresenta o conceito de ouvintismo e traz exemplos de atitudes consideradas ouvintistas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "compara o ouvintismo a outros preconceitos e lista ações a\nserem tomadas ao lidar com pessoas surdas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "explica o que é ouvintismo e exalta a capacidade das crianças surdas de ler os lábios.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O texto a seguir focaliza o termo “audism”, que pode ser tradu-\nzido para o português como “ouvintismo”.\nAudism is an attitude based on thinking that results in a\nnegative stigma toward anyone who does not hear. Like racism\nor sexism, audism judges, labels, and limits individuals based on\nwhether a person hears and speaks. Audism reflects the medical\nview of deafness as a disability that must be fixed. It is rooted\nin the historical belief that deaf people were savages without\nlanguage. Because many deaf people grew up in hearing\nfamilies who did not learn to sign, audism may be ingrained.\nAudism occurs when one:\n— Asks a deaf person to read your lips or write when s/he has\nindicated this isn’t preferred.\n— Asks a deaf person to “tone down” their facial expressions\nbecause they make others uncomfortable.\n— Devotes a significant amount of instructional time for a deaf\nchild to lipreading and speech therapy, rather than educa-\ntional subjects.\n(Adaptado de: https://vawnet.org/sc/audism-oppression-lives-deaf-individuals. Acesso\nem 21/06/2022.)\nÉ correto afirmar que o texto\na) argumenta que o ouvintismo é um conceito médico e lista\nmodos de ser menos ouvintista.\nb) apresenta o conceito de ouvintismo e traz exemplos de ati-\ntudes consideradas ouvintistas.\nc) compara o ouvintismo a outros preconceitos e lista ações a\nserem tomadas ao lidar com pessoas surdas.\nd) explica o que é ouvintismo e exalta a capacidade das crian-\nças surdas de ler os lábios.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 22,
+          "bbox": [
+            304,
+            388.20189999999997,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            40,
+            291,
+            132.82209999999998
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "Gabarito_F1_VEST2023.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

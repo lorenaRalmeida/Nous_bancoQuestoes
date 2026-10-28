@@ -1,0 +1,100 @@
+{
+  "title": "Questão 70 - FUVEST 2023 - 1ª fase",
+  "index": 70,
+  "year": 2023,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "TEXTO PARA AS QUESTÕES DE 68 A 70\nThe expression “dark doldrums” chills the hearts of\nrenewable-energy engineers, who use it to refer to the lulls\nwhen solar panels and wind turbines are thwarted by clouds,\nnight, or still air. On a bright, cloudless day, a solar farm can\ngenerate prodigious amounts of electricity. But at night solar\ncells do little, and in calm air turbines sit useless.\nThe dark doldrums make it difficult for us to rely totally on\nrenewable energy. Power companies need to plan not just for\nindividual storms or windless nights but for difficulties that\ncan stretch for days. Last year, Europe experienced a weeks-\nlong “wind drought,” and in 2006 Hawaii endured six weeks of\nconsecutive rainy days. On a smaller scale, communities that\nwant to go all-renewable need to fill the gaps. The obvious\nsolution is batteries, which power everything from mobile\nphones to electric vehicles; they are relatively inexpensive to\nmake and getting cheaper. But typical models exhaust their\nstored energy after only three or four hours of maximum\noutput, and—as every smartphone owner knows—their\ncapacity dwindles with each recharge. Moreover, it is\nexpensive to collect enough batteries to cover longer\ndischarges.\nWe already have one kind of renewable energy storage:\nmore than ninety per cent of the world’s energy-storage\ncapacity is in reservoirs, as part of a technology called\npumped-storage hydropower, used to smooth out sharp\nincreases in electricity demand. Motors pump water uphill\nfrom a river or a reservoir to a higher reservoir; when the\nwater is released downhill, it spins a turbine, generating\npower. A pumped-hydro installation is like a giant, permanent\nbattery, charged when water is pumped uphill and depleted\nas it flows down. Some countries are expanding their use of\npumped hydro, but the right geography is hard to find,\npermits are difficult to obtain, and construction is slow and\nexpensive. The hunt is on for new approaches to energy\nstorage.\nThe New Yorker. Abril, 2022. Adaptado.\n\nSegundo o texto, quando a geração de energia por células\nsolares ou turbinas eólicas é insuficiente para atender à\ndemanda, uma fonte de energia alternativa envolveria a\nconversão de",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "energia nuclear em elétrica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "energia mecânica em térmica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "energia mecânica em elétrica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "energia solar em mecânica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "energia química em elétrica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "C",
+  "metadata": {
+    "board": "FUVEST",
+    "phase": 1,
+    "version": "V",
+    "rawText": "Segundo o texto, quando a geração de energia por células\nsolares ou turbinas eólicas é insuficiente para atender à\ndemanda, uma fonte de energia alternativa envolveria a\nconversão de\n(A) energia nuclear em elétrica.\n(B) energia mecânica em térmica.\n(C) energia mecânica em elétrica.\n(D) energia solar em mecânica.\n(E) energia química em elétrica.",
+    "sharedContext": "TEXTO PARA AS QUESTÕES DE 68 A 70\nThe expression “dark doldrums” chills the hearts of\nrenewable-energy engineers, who use it to refer to the lulls\nwhen solar panels and wind turbines are thwarted by clouds,\nnight, or still air. On a bright, cloudless day, a solar farm can\ngenerate prodigious amounts of electricity. But at night solar\ncells do little, and in calm air turbines sit useless.\nThe dark doldrums make it difficult for us to rely totally on\nrenewable energy. Power companies need to plan not just for\nindividual storms or windless nights but for difficulties that\ncan stretch for days. Last year, Europe experienced a weeks-\nlong “wind drought,” and in 2006 Hawaii endured six weeks of\nconsecutive rainy days. On a smaller scale, communities that\nwant to go all-renewable need to fill the gaps. The obvious\nsolution is batteries, which power everything from mobile\nphones to electric vehicles; they are relatively inexpensive to\nmake and getting cheaper. But typical models exhaust their\nstored energy after only three or four hours of maximum\noutput, and—as every smartphone owner knows—their\ncapacity dwindles with each recharge. Moreover, it is\nexpensive to collect enough batteries to cover longer\ndischarges.\nWe already have one kind of renewable energy storage:\nmore than ninety per cent of the world’s energy-storage\ncapacity is in reservoirs, as part of a technology called\npumped-storage hydropower, used to smooth out sharp\nincreases in electricity demand. Motors pump water uphill\nfrom a river or a reservoir to a higher reservoir; when the\nwater is released downhill, it spins a turbine, generating\npower. A pumped-hydro installation is like a giant, permanent\nbattery, charged when water is pumped uphill and depleted\nas it flows down. Some countries are expanding their use of\npumped hydro, but the right geography is hard to find,\npermits are difficult to obtain, and construction is slow and\nexpensive. The hunt is on for new approaches to energy\nstorage.\nThe New Yorker. Abril, 2022. Adaptado.",
+    "source": {
+      "file": "fuvest-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            28,
+            37.76470000000006,
+            297.5,
+            516.3547000000001
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 21,
+          "bbox": [
+            297.5,
+            210.17470000000003,
+            567,
+            370.67470000000003
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "answerSource": "fuvest-2023-fase1-gabarito.pdf",
+    "answerNote": null,
+    "warnings": [],
+    "reviewRequired": false,
+    "visualTranscriptionRequired": true,
+    "notes": "Enunciado em context. Figuras do enunciado e alternativas gráficas extraídas dos PDFs locais. Sem recortes completos nem imagens de alternativas somente textuais.",
+    "validation": {
+      "fiveAlternatives": true,
+      "answerMatchesAlternative": true,
+      "visualFilesPresent": true,
+      "contextPresent": true
+    },
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "alternativeVisualFiles": {},
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Física"
+      ],
+      "topic": "Interpretação de texto inglês sobre conversão de energia",
+      "method": "Análise editorial do enunciado, comando, alternativas e figuras relevantes."
+    }
+  }
+}

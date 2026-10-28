@@ -1,0 +1,92 @@
+{
+  "title": "Questão 15 - UNICAMP 2024 - 1ª fase",
+  "index": 15,
+  "year": 2024,
+  "discipline": "História",
+  "language": null,
+  "context": "No processo de Independência, várias tropas indígenas foram\nrecrutadas para proteger o território contra uma possível invasão portuguesa no litoral cearense entre setembro e novembro de 1822. Já os índios da vila de Cimbres, em Pernambuco,\nse posicionaram em 1824 a favor de Dom João VI, opondo-se\nà Independência e à Constituição. No entanto, o que parecia\nser mais comum era o engajamento dos índios no projeto de\nBrasil independente, identificando-se como “brasileiros”. Nas\nrevoltas, buscavam muito menos se contrapor aos europeus e,\nassim, lutar por uma nova posição social que não mais os obrigasse ao trabalho forçado.\n(Adaptado de: COSTA, J. P. P. “Povos indígenas e a Independência”. Disponível em: https://bicentenario2022.com.br/textos/. Acesso em 21/05/2023.)\nTendo em vista seus conhecimentos sobre a participação dos\npovos indígenas no processo de Independência, e considerando\no texto do blog citado, assinale a alternativa correta.",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "As disputas dos ameríndios em torno do “ser brasileiro” visavam à manutenção da ordem social vigente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "As populações indígenas participaram, com projetos políticos específicos, dos processos da Independência.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A independência era entendida pelos indígenas como uma\nameaça a Dom João VI, símbolo da nação brasileira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A diversidade da ação indígena se relacionava à distribuição\nde terras e títulos estabelecidos pela Corte portuguesa.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "No processo de Independência, várias tropas indígenas foram\nrecrutadas para proteger o território contra uma possível inva-\nsão portuguesa no litoral cearense entre setembro e novem-\nbro de 1822. Já os índios da vila de Cimbres, em Pernambuco,\nse posicionaram em 1824 a favor de Dom João VI, opondo-se\nà Independência e à Constituição. No entanto, o que parecia\nser mais comum era o engajamento dos índios no projeto de\nBrasil independente, identificando-se como “brasileiros”. Nas\nrevoltas, buscavam muito menos se contrapor aos europeus e,\nassim, lutar por uma nova posição social que não mais os obri-\ngasse ao trabalho forçado.\n(Adaptado de: COSTA, J. P. P. “Povos indígenas e a Independência”. Disponível em: ht-\ntps://bicentenario2022.com.br/textos/. Acesso em 21/05/2023.)\nTendo em vista seus conhecimentos sobre a participação dos\npovos indígenas no processo de Independência, e considerando\no texto do blog citado, assinale a alternativa correta.\na) As disputas dos ameríndios em torno do “ser brasileiro” vi-\nsavam à manutenção da ordem social vigente.\nb) As populações indígenas participaram, com projetos políti-\ncos específicos, dos processos da Independência.\nc) A independência era entendida pelos indígenas como uma\nameaça a Dom João VI, símbolo da nação brasileira.\nd) A diversidade da ação indígena se relacionava à distribuição\nde terras e títulos estabelecidos pela Corte portuguesa.",
+    "sharedContext": null,
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            396.1826,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "História",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

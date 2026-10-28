@@ -1,0 +1,88 @@
+{
+  "title": "Questão 59 - UNESP 2023 - 1ª fase",
+  "index": 59,
+  "year": 2023,
+  "discipline": "Filosofia",
+  "language": null,
+  "context": "Leia o trecho da canção “O resto do mundo”, de Gabriel O\nPensador.\nEu tô com fome\ntenho que me alimentar\nEu posso não ter nome, mas o estômago tá lá\nPor isso eu tenho que ser cara de pau\nOu eu peço dinheiro ou fico aqui passando mal\nTenho que me rebaixar a esse ponto porque\na necessidade é maior do que a moral.\n(Gabriel O Pensador, 2000.)\nNo trecho, a fome tem como consequência ética a",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "anulação da subjetividade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "desobediência ao código civil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "afirmação dos princípios morais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "proibição do convívio em sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "superação da invisibilidade social.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Leia o trecho da canção “O resto do mundo”, de Gabriel O\nPensador.\nEu tô com fome\ntenho que me alimentar\nEu posso não ter nome, mas o estômago tá lá\nPor isso eu tenho que ser cara de pau\nOu eu peço dinheiro ou fico aqui passando mal\nTenho que me rebaixar a esse ponto porque\na necessidade é maior do que a moral.\n(Gabriel O Pensador, 2000.)\nNo trecho, a fome tem como consequência ética a\n(A) anulação da subjetividade.\n(B) desobediência ao código civil.\n(C) afirmação dos princípios morais.\n(D) proibição do convívio em sociedade.\n(E) superação da invisibilidade social.",
+    "sharedContext": null,
+    "source": {
+      "file": "unesp-2023-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 21,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            323.23519999999996
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Filosofia",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2023-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

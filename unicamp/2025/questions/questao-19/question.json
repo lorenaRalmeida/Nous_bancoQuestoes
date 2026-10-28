@@ -1,0 +1,94 @@
+{
+  "title": "Questão 19 - UNICAMP 2025 - 1ª fase",
+  "index": 19,
+  "year": 2025,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Texto comum às questões 18 e 19.\nTexto 1\nThe fact that so few African Americans write science fiction is\nperplexing since they, in a very real sense, inhabit a sci-fi nightmare\nin which unseen but no less palpable acts of intolerance frustrate\ntheir movement; official histories undo what has been done;\nand technology is too often brought to bear on black bodies.\nMoreover, the sublegitimate status of science fiction in literature\nmirrors the subaltern position to which blacks have been relegated\nthroughout American history. The notion of Afrofuturism gives\nrise to a troubling antinomy: can a community whose past has\nbeen deliberately rubbed out, and whose energies have been\nconsumed by the search for legible traces of its history, imagine\npossible futures?\n(Adaptado de DERY, M. Black to the future: interviews with Samuel R. Delany, Greg Tate,\nand Tricia Rose. In: ___. (Ed.) The Discourse of cyberculture. Durham; London: Duke\nUniversity Press, p. 179-222, 1994.)\n\nO texto 2 toca em um aspecto central do afrofuturismo e remete ao tema do questionamento do texto 1. Assim, pode-se dizer\nque o poema reconhece que",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o passado pode contribuir para a construção de futuros possíveis, mas não pode ser repetido.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a imaginação de futuros possíveis está condicionada ao ensino sobre líderes religiosos do passado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o apagamento do passado pode trazer ensinamentos, mas\nisso não garante a criação de futuros possíveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a sobrevivência em futuros possíveis requer que os costumes\ne as dores do passado sejam esquecidos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "A",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Z",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "O texto 2 toca em um aspecto central do afrofuturismo e reme-\nte ao tema do questionamento do texto 1. Assim, pode-se dizer\nque o poema reconhece que\na) o passado pode contribuir para a construção de futuros pos-\nsíveis, mas não pode ser repetido.\nb) a imaginação de futuros possíveis está condicionada ao en-\nsino sobre líderes religiosos do passado.\nc) o apagamento do passado pode trazer ensinamentos, mas\nisso não garante a criação de futuros possíveis.\nd) a sobrevivência em futuros possíveis requer que os costumes\ne as dores do passado sejam esquecidos.",
+    "sharedContext": "Texto comum às questões 18 e 19.\nTexto 1\nThe fact that so few African Americans write science fiction is\nperplexing since they, in a very real sense, inhabit a sci-fi nightmare\nin which unseen but no less palpable acts of intolerance frustrate\ntheir movement; official histories undo what has been done;\nand technology is too often brought to bear on black bodies.\nMoreover, the sublegitimate status of science fiction in literature\nmirrors the subaltern position to which blacks have been relegated\nthroughout American history. The notion of Afrofuturism gives\nrise to a troubling antinomy: can a community whose past has\nbeen deliberately rubbed out, and whose energies have been\nconsumed by the search for legible traces of its history, imagine\npossible futures?\n(Adaptado de DERY, M. Black to the future: interviews with Samuel R. Delany, Greg Tate,\nand Tricia Rose. In: ___. (Ed.) The Discourse of cyberculture. Durham; London: Duke\nUniversity Press, p. 179-222, 1994.)",
+    "source": {
+      "file": "unicamp-2025-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            148.67520000000002,
+            568,
+            365.5177
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            203.69150000000002,
+            291,
+            419.5922
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [
+        "Artes"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unicamp-2025-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

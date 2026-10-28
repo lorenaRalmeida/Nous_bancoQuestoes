@@ -1,0 +1,94 @@
+{
+  "title": "Questão 35 - UNICAMP 2024 - 1ª fase",
+  "index": 35,
+  "year": 2024,
+  "discipline": "Física",
+  "language": null,
+  "context": "Texto comum às questões 34, 35, 36 e 37.\nUma das etapas mais difíceis de um voo espacial tripulado é a\nreentrada na atmosfera terrestre. Ao reencontrar as camadas\nmais altas da atmosfera, a nave sofre forte desaceleração e sua\ntemperatura externa atinge milhares de graus Celsius. Caso a\nreentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo\nrisco de ela ser lançada de volta ao espaço.\n\nApós viajar pela atmosfera por determinado tempo, o\nmódulo da velocidade da cápsula, que inicialmente era\nv = 7000 m/s, fica reduzido a v = 5000 m/s. Sendo a massa da\n0\ncápsula m = 3000 kg, qual foi o trabalho da força resultante\nsobre a cápsula durante esse tempo?",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "–11,1 × 1010 J.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "–3,60 × 1010 J.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "–6,00 × 106 J.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "–3,00 × 106 J.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "B",
+  "metadata": {
+    "board": "UNICAMP",
+    "phase": 1,
+    "version": "Q e Y",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "Após viajar pela atmosfera por determinado tempo, o\nmódulo da velocidade da cápsula, que inicialmente era\nv = 7000 m/s, fica reduzido a v = 5000 m/s. Sendo a massa da\n0\ncápsula m = 3000 kg, qual foi o trabalho da força resultante\nsobre a cápsula durante esse tempo?\na) –11,1 × 1010 J. c) –6,00 × 106 J.\nb) –3,60 × 1010 J. d) –3,00 × 106 J.",
+    "sharedContext": "Texto comum às questões 34, 35, 36 e 37.\nUma das etapas mais difíceis de um voo espacial tripulado é a\nreentrada na atmosfera terrestre. Ao reencontrar as camadas\nmais altas da atmosfera, a nave sofre forte desaceleração e sua\ntemperatura externa atinge milhares de graus Celsius. Caso a\nreentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo\nrisco de ela ser lançada de volta ao espaço.",
+    "source": {
+      "file": "unicamp-2024-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            70.64890000000003,
+            291,
+            181.25670000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            343.1683,
+            291,
+            492.2822
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "vectorFigures": [],
+    "classification": {
+      "primaryDiscipline": "Física",
+      "relatedDisciplines": [
+        "Biologia"
+      ],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "answerSource": "unicamp-2024-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}

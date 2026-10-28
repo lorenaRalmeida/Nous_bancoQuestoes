@@ -1,0 +1,98 @@
+{
+  "title": "Questão 26 - UNESP 2026 - 1ª fase",
+  "index": 26,
+  "year": 2026,
+  "discipline": "Inglês",
+  "language": null,
+  "context": "Leia o texto para responder às questões de 23 a 28.\nDr. Mariangela Hungria will receive the $500,000 award\nfor her work to utilize biological processes to sustainably\nimprove crop1 nutrition, yields2 and productivity. The scientist\nwhose discoveries helped Brazil become a global agricultural\npowerhouse has been named the 2025 World Food Prize\nLaureate.\nDr. Mariangela Hungria, a microbiologist from São\nPaulo, has developed dozens of biological seed and soil\ntreatments that help crops source nutrients through soil\nbacteria, significantly increasing yields of major crops while\nalso reducing the need for synthetic fertilizer. Her products\nare estimated to have been used across more than 40 million\nhectares in Brazil, saving farmers up to US$40 billion a year in\ncosts while avoiding more than 180 million metric tons of CO\n2\nequivalent emissions per year.\nDr. Hungria’s work has helped improve yields of wheat,\ncorn, rice, common beans, and other major crops, including\nsoybean, which is now Brazil’s top agricultural export. Over\nher 40-year career with the Brazilian Agricultural Research\nCorporation (Embrapa), national soybean production\nincreased from 15 million tons in 1979 to an anticipated\n173 million tons in the next harvest3 in 2025.\nDr. Hungria, who overcame prejudices against women\nand young mothers in academia to be named one of the\n100 most powerful women in agriculture in Brazil by Forbes\nmagazine in 2021, said she was inspired by Dr. Norman\nBorlaug, the father of the Green Revolution and founder of\nthe World Food Prize. “I like to say that he made the Green\nRevolution possible, and we had this great opportunity to\nstart a ‘micro green revolution’ — a green revolution, but with\nmicroorganisms,” she added. “I can’t quite believe I am now\nreceiving the World Food Prize. Many people questioned\nme and my abilities throughout my career but I believed in\nwhat I was doing and persevered. The role of women\nin agriculture, from farming to science, deserves more\nrecognition. I hope my achievement inspires others to pursue\ntheir passions in science.”\n(www.worldfoodprize.org, 13.05.2025. Adaptado.)\n1 crop: cultivated plant that is grown as food, especially grain, fruit or\nvegetable.\n2 yields: the full amounts of an agricultural product.\n3 harvest: the crops that are cut and collected.\n\nAccording to the fourth paragraph, Dr. Hungria partly attributes\nher success to",
+  "files": [],
+  "alternativesIntroduction": null,
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "prejudice.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fame.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "recognition.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "perseverance.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "religion.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "correctAlternative": "D",
+  "metadata": {
+    "board": "UNESP",
+    "phase": 1,
+    "version": "1",
+    "cancelled": false,
+    "answerStatus": "provided",
+    "rawText": "According to the fourth paragraph, Dr. Hungria partly attributes\nher success to\n(A) prejudice.\n(B) fame.\n(C) recognition.\n(D) perseverance.\n(E) religion.",
+    "sharedContext": "Leia o texto para responder às questões de 23 a 28.\nDr. Mariangela Hungria will receive the $500,000 award\nfor her work to utilize biological processes to sustainably\nimprove crop1 nutrition, yields2 and productivity. The scientist\nwhose discoveries helped Brazil become a global agricultural\npowerhouse has been named the 2025 World Food Prize\nLaureate.\nDr. Mariangela Hungria, a microbiologist from São\nPaulo, has developed dozens of biological seed and soil\ntreatments that help crops source nutrients through soil\nbacteria, significantly increasing yields of major crops while\nalso reducing the need for synthetic fertilizer. Her products\nare estimated to have been used across more than 40 million\nhectares in Brazil, saving farmers up to US$40 billion a year in\ncosts while avoiding more than 180 million metric tons of CO\n2\nequivalent emissions per year.\nDr. Hungria’s work has helped improve yields of wheat,\ncorn, rice, common beans, and other major crops, including\nsoybean, which is now Brazil’s top agricultural export. Over\nher 40-year career with the Brazilian Agricultural Research\nCorporation (Embrapa), national soybean production\nincreased from 15 million tons in 1979 to an anticipated\n173 million tons in the next harvest3 in 2025.\nDr. Hungria, who overcame prejudices against women\nand young mothers in academia to be named one of the\n100 most powerful women in agriculture in Brazil by Forbes\nmagazine in 2021, said she was inspired by Dr. Norman\nBorlaug, the father of the Green Revolution and founder of\nthe World Food Prize. “I like to say that he made the Green\nRevolution possible, and we had this great opportunity to\nstart a ‘micro green revolution’ — a green revolution, but with\nmicroorganisms,” she added. “I can’t quite believe I am now\nreceiving the World Food Prize. Many people questioned\nme and my abilities throughout my career but I believed in\nwhat I was doing and persevered. The role of women\nin agriculture, from farming to science, deserves more\nrecognition. I hope my achievement inspires others to pursue\ntheir passions in science.”\n(www.worldfoodprize.org, 13.05.2025. Adaptado.)\n1 crop: cultivated plant that is grown as food, especially grain, fruit or\nvegetable.\n2 yields: the full amounts of an agricultural product.\n3 harvest: the crops that are cut and collected.",
+    "source": {
+      "file": "unesp-2026-fase1-prova.pdf",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            596.7438
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            382.7549,
+            568,
+            548.3691
+          ],
+          "role": "question"
+        }
+      ]
+    },
+    "alternativeVisualFiles": {},
+    "warnings": [],
+    "reviewRequired": false,
+    "excludedMedia": [
+      "questionCrops",
+      "textOnlyAlternativeImages"
+    ],
+    "notes": "Extração local; enunciado em context. Arquivos relativos à pasta da questão. Sem recortes completos.",
+    "classification": {
+      "primaryDiscipline": "Inglês",
+      "relatedDisciplines": [],
+      "method": "Análise editorial do conteúdo, comando, alternativas e figuras relevantes."
+    },
+    "vectorFigures": [],
+    "answerSource": "unesp-2026-fase1-gabarito.pdf",
+    "validation": {
+      "alternativesComplete": true,
+      "answerChecked": true,
+      "disciplineAssigned": true,
+      "localFilesPresent": true
+    }
+  }
+}
