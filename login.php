@@ -166,7 +166,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
             <p class="auth-message auth-message-success" role="status" style="color: #27ae60; background: rgba(39, 174, 96, 0.1); padding: 10px; border-radius: 8px; margin-bottom: 15px; font-weight: 600; font-size: 14px;"><?= htmlspecialchars($mensagem_login, ENT_QUOTES, 'UTF-8') ?></p>
           <?php endif; ?>
 
-          <form action="login.php" method="POST">
+          <form action="login.php" method="POST" autocomplete="off">
             <input type="hidden" name="acao" value="login">
 
             <div class="form-group">
@@ -203,15 +203,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
             <p class="auth-message auth-message-error" role="alert" style="color: #e74c3c; background: rgba(231, 76, 60, 0.1); padding: 10px; border-radius: 8px; margin-bottom: 15px; font-weight: 600; font-size: 14px;"><?= htmlspecialchars($mensagem_cadastro, ENT_QUOTES, 'UTF-8') ?></p>
           <?php endif; ?>
 
-          <!-- importante: action aponta apenas para login.php para o redirecionamento funcionar -->
-          <form action="login.php" method="POST">
+          <form action="login.php" method="POST" autocomplete="off">
             <input type="hidden" name="acao" value="cadastro">
 
             <div class="form-group">
               <label for="register-name">Nome completo</label>
               <div class="form-input-wrap">
                 <i class="fa-regular fa-user" aria-hidden="true"></i>
-                <input id="register-name" type="text" name="nome" placeholder="Seu nome" autocomplete="name" required>
+                <input id="register-name" type="text" name="nome" placeholder="Seu nome" autocomplete="off" required>
               </div>
             </div>
 
@@ -219,7 +218,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
               <label for="register-email">E-mail</label>
               <div class="form-input-wrap">
                 <i class="fa-regular fa-envelope" aria-hidden="true"></i>
-                <input id="register-email" type="email" name="email" placeholder="seu@email.com" autocomplete="email" required>
+                <input id="register-email" type="email" name="email" placeholder="seu@email.com" autocomplete="off" required>
               </div>
             </div>
 
@@ -281,24 +280,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
       }
     }
 
-    window.onload = function() {
-      // se veio do botão sair, limpa os inputs de login
-      const urlParams = new URLSearchParams(window.location.search);
-      if (urlParams.has('logout')) {
-        const emailInput = document.getElementById('login-email');
-        const senhaInput = document.getElementById('login-password');
-        if (emailInput) emailInput.value = '';
-        if (senhaInput) senhaInput.value = '';
-      }
-
-      // se a url tiver #cadastro (e não for sucesso de cadastro), abre o painel de cadastro
-      if (window.location.hash === '#cadastro' && !urlParams.has('cadastro')) {
-        document.getElementById('login-box').style.display = 'none';
-        document.getElementById('register-box').style.display = 'block';
-      }
-
-      updateThemeIcon();
-    }
   </script>
 </body>
 </html>
