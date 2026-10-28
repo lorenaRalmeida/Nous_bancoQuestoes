@@ -4,7 +4,7 @@
   "year": 2024,
   "discipline": "Física",
   "language": null,
-  "context": "Texto comum às questões 39 e 40.\nA neurotransmissão no organismo humano pode ter origem\nquímica ou elétrica. O entendimento das sinapses elétricas\nocorreu só mais recentemente, graças a estudos avançados das\npropriedades elétricas dos neurônios. As propriedades mecânicas dos neurônios – como a elasticidade – são, por seu turno,\nimportantes para a compreensão do desenvolvimento deles.\n\nEm um experimento destinado a investigar propriedades elásti-\n→\ncas, uma diminuta ponta aplica uma força F na superfície do\nneurônio, produzindo uma deformação ∆L de forma análoga a\numa mola (ver figura). Foram estudados dois neurônios distintos, designados pelos índices 1 e 2, que foram submetidos à\n→ →\nação de forças idênticas (F =F ). As deformações observadas\n1 2\nforam ∆L = 20 nm e ∆L = 30 nm. Se k = 9,0 × 10 –6 N/m é\n1 2 1\na constante elástica para o neurônio 1, pode-se deduzir que o\nvalor de k é\n2",
+  "context": "Texto comum às questões 39 e 40.\nA neurotransmissão no organismo humano pode ter origem\nquímica ou elétrica. O entendimento das sinapses elétricas\nocorreu só mais recentemente, graças a estudos avançados das\npropriedades elétricas dos neurônios. As propriedades mecânicas dos neurônios – como a elasticidade – são, por seu turno,\nimportantes para a compreensão do desenvolvimento deles.\n\nEm um experimento destinado a investigar propriedades elásti-\n→\ncas, uma diminuta ponta aplica uma força F na superfície do\nneurônio, produzindo uma deformação ∆L de forma análoga a\numa mola (ver figura). Foram estudados dois neurônios distintos, designados pelos índices 1 e 2, que foram submetidos à\n→ →\nação de forças idênticas (F =F ). As deformações observadas\n1 2\nforam ∆L = 20 nm e ∆L = 30 nm. Se k = 9,0 × 10⁻⁶ N/m é\n1 2 1\na constante elástica para o neurônio 1, pode-se deduzir que o\nvalor de k é\n2",
   "files": [
     "imagem-01.png"
   ],
@@ -12,25 +12,25 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "4,0 × 10 –6 N/m.",
+      "text": "4,0 × 10⁻⁶ N/m.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "6,0 × 10 –6 N/m.",
+      "text": "6,0 × 10⁻⁶ N/m.",
       "file": null,
       "isCorrect": true
     },
     {
       "letter": "C",
-      "text": "13,5 × 10 –6 N/m.",
+      "text": "13,5 × 10⁻⁶ N/m.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "D",
-      "text": "20,25 × 10 –6 N/m.",
+      "text": "20,25 × 10⁻⁶ N/m.",
       "file": null,
       "isCorrect": false
     }
@@ -91,6 +91,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2024-fase1-prova.pdf",
+      "sha256": "f6c8212438d9f603c3847e0dc33c4c812c7ec5efc402a06ba6ca2382bb1cf288",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            578.2398,
+            568,
+            680.2823
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 15,
+          "bbox": [
+            30,
+            266.77070000000003,
+            291,
+            560.5341
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

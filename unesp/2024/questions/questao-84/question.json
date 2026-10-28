@@ -4,7 +4,7 @@
   "year": 2024,
   "discipline": "Matemática",
   "language": null,
-  "context": "Um trapézio retângulo ABCD foi dividido em um paralelogramo EBCF, um triângulo retângulo EFG e um retângulo AEGD\nde áreas denotadas por S , S e S , respectivamente. O\n1 2 3\ntrapézio, representado no plano cartesiano, mostra que os\nvértices dos três polígonos estão perfeitamente situados na\ninterseção de linhas da malha quadriculada.\nA relação entre as três áreas mencionadas é:",
+  "context": "Um trapézio retângulo ABCD foi dividido em um paralelogramo EBCF, um triângulo retângulo EFG e um retângulo AEGD\nde áreas denotadas por S₁, S₂ e S₃, respectivamente. O\ntrapézio, representado no plano cartesiano, mostra que os\nvértices dos três polígonos estão perfeitamente situados na\ninterseção de linhas da malha quadriculada.\nA relação entre as três áreas mencionadas é:",
   "files": [
     "figura-vetorial-01.png"
   ],
@@ -12,31 +12,31 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "25 · S = 12 · S = 10 · S\n1 2 3",
+      "text": "25 · S₁ = 12 · S₂ = 10 · S₃",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "2 · S = S = S\n1 2 3",
+      "text": "2 · S₁ = S₂ = S₃",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "5 · S = 2 · S = 2 · S\n1 2 3",
+      "text": "5 · S₁ = 2 · S₂ = 2 · S₃",
       "file": null,
       "isCorrect": true
     },
     {
       "letter": "D",
-      "text": "12 · S = 5 · S = 5 · S\n1 2 3",
+      "text": "12 · S₁ = 5 · S₂ = 5 · S₃",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "E",
-      "text": "25 · S = 10 · S = 12 · S\n1 2 3",
+      "text": "25 · S₁ = 10 · S₂ = 12 · S₃",
       "file": null,
       "isCorrect": false
     }
@@ -111,6 +111,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2024-fase1-prova.pdf",
+      "sha256": "cf44ff8db40e2c8f1d62c408860749409ecf6eef9ed10a57b00d6cedb2d586a3",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            30,
+            439.312,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 32,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

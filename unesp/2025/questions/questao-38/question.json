@@ -106,6 +106,37 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "originalRendering": {
+      "source": "unesp-2025-fase1-prova.pdf",
+      "sha256": "c3f177176d93cbbcf91397e1ad1e5dc638842a2ac7a611fde8b83b1dc5128e93",
+      "segments": [
+        {
+          "page": 13,
+          "bbox": [
+            304,
+            24.850399999999922,
+            568,
+            377.4053
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            310.3061
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

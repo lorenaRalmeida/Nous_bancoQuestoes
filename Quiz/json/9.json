@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 9",
+  "index": 9,
+  "year": 2026,
+  "discipline": "Física",
+  "context": "Um carro percorre 120 km em 2 horas. Qual é sua velocidade média?",
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "30 km/h"
+    },
+    {
+      "letter": "B",
+      "text": "60 km/h"
+    },
+    {
+      "letter": "C",
+      "text": "120 km/h"
+    },
+    {
+      "letter": "D",
+      "text": "240 km/h"
+    }
+  ]
+}

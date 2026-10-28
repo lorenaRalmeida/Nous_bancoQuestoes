@@ -4,7 +4,7 @@
   "year": 2025,
   "discipline": "Física",
   "language": null,
-  "context": "A figura representa um termômetro a gás, constituído por\num balão com gás ideal conectado a um sistema de vasos\ncomunicantes que contém mercúrio. Para aferir a temperatura de um determinado líquido colocado em um recipiente,\no balão, com 0,25 mol de gás, foi mergulhado nesse líquido\naté que o equilíbrio térmico entre o gás e o líquido fosse\natingido, estabilizando o desnível entre as colunas de mercúrio em 152 mm, conforme a figura. Considere que, nessa\nmedição, as capacidades térmicas do balão e dos vasos comunicantes sejam desprezíveis.\nSabendo que, na situação de equilíbrio, o volume ocupado\npelo gás foi de 6 × 10 –3 m3, que a pressão atmosférica no\nlocal do experimento era de 105 Pa = 760 mmHg, e considerando o valor de 8 J/mol · K para a constante universal\ndos gases ideais, a temperatura obtida para o líquido, nesse\nexperimento, foi de",
+  "context": "A figura representa um termômetro a gás, constituído por\num balão com gás ideal conectado a um sistema de vasos\ncomunicantes que contém mercúrio. Para aferir a temperatura de um determinado líquido colocado em um recipiente,\no balão, com 0,25 mol de gás, foi mergulhado nesse líquido\naté que o equilíbrio térmico entre o gás e o líquido fosse\natingido, estabilizando o desnível entre as colunas de mercúrio em 152 mm, conforme a figura. Considere que, nessa\nmedição, as capacidades térmicas do balão e dos vasos comunicantes sejam desprezíveis.\nSabendo que, na situação de equilíbrio, o volume ocupado\npelo gás foi de 6 × 10⁻³ m³, que a pressão atmosférica no\nlocal do experimento era de 105 Pa = 760 mmHg, e considerando o valor de 8 J/mol · K para a constante universal\ndos gases ideais, a temperatura obtida para o líquido, nesse\nexperimento, foi de",
   "files": [
     "figura-vetorial-01.png"
   ],
@@ -106,6 +106,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2025-fase1-prova.pdf",
+      "sha256": "c3f177176d93cbbcf91397e1ad1e5dc638842a2ac7a611fde8b83b1dc5128e93",
+      "segments": [
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

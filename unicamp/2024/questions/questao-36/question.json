@@ -10,25 +10,25 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "1,38 × 10 –3 m3.",
+      "text": "1,38 × 10⁻³ m³.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "9,00 × 101 m3.",
+      "text": "9,00 × 10¹ m³.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "7,20 × 102 m3.",
+      "text": "7,20 × 10² m³.",
       "file": null,
       "isCorrect": true
     },
     {
       "letter": "D",
-      "text": "2,88 × 103 m3.",
+      "text": "2,88 × 10³ m³.",
       "file": null,
       "isCorrect": false
     }
@@ -87,6 +87,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2024-fase1-prova.pdf",
+      "sha256": "f6c8212438d9f603c3847e0dc33c4c812c7ec5efc402a06ba6ca2382bb1cf288",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            70.64890000000003,
+            291,
+            181.25670000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            492.2822,
+            291,
+            653.4693
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

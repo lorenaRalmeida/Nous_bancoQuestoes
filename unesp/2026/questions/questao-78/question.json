@@ -4,7 +4,7 @@
   "year": 2026,
   "discipline": "Física",
   "language": null,
-  "context": "Considere que, em uma viagem de 2 h de duração, um veículo que usa gasolina como combustível e transporta apenas\nseu motorista de 70 kg, mova-se com velocidade escalar média de 50 km/h, percorrendo, em média, 10 km com 1 litro de\ngasolina. Admita que, nessa viagem, apenas 1% da energia\nliberada na combustão completa da gasolina seja utilizada\npara mover o motorista do veículo.\nConsiderando que a energia de combustão da gasolina é\n4 × 107 J/kg, que a densidade da gasolina é de 0,7 kg/L\ne adotando g = 10 m/s2, se toda a energia utilizada para\nmover o motorista desse veículo fosse integralmente transformada em energia potencial gravitacional desse motorista,\na altura atingida por ele, em relação ao solo, seria de",
+  "context": "Considere que, em uma viagem de 2 h de duração, um veículo que usa gasolina como combustível e transporta apenas\nseu motorista de 70 kg, mova-se com velocidade escalar média de 50 km/h, percorrendo, em média, 10 km com 1 litro de\ngasolina. Admita que, nessa viagem, apenas 1% da energia\nliberada na combustão completa da gasolina seja utilizada\npara mover o motorista do veículo.\nConsiderando que a energia de combustão da gasolina é\n4 × 10⁷ J/kg, que a densidade da gasolina é de 0,7 kg/L\ne adotando g = 10 m/s2, se toda a energia utilizada para\nmover o motorista desse veículo fosse integralmente transformada em energia potencial gravitacional desse motorista,\na altura atingida por ele, em relação ao solo, seria de",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
@@ -93,6 +93,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2026-fase1-prova.pdf",
+      "sha256": "4e296f765917ccf33391ee94d1bcfc9d8398d06ec87c720cf02a8a3f5f402e8e",
+      "segments": [
+        {
+          "page": 32,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 33,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

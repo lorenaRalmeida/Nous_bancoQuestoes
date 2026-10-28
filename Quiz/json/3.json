@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 3",
+  "index": 3,
+  "year": 2026,
+  "discipline": "Português",
+  "context": "Na frase “Os alunos estudaram ontem”, qual é o sujeito?",
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ontem"
+    },
+    {
+      "letter": "B",
+      "text": "estudaram"
+    },
+    {
+      "letter": "C",
+      "text": "Os alunos"
+    },
+    {
+      "letter": "D",
+      "text": "alunos estudaram"
+    }
+  ]
+}

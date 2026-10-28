@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 10",
+  "index": 10,
+  "year": 2026,
+  "discipline": "Inglês",
+  "context": "Qual é a tradução de “book” para o português?",
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Mesa"
+    },
+    {
+      "letter": "B",
+      "text": "Janela"
+    },
+    {
+      "letter": "C",
+      "text": "Livro"
+    },
+    {
+      "letter": "D",
+      "text": "Caderno"
+    }
+  ]
+}

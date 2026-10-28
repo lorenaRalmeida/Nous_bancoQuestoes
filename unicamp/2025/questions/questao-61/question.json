@@ -4,7 +4,7 @@
   "year": 2025,
   "discipline": "Química",
   "language": null,
-  "context": "Para a safra de 2023/2024, prevê-se uma produção de 34 bilhões de litros de etanol, com geração de 408 bilhões de litros\nde vinhaça, subproduto de alto teor de matéria orgânica. Nas\núltimas décadas, visando à sustentabilidade, o emprego da vinhaça in natura evoluiu: seu descarte direto em rios e em áreas\nde sacrifício deu lugar à fertirrigação direta (devido ao alto teor\nde potássio do subproduto). A partir de 2015, empregando biodigestores anaeróbicos, a vinhaça in natura passou a ser convertida em biogás, o qual, após purificação, é denominado gás\nnatural renovável. Em média, 1 m3 de vinhaça produz até 14 m3\nde biogás, e o subproduto desse processo é a vinhaça líquida\nbiodigerida, que continua sendo utilizada na fertirrigação.\nEm vista dessas informações, pode-se concluir que a sustentabilidade do processo de biodigestão da vinhaça in natura é devida\nà geração de energia renovável a partir da queima do",
+  "context": "Para a safra de 2023/2024, prevê-se uma produção de 34 bilhões de litros de etanol, com geração de 408 bilhões de litros\nde vinhaça, subproduto de alto teor de matéria orgânica. Nas\núltimas décadas, visando à sustentabilidade, o emprego da vinhaça in natura evoluiu: seu descarte direto em rios e em áreas\nde sacrifício deu lugar à fertirrigação direta (devido ao alto teor\nde potássio do subproduto). A partir de 2015, empregando biodigestores anaeróbicos, a vinhaça in natura passou a ser convertida em biogás, o qual, após purificação, é denominado gás\nnatural renovável. Em média, 1 m³ de vinhaça produz até 14 m³\nde biogás, e o subproduto desse processo é a vinhaça líquida\nbiodigerida, que continua sendo utilizada na fertirrigação.\nEm vista dessas informações, pode-se concluir que a sustentabilidade do processo de biodigestão da vinhaça in natura é devida\nà geração de energia renovável a partir da queima do",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
@@ -77,6 +77,31 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2025-fase1-prova.pdf",
+      "sha256": "41564e9bbd20e03a9b62356c0ccf29b6070bf615b9ac8ecfe660021548cd0710",
+      "segments": [
+        {
+          "page": 20,
+          "bbox": [
+            304,
+            168.4724,
+            568,
+            575.3385
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

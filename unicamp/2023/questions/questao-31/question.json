@@ -10,25 +10,25 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "2,0 × 104 J.",
+      "text": "2,0 × 10⁴ J.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "1,6 × 105 J.",
+      "text": "1,6 × 10⁵ J.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "2,0 × 105 J.",
+      "text": "2,0 × 10⁵ J.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "D",
-      "text": "1,6 × 106 J.",
+      "text": "1,6 × 10⁶ J.",
       "file": null,
       "isCorrect": true
     }
@@ -87,6 +87,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2023-fase1-prova.pdf",
+      "sha256": "520cf58ec2d0b431991188ab0d36c9227e234dcee3dbab6eb47e4f0a2af6a816",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            139.69799999999998,
+            568,
+            244.5752
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            397.6891,
+            568,
+            542.2378
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

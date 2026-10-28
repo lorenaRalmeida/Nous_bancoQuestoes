@@ -105,6 +105,47 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "originalRendering": {
+      "source": "unesp-2023-fase1-prova.pdf",
+      "sha256": "d08b8daf2570f63174b8a01c48dfe6c7e40e01dc989b1d1974a8b9c115be171d",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            363.925
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            526.7045,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

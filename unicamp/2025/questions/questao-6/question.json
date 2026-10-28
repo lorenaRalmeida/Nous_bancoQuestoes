@@ -112,6 +112,57 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "originalRendering": {
+      "source": "unicamp-2025-fase1-prova.pdf",
+      "sha256": "41564e9bbd20e03a9b62356c0ccf29b6070bf615b9ac8ecfe660021548cd0710",
+      "segments": [
+        {
+          "page": 4,
+          "bbox": [
+            30,
+            618.5558,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            40,
+            568,
+            454.2913
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 4,
+          "bbox": [
+            304,
+            758.5575,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 5,
+          "bbox": [
+            30,
+            40,
+            291,
+            339.4111
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

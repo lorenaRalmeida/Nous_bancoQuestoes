@@ -4,7 +4,7 @@
   "year": 2025,
   "discipline": "Física",
   "language": null,
-  "context": "Uma bola é chutada obliquamente, no instante t = 0, com\n0\nvelocidade inicial v , no ponto A de uma elevação. Essa bola\n0\ndescreve a trajetória indicada na figura passando pelo ponto\nB, ponto mais alto de sua trajetória, no instante t = 0,8 s, e\natinge o solo horizontal no ponto C, no instante t = 2 s.\nDesprezando a resistência do ar, adotando g = 10 m/s2 e\nsabendo que a equação da trajetória dessa bola, desde o\nponto A até o ponto C, é y = – 0,2 · x2 + 1,6 · x + 4, o módulo\nde v é\n0",
+  "context": "Uma bola é chutada obliquamente, no instante t = 0, com\n0\nvelocidade inicial v , no ponto A de uma elevação. Essa bola\n0\ndescreve a trajetória indicada na figura passando pelo ponto\nB, ponto mais alto de sua trajetória, no instante t = 0,8 s, e\natinge o solo horizontal no ponto C, no instante t = 2 s.\nDesprezando a resistência do ar, adotando g = 10 m/s2 e\nsabendo que a equação da trajetória dessa bola, desde o\nponto A até o ponto C, é y = – 0,2 · x² + 1,6 · x + 4, o módulo\nde v é\n0",
   "files": [
     "figura-vetorial-01.png"
   ],
@@ -96,6 +96,31 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2025-fase1-prova.pdf",
+      "sha256": "c3f177176d93cbbcf91397e1ad1e5dc638842a2ac7a611fde8b83b1dc5128e93",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            441.6407
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

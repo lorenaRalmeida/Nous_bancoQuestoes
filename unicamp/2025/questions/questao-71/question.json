@@ -4,7 +4,7 @@
   "year": 2025,
   "discipline": "Biologia",
   "language": null,
-  "context": "Estima-se que mais de dois milhões de espécies habitem os oceanos; entretanto, somente 10% da vida oceânica é conhecida.\nEm janeiro de 2024, uma expedição na costa do Chile avaliou\num trecho de 2.900 km2 de montanhas subaquáticas criadas\npor atividade vulcânica, o que resultou em uma região única\ncom correntes marítimas e baixo teor de oxigênio, gerando um\nnível elevado de endemismo.\nEm menos de um mês, a expedição documentou cem novas\nespécies animais de profundidade, incluindo corais, esponjas,\nlagostas, polvos, caravelas, águas-vivas, peixes, camarões, entre\noutros.\n(Adaptado de https://www.nytimes.com/2024/03/10/science/new-species-sea-discove\nry.html. Acesso em 02/04/2024.)\nSobre essa expedição marinha, é correto afirmar que os animais",
+  "context": "Estima-se que mais de dois milhões de espécies habitem os oceanos; entretanto, somente 10% da vida oceânica é conhecida.\nEm janeiro de 2024, uma expedição na costa do Chile avaliou\num trecho de 2.900 km² de montanhas subaquáticas criadas\npor atividade vulcânica, o que resultou em uma região única\ncom correntes marítimas e baixo teor de oxigênio, gerando um\nnível elevado de endemismo.\nEm menos de um mês, a expedição documentou cem novas\nespécies animais de profundidade, incluindo corais, esponjas,\nlagostas, polvos, caravelas, águas-vivas, peixes, camarões, entre\noutros.\n(Adaptado de https://www.nytimes.com/2024/03/10/science/new-species-sea-discove\nry.html. Acesso em 02/04/2024.)\nSobre essa expedição marinha, é correto afirmar que os animais",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
@@ -89,6 +89,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2025-fase1-prova.pdf",
+      "sha256": "41564e9bbd20e03a9b62356c0ccf29b6070bf615b9ac8ecfe660021548cd0710",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            30,
+            570.621,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            40,
+            568,
+            202.73379999999997
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

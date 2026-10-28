@@ -10,25 +10,25 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "f−1(x)= f(x), para x≠1 .",
+      "text": "f⁻¹(x)= f(x), para x≠1 .",
       "file": null,
       "isCorrect": true
     },
     {
       "letter": "B",
-      "text": "f−1(x)=1/ f(x), para x≠±1 .",
+      "text": "f⁻¹(x)=1/ f(x), para x≠±1 .",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "f−1(x)=−f(x), para x≠1.",
+      "text": "f⁻¹(x)=−f(x), para x≠1.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "D",
-      "text": "f−1(x)= f(−x), para x≠1.",
+      "text": "f⁻¹(x)= f(−x), para x≠1.",
       "file": null,
       "isCorrect": false
     }
@@ -102,6 +102,51 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2023-fase1-prova.pdf",
+      "sha256": "520cf58ec2d0b431991188ab0d36c9227e234dcee3dbab6eb47e4f0a2af6a816",
+      "segments": [
+        {
+          "page": 17,
+          "bbox": [
+            304,
+            645.2991,
+            568,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 18,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            236.73259999999993
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

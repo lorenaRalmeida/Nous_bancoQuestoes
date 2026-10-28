@@ -4,7 +4,7 @@
   "year": 2025,
   "discipline": "Física",
   "language": null,
-  "context": "Texto comum às questões 9 e 10.\nOs últimos anos testemunharam a retomada do interesse de alguns países pela exploração da Lua. Diversas missões com destino a esse satélite foram lançadas: Chandrayaan-3 (Índia, 2023),\nLuna 25 (Rússia, 2023), Peregrine Mission One (EUA, 2024),\nSlim (Japão, 2024) e Chang´e 6 (China, 2024).\n\nUma sonda descreve, em torno da Lua, uma órbita circular de\nraio r = 1,848 × 106 m e dá uma volta completa num período\nT = 2,0 h. Nesse movimento circular uniforme, qual a velocidade escalar da sonda em relação ao centro da Lua?\nSe necessário, use π ≈ 3,0.",
+  "context": "Texto comum às questões 9 e 10.\nOs últimos anos testemunharam a retomada do interesse de alguns países pela exploração da Lua. Diversas missões com destino a esse satélite foram lançadas: Chandrayaan-3 (Índia, 2023),\nLuna 25 (Rússia, 2023), Peregrine Mission One (EUA, 2024),\nSlim (Japão, 2024) e Chang´e 6 (China, 2024).\n\nUma sonda descreve, em torno da Lua, uma órbita circular de\nraio r = 1,848 × 10⁶ m e dá uma volta completa num período\nT = 2,0 h. Nesse movimento circular uniforme, qual a velocidade escalar da sonda em relação ao centro da Lua?\nSe necessário, use π ≈ 3,0.",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
@@ -97,6 +97,51 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2025-fase1-prova.pdf",
+      "sha256": "41564e9bbd20e03a9b62356c0ccf29b6070bf615b9ac8ecfe660021548cd0710",
+      "segments": [
+        {
+          "page": 5,
+          "bbox": [
+            304,
+            695.3614,
+            568,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            40,
+            291,
+            48.02729999999997
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 6,
+          "bbox": [
+            30,
+            48.02729999999997,
+            291,
+            242.3628
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

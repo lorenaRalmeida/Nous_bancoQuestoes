@@ -91,6 +91,37 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "originalRendering": {
+      "source": "unicamp-2024-fase1-prova.pdf",
+      "sha256": "f6c8212438d9f603c3847e0dc33c4c812c7ec5efc402a06ba6ca2382bb1cf288",
+      "segments": [
+        {
+          "page": 10,
+          "bbox": [
+            304,
+            253.6725,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 11,
+          "bbox": [
+            30,
+            40,
+            291,
+            190.46460000000002
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

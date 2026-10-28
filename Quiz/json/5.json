@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 5",
+  "index": 5,
+  "year": 2026,
+  "discipline": "História",
+  "context": "Em que ano foi proclamada a República no Brasil?",
+  "correctAlternative": "D",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1500"
+    },
+    {
+      "letter": "B",
+      "text": "1822"
+    },
+    {
+      "letter": "C",
+      "text": "1888"
+    },
+    {
+      "letter": "D",
+      "text": "1889"
+    }
+  ]
+}

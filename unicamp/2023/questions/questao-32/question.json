@@ -4,31 +4,31 @@
   "year": 2023,
   "discipline": "Física",
   "language": null,
-  "context": "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o\nmundo, oferece um belo espetáculo para os observadores no\nsolo. Um maçarico é usado para aquecer o ar no interior do\nbalão, o que faz variar a densidade do ar, permitindo o controle\ndo movimento de subida e descida do balão.\n\nUm balão tem um volume V = 1,6 × 103 m3 de ar quente no\nseu interior na temperatura T = 400 K e na pressão atmosférica\np = 1,0 atm = 1,0 × 105 Pa. Sabendo-se que o ar quente se\n0\ncomporta como um gás ideal e que a constante universal dos\ngases é R ≅ 8 J/mol.K, quantos mols de ar n há no interior do\nbalão?",
+  "context": "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o\nmundo, oferece um belo espetáculo para os observadores no\nsolo. Um maçarico é usado para aquecer o ar no interior do\nbalão, o que faz variar a densidade do ar, permitindo o controle\ndo movimento de subida e descida do balão.\n\nUm balão tem um volume V = 1,6 × 10³ m³ de ar quente no\nseu interior na temperatura T = 400 K e na pressão atmosférica\np = 1,0 atm = 1,0 × 10⁵ Pa. Sabendo-se que o ar quente se\n0\ncomporta como um gás ideal e que a constante universal dos\ngases é R ≅ 8 J/mol.K, quantos mols de ar n há no interior do\nbalão?",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
     {
       "letter": "A",
-      "text": "5,0 × 10−1 mol.",
+      "text": "5,0 × 10⁻¹ mol.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "4,0 × 100 mol.",
+      "text": "4,0 × 10⁰ mol.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "5,0 × 104 mol.",
+      "text": "5,0 × 10⁴ mol.",
       "file": null,
       "isCorrect": true
     },
     {
       "letter": "D",
-      "text": "4,0 × 105 mol.",
+      "text": "4,0 × 10⁵ mol.",
       "file": null,
       "isCorrect": false
     }
@@ -87,6 +87,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2023-fase1-prova.pdf",
+      "sha256": "520cf58ec2d0b431991188ab0d36c9227e234dcee3dbab6eb47e4f0a2af6a816",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            139.69799999999998,
+            568,
+            244.5752
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            542.2378,
+            568,
+            711.4552
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

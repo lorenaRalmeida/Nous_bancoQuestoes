@@ -1,0 +1,26 @@
+/* Quiz: uma sequência de dez questões, sem filtros nem paginação. */
+.pagina-quiz { background: linear-gradient(160deg, var(--roxo-bg), var(--fundo) 48%); }
+.pagina-quiz .banco-conteudo { max-width: 880px; counter-reset: pergunta; }
+.pagina-quiz .banco-conteudo > header { padding: 30px 0; margin-bottom: 16px; text-align: center; border: 0; }
+.pagina-quiz .banco-conteudo h1 { font-size: 48px; color: var(--roxo); }
+.pagina-quiz .banco-conteudo > header p { line-height: 1.7; }
+.pagina-quiz .cartao { counter-increment: pergunta; padding: 30px; margin: 24px 0; border-top: 4px solid var(--roxo); border-radius: 22px; }
+.pagina-quiz .q-topo { padding-bottom: 18px; margin-bottom: 20px; }
+.pagina-quiz .q-topo h2 { font-size: 17px; color: var(--roxo); }
+.pagina-quiz .q-topo p { font-size: 12px; }
+.pagina-quiz .enunciado { font-size: 19px; font-weight: 600; line-height: 1.7; margin-bottom: 22px; }
+.pagina-quiz .alternativas { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.pagina-quiz .alternativa { min-height: 76px; padding: 15px; background: var(--card); border-width: 2px; }
+.pagina-quiz .alternativa:hover { background: var(--roxo-bg); }
+.pagina-quiz .alternativa.certa { background: #e1f5e8; }
+.pagina-quiz .alternativa.errada { background: #ffe9e9; }
+@media (max-width: 600px) {
+  .pagina-quiz .cartao { padding: 20px; }
+  .pagina-quiz .alternativas { grid-template-columns: 1fr; }
+  .pagina-quiz .enunciado { font-size: 17px; }
+}
+.quiz-etapa { margin: 12px 0; text-align: center; color: var(--roxo); font-size: 14px; font-weight: 700; }
+.quiz-feedback, .quiz-concluido { scroll-margin-top: 92px; }
+.quiz-concluido { padding: 36px; margin: 24px 0; text-align: center; background: var(--card); border: 1px solid var(--linha); border-radius: 22px; }
+.quiz-concluido h2 { color: var(--roxo); margin-bottom: 14px; }
+.quiz-concluido p { margin-bottom: 24px; }

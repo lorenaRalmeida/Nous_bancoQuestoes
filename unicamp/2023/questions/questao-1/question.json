@@ -4,7 +4,7 @@
   "year": 2023,
   "discipline": "Português",
   "language": null,
-  "context": "Texto 1\n(MARZ, Marília. Folha de São Paulo, 4 jun. 2022, p. A2.)\nTexto 2\nCracolândia vive 30 anos de eterno retorno\nRepressão à droga não faz mais do que dispersar usuários; especialistas cobram articulação de políticas\nEla surgiu na Santa Efigênia, nos cruzamentos da rua dos Gusmões com as pequenas ruas dos Protestantes e do Triunfo, logo\natrás da Estação Ferroviária da Luz, no centro de São Paulo. E há\nquase 30 anos, migra de um quarteirão para outro, em modo\nconstante, se esparramando pelos bairros vizinhos.\nA itinerância da maior cena aberta de uso de crack e outras drogas do país, batizada de cracolândia nos anos 1990, é fruto ora\nde um jogo de esconde-esconde, a partir do mando do crime\norganizado, ora do empurra-empurra das operações policiais\nque incidem sobre ela, onde quer que esteja.\n(Adaptado de MENA, Fernanda, Cracolândia vive 30 anos de eterno retorno. Folha de\nSão Paulo, 4 jun. 2022, p. B4.)\nIndique a alternativa que apresenta palavras ou termos do Texto 2 diretamente relacionados a elementos representados na\ncharge (Texto 1).",
+  "context": "Texto 1\n![Charge de Marília Marz](imagem-01.png)\n(MARZ, Marília. Folha de São Paulo, 4 jun. 2022, p. A2.)\nTexto 2\nCracolândia vive 30 anos de eterno retorno\nRepressão à droga não faz mais do que dispersar usuários; especialistas cobram articulação de políticas\nEla surgiu na Santa Efigênia, nos cruzamentos da rua dos Gusmões com as pequenas ruas dos Protestantes e do Triunfo, logo\natrás da Estação Ferroviária da Luz, no centro de São Paulo. E há\nquase 30 anos, migra de um quarteirão para outro, em modo\nconstante, se esparramando pelos bairros vizinhos.\nA itinerância da maior cena aberta de uso de crack e outras drogas do país, batizada de cracolândia nos anos 1990, é fruto ora\nde um jogo de esconde-esconde, a partir do mando do crime\norganizado, ora do empurra-empurra das operações policiais\nque incidem sobre ela, onde quer que esteja.\n(Adaptado de MENA, Fernanda, Cracolândia vive 30 anos de eterno retorno. Folha de\nSão Paulo, 4 jun. 2022, p. B4.)\nIndique a alternativa que apresenta palavras ou termos do Texto 2 diretamente relacionados a elementos representados na\ncharge (Texto 1).",
   "files": [
     "imagem-01.png"
   ],
@@ -79,6 +79,31 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Charge posicionada no Texto 1, antes da referência bibliográfica."
+    },
+    "originalRendering": {
+      "source": "unicamp-2023-fase1-prova.pdf",
+      "sha256": "520cf58ec2d0b431991188ab0d36c9227e234dcee3dbab6eb47e4f0a2af6a816",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            676.5751
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

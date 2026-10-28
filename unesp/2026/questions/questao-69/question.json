@@ -4,7 +4,7 @@
   "year": 2026,
   "discipline": "Química",
   "language": null,
-  "context": "As chamadas pilhas comuns ou pilhas secas contêm em seu\ninterior um bastão central de grafita, C (s), de alta pureza, que\natua como condutor inerte.\n(Angélica Ambrogi et al. Unidades modulares de Química, 1980. Adaptado.)\nO bastão utilizado em uma pilha comum de tamanho grande\nde determinado fabricante tem o formato de um cilindro circular reto, de diâmetro da base igual a 0,8 cm e altura igual a\n5,6 cm, como mostra a figura.\nSabendo que a densidade da grafita é 2,2 g/cm3, a quantidade, em mol, de átomos de carbono presente nesse bastão é,\naproximadamente,",
+  "context": "As chamadas pilhas comuns ou pilhas secas contêm em seu\ninterior um bastão central de grafita, C (s), de alta pureza, que\natua como condutor inerte.\n(Angélica Ambrogi et al. Unidades modulares de Química, 1980. Adaptado.)\nO bastão utilizado em uma pilha comum de tamanho grande\nde determinado fabricante tem o formato de um cilindro circular reto, de diâmetro da base igual a 0,8 cm e altura igual a\n5,6 cm, como mostra a figura.\nSabendo que a densidade da grafita é 2,2 g/cm³, a quantidade, em mol, de átomos de carbono presente nesse bastão é,\naproximadamente,",
   "files": [
     "imagem-01.png",
     "figura-vetorial-01.png",
@@ -119,6 +119,31 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2026-fase1-prova.pdf",
+      "sha256": "4e296f765917ccf33391ee94d1bcfc9d8398d06ec87c720cf02a8a3f5f402e8e",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            469.4754
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

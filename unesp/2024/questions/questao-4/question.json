@@ -93,6 +93,37 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "originalRendering": {
+      "source": "unesp-2024-fase1-prova.pdf",
+      "sha256": "cf44ff8db40e2c8f1d62c408860749409ecf6eef9ed10a57b00d6cedb2d586a3",
+      "segments": [
+        {
+          "page": 3,
+          "bbox": [
+            30,
+            24.850399999999922,
+            291,
+            572.1612
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 3,
+          "bbox": [
+            304,
+            401.0856,
+            568,
+            563.8651
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

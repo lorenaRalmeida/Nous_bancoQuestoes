@@ -12,25 +12,25 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "– 1,0×10–7 oC–1.",
+      "text": "– 1,0×10⁻⁷ oC–1.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "– 5,0×10–6 oC–1.",
+      "text": "– 5,0×10⁻⁶ oC–1.",
       "file": null,
       "isCorrect": true
     },
     {
       "letter": "C",
-      "text": "– 2,5×10–4 oC–1.",
+      "text": "– 2,5×10⁻⁴ oC–1.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "D",
-      "text": "– 4,0×10–2 oC–1.\n)mm(L",
+      "text": "– 4,0×10⁻² oC–1.\n)mm(L",
       "file": null,
       "isCorrect": false
     }
@@ -100,6 +100,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2025-fase1-prova.pdf",
+      "sha256": "41564e9bbd20e03a9b62356c0ccf29b6070bf615b9ac8ecfe660021548cd0710",
+      "segments": [
+        {
+          "page": 6,
+          "bbox": [
+            304,
+            419.1208,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            40,
+            291,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

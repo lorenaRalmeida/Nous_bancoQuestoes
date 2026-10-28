@@ -10,31 +10,31 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "8 × 10– 6.",
+      "text": "8 × 10⁻⁶.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "4 × 10– 6.",
+      "text": "4 × 10⁻⁶.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "5 × 10– 7.",
+      "text": "5 × 10⁻⁷.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "D",
-      "text": "8 × 10– 4.",
+      "text": "8 × 10⁻⁴.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "E",
-      "text": "5 × 10– 5.",
+      "text": "5 × 10⁻⁵.",
       "file": null,
       "isCorrect": true
     }
@@ -93,6 +93,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2024-fase1-prova.pdf",
+      "sha256": "cf44ff8db40e2c8f1d62c408860749409ecf6eef9ed10a57b00d6cedb2d586a3",
+      "segments": [
+        {
+          "page": 27,
+          "bbox": [
+            304,
+            392.8406,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 28,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

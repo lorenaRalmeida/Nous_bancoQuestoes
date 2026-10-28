@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 7",
+  "index": 7,
+  "year": 2026,
+  "discipline": "Biologia",
+  "context": "Qual organela é responsável pela maior parte da respiração celular aeróbica?",
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ribossomo"
+    },
+    {
+      "letter": "B",
+      "text": "Mitocôndria"
+    },
+    {
+      "letter": "C",
+      "text": "Lisossomo"
+    },
+    {
+      "letter": "D",
+      "text": "Núcleo"
+    }
+  ]
+}

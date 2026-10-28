@@ -4,7 +4,7 @@
   "year": 2024,
   "discipline": "Física",
   "language": null,
-  "context": "A icterícia, condição bastante comum em recém-nascidos, é caracterizada pela cor amarela da da pele. Esse problema relaciona-se à dificuldade do fígado para metabolizar\na bilirrubina, um pigmento gerado pelo metabolismo das células vermelhas do sangue. A principal terapia em uso para\nicterícia é a fototerapia, com a exposição do recém-nascido a\numa fonte luminosa.\nDevido às propriedades da bilirrubina e da pele, a luz\nmais efetiva para esse tratamento é a com comprimentos de\nonda predominantemente entre 425 nm e 475 nm, no espectro da cor azul. Luzes de outras cores, como a verde, têm espectro de emissão fora do espectro de absorção da molécula\nde bilirrubina. Já a luz ultravioleta emitida pelas lâmpadas de\nfototerapia é praticamente absorvida em sua totalidade pelo\nvidro da lâmpada e pela cobertura da unidade de fototerapia.\n(Scientia Medica, v. 15, abril/junho de 2005. Adaptado.)\nA figura mostra a curva de absorção da bilirrubina em função\ndo comprimento de onda da luz.\n(www.sarda.org.ar. Adaptado.)\nAdotando-se c = 3 × 108 m/s, sabendo que 1 nm = 10– 9 m e\nde acordo com as informações do texto e da figura, tem-se\nque",
+  "context": "A icterícia, condição bastante comum em recém-nascidos, é caracterizada pela cor amarela da da pele. Esse problema relaciona-se à dificuldade do fígado para metabolizar\na bilirrubina, um pigmento gerado pelo metabolismo das células vermelhas do sangue. A principal terapia em uso para\nicterícia é a fototerapia, com a exposição do recém-nascido a\numa fonte luminosa.\nDevido às propriedades da bilirrubina e da pele, a luz\nmais efetiva para esse tratamento é a com comprimentos de\nonda predominantemente entre 425 nm e 475 nm, no espectro da cor azul. Luzes de outras cores, como a verde, têm espectro de emissão fora do espectro de absorção da molécula\nde bilirrubina. Já a luz ultravioleta emitida pelas lâmpadas de\nfototerapia é praticamente absorvida em sua totalidade pelo\nvidro da lâmpada e pela cobertura da unidade de fototerapia.\n(Scientia Medica, v. 15, abril/junho de 2005. Adaptado.)\nA figura mostra a curva de absorção da bilirrubina em função\ndo comprimento de onda da luz.\n(www.sarda.org.ar. Adaptado.)\nAdotando-se c = 3 × 10⁸ m/s, sabendo que 1 nm = 10– 9 m e\nde acordo com as informações do texto e da figura, tem-se\nque",
   "files": [
     "imagem-01.png"
   ],
@@ -30,7 +30,7 @@
     },
     {
       "letter": "D",
-      "text": "a cor com frequência aproximada de 6,5 × 1014 Hz é a\nmais efetiva no tratamento da icterícia.",
+      "text": "a cor com frequência aproximada de 6,5 × 10¹⁴ Hz é a\nmais efetiva no tratamento da icterícia.",
       "file": null,
       "isCorrect": true
     },
@@ -95,6 +95,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2024-fase1-prova.pdf",
+      "sha256": "cf44ff8db40e2c8f1d62c408860749409ecf6eef9ed10a57b00d6cedb2d586a3",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

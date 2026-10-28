@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 6",
+  "index": 6,
+  "year": 2026,
+  "discipline": "Geografia",
+  "context": "Qual é o maior bioma brasileiro em área?",
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Caatinga"
+    },
+    {
+      "letter": "B",
+      "text": "Pampa"
+    },
+    {
+      "letter": "C",
+      "text": "Amazônia"
+    },
+    {
+      "letter": "D",
+      "text": "Pantanal"
+    }
+  ]
+}

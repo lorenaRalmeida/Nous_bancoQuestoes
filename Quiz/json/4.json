@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 4",
+  "index": 4,
+  "year": 2026,
+  "discipline": "Português",
+  "context": "Qual palavra é sinônimo de “alegre”?",
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Triste"
+    },
+    {
+      "letter": "B",
+      "text": "Contente"
+    },
+    {
+      "letter": "C",
+      "text": "Lento"
+    },
+    {
+      "letter": "D",
+      "text": "Distante"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "year": 2023,
   "discipline": "Biologia",
   "language": null,
-  "context": "Fábio e Rogério, dois irmãos gêmeos monozigóticos, adultos\ne saudáveis, encontraram-se em São Paulo, a fim de doarem\nsangue para o irmão mais novo, Marcelo, também adulto,\nque acabara de ser diagnosticado com leucemia mieloide.\nOs três moram em São Paulo, mas Fábio voltou às pressas\ndo Guarujá, no litoral de São Paulo, onde passava férias há\n20 dias. Rogério voltou de La Paz, na Bolívia, onde também\nestava em férias há 20 dias. Assim que que se encontraram,\nforam submetidos a um exame de sangue, hemograma, para\navaliação de seus parâmetros hematológicos.\nA tabela apresenta alguns dados obtidos com o hemograma\nde cada um deles.\nValores\nIndivíduo 1 Indivíduo 2 Indivíduo 3 de\nreferência\nEritrócitos\n6,5 2,5 4,5 4,5 a 5,9\n(número de milhões/mm3 milhões/mm3 milhões/mm3 milhões/mm3\ncélulas)\nHematócrito\n(percentual\ndo sangue\n53% 20% 40% 40 a 52%\nocupado\npelas\nhemácias)\nCHCM\n(concentração\nde hemoglobina 38% 28% 31% 31 a 36%\ndentro da\ncélula)\nLeucócitos 4 500\n(número de 7 800/mm3 38 000/mm3 9 000/mm3 a\ncélulas) 11 000/mm3\nOs resultados dos hemogramas indicam que os indivíduos 1,\n2 e 3 correspondem, respectivamente, a",
+  "context": "Fábio e Rogério, dois irmãos gêmeos monozigóticos, adultos\ne saudáveis, encontraram-se em São Paulo, a fim de doarem\nsangue para o irmão mais novo, Marcelo, também adulto,\nque acabara de ser diagnosticado com leucemia mieloide.\nOs três moram em São Paulo, mas Fábio voltou às pressas\ndo Guarujá, no litoral de São Paulo, onde passava férias há\n20 dias. Rogério voltou de La Paz, na Bolívia, onde também\nestava em férias há 20 dias. Assim que que se encontraram,\nforam submetidos a um exame de sangue, hemograma, para\navaliação de seus parâmetros hematológicos.\nA tabela apresenta alguns dados obtidos com o hemograma\nde cada um deles.\nValores\nIndivíduo 1 Indivíduo 2 Indivíduo 3 de\nreferência\nEritrócitos\n6,5 2,5 4,5 4,5 a 5,9\n(número de milhões/mm³ milhões/mm³ milhões/mm³ milhões/mm³\ncélulas)\nHematócrito\n(percentual\ndo sangue\n53% 20% 40% 40 a 52%\nocupado\npelas\nhemácias)\nCHCM\n(concentração\nde hemoglobina 38% 28% 31% 31 a 36%\ndentro da\ncélula)\nLeucócitos 4 500\n(número de 7 800/mm³ 38 000/mm³ 9 000/mm³ a\ncélulas) 11 000/mm³\nOs resultados dos hemogramas indicam que os indivíduos 1,\n2 e 3 correspondem, respectivamente, a",
   "files": [
     "figura-vetorial-01.png"
   ],
@@ -106,6 +106,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2023-fase1-prova.pdf",
+      "sha256": "d08b8daf2570f63174b8a01c48dfe6c7e40e01dc989b1d1974a8b9c115be171d",
+      "segments": [
+        {
+          "page": 23,
+          "bbox": [
+            304,
+            27.526499999999942,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 24,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

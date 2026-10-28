@@ -4,7 +4,7 @@
   "year": 2026,
   "discipline": "Química",
   "language": null,
-  "context": "Analise a tabela que fornece valores de constantes de dissociação (K ) de dois ácidos e (K ) de duas bases a 25 ºC.\na b\nÁcido K Base K\na b\nClorídrico Muito Hidróxido de Muito\n(HCl) grande sódio (NaOH) grande\nAcético\n1,8 × 10–5 Amônia (NH ) 1,8 × 10–5\n(CH COOH) 3\n3\nConsidere quatro soluções aquosas 0,1 mol/L dos sais formados pelas reações entre os ácidos e bases citados na tabela:\n1. NaCl\n2. Na(CH COO)\n3\n3. NH (CH COO)\n4 3\n4. NH Cl\n4\nDentre essas soluções, duas que apresentam pH aproximadamente igual a 7 são as de números",
+  "context": "Analise a tabela que fornece valores de constantes de dissociação (K ) de dois ácidos e (K ) de duas bases a 25 ºC.\na b\nÁcido K Base K\na b\nClorídrico Muito Hidróxido de Muito\n(HCl) grande sódio (NaOH) grande\nAcético\n1,8 × 10⁻⁵ Amônia (NH ) 1,8 × 10⁻⁵\n(CH COOH) 3\n3\nConsidere quatro soluções aquosas 0,1 mol/L dos sais formados pelas reações entre os ácidos e bases citados na tabela:\n1. NaCl\n2. Na(CH COO)\n3\n3. NH (CH COO)\n4 3\n4. NH Cl\n4\nDentre essas soluções, duas que apresentam pH aproximadamente igual a 7 são as de números",
   "files": [
     "figura-vetorial-01.png"
   ],
@@ -96,6 +96,31 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2026-fase1-prova.pdf",
+      "sha256": "4e296f765917ccf33391ee94d1bcfc9d8398d06ec87c720cf02a8a3f5f402e8e",
+      "segments": [
+        {
+          "page": 30,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            407.5785
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

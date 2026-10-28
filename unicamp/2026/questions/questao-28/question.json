@@ -87,6 +87,37 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "originalRendering": {
+      "source": "unicamp-2026-fase1-prova.pdf",
+      "sha256": "1bf2a2b2825b75b20831e792175f107ef203da15b30f7f1c9a0ad6080c25d3cc",
+      "segments": [
+        {
+          "page": 12,
+          "bbox": [
+            30,
+            404.5449,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 12,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

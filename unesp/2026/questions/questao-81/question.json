@@ -4,7 +4,7 @@
   "year": 2026,
   "discipline": "Física",
   "language": null,
-  "context": "O uso de janelas eletrocrômicas em edifícios é considerado\numa das mais promissoras formas de economia de energia\nem ambientes fechados. Nessas janelas, a intensidade da\nluz do Sol que é transmitida para o interior das edificações\npode ser controlada, permitindo o ajuste da luminosidade e\nda temperatura nos ambientes internos. O eletrocromismo\nconsiste na mudança das propriedades ópticas de determinado material por meio da aplicação de um estímulo elétrico\nexterno sobre ele.\n(https://www.explainthatstuff.com. Adaptado.)\nConsidere que, quando uma tensão constante de 4 V é aplicada entre as faces de uma janela eletrocrômica, estabelece-\n-se um campo elétrico uniforme no meio que separa essas\nfaces, e que íons de lítio, cada um com uma carga positiva de\n1,6 × 10–19 C, migram através desse meio, movendo-se de um\neletrodo mais próximo da face interna para outro mais próximo\nda face externa da janela. Esse movimento dos íons altera a\ncoloração do meio existente entre os eletrodos, aumentando\na opacidade da janela. Sendo d = 5 mm a distância entre os\neletrodos, a intensidade da força elétrica que atua sobre cada\níon de lítio quando eles se movem nessa janela é de",
+  "context": "O uso de janelas eletrocrômicas em edifícios é considerado\numa das mais promissoras formas de economia de energia\nem ambientes fechados. Nessas janelas, a intensidade da\nluz do Sol que é transmitida para o interior das edificações\npode ser controlada, permitindo o ajuste da luminosidade e\nda temperatura nos ambientes internos. O eletrocromismo\nconsiste na mudança das propriedades ópticas de determinado material por meio da aplicação de um estímulo elétrico\nexterno sobre ele.\n(https://www.explainthatstuff.com. Adaptado.)\nConsidere que, quando uma tensão constante de 4 V é aplicada entre as faces de uma janela eletrocrômica, estabelece-\n-se um campo elétrico uniforme no meio que separa essas\nfaces, e que íons de lítio, cada um com uma carga positiva de\n1,6 × 10⁻¹⁹ C, migram através desse meio, movendo-se de um\neletrodo mais próximo da face interna para outro mais próximo\nda face externa da janela. Esse movimento dos íons altera a\ncoloração do meio existente entre os eletrodos, aumentando\na opacidade da janela. Sendo d = 5 mm a distância entre os\neletrodos, a intensidade da força elétrica que atua sobre cada\níon de lítio quando eles se movem nessa janela é de",
   "files": [
     "figura-vetorial-01.png"
   ],
@@ -12,31 +12,31 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "2,56 × 10–16 N.",
+      "text": "2,56 × 10⁻¹⁶ N.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "6,40 × 10–19 N.",
+      "text": "6,40 × 10⁻¹⁹ N.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "1,28 × 10–16 N.",
+      "text": "1,28 × 10⁻¹⁶ N.",
       "file": null,
       "isCorrect": true
     },
     {
       "letter": "D",
-      "text": "4,00 × 102 N.",
+      "text": "4,00 × 10² N.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "E",
-      "text": "8,00 × 102 N.",
+      "text": "8,00 × 10² N.",
       "file": null,
       "isCorrect": false
     }
@@ -106,6 +106,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2026-fase1-prova.pdf",
+      "sha256": "4e296f765917ccf33391ee94d1bcfc9d8398d06ec87c720cf02a8a3f5f402e8e",
+      "segments": [
+        {
+          "page": 34,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 34,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

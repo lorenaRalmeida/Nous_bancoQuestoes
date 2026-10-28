@@ -4,7 +4,7 @@
   "year": 2026,
   "discipline": "Química",
   "language": null,
-  "context": "Chumbo vira ouro de verdade — ou quase de verdade\nPela primeira vez, colisões entre núcleos de chumbo,\nacelerados até velocidades altíssimas no maior colisor de\npartículas do mundo, geraram campos eletromagnéticos intensos o suficiente para eliminar prótons e transformar chumbo em ouro. Isso não significa que teremos uma fábrica de\nouro, já que as quantidades produzidas são mínimas e o ouro\nproduzido nem mesmo pode ser coletado, porque se desfaz\nem frações de segundo.\nDurante quatro anos de colisões, foram criados 86 bilhões\nde núcleos de ouro nos quatro experimentos principais. Em\ntermos de massa, isso corresponde a apenas 29 picogramas\n(2,9 × 10–11g). Mas não é isso o que importa, porque este é um\nfeito de grande significado para a história da ciência.\n(www.inovacaotecnologica.com.br. Adaptado.)\nO número total de prótons que foram eliminados dos núcleos\nde chumbo durante quatro anos de colisões foi de",
+  "context": "Chumbo vira ouro de verdade — ou quase de verdade\nPela primeira vez, colisões entre núcleos de chumbo,\nacelerados até velocidades altíssimas no maior colisor de\npartículas do mundo, geraram campos eletromagnéticos intensos o suficiente para eliminar prótons e transformar chumbo em ouro. Isso não significa que teremos uma fábrica de\nouro, já que as quantidades produzidas são mínimas e o ouro\nproduzido nem mesmo pode ser coletado, porque se desfaz\nem frações de segundo.\nDurante quatro anos de colisões, foram criados 86 bilhões\nde núcleos de ouro nos quatro experimentos principais. Em\ntermos de massa, isso corresponde a apenas 29 picogramas\n(2,9 × 10⁻¹¹g). Mas não é isso o que importa, porque este é um\nfeito de grande significado para a história da ciência.\n(www.inovacaotecnologica.com.br. Adaptado.)\nO número total de prótons que foram eliminados dos núcleos\nde chumbo durante quatro anos de colisões foi de",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
@@ -95,6 +95,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2026-fase1-prova.pdf",
+      "sha256": "4e296f765917ccf33391ee94d1bcfc9d8398d06ec87c720cf02a8a3f5f402e8e",
+      "segments": [
+        {
+          "page": 29,
+          "bbox": [
+            30,
+            469.4754,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 29,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

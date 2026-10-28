@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 1",
+  "index": 1,
+  "year": 2026,
+  "discipline": "Matemática",
+  "context": "Quanto é 20% de 150?",
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "15"
+    },
+    {
+      "letter": "B",
+      "text": "20"
+    },
+    {
+      "letter": "C",
+      "text": "30"
+    },
+    {
+      "letter": "D",
+      "text": "50"
+    }
+  ]
+}

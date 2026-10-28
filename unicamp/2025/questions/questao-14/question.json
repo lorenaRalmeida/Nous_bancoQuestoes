@@ -4,7 +4,7 @@
   "year": 2025,
   "discipline": "Física",
   "language": null,
-  "context": "Texto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções\nenergéticas de desenvolvimento sustentável: além de fazer uso\nde tecnologia pouco agressiva ao ambiente, é uma enorme fonte de energia renovável.\n\nA área de um painel solar que gera uma potência elétrica\nP = 462 W é A = 2,5 m2. A intensidade da radiação solar que\nincide no painel, ou seja, a potência da radiação solar por unidade de área do painel, é I = 924 W/m2. Qual é a eficiência\nsolar\ndo painel solar, ou seja, qual é a razão entre a energia elétrica\ngerada e a energia solar que incide no painel num dado intervalo de tempo?",
+  "context": "Texto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções\nenergéticas de desenvolvimento sustentável: além de fazer uso\nde tecnologia pouco agressiva ao ambiente, é uma enorme fonte de energia renovável.\n\nA área de um painel solar que gera uma potência elétrica\nP = 462 W é A = 2,5 m². A intensidade da radiação solar que\nincide no painel, ou seja, a potência da radiação solar por unidade de área do painel, é I = 924 W/m². Qual é a eficiência\nsolar\ndo painel solar, ou seja, qual é a razão entre a energia elétrica\ngerada e a energia solar que incide no painel num dado intervalo de tempo?",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
@@ -97,6 +97,51 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2025-fase1-prova.pdf",
+      "sha256": "41564e9bbd20e03a9b62356c0ccf29b6070bf615b9ac8ecfe660021548cd0710",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            131.9357
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            513.2711999999999,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            40,
+            568,
+            47.023900000000026
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

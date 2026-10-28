@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 8",
+  "index": 8,
+  "year": 2026,
+  "discipline": "Química",
+  "context": "Qual é a fórmula molecular da água?",
+  "correctAlternative": "C",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "CO2"
+    },
+    {
+      "letter": "B",
+      "text": "O2"
+    },
+    {
+      "letter": "C",
+      "text": "H2O"
+    },
+    {
+      "letter": "D",
+      "text": "NaCl"
+    }
+  ]
+}

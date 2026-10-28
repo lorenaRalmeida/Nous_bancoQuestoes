@@ -4,7 +4,7 @@
   "year": 2023,
   "discipline": "Matemática",
   "language": null,
-  "context": "Em um município, a conta de água residencial é composta\npor um valor fixo de R$ 4,00 somado a um valor variável,\nde acordo com o consumo de água da residência. O valor\nvariável é composto da seguinte forma: M reais por m3 de\nágua até o consumo de 12 m3 e N reais por m3 de água que\nexceda 12 m3. O gráfico descreve a composição do valor da\nconta de água residencial nesse município.\nA análise dessas informações permite concluir que os valores,\nem reais, de M e N são, respectivamente,",
+  "context": "Em um município, a conta de água residencial é composta\npor um valor fixo de R$ 4,00 somado a um valor variável,\nde acordo com o consumo de água da residência. O valor\nvariável é composto da seguinte forma: M reais por m³ de\nágua até o consumo de 12 m³ e N reais por m³ de água que\nexceda 12 m³. O gráfico descreve a composição do valor da\nconta de água residencial nesse município.\nA análise dessas informações permite concluir que os valores,\nem reais, de M e N são, respectivamente,",
   "files": [
     "figura-vetorial-01.png"
   ],
@@ -111,6 +111,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2023-fase1-prova.pdf",
+      "sha256": "d08b8daf2570f63174b8a01c48dfe6c7e40e01dc989b1d1974a8b9c115be171d",
+      "segments": [
+        {
+          "page": 31,
+          "bbox": [
+            30,
+            27.526499999999942,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 31,
+          "bbox": [
+            304,
+            22,
+            568,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

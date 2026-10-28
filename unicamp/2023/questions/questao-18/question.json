@@ -4,7 +4,7 @@
   "year": 2023,
   "discipline": "Química",
   "language": null,
-  "context": "A caiação ou pintura com cal hidratada (Ca(OH) ) é uma das\n2\nformas mais antigas para o revestimento da fachada de edifícios. A cal virgem (CaO) – produzida a partir do aquecimento\ndo calcário (CaCO ) –, ao ser colocada em água, forma a cal\n3\n)Lm/gn(\namsalp\non\nanitociN\nIndivíduo X\nIndivíduo Y\nIndivíduo Z\nTempo após a inalação (min)\nhidratada que, uma vez aplicada à parede e em contato com o\nCO do ar atmosférico, vai se transformando em seu precursor,\n2\no carbonato de cálcio. Dessa forma, o carbonato de cálcio fica\naderido à parede, protegendo-a, conservando-a e embelezando-a.\nConsidere as equações a seguir:\ni) CaCO → CaO + CO ; ∆H = 178 kJ/mol\n3 2\nii) CaO + H O → Ca(OH) ; ∆H = -109 kJ/mol\n2 2\niii) Ca(OH) + CO → CaCO + H O ; ∆H= ?\n2 2 3 2\nLevando em conta apenas as equações do processo de transformação e produção do carbonato de cálcio (equações i a iii),\npode-se afirmar que o processo",
+  "context": "A caiação ou pintura com cal hidratada (Ca(OH)₂) é uma das\nformas mais antigas para o revestimento da fachada de edifícios. A cal virgem (CaO) – produzida a partir do aquecimento\ndo calcário (CaCO₃) –, ao ser colocada em água, forma a cal\nhidratada que, uma vez aplicada à parede e em contato com o\nCO₂ do ar atmosférico, vai se transformando em seu precursor,\no carbonato de cálcio. Dessa forma, o carbonato de cálcio fica\naderido à parede, protegendo-a, conservando-a e embelezando-a.\nConsidere as equações a seguir:\ni) CaCO₃ → CaO + CO₂; ΔH = 178 kJ/mol\nii) CaO + H₂O → Ca(OH)₂; ΔH = −109 kJ/mol\niii) Ca(OH)₂ + CO₂ → CaCO₃ + H₂O; ΔH = ?\nLevando em conta apenas as equações do processo de transformação e produção do carbonato de cálcio (equações i a iii),\npode-se afirmar que o processo",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
@@ -87,6 +87,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2023-fase1-prova.pdf",
+      "sha256": "520cf58ec2d0b431991188ab0d36c9227e234dcee3dbab6eb47e4f0a2af6a816",
+      "segments": [
+        {
+          "page": 8,
+          "bbox": [
+            304,
+            734.4615,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 9,
+          "bbox": [
+            30,
+            40,
+            291,
+            460.611
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

@@ -4,7 +4,7 @@
   "year": 2024,
   "discipline": "Física",
   "language": null,
-  "context": "Texto comum às questões 34, 35, 36 e 37.\nUma das etapas mais difíceis de um voo espacial tripulado é a\nreentrada na atmosfera terrestre. Ao reencontrar as camadas\nmais altas da atmosfera, a nave sofre forte desaceleração e sua\ntemperatura externa atinge milhares de graus Celsius. Caso a\nreentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo\nrisco de ela ser lançada de volta ao espaço.\n\nA temperatura extremamente elevada no exterior da cápsula\nioniza o ar atmosférico à sua volta. Esses íons blindam a cápsula\ncomo uma gaiola de Faraday, impedindo, por alguns minutos,\na comunicação por ondas eletromagnéticas de rádio (conversas\nentre a tripulação e a base na Terra, comandos à distância para\najustes de navegação, etc.). O gráfico da figura a seguir mostra\nque, quanto maior a temperatura do ar externo, T , maior é a\nar\nfrequência limite da onda eletromagnética, f , abaixo da qual\n0\nnão se pode estabelecer comunicação com a cápsula. Se a temperatura do ar for T = 4800 K, qual é o comprimento de onda\nar\nλ correspondente à frequência limite f ?\n0 0\nDado: Velocidade da luz no vácuo: c = 3,0 ×108 m/s.",
+  "context": "Texto comum às questões 34, 35, 36 e 37.\nUma das etapas mais difíceis de um voo espacial tripulado é a\nreentrada na atmosfera terrestre. Ao reencontrar as camadas\nmais altas da atmosfera, a nave sofre forte desaceleração e sua\ntemperatura externa atinge milhares de graus Celsius. Caso a\nreentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo\nrisco de ela ser lançada de volta ao espaço.\n\nA temperatura extremamente elevada no exterior da cápsula\nioniza o ar atmosférico à sua volta. Esses íons blindam a cápsula\ncomo uma gaiola de Faraday, impedindo, por alguns minutos,\na comunicação por ondas eletromagnéticas de rádio (conversas\nentre a tripulação e a base na Terra, comandos à distância para\najustes de navegação, etc.). O gráfico da figura a seguir mostra\nque, quanto maior a temperatura do ar externo, T , maior é a\nar\nfrequência limite da onda eletromagnética, f , abaixo da qual\n0\nnão se pode estabelecer comunicação com a cápsula. Se a temperatura do ar for T = 4800 K, qual é o comprimento de onda\nar\nλ correspondente à frequência limite f ?\n0 0\nDado: Velocidade da luz no vácuo: c = 3,0 ×10⁸ m/s.",
   "files": [
     "imagem-01.png",
     "imagem-02.png"
@@ -100,6 +100,51 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2024-fase1-prova.pdf",
+      "sha256": "f6c8212438d9f603c3847e0dc33c4c812c7ec5efc402a06ba6ca2382bb1cf288",
+      "segments": [
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            70.64890000000003,
+            291,
+            181.25670000000002
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            30,
+            653.4693,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 14,
+          "bbox": [
+            304,
+            40,
+            568,
+            329.7634
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

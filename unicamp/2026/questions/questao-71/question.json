@@ -4,7 +4,7 @@
   "year": 2026,
   "discipline": "Química",
   "language": null,
-  "context": "A Agência Nacional do Petróleo (ANP) é responsável por implementar a política nacional de combustíveis e proteger os interesses dos consumidores quanto a preço, qualidade e oferta\nde produtos, além de especificar a qualidade dos derivados de\npetróleo, do gás natural e de seus derivados e dos biocombustíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica\nalgumas características do Etanol Anidro Combustível (EAC),\ndo Etanol Hidratado Combustível (EHC) e do Etanol Hidratado\nCombustível Premium (EHCP). Algumas dessas características\nestão na tabela a seguir e nas alternativas.\nMassa Específica Teor Alcoólico\nCombustível\n(kg/m3) (% massa)\nEAC 791,5 (a) 99,3 (b)\nEHC (c) entre 92,5 e 94,6\nEHCP (d) entre 95,5 e 96,5\n(Adaptado da Resolução ANP nº 907 de 18/11/2022.)\nConsiderando que água e etanol formam uma mistura ideal,\npara preencher corretamente essa tabela, as letras a, b, c e d\ndevem corresponder, respectivamente, a",
+  "context": "A Agência Nacional do Petróleo (ANP) é responsável por implementar a política nacional de combustíveis e proteger os interesses dos consumidores quanto a preço, qualidade e oferta\nde produtos, além de especificar a qualidade dos derivados de\npetróleo, do gás natural e de seus derivados e dos biocombustíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica\nalgumas características do Etanol Anidro Combustível (EAC),\ndo Etanol Hidratado Combustível (EHC) e do Etanol Hidratado\nCombustível Premium (EHCP). Algumas dessas características\nestão na tabela a seguir e nas alternativas.\nMassa Específica Teor Alcoólico\nCombustível\n(kg/m³) (% massa)\nEAC 791,5 (a) 99,3 (b)\nEHC (c) entre 92,5 e 94,6\nEHCP (d) entre 95,5 e 96,5\n(Adaptado da Resolução ANP nº 907 de 18/11/2022.)\nConsiderando que água e etanol formam uma mistura ideal,\npara preencher corretamente essa tabela, as letras a, b, c e d\ndevem corresponder, respectivamente, a",
   "files": [
     "figura-vetorial-01.png"
   ],
@@ -100,6 +100,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2026-fase1-prova.pdf",
+      "sha256": "1bf2a2b2825b75b20831e792175f107ef203da15b30f7f1c9a0ad6080c25d3cc",
+      "segments": [
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            474.3822,
+            291,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            304,
+            40,
+            568,
+            94.52599999999995
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

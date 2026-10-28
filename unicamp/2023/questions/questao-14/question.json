@@ -4,11 +4,11 @@
   "year": 2023,
   "discipline": "Química",
   "language": null,
-  "context": "Leia os textos 1 e 2, a seguir, para responder às questões 14\ne 15.\nTexto 1\nA Química Verde é uma área multidisciplinar que cria, desenvolve e aplica produtos e processos químicos que visam à redução ou eliminação do uso e da geração de substâncias nocivas\nao meio ambiente e ao homem. Em 2019, para reunir várias\nações relativas à Química Verde, os pesquisadores Paul T. Anastas e Julie B. Zimmerman propuseram a Tabela Periódica dos\nElementos Figurativos da Química Verde e Sustentável – TPQVS\n(figura abaixo). Assim como na Tabela Periódica dos Elementos\nQuímicos, a TPQVS apresenta “elementos”, os quais, porém,\nrepresentam ações associadas aos preceitos da Química Verde,\nsendo que cada grupo (G) da TPQVS reúne ações com os mesmos preceitos.\nTexto 2\n“A Química é pura beleza;\nOs átomos e as moléculas são a realeza,\nreagindo no compasso da natureza\npara transformar o mundo com delicadeza.\nSou um simples menestrel da ciência\nque defende suas ideias com veemência.\nComo Químico, quero atuar com sapiência,\ndesenvolvendo processos de alta eficiência.\nA Química não é mais poluição;\npara o fóssil ela tem a substituição;\nrenovando o verde como solução.\nVivemos num tempo de ambiguidade,\nonde a terra, a água e o ar estão em vulnerabilidade.\nFaçamos da Química o caminho para a sustentabilidade”\n(MOTA, Claudio J. A. Conferência de Abertura da 45ª. Reunião Anual da Sociedade Brasileira de Química, 2022.)\n\nUm dos princípios da Química Verde, ilustrado por um dos grupos na TPQVS (texto I), é a economia atômica, dada pela razão\nda massa do produto de interesse pela massa total dos reagentes, sendo que quanto mais próximo de 1 é seu valor, maior é a\neconomia atômica. Considerando as reações de produção dos\ndois principais biocombustíveis utilizados no contexto brasileiro,\nSíntese do biodiesel:\nC H O + 3 C H OH → 3 C H O + C H O\n57 104 6 2 5 20 38 2 3 8 3\nSíntese do etanol:\nC H O + H O → 4 C H OH + 4 CO\n12 22 11 2 2 5 2\npode-se afirmar que há uma maior economia de átomos e",
+  "context": "Leia os textos 1 e 2, a seguir, para responder às questões 14\ne 15.\nTexto 1\nA Química Verde é uma área multidisciplinar que cria, desenvolve e aplica produtos e processos químicos que visam à redução ou eliminação do uso e da geração de substâncias nocivas\nao meio ambiente e ao homem. Em 2019, para reunir várias\nações relativas à Química Verde, os pesquisadores Paul T. Anastas e Julie B. Zimmerman propuseram a Tabela Periódica dos\nElementos Figurativos da Química Verde e Sustentável – TPQVS\n(figura abaixo). Assim como na Tabela Periódica dos Elementos\nQuímicos, a TPQVS apresenta “elementos”, os quais, porém,\nrepresentam ações associadas aos preceitos da Química Verde,\nsendo que cada grupo (G) da TPQVS reúne ações com os mesmos preceitos.\nTexto 2\n“A Química é pura beleza;\nOs átomos e as moléculas são a realeza,\nreagindo no compasso da natureza\npara transformar o mundo com delicadeza.\nSou um simples menestrel da ciência\nque defende suas ideias com veemência.\nComo Químico, quero atuar com sapiência,\ndesenvolvendo processos de alta eficiência.\nA Química não é mais poluição;\npara o fóssil ela tem a substituição;\nrenovando o verde como solução.\nVivemos num tempo de ambiguidade,\nonde a terra, a água e o ar estão em vulnerabilidade.\nFaçamos da Química o caminho para a sustentabilidade”\n(MOTA, Claudio J. A. Conferência de Abertura da 45ª. Reunião Anual da Sociedade Brasileira de Química, 2022.)\n\nUm dos princípios da Química Verde, ilustrado por um dos grupos na TPQVS (texto I), é a economia atômica, dada pela razão\nda massa do produto de interesse pela massa total dos reagentes, sendo que quanto mais próximo de 1 é seu valor, maior é a\neconomia atômica. Considerando as reações de produção dos\ndois principais biocombustíveis utilizados no contexto brasileiro,\nSíntese do biodiesel:\nC₅₇H₁₀₄O₆ + 3 C₂H₅OH → 3 C₂₀H₃₈O₂ + C₃H₈O₃\nSíntese do etanol:\nC₁₂H₂₂O₁₁ + H₂O → 4 C₂H₅OH + 4 CO₂\npode-se afirmar que há uma maior economia de átomos e",
   "files": [
     "imagem-01.png"
   ],
-  "alternativesIntroduction": null,
+  "alternativesIntroduction": "Dados de massa molar (g/mol): C₅₇H₁₀₄O₆ = 884; C₂H₅OH = 46; C₂₀H₃₈O₂ = 310; C₃H₈O₃ = 92; C₁₂H₂₂O₁₁ = 342; H₂O = 18; CO₂ = 44.",
   "alternatives": [
     {
       "letter": "A",
@@ -30,7 +30,7 @@
     },
     {
       "letter": "D",
-      "text": "menor geração de subprodutos (mol de subprodutos/ mol\nde substrato) na síntese do biodiesel.\nDados de Massa Molar (g/mol): C H O = 884; C H OH = 46;\n57 104 6 2 5\nC H O = 310; C H O = 92; C H O = 342; H O = 18; CO\n20 38 2 3 8 3 12 22 11 2 2\n= 44.",
+      "text": "menor geração de subprodutos (mol de subprodutos/ mol\nde substrato) na síntese do biodiesel.",
       "file": null,
       "isCorrect": true
     }
@@ -101,6 +101,51 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2023-fase1-prova.pdf",
+      "sha256": "520cf58ec2d0b431991188ab0d36c9227e234dcee3dbab6eb47e4f0a2af6a816",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            360.0822,
+            291,
+            807
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            40,
+            568,
+            220.73389999999995
+          ],
+          "role": "shared"
+        },
+        {
+          "page": 7,
+          "bbox": [
+            304,
+            220.73389999999995,
+            568,
+            609.6001
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

@@ -4,7 +4,7 @@
   "year": 2023,
   "discipline": "Química",
   "language": null,
-  "context": "Um artigo científico relata a construção e a eficiência de um reator fotocatalítico de fluxo contínuo para a degradação de hormônios presentes em águas tratadas para consumo humano.\nNum trecho desse estudo, os autores afirmam: “é interessante\nnotar que 80% de estrogênio foram removidos numa alimentação a 200 ng/L, 25 mW/cm2 e 300 L/(m2 h), enquanto que as\nremoções de progesterona e testosterona ficaram em 44% e\n33%, respectivamente”.\nDe acordo com essas informações, pode-se inferir que o reator\né capaz de degradar",
+  "context": "Um artigo científico relata a construção e a eficiência de um reator fotocatalítico de fluxo contínuo para a degradação de hormônios presentes em águas tratadas para consumo humano.\nNum trecho desse estudo, os autores afirmam: “é interessante\nnotar que 80% de estrogênio foram removidos numa alimentação a 200 ng/L, 25 mW/cm² e 300 L/(m² h), enquanto que as\nremoções de progesterona e testosterona ficaram em 44% e\n33%, respectivamente”.\nDe acordo com essas informações, pode-se inferir que o reator\né capaz de degradar",
   "files": [],
   "alternativesIntroduction": null,
   "alternatives": [
@@ -77,6 +77,31 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unicamp-2023-fase1-prova.pdf",
+      "sha256": "520cf58ec2d0b431991188ab0d36c9227e234dcee3dbab6eb47e4f0a2af6a816",
+      "segments": [
+        {
+          "page": 7,
+          "bbox": [
+            30,
+            47.023900000000026,
+            291,
+            360.0822
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }

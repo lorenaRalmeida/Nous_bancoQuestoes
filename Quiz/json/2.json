@@ -1,0 +1,26 @@
+{
+  "title": "Quiz · Questão 2",
+  "index": 2,
+  "year": 2026,
+  "discipline": "Matemática",
+  "context": "Se 2x + 6 = 14, qual é o valor de x?",
+  "correctAlternative": "B",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2"
+    },
+    {
+      "letter": "B",
+      "text": "4"
+    },
+    {
+      "letter": "C",
+      "text": "6"
+    },
+    {
+      "letter": "D",
+      "text": "8"
+    }
+  ]
+}

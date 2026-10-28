@@ -10,31 +10,31 @@
   "alternatives": [
     {
       "letter": "A",
-      "text": "10 e 4 × 10–3.",
+      "text": "10 e 4 × 10⁻³.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "1 e 1 × 10– 5.",
+      "text": "1 e 1 × 10⁻⁵.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "10 e 1 × 10–1.",
+      "text": "10 e 1 × 10⁻¹.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "D",
-      "text": "1 e 4 × 10– 4.",
+      "text": "1 e 4 × 10⁻⁴.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "E",
-      "text": "1 e 4 × 10–3.",
+      "text": "1 e 4 × 10⁻³.",
       "file": null,
       "isCorrect": true
     }
@@ -93,6 +93,41 @@
       "answerChecked": true,
       "disciplineAssigned": true,
       "localFilesPresent": true
+    },
+    "displayRevision": {
+      "date": "2026-10-28",
+      "notes": "Notação científica, índices ou contexto comum corrigidos; rawText original preservado."
+    },
+    "originalRendering": {
+      "source": "unesp-2025-fase1-prova.pdf",
+      "sha256": "c3f177176d93cbbcf91397e1ad1e5dc638842a2ac7a611fde8b83b1dc5128e93",
+      "segments": [
+        {
+          "page": 25,
+          "bbox": [
+            304,
+            404.7173,
+            568,
+            807
+          ],
+          "role": "question"
+        },
+        {
+          "page": 26,
+          "bbox": [
+            30,
+            22,
+            291,
+            27.526499999999942
+          ],
+          "role": "question"
+        }
+      ],
+      "scale": 2.5,
+      "notes": "Versão visual conferida com o PDF original; preserva fórmulas, fontes, figuras e textos comuns."
     }
-  }
+  },
+  "originalFiles": [
+    "questao-original.webp"
+  ]
 }
