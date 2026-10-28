@@ -1,27 +1,29 @@
 <?php
+// pra não dar problema de sessão
 include('conexao.php');
-session_start();
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 
 $mensagem_login = "";
 $mensagem_cadastro = "";
 $tipo_mensagem = "";
-$mostrar_cadastro = false;
+$mostrar_cadastro = false; 
 
-// Mensagem após cadastro concluído.
+// se o cadastro ocorreu com sucesso, força a exibição da tela de login com a mensagem verde
 if (isset($_GET['cadastro']) && $_GET['cadastro'] === 'sucesso') {
-    $mensagem_cadastro = "Conta criada com sucesso! Faça login abaixo.";
+    $mensagem_login = "Conta criada com sucesso! Faça login abaixo com seu e-mail e senha.";
     $tipo_mensagem = "sucesso";
+    $mostrar_cadastro = false;
 }
 
-// Processa o formulário de login.
+// formulário de login
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['acao'] === 'login') {
     $email = trim($_POST['email'] ?? '');
     $senha = $_POST['senha'] ?? '';
 
-    if ($email !== '' && $senha !== '') {
-        $sql = "SELECT id, nome, senha FROM usuarios WHERE email = ?";
-        $stmt = $conn->prepare($sql);
-
+    if (!empty($email) && !empty($senha)) {
+        $stmt = $conn->prepare("SELECT id, nome, senha FROM usuarios WHERE email = ?");
         if ($stmt) {
             $stmt->bind_param("s", $email);
             $stmt->execute();
@@ -30,7 +32,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
             if ($resultado && $resultado->num_rows === 1) {
                 $usuario = $resultado->fetch_assoc();
 
-                // Confere a senha armazenada como hash.
                 if (password_verify($senha, $usuario['senha'])) {
                     session_regenerate_id(true);
                     $_SESSION['usuario_id'] = $usuario['id'];
@@ -44,28 +45,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
             } else {
                 $mensagem_login = "E-mail não encontrado!";
             }
-
             $stmt->close();
-        } else {
-            $mensagem_login = "Não foi possível processar o login. Tente novamente.";
         }
     } else {
         $mensagem_login = "Preencha todos os campos!";
     }
 }
 
-// Processa o formulário de cadastro.
+// processa o formulário de cadastro
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['acao'] === 'cadastro') {
-    $mostrar_cadastro = true;
+    $mostrar_cadastro = true; // se der erro, mantém na aba de cadastro
     $nome = trim($_POST['nome'] ?? '');
     $email = trim($_POST['email'] ?? '');
     $senha = $_POST['senha'] ?? '';
 
-    if ($nome !== '' && $email !== '' && $senha !== '') {
-        // Verifica se o e-mail já está cadastrado.
-        $sqlCheck = "SELECT id FROM usuarios WHERE email = ?";
-        $stmtCheck = $conn->prepare($sqlCheck);
-
+    if (!empty($nome) && !empty($email) && !empty($senha)) {
+        $stmtCheck = $conn->prepare("SELECT id FROM usuarios WHERE email = ?");
         if ($stmtCheck) {
             $stmtCheck->bind_param("s", $email);
             $stmtCheck->execute();
@@ -78,24 +73,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
             } else {
                 $stmtCheck->close();
 
-                // Armazena somente o hash da senha, nunca a senha em texto puro.
                 $senhaHash = password_hash($senha, PASSWORD_DEFAULT);
-
-                $sqlInsert = "INSERT INTO usuarios (nome, email, senha) VALUES (?, ?, ?)";
-                $stmtInsert = $conn->prepare($sqlInsert);
+                $stmtInsert = $conn->prepare("INSERT INTO usuarios (nome, email, senha) VALUES (?, ?, ?)");
 
                 if ($stmtInsert) {
                     $stmtInsert->bind_param("sss", $nome, $email, $senhaHash);
 
                     if ($stmtInsert->execute()) {
                         $stmtInsert->close();
+                        // redireciona para a tela de login com sucesso
                         header("Location: login.php?cadastro=sucesso");
                         exit;
                     } else {
                         $mensagem_cadastro = "Erro ao cadastrar. Tente novamente.";
                         $tipo_mensagem = "erro";
                     }
-
                     $stmtInsert->close();
                 } else {
                     $mensagem_cadastro = "Erro ao preparar o cadastro. Tente novamente.";
@@ -127,7 +119,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
 </head>
 <body class="auth-body">
   <script>
-    // Aplica o tema salvo pelo usuário antes de exibir a página.
     try {
       if (localStorage.getItem('nous-theme') === 'dark') {
         document.body.classList.add('dark');
@@ -160,19 +151,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
           <img src="logo-nous-escuro.png" alt="Logo Nous" class="logo-img logo-for-dark">
         </div>
 
-        <!-- TELA DE LOGIN -->
-        <div id="login-box" <?= $mostrar_cadastro ? 'style="display:none;"' : '' ?>>
+        <!-- tela de login -->
+        <div id="login-box" style="<?= $mostrar_cadastro ? 'display:none;' : 'display:block;' ?>">
           <div class="auth-header">
             <h1>Entrar na conta</h1>
             <p>Ainda não tem conta? <a href="#cadastro" onclick="toggleAuth(event)">Cadastre-se grátis</a></p>
           </div>
 
-          <?php if ($mensagem_login !== ''): ?>
-            <p class="auth-message auth-message-error" role="alert"><?= htmlspecialchars($mensagem_login, ENT_QUOTES, 'UTF-8') ?></p>
+          <?php if ($mensagem_login !== '' && $tipo_mensagem !== 'sucesso'): ?>
+            <p class="auth-message auth-message-error" role="alert" style="color: #e74c3c; background: rgba(231, 76, 60, 0.1); padding: 10px; border-radius: 8px; margin-bottom: 15px; font-weight: 600; font-size: 14px;"><?= htmlspecialchars($mensagem_login, ENT_QUOTES, 'UTF-8') ?></p>
           <?php endif; ?>
 
-          <?php if ($mensagem_cadastro !== '' && $tipo_mensagem === 'sucesso'): ?>
-            <p class="auth-message auth-message-success" role="status"><?= htmlspecialchars($mensagem_cadastro, ENT_QUOTES, 'UTF-8') ?></p>
+          <?php if ($mensagem_login !== '' && $tipo_mensagem === 'sucesso'): ?>
+            <p class="auth-message auth-message-success" role="status" style="color: #27ae60; background: rgba(39, 174, 96, 0.1); padding: 10px; border-radius: 8px; margin-bottom: 15px; font-weight: 600; font-size: 14px;"><?= htmlspecialchars($mensagem_login, ENT_QUOTES, 'UTF-8') ?></p>
           <?php endif; ?>
 
           <form action="login.php" method="POST">
@@ -182,7 +173,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
               <label for="login-email">E-mail</label>
               <div class="form-input-wrap">
                 <i class="fa-regular fa-envelope" aria-hidden="true"></i>
-                <input id="login-email" type="email" name="email" placeholder="seu@email.com" autocomplete="email" required>
+                <input id="login-email" type="email" name="email" placeholder="seu@email.com" autocomplete="off" required>
               </div>
             </div>
 
@@ -190,7 +181,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
               <label for="login-password">Senha</label>
               <div class="form-input-wrap">
                 <i class="fa-solid fa-lock" aria-hidden="true"></i>
-                <input id="login-password" type="password" name="senha" placeholder="Sua senha" autocomplete="current-password" required>
+                <input id="login-password" type="password" name="senha" placeholder="Sua senha" autocomplete="off" required>
               </div>
             </div>
 
@@ -201,18 +192,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
           <button class="btn-social" type="button"><i class="fa-brands fa-google" style="color:#DB4437" aria-hidden="true"></i> Continuar com Google</button>
         </div>
 
-        <!-- TELA DE CADASTRO -->
-        <div id="register-box" <?= $mostrar_cadastro ? '' : 'style="display:none;"' ?>>
+        <!-- tela de cadastro -->
+        <div id="register-box" style="<?= $mostrar_cadastro ? 'display:block;' : 'display:none;' ?>">
           <div class="auth-header">
             <h1>Criar conta</h1>
             <p>Já tem uma conta? <a href="login.php" onclick="toggleAuth(event)">Faça login</a></p>
           </div>
 
           <?php if ($mensagem_cadastro !== '' && $tipo_mensagem === 'erro'): ?>
-            <p class="auth-message auth-message-error" role="alert"><?= htmlspecialchars($mensagem_cadastro, ENT_QUOTES, 'UTF-8') ?></p>
+            <p class="auth-message auth-message-error" role="alert" style="color: #e74c3c; background: rgba(231, 76, 60, 0.1); padding: 10px; border-radius: 8px; margin-bottom: 15px; font-weight: 600; font-size: 14px;"><?= htmlspecialchars($mensagem_cadastro, ENT_QUOTES, 'UTF-8') ?></p>
           <?php endif; ?>
 
-          <form action="login.php#cadastro" method="POST">
+          <!-- importante: action aponta apenas para login.php para o redirecionamento funcionar -->
+          <form action="login.php" method="POST">
             <input type="hidden" name="acao" value="cadastro">
 
             <div class="form-group">
@@ -254,7 +246,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
     function updateThemeIcon() {
       const icon = document.querySelector('.auth-theme-btn i');
       const button = document.querySelector('.auth-theme-btn');
-
       if (!icon || !button) return;
 
       const dark = document.body.classList.contains('dark');
@@ -265,11 +256,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
 
     function toggleTheme() {
       const dark = document.body.classList.toggle('dark');
-
       try {
         localStorage.setItem('nous-theme', dark ? 'dark' : 'light');
       } catch (erro) {}
-
       updateThemeIcon();
     }
 
@@ -278,26 +267,38 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['acao']) && $_POST['ac
 
       const login = document.getElementById('login-box');
       const register = document.getElementById('register-box');
-      const mostrarCadastro = login.style.display !== 'none';
 
-      login.style.display = mostrarCadastro ? 'none' : 'block';
-      register.style.display = mostrarCadastro ? 'block' : 'none';
+      const isLoginVisible = login.style.display !== 'none';
 
-      if (mostrarCadastro) {
+      if (isLoginVisible) {
+        login.style.display = 'none';
+        register.style.display = 'block';
         history.replaceState(null, '', '#cadastro');
       } else {
+        login.style.display = 'block';
+        register.style.display = 'none';
         history.replaceState(null, '', location.pathname);
       }
     }
 
-    // Abre o cadastro quando o endereço termina em #cadastro ou quando
-    // o PHP devolve a página após um erro de cadastro.
-    if (window.location.hash === '#cadastro') {
-      document.getElementById('login-box').style.display = 'none';
-      document.getElementById('register-box').style.display = 'block';
-    }
+    window.onload = function() {
+      // se veio do botão sair, limpa os inputs de login
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.has('logout')) {
+        const emailInput = document.getElementById('login-email');
+        const senhaInput = document.getElementById('login-password');
+        if (emailInput) emailInput.value = '';
+        if (senhaInput) senhaInput.value = '';
+      }
 
-    updateThemeIcon();
+      // se a url tiver #cadastro (e não for sucesso de cadastro), abre o painel de cadastro
+      if (window.location.hash === '#cadastro' && !urlParams.has('cadastro')) {
+        document.getElementById('login-box').style.display = 'none';
+        document.getElementById('register-box').style.display = 'block';
+      }
+
+      updateThemeIcon();
+    }
   </script>
 </body>
 </html>
